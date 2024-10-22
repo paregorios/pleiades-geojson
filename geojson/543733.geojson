@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Ipneis",
   "id": "543733",
-  "description": "An ancient place, cited: BAtlas 55 unlocated Ipneis",
+  "description": "A site in E Locris Ozolia, or ethnic related to Hypnia.",
+  "connectsWith": [
+    "540828"
+  ],
   "names": [
     "Ipneis"
   ],

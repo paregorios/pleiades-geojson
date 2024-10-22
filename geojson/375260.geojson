@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Qasr Wurtij",
   "id": "375260",
   "bbox": [
-    22.1614,
-    32.5971,
-    22.1614,
-    32.5971
+    22.1571161,
+    32.5887806,
+    22.1573301,
+    32.5889777
   ],
-  "description": "An ancient place, cited: BAtlas 38 D1 no. 24 (Gasr Uertig)",
+  "description": "Qasr Wurtij (also Gasr Uertig) is a fortified Roman site located in Cyrene.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.1614,
-          32.5971
+          22.1572231103,
+          32.5888791279
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.1614,
-          32.5971
+          [
+            22.1572355,
+            32.5889777
+          ],
+          [
+            22.1573301,
+            32.5889202
+          ],
+          [
+            22.1572108,
+            32.5887806
+          ],
+          [
+            22.1571161,
+            32.588838
+          ],
+          [
+            22.1572355,
+            32.5889777
+          ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-uuo1o-c-uo-oauo",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Barrington Atlas map location",
-        "link": "http://pleiades.stoa.org/places/375260/batlas-location"
+        "title": "OSM location of قلعة ورتنج",
+        "link": "http://pleiades.stoa.org/places/375260/osm-location-of-uuo1o-c-uo-oauo"
       }
     }
   ]

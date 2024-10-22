@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Iltukoite",
   "id": "252949",
+  "bbox": [
+    -0.859135513455,
+    41.5175900042,
+    -0.433211993411,
+    41.6318041325
+  ],
   "description": "An ancient place, cited: BAtlas 25 unlocated Iltukoite",
   "connectsWith": [
     "246633"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.648949791273,
+          41.5794559904
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

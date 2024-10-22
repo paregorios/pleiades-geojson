@@ -3,14 +3,17 @@
   "title": "Shunet ez Zebib",
   "id": "819299274",
   "bbox": [
-    31.9084936,
-    26.1888854,
-    31.9084936,
-    26.1888854
+    31.9073615,
+    26.1888766,
+    31.9087006,
+    26.1901241
   ],
   "description": "A large mudbrick structure located at Abydos in Upper Egypt that dates to the Second Dynasty (ca. 2700 B.C.) of ancient Egypt.",
   "connectsWith": [
     "756512"
+  ],
+  "names": [
+    "Shunet El Zebib"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.9084936,
-          26.1888854
+          31.90803105,
+          26.18950035
         ]
       },
       "properties": {
@@ -28,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          31.9084936,
-          26.1888854
+          [
+            31.9081905,
+            26.1888766
+          ],
+          [
+            31.9087006,
+            26.1892799
+          ],
+          [
+            31.9078716,
+            26.1901241
+          ],
+          [
+            31.9073615,
+            26.1897208
+          ],
+          [
+            31.9081905,
+            26.1888766
+          ]
         ]
       },
-      "id": "location-of-shunet-ez-zebib",
+      "id": "osm-location-of-shunet-ez-zebib",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Shunet ez Zebib",
-        "link": "http://pleiades.stoa.org/places/819299274/location-of-shunet-ez-zebib"
+        "link": "http://pleiades.stoa.org/places/819299274/osm-location-of-shunet-ez-zebib"
       }
     }
   ]

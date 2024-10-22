@@ -3,10 +3,10 @@
   "title": "Treasury of Atreus",
   "id": "190863456",
   "bbox": [
-    22.753603,
-    37.726806,
-    22.753603,
-    37.726806
+    22.7534798,
+    37.7266804,
+    22.7539919,
+    37.7270857
   ],
   "description": "A Bronze Age tholos tomb with a corbeled dome and monumental ashlar facade on the Panagitsa Hill at Mycenae.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.753603,
-          37.726806
+          22.7537364877,
+          37.7268831829
         ]
       },
       "properties": {
@@ -32,19 +32,133 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.753603,
-          37.726806
+          [
+            22.7539919,
+            37.7269029
+          ],
+          [
+            22.7539792,
+            37.7269491
+          ],
+          [
+            22.7539534,
+            37.7269917
+          ],
+          [
+            22.7539159,
+            37.7270284
+          ],
+          [
+            22.7538686,
+            37.7270572
+          ],
+          [
+            22.7538142,
+            37.7270767
+          ],
+          [
+            22.7537555,
+            37.7270857
+          ],
+          [
+            22.7536959,
+            37.7270837
+          ],
+          [
+            22.7536384,
+            37.7270708
+          ],
+          [
+            22.7535862,
+            37.7270478
+          ],
+          [
+            22.7535422,
+            37.7270159
+          ],
+          [
+            22.7535087,
+            37.7269768
+          ],
+          [
+            22.7534875,
+            37.7269327
+          ],
+          [
+            22.7534798,
+            37.7268858
+          ],
+          [
+            22.7534859,
+            37.7268389
+          ],
+          [
+            22.7535057,
+            37.7267943
+          ],
+          [
+            22.7535379,
+            37.7267545
+          ],
+          [
+            22.7535809,
+            37.7267217
+          ],
+          [
+            22.7536322,
+            37.7266976
+          ],
+          [
+            22.7536893,
+            37.7266836
+          ],
+          [
+            22.7537489,
+            37.7266804
+          ],
+          [
+            22.7538078,
+            37.7266882
+          ],
+          [
+            22.7538628,
+            37.7267065
+          ],
+          [
+            22.753911,
+            37.7267344
+          ],
+          [
+            22.7539498,
+            37.7267703
+          ],
+          [
+            22.753977,
+            37.7268124
+          ],
+          [
+            22.7539853,
+            37.7268334
+          ],
+          [
+            22.7539908,
+            37.7268557
+          ],
+          [
+            22.7539919,
+            37.7269029
+          ]
         ]
       },
-      "id": "treasury-of-atreus",
+      "id": "osm-location-of-treasury-of-atreus",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates following GeoHack",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Treasury of Atreus",
-        "link": "http://pleiades.stoa.org/places/190863456/treasury-of-atreus"
+        "title": "OSM location of Treasury of Atreus",
+        "link": "http://pleiades.stoa.org/places/190863456/osm-location-of-treasury-of-atreus"
       }
     }
   ]

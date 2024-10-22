@@ -4,9 +4,9 @@
   "id": "853733571",
   "bbox": [
     8.8044188,
-    39.9931239,
-    8.8044188,
-    39.9931239
+    39.9929595,
+    8.8049619,
+    39.9933674
   ],
   "description": "The Roman amphitheater at Forum Traiani, modern Fordongianus",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.8044188,
-          39.9931239
+          8.80471032517,
+          39.9931725053
         ]
       },
       "properties": {
@@ -113,7 +113,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM Location of Roman amphitheater",
+        "title": "OSM location of Anfiteatro romano di Forum Traiani",
         "link": "http://pleiades.stoa.org/places/853733571/osm-location-of-roman-amphitheater"
       }
     }

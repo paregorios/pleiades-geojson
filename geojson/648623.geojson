@@ -3,8 +3,8 @@
   "title": "Diocaesarea",
   "id": "648623",
   "bbox": [
-    33.914642,
-    36.578602,
+    33.925395,
+    36.581263,
     33.926722,
     36.584172
   ],
@@ -19,29 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.922253,
-          36.5813456667
+          33.9260585,
+          36.5827175
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.914642,
-          36.578602
-        ]
-      },
-      "id": "darmc-location-12207",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12207",
-        "link": "http://pleiades.stoa.org/places/648623/darmc-location-12207"
       }
     },
     {

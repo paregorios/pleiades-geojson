@@ -2,14 +2,26 @@
   "type": "FeatureCollection",
   "title": "Khentiamentiu, Temple of",
   "id": "98504069",
-  "description": "An unexcavated Old-Kingdom temple, attested by epigraphic finds at Abydos in Egypt. Its remains are presumed to underlie later Osiris sanctuary structures and part of the modern town.",
+  "bbox": [
+    31.917622,
+    26.185099,
+    31.917622,
+    26.185099
+  ],
+  "description": "An unexcavated Old Kingdom temple, attested by epigraphic finds at Abydos in Egypt. Its remains are presumed to underlie later Osiris sanctuary structures and part of the modern town.",
   "connectsWith": [
     "756512"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.917622,
+          26.185099
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

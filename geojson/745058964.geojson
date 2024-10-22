@@ -2,7 +2,13 @@
   "type": "FeatureCollection",
   "title": "Acamantis",
   "id": "745058964",
-  "description": "Acamantis, named for the hero Acamas, was an Attic tribe or phylai created by the reforms of Cleisthenes. It included the demes of Cholargos, Eiresidai, Hermos, Iphistiadai, Kerameis, Kephale, Poros, Thorikos, Eitea, Hagnous, Kikynna, Prospalta, and Sphettos.",
+  "bbox": [
+    23.839347,
+    37.73787,
+    24.053634,
+    37.938363
+  ],
+  "description": "Acamantis, named for the hero Acamas, was an Attic tribe or phyle created by Cleisthenes' reforms. It included the demes of Cholargos, Eiresidai, Hermos, Iphistiadai, Kerameis, Kephale, Poros, Thorikos, Eitea, Hagnous, Kikynna, Prospalta, and Sphettos.",
   "connectsWith": [
     "579888"
   ],
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9436111667,
+          37.8514976667
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -3,10 +3,10 @@
   "title": "Grave Circle B",
   "id": "593460162",
   "bbox": [
-    22.754815,
-    37.73076,
-    22.754815,
-    37.73076
+    22.7546954,
+    37.7306352,
+    22.7549898,
+    37.7308688
   ],
   "description": "Grave Circle B is a burial complex of shaft and cist graves located 130 meters west of the Lion Gate at Mycenae. It was used for the burials of elite families between approximately 1625 and 1550 BC.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.754815,
-          37.73076
+          22.7548416162,
+          37.730752016
         ]
       },
       "properties": {
@@ -31,19 +31,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.754815,
-          37.73076
+          [
+            22.7549224,
+            37.7308503
+          ],
+          [
+            22.7548777,
+            37.7308657
+          ],
+          [
+            22.754829,
+            37.7308688
+          ],
+          [
+            22.7547818,
+            37.7308592
+          ],
+          [
+            22.754741,
+            37.7308381
+          ],
+          [
+            22.7547111,
+            37.7308076
+          ],
+          [
+            22.7546954,
+            37.730771
+          ],
+          [
+            22.7546955,
+            37.7307325
+          ],
+          [
+            22.7547114,
+            37.730696
+          ],
+          [
+            22.7547415,
+            37.7306656
+          ],
+          [
+            22.7547824,
+            37.7306446
+          ],
+          [
+            22.7548297,
+            37.7306352
+          ],
+          [
+            22.7548783,
+            37.7306385
+          ],
+          [
+            22.7549229,
+            37.730654
+          ],
+          [
+            22.7549588,
+            37.7306802
+          ],
+          [
+            22.7549819,
+            37.7307142
+          ],
+          [
+            22.7549898,
+            37.7307523
+          ],
+          [
+            22.7549817,
+            37.7307903
+          ],
+          [
+            22.7549583,
+            37.7308242
+          ],
+          [
+            22.7549224,
+            37.7308503
+          ]
         ]
       },
-      "id": "imagery-location-for-grave-circle-b",
+      "id": "osm-location-of-i-ii1ioii-ioiioi-i-i-bi",
       "type": "Feature",
       "properties": {
-        "description": "Location of the center of Grave Circle B, determined by matching Google satellite imagery with published plans.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location for Grave Circle B",
-        "link": "http://pleiades.stoa.org/places/593460162/imagery-location-for-grave-circle-b"
+        "title": "OSM location of Tαφικός κύκλος B΄",
+        "link": "http://pleiades.stoa.org/places/593460162/osm-location-of-i-ii1ioii-ioiioi-i-i-bi"
       }
     }
   ]

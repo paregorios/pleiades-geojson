@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Olba Monastery",
+  "id": "761048528",
+  "bbox": [
+    33.96956,
+    36.583194,
+    33.96956,
+    36.583194
+  ],
+  "description": "A walled monastery compound adjacent to the place Olba",
+  "connectsWith": [
+    "648725"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.96956,
+          36.583194
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.96956,
+          36.583194
+        ]
+      },
+      "id": "imagery-location-olba-monastery",
+      "type": "Feature",
+      "properties": {
+        "description": "Google Earth location for Olba Monastery",
+        "location_precision": "precise",
+        "title": "Imagery Location: Olba Monastery",
+        "link": "http://pleiades.stoa.org/places/761048528/imagery-location-olba-monastery"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Pyramids of Meroe",
   "id": "97711900",
   "bbox": [
-    33.7467671,
-    16.9360227,
-    33.7519267,
-    16.9410849
+    33.747709,
+    16.933718,
+    33.7520708,
+    16.9398751
   ],
   "description": "The pyramid tombs of the kings of the Kushite kingdom.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.7493468717,
-          16.9385538102
+          33.7503469381,
+          16.9372538617
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Gobustan Rock Art Cultural Landscape",
   "id": "380688207",
   "bbox": [
-    49.3788729,
-    40.1022556,
-    49.3873024,
-    40.1116512
+    49.3787636,
+    40.1023787,
+    49.3873034,
+    40.1117238
   ],
   "description": "The Gobustan Rock Art Cultural Landscape is a UNESCO World Heritage Site located in central Azerbaijan. The 537 ha site comprises more than 6,000 rock engravings covering a period of 40,000 years.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.38308765,
-          40.1069534
+          49.3830335,
+          40.10705125
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.3788729,
-          40.1116512
+          49.3787636,
+          40.1117238
         ]
       },
       "id": "location-of-gobustan-rock-art-cultural-landscape",
@@ -44,8 +44,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.3873024,
-          40.1022556
+          49.3873034,
+          40.1023787
         ]
       },
       "id": "location-of-latin-inscriptions",

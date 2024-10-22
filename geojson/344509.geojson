@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Thebunte",
+  "title": "Qaşr Qaddās",
   "id": "344509",
   "bbox": [
-    15.033398,
-    31.683182,
-    15.033398,
-    31.683182
+    15.0333635,
+    31.6853713,
+    15.0338804,
+    31.6857537
   ],
-  "description": "An ancient place, cited: BAtlas 35 H3 Thebunte",
+  "description": "A ruined Roman fort in modern Libya, possibly to be identified with \"Thebunte\", a road station listed in the Antonine Itinerary.",
   "names": [
-    "Thebunte"
+    "Thebunte",
+    "Qaşr Qaddās"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.033398,
-          31.683182
+          15.0336221845,
+          31.6855615579
         ]
       },
       "properties": {
@@ -28,19 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.033398,
-          31.683182
+          [
+            15.033618,
+            31.6857537
+          ],
+          [
+            15.0333635,
+            31.6855391
+          ],
+          [
+            15.0336293,
+            31.6853713
+          ],
+          [
+            15.0338804,
+            31.6855805
+          ],
+          [
+            15.033618,
+            31.6857537
+          ]
         ]
       },
-      "id": "darmc-location-9751",
+      "id": "osm-location-of-qaar-qaddas",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 9751",
-        "link": "http://pleiades.stoa.org/places/344509/darmc-location-9751"
+        "title": "OSM location of Qaşr Qaddās",
+        "link": "http://pleiades.stoa.org/places/344509/osm-location-of-qaar-qaddas"
       }
     }
   ]

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cryptoporticus (Alife)",
+  "id": "983012055",
+  "bbox": [
+    14.33314,
+    41.3286204,
+    14.3334439,
+    41.3287977
+  ],
+  "description": "An aisled Cryptoporticus at Alife that dates to the Augustan period.",
+  "connectsWith": [
+    "432658"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3332919606,
+          41.3287090516
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.33314,
+            41.3287396
+          ],
+          [
+            14.3333959,
+            41.3286204
+          ],
+          [
+            14.3334439,
+            41.3286785
+          ],
+          [
+            14.3331881,
+            41.3287977
+          ],
+          [
+            14.33314,
+            41.3287396
+          ]
+        ]
+      },
+      "id": "osm-location-of-criptoportico",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Criptoportico",
+        "link": "http://pleiades.stoa.org/places/983012055/osm-location-of-criptoportico"
+      }
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "title": "Roman villa",
   "id": "140509391",
   "bbox": [
-    13.7096209,
-    42.6569311,
-    13.7096209,
-    42.6569311
+    13.7099094,
+    42.6565542,
+    13.7104059,
+    42.6568855
   ],
-  "description": "Remains of an early imperial period Roman villa.",
+  "description": "Remains of an early imperial period Roman villa, the so-called \"Domus della Madonna delle Grazie\".",
   "connectsWith": [
     "413179"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7096209,
-          42.6569311
+          13.7101584452,
+          42.656723091
         ]
       },
       "properties": {
@@ -28,10 +28,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.7096209,
-          42.6569311
+          [
+            13.7099997,
+            42.6568855
+          ],
+          [
+            13.710098,
+            42.6568652
+          ],
+          [
+            13.7104059,
+            42.6567936
+          ],
+          [
+            13.7103095,
+            42.6565542
+          ],
+          [
+            13.7099094,
+            42.656659
+          ],
+          [
+            13.7099997,
+            42.6568855
+          ]
         ]
       },
       "id": "location-of-roman-villa",
@@ -39,7 +61,7 @@
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa Romana",
+        "title": "OSM location of Domus della Madonna delle Grazie",
         "link": "http://pleiades.stoa.org/places/140509391/location-of-roman-villa"
       }
     }

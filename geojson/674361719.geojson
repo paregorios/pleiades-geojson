@@ -3,10 +3,10 @@
   "title": "Queen's pyramid",
   "id": "674361719",
   "bbox": [
-    31.1282137,
-    29.9717436,
-    31.1282137,
-    29.9717436
+    31.1281233,
+    29.9717794,
+    31.1281233,
+    29.9717794
   ],
   "description": "There are three satellite pyramids, typically referred to as \"Queen's pyramids\", associated with the pyramid of Menkaure on the Giza plateau.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1282137,
-          29.9717436
+          31.1281233,
+          29.9717794
         ]
       },
       "properties": {
@@ -31,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1282137,
-          29.9717436
+          31.1281233,
+          29.9717794
         ]
       },
       "id": "queens-pyramid",

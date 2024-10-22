@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Thessalia",
+  "title": "Thessalia (late Roman province)",
   "id": "991374",
   "bbox": [
     20.0,
@@ -8,7 +8,7 @@
     25.0,
     40.0
   ],
-  "description": "An ancient place, cited: BAtlas 101 L4 Thessalia",
+  "description": "A late province of the Roman empire according to the Verona List (ca. 303-324 CE), subordinate to the diocese of Moesiae.",
   "names": [
     "Thessalia"
   ],

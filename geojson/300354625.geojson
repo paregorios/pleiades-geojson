@@ -2,12 +2,6 @@
   "type": "FeatureCollection",
   "title": "Ura",
   "id": "300354625",
-  "bbox": [
-    33.0,
-    36.0,
-    33.5,
-    36.5
-  ],
   "description": "A place from the TAVO Index",
   "names": [
     "Ura"
@@ -15,52 +9,9 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.25,
-          36.25
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              33.0,
-              36.0
-            ],
-            [
-              33.0,
-              36.5
-            ],
-            [
-              33.5,
-              36.5
-            ],
-            [
-              33.5,
-              36.0
-            ],
-            [
-              33.0,
-              36.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-64134",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 64134",
-        "link": "http://pleiades.stoa.org/places/300354625/gane-location-64134"
       }
     }
   ]

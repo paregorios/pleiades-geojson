@@ -3,10 +3,10 @@
   "title": "Magor",
   "id": "79588",
   "bbox": [
-    -5.31272,
-    50.220627,
-    -5.31272,
-    50.220627
+    -5.3152425,
+    50.2338417,
+    -5.3152425,
+    50.2338417
   ],
   "description": "An ancient place, cited: BAtlas 8 B4 Magor",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.31272,
-          50.220627
+          -5.3152425,
+          50.2338417
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.31272,
-          50.220627
+          -5.3152425,
+          50.2338417
         ]
       },
-      "id": "darmc-location-7788",
+      "id": "osm-location-of-site-of-roman-villa",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Represnetative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7788",
-        "link": "http://pleiades.stoa.org/places/79588/darmc-location-7788"
+        "title": "OSM location of Site of Roman Villa",
+        "link": "http://pleiades.stoa.org/places/79588/osm-location-of-site-of-roman-villa"
       }
     }
   ]

@@ -3,13 +3,16 @@
   "title": "Hypnia?",
   "id": "540828",
   "bbox": [
-    22.373892,
-    38.471904,
-    22.373892,
-    38.471904
+    22.3679017,
+    38.4644016,
+    22.3679017,
+    38.4644016
   ],
-  "description": "An ancient place, cited: BAtlas 55 C4 Hypnia?",
+  "description": "An ancient settlement of Lokris, attested in Thucydides and some epigraphic evidence. It is generally identified (though unproven) with a fortified enclosure located on a hill now known as Gardiki near modern Tritaia (formerly Kolopetinitsa).",
   "names": [
+    "Kolopetinitsa",
+    "Tritaia",
+    "Gardiki",
     "Hypnia"
   ],
   "features": [
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.373892,
-          38.471904
+          22.3679017,
+          38.4644016
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.373892,
-          38.471904
+          22.3679017,
+          38.4644016
         ]
       },
-      "id": "darmc-location-12825",
+      "id": "osm-location-of-hypnia",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap. Chronology following the Barrington Atlas.",
         "location_precision": "precise",
-        "title": "DARMC location 12825",
-        "link": "http://pleiades.stoa.org/places/540828/darmc-location-12825"
+        "title": "OSM location of Hypnia",
+        "link": "http://pleiades.stoa.org/places/540828/osm-location-of-hypnia"
       }
     }
   ]

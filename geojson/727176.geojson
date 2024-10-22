@@ -9,6 +9,9 @@
     30.926512
   ],
   "description": "An ancient place, cited: BAtlas 74 C3 Nitriai",
+  "connectsWith": [
+    "727232"
+  ],
   "names": [
     "Nitriai"
   ],

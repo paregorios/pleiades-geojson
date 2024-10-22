@@ -3,13 +3,15 @@
   "title": "Elyros",
   "id": "589775",
   "bbox": [
-    23.794048,
-    35.283178,
-    23.794048,
-    35.283178
+    23.7945601,
+    35.2875151,
+    23.7945601,
+    35.2875151
   ],
-  "description": "An ancient place, cited: BAtlas 60 A2 Elyros",
+  "description": "An ancient polis in the mountainous Selino area of western Crete. Its site is located near modern Rodovani.",
   "names": [
+    "Rodovani",
+    "Elyrioi",
     "Elyros"
   ],
   "features": [
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.794048,
-          35.283178
+          23.7945601,
+          35.2875151
         ]
       },
       "properties": {
@@ -30,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.794048,
-          35.283178
+          23.7945601,
+          35.2875151
         ]
       },
-      "id": "darmc-location-12333",
+      "id": "osm-location-ancient-elyros",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlas.",
         "location_precision": "precise",
-        "title": "DARMC location 12333",
-        "link": "http://pleiades.stoa.org/places/589775/darmc-location-12333"
+        "title": "OSM Location: Ancient Elyros",
+        "link": "http://pleiades.stoa.org/places/589775/osm-location-ancient-elyros"
       }
     }
   ]

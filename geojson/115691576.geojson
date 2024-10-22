@@ -3,10 +3,10 @@
   "title": "Catacombs of Kom el Shoqafa",
   "id": "115691576",
   "bbox": [
-    29.8937308,
-    31.178553,
-    29.8937308,
-    31.178553
+    29.892338,
+    31.1777501,
+    29.8937469,
+    31.1793369
   ],
   "description": "The Catacombs of Kom el Shoqafa contain Roman period tombs, second to fourth centuries A.D.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.8937308,
-          31.178553
+          29.8930301664,
+          31.1785519947
         ]
       },
       "properties": {

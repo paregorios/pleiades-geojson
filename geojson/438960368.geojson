@@ -3,9 +3,9 @@
   "title": "Temple of Ramesses II",
   "id": "438960368",
   "bbox": [
-    31.9167647,
+    31.9164026,
     26.1868288,
-    31.9167647,
+    31.9164026,
     26.1868288
   ],
   "description": "The Temple of Ramesses II at Abydos in Egypt.",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.9167647,
+          31.9164026,
           26.1868288
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.9167647,
+          31.9164026,
           26.1868288
         ]
       },

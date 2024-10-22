@@ -3,10 +3,10 @@
   "title": "Roman theater at Interamnia Praetuttiorum",
   "id": "496511529",
   "bbox": [
-    13.7039451,
-    42.6580203,
-    13.7039451,
-    42.6580203
+    13.7037757,
+    42.6577684,
+    13.7047134,
+    42.6581057
   ],
   "description": "A Roman theater dating to the Augustan period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7039451,
-          42.6580203
+          13.70425711,
+          42.6579342389
         ]
       },
       "properties": {

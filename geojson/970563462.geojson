@@ -4,9 +4,9 @@
   "id": "970563462",
   "bbox": [
     8.7979716,
-    39.989764,
-    8.7979716,
-    39.989764
+    39.9896509,
+    8.7982747,
+    39.9898462
   ],
   "description": "The Romanesque church of San Lussorio dates to the early twelfth century.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7979716,
-          39.989764
+          8.79812202518,
+          39.9897490904
         ]
       },
       "properties": {
@@ -31,10 +31,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.7979716,
-          39.989764
+          [
+            8.7979716,
+            39.989764
+          ],
+          [
+            8.7980413,
+            39.9896509
+          ],
+          [
+            8.7982747,
+            39.9897373
+          ],
+          [
+            8.7981996,
+            39.9898462
+          ],
+          [
+            8.7979716,
+            39.989764
+          ]
         ]
       },
       "id": "location-of-san-lussorio",

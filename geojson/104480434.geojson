@@ -3,10 +3,10 @@
   "title": "Castro de Santaia",
   "id": "104480434",
   "bbox": [
-    -8.0425206,
-    43.1152228,
-    -8.0425206,
-    43.1152228
+    -8.0428532,
+    43.114888,
+    -8.0414129,
+    43.1159514
   ],
   "description": "A settlement of the Castro Culture covering > 4 hectares near Santai in Spain.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.0425206,
-          43.1152228
+          -8.0420988617,
+          43.1155107627
         ]
       },
       "properties": {

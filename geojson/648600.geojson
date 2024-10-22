@@ -3,9 +3,9 @@
   "title": "Cilicia Pedias",
   "id": "648600",
   "bbox": [
-    34.7055168,
-    36.705329,
-    35.914311,
+    34.532152,
+    36.729749,
+    35.898549,
     37.256404
   ],
   "description": "A region of southern Asia Minor, \"Flat Cilicia\". This region is described as \"well-watered\" and fertile. It was bounded by the Taurus and Anti-Taurus Mountains and the Mediterranean Sea.",
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.4100794556,
-          36.9314059889
+          34.5392216667,
+          36.7400556667
         ]
       },
       "properties": {
