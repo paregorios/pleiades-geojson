@@ -3,10 +3,10 @@
   "title": "Stuberra",
   "id": "482008",
   "bbox": [
-    21.3972749,
-    41.2437372,
-    21.3972749,
-    41.2437372
+    21.3972179,
+    41.2431359,
+    21.3978358,
+    41.2444401
   ],
   "description": "An ancient place, cited: BAtlas 49 D2 Stuberra",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.3972749,
-          41.2437372
+          21.3974935616,
+          41.2437424745
         ]
       },
       "properties": {

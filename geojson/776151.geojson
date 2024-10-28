@@ -9,6 +9,9 @@
     25.69244
   ],
   "description": "An ancient place, cited: BAtlas 79 D2 Ain Tauleib",
+  "connectsWith": [
+    "776210"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -9,6 +9,9 @@
     36.562848
   ],
   "description": "An ancient place, cited: BAtlas 66 E3 Lamos",
+  "connectsWith": [
+    "648692"
+  ],
   "names": [
     "Lamos",
     "Lamousia"

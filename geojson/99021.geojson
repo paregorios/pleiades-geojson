@@ -9,6 +9,9 @@
     52.179988
   ],
   "description": "A Roman fortification on the Oude Rijn, Praetorium Agrippinae was likely established under Caius ca. AD 39 or 40.",
+  "connectsWith": [
+    "633625630"
+  ],
   "names": [
     "Praetorium Agrippinae",
     "Valkenburg"

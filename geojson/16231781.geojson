@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Tolosa",
   "id": "16231781",
   "bbox": [
-    1.3976884,
-    43.6147918,
-    1.3976884,
-    43.6147918
+    1.3979732,
+    43.6144107,
+    1.3979732,
+    43.6144107
   ],
   "description": "The Roman amphitheater at Purpan-Ancely dates ca. A.D. 40 and is the only significant Roman architecture to survive from ancient Tolosa.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3976884,
-          43.6147918
+          1.3979732,
+          43.6144107
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.3976884,
-          43.6147918
+          1.3979732,
+          43.6144107
         ]
       },
       "id": "location-of-roman-amphitheater",

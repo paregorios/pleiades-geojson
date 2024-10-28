@@ -4,9 +4,9 @@
   "id": "862813573",
   "bbox": [
     -7.9074749,
-    38.5726955,
-    -7.9074749,
-    38.5726955
+    38.5725125,
+    -7.9072039,
+    38.5727568
   ],
   "description": "The Roman Temple of Évora, also referred to as the Temple of Diana, is a Roman temple of the first century A.D.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9074749,
-          38.5726955
+          -7.90733939656,
+          38.5726346333
         ]
       },
       "properties": {
@@ -32,10 +32,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -7.9074749,
-          38.5726955
+          [
+            -7.9073387,
+            38.5725125
+          ],
+          [
+            -7.9074749,
+            38.5726955
+          ],
+          [
+            -7.9073401,
+            38.5727568
+          ],
+          [
+            -7.9072039,
+            38.5725737
+          ],
+          [
+            -7.9073387,
+            38.5725125
+          ]
         ]
       },
       "id": "location-of-temple-of-diana",

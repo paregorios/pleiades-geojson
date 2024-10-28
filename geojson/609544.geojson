@@ -9,6 +9,9 @@
     38.24184
   ],
   "description": "An ancient place, cited: BAtlas 62 E5 Tatarlı",
+  "connectsWith": [
+    "609471"
+  ],
   "features": [
     {
       "type": "Feature",

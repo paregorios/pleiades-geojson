@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Sardinia et Corsica (Roman province)",
   "id": "981548",
+  "bbox": [
+    9.109522,
+    39.214886,
+    9.109522,
+    39.214886
+  ],
   "description": "The province of Sardinia et Corsica was the second Roman province and came under Roman control after the First Punic War.",
   "names": [
     "Sardinia et Corsica",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.109522,
+          39.214886
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

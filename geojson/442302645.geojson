@@ -3,10 +3,10 @@
   "title": "Roman villa, via Michelangelo Tilli",
   "id": "442302645",
   "bbox": [
-    12.5515872,
-    41.9308974,
-    12.5515872,
-    41.9308974
+    12.5513354,
+    41.9307876,
+    12.5516602,
+    41.9309724
   ],
   "description": "The remains of the Roman villa located in via Michelangelo Tilli are located close to the Aniene. The late republican villa remained in use until the fourth century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5515872,
-          41.9308974
+          12.5515074839,
+          41.9308863054
         ]
       },
       "properties": {

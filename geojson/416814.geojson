@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Frusteniae",
   "id": "416814",
+  "bbox": [
+    13.4100283,
+    42.0789113,
+    13.487411,
+    42.295745
+  ],
   "description": "An ancient place, cited: BAtlas 42 unlocated Frusteniae",
   "connectsWith": [
     "770901484",
@@ -14,7 +20,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4493054904,
+          42.1878266827
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

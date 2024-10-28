@@ -3,9 +3,9 @@
   "title": "Italic temple of Castel di Ieri",
   "id": "431684924",
   "bbox": [
-    13.7560246,
-    42.1023355,
-    13.7560246,
+    13.755515,
+    42.1018102,
+    13.7562231,
     42.1023355
   ],
   "description": "The remains of an Italic temple, in the locality known as \"Pié di Francia\". The sanctuary dates from the fourth to first centuries B.C. ",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.7560246,
-          42.1023355
+          13.7559206817,
+          42.1020826071
         ]
       },
       "properties": {

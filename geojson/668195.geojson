@@ -9,8 +9,11 @@
     34.066678
   ],
   "description": "An ancient place, cited: BAtlas 68 A5 Aphrodite Aphakitis, T.",
+  "connectsWith": [
+    "668180"
+  ],
   "names": [
-    "Aphrodite Aphakitis, T.",
+    "Aphrodite Aphakitis",
     "Aphaka",
     "Apqu"
   ],

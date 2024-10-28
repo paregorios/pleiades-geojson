@@ -3,10 +3,10 @@
   "title": "Adonis (river)",
   "id": "668180",
   "bbox": [
-    35.6574705,
-    34.0695116,
+    35.6421039,
+    34.0601727,
     35.8758136,
-    34.0894482
+    34.089319
   ],
   "description": "The Abraham River of Lebanon.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.7120248161,
-          34.0746606311
+          35.708053545,
+          34.0717392889
         ]
       },
       "properties": {
