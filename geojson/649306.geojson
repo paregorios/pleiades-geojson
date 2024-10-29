@@ -1,22 +1,28 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Olba Aqueduct",
   "id": "649306",
   "bbox": [
-    33.5,
-    36.5,
-    34.0,
-    37.0
+    33.9684979,
+    36.5857307,
+    33.9694456,
+    36.5862314
   ],
-  "description": "An ancient place, cited: BAtlas 66 D3 unnamed aqueduct (Olba)",
+  "description": "The Olba Aqueduct is located in Mersin Province of southern Turkey. It was commissioned during the reign of Septimius Severus and restored under Justinian I.",
+  "connectsWith": [
+    "648725"
+  ],
+  "names": [
+    "Olba Aqueduct"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.75,
-          36.75
+          33.9689714737,
+          36.5859816797
         ]
       },
       "properties": {
@@ -25,39 +31,57 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              33.5,
-              36.5
-            ],
-            [
-              33.5,
-              37.0
-            ],
-            [
-              34.0,
-              37.0
-            ],
-            [
-              34.0,
-              36.5
-            ],
-            [
-              33.5,
-              36.5
-            ]
+            33.9684979,
+            36.5857593
+          ],
+          [
+            33.9687372,
+            36.5858748
+          ],
+          [
+            33.9689397,
+            36.5859853
+          ],
+          [
+            33.9691886,
+            36.5861212
+          ],
+          [
+            33.9693993,
+            36.5862314
+          ],
+          [
+            33.9694456,
+            36.5862171
+          ],
+          [
+            33.9691678,
+            36.5860626
+          ],
+          [
+            33.9688838,
+            36.5859095
+          ],
+          [
+            33.9685336,
+            36.5857307
+          ],
+          [
+            33.9684979,
+            36.5857593
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-of-olba-aqueduct",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/649306/undetermined"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Olba Aqueduct",
+        "link": "http://pleiades.stoa.org/places/649306/osm-location-of-olba-aqueduct"
       }
     }
   ]

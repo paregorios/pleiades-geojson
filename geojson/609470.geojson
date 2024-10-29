@@ -3,14 +3,15 @@
   "title": "Metropolis",
   "id": "609470",
   "bbox": [
-    30.6281549,
+    30.6278194,
     39.171334,
     30.6281549,
-    39.171334
+    39.1716707
   ],
   "description": "An ancient place, cited: BAtlas 62 E3 Metropolis",
   "names": [
-    "Metropolis"
+    "Metropolis",
+    "Metropolitae"
   ],
   "features": [
     {
@@ -18,49 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.6281549,
-          39.171334
+          30.62798715,
+          39.17150235
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              30.5,
-              39.0
-            ],
-            [
-              30.5,
-              39.5
-            ],
-            [
-              31.0,
-              39.5
-            ],
-            [
-              31.0,
-              39.0
-            ],
-            [
-              30.5,
-              39.0
-            ]
-          ]
-        ]
-      },
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/609470/undetermined"
       }
     },
     {
@@ -78,6 +42,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/609470/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6278194,
+          39.1716707
+        ]
+      },
+      "id": "osm-location-of-oynaa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Oynaş",
+        "link": "http://pleiades.stoa.org/places/609470/osm-location-of-oynaa"
       }
     }
   ]

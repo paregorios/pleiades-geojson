@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "title": "Metropolis (near Priapus)",
+  "id": "440964557",
+  "description": "Metropolis was an ancient city-state in Asia Minor whose location is now unknown. It is thought to be located near Priapos on the southern coast of the Propontis; it was have been founded by Priapos. Epigraphic evidence indicates that Metropolis was a member of the Delian League. Hansen argues that it was a polis.",
+  "connectsWith": [
+    "511375",
+    "550944",
+    "48050879",
+    "511381"
+  ],
+  "names": [
+    "Metropolis para Priapon"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

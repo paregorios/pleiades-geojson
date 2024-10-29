@@ -4,8 +4,8 @@
   "id": "599969",
   "bbox": [
     27.59493,
-    37.044491,
-    27.59493,
+    37.042709,
+    27.597334,
     37.044491
   ],
   "description": "An ancient place, cited: BAtlas 61 F3 Theangela",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.59493,
-          37.044491
+          27.596132,
+          37.0436
         ]
       },
       "properties": {
@@ -45,6 +45,23 @@
         "location_precision": "precise",
         "title": "DARMC location 15118",
         "link": "http://pleiades.stoa.org/places/599969/darmc-location-15118"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.597334,
+          37.042709
+        ]
+      },
+      "id": "vici-org-location",
+      "type": "Feature",
+      "properties": {
+        "description": "+/- 5 meter location from vici.org; dates after BAtlas",
+        "location_precision": "precise",
+        "title": "Vici.org location",
+        "link": "http://pleiades.stoa.org/places/599969/vici-org-location"
       }
     }
   ]

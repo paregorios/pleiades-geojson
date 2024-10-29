@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castel Sant'Angelo",
+  "id": "919243561",
+  "description": "This previously published place resource was withdrawn and moved to errata because it is a duplicate for https://pleiades.stoa.org/places/334776904",
+  "connectsWith": [
+    "423025",
+    "423080",
+    "217953464"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

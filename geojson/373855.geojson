@@ -3,20 +3,23 @@
   "title": "Medinet Bu Hindi",
   "id": "373855",
   "bbox": [
-    22.413301,
-    32.265016,
-    22.413301,
-    32.265016
+    22.4117074,
+    32.2637953,
+    22.4118839,
+    32.2639482
   ],
   "description": "An ancient place, cited: BAtlas 38 D1 Medinet Bu Hindi",
+  "names": [
+    "Qaşr Madīnat Bū Hindī"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.413301,
-          32.265016
+          22.41179565,
+          32.26387175
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.413301,
-          32.265016
+          [
+            22.4117731,
+            32.2639482
+          ],
+          [
+            22.4117074,
+            32.2638465
+          ],
+          [
+            22.4118182,
+            32.2637953
+          ],
+          [
+            22.4118839,
+            32.263897
+          ],
+          [
+            22.4117731,
+            32.2639482
+          ]
         ]
       },
-      "id": "darmc-location-13671",
+      "id": "osm-location-of-qaar-mada-nat-ba-hinda",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 13671",
-        "link": "http://pleiades.stoa.org/places/373855/darmc-location-13671"
+        "title": "OSM location of Qaşr Madīnat Bū Hindī",
+        "link": "http://pleiades.stoa.org/places/373855/osm-location-of-qaar-mada-nat-ba-hinda"
       }
     }
   ]

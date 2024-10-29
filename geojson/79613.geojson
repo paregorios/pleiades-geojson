@@ -3,10 +3,10 @@
   "title": "Newport Roman Villa",
   "id": "79613",
   "bbox": [
-    -1.2918584,
-    50.6942881,
-    -1.2918584,
-    50.6942881
+    -1.2918257,
+    50.6942518,
+    -1.2918257,
+    50.6942518
   ],
   "description": "An ancient place, cited: BAtlas 8 F4 Newport",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2918584,
-          50.6942881
+          -1.2918257,
+          50.6942518
         ]
       },
       "properties": {
