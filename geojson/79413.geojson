@@ -8,7 +8,10 @@
     0.257752,
     51.421122
   ],
-  "description": "An ancient place, cited: BAtlas 8 H3 Darenth",
+  "description": "Darenth Court Roman villa numbered among the largest Roman villas in Britain. This courtyard villa included numerous components, among them a bath complex. The villa measured ca. 370 by 414 feet upon excavations in 1894 and 1895. An assemblage of Roman coins (53 in number) range in date from Domitian to Gratian.",
+  "names": [
+    "Darenth Court Roman Villa"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-20826",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20826",
         "link": "http://pleiades.stoa.org/places/79413/darmc-location-20826"

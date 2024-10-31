@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agora of Priene",
+  "id": "461987449",
+  "bbox": [
+    27.2977521,
+    37.6586316,
+    27.2977521,
+    37.6586316
+  ],
+  "description": "The Agora of the ancient city of Priene.",
+  "connectsWith": [
+    "599905"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2977521,
+          37.6586316
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2977521,
+          37.6586316
+        ]
+      },
+      "id": "osm-location-of-agora-of-priene",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Agora of Priene",
+        "link": "http://pleiades.stoa.org/places/461987449/osm-location-of-agora-of-priene"
+      }
+    }
+  ]
+}

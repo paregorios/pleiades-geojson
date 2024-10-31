@@ -3,6 +3,9 @@
   "title": "Leuca/Leugosena/Sena",
   "id": "83856",
   "description": "An ancient place, cited: BAtlas 8 unlocated Leuca/(Leugo)Sena fl.",
+  "connectsWith": [
+    "79560"
+  ],
   "names": [
     "Leuca",
     "Leugosena",

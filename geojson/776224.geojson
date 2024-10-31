@@ -3,10 +3,10 @@
   "title": "Qasr al-Sumayra",
   "id": "776224",
   "bbox": [
-    30.600769,
-    25.810296,
-    30.600769,
-    25.810296
+    30.6237277,
+    25.7958673,
+    30.6239261,
+    25.796059
   ],
   "description": "A late Roman fort in Egypt's Kharga Oasis.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.600769,
-          25.810296
+          30.6238268875,
+          25.7959631736
         ]
       },
       "properties": {
@@ -32,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          30.600769,
-          25.810296
+          [
+            30.6239132,
+            25.796059
+          ],
+          [
+            30.6237277,
+            25.7960483
+          ],
+          [
+            30.6237406,
+            25.7958673
+          ],
+          [
+            30.6239261,
+            25.7958781
+          ],
+          [
+            30.6239132,
+            25.796059
+          ]
         ]
       },
-      "id": "darmc-location-8327",
+      "id": "osm-location-of-el-sumeira",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8327",
-        "link": "http://pleiades.stoa.org/places/776224/darmc-location-8327"
+        "title": "OSM location of el-Sumeira",
+        "link": "http://pleiades.stoa.org/places/776224/osm-location-of-el-sumeira"
       }
     }
   ]

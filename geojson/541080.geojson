@@ -3,10 +3,10 @@
   "title": "Pyra",
   "id": "541080",
   "bbox": [
-    22.305481,
-    38.750364,
-    22.305481,
-    38.750364
+    22.2991112,
+    38.7519608,
+    22.2991112,
+    38.7519608
   ],
   "description": "Pyra is a place with preserved ruins of a Doric temple dating to the third century B.C. The sources connect Pyra with the pyre of the hero Herakles.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.305481,
-          38.750364
+          22.2991112,
+          38.7519608
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.305481,
-          38.750364
+          22.2991112,
+          38.7519608
         ]
       },
-      "id": "darmc-location-16155",
+      "id": "osm-location-of-i-iii-iiuiii1-2-iii-ioi-ii-ii",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16155",
-        "link": "http://pleiades.stoa.org/places/541080/darmc-location-16155"
+        "title": "OSM location of Πυρά - Ιερόν Ηρακλέους",
+        "link": "http://pleiades.stoa.org/places/541080/osm-location-of-i-iii-iiuiii1-2-iii-ioi-ii-ii"
       }
     }
   ]

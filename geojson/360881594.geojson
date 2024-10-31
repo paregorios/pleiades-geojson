@@ -3,10 +3,10 @@
   "title": "Villa dos Casais Velhos",
   "id": "360881594",
   "bbox": [
-    -9.4639686,
-    38.725991,
-    -9.4639686,
-    38.725991
+    -9.4642748,
+    38.7259172,
+    -9.4638392,
+    38.7266036
   ],
   "description": "The remains of a fortified Roman villa.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.4639686,
-          38.725991
+          -9.46405472566,
+          38.7262600924
         ]
       },
       "properties": {
@@ -25,19 +25,57 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -9.4639686,
-          38.725991
+          [
+            -9.464204,
+            38.7259572
+          ],
+          [
+            -9.4641517,
+            38.7262437
+          ],
+          [
+            -9.4641688,
+            38.7262528
+          ],
+          [
+            -9.4642748,
+            38.7262562
+          ],
+          [
+            -9.4642482,
+            38.7265837
+          ],
+          [
+            -9.4639345,
+            38.7266036
+          ],
+          [
+            -9.4638768,
+            38.7263494
+          ],
+          [
+            -9.4638392,
+            38.7262071
+          ],
+          [
+            -9.4638607,
+            38.7259172
+          ],
+          [
+            -9.464204,
+            38.7259572
+          ]
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-villa-romana-dos-casais-velhos",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa Romana dos Casais Velhos",
-        "link": "http://pleiades.stoa.org/places/360881594/osm-location"
+        "title": "OSM location: Villa Romana dos Casais Velhos",
+        "link": "http://pleiades.stoa.org/places/360881594/osm-location-villa-romana-dos-casais-velhos"
       }
     }
   ]

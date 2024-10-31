@@ -4,9 +4,9 @@
   "id": "226695",
   "bbox": [
     34.1179335,
-    44.942408,
-    34.119907,
-    44.9444422
+    44.9391383,
+    34.123947,
+    44.9461812
   ],
   "description": "An important Scythian settlement, capital of the late Scythian state on the Crimean peninsula.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.11892025,
-          44.9434251
+          34.120188926,
+          44.9422729113
         ]
       },
       "properties": {

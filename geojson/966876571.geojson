@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ancient Theater of Amphilochian Argos",
+  "id": "966876571",
+  "bbox": [
+    21.1860945,
+    38.9257046,
+    21.1889151,
+    38.9285924
+  ],
+  "description": "An ancient theater located at Amphilochian Argos. There are traces of the theater to be found at Ag. Ioannis near Neokhori in Aitoloakarnania, West Greece.",
+  "connectsWith": [
+    "530809"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1873908166,
+          38.9272957792
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.1889151,
+            38.9281016
+          ],
+          [
+            21.1874302,
+            38.9285423
+          ],
+          [
+            21.1869324,
+            38.9285924
+          ],
+          [
+            21.1864904,
+            38.9285724
+          ],
+          [
+            21.1862715,
+            38.9284155
+          ],
+          [
+            21.1860945,
+            38.9282302
+          ],
+          [
+            21.186514,
+            38.9277344
+          ],
+          [
+            21.1867179,
+            38.9270033
+          ],
+          [
+            21.1865033,
+            38.926419
+          ],
+          [
+            21.186426,
+            38.9260785
+          ],
+          [
+            21.1865891,
+            38.9258314
+          ],
+          [
+            21.1870097,
+            38.9257046
+          ],
+          [
+            21.1873702,
+            38.9257046
+          ],
+          [
+            21.1877049,
+            38.9258181
+          ],
+          [
+            21.1878766,
+            38.9260251
+          ],
+          [
+            21.1878079,
+            38.9264124
+          ],
+          [
+            21.1885117,
+            38.9271736
+          ],
+          [
+            21.1889151,
+            38.9281016
+          ]
+        ]
+      },
+      "id": "osm-location-of-iiii-i-i-iii-iii-ii1-4ii1i-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Αρχαίο Θέατρο Αμφιλοχικού Άργους",
+        "link": "http://pleiades.stoa.org/places/966876571/osm-location-of-iiii-i-i-iii-iii-ii1-4ii1i-i"
+      }
+    }
+  ]
+}

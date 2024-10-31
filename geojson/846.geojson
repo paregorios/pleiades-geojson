@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Atlas Mon(te)s",
+  "title": "Atlas (mountains)",
   "id": "846",
   "bbox": [
     -8.1,
@@ -10,6 +10,7 @@
   ],
   "description": "A major mountain range, located in northwest Africa (primarily modern Morocco).",
   "names": [
+    "Atlas",
     "Atlas"
   ],
   "features": [

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Torre Chiaruccia",
+  "id": "150178117",
+  "bbox": [
+    11.8325556,
+    42.0327578,
+    11.8327047,
+    42.0328632
+  ],
+  "description": "A masonry tower built in the sixteenth century near the ruined site of Castrum Novum (Santa Marinella, Italy).",
+  "names": [
+    "Torre Chiaruccia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.83263015,
+          42.0328105
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.8325556,
+            42.0328163
+          ],
+          [
+            11.8326544,
+            42.0328632
+          ],
+          [
+            11.8327047,
+            42.0328047
+          ],
+          [
+            11.8326059,
+            42.0327578
+          ],
+          [
+            11.8325556,
+            42.0328163
+          ]
+        ]
+      },
+      "id": "osm-location-of-torre-chiaruccia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Torre Chiaruccia",
+        "link": "http://pleiades.stoa.org/places/150178117/osm-location-of-torre-chiaruccia"
+      }
+    }
+  ]
+}

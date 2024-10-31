@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Trogitis L.",
+  "title": "Trogitis (lake)",
   "id": "639154",
   "bbox": [
     31.5,
@@ -8,7 +8,7 @@
     32.0,
     37.5
   ],
-  "description": "An ancient place, cited: BAtlas 65 G3 Trogitis L.",
+  "description": "The modern Lake Suğla is a lake located in Turkey's Konya Province.",
   "connectsWith": [
     "648800"
   ],

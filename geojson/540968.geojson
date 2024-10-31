@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Oeta M.",
+  "title": "Oeta (mountain)",
   "id": "540968",
   "bbox": [
-    22.288611,
-    38.828611,
-    22.288611,
-    38.828611
+    22.2550882,
+    38.7920954,
+    22.2550882,
+    38.7920954
   ],
   "description": "A mountain range of southern Phthiotis and northern Phocis in Greece, Oeta is celebrated in mythology as the site of Herakles' death.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.288611,
-          38.828611
+          22.2550882,
+          38.7920954
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.288611,
-          38.828611
+          22.2550882,
+          38.7920954
         ]
       },
-      "id": "location-of-oeta-m",
+      "id": "osm-location-of-i-iii3i-i-ioi-iiii-r-ii-ii-i",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Oeta M.",
-        "link": "http://pleiades.stoa.org/places/540968/location-of-oeta-m"
+        "title": "OSM location of Πύργος (κορυφή Οίτης)",
+        "link": "http://pleiades.stoa.org/places/540968/osm-location-of-i-iii3i-i-ioi-iiii-r-ii-ii-i"
       }
     }
   ]
