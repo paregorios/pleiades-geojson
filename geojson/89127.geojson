@@ -19,12 +19,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.717200087,
-          54.6531471422
+          -2.7172354935,
+          54.6531571211
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7172709,
+          54.6531671
+        ]
+      },
+      "id": "osm-location-of-brocavum-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Brocavum Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89127/osm-location-of-brocavum-roman-fort"
       }
     },
     {
@@ -60,13 +77,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls-approx.",
+      "id": "imagery-location-boundary-of-fort-walls-approx",
       "type": "Feature",
       "properties": {
-        "description": "Polygon after Pastscape, traced in Google Earth. Periods after BAtlas. ",
+        "description": "Polygon after Pastscape, traced in Google Earth. Periods after BAtlas.",
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx.)",
-        "link": "http://pleiades.stoa.org/places/89127/boundary-of-fort-walls-approx."
+        "title": "Imagery Location: Boundary of fort walls (approx.)",
+        "link": "http://pleiades.stoa.org/places/89127/imagery-location-boundary-of-fort-walls-approx"
       }
     }
   ]

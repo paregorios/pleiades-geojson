@@ -3,10 +3,10 @@
   "title": "Buston VI Necropolis",
   "id": "875060625",
   "bbox": [
-    67.1047074,
-    37.4485658,
-    67.1047074,
-    37.4485658
+    66.9513238,
+    37.6170294,
+    66.9513238,
+    37.6170294
   ],
   "description": "Necropolis in Southern Uzbekistan with late Bronze Age remains.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.1047074,
-          37.4485658
+          66.9513238,
+          37.6170294
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.1047074,
-          37.4485658
+          66.9513238,
+          37.6170294
         ]
       },
       "id": "buston-vi-necropolis",

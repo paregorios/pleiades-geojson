@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "ager Mutycensis",
   "id": "235362439",
+  "bbox": [
+    14.760759,
+    36.859007,
+    14.760759,
+    36.859007
+  ],
   "description": "The territory of Motyca in the Roman province of Sicilia that, according to Cicero, supported 187 farmers.",
   "connectsWith": [
     "462492"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.760759,
+          36.859007
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

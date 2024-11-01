@@ -19,12 +19,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.78831790892,
-          54.7384378721
+          -2.78833475446,
+          54.7384884361
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7883516,
+          54.738539
+        ]
+      },
+      "id": "osm-location-of-voreda-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Voreda Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89318/osm-location-of-voreda-roman-fort"
       }
     },
     {
@@ -60,13 +77,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagey-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89318/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89318/imagey-location-boundary-of-fort-walls"
       }
     }
   ]

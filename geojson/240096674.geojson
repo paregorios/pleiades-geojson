@@ -3,12 +3,12 @@
   "title": "Archaeological area of Macchia Grande",
   "id": "240096674",
   "bbox": [
-    12.4054768,
+    12.4050354,
     42.0173468,
-    12.4054768,
-    42.0173468
+    12.4067027,
+    42.0185159
   ],
-  "description": "The archaeological area of Macchia Grande provides archaeological evidence for multiple phases of human occupation from the Villanovan period to the Roman Imperial period. ",
+  "description": "The archaeological area of Macchia Grande provides archaeological evidence for multiple phases of human occupation from the Villanovan period to the Roman Imperial period.",
   "connectsWith": [
     "423116"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4054768,
-          42.0173468
+          12.4058783143,
+          42.0179394977
         ]
       },
       "properties": {

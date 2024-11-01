@@ -4,9 +4,9 @@
   "id": "254082752",
   "bbox": [
     11.1695677,
-    42.5519179,
-    11.1695677,
-    42.5519179
+    42.5515614,
+    11.1699248,
+    42.5519633
   ],
   "description": "An Etruscan temple of the fourth century BCE, associated with the ancient settlement of Telamon. It lies on Mount Talamonaccio, across the bay from the modern village of Talamone, north of Orbetello, Italy.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1695677,
-          42.5519179
+          11.1697466811,
+          42.5517627551
         ]
       },
       "properties": {

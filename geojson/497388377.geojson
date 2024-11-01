@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Vercellae",
   "id": "497388377",
   "bbox": [
-    8.4264831,
-    45.3193564,
-    8.4264831,
-    45.3193564
+    8.4260357,
+    45.3190442,
+    8.4265653,
+    45.3194201
   ],
   "description": "An extramural Roman amphitheater was to be found at Vercellae.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4264831,
-          45.3193564
+          8.42626914123,
+          45.3192601477
         ]
       },
       "properties": {
@@ -28,10 +28,40 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.4264831,
-          45.3193564
+          [
+            8.426048,
+            45.3194201
+          ],
+          [
+            8.4262941,
+            45.3193844
+          ],
+          [
+            8.4264831,
+            45.3193564
+          ],
+          [
+            8.4265653,
+            45.3192634
+          ],
+          [
+            8.4261947,
+            45.3190442
+          ],
+          [
+            8.4260975,
+            45.3191561
+          ],
+          [
+            8.4260357,
+            45.3192897
+          ],
+          [
+            8.426048,
+            45.3194201
+          ]
         ]
       },
       "id": "osm-location-of-roman-amphitheater",
@@ -39,7 +69,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman amphitheater",
+        "title": "OSM location of Anfiteatro romano",
         "link": "http://pleiades.stoa.org/places/497388377/osm-location-of-roman-amphitheater"
       }
     }

@@ -3,10 +3,10 @@
   "title": "Greek theater of Taormina",
   "id": "937547557",
   "bbox": [
-    15.2917516,
-    37.8526652,
-    15.2917516,
-    37.8526652
+    15.2917166,
+    37.8519349,
+    15.2927558,
+    37.8528054
   ],
   "description": "The Greek theater of Taormina was built originally in the third century B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2917516,
-          37.8526652
+          15.2922455569,
+          37.8524013426
         ]
       },
       "properties": {

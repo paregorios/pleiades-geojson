@@ -3,10 +3,10 @@
   "title": "Pyramid of Userkaf",
   "id": "393558281",
   "bbox": [
-    31.2185513,
-    29.8737597,
-    31.2185513,
-    29.8737597
+    31.2185497,
+    29.8737765,
+    31.2185497,
+    29.8737765
   ],
   "description": "A Fifth Dynasty pyramid at Saqqarah.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.2185513,
-          29.8737597
+          31.2185497,
+          29.8737765
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.2185497,
-          29.8737765
+          31.2186161,
+          29.8736742
         ]
       },
       "id": "location-of-pyramid-of-userkaf",

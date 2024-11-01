@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Caralis",
   "id": "32694356",
   "bbox": [
-    9.1137037,
-    39.223909,
-    9.1137037,
-    39.223909
+    9.1127012,
+    39.223644,
+    9.1137616,
+    39.2243494
   ],
   "description": "The Roman amphitheater at Cagliari dates to the first and second centuries.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1137037,
-          39.223909
+          9.11328309671,
+          39.2240350199
         ]
       },
       "properties": {
@@ -185,6 +185,10 @@
           [
             9.1128897,
             39.2240361
+          ],
+          [
+            9.1128725,
+            39.2240494
           ],
           [
             9.112848,
