@@ -9,6 +9,9 @@
     29.540917
   ],
   "description": "An ancient place, cited: BAtlas 75 E1 Bakchias",
+  "connectsWith": [
+    "170198552"
+  ],
   "names": [
     "Bakchias",
     "Kom el-Atl"

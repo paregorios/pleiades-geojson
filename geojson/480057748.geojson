@@ -3,10 +3,10 @@
   "title": "San Giovanni de Butris",
   "id": "480057748",
   "bbox": [
-    12.5504878,
-    42.6804025,
-    12.5504878,
-    42.6804025
+    12.5506762,
+    42.6798303,
+    12.5511539,
+    42.6802929
   ],
   "description": "A church of the eleventh and twelfth century built along the line of the Roman Via Flaminia. The church incorporates Roman remains, including those of a bridge.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5504878,
-          42.6804025
+          12.5509140765,
+          42.6800533809
         ]
       },
       "properties": {

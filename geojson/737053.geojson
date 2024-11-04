@@ -9,6 +9,9 @@
     29.534945
   ],
   "description": "An ancient settlement in the Egyptian Fayum, known today as Dime.",
+  "connectsWith": [
+    "170198552"
+  ],
   "names": [
     "Soknopaiou Nesos",
     "Dimeh"

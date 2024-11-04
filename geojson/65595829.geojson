@@ -3,10 +3,10 @@
   "title": "Aiano-Torraccia di Chiusi Roman villa",
   "id": "65595829",
   "bbox": [
-    11.0727238,
-    43.4341415,
-    11.0727238,
-    43.4341415
+    11.0713523,
+    43.4328074,
+    11.0737483,
+    43.4345526
   ],
   "description": "The Villa Romana di Aiano-Torraccia di Chiusi, located near San Gimignano, is notable for a tri-apsidal courtyard.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0727238,
-          43.4341415
+          11.0725502634,
+          43.433680004
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.0727238,
-          43.4341415
+          [
+            11.0730507,
+            43.4345526
+          ],
+          [
+            11.0713523,
+            43.4340498
+          ],
+          [
+            11.0720497,
+            43.4328074
+          ],
+          [
+            11.0737483,
+            43.4333103
+          ],
+          [
+            11.0730507,
+            43.4345526
+          ]
         ]
       },
       "id": "location-of-villa-romana-di-aiano-torraccia-di",

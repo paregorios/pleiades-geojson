@@ -3,10 +3,10 @@
   "title": "Roman amphitheater of Martigny",
   "id": "747857719",
   "bbox": [
-    7.0738675,
-    46.0945452,
-    7.0738675,
-    46.0945452
+    7.0730281,
+    46.0941796,
+    7.0738256,
+    46.0946741
   ],
   "description": "The Roman amphitheater of Martigny likely dates to the reign of Trajan.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.0738675,
-          46.0945452
+          7.07333165629,
+          46.0945395689
         ]
       },
       "properties": {

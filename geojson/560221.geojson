@@ -5,7 +5,7 @@
   "bbox": [
     22.5226845,
     35.26711,
-    29.353497,
+    29.2996224,
     42.6106123
   ],
   "description": "The Aegean Sea is the largest body of water between Greece and Asia Minor and an embayment of the Mediterranean Sea.",
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9020513403,
-          38.8725884871
+          24.9467466016,
+          38.8779614185
         ]
       },
       "properties": {
