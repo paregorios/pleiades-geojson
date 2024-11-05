@@ -4,8 +4,8 @@
   "id": "166434539",
   "bbox": [
     11.3513572,
-    42.9186622,
-    11.8521628,
+    42.9491704,
+    11.7846205,
     43.0316878
   ],
   "description": "The Orcia originates on Monte Cetona and is a major tributary of the Ombrone.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6149878212,
-          42.9826100708
+          11.5788323099,
+          42.9898295409
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Carthago Nova/Col. Urbs Iulia",
   "id": "480038469",
   "bbox": [
-    -0.980161,
-    37.6006455,
-    -0.980161,
-    37.6006455
+    -0.9801591,
+    37.6006254,
+    -0.9801591,
+    37.6006254
   ],
   "description": "The Roman amphitheater at Cartagena dates to the first century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.980161,
-          37.6006455
+          -0.9801591,
+          37.6006254
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.980161,
-          37.6006455
+          -0.9801591,
+          37.6006254
         ]
       },
-      "id": "location-of-roman-amphitheater",
+      "id": "osm-location-of-anfiteatro-romano-y-plaza-de-toros",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap",
+        "description": "Representstive location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Anfiteatro Romano Augusteo",
-        "link": "http://pleiades.stoa.org/places/480038469/location-of-roman-amphitheater"
+        "title": "OSM location of Anfiteatro Romano y Plaza de Toros",
+        "link": "http://pleiades.stoa.org/places/480038469/osm-location-of-anfiteatro-romano-y-plaza-de-toros"
       }
     }
   ]

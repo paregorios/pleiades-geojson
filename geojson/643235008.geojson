@@ -5,7 +5,7 @@
   "bbox": [
     11.3513572,
     42.8875147,
-    11.8521628,
+    11.7846205,
     43.0316878
   ],
   "description": "A cultural landscape in the agricultural hinterland of Siena, Italy, the Val d'Orcia was designated as a UNESCO World Heritage Site in 2004.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.673575473,
-          42.9205262423
+          11.6644362949,
+          42.9235502859
         ]
       },
       "properties": {
