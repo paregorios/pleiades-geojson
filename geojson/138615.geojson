@@ -31,13 +31,13 @@
           46.81356
         ]
       },
-      "id": "location-of-the-sanctuary",
+      "id": "imagery-location-of-the-sanctuary",
       "type": "Feature",
       "properties": {
         "description": "The site is located at La Garenne, Moulin des Gaumins, commune Thaumiers, département Cher. The sanctuary has two temples (fana) and a theater.",
         "location_precision": "precise",
-        "title": "Location of the sanctuary",
-        "link": "http://pleiades.stoa.org/places/138615/location-of-the-sanctuary"
+        "title": "Imagery Location of the sanctuary",
+        "link": "http://pleiades.stoa.org/places/138615/imagery-location-of-the-sanctuary"
       }
     }
   ]

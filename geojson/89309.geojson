@@ -59,13 +59,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls-approx",
+      "id": "imagery-location-boundary-of-fort-walls-approx",
       "type": "Feature",
       "properties": {
         "description": "Approximate boundary of fort walls",
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx)",
-        "link": "http://pleiades.stoa.org/places/89309/boundary-of-fort-walls-approx"
+        "title": "Imagery Location: Boundary of fort walls (approx)",
+        "link": "http://pleiades.stoa.org/places/89309/imagery-location-boundary-of-fort-walls-approx"
       }
     },
     {
@@ -76,13 +76,13 @@
           56.010007755
         ]
       },
-      "id": "site-of-fort",
+      "id": "imagery-location-site-of-fort",
       "type": "Feature",
       "properties": {
         "description": "Precise localisation of fort at Carriden House.",
         "location_precision": "precise",
-        "title": "Site of Roman Fort at Carriden",
-        "link": "http://pleiades.stoa.org/places/89309/site-of-fort"
+        "title": "Imagery Location: Site of Roman Fort at Carriden",
+        "link": "http://pleiades.stoa.org/places/89309/imagery-location-site-of-fort"
       }
     }
   ]

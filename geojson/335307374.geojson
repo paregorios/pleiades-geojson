@@ -3,10 +3,10 @@
   "title": "Synagogue at Dura-Europos",
   "id": "335307374",
   "bbox": [
-    40.7270988,
-    34.7474864,
-    40.7270988,
-    34.7474864
+    40.7269042,
+    34.7478425,
+    40.7269042,
+    34.7478425
   ],
   "description": "The Dura-Europos synagogue is one of the oldest known synagogues in the world. According to an Aramaic inscription, its final phase of construction took place in A.D. 244. It was uncovered during excavations in 1932.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.7270988,
-          34.7474864
+          40.7269042,
+          34.7478425
         ]
       },
       "properties": {

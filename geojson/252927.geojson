@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Abariltur",
   "id": "252927",
+  "bbox": [
+    2.20323080105,
+    41.6270452105,
+    2.66008731417,
+    41.6460808986
+  ],
   "description": "An ancient place, cited: BAtlas 25 unlocated Abariltur",
   "connectsWith": [
     "246460"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43165905761,
+          41.6365630545
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

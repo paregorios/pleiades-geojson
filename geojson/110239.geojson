@@ -35,13 +35,13 @@
           50.006236
         ]
       },
-      "id": "midpoint-of-roman-bridge",
+      "id": "imagery-location-midpoint-of-roman-bridge",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Midpoint of Roman bridge",
-        "link": "http://pleiades.stoa.org/places/110239/midpoint-of-roman-bridge"
+        "title": "Imagery Location: Midpoint of Roman bridge",
+        "link": "http://pleiades.stoa.org/places/110239/imagery-location-midpoint-of-roman-bridge"
       }
     }
   ]

@@ -29,46 +29,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          70.8413897469,
-          29.7573247003
+          72.2680005406,
+          31.1535135009
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          67.59,
-          24.07
-        ]
-      },
-      "id": "point-location-for-mouth-of-the-indus-river",
-      "type": "Feature",
-      "properties": {
-        "description": "verified in Google Earth 2013.",
-        "location_precision": "precise",
-        "title": "point location for mouth of the Indus River",
-        "link": "http://pleiades.stoa.org/places/59851/point-location-for-mouth-of-the-indus-river"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.6661687,
-          34.0484606
-        ]
-      },
-      "id": "location-of-course-of-Indus-Sinthos-Phison-fl",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "location of course of Indus/Sinthos/Phison fl.",
-        "link": "http://pleiades.stoa.org/places/59851/location-of-course-of-Indus-Sinthos-Phison-fl"
       }
     },
     {

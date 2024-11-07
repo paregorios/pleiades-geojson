@@ -3,10 +3,10 @@
   "title": "Segontia",
   "id": "246639",
   "bbox": [
-    -2.642246,
-    41.069585,
-    -2.642246,
-    41.069585
+    -2.6405659,
+    41.0680324,
+    -2.6405659,
+    41.0680324
   ],
   "description": "An ancient place, cited: BAtlas 25 C4 Segontia",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.642246,
-          41.069585
+          -2.6405659,
+          41.0680324
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.642246,
-          41.069585
+          -2.6405659,
+          41.0680324
         ]
       },
-      "id": "darmc-location-2098",
+      "id": "osm-location-of-siga1-4enza",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 2098",
-        "link": "http://pleiades.stoa.org/places/246639/darmc-location-2098"
+        "title": "OSM location of Sigüenza",
+        "link": "http://pleiades.stoa.org/places/246639/osm-location-of-siga1-4enza"
       }
     }
   ]

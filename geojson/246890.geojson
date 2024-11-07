@@ -34,13 +34,13 @@
           42.5996
         ]
       },
-      "id": "center-point-of-visible-ancient-remains-reservoir-near-andelos",
+      "id": "imagery-location-center-point-of-visible-ancient-remains-reservoir-near-andelos",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of visible ancient remains - Reservoir near Andelos",
-        "link": "http://pleiades.stoa.org/places/246890/center-point-of-visible-ancient-remains-reservoir-near-andelos"
+        "title": "Imagery Location: Center point of visible ancient remains - Reservoir near Andelos",
+        "link": "http://pleiades.stoa.org/places/246890/imagery-location-center-point-of-visible-ancient-remains-reservoir-near-andelos"
       }
     }
   ]

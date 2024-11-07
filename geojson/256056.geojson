@@ -9,6 +9,9 @@
     37.809644
   ],
   "description": "An ancient place, cited: BAtlas 26 E4 Carbula",
+  "connectsWith": [
+    "256010"
+  ],
   "names": [
     "Carbula",
     "Almodouar",

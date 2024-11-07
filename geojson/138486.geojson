@@ -34,13 +34,13 @@
           45.836865
         ]
       },
-      "id": "center-point-of-the-mountain-of-saint-georges-nigremont",
+      "id": "imagery-location-center-point-of-the-mountain-of-saint-georges-nigremont",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the mountain of Saint-Georges-Nigremont",
-        "link": "http://pleiades.stoa.org/places/138486/center-point-of-the-mountain-of-saint-georges-nigremont"
+        "title": "Imagery Location: Center point of the mountain of Saint-Georges-Nigremont",
+        "link": "http://pleiades.stoa.org/places/138486/imagery-location-center-point-of-the-mountain-of-saint-georges-nigremont"
       }
     }
   ]
