@@ -4,9 +4,9 @@
   "id": "766267488",
   "bbox": [
     12.8038534,
-    41.9630369,
+    41.9630333,
     12.8038534,
-    41.9630369
+    41.9630333
   ],
   "description": "A Roman tomb on the right bank of the Anio discovered in 1929. The tomb dates to the first century A.D. and is associated with Cossinia, a priestess of the cult of Vesta.",
   "connectsWith": [
@@ -22,7 +22,7 @@
         "type": "Point",
         "coordinates": [
           12.8038534,
-          41.9630369
+          41.9630333
         ]
       },
       "properties": {
@@ -34,7 +34,7 @@
         "type": "Point",
         "coordinates": [
           12.8038534,
-          41.9630369
+          41.9630333
         ]
       },
       "id": "osm-location-of-tomba-della-vestale-cossinia",

@@ -3,10 +3,10 @@
   "title": "Ad Fines",
   "id": "187249",
   "bbox": [
-    8.954175,
-    47.594335,
+    8.9591305,
+    47.5942135,
     8.960718,
-    47.59578
+    47.594335
   ],
   "description": "An ancient place, cited: BAtlas 19 A2 Ad Fines",
   "names": [
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.9574465,
-          47.5950575
+          8.95992425,
+          47.59427425
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.954175,
-          47.59578
-        ]
-      },
-      "id": "darmc-location-2318",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 2318",
-        "link": "http://pleiades.stoa.org/places/187249/darmc-location-2318"
       }
     },
     {
@@ -58,6 +41,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/187249/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9591305,
+          47.5942135
+        ]
+      },
+      "id": "osm-location-of-kastell-ad-fines",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kastell Ad Fines",
+        "link": "http://pleiades.stoa.org/places/187249/osm-location-of-kastell-ad-fines"
       }
     }
   ]

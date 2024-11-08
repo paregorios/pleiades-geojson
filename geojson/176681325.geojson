@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Withdrawn duplicate: Marcellinus and Peter",
+  "id": "176681325",
+  "bbox": [
+    12.549083,
+    41.879028,
+    12.549083,
+    41.879028
+  ],
+  "description": "This place resource was withdrawn and moved to \"errata\" because it is a duplicate of https://pleiades.stoa.org/places/281289039",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549083,
+          41.879028
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549083,
+          41.879028
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "verified in Google Earth 2012",
+        "location_precision": "precise",
+        "title": "Imagery location of Catacomb of Marcellinus and Peter",
+        "link": "http://pleiades.stoa.org/errata/176681325/imagery-location"
+      }
+    }
+  ]
+}

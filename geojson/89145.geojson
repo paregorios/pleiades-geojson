@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.745036867,
-          55.6392781761
+          -3.889029634,
+          55.6945481521
         ]
       },
       "properties": {
@@ -5116,23 +5116,6 @@
         "location_precision": "precise",
         "title": "OSM location of River Clyde",
         "link": "http://pleiades.stoa.org/places/89145/osm-location-of-river-clyde"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6010441,
-          55.5840082
-        ]
-      },
-      "id": "osm-location-of-Clota-fl",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Clota fl.",
-        "link": "http://pleiades.stoa.org/places/89145/osm-location-of-Clota-fl"
       }
     }
   ]

@@ -3,14 +3,17 @@
   "title": "Hypogeum of Ħal-Saflieni (Malta)",
   "id": "477527423",
   "bbox": [
-    14.506389,
-    35.87,
-    14.506389,
-    35.87
+    14.5067611,
+    35.8694195,
+    14.5070218,
+    35.8696804
   ],
   "description": "A prehistoric, subterranean temple; named as a UNESCO World Heritage Site in 1980.",
   "connectsWith": [
     "462311"
+  ],
+  "names": [
+    "Hypogeum of Ħal-Saflieni"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.506389,
-          35.87
+          14.5069057742,
+          35.8695600775
         ]
       },
       "properties": {
@@ -28,19 +31,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.506389,
-          35.87
+          [
+            14.5069908,
+            35.869654
+          ],
+          [
+            14.5069748,
+            35.8695747
+          ],
+          [
+            14.5070218,
+            35.8695685
+          ],
+          [
+            14.5069918,
+            35.8694195
+          ],
+          [
+            14.5069357,
+            35.8694269
+          ],
+          [
+            14.5069515,
+            35.8695052
+          ],
+          [
+            14.5067611,
+            35.8695304
+          ],
+          [
+            14.5067914,
+            35.8696804
+          ],
+          [
+            14.5069908,
+            35.869654
+          ]
         ]
       },
-      "id": "hypogeum-of-126al-saflieni",
+      "id": "osm-location-of-a-al-saflieni-hypogeum",
       "type": "Feature",
       "properties": {
-        "description": "A prehistoric, subterranean temple; named as a UNESCO World Heritage Site in 1980",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Hypogeum of Ħal-Saflieni",
-        "link": "http://pleiades.stoa.org/places/477527423/hypogeum-of-126al-saflieni"
+        "title": "OSM location of Ħal Saflieni Hypogeum",
+        "link": "http://pleiades.stoa.org/places/477527423/osm-location-of-a-al-saflieni-hypogeum"
       }
     }
   ]
