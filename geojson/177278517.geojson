@@ -3,10 +3,10 @@
   "title": "Praetorium at Gortyna",
   "id": "177278517",
   "bbox": [
-    24.9514088,
-    35.0588379,
-    24.9514088,
-    35.0588379
+    24.9512908,
+    35.0590004,
+    24.9512908,
+    35.0590004
   ],
   "description": "The Praetorium at Gortyna dates to the first century A.D.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9514088,
-          35.0588379
+          24.9512908,
+          35.0590004
         ]
       },
       "properties": {

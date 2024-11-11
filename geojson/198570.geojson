@@ -9,6 +9,10 @@
     46.0
   ],
   "description": "An ancient place, cited: BAtlas 20 F4 unnamed bridge (Mursa, over Danuvius fl.)",
+  "connectsWith": [
+    "226577",
+    "197389"
+  ],
   "features": [
     {
       "type": "Feature",

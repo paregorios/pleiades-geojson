@@ -3,10 +3,10 @@
   "title": "Vicus Censorius",
   "id": "894727084",
   "bbox": [
-    12.477222,
-    41.890833,
-    12.486137,
-    41.891775
+    12.4746282,
+    41.8895907,
+    12.4793242,
+    41.8913292
   ],
   "description": "A street located on the Tiber Island that connected the Pons Cestius and Pons Fabricius. It is cited on the so-called \"Capitoline Base\".",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4816795,
-          41.891304
+          12.4772132209,
+          41.8906096962
         ]
       },
       "properties": {

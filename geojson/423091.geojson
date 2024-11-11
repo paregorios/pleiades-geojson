@@ -9,6 +9,9 @@
     41.9699464
   ],
   "description": "A Roman tomb, known as the Torraccia dell’Inviolata. This tomb has a cruciform plan that is inscribed within a circular structure. Based on masonry techniques the tomb dates to the later first or second century.",
+  "names": [
+    "Torraccia dell'Inviolata"
+  ],
   "features": [
     {
       "type": "Feature",

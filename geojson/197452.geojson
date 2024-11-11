@@ -3,10 +3,10 @@
   "title": "*Ponte Navata",
   "id": "197452",
   "bbox": [
-    18.980086,
-    47.7979363,
+    18.9790935,
+    47.7976752,
     18.9811222,
-    47.798208
+    47.7987453
   ],
   "description": "*Ponte Navata, a late Roman fort on Sibrik hill, Visegrád, Hungary.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.9806041,
-          47.79807215
+          18.9800612892,
+          47.7981876607
         ]
       },
       "properties": {

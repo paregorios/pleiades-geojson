@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "425826",
   "bbox": [
-    12.75,
-    41.25,
-    13.0,
-    41.5
+    12.9975,
+    41.46639,
+    12.9975,
+    41.46639
   ],
   "description": "An ancient place, cited: BAtlas 43 D4 unnamed canal group (SW Forum Appii)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.875,
-          41.375
+          12.9975,
+          41.46639
         ]
       },
       "properties": {

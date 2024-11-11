@@ -3,14 +3,15 @@
   "title": "Unnamed bridge",
   "id": "188762",
   "bbox": [
-    13.6399274,
-    45.9719131,
-    13.6399274,
-    45.9719131
+    13.4275728,
+    45.7262438,
+    13.7540761,
+    46.4118388
   ],
   "description": "An ancient place, cited: BAtlas 19 F4 unnamed bridge (Pons Sonti, over Aesontius fl.)",
   "connectsWith": [
-    "187264"
+    "187264",
+    "187519"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6399274,
-          45.9719131
+          13.5858724627,
+          46.0921390332
         ]
       },
       "properties": {

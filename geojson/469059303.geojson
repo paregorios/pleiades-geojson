@@ -4,8 +4,8 @@
   "id": "469059303",
   "bbox": [
     15.087531,
-    40.987863,
-    15.475346,
+    41.051222,
+    15.425269,
     41.152484
   ],
   "description": "A Roman road known through epigraphic attestations, the Via Herculia connected Aquilonia and Aequum Tuticum.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.26891925,
-          41.08653625
+          15.25604625,
+          41.102376
         ]
       },
       "properties": {

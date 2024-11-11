@@ -1,14 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Dumna Ins.",
+  "title": "Dumna (island)",
   "id": "89170",
   "bbox": [
-    -6.42501,
-    58.04775,
-    -6.42501,
-    58.04775
+    -6.719144,
+    58.089904,
+    -6.719144,
+    58.089904
   ],
-  "description": "An ancient place, cited: BAtlas 9 A2 Dumna Ins.",
+  "description": "The ancient Dumna Insula is the modern Lewis and Harris, an island in the Outer Hebrides, approximately 24 miles (39 km) from the Scottish mainland.",
+  "connectsWith": [
+    "89198"
+  ],
   "names": [
     "Dumna"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.42501,
-          58.04775
+          -6.719144,
+          58.089904
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.42501,
-          58.04775
+          -6.719144,
+          58.089904
         ]
       },
-      "id": "osm-location",
+      "id": "imagery-location-modern-lewis-and-harris-island",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": null,
         "location_precision": "precise",
-        "title": "OSM location of part of Dumna Coastline",
-        "link": "http://pleiades.stoa.org/places/89170/osm-location"
+        "title": "Imagery Location: modern Lewis and Harris Island",
+        "link": "http://pleiades.stoa.org/places/89170/imagery-location-modern-lewis-and-harris-island"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Castra Caecilia",
   "id": "256083",
   "bbox": [
-    -6.352065,
-    39.5024526,
-    -6.352065,
-    39.5024526
+    -6.3542324,
+    39.4948379,
+    -6.3468424,
+    39.502459
   ],
   "description": "An ancient place, cited: BAtlas 26 D2 Castra Caecilia",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.352065,
-          39.5024526
+          -6.35053820221,
+          39.4986187074
         ]
       },
       "properties": {
@@ -81,7 +81,7 @@
       "properties": {
         "description": "Representative location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "OSM location of castrum",
+        "title": "OSM location of Campamento Romano de Cáceres el Viejo",
         "link": "http://pleiades.stoa.org/places/256083/location-of-castrum"
       }
     }

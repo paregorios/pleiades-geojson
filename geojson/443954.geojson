@@ -5,13 +5,14 @@
   "bbox": [
     15.5454392,
     41.0737287,
-    15.5455427,
-    41.0744339
+    15.545577,
+    41.0744533
   ],
   "description": "A much-repaired medieval bridge crossing the Aufidus (modern Ofanto) river. Long a traditional candidate location for the \"Pons Aufidi\" shown on the Peutinger map (thus BAtlas), recent survey work has found no evidence in the area consistent with a Roman-era bridge. The Pietra Dell'Oglio bridge (further south on the Ofanto) is of Roman date and now a more likely candidate. The Ponte S. Venere remains in use today for the Strada Statale 303.",
   "connectsWith": [
     "442727",
-    "356966898"
+    "356966898",
+    "442485"
   ],
   "features": [
     {
@@ -19,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.545506475,
-          41.07416315
+          15.54551505,
+          41.074168
         ]
       },
       "properties": {
@@ -36,8 +37,8 @@
             41.0737287
           ],
           [
-            15.5455427,
-            41.0744339
+            15.545577,
+            41.0744533
           ]
         ]
       },

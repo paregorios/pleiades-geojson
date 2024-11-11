@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "House of the Arrhephoroi",
   "id": "425217700",
+  "bbox": [
+    23.7245211,
+    37.9710817,
+    23.7283367,
+    37.9723279
+  ],
   "description": "A house on the Acropolis of Athens, the residence of the Arrheporoi ('bearers of unspoken things'), two girls, who helped weave Athena's cloak for the Panathenaia festival and carried a box containing the 'unspoken things' down from the Acropolis to a precinct near the sanctuary of Aphrodite in the Gardens during the Arrhephoria festival. The house is possibly to be identified with Building III on the Acropolis.",
   "connectsWith": [
     "638356144",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.726276824,
+          37.9719950716
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

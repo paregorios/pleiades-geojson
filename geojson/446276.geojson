@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Opino",
   "id": "446276",
+  "bbox": [
+    15.810676,
+    40.816934,
+    15.8287889,
+    40.9704942
+  ],
   "description": "An ancient place, cited: BAtlas 45 unlocated Opino",
   "connectsWith": [
     "469059303",
@@ -14,7 +20,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8187759112,
+          40.892970587
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

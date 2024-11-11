@@ -9,6 +9,9 @@
     45.907285
   ],
   "description": "An ancient place, cited: BAtlas 19 F4 Pons Sonti",
+  "connectsWith": [
+    "187264"
+  ],
   "names": [
     "Pons Sonti"
   ],

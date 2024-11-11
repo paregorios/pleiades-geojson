@@ -3,10 +3,10 @@
   "title": "Nurabad",
   "id": "922687",
   "bbox": [
-    51.499016,
-    30.063014,
-    51.499016,
-    30.063014
+    51.4593497,
+    30.0998393,
+    51.4596716,
+    30.1001183
   ],
   "description": "An ancient place, cited: BAtlas 94 B3 Nurabad",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.499016,
-          30.063014
+          51.4595123282,
+          30.0999794031
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          51.499016,
-          30.063014
+          [
+            51.4595925,
+            30.1001183
+          ],
+          [
+            51.4593497,
+            30.1000439
+          ],
+          [
+            51.4594384,
+            30.0998393
+          ],
+          [
+            51.4596716,
+            30.0999123
+          ],
+          [
+            51.4595925,
+            30.1001183
+          ]
         ]
       },
-      "id": "darmc-location-22293",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 22293",
-        "link": "http://pleiades.stoa.org/places/922687/darmc-location-22293"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/922687/osm-location"
       }
     }
   ]

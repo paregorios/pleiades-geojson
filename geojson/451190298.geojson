@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Block C10",
   "id": "451190298",
+  "bbox": [
+    40.7250559,
+    34.7433989,
+    40.7350123,
+    34.7523766
+  ],
   "description": "City block of Dura-Europos labeled according to modern excavators' scheme.",
   "connectsWith": [
     "893990"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7300296248,
+          34.747867009
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
