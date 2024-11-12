@@ -3,10 +3,10 @@
   "title": "Ibericum Mare",
   "id": "1033",
   "bbox": [
-    -15.0,
-    35.0,
-    -10.0,
-    40.0
+    -19.665682,
+    31.937048,
+    -19.665682,
+    31.937048
   ],
   "description": "The westernmost portion of the Mediterranean Sea, lying between the Iberian Peninsula and North Africa.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -12.5,
-          37.5
+          -19.665682,
+          31.937048
         ]
       },
       "properties": {

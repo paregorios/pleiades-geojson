@@ -9,6 +9,9 @@
     47.273341
   ],
   "description": "An ancient place, cited: BAtlas 19 D2 Teriolis",
+  "connectsWith": [
+    "118547"
+  ],
   "names": [
     "Teriolis",
     "Zirl"
