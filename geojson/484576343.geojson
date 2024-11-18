@@ -3,10 +3,10 @@
   "title": "Jewry Wall",
   "id": "484576343",
   "bbox": [
-    -1.1412289,
-    52.6351709,
-    -1.1412289,
-    52.6351709
+    -1.1411717,
+    52.6349682,
+    -1.1409934,
+    52.6351654
   ],
   "description": "The so-called \"Jewry Wall\" is a substantial segment of surviving Roman masonry at Ratae.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1412289,
-          52.6351709
+          -1.14108255,
+          52.6350668
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.1412289,
-          52.6351709
+          [
+            -1.1411717,
+            52.6351563
+          ],
+          [
+            -1.1410251,
+            52.6349682
+          ],
+          [
+            -1.1409934,
+            52.6349773
+          ],
+          [
+            -1.14114,
+            52.6351654
+          ],
+          [
+            -1.1411717,
+            52.6351563
+          ]
         ]
       },
       "id": "osm-location-of-jewry-wall",

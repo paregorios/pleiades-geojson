@@ -3,10 +3,10 @@
   "title": "Theater at Madauros",
   "id": "745799804",
   "bbox": [
-    7.901385,
+    7.9012938,
     36.0777476,
-    7.901385,
-    36.0777476
+    7.9016666,
+    36.0780186
   ],
   "description": "The Roman theater at Madauros in Africa Proconsularis.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.901385,
-          36.0777476
+          7.90146587803,
+          36.077896436
         ]
       },
       "properties": {
@@ -79,9 +79,9 @@
       "id": "osm-location-of-theater",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of theater",
+        "title": "OSM location of Madauros Theatre",
         "link": "http://pleiades.stoa.org/places/745799804/osm-location-of-theater"
       }
     }

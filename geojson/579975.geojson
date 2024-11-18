@@ -9,6 +9,9 @@
     37.978127
   ],
   "description": "A deme of ancient Attica that was located in the center of Athens to the northeast of the Dipylon Gate.",
+  "connectsWith": [
+    "579885"
+  ],
   "names": [
     "Kerameis"
   ],

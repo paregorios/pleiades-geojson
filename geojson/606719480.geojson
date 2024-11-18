@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Scalae caci",
   "id": "606719480",
+  "bbox": [
+    12.4825249,
+    41.8840383,
+    12.4888834,
+    41.8894338
+  ],
   "description": "A stairway located at the southwest corner of the Palatine Hill in Rome, the Scalae caci led from the hilltop down to the valley of the Circus Maximus. If the amended manuscript of Plutarch's biography of Romulus is to be followed, then the Scalae caci provide a point of orientation for location of the supposed dwelling of Romulus. According to the text of Solinus, the Scalae caci also represent one of the four corners of Roma quadrata.",
   "connectsWith": [
     "423025",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4848810935,
+          41.8892502861
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "tribus Maecia",
   "id": "177271381",
+  "bbox": [
+    13.981081,
+    40.63619,
+    17.946867,
+    42.5802
+  ],
   "description": "Tribus Maecia (originally Maicia) was a later rural tribe of ancient Rome, established in 332 B.C.",
   "connectsWith": [
     "423025",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.96199625,
+          41.6094315
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

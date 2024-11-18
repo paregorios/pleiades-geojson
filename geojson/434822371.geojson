@@ -3,10 +3,10 @@
   "title": "Roman theater at Cádiz",
   "id": "434822371",
   "bbox": [
-    -6.2938425,
-    36.5284691,
-    -6.2938425,
-    36.5284691
+    -6.2939744,
+    36.5280067,
+    -6.2933027,
+    36.5285446
   ],
   "description": "The Roman theater at Cádiz was one of the largest in the Roman world, accommodating some 20,000 spectators. It dates originally to the first century B.C. In the thirteenth century it was incorporated into a fortress built by King Alfonso X of Castile.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.2938425,
-          36.5284691
+          -6.2936286599,
+          36.5282767882
         ]
       },
       "properties": {

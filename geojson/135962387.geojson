@@ -3,9 +3,9 @@
   "title": "Basilica Manastirine",
   "id": "135962387",
   "bbox": [
-    16.4825906,
-    43.5421187,
-    16.4825906,
+    16.4825884,
+    43.5419331,
+    16.4831066,
     43.5421187
   ],
   "description": "An important extra-mural Christian site at Solina. The site includes the basilica and the cemetery of Manastirine, associated with a Christian martyr.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.4825906,
-          43.5421187
+          16.4828357178,
+          43.542022345
         ]
       },
       "properties": {
@@ -28,10 +28,52 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.4825906,
-          43.5421187
+          [
+            16.4825906,
+            43.5421187
+          ],
+          [
+            16.4830417,
+            43.5421075
+          ],
+          [
+            16.4830448,
+            43.5420515
+          ],
+          [
+            16.4830819,
+            43.5420493
+          ],
+          [
+            16.4831066,
+            43.5420246
+          ],
+          [
+            16.4831066,
+            43.541991
+          ],
+          [
+            16.4830788,
+            43.5419776
+          ],
+          [
+            16.4830412,
+            43.5419747
+          ],
+          [
+            16.4830432,
+            43.5419331
+          ],
+          [
+            16.4825884,
+            43.5419346
+          ],
+          [
+            16.4825906,
+            43.5421187
+          ]
         ]
       },
       "id": "location-of-manastirine-basilica",

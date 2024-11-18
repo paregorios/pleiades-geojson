@@ -3,10 +3,10 @@
   "title": "Sora",
   "id": "433126",
   "bbox": [
-    13.614105,
-    41.715723,
-    13.614105,
-    41.715723
+    13.6139576,
+    41.7203358,
+    13.6139576,
+    41.7203358
   ],
   "description": "An ancient city of Latium located in the valley of the Liris River that likely had Volscian origins. The Romans captured the city in 345 BCE and later established a colony there in 303 BCE after the Second Samnite War.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.614105,
-          41.715723
+          13.6139576,
+          41.7203358
         ]
       },
       "properties": {
@@ -35,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.614105,
-          41.715723
+          13.6139576,
+          41.7203358
         ]
       },
       "id": "location-of-sora",
@@ -44,7 +44,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Sora",
+        "title": "OSM location of Sora",
         "link": "http://pleiades.stoa.org/places/433126/location-of-sora"
       }
     }

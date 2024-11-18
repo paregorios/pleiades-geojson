@@ -9,6 +9,9 @@
     40.0
   ],
   "description": "An ancient place, cited: BAtlas 6 B2 Bactrus?/Zariaspis? fl.",
+  "connectsWith": [
+    "59969"
+  ],
   "names": [
     "Bactrus",
     "Zariaspis"

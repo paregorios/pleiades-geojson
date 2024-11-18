@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Cholbesina",
   "id": "60481",
+  "bbox": [
+    64.9580180018,
+    38.8444913299,
+    68.6580798659,
+    39.0586428205
+  ],
   "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
   "connectsWith": [
     "60058"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8994485968,
+          38.9610841401
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

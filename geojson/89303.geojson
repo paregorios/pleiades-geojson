@@ -9,6 +9,9 @@
     55.96288
   ],
   "description": "An ancient place, cited: BAtlas 9 E5 Traprain Law",
+  "connectsWith": [
+    "89263"
+  ],
   "features": [
     {
       "type": "Feature",

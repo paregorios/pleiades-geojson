@@ -3,10 +3,10 @@
   "title": "Roman theater at Helikore/Nicaea",
   "id": "347812262",
   "bbox": [
+    29.7163779,
+    40.4263872,
     29.717381,
-    40.4268438,
-    29.717381,
-    40.4268438
+    40.4268932
   ],
   "description": "Pliny the Younger discussed the restoration of the theater in a letter sent to the Roman emperor Trajan.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.717381,
-          40.4268438
+          29.7168787293,
+          40.4266668194
         ]
       },
       "properties": {

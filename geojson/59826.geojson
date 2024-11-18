@@ -3,10 +3,10 @@
   "title": "Gaza",
   "id": "59826",
   "bbox": [
-    65.0,
-    40.0,
-    70.0,
-    45.0
+    64.9580180018,
+    38.8444913299,
+    68.6580798659,
+    39.0586428205
   ],
   "description": "Gaza was a city or strongly fortified place in Sogdiana, captured by Alexander the Great.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          42.5
+          66.8994485968,
+          38.9610841401
         ]
       },
       "properties": {

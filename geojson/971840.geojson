@@ -3,10 +3,10 @@
   "title": "Pareitakene",
   "id": "971840",
   "bbox": [
-    67.0,
-    38.0,
-    68.0,
-    39.0
+    64.9580180018,
+    38.8444913299,
+    68.6580798659,
+    39.0586428205
   ],
   "description": "An ancient place, cited: BAtlas 99 B1 Pareitakene",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          38.5
+          66.8994485968,
+          38.9610841401
         ]
       },
       "properties": {
