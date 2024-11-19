@@ -5,8 +5,8 @@
   "bbox": [
     9.9416517,
     45.664553,
-    9.9416517,
-    45.664553
+    9.9597146,
+    45.6667519
   ],
   "description": "An ancient place, cited: BAtlas 39 F2 Ollius fl.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.9416517,
-          45.664553
+          9.95075525668,
+          45.6657262708
         ]
       },
       "properties": {

@@ -4,8 +4,8 @@
   "id": "502042016",
   "bbox": [
     8.277543,
-    41.891775,
-    12.486137,
+    42.9652963,
+    10.6809305,
     45.052752
   ],
   "description": "A Roman road connecting Rome to Placentia begun by Marcus Aemilius Scaurus in 115 B.C.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.78215184732,
-          44.0017565784
+          9.51175333206,
+          44.2127547362
         ]
       },
       "properties": {
