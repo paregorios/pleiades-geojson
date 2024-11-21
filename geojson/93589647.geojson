@@ -8,7 +8,7 @@
     23.1311076,
     37.422578
   ],
-  "description": "The Franchthi Cave is located on the Argolic Gulf in southeastern Argolis. The cave was occupied from the Paleolithic (ca. 20,000 BC) through to the Mesolithic and Neolithic periods, ultimately being abandoned ca. 3000 BC. The cave shows continuous human occupation for more than 20,000 years.",
+  "description": "The Franchthi Cave is located on the Argolic Gulf in southeastern Argolis. The cave and the area outside its entrance (known as the Paralia) were occupied from the Paleolithic (ca. 20,000 BC) through to the Mesolithic and Neolithic periods, ultimately being abandoned ca. 3000 BC. The cave shows continuous human occupation for more than 20,000 years.",
   "features": [
     {
       "type": "Feature",
@@ -36,7 +36,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Franchthi Cave",
+        "title": "OSM location of Franchthi Cave",
         "link": "http://pleiades.stoa.org/places/93589647/location-of-franchthi-cave"
       }
     }

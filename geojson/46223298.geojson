@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Halawa",
+  "id": "46223298",
+  "bbox": [
+    38.09961493,
+    36.11108571,
+    38.09961493,
+    36.11108571
+  ],
+  "description": "Settlement and necropolis site on the left bank of the Euphrates with remains dated to the Bronze Age and a later Roman reoccupation.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.09961493,
+          36.11108571
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.09961493,
+          36.11108571
+        ]
+      },
+      "id": "location-of-halawa-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Halawa site, from Gaborit 2015.",
+        "location_precision": "precise",
+        "title": "Imagery location of Halawa site",
+        "link": "http://pleiades.stoa.org/places/46223298/location-of-halawa-site"
+      }
+    }
+  ]
+}

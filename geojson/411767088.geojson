@@ -3,10 +3,10 @@
   "title": "Ponte Gobbo",
   "id": "411767088",
   "bbox": [
-    9.3892026,
-    44.7671115,
-    9.3892026,
-    44.7671115
+    9.3890826,
+    44.7671215,
+    9.3925849,
+    44.7671957
   ],
   "description": "A Medieval bridge across the river Trebia that is said to have Roman origins.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3892026,
-          44.7671115
+          9.39083374673,
+          44.767158732
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          9.3892026,
-          44.7671115
+          [
+            9.3890826,
+            44.7671215
+          ],
+          [
+            9.3891058,
+            44.7671222
+          ],
+          [
+            9.3891652,
+            44.7671235
+          ],
+          [
+            9.3924707,
+            44.7671933
+          ],
+          [
+            9.3925849,
+            44.7671957
+          ]
         ]
       },
       "id": "osm-location",
