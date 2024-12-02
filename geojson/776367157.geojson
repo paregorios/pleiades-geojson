@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman villa at Anagnina Metro station ",
+  "id": "776367157",
+  "bbox": [
+    12.5872779,
+    41.8432658,
+    12.5872779,
+    41.8432658
+  ],
+  "description": "The archaeological remains of a villa in the suburbium of the city of Rome located adjacent to what is now a station of the Rome Metro system at Anagnina.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5872779,
+          41.8432658
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5872779,
+          41.8432658
+        ]
+      },
+      "id": "osm-location-of-villa-metro-anagnina",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Metro Anagnina",
+        "link": "http://pleiades.stoa.org/places/776367157/osm-location-of-villa-metro-anagnina"
+      }
+    }
+  ]
+}

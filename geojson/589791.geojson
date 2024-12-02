@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Gaurion",
   "id": "589791",
+  "bbox": [
+    24.6804649,
+    37.6821091,
+    25.0007636,
+    37.9995793
+  ],
   "description": "An ancient place, cited: BAtlas 60 A4 Gaurion",
   "connectsWith": [
     "589693"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8509719288,
+          37.8568440184
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

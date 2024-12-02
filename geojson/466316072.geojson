@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arch of Caracalla, Djemila",
+  "id": "466316072",
+  "bbox": [
+    5.7355404,
+    36.3204402,
+    5.7355936,
+    36.3204839
+  ],
+  "description": "A Roman triumphal arch monument dedicated to Caracalla, Julia Domna, and the deified Septimius Severus located at ancient Cuicul / Curculum (modern Djémila).",
+  "connectsWith": [
+    "305068"
+  ],
+  "names": [
+    "Arch of Caracalla (Djémila)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73556698593,
+          36.3204620293
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.7355404,
+            36.3204713
+          ],
+          [
+            5.7355568,
+            36.3204839
+          ],
+          [
+            5.7355936,
+            36.3204527
+          ],
+          [
+            5.7355771,
+            36.3204402
+          ],
+          [
+            5.7355404,
+            36.3204713
+          ]
+        ]
+      },
+      "id": "osm-location-of-arc-de-caracalla",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arc de Caracalla",
+        "link": "http://pleiades.stoa.org/places/466316072/osm-location-of-arc-de-caracalla"
+      }
+    }
+  ]
+}

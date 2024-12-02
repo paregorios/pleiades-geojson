@@ -3,10 +3,10 @@
   "title": "Newgrange",
   "id": "79612",
   "bbox": [
-    -6.4759092,
-    53.695006,
-    -6.4759092,
-    53.695006
+    -6.4761726,
+    53.6943482,
+    -6.4749163,
+    53.6950746
   ],
   "description": "Newgrange is a prehistoric monument in County Meath, Ireland, built ca. 3200 BC.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.4759092,
-          53.695006
+          -6.47553254537,
+          53.6947090978
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Falerna",
   "id": "534380454",
   "bbox": [
-    13.5,
-    41.0,
-    14.0,
-    41.5
+    13.9374944078,
+    41.1860939837,
+    14.0314831175,
+    41.205724537
   ],
   "description": "A rural tribe of Rome, which was established in 318 B.C.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.75,
-          41.25
+          13.9797761594,
+          41.1958643753
         ]
       },
       "properties": {

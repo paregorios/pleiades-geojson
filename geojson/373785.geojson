@@ -4,8 +4,8 @@
   "id": "373785",
   "bbox": [
     22.2758393,
-    32.866822,
-    22.281619,
+    32.8727044,
+    22.2793905,
     32.873583
   ],
   "description": "An ancient place, cited: BAtlas 38 D1 Erythron",
@@ -19,46 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.2786287667,
-          32.869317
+          22.2776092414,
+          32.8731574129
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.278428,
-          32.867546
-        ]
-      },
-      "id": "darmc-location-12383",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12383",
-        "link": "http://pleiades.stoa.org/places/373785/darmc-location-12383"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.281619,
-          32.866822
-        ]
-      },
-      "id": "darmc-location-34900",
-      "type": "Feature",
-      "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 34900",
-        "link": "http://pleiades.stoa.org/places/373785/darmc-location-34900"
       }
     },
     {

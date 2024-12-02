@@ -3,10 +3,10 @@
   "title": "Panagia Kanakaria",
   "id": "707600",
   "bbox": [
-    34.156296,
-    35.4776,
-    34.156296,
-    35.4776
+    34.1646324,
+    35.4781445,
+    34.1654965,
+    35.4786501
   ],
   "description": "An ancient place, cited: BAtlas 72 E2 Panagia Kanakaria",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.156296,
-          35.4776
+          34.1650455858,
+          35.4784295701
         ]
       },
       "properties": {
@@ -25,19 +25,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          34.156296,
-          35.4776
+          [
+            34.1646324,
+            35.4786028
+          ],
+          [
+            34.1654094,
+            35.4786501
+          ],
+          [
+            34.1654965,
+            35.47835
+          ],
+          [
+            34.1651861,
+            35.4782805
+          ],
+          [
+            34.1651915,
+            35.4782509
+          ],
+          [
+            34.1647395,
+            35.4781445
+          ],
+          [
+            34.1646324,
+            35.4786028
+          ]
         ]
       },
-      "id": "darmc-location-5283",
+      "id": "osm-location-of-kanakaria-monastery",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 5283",
-        "link": "http://pleiades.stoa.org/places/707600/darmc-location-5283"
+        "title": "OSM location of Kanakaria Monastery",
+        "link": "http://pleiades.stoa.org/places/707600/osm-location-of-kanakaria-monastery"
       }
     }
   ]

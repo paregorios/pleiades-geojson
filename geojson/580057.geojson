@@ -9,6 +9,9 @@
     37.75
   ],
   "description": "An ancient place, cited: BAtlas 59 D4 Panormos",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Panormos"
   ],

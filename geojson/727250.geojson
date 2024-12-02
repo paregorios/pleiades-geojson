@@ -9,6 +9,9 @@
     31.314035
   ],
   "description": "The Egyptian site of Thonis, sometimes referred to as Thonis-Heracleion, was located near the Canopic Mouth of the Nile, approximately 32 km northeast of Alexandria. Its ruins are now submerged.",
+  "connectsWith": [
+    "727120"
+  ],
   "names": [
     "Thonis"
   ],

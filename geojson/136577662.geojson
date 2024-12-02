@@ -1,14 +1,10 @@
 {
   "type": "FeatureCollection",
-  "title": "tribus Claudia",
-  "id": "310265136",
-  "description": "The tribus Claudia was the twenty-first rural tribe.",
-  "connectsWith": [
-    "423025",
-    "432900"
-  ],
+  "title": "Saraparae",
+  "id": "136577662",
+  "description": "A Bactrian tribe who lived near the Hindu Kush of northern Afghanistan.",
   "names": [
-    "vetus Claudia tribus"
+    "Saraparae"
   ],
   "features": [
     {

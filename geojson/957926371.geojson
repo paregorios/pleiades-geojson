@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sarno Baths",
+  "id": "957926371",
+  "bbox": [
+    14.4854074,
+    40.7480807,
+    14.4854074,
+    40.7480807
+  ],
+  "description": "The so-called \"Sarno Baths\" (Regio VIII, Insula 2, nos. 17–21) at Pompeii resulted from the merger and remodeling of two atrium houses, no. 18 and no. 21. There is considerable debate in the scholarly literature as to the architectural phasing.",
+  "connectsWith": [
+    "538911200",
+    "433032",
+    "838230144"
+  ],
+  "names": [
+    "Sarno Bath Complex"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4854074,
+          40.7480807
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4854074,
+          40.7480807
+        ]
+      },
+      "id": "osm-location-of-terme-sarno",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Terme Sarno",
+        "link": "http://pleiades.stoa.org/places/957926371/osm-location-of-terme-sarno"
+      }
+    }
+  ]
+}

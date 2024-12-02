@@ -1,14 +1,10 @@
 {
   "type": "FeatureCollection",
-  "title": "tribus Claudia",
-  "id": "310265136",
-  "description": "The tribus Claudia was the twenty-first rural tribe.",
+  "title": "Sanctuary of Athena at Kardamyle",
+  "id": "83493702",
+  "description": "Pausanias describes a Sanctuary of Athena at Kardamyle.",
   "connectsWith": [
-    "423025",
-    "432900"
-  ],
-  "names": [
-    "vetus Claudia tribus"
+    "570330"
   ],
   "features": [
     {

@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Arienzo",
+        "title": "OSM location of Arienzo",
         "link": "http://pleiades.stoa.org/places/362684055/arienzo"
       }
     }

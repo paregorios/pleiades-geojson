@@ -3,6 +3,9 @@
   "title": "Lykoreia",
   "id": "543770",
   "description": "An ancient place, cited: BAtlas 55 unlocated Lykoreia",
+  "connectsWith": [
+    "541012"
+  ],
   "names": [
     "Lykoreia"
   ],

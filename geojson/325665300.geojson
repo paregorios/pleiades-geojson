@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Theater of Augustodunum",
+  "id": "325665300",
+  "bbox": [
+    4.3091426,
+    46.9521202,
+    4.3104088,
+    46.9533374
+  ],
+  "description": "The Roman theater of Augustodunum dates to the reign of Trajan and was dedicated in 105 CE.",
+  "connectsWith": [
+    "177460"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.30976889309,
+          46.9526461025
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.3096757,
+            46.9533374
+          ],
+          [
+            4.3099325,
+            46.9529322
+          ],
+          [
+            4.3100425,
+            46.9529649
+          ],
+          [
+            4.3102718,
+            46.9525853
+          ],
+          [
+            4.3101685,
+            46.9525511
+          ],
+          [
+            4.3104088,
+            46.9521591
+          ],
+          [
+            4.310228,
+            46.9521273
+          ],
+          [
+            4.3100443,
+            46.9521202
+          ],
+          [
+            4.3098759,
+            46.9521344
+          ],
+          [
+            4.3097046,
+            46.9521711
+          ],
+          [
+            4.3095397,
+            46.9522377
+          ],
+          [
+            4.3093689,
+            46.9523444
+          ],
+          [
+            4.3092394,
+            46.9524777
+          ],
+          [
+            4.3091673,
+            46.9526149
+          ],
+          [
+            4.3091426,
+            46.9527547
+          ],
+          [
+            4.30917,
+            46.9529093
+          ],
+          [
+            4.3092468,
+            46.9530556
+          ],
+          [
+            4.3093806,
+            46.9531905
+          ],
+          [
+            4.309528,
+            46.9532805
+          ],
+          [
+            4.3096757,
+            46.9533374
+          ]
+        ]
+      },
+      "id": "osm-location-of-tha-c-atre-romain",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Théatre romain",
+        "link": "http://pleiades.stoa.org/places/325665300/osm-location-of-tha-c-atre-romain"
+      }
+    }
+  ]
+}

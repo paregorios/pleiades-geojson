@@ -3,10 +3,10 @@
   "title": "Moesia Inferior (province)",
   "id": "981535",
   "bbox": [
-    20.0,
-    40.0,
-    25.0,
-    45.0
+    31.9001502,
+    46.6870505,
+    31.9102407,
+    46.6964665
   ],
   "description": "A province of the Roman Empire created under the Emperor Domitian from part of the older province of Moesia (q.v.).",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.5,
-          42.5
+          31.9061334017,
+          46.6922461376
         ]
       },
       "properties": {

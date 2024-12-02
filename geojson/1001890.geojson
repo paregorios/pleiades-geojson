@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Haimimontos",
+  "title": "Haimimontos (province)",
   "id": "1001890",
   "bbox": [
     25.0,
@@ -8,7 +8,11 @@
     30.0,
     45.0
   ],
-  "description": "An ancient place, cited: BAtlas 102 E3 no. 4 (Haimimontos)",
+  "description": "A province of the early Byzantine empire.",
+  "connectsWith": [
+    "991377",
+    "1001132"
+  ],
   "names": [
     "Haimimontos"
   ],

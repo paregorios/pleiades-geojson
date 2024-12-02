@@ -3,10 +3,10 @@
   "title": "Gardens of Maecenas",
   "id": "399141643",
   "bbox": [
-    12.5012225,
-    41.8940964,
-    12.5012225,
-    41.8940964
+    12.5011624,
+    41.8938757,
+    12.5015251,
+    41.8941013
   ],
   "description": "The Gardens of Maecenas or \"Horti Maecenatis\" were extensive, planned gardens laid out on Rome's Esquiline Hill by Caius Cilinius Maecenas in the mid-30s B.C. These formal gardens occupied what had previously been the agger of the Servian walls and the adjacent necropolis that had an unsavory reputation. Following the death of Maecenas, the gardens became imperial property.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5012225,
-          41.8940964
+          12.5013351908,
+          41.8940059535
         ]
       },
       "properties": {

@@ -2,12 +2,6 @@
   "type": "FeatureCollection",
   "title": "Thermae Agrippae",
   "id": "921692078",
-  "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
-  ],
   "description": "The Thermae Agrippae, built by M. Vipsanius Agrippa in the Campus Martius, were the earliest of Rome's great public baths.",
   "connectsWith": [
     "423025",
@@ -21,13 +15,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486137,
-          41.891775
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
       }

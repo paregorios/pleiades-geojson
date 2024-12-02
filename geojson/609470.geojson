@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Metropolis",
+  "title": "Metropolis (Oyneş)",
   "id": "609470",
   "bbox": [
     30.6278194,
@@ -8,8 +8,9 @@
     30.6281549,
     39.1716707
   ],
-  "description": "An ancient place, cited: BAtlas 62 E3 Metropolis",
+  "description": "An ancient settlement in Phrygia, located at modern Oyneş in Turkey's Eskişehir province.",
   "names": [
+    "Oyneş",
     "Metropolis",
     "Metropolitae"
   ],

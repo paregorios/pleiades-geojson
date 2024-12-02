@@ -5,7 +5,7 @@
   "bbox": [
     24.7603288,
     35.0123334,
-    24.7614044,
+    24.7614017,
     35.0144533
   ],
   "description": "The archaeological site of Kommos was a Bronze Age port and settlement in southern Crete with subsequent habitation and monumental construction dating to the Hellenistic and Roman periods. This site is possibly to be identified with Amyklaion, mentioned in contemporary sources.",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7608239154,
-          35.0132310578
+          24.7608237826,
+          35.0132319008
         ]
       },
       "properties": {
@@ -55,8 +55,20 @@
             35.0123334
           ],
           [
-            24.7604308,
-            35.0123378
+            24.7605376,
+            35.0123373
+          ],
+          [
+            24.7605153,
+            35.0125849
+          ],
+          [
+            24.7603819,
+            35.0125881
+          ],
+          [
+            24.7603488,
+            35.0129104
           ],
           [
             24.7603476,
@@ -71,6 +83,14 @@
             35.0144533
           ],
           [
+            24.7604332,
+            35.014453
+          ],
+          [
+            24.7605468,
+            35.014452
+          ],
+          [
             24.7611952,
             35.0144467
           ],
@@ -83,7 +103,7 @@
             35.0134318
           ],
           [
-            24.7614044,
+            24.7613803,
             35.0129068
           ],
           [

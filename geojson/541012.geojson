@@ -4,8 +4,8 @@
   "id": "541012",
   "bbox": [
     22.621902,
-    38.535435,
-    22.621902,
+    38.5348857,
+    22.6222206,
     38.535435
   ],
   "description": "Parnassus is a mountain in central Greece located north of the Gulf of Corinth. In Greek mythology, it was sacred to Apollo and the home of the Muses.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.621902,
-          38.535435
+          22.6220613,
+          38.53516035
         ]
       },
       "properties": {
@@ -30,17 +30,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          22.6222206,
+          38.5348857
+        ]
+      },
+      "id": "osm-location-of-diakoura-peak",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Λιάκουρα peak",
+        "link": "http://pleiades.stoa.org/places/541012/osm-location-of-diakoura-peak"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           22.621902,
           38.535435
         ]
       },
-      "id": "location-of-parnassus-m",
+      "id": "imagery-location-of-parnassus-m",
       "type": "Feature",
       "properties": {
         "description": "verified in Google Earth 2013.",
         "location_precision": "precise",
-        "title": "location of Parnassus M.",
-        "link": "http://pleiades.stoa.org/places/541012/location-of-parnassus-m"
+        "title": "Imagery location of Parnassus M.",
+        "link": "http://pleiades.stoa.org/places/541012/imagery-location-of-parnassus-m"
       }
     }
   ]

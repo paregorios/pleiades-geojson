@@ -3,10 +3,10 @@
   "title": "Achilleion",
   "id": "550401",
   "bbox": [
-    26.149763,
-    39.914964,
+    26.1500772,
+    39.9147297,
     26.1525,
-    39.915
+    39.9156083
   ],
   "description": "An ancient Greek city in the southwest of the Troas. A site that in antiquity was considered to be the tomb of Achilles is nearby at Beşiktepe.",
   "connectsWith": [
@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.1511315,
-          39.914982
+          26.1517428172,
+          39.9150772041
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.149763,
-          39.914964
-        ]
-      },
-      "id": "darmc-location-11165",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 11165",
-        "link": "http://pleiades.stoa.org/places/550401/darmc-location-11165"
       }
     },
     {
@@ -62,6 +45,61 @@
         "location_precision": "precise",
         "title": "Imagery location of Achilleion",
         "link": "http://pleiades.stoa.org/places/550401/location-of-achilleion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.151649,
+            39.9148227
+          ],
+          [
+            26.1510166,
+            39.9147297
+          ],
+          [
+            26.150325,
+            39.9147913
+          ],
+          [
+            26.1500772,
+            39.9150837
+          ],
+          [
+            26.1502539,
+            39.9154275
+          ],
+          [
+            26.1508738,
+            39.9156083
+          ],
+          [
+            26.1514411,
+            39.9155602
+          ],
+          [
+            26.1517963,
+            39.9153742
+          ],
+          [
+            26.1518916,
+            39.915115
+          ],
+          [
+            26.151649,
+            39.9148227
+          ]
+        ]
+      },
+      "id": "osm-location-of-achilleion",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Achilleion",
+        "link": "http://pleiades.stoa.org/places/550401/osm-location-of-achilleion"
       }
     }
   ]

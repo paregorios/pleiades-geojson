@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mehrgarh",
+  "id": "304475334",
+  "bbox": [
+    67.5988154,
+    29.4020013,
+    67.5988154,
+    29.4020013
+  ],
+  "description": "The archaeological site of Mehrgarh covers an area of some 250 ha. It is located in the Kachi plain (Balochistan, Pakistan) near the Bolan Pass. The Neolithic-period site consists of numerous archaeological mounds.",
+  "names": [
+    "Mehrgarh"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5988154,
+          29.4020013
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.5988154,
+          29.4020013
+        ]
+      },
+      "id": "osm-location-of-mehrgarh",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mehrgarh",
+        "link": "http://pleiades.stoa.org/places/304475334/osm-location-of-mehrgarh"
+      }
+    }
+  ]
+}

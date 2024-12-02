@@ -6,7 +6,7 @@
     -10.1583765,
     50.0,
     -5.5968913,
-    55.22672
+    55.2240926
   ],
   "description": "Hibernia is the Classical name for the island of Ireland.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.71752594348,
-          53.1840284539
+          -9.6955324,
+          51.8115717
         ]
       },
       "properties": {

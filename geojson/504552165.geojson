@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Minerva at Spinera",
+  "id": "504552165",
+  "bbox": [
+    10.284295,
+    45.9537229,
+    10.2852523,
+    45.9544324
+  ],
+  "description": "A site sacred to Minerva with activity from the Early Iron Age onward, the Sanctuary of Minerva at Spinera is located at Breno on the banks of the river Oglio.",
+  "connectsWith": [
+    "383721"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2847574838,
+          45.954100038
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.2852523,
+            45.9542896
+          ],
+          [
+            10.2845985,
+            45.9544324
+          ],
+          [
+            10.2845045,
+            45.954418
+          ],
+          [
+            10.284421,
+            45.9543834
+          ],
+          [
+            10.284295,
+            45.954129
+          ],
+          [
+            10.28432,
+            45.9540053
+          ],
+          [
+            10.284304,
+            45.9539487
+          ],
+          [
+            10.2843643,
+            45.9538776
+          ],
+          [
+            10.2849759,
+            45.9537229
+          ],
+          [
+            10.2852523,
+            45.9542896
+          ]
+        ]
+      },
+      "id": "osm-location-of-parco-archeologico-del-santuario",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Parco archeologico del Santuario di Minerva",
+        "link": "http://pleiades.stoa.org/places/504552165/osm-location-of-parco-archeologico-del-santuario"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Lacus Orphei",
   "id": "557607129",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.5,
+    41.75,
+    12.75,
+    42.0
   ],
   "description": "A fountain on the Esquiline (Regio V) that was perhaps located just outside the porta Esquilina.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.625,
+          41.875
         ]
       },
       "properties": {

@@ -1,14 +1,10 @@
 {
   "type": "FeatureCollection",
-  "title": "tribus Claudia",
-  "id": "310265136",
-  "description": "The tribus Claudia was the twenty-first rural tribe.",
+  "title": "Apollo Karneios cult at Kardamyle ",
+  "id": "50714343",
+  "description": "Pausanias describes a now-lost cult of Apollo Karneios at Kardamyle that followed Dorian custom.",
   "connectsWith": [
-    "423025",
-    "432900"
-  ],
-  "names": [
-    "vetus Claudia tribus"
+    "570330"
   ],
   "features": [
     {

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Oichalia",
+  "title": "Oichalia (Aetolia)",
   "id": "540970",
   "bbox": [
     21.7594863,
@@ -59,7 +59,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Κορυσχάδες",
+        "title": "OSM location of Koryschades",
         "link": "http://pleiades.stoa.org/places/540970/39a3bf3c13c53c33c73b43b53c2"
       }
     }

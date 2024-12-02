@@ -5,8 +5,8 @@
   "bbox": [
     13.251294,
     42.5866445,
-    13.9156003,
-    42.8950046
+    13.9152713,
+    42.8951174
   ],
   "description": "A river of Picenum that flows from its source on the Gran Sasso d'Italia to the Adriatic Sea at Porto d'Ascoli.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5041834016,
-          42.7852630287
+          13.504415674,
+          42.7852655973
         ]
       },
       "properties": {

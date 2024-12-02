@@ -3,10 +3,10 @@
   "title": "tribus Teretina",
   "id": "239510733",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    13.753513,
+    41.4273745,
+    13.7974238,
+    41.6209946
   ],
   "description": "Established in 299 B.C., the tribus Teretina was one of the later rural tribes of ancient Rome.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          13.7755453887,
+          41.5241871025
         ]
       },
       "properties": {

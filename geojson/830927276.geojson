@@ -5,7 +5,7 @@
   "bbox": [
     23.7160442,
     37.96663,
-    23.73225,
+    23.7334932,
     37.9810418
   ],
   "description": "The circuit wall of Athens, built by Themistokles in 479 BC. It was abandoned as indefensible in the aftermath of the Herulian Sack of 267 AD.",
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.7251754976,
-          37.974887392
+          23.725640113,
+          37.9747346138
         ]
       },
       "properties": {

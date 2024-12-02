@@ -9,6 +9,9 @@
     38.2646791
   ],
   "description": "An ancient place, cited: BAtlas 58 C1 Meiganitas fl.",
+  "connectsWith": [
+    "570181"
+  ],
   "names": [
     "Meiganitas"
   ],
