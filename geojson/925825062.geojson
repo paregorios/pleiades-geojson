@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "title": "Withdrawn:Temple of Athena at Sounion",
+  "id": "925825062",
+  "bbox": [
+    24.0268866,
+    37.6528647,
+    24.0271601,
+    37.6530533
+  ],
+  "description": "Unintentional duplicate of https://pleiades.stoa.org/places/579884",
+  "connectsWith": [
+    "580107"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0270403437,
+          37.6529240732
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0271601,
+            37.6530354
+          ],
+          [
+            24.0269091,
+            37.6530533
+          ],
+          [
+            24.0268866,
+            37.6528851
+          ],
+          [
+            24.027142,
+            37.6528647
+          ],
+          [
+            24.0271601,
+            37.6530354
+          ]
+        ]
+      },
+      "id": "ii-ii-ii-i-i1-2i-i-ipsi-ii1-2i1i-ii-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location:Ναός Αθηνάς Σουνιάδος",
+        "link": "http://pleiades.stoa.org/errata/925825062/ii-ii-ii-i-i1-2i-i-ipsi-ii1-2i1i-ii-i"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.027056,
+          37.652889
+        ]
+      },
+      "id": "athena-t",
+      "type": "Feature",
+      "properties": {
+        "description": "Temple of Athena at Sounion with L-shaped colonnade. It was built on the site of an earlier temple at the same location.",
+        "location_precision": "precise",
+        "title": "Temple of Athena",
+        "link": "http://pleiades.stoa.org/errata/925825062/athena-t"
+      }
+    }
+  ]
+}

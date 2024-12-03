@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "al-Husn Church",
+  "id": "637058243",
+  "bbox": [
+    36.5310846,
+    35.6915557,
+    36.5310846,
+    35.6915557
+  ],
+  "description": "A ruined and now largely dispersed fifth-century CE church on the outskirts of al-Bara, Syria.",
+  "connectsWith": [
+    "668207"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5310846,
+          35.6915557
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5310846,
+          35.6915557
+        ]
+      },
+      "id": "osm-location-of-al-husn-church",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of al-Husn Church",
+        "link": "http://pleiades.stoa.org/places/637058243/osm-location-of-al-husn-church"
+      }
+    }
+  ]
+}

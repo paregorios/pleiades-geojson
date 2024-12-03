@@ -3,20 +3,20 @@
   "title": "el-Bara",
   "id": "668207",
   "bbox": [
-    36.558987,
-    35.697826,
-    36.558987,
-    35.697826
+    36.5259741,
+    35.681797,
+    36.5361986,
+    35.6952535
   ],
-  "description": "An ancient place, cited: BAtlas 68 C2 el-Bara",
+  "description": "el-Bara (also Bara or al-Bara (Arabic: بارة)) is numbered among one of the so-called \"Dead Cities\" of northwestern Syria. The settlement originates in the fourth century CE and flourishes during the fifth and sixth centuries. It benefited from a favorable position along the route between Antioch and Apamea.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.558987,
-          35.697826
+          36.5307605513,
+          35.6889142833
         ]
       },
       "properties": {
@@ -25,19 +25,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          36.558987,
-          35.697826
+          [
+            36.5315638,
+            35.6850214
+          ],
+          [
+            36.5322075,
+            35.6857969
+          ],
+          [
+            36.5318105,
+            35.686688
+          ],
+          [
+            36.5332375,
+            35.6876465
+          ],
+          [
+            36.5332375,
+            35.6893784
+          ],
+          [
+            36.5332804,
+            35.690679
+          ],
+          [
+            36.5319715,
+            35.6916179
+          ],
+          [
+            36.534482,
+            35.6925241
+          ],
+          [
+            36.5361986,
+            35.6934477
+          ],
+          [
+            36.5356837,
+            35.6947133
+          ],
+          [
+            36.5345249,
+            35.6946088
+          ],
+          [
+            36.5340743,
+            35.6952535
+          ],
+          [
+            36.5315209,
+            35.6946589
+          ],
+          [
+            36.532229,
+            35.6928726
+          ],
+          [
+            36.5327332,
+            35.6924021
+          ],
+          [
+            36.5315745,
+            35.6921167
+          ],
+          [
+            36.5309415,
+            35.6922474
+          ],
+          [
+            36.5276907,
+            35.691095
+          ],
+          [
+            36.5259741,
+            35.6886552
+          ],
+          [
+            36.5279267,
+            35.6867315
+          ],
+          [
+            36.5285377,
+            35.6843613
+          ],
+          [
+            36.5263281,
+            35.682285
+          ],
+          [
+            36.5263388,
+            35.681797
+          ],
+          [
+            36.5269826,
+            35.6818689
+          ],
+          [
+            36.5269397,
+            35.6824942
+          ],
+          [
+            36.5292034,
+            35.6824332
+          ],
+          [
+            36.5310488,
+            35.6832807
+          ],
+          [
+            36.5315638,
+            35.6850214
+          ]
         ]
       },
-      "id": "darmc-location-25590",
+      "id": "osm-location-of-al-bara",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 25590",
-        "link": "http://pleiades.stoa.org/places/668207/darmc-location-25590"
+        "title": "OSM location of al-Bara",
+        "link": "http://pleiades.stoa.org/places/668207/osm-location-of-al-bara"
       }
     }
   ]

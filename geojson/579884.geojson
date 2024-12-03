@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Athena, T.",
+  "title": "Temple of Athena at Sounion",
   "id": "579884",
   "bbox": [
     24.027035,
@@ -8,9 +8,10 @@
     24.0271307,
     37.652965
   ],
-  "description": "The Temple of Athena at Sounion is an Ionic temple of the fifth century B.C. built atop the foundations of an earlier temple.",
+  "description": "The Temple of Athena at Sounion (ca. 470 B.C.) with its L-shaped colonnade was built on the site of an earlier temple (sixth century B.C.) at the same location.",
   "names": [
-    "Athena, T"
+    "Athena",
+    "Temple of Athena at Cape Sounion"
   ],
   "features": [
     {

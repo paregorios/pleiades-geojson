@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Withdrawn: al-Bara",
+  "id": "739125041",
+  "bbox": [
+    36.5245553,
+    35.6828164,
+    36.5245553,
+    35.6828164
+  ],
+  "description": "Unintentional duplicate of https://pleiades.stoa.org/places/668207",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5245553,
+          35.6828164
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5245553,
+          35.6828164
+        ]
+      },
+      "id": "osm-location-of-al-bara",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of al-Bara",
+        "link": "http://pleiades.stoa.org/errata/739125041/osm-location-of-al-bara"
+      }
+    }
+  ]
+}
