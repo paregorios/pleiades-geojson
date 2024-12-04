@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Boncuklu Tarla",
+  "id": "682350144",
+  "bbox": [
+    41.8311846,
+    37.5289447,
+    41.833899,
+    37.5303634
+  ],
+  "description": "Boncuklu Tarla is an archaeological site located in the Mardin province of Turkey. The human settlement was occupied from the Late Epipalaeolithic to Pre-Pottery Neolithic B periods.",
+  "names": [
+    "Boncuklu Tarla"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8325197683,
+          37.5295217282
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.8311846,
+            37.5297487
+          ],
+          [
+            41.8316621,
+            37.5300869
+          ],
+          [
+            41.8320724,
+            37.5303634
+          ],
+          [
+            41.8322521,
+            37.5301592
+          ],
+          [
+            41.8323299,
+            37.5298955
+          ],
+          [
+            41.8324962,
+            37.5297572
+          ],
+          [
+            41.8328154,
+            37.5296806
+          ],
+          [
+            41.8330622,
+            37.5297296
+          ],
+          [
+            41.8335584,
+            37.529519
+          ],
+          [
+            41.8338776,
+            37.529419
+          ],
+          [
+            41.833899,
+            37.5292361
+          ],
+          [
+            41.8337783,
+            37.5290957
+          ],
+          [
+            41.833494,
+            37.5291382
+          ],
+          [
+            41.8329978,
+            37.5289978
+          ],
+          [
+            41.8325391,
+            37.5289447
+          ],
+          [
+            41.8322092,
+            37.5289702
+          ],
+          [
+            41.8318927,
+            37.5291148
+          ],
+          [
+            41.8316138,
+            37.5294063
+          ],
+          [
+            41.8311846,
+            37.5297487
+          ]
+        ]
+      },
+      "id": "osm-location-of-boncuklu-tarla",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Boncuklu Tarla",
+        "link": "http://pleiades.stoa.org/places/682350144/osm-location-of-boncuklu-tarla"
+      }
+    }
+  ]
+}

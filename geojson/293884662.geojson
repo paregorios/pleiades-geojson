@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Karahan Tepe",
+  "id": "293884662",
+  "bbox": [
+    39.3009227,
+    37.0895252,
+    39.3044579,
+    37.093509
+  ],
+  "description": "Karahan Tepe is an archaeological site covering some 10 hectares located in Turkey's Şanlıurfa Province. More than 250 t-shaped monuments have been discovered at the site which is associated with the so-called Tepeler cultures. Karahan Tepe lies within the environs of Gôbekli Tepe and may pre-date that site.",
+  "names": [
+    "Karahan Tepe"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3027202629,
+          37.0915947209
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.3043292,
+            37.0934448
+          ],
+          [
+            39.3044525,
+            37.0930982
+          ],
+          [
+            39.3044579,
+            37.0928843
+          ],
+          [
+            39.3043184,
+            37.0925762
+          ],
+          [
+            39.3043184,
+            37.0922253
+          ],
+          [
+            39.3041146,
+            37.0919728
+          ],
+          [
+            39.3040609,
+            37.0913438
+          ],
+          [
+            39.3033528,
+            37.0904752
+          ],
+          [
+            39.3026769,
+            37.0896964
+          ],
+          [
+            39.302001,
+            37.0895252
+          ],
+          [
+            39.3015128,
+            37.0896835
+          ],
+          [
+            39.3010783,
+            37.0902227
+          ],
+          [
+            39.3009227,
+            37.0906891
+          ],
+          [
+            39.3009281,
+            37.0910785
+          ],
+          [
+            39.301765,
+            37.0925334
+          ],
+          [
+            39.3022531,
+            37.0929955
+          ],
+          [
+            39.3028164,
+            37.0932437
+          ],
+          [
+            39.3037713,
+            37.093509
+          ],
+          [
+            39.3040985,
+            37.0935004
+          ],
+          [
+            39.3043292,
+            37.0934448
+          ]
+        ]
+      },
+      "id": "osm-location-of-karahan-tepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Karahan Tepe",
+        "link": "http://pleiades.stoa.org/places/293884662/osm-location-of-karahan-tepe"
+      }
+    }
+  ]
+}

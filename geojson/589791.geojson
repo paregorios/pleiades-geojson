@@ -3,10 +3,10 @@
   "title": "Gaurion",
   "id": "589791",
   "bbox": [
-    24.6804649,
-    37.6821091,
-    25.0007636,
-    37.9995793
+    24.7375908,
+    37.8845605,
+    24.7375908,
+    37.8845605
   ],
   "description": "An ancient place, cited: BAtlas 60 A4 Gaurion",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8509719288,
-          37.8568440184
+          24.7375908,
+          37.8845605
         ]
       },
       "properties": {
@@ -30,14 +30,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7375908,
+          37.8845605
+        ]
+      },
+      "id": "osm-location-of-gavrio",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589791/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Gavrio",
+        "link": "http://pleiades.stoa.org/places/589791/osm-location-of-gavrio"
       }
     }
   ]

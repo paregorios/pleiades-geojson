@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arslan Kaya monument",
+  "id": "938980755",
+  "bbox": [
+    30.4277634,
+    39.1067195,
+    30.4277634,
+    39.1067195
+  ],
+  "description": "The rock-cut \"Arslan Kaya monument\" located just west of Lake Emre in Turkey is in the Phrygian Highlands. The monument carries an inscription in Old Phrygian to the goddess Materan.",
+  "names": [
+    "Arslan Kaya monument"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4277634,
+          39.1067195
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.4277634,
+          39.1067195
+        ]
+      },
+      "id": "osm-location-of-arslan-kaya",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arslan kaya",
+        "link": "http://pleiades.stoa.org/places/938980755/osm-location-of-arslan-kaya"
+      }
+    }
+  ]
+}

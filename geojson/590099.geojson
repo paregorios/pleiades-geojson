@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Zeus Atabyrios, T.",
+  "title": "Zeus Atabyrios (temple)",
   "id": "590099",
   "bbox": [
     27.8642806,
@@ -14,7 +14,8 @@
     "590031"
   ],
   "names": [
-    "Zeus Atabyrios"
+    "Zeus Atabyrios",
+    "hieron dios Atabyriou"
   ],
   "features": [
     {

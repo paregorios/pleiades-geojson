@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aşağımollahasan höyük",
+  "id": "389798993",
+  "bbox": [
+    43.8956273,
+    38.6527233,
+    43.8983256,
+    38.6546252
+  ],
+  "description": "Aşağımollahasan höyük is a prehistoric höyük located in Özalp, Turkey.",
+  "names": [
+    "Aşağımollahasan höyük"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8969592578,
+          38.6536892138
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.8965124,
+            38.6527484
+          ],
+          [
+            43.8960189,
+            38.6529704
+          ],
+          [
+            43.8957667,
+            38.6531799
+          ],
+          [
+            43.8956273,
+            38.6536449
+          ],
+          [
+            43.8956648,
+            38.6540052
+          ],
+          [
+            43.8958204,
+            38.6543236
+          ],
+          [
+            43.8961101,
+            38.6545665
+          ],
+          [
+            43.8963729,
+            38.6546252
+          ],
+          [
+            43.897081,
+            38.6546001
+          ],
+          [
+            43.8978535,
+            38.6544074
+          ],
+          [
+            43.8981163,
+            38.654244
+          ],
+          [
+            43.8983148,
+            38.6539507
+          ],
+          [
+            43.8983256,
+            38.6535569
+          ],
+          [
+            43.8982236,
+            38.6532637
+          ],
+          [
+            43.8979554,
+            38.6529746
+          ],
+          [
+            43.8974673,
+            38.6527945
+          ],
+          [
+            43.8969094,
+            38.6527233
+          ],
+          [
+            43.8965124,
+            38.6527484
+          ]
+        ]
+      },
+      "id": "osm-location-of-aaaaa-mollahasan-hapya1-4aa1-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aşağımollahasan Höyüğü",
+        "link": "http://pleiades.stoa.org/places/389798993/osm-location-of-aaaaa-mollahasan-hapya1-4aa1-4"
+      }
+    }
+  ]
+}

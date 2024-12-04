@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arch of Marcus Antonius",
+  "id": "815189530",
+  "bbox": [
+    13.7014537,
+    41.4981054,
+    13.7014537,
+    41.4981054
+  ],
+  "description": "The so-called \"Arch of Marcus Antonius\" takes its name from a local tradition that the citizens of Aquinum built the monument in a single day to honor Antonius. In all likelihood, it is a monument connected either to a deductio of veterans sent to Aquinum in 41 BCE or to the work of Caius Calvisius Sabinus who reorganized the via Latina in 27 BCE.",
+  "connectsWith": [
+    "432695"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7014537,
+          41.4981054
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7014537,
+          41.4981054
+        ]
+      },
+      "id": "osm-location-of-arco-di-marcantonio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arco di Marcantonio",
+        "link": "http://pleiades.stoa.org/places/815189530/osm-location-of-arco-di-marcantonio"
+      }
+    }
+  ]
+}
