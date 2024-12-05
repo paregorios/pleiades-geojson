@@ -3,10 +3,10 @@
   "title": "Ponte di Pietra",
   "id": "952774737",
   "bbox": [
-    7.3299824,
-    45.7397954,
-    7.3299824,
-    45.7397954
+    7.3297597,
+    45.739733,
+    7.3300131,
+    45.7397917
   ],
   "description": "A Roman segmental stone arch bridge located near Augusta Praetoria.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.3299824,
-          45.7397954
+          7.3298864,
+          45.73976235
         ]
       },
       "properties": {
@@ -28,18 +28,24 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          7.3299824,
-          45.7397954
+          [
+            7.3300131,
+            45.7397917
+          ],
+          [
+            7.3297597,
+            45.739733
+          ]
         ]
       },
       "id": "location-of-ponte-di-pietra",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Ponte di Pietra",
+        "title": "OSM location of Ponte di Pietra",
         "link": "http://pleiades.stoa.org/places/952774737/location-of-ponte-di-pietra"
       }
     }

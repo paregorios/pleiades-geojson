@@ -4,9 +4,9 @@
   "id": "865664297",
   "bbox": [
     12.4972143,
-    41.889264,
-    12.4972143,
-    41.889264
+    41.8891786,
+    12.4976543,
+    41.8892685
   ],
   "description": "The eleventh-century Basilica of San Clemente al Laterano is a Roman Catholic basilica dedicated to Clement I. It sits atop a three-tiered series of architectural remains stretching back to the Republican period. The earliest phase is represented by the foundations of a building destroyed by the fire of A.D. 64.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4972143,
-          41.889264
+          12.4974319795,
+          41.8892217256
         ]
       },
       "properties": {
@@ -33,10 +33,24 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4972143,
-          41.889264
+          [
+            12.4976543,
+            41.8891786
+          ],
+          [
+            12.497509,
+            41.8892067
+          ],
+          [
+            12.4972143,
+            41.889264
+          ],
+          [
+            12.4972159,
+            41.8892685
+          ]
         ]
       },
       "id": "osm-location",

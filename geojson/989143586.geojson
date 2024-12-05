@@ -3,10 +3,10 @@
   "title": "So-called Area L in Berenike",
   "id": "989143586",
   "bbox": [
-    20.0622369,
-    32.1244806,
-    20.0622369,
-    32.1244806
+    20.062203,
+    32.1242473,
+    20.0625703,
+    32.1245002
   ],
   "description": "The ruins of an ancient building with a large peristyle, probably built around the second century AD, in the southwest area of the archaeological site of Sidi Khiribech, in Berenike (modern Banghazi).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0622369,
-          32.1244806
+          20.0623935238,
+          32.1243634252
         ]
       },
       "properties": {
@@ -32,10 +32,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.0622369,
-          32.1244806
+          [
+            20.062203,
+            32.1242473
+          ],
+          [
+            20.0625703,
+            32.1242638
+          ],
+          [
+            20.0625555,
+            32.1245002
+          ],
+          [
+            20.0622298,
+            32.1244562
+          ],
+          [
+            20.062203,
+            32.1242473
+          ]
         ]
       },
       "id": "area-l-in-sidi-khiribech",

@@ -3,10 +3,10 @@
   "title": "So-called Area H in Berenike",
   "id": "989143587",
   "bbox": [
-    20.062735,
-    32.1251355,
-    20.062735,
-    32.1251355
+    20.0627353,
+    32.1247775,
+    20.0630153,
+    32.1251464
   ],
   "description": "The ruins of a house of the early Roman period at the archaeological site of Sidi Khiribech, in Berenike. The house had a courtyard with a peristyle. Some of the internal walls were decorated with frescoes representing the Muses.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.062735,
-          32.1251355
+          20.0628752765,
+          32.1249619355
         ]
       },
       "properties": {
@@ -32,10 +32,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.062735,
-          32.1251355
+          [
+            20.0627353,
+            32.1251352
+          ],
+          [
+            20.0629936,
+            32.1251464
+          ],
+          [
+            20.0630153,
+            32.1247887
+          ],
+          [
+            20.0627569,
+            32.1247775
+          ],
+          [
+            20.0627353,
+            32.1251352
+          ]
         ]
       },
       "id": "area-h-in-sidi-khiribech",

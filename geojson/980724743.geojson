@@ -3,10 +3,10 @@
   "title": "Costa Murata archaeological area",
   "id": "980724743",
   "bbox": [
-    10.9695523,
-    42.8601906,
-    10.9695523,
-    42.8601906
+    10.9694865,
+    42.8598442,
+    10.9699914,
+    42.8603241
   ],
   "description": "A site with votive activity from the Archaic period and a later Roman house in addition to the basalt-paved Roman road.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9695523,
-          42.8601906
+          10.9697497098,
+          42.8600942757
         ]
       },
       "properties": {
@@ -28,10 +28,44 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.9695523,
-          42.8601906
+          [
+            10.9694865,
+            42.8601604
+          ],
+          [
+            10.969639,
+            42.8598442
+          ],
+          [
+            10.9699008,
+            42.8599476
+          ],
+          [
+            10.9698676,
+            42.8600505
+          ],
+          [
+            10.9699914,
+            42.8601029
+          ],
+          [
+            10.9699018,
+            42.8603241
+          ],
+          [
+            10.9697171,
+            42.8602708
+          ],
+          [
+            10.9697332,
+            42.8602455
+          ],
+          [
+            10.9694865,
+            42.8601604
+          ]
         ]
       },
       "id": "location-of-costa-mura",

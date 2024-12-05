@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Zeus Aphesios (Megarid)",
+  "id": "526009671",
+  "bbox": [
+    23.2847789,
+    37.9842963,
+    23.2847789,
+    37.9842963
+  ],
+  "description": "Pausanias mentions the Sanctuary of Zeus Aphesios as being located atop a mountain. The site was excavated ca. 1890 and has views over the Saronic Gulf.",
+  "connectsWith": [
+    "570470"
+  ],
+  "names": [
+    "Dios Aphesiou naos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2847789,
+          37.9842963
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2847789,
+          37.9842963
+        ]
+      },
+      "id": "osm-location-of-sanctuary-of-zeus-aphesios-megarid",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sanctuary of Zeus Aphesios (Megarid)",
+        "link": "http://pleiades.stoa.org/places/526009671/osm-location-of-sanctuary-of-zeus-aphesios-megarid"
+      }
+    }
+  ]
+}

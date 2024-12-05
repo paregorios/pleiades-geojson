@@ -3,10 +3,10 @@
   "title": "Nuraghe Flumenelongu",
   "id": "880615054",
   "bbox": [
-    8.2650578,
-    40.6449731,
-    8.2650578,
-    40.6449731
+    8.2648801,
+    40.6448798,
+    8.2650636,
+    40.6450183
   ],
   "description": "Nuraghe Flumenelongu (Alghero-Sassari) is an important archaeological site for considerations of prehistoric maritime commerce in the Mediterranean.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.2650578,
-          40.6449731
+          8.26497178439,
+          40.6449487739
         ]
       },
       "properties": {
@@ -28,10 +28,88 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.2650578,
-          40.6449731
+          [
+            8.26499,
+            40.6448804
+          ],
+          [
+            8.2650194,
+            40.6448892
+          ],
+          [
+            8.2650432,
+            40.6449049
+          ],
+          [
+            8.2650585,
+            40.6449259
+          ],
+          [
+            8.2650636,
+            40.6449495
+          ],
+          [
+            8.2650578,
+            40.6449731
+          ],
+          [
+            8.2650437,
+            40.644992
+          ],
+          [
+            8.2650225,
+            40.6450068
+          ],
+          [
+            8.2649964,
+            40.6450158
+          ],
+          [
+            8.2649679,
+            40.6450183
+          ],
+          [
+            8.2649397,
+            40.645014
+          ],
+          [
+            8.2649147,
+            40.6450033
+          ],
+          [
+            8.2648953,
+            40.6449872
+          ],
+          [
+            8.2648834,
+            40.6449674
+          ],
+          [
+            8.2648801,
+            40.6449458
+          ],
+          [
+            8.2648868,
+            40.6449224
+          ],
+          [
+            8.2649036,
+            40.6449021
+          ],
+          [
+            8.2649284,
+            40.6448873
+          ],
+          [
+            8.2649584,
+            40.6448798
+          ],
+          [
+            8.26499,
+            40.6448804
+          ]
         ]
       },
       "id": "osm-location",
@@ -39,7 +117,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
+        "title": "OSM location of Nuraghe Flumenelongu",
         "link": "http://pleiades.stoa.org/places/880615054/osm-location"
       }
     }

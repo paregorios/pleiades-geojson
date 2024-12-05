@@ -4,9 +4,9 @@
   "id": "895280110",
   "bbox": [
     13.9299784,
-    41.2346155,
-    13.9299784,
-    41.2346155
+    41.233862,
+    13.9310597,
+    41.2348674
   ],
   "description": "The Roman theater at Suessa Aurunca was built in the first century A.D. and then restored under Antoninus Pius. Amedeo Maiuri initiated excavations at the theater site in the 1920s. The excavation was not completed until 2003.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9299784,
-          41.2346155
+          13.930573365,
+          41.2344262138
         ]
       },
       "properties": {
@@ -31,10 +31,64 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.9299784,
-          41.2346155
+          [
+            13.9299784,
+            41.2346155
+          ],
+          [
+            13.930255,
+            41.2347948
+          ],
+          [
+            13.930432,
+            41.2348573
+          ],
+          [
+            13.9306734,
+            41.2348674
+          ],
+          [
+            13.9308344,
+            41.234823
+          ],
+          [
+            13.9310141,
+            41.2346758
+          ],
+          [
+            13.9310597,
+            41.23447
+          ],
+          [
+            13.9309336,
+            41.2342623
+          ],
+          [
+            13.9308558,
+            41.2342038
+          ],
+          [
+            13.9309604,
+            41.234109
+          ],
+          [
+            13.9307566,
+            41.233988
+          ],
+          [
+            13.9306627,
+            41.2339113
+          ],
+          [
+            13.9305893,
+            41.233862
+          ],
+          [
+            13.9299784,
+            41.2346155
+          ]
         ]
       },
       "id": "location-of-roman-theater",

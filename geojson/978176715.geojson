@@ -3,10 +3,10 @@
   "title": "Gallarus Oratory",
   "id": "978176715",
   "bbox": [
-    -10.3492274,
-    52.1726854,
-    -10.3492274,
-    52.1726854
+    -10.3494118,
+    52.1726775,
+    -10.3492994,
+    52.1727389
   ],
   "description": "An early Christian church in Ireland, originally built between the sixth and the ninth centuries.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.3492274,
-          52.1726854
+          -10.34935562,
+          52.1727082083
         ]
       },
       "properties": {
@@ -28,10 +28,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -10.3492274,
-          52.1726854
+          [
+            -10.3494118,
+            52.1726864
+          ],
+          [
+            -10.3494056,
+            52.1727129
+          ],
+          [
+            -10.3493995,
+            52.1727389
+          ],
+          [
+            -10.3492994,
+            52.17273
+          ],
+          [
+            -10.3493118,
+            52.1726775
+          ],
+          [
+            -10.3494118,
+            52.1726864
+          ]
         ]
       },
       "id": "osm-location",

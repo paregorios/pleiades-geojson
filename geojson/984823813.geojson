@@ -3,9 +3,9 @@
   "title": "Tumulus of Noville",
   "id": "984823813",
   "bbox": [
-    5.3808074,
-    50.6672253,
-    5.3808074,
+    5.3806303,
+    50.666785,
+    5.3812982,
     50.6672253
   ],
   "description": "A Gallo-Roman tumulus near Noville, Belgium.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.3808074,
-          50.6672253
+          5.38096401908,
+          50.6670117334
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.3808074,
-          50.6672253
+          [
+            5.3808074,
+            50.6672253
+          ],
+          [
+            5.3806303,
+            50.6668989
+          ],
+          [
+            5.3810997,
+            50.666785
+          ],
+          [
+            5.3812982,
+            50.6671352
+          ],
+          [
+            5.3808074,
+            50.6672253
+          ]
         ]
       },
       "id": "location-of-tumulus-of-noville",
