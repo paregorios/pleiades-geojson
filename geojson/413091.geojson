@@ -32,10 +32,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.6087107,
-          42.9312036
+          [
+            12.6089347,
+            42.9314293
+          ],
+          [
+            12.6087358,
+            42.9312039
+          ]
         ]
       },
       "id": "osm-location-of-fiume-clitunno",

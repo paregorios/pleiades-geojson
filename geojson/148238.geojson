@@ -3,10 +3,10 @@
   "title": "Vindelicus/Soulgas (river)",
   "id": "148238",
   "bbox": [
-    5.0555894,
-    43.920055,
-    5.0555894,
-    43.920055
+    5.0552655,
+    43.9200247,
+    5.0555984,
+    43.9201884
   ],
   "description": "Vindelicus/Soulgas fl. (Sorgue river) is a river of southeastern France, situated between the Alps and the Rhone river.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.0555894,
-          43.920055
+          5.05542705757,
+          43.9200984801
         ]
       },
       "properties": {
@@ -29,10 +29,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.0555894,
-          43.920055
+          [
+            5.0555984,
+            43.9200247
+          ],
+          [
+            5.0553262,
+            43.9201376
+          ],
+          [
+            5.0552655,
+            43.9201884
+          ]
         ]
       },
       "id": "location-of-Vindelicus-Soulgas-fl",

@@ -3,10 +3,10 @@
   "title": "Mont Vully oppidum",
   "id": "980972179",
   "bbox": [
-    7.0939421,
-    46.9640126,
-    7.0939421,
-    46.9640126
+    7.0939479,
+    46.9639606,
+    7.0939479,
+    46.9639606
   ],
   "description": "An Iron Age oppidum covering more than 50 hectares atop the hill known as Mont Vully.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.0939421,
-          46.9640126
+          7.0939479,
+          46.9639606
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.0939421,
-          46.9640126
+          7.0939479,
+          46.9639606
         ]
       },
       "id": "osm-location",

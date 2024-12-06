@@ -9,6 +9,9 @@
     43.0
   ],
   "description": "An ancient place, cited: BAtlas 24 E2 no. 8 (Toral de los Vados, over R. Burbia)",
+  "connectsWith": [
+    "608189383"
+  ],
   "features": [
     {
       "type": "Feature",

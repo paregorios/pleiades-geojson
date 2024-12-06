@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Narbek",
   "id": "375241",
   "bbox": [
     21.6135,
@@ -8,7 +8,7 @@
     21.6135,
     32.6152
   ],
-  "description": "An ancient place, cited: BAtlas 38 C1 no. 5 (Narbek)",
+  "description": "A rock-cut church located about 5km west of the modern town of Omar Mukhtar in Libya.",
   "features": [
     {
       "type": "Feature",

@@ -3,20 +3,23 @@
   "title": "Unnamed Roman Bridge (Villafranca del Bierzo, over R. Burbia)",
   "id": "237833",
   "bbox": [
-    -6.8113766,
-    42.6090127,
-    -6.8113766,
-    42.6090127
+    -6.8114014,
+    42.6089907,
+    -6.8113067,
+    42.6090309
   ],
   "description": "An ancient place, cited: BAtlas 24 E2 no. 7 (Villafranca del Bierzo, over R. Burbia)",
+  "connectsWith": [
+    "608189383"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.8113766,
-          42.6090127
+          -6.81135475992,
+          42.6090091299
         ]
       },
       "properties": {
@@ -25,10 +28,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -6.8113766,
-          42.6090127
+          [
+            -6.8113067,
+            42.6089907
+          ],
+          [
+            -6.8113558,
+            42.6090076
+          ],
+          [
+            -6.8114014,
+            42.6090309
+          ]
         ]
       },
       "id": "location-of-roman-bridge",

@@ -3,10 +3,10 @@
   "title": "Kalkriese",
   "id": "98992",
   "bbox": [
-    8.1231126,
+    8.1213054,
     52.405187,
-    8.130622,
-    52.4068161
+    8.1308904,
+    52.409127
   ],
   "description": "The presumptive archaeological site of the Battle of the Teutoburg Forest (A.D. 9).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.1268673,
-          52.40600155
+          8.12857832357,
+          52.406375562
         ]
       },
       "properties": {

@@ -9,6 +9,9 @@
     49.9998475
   ],
   "description": "An ancient place, cited: BAtlas 11 I2 Moenus fl.",
+  "connectsWith": [
+    "109277"
+  ],
   "names": [
     "Moenus"
   ],
