@@ -3,6 +3,9 @@
   "title": "Darkama",
   "id": "60498",
   "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "connectsWith": [
+    "59982"
+  ],
   "names": [
     "Darkama"
   ],

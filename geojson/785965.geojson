@@ -3,9 +3,9 @@
   "title": "Abu Rahal",
   "id": "785965",
   "bbox": [
-    33.4693636,
-    24.921145,
-    33.482799,
+    33.4692456,
+    25.0053607,
+    33.4697877,
     25.0059161
   ],
   "description": "An ancient place, cited: BAtlas 80 C3 Abu Rahal",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.4760813,
-          24.96353055
+          33.4694846966,
+          25.0056424874
         ]
       },
       "properties": {
@@ -25,27 +25,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.482799,
-          24.921145
-        ]
-      },
-      "id": "darmc-location-9764",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 9764",
-        "link": "http://pleiades.stoa.org/places/785965/darmc-location-9764"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.4693636,
-          25.0059161
+          [
+            33.4693636,
+            25.0059161
+          ],
+          [
+            33.4692524,
+            25.0057538
+          ],
+          [
+            33.4693514,
+            25.0056981
+          ],
+          [
+            33.4692456,
+            25.0055437
+          ],
+          [
+            33.4695707,
+            25.0053607
+          ],
+          [
+            33.4697877,
+            25.0056774
+          ],
+          [
+            33.4693636,
+            25.0059161
+          ]
         ]
       },
       "id": "osm-location",

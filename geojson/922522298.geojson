@@ -3,10 +3,10 @@
   "title": "Paduline villa",
   "id": "922522298",
   "bbox": [
-    10.8873915,
-    42.7653688,
-    10.8873915,
-    42.7653688
+    10.8862873,
+    42.7646207,
+    10.8881297,
+    42.765681
   ],
   "description": "A Roman villa located on the Bruna river that was in use from the third century B.C. until the fifth century A.D.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8873915,
-          42.7653688
+          10.8871217543,
+          42.7651149466
         ]
       },
       "properties": {

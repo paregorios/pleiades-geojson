@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kalugumalai, Mangulam",
+  "id": "544503271",
+  "bbox": [
+    78.2583678,
+    10.0223446,
+    78.2583678,
+    10.0223446
+  ],
+  "description": "Hill near the village of Mangulam in Tamil Nadu. The hill contains several rock caves used by Jain monks and six Tamil-Brahmi inscriptions dated to the third-second centuries BCE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2583678,
+          10.0223446
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2583678,
+          10.0223446
+        ]
+      },
+      "id": "kalugumalai-ovamalai",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the peak of Kalugumalai, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of Kalugumalai (Ovamalai)",
+        "link": "http://pleiades.stoa.org/places/544503271/kalugumalai-ovamalai"
+      }
+    }
+  ]
+}

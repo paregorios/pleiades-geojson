@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Siyapur",
+  "id": "35745675",
+  "bbox": [
+    79.8266233,
+    26.9762626,
+    79.8266233,
+    26.9762626
+  ],
+  "description": "Settlement in Uttar Pradesh, India containing remains dated from the pre-Painted Grey Ware period (1200 BCE) through the Kushana period (3rd century CE).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8266233,
+          26.9762626
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8266233,
+          26.9762626
+        ]
+      },
+      "id": "siyapur",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate centerpoint of the Siyapur mound, derived from an OpenStreetMap Node after Tewari 2021.",
+        "location_precision": "precise",
+        "title": "OSM location of Siyapur",
+        "link": "http://pleiades.stoa.org/places/35745675/siyapur"
+      }
+    }
+  ]
+}

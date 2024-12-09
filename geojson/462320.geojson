@@ -5,8 +5,8 @@
   "bbox": [
     14.1767484,
     38.0075868,
-    14.1767484,
-    38.0075868
+    14.1771001,
+    38.0095011
   ],
   "description": "An ancient place, cited: BAtlas 47 E3 Monalos fl.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.1767484,
-          38.0075868
+          14.1770199258,
+          38.0085187755
         ]
       },
       "properties": {
@@ -28,10 +28,44 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.1767484,
-          38.0075868
+          [
+            14.1767484,
+            38.0075868
+          ],
+          [
+            14.1769264,
+            38.0076788
+          ],
+          [
+            14.1770005,
+            38.0079185
+          ],
+          [
+            14.1770364,
+            38.0081552
+          ],
+          [
+            14.1771001,
+            38.0086293
+          ],
+          [
+            14.1770917,
+            38.0089125
+          ],
+          [
+            14.1770772,
+            38.0091466
+          ],
+          [
+            14.1770276,
+            38.0093371
+          ],
+          [
+            14.1768769,
+            38.0095011
+          ]
         ]
       },
       "id": "location-of-Monalos-fl",
@@ -39,7 +73,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Monalos fl.",
+        "title": "OSM location of Fiume Pollina",
         "link": "http://pleiades.stoa.org/places/462320/location-of-Monalos-fl"
       }
     }

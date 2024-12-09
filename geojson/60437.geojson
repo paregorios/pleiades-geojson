@@ -3,6 +3,9 @@
   "title": "Aristophyloi",
   "id": "60437",
   "description": "An ancient people whose territory is unlocated",
+  "connectsWith": [
+    "59982"
+  ],
   "names": [
     "Aristophyloi"
   ],

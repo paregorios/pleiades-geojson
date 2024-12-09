@@ -4,9 +4,9 @@
   "id": "785971",
   "bbox": [
     33.623553,
-    25.6058972,
-    33.623553,
-    25.6058972
+    25.605486,
+    33.6245186,
+    25.6061197
   ],
   "description": "An ancient place, cited: BAtlas 80 D2 Aphrodites (Oros)",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.623553,
-          25.6058972
+          33.6240669619,
+          25.6058027507
         ]
       },
       "properties": {

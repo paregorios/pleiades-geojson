@@ -21,29 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.2054939268,
-          45.6133528146
+          10.2095781956,
+          45.5276572924
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.2014089,
-          45.699041
-        ]
-      },
-      "id": "osm-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of Fiume Mella",
-        "link": "http://pleiades.stoa.org/places/383707/osm-location"
       }
     },
     {
@@ -1360,8 +1343,8 @@
               45.8083135
             ],
             [
-              10.3276997,
-              45.8083681
+              10.3276769,
+              45.8083485
             ],
             [
               10.3273662,
@@ -2080,8 +2063,8 @@
               45.8014488
             ],
             [
-              10.2914263,
-              45.8015859
+              10.2914189,
+              45.801585
             ],
             [
               10.2913605,
@@ -4038,14 +4021,14 @@
               45.7224116
             ],
             [
-              10.2303208,
-              45.7219767
+              10.2303172,
+              45.721995
             ]
           ],
           [
             [
-              10.2303208,
-              45.7219767
+              10.2303172,
+              45.721995
             ],
             [
               10.2304461,
@@ -4094,8 +4077,8 @@
               45.7206033
             ],
             [
-              10.2309087,
-              45.7203348
+              10.2310048,
+              45.7204669
             ],
             [
               10.231038,

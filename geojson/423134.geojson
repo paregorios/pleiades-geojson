@@ -15,29 +15,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6793323347,
-          41.8043438624
+          12.6793093693,
+          41.8035397249
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6793553,
-          41.805148
-        ]
-      },
-      "id": "location-of-villa-torlonia",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of Villa Torlonia",
-        "link": "http://pleiades.stoa.org/places/423134/location-of-villa-torlonia"
       }
     },
     {
