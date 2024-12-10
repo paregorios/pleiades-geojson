@@ -3,10 +3,10 @@
   "title": "Çayönü",
   "id": "75292543",
   "bbox": [
+    39.72323,
+    38.2175289,
     39.726875,
-    38.2183444,
-    39.726875,
-    38.2183444
+    38.2191359
   ],
   "description": "Çayönü was a Neolithic settlement located in southern Turkey. Its remains date ca. 7200 to 6600 BC. The site spans the entire Pre-pottery Neolithic sequence and recent investigations suggest that Çayönü may be the site of the first domestication of the pig (Sus scrofa).",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.726875,
-          38.2183444
+          39.725002543,
+          38.2183115333
         ]
       },
       "properties": {
@@ -25,10 +25,60 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          39.726875,
-          38.2183444
+          [
+            39.726875,
+            38.2183444
+          ],
+          [
+            39.726527,
+            38.2180806
+          ],
+          [
+            39.7257699,
+            38.2178168
+          ],
+          [
+            39.7245549,
+            38.2175481
+          ],
+          [
+            39.7234681,
+            38.2175289
+          ],
+          [
+            39.72323,
+            38.2177784
+          ],
+          [
+            39.7234192,
+            38.2184116
+          ],
+          [
+            39.7238283,
+            38.2187426
+          ],
+          [
+            39.724848,
+            38.2191071
+          ],
+          [
+            39.7257516,
+            38.2191359
+          ],
+          [
+            39.7262889,
+            38.2190016
+          ],
+          [
+            39.7267651,
+            38.2186706
+          ],
+          [
+            39.726875,
+            38.2183444
+          ]
         ]
       },
       "id": "location-of-cayoenu",

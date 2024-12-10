@@ -4,9 +4,9 @@
   "id": "35287426",
   "bbox": [
     15.6798959,
-    40.8877806,
-    15.6798959,
-    40.8877806
+    40.8871398,
+    15.6820814,
+    40.8885579
   ],
   "description": "An imperial Roman villa with a bath complex that emerged in the first and second centuries AD, transitioning to a fortified site after the sixth century AD.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.6798959,
-          40.8877806
+          15.680987657,
+          40.8878187612
         ]
       },
       "properties": {
@@ -25,10 +25,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.6798959,
-          40.8877806
+          [
+            15.6798959,
+            40.8877806
+          ],
+          [
+            15.6801266,
+            40.8873223
+          ],
+          [
+            15.6803412,
+            40.8873832
+          ],
+          [
+            15.6805075,
+            40.8871398
+          ],
+          [
+            15.6820814,
+            40.8878228
+          ],
+          [
+            15.6816118,
+            40.8885579
+          ],
+          [
+            15.6798959,
+            40.8877806
+          ]
         ]
       },
       "id": "location-of-roman-villa",

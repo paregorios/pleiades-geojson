@@ -3,20 +3,20 @@
   "title": "Yumuktepe",
   "id": "12504073",
   "bbox": [
-    34.6044045,
+    34.6031761,
     36.8004345,
-    34.6044045,
-    36.8004345
+    34.6050823,
+    36.8020355
   ],
-  "description": "A settlement mound (tell) near Mersin, Turkey, inhabited from the Neolithic period until the middle ages. During the Bronze Age the tell was part of Kizuwatna, a vassal kingdom of Hittite Empire.",
+  "description": "Yumuktepe is the site of a settlement mound (tell) near Mersin, Turkey, that was inhabited from the Neolithic period until the Middle Ages. During the Bronze Age, the tell was part of Kizuwatna, a vassal kingdom of the Hittite Empire.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.6044045,
-          36.8004345
+          34.6041416498,
+          36.801262222
         ]
       },
       "properties": {
@@ -25,10 +25,56 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          34.6044045,
-          36.8004345
+          [
+            34.6044045,
+            36.8004345
+          ],
+          [
+            34.6038858,
+            36.8005145
+          ],
+          [
+            34.6037013,
+            36.800543
+          ],
+          [
+            34.6033455,
+            36.801045
+          ],
+          [
+            34.6031761,
+            36.8016149
+          ],
+          [
+            34.6034472,
+            36.8019608
+          ],
+          [
+            34.6039216,
+            36.8020355
+          ],
+          [
+            34.6048366,
+            36.801798
+          ],
+          [
+            34.605023,
+            36.8015199
+          ],
+          [
+            34.6050823,
+            36.8010179
+          ],
+          [
+            34.6049213,
+            36.8007126
+          ],
+          [
+            34.6044045,
+            36.8004345
+          ]
         ]
       },
       "id": "location-of-yumuktepe",
@@ -36,7 +82,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Yumuktepe",
+        "title": "OSM location of Yumuktepe",
         "link": "http://pleiades.stoa.org/places/12504073/location-of-yumuktepe"
       }
     }

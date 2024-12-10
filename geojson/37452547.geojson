@@ -3,10 +3,10 @@
   "title": "Pyramid of Kenchreai",
   "id": "37452547",
   "bbox": [
-    22.6713805,
-    37.5872661,
-    22.6713805,
-    37.5872661
+    22.6713293,
+    37.5872271,
+    22.6715276,
+    37.5873938
   ],
   "description": "A pyramidal structure located near the modern village of Hellenikon in Greece, whose ancient name is unknown. It is variously interpreted as one of several mass graves mentioned by Pausanias or as a fort or guard tower for a farm or other installation. Possibly of classical date.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.6713805,
-          37.5872661
+          22.67142845,
+          37.58731045
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.6713805,
-          37.5872661
+          [
+            22.6713884,
+            37.5873938
+          ],
+          [
+            22.6713293,
+            37.5872684
+          ],
+          [
+            22.6714685,
+            37.5872271
+          ],
+          [
+            22.6715276,
+            37.5873525
+          ],
+          [
+            22.6713884,
+            37.5873938
+          ]
         ]
       },
       "id": "3a03c53c13b13bc3b43b1-3953bb3bb3b73bd3b93ba3bf",
@@ -36,7 +54,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Πυραμίδα Ελληνικού",
+        "title": "OSM location of Πυραμίδα Ελληνικού",
         "link": "http://pleiades.stoa.org/places/37452547/3a03c53c13b13bc3b43b1-3953bb3bb3b73bd3b93ba3bf"
       }
     }

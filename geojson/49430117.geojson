@@ -3,12 +3,12 @@
   "title": "Monastery of Simeon Stylites the Younger",
   "id": "49430117",
   "bbox": [
-    36.0359692,
+    36.0350438,
     36.0909168,
-    36.0359692,
-    36.0909168
+    36.0360841,
+    36.091646
   ],
-  "description": "A sixth century AD monastery named for Simeon Stylites the Younger who lived atop a pillar on Thaumaston Oros.",
+  "description": "A sixth-century AD monastery named for Simeon Stylites the Younger who lived atop a pillar on Thaumaston Oros.",
   "connectsWith": [
     "658618"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.0359692,
-          36.0909168
+          36.0355664453,
+          36.0912829059
         ]
       },
       "properties": {
@@ -31,18 +31,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          36.0359692,
-          36.0909168
+          [
+            36.0360841,
+            36.0915577
+          ],
+          [
+            36.0359692,
+            36.0909168
+          ],
+          [
+            36.0350438,
+            36.0910143
+          ],
+          [
+            36.0351645,
+            36.091646
+          ],
+          [
+            36.0360841,
+            36.0915577
+          ]
         ]
       },
       "id": "location-of-monastery",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of monastery",
+        "title": "OSM location of Monastery of St. Simeon Stylites",
         "link": "http://pleiades.stoa.org/places/49430117/location-of-monastery"
       }
     }

@@ -3,10 +3,10 @@
   "title": "Lupanar",
   "id": "38626420",
   "bbox": [
-    14.4867565,
+    14.4867042,
     40.7502396,
-    14.4867565,
-    40.7502396
+    14.4868851,
+    40.7503324
   ],
   "description": "The Lupanar (or Lupanare Grande) (VII, 12, 18–20) is located east of the forum at the intersection of Vico del Lupanare and Vico del Balcone Pensile. It is the largest of Pompeii's brothels.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4867565,
-          40.7502396
+          14.4867921376,
+          40.750278815
         ]
       },
       "properties": {
@@ -33,10 +33,40 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.4867565,
-          40.7502396
+          [
+            14.4867736,
+            40.7503324
+          ],
+          [
+            14.4867042,
+            40.7502668
+          ],
+          [
+            14.4867565,
+            40.7502396
+          ],
+          [
+            14.4867917,
+            40.7502483
+          ],
+          [
+            14.4868722,
+            40.7502616
+          ],
+          [
+            14.4868851,
+            40.7502714
+          ],
+          [
+            14.4868594,
+            40.7502855
+          ],
+          [
+            14.4867736,
+            40.7503324
+          ]
         ]
       },
       "id": "lupanare",

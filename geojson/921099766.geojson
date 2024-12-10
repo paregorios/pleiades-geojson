@@ -9,6 +9,9 @@
     31.7455182
   ],
   "description": "This Sumerian/Babylonian city (also known as Zabalam, now as modern Tell Ibzeikh) was a cult centre of the goddess Inanna/Ishtar. It was located near the Iturungal and Ninagina canals.",
+  "connectsWith": [
+    "202833934"
+  ],
   "names": [
     "Zabalam",
     "Tell Ibzeikh",

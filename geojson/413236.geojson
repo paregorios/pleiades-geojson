@@ -3,10 +3,10 @@
   "title": "Ossaia",
   "id": "413236",
   "bbox": [
-    12.0038592,
-    43.2348349,
-    12.0038592,
-    43.2348349
+    12.0038615,
+    43.2346281,
+    12.0042967,
+    43.2348324
   ],
   "description": "Site of a Late Republican and Imperial Roman villa (first to fifth centuries A.D.)",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0038592,
-          43.2348349
+          12.0040791,
+          43.23473025
         ]
       },
       "properties": {

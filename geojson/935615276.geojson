@@ -9,6 +9,10 @@
     31.7475
   ],
   "description": "Find place for cuneiform inscription.",
+  "connectsWith": [
+    "921099766",
+    "202833934"
+  ],
   "names": [
     "Shamīt"
   ],
