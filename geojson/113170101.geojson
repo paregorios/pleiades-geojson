@@ -3,10 +3,10 @@
   "title": "Oram's Arbour",
   "id": "113170101",
   "bbox": [
-    -1.3236537,
-    51.0656286,
-    -1.3236537,
-    51.0656286
+    -1.3215525,
+    51.0642695,
+    -1.3211811,
+    51.0650812
   ],
   "description": "Oram's Arbour, now a park, was the site of Iron Age occupation prior to the establishment of Venta. Location based on OpenStreetMap.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.3236537,
-          51.0656286
+          -1.32136694619,
+          51.0646754158
         ]
       },
       "properties": {
@@ -28,10 +28,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.3236537,
-          51.0656286
+          [
+            -1.3215525,
+            51.0642695
+          ],
+          [
+            -1.3215421,
+            51.064293
+          ],
+          [
+            -1.3211811,
+            51.0650812
+          ]
         ]
       },
       "id": "osm-location-of-orams-arbour",

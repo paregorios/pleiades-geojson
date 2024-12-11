@@ -3,9 +3,9 @@
   "title": "Paturro Roman villa",
   "id": "141708579",
   "bbox": [
-    -0.8402426,
-    37.5889413,
-    -0.8402426,
+    -0.8404786,
+    37.5876618,
+    -0.8383811,
     37.5889413
   ],
   "description": "A luxury terraced villa in Spain's Murcia region that was first built in the Republican period and then abandoned by the third century A.D.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.8402426,
-          37.5889413
+          -0.83943530098,
+          37.5883137583
         ]
       },
       "properties": {
@@ -25,10 +25,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -0.8402426,
-          37.5889413
+          [
+            -0.8402426,
+            37.5889413
+          ],
+          [
+            -0.8404786,
+            37.58875
+          ],
+          [
+            -0.8391053,
+            37.5878191
+          ],
+          [
+            -0.8390731,
+            37.5876618
+          ],
+          [
+            -0.8383811,
+            37.5879933
+          ],
+          [
+            -0.8393092,
+            37.5885034
+          ],
+          [
+            -0.8402426,
+            37.5889413
+          ]
         ]
       },
       "id": "osm-location",

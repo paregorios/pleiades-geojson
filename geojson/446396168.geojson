@@ -3,10 +3,10 @@
   "title": "Küçük Ağrı Dağı",
   "id": "446396168",
   "bbox": [
-    44.4113609,
-    39.6475865,
-    44.4113609,
-    39.6475865
+    44.4137333,
+    39.6482769,
+    44.4137333,
+    39.6482769
   ],
   "description": "A peak of the Ararat massif, known as Little Ararat.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4113609,
-          39.6475865
+          44.4137333,
+          39.6482769
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4113609,
-          39.6475865
+          44.4137333,
+          39.6482769
         ]
       },
       "id": "kucuk-agr131-dag131",

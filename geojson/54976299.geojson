@@ -3,10 +3,10 @@
   "title": "Tumulus of Xhendremael",
   "id": "54976299",
   "bbox": [
-    5.4778741,
-    50.6973476,
-    5.4778741,
-    50.6973476
+    5.4778925,
+    50.6971721,
+    5.4783381,
+    50.6975158
   ],
   "description": "The Tumulus of Xhendremael (known also as Li Tombe di Hên'mâl) is a Gallo-Roman burial mound near Xhendremael in Belgium. In 1933 the remains of a Roman villa were discovered in its vicinity.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.4778741,
-          50.6973476
+          5.47812138445,
+          50.6973490677
         ]
       },
       "properties": {
@@ -25,10 +25,56 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.4778741,
-          50.6973476
+          [
+            5.4778925,
+            50.6973544
+          ],
+          [
+            5.4779108,
+            50.6973905
+          ],
+          [
+            5.4780001,
+            50.6974359
+          ],
+          [
+            5.4781503,
+            50.6975158
+          ],
+          [
+            5.4781848,
+            50.6975105
+          ],
+          [
+            5.4782308,
+            50.6974835
+          ],
+          [
+            5.478312,
+            50.6974172
+          ],
+          [
+            5.4783381,
+            50.6973595
+          ],
+          [
+            5.4782764,
+            50.6972658
+          ],
+          [
+            5.4781848,
+            50.6972119
+          ],
+          [
+            5.4780822,
+            50.6971721
+          ],
+          [
+            5.4778925,
+            50.6973544
+          ]
         ]
       },
       "id": "location-of-tumulus-of-xhendremael",
@@ -36,7 +82,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Tumulus of Xhendremael",
+        "title": "OSM location of Tumulus of Xhendremael",
         "link": "http://pleiades.stoa.org/places/54976299/location-of-tumulus-of-xhendremael"
       }
     }

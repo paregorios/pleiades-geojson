@@ -3,10 +3,10 @@
   "title": "Masseria De Carolis",
   "id": "169940092",
   "bbox": [
+    14.3755576,
+    40.8664939,
     14.376306,
-    40.854811,
-    14.381933,
-    40.8668651
+    40.8670801
   ],
   "description": "A Roman villa with an associated bath complex destroyed by the AD 79 eruption of Vesuvius, the Masseria De Carolis site is located in the comune of Pollena Trocchia near Naples, Italy.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3791195,
-          40.86083805
+          14.3759693272,
+          40.8668089397
         ]
       },
       "properties": {
@@ -25,27 +25,84 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.381933,
-          40.854811
-        ]
-      },
-      "id": "pollena-trocchia",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of modern Pollena Trocchia",
-        "link": "http://pleiades.stoa.org/places/169940092/pollena-trocchia"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.376306,
-          40.8668651
+          [
+            14.376306,
+            40.8668651
+          ],
+          [
+            14.3762711,
+            40.8667981
+          ],
+          [
+            14.3762228,
+            40.8667677
+          ],
+          [
+            14.3762041,
+            40.8667373
+          ],
+          [
+            14.376196,
+            40.8666541
+          ],
+          [
+            14.3761397,
+            40.8665689
+          ],
+          [
+            14.3760056,
+            40.866502
+          ],
+          [
+            14.3759251,
+            40.8664939
+          ],
+          [
+            14.3757803,
+            40.8665771
+          ],
+          [
+            14.3756408,
+            40.8666785
+          ],
+          [
+            14.3755576,
+            40.8667393
+          ],
+          [
+            14.3755845,
+            40.8668205
+          ],
+          [
+            14.3756703,
+            40.8669239
+          ],
+          [
+            14.3757186,
+            40.8669665
+          ],
+          [
+            14.3758902,
+            40.8670517
+          ],
+          [
+            14.3760538,
+            40.866999
+          ],
+          [
+            14.3761799,
+            40.8670274
+          ],
+          [
+            14.3763033,
+            40.8670801
+          ],
+          [
+            14.376306,
+            40.8668651
+          ]
         ]
       },
       "id": "location-of-archaeological-area",

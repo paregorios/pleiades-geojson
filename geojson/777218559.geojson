@@ -3,10 +3,10 @@
   "title": "Great Temple of Petra",
   "id": "777218559",
   "bbox": [
-    35.4420482,
-    30.3285001,
-    35.4426891,
-    30.3291191
+    35.4420263,
+    30.328499,
+    35.4426721,
+    30.3291277
   ],
   "description": "The Great Temple of Petra is one of the major archaeological and architectural components of central Petra. It is located to the south of the Colonnaded Street and southeast of the Temenos Gate and covers 7560 square meters.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.4423772011,
-          30.3288842293
+          35.4423492281,
+          30.328813337
         ]
       },
       "properties": {
@@ -31,20 +31,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            35.4420482,
-            30.3285492
+            35.4420991,
+            30.3291277
           ],
           [
-            35.4426891,
-            30.32907
+            35.4420263,
+            30.328553
           ],
           [
-            35.4421135,
-            30.3291191
+            35.4425994,
+            30.328499
           ],
           [
-            35.4426238,
-            30.3285001
+            35.4426679,
+            30.3290401
+          ],
+          [
+            35.4426721,
+            30.3290737
+          ],
+          [
+            35.4420991,
+            30.3291277
           ]
         ]
       },

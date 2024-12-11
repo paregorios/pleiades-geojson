@@ -3,10 +3,10 @@
   "title": "Beycesultan",
   "id": "56861725",
   "bbox": [
-    29.7002949,
+    29.6987056,
     38.2552883,
-    29.7002949,
-    38.2552883
+    29.7037996,
+    38.2578368
   ],
   "description": "An ancient Anatolian settlement occupied from the Late Chalcolithic period through the Bronze Age.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.7002949,
-          38.2552883
+          29.7011939085,
+          38.2566789757
         ]
       },
       "properties": {
@@ -28,10 +28,76 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          29.7002949,
-          38.2552883
+          [
+            29.7002949,
+            38.2552883
+          ],
+          [
+            29.6990904,
+            38.2556102
+          ],
+          [
+            29.6987809,
+            38.2560174
+          ],
+          [
+            29.6987056,
+            38.2566545
+          ],
+          [
+            29.6989816,
+            38.2570617
+          ],
+          [
+            29.6995671,
+            38.2574558
+          ],
+          [
+            29.7003534,
+            38.2577383
+          ],
+          [
+            29.7008302,
+            38.2577908
+          ],
+          [
+            29.7015997,
+            38.2578368
+          ],
+          [
+            29.7027122,
+            38.2577777
+          ],
+          [
+            29.7035235,
+            38.2575938
+          ],
+          [
+            29.7037578,
+            38.2572588
+          ],
+          [
+            29.7037996,
+            38.2568844
+          ],
+          [
+            29.7035403,
+            38.2564903
+          ],
+          [
+            29.702294,
+            38.2559452
+          ],
+          [
+            29.7011815,
+            38.2554394
+          ],
+          [
+            29.7002949,
+            38.2552883
+          ]
         ]
       },
       "id": "location-of-beycesultan",
@@ -39,7 +105,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Beycesultan",
+        "title": "OSM location of Beycesultan",
         "link": "http://pleiades.stoa.org/places/56861725/location-of-beycesultan"
       }
     }

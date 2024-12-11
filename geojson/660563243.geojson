@@ -3,10 +3,10 @@
   "title": "Mount Ararat",
   "id": "660563243",
   "bbox": [
-    44.2984506,
-    39.7019442,
-    44.2984506,
-    39.7019442
+    44.2983964,
+    39.7019346,
+    44.2983964,
+    39.7019346
   ],
   "description": "The Ararat massif in eastern Asia Minor measures ca. 40 km (25 mi) in diameter and has two peaks, Greater Ararat and Lesser Ararat.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.2984506,
-          39.7019442
+          44.2983964,
+          39.7019346
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.2984506,
-          39.7019442
+          44.2983964,
+          39.7019346
         ]
       },
       "id": "agr131-dag131",
