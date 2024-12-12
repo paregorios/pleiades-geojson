@@ -3,10 +3,10 @@
   "title": "Ponte Acque Alte",
   "id": "147468860",
   "bbox": [
-    12.884548,
+    12.8841478,
     41.554411,
     12.884548,
-    41.554411
+    41.5547204
   ],
   "description": "A Roman bridge along the Via Appia near Cisterna di Latina.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.884548,
-          41.554411
+          12.8843479,
+          41.5545657
         ]
       },
       "properties": {
@@ -28,10 +28,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.884548,
-          41.554411
+          [
+            12.8841478,
+            41.5547204
+          ],
+          [
+            12.884548,
+            41.554411
+          ]
         ]
       },
       "id": "location-of-roman-bridge",

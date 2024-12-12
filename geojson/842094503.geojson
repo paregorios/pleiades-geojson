@@ -3,10 +3,10 @@
   "title": "Pen Llystyn",
   "id": "842094503",
   "bbox": [
-    -4.2644262,
-    52.980354,
-    -4.2644262,
-    52.980354
+    -4.2642154,
+    52.9804844,
+    -4.2642154,
+    52.9804844
   ],
   "description": "An earth and timber fort originally covering 1.8 ha located at the base of the Lleyn peninsula, between Segontium and Tomen-y-Mur, Pen Llystyn was subsequently destroyed by quarrying.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2644262,
-          52.980354
+          -4.2642154,
+          52.9804844
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.2644262,
-          52.980354
+          -4.2642154,
+          52.9804844
         ]
       },
       "id": "osm-location",

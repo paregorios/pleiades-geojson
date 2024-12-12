@@ -28,10 +28,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.6899472,
-          36.7361595
+          [
+            -3.6899394,
+            36.7361997
+          ],
+          [
+            -3.6897741,
+            36.737073
+          ]
         ]
       },
       "id": "location-of-aqueduct",

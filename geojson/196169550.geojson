@@ -28,10 +28,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.8481451,
-          40.2522688
+          [
+            8.8481451,
+            40.2522688
+          ],
+          [
+            8.8484093,
+            40.2523681
+          ]
         ]
       },
       "id": "osm-location",

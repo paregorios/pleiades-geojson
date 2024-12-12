@@ -3,10 +3,10 @@
   "title": "Roman amphitheater",
   "id": "808098069",
   "bbox": [
-    10.7912831,
-    35.2118299,
-    10.7912831,
-    35.2118299
+    10.7911544,
+    35.2119855,
+    10.7911544,
+    35.2119855
   ],
   "description": "The Roman amphitheater is located on the opposite bank of the wadi from Bararus.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7912831,
-          35.2118299
+          10.7911544,
+          35.2119855
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7912831,
-          35.2118299
+          10.7911544,
+          35.2119855
         ]
       },
       "id": "osm-location-of-roman-amphitheater",
@@ -39,7 +39,7 @@
       "properties": {
         "description": "Representative location based on a node derived from OpenStreetMap.",
         "location_precision": "precise",
-        "title": "OSM location of Roman amphitheater",
+        "title": "OSM location of Bararus Amphitheatre",
         "link": "http://pleiades.stoa.org/places/808098069/osm-location-of-roman-amphitheater"
       }
     }

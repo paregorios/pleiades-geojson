@@ -3,10 +3,10 @@
   "title": "Mount Caburn hill fort",
   "id": "187989738",
   "bbox": [
-    0.0526684,
-    50.8613999,
-    0.0526684,
-    50.8613999
+    0.0499772,
+    50.8610297,
+    0.0522087,
+    50.8625358
   ],
   "description": "Atop Mount Caburn are the remains of a Pre-Roman Iron Age hill fort.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.0526684,
-          50.8613999
+          0.0510466657554,
+          50.8618202848
         ]
       },
       "properties": {
@@ -25,16 +25,90 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          0.0526684,
-          50.8613999
+          [
+            0.052139,
+            50.8619997
+          ],
+          [
+            0.0522087,
+            50.8622404
+          ],
+          [
+            0.0519401,
+            50.8624496
+          ],
+          [
+            0.0512574,
+            50.8625358
+          ],
+          [
+            0.0506631,
+            50.8624865
+          ],
+          [
+            0.0503207,
+            50.8624563
+          ],
+          [
+            0.0500997,
+            50.8622998
+          ],
+          [
+            0.0499805,
+            50.8620333
+          ],
+          [
+            0.0500095,
+            50.8618191
+          ],
+          [
+            0.0499772,
+            50.8615868
+          ],
+          [
+            0.0500425,
+            50.8613291
+          ],
+          [
+            0.0501703,
+            50.8611669
+          ],
+          [
+            0.0506031,
+            50.8610408
+          ],
+          [
+            0.0510513,
+            50.8610297
+          ],
+          [
+            0.0514837,
+            50.8611142
+          ],
+          [
+            0.0518268,
+            50.8613056
+          ],
+          [
+            0.051985,
+            50.8615428
+          ],
+          [
+            0.0520961,
+            50.8617289
+          ],
+          [
+            0.052139,
+            50.8619997
+          ]
         ]
       },
       "id": "osm-location-of-mount-caburn-hill-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Mount Caburn hill fort",
         "link": "http://pleiades.stoa.org/places/187989738/osm-location-of-mount-caburn-hill-fort"

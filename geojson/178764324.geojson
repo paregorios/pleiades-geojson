@@ -3,9 +3,9 @@
   "title": "Monte Gentili",
   "id": "178764324",
   "bbox": [
-    12.6839122,
-    41.7260923,
-    12.6839122,
+    12.6837307,
+    41.7258267,
+    12.684116,
     41.7260923
   ],
   "description": "A villa associated with Aulus Vitellius Germanicus.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6839122,
-          41.7260923
+          12.6839054478,
+          41.725963812
         ]
       },
       "properties": {
@@ -25,10 +25,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.6839122,
-          41.7260923
+          [
+            12.6839122,
+            41.7260923
+          ],
+          [
+            12.6837307,
+            41.7259996
+          ],
+          [
+            12.683766,
+            41.7259611
+          ],
+          [
+            12.6837365,
+            41.7259141
+          ],
+          [
+            12.6838622,
+            41.7258267
+          ],
+          [
+            12.684116,
+            41.7259762
+          ],
+          [
+            12.6839122,
+            41.7260923
+          ]
         ]
       },
       "id": "location-of-roman-villa",
@@ -36,7 +62,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman villa",
+        "title": "OSM location of Villa di Aulo Vitellio Germanico",
         "link": "http://pleiades.stoa.org/places/178764324/location-of-roman-villa"
       }
     }

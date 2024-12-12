@@ -3,9 +3,9 @@
   "title": "Finca del Secretario",
   "id": "177797261",
   "bbox": [
-    -4.6120537,
-    36.5586489,
-    -4.6120537,
+    -4.6128986,
+    36.5575674,
+    -4.6120188,
     36.5586489
   ],
   "description": "An archaeological site that comprises remains of an urban area of the Roman period ranging in date from the first to the fifth centuries. Among the complexes in evidence are a salting factory, a pottery works, and thermal baths.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.6120537,
-          36.5586489
+          -4.61251123924,
+          36.5581808381
         ]
       },
       "properties": {
@@ -25,10 +25,72 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.6120537,
-          36.5586489
+          [
+            -4.6120537,
+            36.5586489
+          ],
+          [
+            -4.6124265,
+            36.5586015
+          ],
+          [
+            -4.6124587,
+            36.5585412
+          ],
+          [
+            -4.6124399,
+            36.5585046
+          ],
+          [
+            -4.6124399,
+            36.5584421
+          ],
+          [
+            -4.6125258,
+            36.558427
+          ],
+          [
+            -4.6128128,
+            36.558231
+          ],
+          [
+            -4.6128771,
+            36.5580823
+          ],
+          [
+            -4.6128986,
+            36.5579272
+          ],
+          [
+            -4.6128825,
+            36.5577742
+          ],
+          [
+            -4.6127564,
+            36.5575674
+          ],
+          [
+            -4.6122865,
+            36.5582367
+          ],
+          [
+            -4.6122361,
+            36.5583085
+          ],
+          [
+            -4.6120349,
+            36.5585585
+          ],
+          [
+            -4.6120188,
+            36.558608
+          ],
+          [
+            -4.6120537,
+            36.5586489
+          ]
         ]
       },
       "id": "osm-location",
