@@ -3,10 +3,10 @@
   "title": "Kelsborrow Castle",
   "id": "82240558",
   "bbox": [
-    -2.7013641,
-    53.2025543,
-    -2.7013641,
-    53.2025543
+    -2.7033479,
+    53.2021532,
+    -2.7013383,
+    53.2033614
   ],
   "description": "Kelsborrow Castle is an Iron Age hill fort located in the county of Cheshire in northern England.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.7013641,
-          53.2025543
+          -2.70235537864,
+          53.2027639872
         ]
       },
       "properties": {

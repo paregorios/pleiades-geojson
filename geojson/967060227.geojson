@@ -10,7 +10,8 @@
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
-    "91358"
+    "91358",
+    "89311"
   ],
   "features": [
     {

@@ -144,7 +144,7 @@
       "id": "location-of-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Lunt Roman Fort ",
         "link": "http://pleiades.stoa.org/places/878157790/location-of-fort"

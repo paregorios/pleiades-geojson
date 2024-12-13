@@ -3,12 +3,15 @@
   "title": "Caepionis Monu.",
   "id": "256038",
   "bbox": [
-    -7.0,
-    36.0,
-    -6.0,
-    37.0
+    -6.354394,
+    36.778761,
+    -6.354394,
+    36.778761
   ],
   "description": "Caepionis Monumentum (Tower of Caepio) was a tower-cum-lighthouse built by the Roman proconsul Quintus Servilius Caepio in 140 BC. The aim was to make the Salmedina reef at the mouth of the river Baitis (Guadalquivir) navigable. The modern toponym is Chipiona.",
+  "connectsWith": [
+    "256010"
+  ],
   "names": [
     "Caepionis Monu.",
     "Scipionis Monu."
@@ -19,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.5,
-          36.5
+          -6.354394,
+          36.778761
         ]
       },
       "properties": {

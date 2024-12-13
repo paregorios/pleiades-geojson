@@ -3,20 +3,23 @@
   "title": "Pommeroeul",
   "id": "109253",
   "bbox": [
-    3.710539,
-    50.460364,
-    3.710539,
-    50.460364
+    3.7106608,
+    50.4611987,
+    3.7106608,
+    50.4611987
   ],
-  "description": "An ancient place, cited: BAtlas 11 D2 Pommeroeul",
+  "description": "A Gallo-Roman settlement and associated necropolis were discovered in the vicinity of the modern Belgian village of Pommerœul in the 1970s.",
+  "names": [
+    "Pommerœul"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.710539,
-          50.460364
+          3.7106608,
+          50.4611987
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.710539,
-          50.460364
+          3.7106608,
+          50.4611987
         ]
       },
-      "id": "darmc-location-14362",
+      "id": "osm-location-modern-pommeraul",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14362",
-        "link": "http://pleiades.stoa.org/places/109253/darmc-location-14362"
+        "title": "OSM Location: modern Pommerœul",
+        "link": "http://pleiades.stoa.org/places/109253/osm-location-modern-pommeraul"
       }
     }
   ]

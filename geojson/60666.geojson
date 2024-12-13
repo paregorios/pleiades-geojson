@@ -3,15 +3,15 @@
   "title": "Sambraceni",
   "id": "60666",
   "bbox": [
-    28.72731,
-    33.745685,
-    72.815207,
-    36.70498
+    67.4095123,
+    23.99074,
+    79.7118503,
+    35.8512743
   ],
   "description": "An ancient people whose territory is unlocated; Pliny placed them along the Indus river, north of Taxila.",
   "connectsWith": [
     "60083",
-    "638870"
+    "59851"
   ],
   "names": [
     "Sambraceni"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.7712585,
-          35.2253325
+          73.0206743316,
+          32.2430262217
         ]
       },
       "properties": {
