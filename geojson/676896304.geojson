@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ruaylbari Fort",
+  "id": "676896304",
+  "bbox": [
+    90.7850434,
+    24.6169132,
+    90.7851992,
+    24.6171165
+  ],
+  "description": "Medieval fortress in the Netroknoa district, Mymensingh, Bangladesh dated to the 13th-14th centuries CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7851213,
+          24.61701485
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.7850522,
+            24.6171165
+          ],
+          [
+            90.7851992,
+            24.6171111
+          ],
+          [
+            90.7851904,
+            24.6169132
+          ],
+          [
+            90.7850434,
+            24.6169186
+          ],
+          [
+            90.7850522,
+            24.6171165
+          ]
+        ]
+      },
+      "id": "9b09be9879b29ac9be9c09b0-9a69c19b09cd997",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of the Rualybari Fort, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of রোয়াইলবাড়ীর দুর্গ",
+        "link": "http://pleiades.stoa.org/places/676896304/9b09be9879b29ac9be9c09b0-9a69c19b09cd997"
+      }
+    }
+  ]
+}

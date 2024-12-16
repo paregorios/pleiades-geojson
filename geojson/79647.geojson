@@ -3,10 +3,10 @@
   "title": "Portus Lemanis",
   "id": "79647",
   "bbox": [
-    1.019602,
+    1.0191979,
     51.067083,
     1.023064,
-    51.06949
+    51.0696461
   ],
   "description": "An ancient place, cited: BAtlas 8 I3 Portus Lemanis",
   "names": [
@@ -19,12 +19,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.02117852005,
-          51.0686172743
+          1.02114617482,
+          51.0684677342
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.0197148,
+            51.0672068
+          ],
+          [
+            1.0191979,
+            51.0687145
+          ],
+          [
+            1.0208755,
+            51.0696461
+          ],
+          [
+            1.0222312,
+            51.0694806
+          ],
+          [
+            1.0221434,
+            51.0691558
+          ],
+          [
+            1.0221824,
+            51.0689413
+          ],
+          [
+            1.0224068,
+            51.0687268
+          ],
+          [
+            1.0226701,
+            51.0685858
+          ],
+          [
+            1.0228262,
+            51.0682058
+          ],
+          [
+            1.0229627,
+            51.0679423
+          ],
+          [
+            1.0230115,
+            51.0676603
+          ],
+          [
+            1.0229042,
+            51.0675132
+          ],
+          [
+            1.0227676,
+            51.0674519
+          ],
+          [
+            1.0223677,
+            51.0673968
+          ],
+          [
+            1.0220849,
+            51.0673539
+          ],
+          [
+            1.0197148,
+            51.0672068
+          ]
+        ]
+      },
+      "id": "osm-location-of-portus-lemanis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Portus Lemanis",
+        "link": "http://pleiades.stoa.org/places/79647/osm-location-of-portus-lemanis"
       }
     },
     {
@@ -53,13 +132,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/79647/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/79647/imagery-location-boundary-of-fort-walls"
       }
     }
   ]

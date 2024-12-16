@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "title": "Seleukeia on the Erythraian Sea",
+  "id": "549872870",
+  "bbox": [
+    50.9999999,
+    27.0000001,
+    50.9999999,
+    27.0000001
+  ],
+  "description": "An unlocated Hellenistic city near the Persian Gulf, mentioned in an inscription from Magnesia on the Maeander.",
+  "connectsWith": [
+    "29713",
+    "45635759",
+    "912816"
+  ],
+  "names": [
+    "Seleúkeia hē pros tēi eruthrã thalássēi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.9999999,
+          27.0000001
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

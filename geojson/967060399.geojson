@@ -3,7 +3,7 @@
   "title": "Milecastle 40 (Winshields)",
   "id": "967060399",
   "bbox": [
-    -2.399252,
+    -2.3992668,
     55.002024,
     -2.398949,
     55.002229
@@ -18,12 +18,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.39910561955,
-          55.002124014
+          -2.39911278478,
+          55.002116082
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3992246,
+            55.0021797
+          ],
+          [
+            -2.3989731,
+            55.0021485
+          ],
+          [
+            -2.3990153,
+            55.0020366
+          ],
+          [
+            -2.3992668,
+            55.0020678
+          ],
+          [
+            -2.3992246,
+            55.0021797
+          ]
+        ]
+      },
+      "id": "osm-location-of-milecastle-40-winshields",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 40 (Winshields)",
+        "link": "http://pleiades.stoa.org/places/967060399/osm-location-of-milecastle-40-winshields"
       }
     },
     {

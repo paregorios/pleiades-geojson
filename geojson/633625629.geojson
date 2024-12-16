@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Atlantis",
+  "id": "633625629",
+  "description": "Atlantis is the mythical island state used by Plato in the Timaeus and Critias as an example of a powerful and hubristic nation. It has widely been used in later literature, and speculation in pseudo-history and conspiracy theory.",
+  "connectsWith": [
+    "275614"
+  ],
+  "names": [
+    "Atlantis",
+    "Atlantis Nesos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

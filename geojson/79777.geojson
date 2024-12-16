@@ -20,29 +20,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.98778428997,
-          53.4522182187
+          -1.98778957995,
+          53.4522364373
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.987779,
-          53.4522
-        ]
-      },
-      "id": "darmc-location-19229",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 19229",
-        "link": "http://pleiades.stoa.org/places/79777/darmc-location-19229"
       }
     },
     {
@@ -78,13 +61,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx.)",
-        "link": "http://pleiades.stoa.org/places/79777/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls (approx.)",
+        "link": "http://pleiades.stoa.org/places/79777/imagery-location-boundary-of-fort-walls"
       }
     }
   ]

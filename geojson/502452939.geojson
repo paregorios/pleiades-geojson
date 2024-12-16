@@ -34,9 +34,9 @@
       "id": "location-of-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Roman fort",
+        "title": "OSM location of Lapford Roman Fort",
         "link": "http://pleiades.stoa.org/places/502452939/location-of-roman-fort"
       }
     }

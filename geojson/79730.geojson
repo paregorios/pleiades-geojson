@@ -8,7 +8,7 @@
     -3.450325,
     53.257265
   ],
-  "description": "An ancient place, cited: BAtlas 8 D1 Varis",
+  "description": "Probable Roman fort and settlement in St Asaph, Wales",
   "names": [
     "Varis"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-7171",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 7171",
         "link": "http://pleiades.stoa.org/places/79730/darmc-location-7171"

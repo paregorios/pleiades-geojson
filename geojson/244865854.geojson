@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Karagündüz",
+  "id": "244865854",
+  "bbox": [
+    43.64556,
+    38.6958418,
+    43.64556,
+    38.6958418
+  ],
+  "description": "Karagündüz (Armenian name: Charakonis) is a modern village on the eastern coast of Lake Erceç in southeastern Turkey. Here a stela with an inscription of the Urartian kings Išpuini (9th century BCE) and Minua (9th / 8th century BCE) was found which praises the victory over the cites Mešta, Qua, Šaritu, and Nigibi and the land Paršua and gives detailed information about the numbers of soldiers, spoils and deportees (CTU I A 3-9). Furthermore, a partially preserved stela authored by Minua, son of Išpuini, has been found alone (CTU I A 5-86).",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "Karagündüz"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.64556,
+          38.6958418
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.64556,
+          38.6958418
+        ]
+      },
+      "id": "karagunduz",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Karagündüz",
+        "link": "http://pleiades.stoa.org/places/244865854/karagunduz"
+      }
+    }
+  ]
+}

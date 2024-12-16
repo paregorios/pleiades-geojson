@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gol Mod-1",
+  "id": "936225396",
+  "bbox": [
+    101.5276142,
+    48.5334358,
+    101.5276142,
+    48.5334358
+  ],
+  "description": "Cemetery site in Arkhangai Province, Mongolia containing 483 tombs associated with the Xiongnu culture.",
+  "names": [
+    "Gol mod-1"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5276142,
+          48.5334358
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5276142,
+          48.5334358
+        ]
+      },
+      "id": "khunnughiin-uieiin-bulsh-gol-mod-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate centerpoint of the visible remains at Gol Mod-1, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of Хүннүгийн үеийн булш Гол мод -1",
+        "link": "http://pleiades.stoa.org/places/936225396/khunnughiin-uieiin-bulsh-gol-mod-1"
+      }
+    }
+  ]
+}

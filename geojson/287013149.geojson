@@ -3,10 +3,10 @@
   "title": "Castle an Dinas",
   "id": "287013149",
   "bbox": [
-    -4.8942739,
-    50.4239152,
-    -4.8942739,
-    50.4239152
+    -4.8957024,
+    50.4239484,
+    -4.8919139,
+    50.4263052
   ],
   "description": "Castle an Dinas is an Iron Age hillfort near St. Columb Major in Cornwall, United Kingdom, built during the third and second centuries BC.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.8942739,
-          50.4239152
+          -4.89378826135,
+          50.4251133918
         ]
       },
       "properties": {
@@ -25,18 +25,92 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.8942739,
-          50.4239152
+          [
+            -4.8943114,
+            50.4240156
+          ],
+          [
+            -4.8948168,
+            50.424172
+          ],
+          [
+            -4.8951972,
+            50.4243094
+          ],
+          [
+            -4.8954753,
+            50.4245162
+          ],
+          [
+            -4.8957024,
+            50.4250616
+          ],
+          [
+            -4.8955498,
+            50.4255694
+          ],
+          [
+            -4.8951563,
+            50.425944
+          ],
+          [
+            -4.8946231,
+            50.4261874
+          ],
+          [
+            -4.8940195,
+            50.4262893
+          ],
+          [
+            -4.8939253,
+            50.4263052
+          ],
+          [
+            -4.8931834,
+            50.426244
+          ],
+          [
+            -4.8925177,
+            50.4259959
+          ],
+          [
+            -4.8921343,
+            50.425692
+          ],
+          [
+            -4.8919139,
+            50.4252995
+          ],
+          [
+            -4.8919584,
+            50.4247602
+          ],
+          [
+            -4.8923553,
+            50.4242935
+          ],
+          [
+            -4.8929666,
+            50.4239966
+          ],
+          [
+            -4.8938081,
+            50.4239484
+          ],
+          [
+            -4.8943114,
+            50.4240156
+          ]
         ]
       },
       "id": "location-of-castle-an-dinas",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Castle an Dinas",
+        "title": "OSM location of Castle an Dinas",
         "link": "http://pleiades.stoa.org/places/287013149/location-of-castle-an-dinas"
       }
     }

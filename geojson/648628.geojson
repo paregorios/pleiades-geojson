@@ -3,10 +3,10 @@
   "title": "Elaioussa/Sebaste",
   "id": "648628",
   "bbox": [
-    34.174114,
-    36.4812,
-    34.1808,
-    36.496785
+    34.1740352,
+    36.4811535,
+    34.1750053,
+    36.483813
   ],
   "description": "Elaioussa/Sebaste was an ancient Roman city in Asia Minor founded in the second century BC.",
   "connectsWith": [
@@ -22,12 +22,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.1765186667,
-          36.487266
+          34.1744134408,
+          36.4821815357
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.1747306,
+            36.4813461
+          ],
+          [
+            34.1741229,
+            36.4811535
+          ],
+          [
+            34.1740352,
+            36.48152
+          ],
+          [
+            34.1741463,
+            36.4817314
+          ],
+          [
+            34.1742982,
+            36.4818771
+          ],
+          [
+            34.1744794,
+            36.4817455
+          ],
+          [
+            34.1749994,
+            36.4817079
+          ],
+          [
+            34.1750053,
+            36.4815858
+          ],
+          [
+            34.1746839,
+            36.4815529
+          ],
+          [
+            34.1747306,
+            36.4813461
+          ]
+        ]
+      },
+      "id": "osm-location-of-elaiussa-sebaste",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Elaiussa Sebaste",
+        "link": "http://pleiades.stoa.org/places/648628/osm-location-of-elaiussa-sebaste"
       }
     },
     {
@@ -45,23 +100,6 @@
         "location_precision": "precise",
         "title": "DARMC location 1915",
         "link": "http://pleiades.stoa.org/places/648628/darmc-location-1915"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.1808,
-          36.496785
-        ]
-      },
-      "id": "darmc-location-12316",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 12316",
-        "link": "http://pleiades.stoa.org/places/648628/darmc-location-12316"
       }
     },
     {

@@ -36,7 +36,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Woodhouses Hill Fort",
+        "title": "OSM location of Woodhouses Hill Fort",
         "link": "http://pleiades.stoa.org/places/792019811/location-of-woodhouses-hill-fort"
       }
     }

@@ -3,24 +3,127 @@
   "title": "Castell Collen",
   "id": "79378",
   "bbox": [
-    -3.384372,
-    52.255244,
-    -3.384131,
-    52.255735
+    -3.3856105,
+    52.2549776,
+    -3.3828237,
+    52.2568608
   ],
-  "description": "An ancient place, cited: BAtlas 8 D2 Castell Collen",
+  "description": "Castell Collen is the site of a Roman auxiliary fort dating to the Flavian period.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3842515,
-          52.2554895
+          -3.38416792921,
+          52.2558298322
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.3828237,
+            52.2563863
+          ],
+          [
+            -3.3828318,
+            52.2564191
+          ],
+          [
+            -3.3828801,
+            52.2564667
+          ],
+          [
+            -3.3829444,
+            52.2564996
+          ],
+          [
+            -3.3844384,
+            52.2568493
+          ],
+          [
+            -3.3845269,
+            52.2568608
+          ],
+          [
+            -3.384602,
+            52.2568575
+          ],
+          [
+            -3.3846932,
+            52.2568345
+          ],
+          [
+            -3.3847442,
+            52.2567935
+          ],
+          [
+            -3.385581,
+            52.2555785
+          ],
+          [
+            -3.3856105,
+            52.2555128
+          ],
+          [
+            -3.3856105,
+            52.2554718
+          ],
+          [
+            -3.3855623,
+            52.2554274
+          ],
+          [
+            -3.3854898,
+            52.2553962
+          ],
+          [
+            -3.3848086,
+            52.2552288
+          ],
+          [
+            -3.3846691,
+            52.2551828
+          ],
+          [
+            -3.3838027,
+            52.2549776
+          ],
+          [
+            -3.3837196,
+            52.2549776
+          ],
+          [
+            -3.3836713,
+            52.254994
+          ],
+          [
+            -3.383615,
+            52.2550416
+          ],
+          [
+            -3.3831966,
+            52.2557525
+          ],
+          [
+            -3.3828237,
+            52.2563863
+          ]
+        ]
+      },
+      "id": "osm-location-of-castell-collen-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castell Collen Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79378/osm-location-of-castell-collen-roman-fort"
       }
     },
     {
@@ -34,27 +137,10 @@
       "id": "darmc-location-7150",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 7150",
         "link": "http://pleiades.stoa.org/places/79378/darmc-location-7150"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.384372,
-          52.255244
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/79378/dare-location"
       }
     }
   ]

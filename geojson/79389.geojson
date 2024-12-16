@@ -3,12 +3,12 @@
   "title": "‘Cicutio’",
   "id": "79389",
   "bbox": [
-    -3.4517561,
-    51.9565,
-    -3.4517,
-    51.956546
+    -3.4534415,
+    51.9554973,
+    -3.4499728,
+    51.9573697
   ],
-  "description": "‘Cicutio’ is a Roman fort located near modern day Brecon in Wales. The fort was originally built ca. A.D. 75.",
+  "description": "‘Cicutio’ is a Roman fort located near modern-day Brecon in Wales. The fort was originally built ca. A.D. 75.",
   "names": [
     "Cicutio"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.45172805,
-          51.956523
+          -3.4517058354,
+          51.9564786222
         ]
       },
       "properties": {
@@ -45,19 +45,121 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.4517561,
-          51.956546
+          [
+            -3.4525479,
+            51.9558481
+          ],
+          [
+            -3.4526894,
+            51.9558699
+          ],
+          [
+            -3.4530504,
+            51.9559375
+          ],
+          [
+            -3.4533088,
+            51.9559975
+          ],
+          [
+            -3.4533813,
+            51.9560422
+          ],
+          [
+            -3.453422,
+            51.9560891
+          ],
+          [
+            -3.4534415,
+            51.9562047
+          ],
+          [
+            -3.4534114,
+            51.9564021
+          ],
+          [
+            -3.4533247,
+            51.9566398
+          ],
+          [
+            -3.4531671,
+            51.957
+          ],
+          [
+            -3.4530646,
+            51.9572074
+          ],
+          [
+            -3.452933,
+            51.9573276
+          ],
+          [
+            -3.452772,
+            51.9573697
+          ],
+          [
+            -3.4524209,
+            51.9573246
+          ],
+          [
+            -3.4512212,
+            51.9571653
+          ],
+          [
+            -3.4509258,
+            51.9571267
+          ],
+          [
+            -3.450266,
+            51.956978
+          ],
+          [
+            -3.4500407,
+            51.9568887
+          ],
+          [
+            -3.4499874,
+            51.9567957
+          ],
+          [
+            -3.4499728,
+            51.9566664
+          ],
+          [
+            -3.4504361,
+            51.9556446
+          ],
+          [
+            -3.4505092,
+            51.9555635
+          ],
+          [
+            -3.4506019,
+            51.9555124
+          ],
+          [
+            -3.4507384,
+            51.9554973
+          ],
+          [
+            -3.4514651,
+            51.9556206
+          ],
+          [
+            -3.4525479,
+            51.9558481
+          ]
         ]
       },
-      "id": "osm-location-of-brecon-y-gaer-roman-fort",
+      "id": "osm-location-of-cicucium-brecon-gaer-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Brecon Y Gaer Roman Fort",
-        "link": "http://pleiades.stoa.org/places/79389/osm-location-of-brecon-y-gaer-roman-fort"
+        "title": "OSM location of Cicucium Brecon Gaer Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79389/osm-location-of-cicucium-brecon-gaer-roman-fort"
       }
     }
   ]

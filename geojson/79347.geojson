@@ -8,7 +8,7 @@
     -2.874516,
     52.361185
   ],
-  "description": "An ancient place, cited: BAtlas 8 E2 Branogenium",
+  "description": "A Roman fort was established near the present-day village of Leintwardine ca. 70 CE. The fort was situated close to the confluence of the river Clun with the river Teme, along the Roman road now known as \"Watling Street West\".",
   "names": [
     "Branogenium",
     "Bravonium"
@@ -38,7 +38,7 @@
       "id": "darmc-location-19065",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19065",
         "link": "http://pleiades.stoa.org/places/79347/darmc-location-19065"

@@ -118,7 +118,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Lurg Moor Roman fortlet",
+        "title": "OSM location of Lurg Moor Roman fortlet",
         "link": "http://pleiades.stoa.org/places/620007181/location-of-lurg-moor-roman-fortlet"
       }
     }
