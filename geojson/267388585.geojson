@@ -3,10 +3,10 @@
   "title": "Stanwick Iron Age Fortifications",
   "id": "267388585",
   "bbox": [
-    -1.72356,
-    54.503,
-    -1.72356,
-    54.503
+    -1.719081,
+    54.4987941,
+    -1.719081,
+    54.4987941
   ],
   "description": "Stanwick Iron Age Fortifications or Stanwick camp is an Iron Age site in Britain covering approximately 300 hectares.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.72356,
-          54.503
+          -1.719081,
+          54.4987941
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.72356,
-          54.503
+          -1.719081,
+          54.4987941
         ]
       },
-      "id": "location-of-stanwick-iron-age-fortifications",
+      "id": "osm-location-of-stanwick-iron-age-fortifications",
       "type": "Feature",
       "properties": {
-        "description": "coordinates after GeoHack.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Stanwick Iron Age Fortifications",
-        "link": "http://pleiades.stoa.org/places/267388585/location-of-stanwick-iron-age-fortifications"
+        "title": "OSM location of Stanwick Iron Age Fortifications",
+        "link": "http://pleiades.stoa.org/places/267388585/osm-location-of-stanwick-iron-age-fortifications"
       }
     }
   ]

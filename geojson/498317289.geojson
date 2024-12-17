@@ -3,10 +3,10 @@
   "title": "Chûn Castle",
   "id": "498317289",
   "bbox": [
-    -5.6337358,
-    50.1486811,
-    -5.6337358,
-    50.1486811
+    -5.6343126,
+    50.1482875,
+    -5.6330815,
+    50.1490489
   ],
   "description": "Chûn Castle is an Iron Age hill fort near Penzance in Cornwall, United Kingdom.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.6337358,
-          50.1486811
+          -5.63369699413,
+          50.1486721277
         ]
       },
       "properties": {
@@ -25,19 +25,81 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -5.6337358,
-          50.1486811
+          [
+            -5.6341059,
+            50.1489423
+          ],
+          [
+            -5.6341919,
+            50.1488392
+          ],
+          [
+            -5.6342858,
+            50.1487189
+          ],
+          [
+            -5.6343126,
+            50.1485883
+          ],
+          [
+            -5.6342697,
+            50.1484783
+          ],
+          [
+            -5.6340927,
+            50.1483648
+          ],
+          [
+            -5.6338084,
+            50.1482875
+          ],
+          [
+            -5.6335911,
+            50.1483167
+          ],
+          [
+            -5.6333175,
+            50.1483923
+          ],
+          [
+            -5.6331539,
+            50.1485178
+          ],
+          [
+            -5.6330815,
+            50.1486931
+          ],
+          [
+            -5.6331486,
+            50.1488684
+          ],
+          [
+            -5.6333122,
+            50.1490077
+          ],
+          [
+            -5.6335777,
+            50.1490489
+          ],
+          [
+            -5.6338647,
+            50.1490214
+          ],
+          [
+            -5.6341059,
+            50.1489423
+          ]
         ]
       },
-      "id": "location-of-chun-castle",
+      "id": "osm-location-cha-n-castle",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Chûn Castle",
-        "link": "http://pleiades.stoa.org/places/498317289/location-of-chun-castle"
+        "title": "OSM location: Chûn Castle",
+        "link": "http://pleiades.stoa.org/places/498317289/osm-location-cha-n-castle"
       }
     }
   ]

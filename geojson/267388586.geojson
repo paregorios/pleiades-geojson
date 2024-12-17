@@ -4,9 +4,9 @@
   "id": "267388586",
   "bbox": [
     -3.2627822,
-    51.1467042,
-    -3.2627822,
-    51.1467042
+    51.1461825,
+    -3.2612512,
+    51.1471868
   ],
   "description": "Trendle Ring is a prehistoric hill fort in Britain.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2627822,
-          51.1467042
+          -3.26196812682,
+          51.1466767473
         ]
       },
       "properties": {
@@ -25,10 +25,80 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.2627822,
-          51.1467042
+          [
+            -3.2627822,
+            51.1467042
+          ],
+          [
+            -3.2627122,
+            51.1468212
+          ],
+          [
+            -3.262448,
+            51.1469772
+          ],
+          [
+            -3.2620594,
+            51.147104
+          ],
+          [
+            -3.2616786,
+            51.1471868
+          ],
+          [
+            -3.2614765,
+            51.1471283
+          ],
+          [
+            -3.2613056,
+            51.1469869
+          ],
+          [
+            -3.2612589,
+            51.1468456
+          ],
+          [
+            -3.2612512,
+            51.1465872
+          ],
+          [
+            -3.2613289,
+            51.1464312
+          ],
+          [
+            -3.2615698,
+            51.1462654
+          ],
+          [
+            -3.2618029,
+            51.1461825
+          ],
+          [
+            -3.2621527,
+            51.1461971
+          ],
+          [
+            -3.2623547,
+            51.1462605
+          ],
+          [
+            -3.262549,
+            51.1463824
+          ],
+          [
+            -3.2626889,
+            51.146514
+          ],
+          [
+            -3.2627433,
+            51.1466018
+          ],
+          [
+            -3.2627822,
+            51.1467042
+          ]
         ]
       },
       "id": "osm-location",
@@ -36,7 +106,7 @@
       "properties": {
         "description": "Polygonal geometry representing the perimeter and extent of the site, derived from an OpenStreetMap way.",
         "location_precision": "precise",
-        "title": "OSM Location",
+        "title": "OSM Location of Trendle Ring",
         "link": "http://pleiades.stoa.org/places/267388586/osm-location"
       }
     }

@@ -3,12 +3,12 @@
   "title": "Bannatia?",
   "id": "89112",
   "bbox": [
-    -3.987899,
-    56.3656766,
-    -3.987899,
-    56.3656766
+    -3.9875967,
+    56.3658011,
+    -3.9875967,
+    56.3658011
   ],
-  "description": "An ancient place, cited: BAtlas 9 D4 Bannatia?",
+  "description": "Site of Roman forts and temporary camps in Dalginross, Scotland.",
   "names": [
     "Bannatia"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.987899,
-          56.3656766
+          -3.9875967,
+          56.3658011
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.987899,
-          56.3656766
+          -3.9875967,
+          56.3658011
         ]
       },
       "id": "osm-location",

@@ -3,10 +3,10 @@
   "title": "Barburgh Mill Roman fortlet",
   "id": "655739578",
   "bbox": [
-    -3.7262188,
-    55.1793305,
-    -3.7262188,
-    55.1793305
+    -3.7263433,
+    55.1789963,
+    -3.7263433,
+    55.1789963
   ],
   "description": "A Roman fortlet lying on a small hill near the line of a Roman road (R77). Excavated in the 1970s, the site has now been largely destroyed by a gravel quarry.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7262188,
-          55.1793305
+          -3.7263433,
+          55.1789963
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.7262188,
-          55.1793305
+          -3.7263433,
+          55.1789963
         ]
       },
       "id": "osm-location-of-fort-remains",

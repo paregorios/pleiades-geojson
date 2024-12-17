@@ -31,13 +31,13 @@
           58.2696017
         ]
       },
-      "id": "location-of-dun-carloway",
+      "id": "osm-location-of-dun-carloway",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Dun Carloway",
-        "link": "http://pleiades.stoa.org/places/814454572/location-of-dun-carloway"
+        "title": "OSM location of Dun Carloway",
+        "link": "http://pleiades.stoa.org/places/814454572/osm-location-of-dun-carloway"
       }
     }
   ]

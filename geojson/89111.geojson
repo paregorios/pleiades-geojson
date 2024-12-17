@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Barochan",
+  "title": "Barochan Hill",
   "id": "89111",
   "bbox": [
     -4.537044,
@@ -8,7 +8,7 @@
     -4.537044,
     55.884949
   ],
-  "description": "An ancient place, cited: BAtlas 9 C5 Barochan",
+  "description": "Roman fort overlooking the Clyde Estuary, Scotland.",
   "features": [
     {
       "type": "Feature",
@@ -34,7 +34,7 @@
       "id": "darmc-location-19055",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19055",
         "link": "http://pleiades.stoa.org/places/89111/darmc-location-19055"

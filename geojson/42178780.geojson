@@ -3,20 +3,20 @@
   "title": "Hod Hill",
   "id": "42178780",
   "bbox": [
-    -2.2078952,
-    50.8963551,
-    -2.2071988,
-    50.8975049
+    -2.209866,
+    50.8924515,
+    -2.1999155,
+    50.8977688
   ],
-  "description": "Hod Hill is the site of a large, rectangular Iron Age hill-fort. After the Roman conquest, Romans occupied the hill-fort.",
+  "description": "Hod Hill is the site of a large, rectangular Iron Age hill fort. After the Roman conquest, Romans occupied the hill-fort.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.207547,
-          50.89693
+          -2.20654153966,
+          50.8957532752
         ]
       },
       "properties": {
@@ -25,18 +25,192 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.2071988,
-          50.8975049
+          [
+            -2.2071988,
+            50.8975049
+          ],
+          [
+            -2.2057911,
+            50.8971895
+          ],
+          [
+            -2.2041593,
+            50.8969967
+          ],
+          [
+            -2.2031159,
+            50.8969107
+          ],
+          [
+            -2.2021004,
+            50.8969026
+          ],
+          [
+            -2.2013376,
+            50.8969087
+          ],
+          [
+            -2.2007175,
+            50.8968309
+          ],
+          [
+            -2.2003248,
+            50.8966394
+          ],
+          [
+            -2.2000598,
+            50.8962929
+          ],
+          [
+            -2.1999155,
+            50.8958913
+          ],
+          [
+            -2.2003109,
+            50.89502
+          ],
+          [
+            -2.2005002,
+            50.8944858
+          ],
+          [
+            -2.200924,
+            50.893966
+          ],
+          [
+            -2.201424,
+            50.8934778
+          ],
+          [
+            -2.2018821,
+            50.8930731
+          ],
+          [
+            -2.202448,
+            50.892688
+          ],
+          [
+            -2.2030945,
+            50.8924515
+          ],
+          [
+            -2.2036566,
+            50.8924843
+          ],
+          [
+            -2.2048162,
+            50.8926991
+          ],
+          [
+            -2.2051469,
+            50.8927604
+          ],
+          [
+            -2.2057944,
+            50.8928656
+          ],
+          [
+            -2.2059446,
+            50.89289
+          ],
+          [
+            -2.2064717,
+            50.8929301
+          ],
+          [
+            -2.2069246,
+            50.8929645
+          ],
+          [
+            -2.2077513,
+            50.893182
+          ],
+          [
+            -2.2083779,
+            50.8933773
+          ],
+          [
+            -2.2089942,
+            50.8931655
+          ],
+          [
+            -2.2093236,
+            50.8931266
+          ],
+          [
+            -2.209579,
+            50.8935573
+          ],
+          [
+            -2.2097404,
+            50.8939265
+          ],
+          [
+            -2.209866,
+            50.8942963
+          ],
+          [
+            -2.2096938,
+            50.8946695
+          ],
+          [
+            -2.2096771,
+            50.8947057
+          ],
+          [
+            -2.2093698,
+            50.8957688
+          ],
+          [
+            -2.2093789,
+            50.8960524
+          ],
+          [
+            -2.2093923,
+            50.8964675
+          ],
+          [
+            -2.2094373,
+            50.8969439
+          ],
+          [
+            -2.20941,
+            50.8972599
+          ],
+          [
+            -2.2093461,
+            50.8975522
+          ],
+          [
+            -2.2090838,
+            50.8976957
+          ],
+          [
+            -2.20874,
+            50.8977634
+          ],
+          [
+            -2.2083253,
+            50.8977688
+          ],
+          [
+            -2.2079133,
+            50.8976636
+          ],
+          [
+            -2.2071988,
+            50.8975049
+          ]
         ]
       },
       "id": "location-of-hod-hill-hill-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Hod Hill hill fort",
+        "title": "OSM location of Hod Hill hill fort",
         "link": "http://pleiades.stoa.org/places/42178780/location-of-hod-hill-hill-fort"
       }
     },
@@ -51,9 +225,9 @@
       "id": "location-of-roman-camp",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Roman camp",
+        "title": "OSM location of Roman camp",
         "link": "http://pleiades.stoa.org/places/42178780/location-of-roman-camp"
       }
     }

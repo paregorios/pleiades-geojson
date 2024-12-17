@@ -34,9 +34,9 @@
       "id": "location-of-small-down-knoll-hill-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Small Down Knoll hill fort",
+        "title": "OSM location of Small Down Knoll hill fort",
         "link": "http://pleiades.stoa.org/places/562474732/location-of-small-down-knoll-hill-fort"
       }
     }
