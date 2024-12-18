@@ -34,9 +34,9 @@
       "id": "location-of-raeburnfoot-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Raeburnfoot Roman fort",
+        "title": "OSM location of Raeburnfoot Roman fort",
         "link": "http://pleiades.stoa.org/places/950298919/location-of-raeburnfoot-roman-fort"
       }
     }

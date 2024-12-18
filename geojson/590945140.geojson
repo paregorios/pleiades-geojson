@@ -3,20 +3,23 @@
   "title": "Swarthy Hill",
   "id": "590945140",
   "bbox": [
-    -3.4504903,
-    54.7467265,
-    -3.4504903,
-    54.7467265
+    -3.4502116,
+    54.7465309,
+    -3.4502116,
+    54.7465309
   ],
   "description": "A Milefortlet of the Roman Cumbrian coast defenses, contemporary to Hadrian's Wall.",
+  "connectsWith": [
+    "579047271"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4504903,
-          54.7467265
+          -3.4502116,
+          54.7465309
         ]
       },
       "properties": {
@@ -27,14 +30,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4504903,
-          54.7467265
+          -3.4502116,
+          54.7465309
         ]
       },
       "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location",
         "link": "http://pleiades.stoa.org/places/590945140/osm-location"

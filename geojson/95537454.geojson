@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Durno(no)varia",
   "id": "95537454",
   "bbox": [
-    -2.4402608,
-    50.7076292,
-    -2.4402608,
-    50.7076292
+    -2.4409449,
+    50.7075615,
+    -2.4394956,
+    50.708493
   ],
   "description": "The Neolithic henge known as Maumbury Rings was adapted for use as an amphitheater space during the Roman period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4402608,
-          50.7076292
+          -2.44021732144,
+          50.7080344519
         ]
       },
       "properties": {

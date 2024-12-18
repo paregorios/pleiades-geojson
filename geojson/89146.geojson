@@ -36,13 +36,13 @@
           54.855844
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "imagery-location-centerpoint-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89146/centerpoint-of-the-ancient-site"
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89146/imagery-location-centerpoint-of-the-ancient-site"
       }
     }
   ]

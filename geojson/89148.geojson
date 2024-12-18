@@ -4,8 +4,8 @@
   "id": "89148",
   "bbox": [
     -3.826826,
-    56.006115,
-    -3.804655,
+    56.00724,
+    -3.823092,
     56.009117
   ],
   "description": "Probably to be associated with a complex of Roman forts at modern day Camelon, just to the north of the Antonine Wall.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.81480824052,
-          56.0071419462
+          -3.82496148103,
+          56.0081688924
         ]
       },
       "properties": {
@@ -58,30 +58,13 @@
           ]
         ]
       },
-      "id": "boundary-of-north-fort-walls-approx",
+      "id": "imagery-location-boundary-of-north-fort-walls-approx",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of north fort walls (approx)",
-        "link": "http://pleiades.stoa.org/places/89148/boundary-of-north-fort-walls-approx"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.804655,
-          56.006115
-        ]
-      },
-      "id": "darmc-location-19095",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 19095",
-        "link": "http://pleiades.stoa.org/places/89148/darmc-location-19095"
+        "title": "Imagery Location: Boundary of north fort walls (approx)",
+        "link": "http://pleiades.stoa.org/places/89148/imagery-location-boundary-of-north-fort-walls-approx"
       }
     }
   ]

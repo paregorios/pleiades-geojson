@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tumek-Kichidzhik",
+  "id": "325665299",
+  "bbox": [
+    58.542156,
+    41.574652,
+    58.542156,
+    41.574652
+  ],
+  "description": "Neolithic burial site located near the eastern bank of the Sarygamysh Lake in modern Turkmenistan, containing remains dated to the 5th-4th millennia BCE.",
+  "names": [
+    "Tumek-Kichidzhik"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.542156,
+          41.574652
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.542156,
+          41.574652
+        ]
+      },
+      "id": "approximate-imagery-location-of-tumek-kichidzhik-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate Google Earth location of the Tumek-Kichidzhik site, after Vinogradov 1986.",
+        "location_precision": "precise",
+        "title": "Approximate imagery location of Tumek-Kichidzhik site",
+        "link": "http://pleiades.stoa.org/places/325665299/approximate-imagery-location-of-tumek-kichidzhik-site"
+      }
+    }
+  ]
+}

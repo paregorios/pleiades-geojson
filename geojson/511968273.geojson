@@ -31,13 +31,13 @@
           55.5869022
         ]
       },
-      "id": "location-of-eildon-hill-hill-fort",
+      "id": "osm-location-of-eildon-hill-hill-fort",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Eildon Hill hill fort",
-        "link": "http://pleiades.stoa.org/places/511968273/location-of-eildon-hill-hill-fort"
+        "title": "OSM location of Eildon Hill hill fort",
+        "link": "http://pleiades.stoa.org/places/511968273/osm-location-of-eildon-hill-hill-fort"
       }
     }
   ]

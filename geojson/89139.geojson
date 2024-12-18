@@ -60,13 +60,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls-approx.",
+      "id": "imagery-location-boundary-of-fort-walls-approx.",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx.)",
-        "link": "http://pleiades.stoa.org/places/89139/boundary-of-fort-walls-approx."
+        "title": "Imagery Location: Boundary of fort walls (approx.)",
+        "link": "http://pleiades.stoa.org/places/89139/imagery-location-boundary-of-fort-walls-approx."
       }
     }
   ]

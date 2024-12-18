@@ -8,7 +8,7 @@
     -2.220955,
     55.035701
   ],
-  "description": "An ancient place, cited: BAtlas 9 E5 *Brocolitia",
+  "description": "Roman fort near present day Carrawburgh.",
   "connectsWith": [
     "91358"
   ],
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.22258,
-          55.03386
+          -2.22217946154,
+          55.0345957013
         ]
       },
       "properties": {
@@ -42,9 +42,9 @@
       "id": "darmc-location-19071",
       "type": "Feature",
       "properties": {
-        "description": "DARMC location 19071, verified in Google Earth.",
+        "description": "Representative point location for centerpoint of visible ancient remains of the so-called Mithraeum at Carrawburgh Roman Fort. Location was  digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
-        "title": "Centerpoint of visible ancient remains of the so-called Mithraeum at Carrawburgh Roman Fort",
+        "title": "DARMC location 19071",
         "link": "http://pleiades.stoa.org/places/89128/darmc-location-19071"
       }
     },

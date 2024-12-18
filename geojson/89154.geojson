@@ -3,10 +3,10 @@
   "title": "Crawford",
   "id": "89154",
   "bbox": [
-    -3.654134,
-    55.470202,
-    -3.654134,
-    55.470202
+    -3.656799,
+    55.475665,
+    -3.656799,
+    55.475665
   ],
   "description": "Site of a small Roman fort between Castledykes and Tassiesholm. The fort was discovered in 1938 and excavated in 1961-66.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.654134,
-          55.470202
+          -3.656799,
+          55.475665
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.654134,
-          55.470202
+          -3.656799,
+          55.475665
         ]
       },
-      "id": "darmc-location-19101",
+      "id": "imagery-location-approximate-centerpoint-of-forts",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "After imagery in Canmore, checked in Google Earth where some linear landforms are suggestive of prior cropmarks. Dates after BAtlas.",
         "location_precision": "precise",
-        "title": "DARMC location 19101",
-        "link": "http://pleiades.stoa.org/places/89154/darmc-location-19101"
+        "title": "Imagery Location: Approximate Centerpoint of Forts",
+        "link": "http://pleiades.stoa.org/places/89154/imagery-location-approximate-centerpoint-of-forts"
       }
     }
   ]

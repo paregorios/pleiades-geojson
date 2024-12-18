@@ -3,10 +3,10 @@
   "title": "Croy Hill",
   "id": "89155",
   "bbox": [
-    -4.042,
-    55.959,
-    -4.042,
-    55.959
+    -4.0325419,
+    55.9643003,
+    -4.0300007,
+    55.9655349
   ],
   "description": "The site of a Roman fort and fortlet on the Antonine Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.042,
-          55.959
+          -4.03157545,
+          55.964741275
         ]
       },
       "properties": {
@@ -28,36 +28,72 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.042,
-          55.959
+          [
+            -4.0316686,
+            55.9649275
+          ],
+          [
+            -4.0307425,
+            55.9645731
+          ],
+          [
+            -4.0300007,
+            55.9651805
+          ],
+          [
+            -4.0309268,
+            55.9655349
+          ],
+          [
+            -4.0316686,
+            55.9649275
+          ]
         ]
       },
-      "id": "croy-hill-fort",
+      "id": "osm-location-boundary-of-fort-walls-approx",
       "type": "Feature",
       "properties": {
         "description": "Coordinates based on Open Street Map.",
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx)",
-        "link": "http://pleiades.stoa.org/places/89155/croy-hill-fort"
+        "title": "OSM Location: Boundary of fort walls (approx)",
+        "link": "http://pleiades.stoa.org/places/89155/osm-location-boundary-of-fort-walls-approx"
       }
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.042,
-          55.959
+          [
+            -4.0325419,
+            55.9644063
+          ],
+          [
+            -4.0323172,
+            55.9645568
+          ],
+          [
+            -4.0320906,
+            55.9644508
+          ],
+          [
+            -4.0323153,
+            55.9643003
+          ],
+          [
+            -4.0325419,
+            55.9644063
+          ]
         ]
       },
-      "id": "croy-hill-fortlet",
+      "id": "osm-location-boundary-of-fortlet-walls-approx",
       "type": "Feature",
       "properties": {
         "description": "Coordinates based on Open Street Map.",
         "location_precision": "precise",
-        "title": "Boundary of fortlet walls (approx)",
-        "link": "http://pleiades.stoa.org/places/89155/croy-hill-fortlet"
+        "title": "OSM Location: Boundary of fortlet walls (approx)",
+        "link": "http://pleiades.stoa.org/places/89155/osm-location-boundary-of-fortlet-walls-approx"
       }
     }
   ]
