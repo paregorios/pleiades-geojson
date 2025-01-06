@@ -3,10 +3,10 @@
   "title": "S'Arcu 'e is Forros",
   "id": "594406649",
   "bbox": [
-    9.3999989,
-    40.0033844,
-    9.3999989,
-    40.0033844
+    9.399956,
+    40.0013462,
+    9.4023002,
+    40.0035406
   ],
   "description": "A significant nuragic complex with major occupational phases during the middle Bronze Age and during the Bronze- to Iron Age transition. A 17 meter long megaron with its temenos is a main feature of the site.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3999989,
-          40.0033844
+          9.40098690238,
+          40.0024776222
         ]
       },
       "properties": {
@@ -28,10 +28,56 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          9.3999989,
-          40.0033844
+          [
+            9.3999989,
+            40.0033844
+          ],
+          [
+            9.399956,
+            40.0021927
+          ],
+          [
+            9.4004173,
+            40.0013709
+          ],
+          [
+            9.4007499,
+            40.0013462
+          ],
+          [
+            9.4012917,
+            40.0018681
+          ],
+          [
+            9.4016511,
+            40.0018599
+          ],
+          [
+            9.4017423,
+            40.0018928
+          ],
+          [
+            9.4021983,
+            40.0021147
+          ],
+          [
+            9.4023002,
+            40.0028831
+          ],
+          [
+            9.4006855,
+            40.0033187
+          ],
+          [
+            9.4004281,
+            40.0035406
+          ],
+          [
+            9.3999989,
+            40.0033844
+          ]
         ]
       },
       "id": "osm-location",

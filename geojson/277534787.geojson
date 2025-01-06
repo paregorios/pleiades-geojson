@@ -3,10 +3,10 @@
   "title": "Tumulus aux Six Frères",
   "id": "277534787",
   "bbox": [
-    4.8655917,
-    50.5587335,
-    4.8655917,
-    50.5587335
+    4.8653762,
+    50.5585144,
+    4.8657262,
+    50.5587362
   ],
   "description": "The Tumulus aux Six Frères (tumulus of the six brothers) is a Gallo-Roman burial mound at Dhuy in Belgium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8655917,
-          50.5587335
+          4.86555095816,
+          50.5586251296
         ]
       },
       "properties": {
@@ -25,10 +25,88 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.8655917,
-          50.5587335
+          [
+            4.8657262,
+            50.5586187
+          ],
+          [
+            4.8657192,
+            50.5586571
+          ],
+          [
+            4.8656919,
+            50.5586916
+          ],
+          [
+            4.8656476,
+            50.5587182
+          ],
+          [
+            4.8655917,
+            50.5587335
+          ],
+          [
+            4.8655369,
+            50.5587362
+          ],
+          [
+            4.8654835,
+            50.558728
+          ],
+          [
+            4.8654367,
+            50.5587097
+          ],
+          [
+            4.8654012,
+            50.558683
+          ],
+          [
+            4.8653803,
+            50.5586507
+          ],
+          [
+            4.8653762,
+            50.5586159
+          ],
+          [
+            4.8653893,
+            50.558582
+          ],
+          [
+            4.8654182,
+            50.5585523
+          ],
+          [
+            4.8654602,
+            50.5585298
+          ],
+          [
+            4.8655111,
+            50.5585166
+          ],
+          [
+            4.8655718,
+            50.5585144
+          ],
+          [
+            4.8656301,
+            50.5585256
+          ],
+          [
+            4.8656789,
+            50.5585487
+          ],
+          [
+            4.8657123,
+            50.558581
+          ],
+          [
+            4.8657262,
+            50.5586187
+          ]
         ]
       },
       "id": "location-of-tumulus-aux-six-freres",
@@ -36,7 +114,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Tumulus aux Six Frères",
+        "title": "OSM location of Tumulus aux Six Frères",
         "link": "http://pleiades.stoa.org/places/277534787/location-of-tumulus-aux-six-freres"
       }
     }

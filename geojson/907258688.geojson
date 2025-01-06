@@ -3,10 +3,10 @@
   "title": "Baths of Antoninus at Carthage",
   "id": "907258688",
   "bbox": [
-    10.3313849,
-    36.8546945,
-    10.3313849,
-    36.8546945
+    10.3313737,
+    36.8531276,
+    10.3363095,
+    36.8559326
   ],
   "description": "The Baths of Antoninus at Carthage date to the middle of the second century and are the largest of the Roman public bath complexes in North Africa.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3313849,
-          36.8546945
+          10.3339659661,
+          36.854786739
         ]
       },
       "properties": {

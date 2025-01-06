@@ -3,20 +3,20 @@
   "title": "Ansignan aqueduct",
   "id": "738817254",
   "bbox": [
-    2.5140266,
-    42.764505,
-    2.5140266,
-    42.764505
+    2.5139566,
+    42.7644384,
+    2.5153076,
+    42.7655154
   ],
-  "description": "The remains of a Roman aqueduct bridge over the Agly river.",
+  "description": "The remains of a Roman aqueduct bridge over the Agly River.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5140266,
-          42.764505
+          2.51462691061,
+          42.7649838023
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          2.5140266,
-          42.764505
+          [
+            2.5139566,
+            42.7644384
+          ],
+          [
+            2.5145408,
+            42.7649196
+          ],
+          [
+            2.5148875,
+            42.7651948
+          ],
+          [
+            2.5152274,
+            42.7654648
+          ],
+          [
+            2.5153076,
+            42.7655154
+          ]
         ]
       },
       "id": "location-of-aqueduct",

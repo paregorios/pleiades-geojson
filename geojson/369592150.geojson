@@ -5,8 +5,8 @@
   "bbox": [
     6.6064967,
     49.3359253,
-    6.6064967,
-    49.3359253
+    6.6073952,
+    49.3369883
   ],
   "description": "The site of a Gallo-Roman sanctuary.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.6064967,
-          49.3359253
+          6.60691665383,
+          49.3364518238
         ]
       },
       "properties": {
@@ -25,10 +25,56 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          6.6064967,
-          49.3359253
+          [
+            6.6064967,
+            49.3359253
+          ],
+          [
+            6.6065413,
+            49.3364125
+          ],
+          [
+            6.6068429,
+            49.3365634
+          ],
+          [
+            6.6071127,
+            49.3369122
+          ],
+          [
+            6.6073952,
+            49.3369883
+          ],
+          [
+            6.6073909,
+            49.3368236
+          ],
+          [
+            6.6072295,
+            49.3367779
+          ],
+          [
+            6.6071127,
+            49.3364637
+          ],
+          [
+            6.6068514,
+            49.3363156
+          ],
+          [
+            6.6068833,
+            49.3362256
+          ],
+          [
+            6.6068578,
+            49.3359308
+          ],
+          [
+            6.6064967,
+            49.3359253
+          ]
         ]
       },
       "id": "osm-location",
@@ -36,7 +82,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
+        "title": "OSM location of Sudelfels",
         "link": "http://pleiades.stoa.org/places/369592150/osm-location"
       }
     }

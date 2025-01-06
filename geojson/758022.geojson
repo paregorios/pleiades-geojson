@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed road station",
   "id": "758022",
   "bbox": [
     31.0,
@@ -8,7 +8,7 @@
     31.5,
     28.0
   ],
-  "description": "An ancient place, cited: BAtlas 77 E1 unnamed road station (between Makhareg and Ujra Zena)",
+  "description": "An unnamed ancient road station located between Makhareg and Ujra Zena and included on Barrington Atlas map 77.",
   "connectsWith": [
     "756672",
     "756596"

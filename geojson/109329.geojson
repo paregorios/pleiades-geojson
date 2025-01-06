@@ -8,9 +8,10 @@
     6.075221,
     48.847202
   ],
-  "description": "Scarponna was a station along the road from Langres to Trier, located at a crossing on the Moselle river.",
+  "description": "Scarponna was a station along the road from Langres to Trier, located at a crossing on the Moselle River.",
   "connectsWith": [
-    "113321"
+    "113321",
+    "109182"
   ],
   "names": [
     "Scarponna",

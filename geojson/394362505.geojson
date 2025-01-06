@@ -3,10 +3,10 @@
   "title": "Roman baths at Fiesole",
   "id": "394362505",
   "bbox": [
-    11.2953335,
+    11.2947419,
     43.80784,
-    11.2953335,
-    43.80784
+    11.2954549,
+    43.8082578
   ],
   "description": "The Roman baths at Fiesole date to the time of Sulla in the first century B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.2953335,
-          43.80784
+          11.2950984014,
+          43.8080488737
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.2953335,
-          43.80784
+          [
+            11.2954549,
+            43.8081277
+          ],
+          [
+            11.2953335,
+            43.80784
+          ],
+          [
+            11.2947419,
+            43.80797
+          ],
+          [
+            11.2948634,
+            43.8082578
+          ],
+          [
+            11.2954549,
+            43.8081277
+          ]
         ]
       },
       "id": "osm-location-of-roman-baths",

@@ -3,9 +3,9 @@
   "title": "Humayma Roman Fort",
   "id": "515107188",
   "bbox": [
-    35.3474639,
-    29.9541418,
-    35.3474639,
+    35.3471293,
+    29.9521126,
+    35.3489817,
     29.9541418
   ],
   "description": "A Trajanic fort located at Hawara (modern Humayma in southern Jordan).",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.3474639,
-          29.9541418
+          35.3480577672,
+          29.9531317903
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.3474639,
-          29.9541418
+          [
+            35.3474639,
+            29.9541418
+          ],
+          [
+            35.3489817,
+            29.9539438
+          ],
+          [
+            35.3486471,
+            29.9521126
+          ],
+          [
+            35.3471293,
+            29.9523318
+          ],
+          [
+            35.3474639,
+            29.9541418
+          ]
         ]
       },
       "id": "location-of-auara",

@@ -3,10 +3,10 @@
   "title": "Los Vilars",
   "id": "814491445",
   "bbox": [
-    0.9548823,
-    41.5688874,
-    0.9548823,
-    41.5688874
+    0.9525005,
+    41.5676529,
+    0.9553007,
+    41.5695336
   ],
   "description": "A fortified Iberian site in use from ca. 750 B.C. to 325 B.C.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.9548823,
-          41.5688874
+          0.953818659149,
+          41.5686564014
         ]
       },
       "properties": {
@@ -25,10 +25,64 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          0.9548823,
-          41.5688874
+          [
+            0.9525005,
+            41.5685463
+          ],
+          [
+            0.9532461,
+            41.5683095
+          ],
+          [
+            0.9532086,
+            41.5682172
+          ],
+          [
+            0.9541455,
+            41.5677853
+          ],
+          [
+            0.9544459,
+            41.5676529
+          ],
+          [
+            0.9553007,
+            41.5686506
+          ],
+          [
+            0.9548823,
+            41.5688874
+          ],
+          [
+            0.9544746,
+            41.5690881
+          ],
+          [
+            0.9539703,
+            41.5692446
+          ],
+          [
+            0.9528438,
+            41.5695336
+          ],
+          [
+            0.9527848,
+            41.5694493
+          ],
+          [
+            0.9529814,
+            41.5693787
+          ],
+          [
+            0.9529668,
+            41.5693534
+          ],
+          [
+            0.9525005,
+            41.5685463
+          ]
         ]
       },
       "id": "location-of-oppidum",
@@ -36,7 +90,7 @@
       "properties": {
         "description": "Representative location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "OSM location of oppidum",
+        "title": "OSM location of Poblat Ibèric dels Vilars",
         "link": "http://pleiades.stoa.org/places/814491445/location-of-oppidum"
       }
     }

@@ -3,20 +3,20 @@
   "title": "Knowlton Church and Earth Works",
   "id": "251814622",
   "bbox": [
-    -1.9674841,
-    50.8915684,
-    -1.9674841,
-    50.8915684
+    -1.9682368,
+    50.8915156,
+    -1.9665603,
+    50.8924861
   ],
-  "description": "A cluster of Neolithic and Bronze Age earthworks with a twelfth century Norman church built in the center.",
+  "description": "A cluster of Neolithic and Bronze Age earthworks with a twelfth-century Norman church built in the center.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.9674841,
-          50.8915684
+          -1.96742053324,
+          50.8920251022
         ]
       },
       "properties": {

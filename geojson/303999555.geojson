@@ -3,9 +3,9 @@
   "title": "Torre del Giudizio",
   "id": "303999555",
   "bbox": [
-    12.4597458,
-    41.8529129,
-    12.4597458,
+    12.4597431,
+    41.852823,
+    12.4598491,
     41.8529129
   ],
   "description": "Torre del Giudizio is a Medieval tower built atop a pre-existing Roman site located near the fluvial harbor of vicus Alexandrini.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4597458,
-          41.8529129
+          12.4597963583,
+          41.8528678874
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4597458,
-          41.8529129
+          [
+            12.4597458,
+            41.8529129
+          ],
+          [
+            12.4597431,
+            41.852823
+          ],
+          [
+            12.4598491,
+            41.852825
+          ],
+          [
+            12.4598491,
+            41.8529119
+          ],
+          [
+            12.4597458,
+            41.8529129
+          ]
         ]
       },
       "id": "location-of-torre-del-giudizio",

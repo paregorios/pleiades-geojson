@@ -3,10 +3,10 @@
   "title": "Rabati Malik",
   "id": "305879597",
   "bbox": [
-    65.1489221,
-    40.1223102,
-    65.1489221,
-    40.1223102
+    65.1475461,
+    40.1220849,
+    65.148922,
+    40.1235531
   ],
   "description": "An eleventh-century caravanserai along the Silk Road, now located in Uzbekistan. Rabati Malik Caravanserai was built under Karakhanid Shams-al-Mulk Nasr, son of Tamgachkhan Ibragim who ruled in Samarkand from 1068 to 1080. The site was added to the UNESCO World Heritage Tentative List in 2008. ",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.1489221,
-          40.1223102
+          65.1482207871,
+          40.1228395581
         ]
       },
       "properties": {
@@ -25,10 +25,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          65.1489221,
-          40.1223102
+          [
+            65.1477737,
+            40.1220849
+          ],
+          [
+            65.1475461,
+            40.1234302
+          ],
+          [
+            65.1486848,
+            40.1235531
+          ],
+          [
+            65.148922,
+            40.1223102
+          ],
+          [
+            65.1483607,
+            40.1221997
+          ],
+          [
+            65.1477737,
+            40.1220849
+          ]
         ]
       },
       "id": "osm-location",

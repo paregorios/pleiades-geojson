@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.3215691082,
-          40.4875606741
+          22.3240334165,
+          40.4883467482
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.3191048,
-          40.4867746
-        ]
-      },
-      "id": "location-of-royal-tombs-of-vergina",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Royal Tombs of Vergina",
-        "link": "http://pleiades.stoa.org/places/531279448/location-of-royal-tombs-of-vergina"
       }
     },
     {

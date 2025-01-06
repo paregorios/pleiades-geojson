@@ -3,20 +3,20 @@
   "title": "Castle Greg",
   "id": "109516473",
   "bbox": [
-    -3.5173571,
+    -3.5177108,
     55.8168937,
-    -3.5173571,
-    55.8168937
+    -3.5167225,
+    55.8174912
   ],
-  "description": "A well preserved Roman fortlet located midway between Castledykes and Cramond.",
+  "description": "A well-preserved Roman fortlet located midway between Castledykes and Cramond.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5173571,
-          55.8168937
+          -3.51721664029,
+          55.8171924565
         ]
       },
       "properties": {

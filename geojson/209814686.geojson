@@ -3,10 +3,10 @@
   "title": "Forum of Carsulae",
   "id": "209814686",
   "bbox": [
-    12.5572297,
-    42.6401176,
-    12.5572297,
-    42.6401176
+    12.5571838,
+    42.6396478,
+    12.5577074,
+    42.6401232
   ],
   "description": "The Forum of Carsulae is supported by terraces and it includes the basilica and a twin sanctuary, in addition to tabernae.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5572297,
-          42.6401176
+          12.5574506448,
+          42.6398912516
         ]
       },
       "properties": {
@@ -28,10 +28,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.5572297,
-          42.6401176
+          [
+            12.5572297,
+            42.6401176
+          ],
+          [
+            12.5576742,
+            42.6401232
+          ],
+          [
+            12.5577074,
+            42.639817
+          ],
+          [
+            12.5576538,
+            42.6396478
+          ],
+          [
+            12.5571838,
+            42.6396948
+          ],
+          [
+            12.5572221,
+            42.6398827
+          ],
+          [
+            12.5572297,
+            42.6401176
+          ]
         ]
       },
       "id": "osm-location-of-forum",

@@ -3,10 +3,10 @@
   "title": "Via Statilia tombs",
   "id": "711765706",
   "bbox": [
-    12.5118411,
-    41.8903201,
-    12.5118411,
-    41.8903201
+    12.5117624,
+    41.8902025,
+    12.5119059,
+    41.8903104
   ],
   "description": "Late Republican chamber tombs (ca. 100 B.C.) located at the intersection of the modern Via Statilia and Via di Santa Croce in Rome.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5118411,
-          41.8903201
+          12.5118341603,
+          41.8902567747
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.5118411,
-          41.8903201
+          [
+            12.5118375,
+            41.8903104
+          ],
+          [
+            12.5117624,
+            41.8902475
+          ],
+          [
+            12.5118308,
+            41.8902025
+          ],
+          [
+            12.5119059,
+            41.8902674
+          ],
+          [
+            12.5118375,
+            41.8903104
+          ]
         ]
       },
       "id": "location-of-via-statilia-tombs",

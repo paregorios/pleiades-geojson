@@ -9,6 +9,9 @@
     45.532064
   ],
   "description": "An ancient place, cited: BAtlas 17 G2 Brigantio",
+  "connectsWith": [
+    "167793"
+  ],
   "names": [
     "Brigantio"
   ],

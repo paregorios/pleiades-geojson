@@ -3,9 +3,9 @@
   "title": "San Pedro del Arroyo",
   "id": "606075817",
   "bbox": [
-    -4.8681546,
-    40.8059259,
-    -4.8681546,
+    -4.8683987,
+    40.8051564,
+    -4.8671622,
     40.8059259
   ],
   "description": "A late Roman villa complex that continued in use during the Visigothic period.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.8681546,
-          40.8059259
+          -4.86781019452,
+          40.8055119742
         ]
       },
       "properties": {
@@ -25,10 +25,52 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.8681546,
-          40.8059259
+          [
+            -4.8685724,
+            40.8060398
+          ],
+          [
+            -4.8687104,
+            40.8057866
+          ],
+          [
+            -4.8688287,
+            40.8055898
+          ],
+          [
+            -4.8689663,
+            40.8053481
+          ],
+          [
+            -4.8680457,
+            40.8050182
+          ],
+          [
+            -4.8680584,
+            40.8049563
+          ],
+          [
+            -4.8678152,
+            40.8049105
+          ],
+          [
+            -4.8676128,
+            40.8054061
+          ],
+          [
+            -4.867133,
+            40.8052846
+          ],
+          [
+            -4.8669383,
+            40.8055253
+          ],
+          [
+            -4.8685724,
+            40.8060398
+          ]
         ]
       },
       "id": "location-of-roman-villa",
@@ -36,7 +78,7 @@
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman villa",
+        "title": "OSM location of Villa romana de San Pedro del Arroyo",
         "link": "http://pleiades.stoa.org/places/606075817/location-of-roman-villa"
       }
     }

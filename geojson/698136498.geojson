@@ -3,12 +3,12 @@
   "title": "Tumulo del Principe etrusco",
   "id": "698136498",
   "bbox": [
-    10.3912156,
-    43.7339646,
-    10.3912156,
-    43.7339646
+    10.3906855,
+    43.7340108,
+    10.3912086,
+    43.7343876
   ],
-  "description": "A seventh century B.C. Etruscan tumulus located near Pisa.",
+  "description": "A seventh-century B.C. Etruscan tumulus is located near Pisa.",
   "connectsWith": [
     "403253"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3912156,
-          43.7339646
+          10.39094705,
+          43.7341992
         ]
       },
       "properties": {
@@ -31,10 +31,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.3912156,
-          43.7339646
+          [
+            10.3907175,
+            43.7343876
+          ],
+          [
+            10.3906855,
+            43.734034
+          ],
+          [
+            10.3911766,
+            43.7340108
+          ],
+          [
+            10.3912086,
+            43.7343644
+          ],
+          [
+            10.3907175,
+            43.7343876
+          ]
         ]
       },
       "id": "osm-location",

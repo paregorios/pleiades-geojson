@@ -3,10 +3,10 @@
   "title": "Castro de Santo Ovidio",
   "id": "522532105",
   "bbox": [
-    -8.1840805,
+    -8.1843717,
     41.4554429,
-    -8.1840805,
-    41.4554429
+    -8.1836571,
+    41.4561442
   ],
   "description": "A pre-Roman castrum of Lusitania located in the Vizela river valley.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.1840805,
-          41.4554429
+          -8.18401208166,
+          41.4557971413
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -8.1840805,
-          41.4554429
+          [
+            -8.1843717,
+            41.4556086
+          ],
+          [
+            -8.1839294,
+            41.4561442
+          ],
+          [
+            -8.1836571,
+            41.4560128
+          ],
+          [
+            -8.1840805,
+            41.4554429
+          ],
+          [
+            -8.1843717,
+            41.4556086
+          ]
         ]
       },
       "id": "osm-location-of-castro-de-santo-ovidio",

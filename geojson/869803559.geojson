@@ -3,10 +3,10 @@
   "title": "Tomb of Eumachia",
   "id": "869803559",
   "bbox": [
-    14.493555,
-    40.74898,
-    14.493555,
-    40.74898
+    14.4934631,
+    40.7489087,
+    14.4936829,
+    40.7490324
   ],
   "description": "A monumental exedra-type tomb built at the Porta Nocera between ca. A.D 1-30 that served as the tomb for the family of Eumachia.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.493555,
-          40.74898
+          14.493573492,
+          40.7489677595
         ]
       },
       "properties": {

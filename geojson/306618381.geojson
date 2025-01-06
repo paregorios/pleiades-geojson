@@ -3,10 +3,10 @@
   "title": "Temple of Augustus et Livia",
   "id": "306618381",
   "bbox": [
-    4.874449,
-    45.525417,
-    4.874449,
-    45.525417
+    4.8743977,
+    45.5254094,
+    4.8744515,
+    45.5255384
   ],
   "description": "The so-called Temple of Augustus et Livia dates ca. 10 B.C. and was originally dedicated to Roma and Augustus. The temple was located on the ancient forum of the city. By the fifth century the temple had become a Christian church. It was extensively restored in the nineteenth century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.874449,
-          45.525417
+          4.87441322642,
+          45.5254738522
         ]
       },
       "properties": {
@@ -28,10 +28,40 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.874449,
-          45.525417
+          [
+            4.8744515,
+            45.5254094
+          ],
+          [
+            4.8744515,
+            45.5254171
+          ],
+          [
+            4.8744499,
+            45.525417
+          ],
+          [
+            4.8743983,
+            45.5254169
+          ],
+          [
+            4.8743977,
+            45.5255314
+          ],
+          [
+            4.8744492,
+            45.5255316
+          ],
+          [
+            4.8744505,
+            45.5255316
+          ],
+          [
+            4.8744505,
+            45.5255384
+          ]
         ]
       },
       "id": "location-of-temple-of-augustus-et-livia",

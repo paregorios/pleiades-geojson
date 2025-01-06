@@ -3,10 +3,10 @@
   "title": "Gallo-Roman amphitheater at Montbouy",
   "id": "740280236",
   "bbox": [
-    2.8191094,
-    47.8726844,
-    2.8191094,
-    47.8726844
+    2.8184254,
+    47.8724016,
+    2.8191375,
+    47.8732595
   ],
   "description": "The Gallo-Roman amphitheater at Montbouy dates to the early Imperial period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.8191094,
-          47.8726844
+          2.81876602798,
+          47.8728174363
         ]
       },
       "properties": {

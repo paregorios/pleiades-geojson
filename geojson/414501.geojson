@@ -9,6 +9,10 @@
     42.5
   ],
   "description": "An ancient place, cited: BAtlas 42 B4 unnamed bridge (near Aquae Apollinares? on road to Tarquinii at La Mola)",
+  "connectsWith": [
+    "413202",
+    "413022"
+  ],
   "features": [
     {
       "type": "Feature",

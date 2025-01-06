@@ -3,10 +3,10 @@
   "title": "St. Ulrich",
   "id": "822279249",
   "bbox": [
-    7.016562,
-    48.758313,
-    7.016562,
-    48.758313
+    7.016326,
+    48.7576487,
+    7.0179264,
+    48.7587566
   ],
   "description": "An archaeological site first excavated between 1894 and 1897 that has yielded remains of several villas, including a luxury villa of more than 117 rooms, and a sanctuary.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.016562,
-          48.758313
+          7.01717586761,
+          48.7582330749
         ]
       },
       "properties": {
@@ -25,10 +25,40 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          7.016562,
-          48.758313
+          [
+            7.016326,
+            48.7585188
+          ],
+          [
+            7.0166829,
+            48.7581207
+          ],
+          [
+            7.0172791,
+            48.7576487
+          ],
+          [
+            7.0179264,
+            48.7579695
+          ],
+          [
+            7.0178105,
+            48.7584738
+          ],
+          [
+            7.0174209,
+            48.7582898
+          ],
+          [
+            7.0169735,
+            48.7587566
+          ],
+          [
+            7.016326,
+            48.7585188
+          ]
         ]
       },
       "id": "osm-location",

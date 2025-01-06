@@ -3,10 +3,10 @@
   "title": "So-called Roman Gymnasium at Syracuse",
   "id": "649857187",
   "bbox": [
-    15.2804126,
-    37.0673281,
-    15.2804126,
-    37.0673281
+    15.2803717,
+    37.0672297,
+    15.2807244,
+    37.0674929
   ],
   "description": "A monumental complex in the ancient city of Syracuse, probably built around the first century AD. It was initially identified as a gymnasium or a thermal bath; it includes the ruins of a theatre, a quadriporticus, and a temple. ",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2804126,
-          37.0673281
+          15.280545446,
+          37.0673716754
         ]
       },
       "properties": {
@@ -32,10 +32,64 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.2804126,
-          37.0673281
+          [
+            15.280414,
+            37.0673297
+          ],
+          [
+            15.2803717,
+            37.0673757
+          ],
+          [
+            15.2803733,
+            37.0674327
+          ],
+          [
+            15.280418,
+            37.0674772
+          ],
+          [
+            15.2804874,
+            37.0674908
+          ],
+          [
+            15.2805528,
+            37.0674679
+          ],
+          [
+            15.2805735,
+            37.0674929
+          ],
+          [
+            15.2806191,
+            37.0674608
+          ],
+          [
+            15.2805762,
+            37.0674244
+          ],
+          [
+            15.2807244,
+            37.0673286
+          ],
+          [
+            15.2806783,
+            37.0672794
+          ],
+          [
+            15.28065,
+            37.0672937
+          ],
+          [
+            15.280595,
+            37.0672297
+          ],
+          [
+            15.280414,
+            37.0673297
+          ]
         ]
       },
       "id": "osm-location-of-the-so-called-roman-gymnasium-at",

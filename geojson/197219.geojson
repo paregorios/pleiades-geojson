@@ -3,10 +3,10 @@
   "title": "Colentum Ins.",
   "id": "197219",
   "bbox": [
-    15.5644534,
-    43.7641339,
-    15.6678056,
-    43.8351117
+    15.5888575,
+    43.792285,
+    15.6097024,
+    43.8072201
   ],
   "description": "An ancient place, cited: BAtlas 20 C6 Colentum Ins.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.6121073243,
-          43.8034782249
+          15.5982680987,
+          43.7983642444
         ]
       },
       "properties": {

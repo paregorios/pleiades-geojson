@@ -3,10 +3,10 @@
   "title": "Tumulus of Avennes",
   "id": "635557876",
   "bbox": [
-    5.128042,
-    50.634817,
-    5.128042,
-    50.634817
+    5.1278168,
+    50.634318,
+    5.1283978,
+    50.6347642
   ],
   "description": "The Tumulus of Avennes is a Gallo-Roman burial mound dated to the Flavian period located in Liège Braives, Belgium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.128042,
-          50.634817
+          5.12812240438,
+          50.6345382726
         ]
       },
       "properties": {
@@ -25,19 +25,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.128042,
-          50.634817
+          [
+            5.1279944,
+            50.6347185
+          ],
+          [
+            5.1278576,
+            50.6345875
+          ],
+          [
+            5.1278168,
+            50.6344733
+          ],
+          [
+            5.12792,
+            50.634382
+          ],
+          [
+            5.1280689,
+            50.634318
+          ],
+          [
+            5.1282585,
+            50.6343485
+          ],
+          [
+            5.1283978,
+            50.6344703
+          ],
+          [
+            5.128381,
+            50.6346347
+          ],
+          [
+            5.1282897,
+            50.634752
+          ],
+          [
+            5.1281937,
+            50.6347642
+          ],
+          [
+            5.1279944,
+            50.6347185
+          ]
         ]
       },
-      "id": "location-of-tumulus-of-avennes",
+      "id": "osm-location-tumulus-davennes",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Tumulus of Avennes",
-        "link": "http://pleiades.stoa.org/places/635557876/location-of-tumulus-of-avennes"
+        "title": "OSM location: Tumulus d'Avennes",
+        "link": "http://pleiades.stoa.org/places/635557876/osm-location-tumulus-davennes"
       }
     }
   ]

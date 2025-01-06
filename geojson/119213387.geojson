@@ -3,10 +3,10 @@
   "title": "Berretta del Prete",
   "id": "119213387",
   "bbox": [
-    12.5829623,
-    41.7970805,
-    12.5829623,
-    41.7970805
+    12.5828611,
+    41.7970747,
+    12.5829965,
+    41.7971749
   ],
   "description": "A circular Roman mausoleum with a distinctive cupola located at the ninth mile of the Via Appia.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5829623,
-          41.7970805
+          12.5829293339,
+          41.7971245939
         ]
       },
       "properties": {

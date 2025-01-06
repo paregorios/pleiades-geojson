@@ -3,10 +3,10 @@
   "title": "Porta Nola",
   "id": "11924823",
   "bbox": [
-    14.4907955,
-    40.7537202,
-    14.4907955,
-    40.7537202
+    14.490727,
+    40.7536771,
+    14.4908104,
+    40.7537391
   ],
   "description": "A city gate located at the eastern terminus of the Strada di Nola. In antiquity, the gate was known as Porta Urbulana.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4907955,
-          40.7537202
+          14.4907687045,
+          40.7537080984
         ]
       },
       "properties": {
@@ -29,10 +29,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.4907955,
-          40.7537202
+          [
+            14.490727,
+            40.7537129
+          ],
+          [
+            14.490779,
+            40.7537391
+          ],
+          [
+            14.4907955,
+            40.7537202
+          ],
+          [
+            14.4908104,
+            40.7537033
+          ],
+          [
+            14.4907585,
+            40.7536771
+          ],
+          [
+            14.490743,
+            40.7536947
+          ],
+          [
+            14.490727,
+            40.7537129
+          ]
         ]
       },
       "id": "porta-nola",

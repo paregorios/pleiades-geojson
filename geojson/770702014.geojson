@@ -4,9 +4,9 @@
   "id": "770702014",
   "bbox": [
     12.4340781,
-    41.8877325,
-    12.4340781,
-    41.8877325
+    41.8876419,
+    12.4343317,
+    41.8877966
   ],
   "description": "The Casale di Giovio was originally a Roman funereal monument that was re-worked in seventeenth century to assume its current form.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4340781,
-          41.8877325
+          12.4342049,
+          41.88771925
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4340781,
-          41.8877325
+          [
+            12.4340781,
+            41.8877325
+          ],
+          [
+            12.43413,
+            41.8877966
+          ],
+          [
+            12.4343317,
+            41.887706
+          ],
+          [
+            12.4342798,
+            41.8876419
+          ],
+          [
+            12.4340781,
+            41.8877325
+          ]
         ]
       },
       "id": "location-of-casale-di-giovio",

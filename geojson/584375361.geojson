@@ -3,10 +3,10 @@
   "title": "Sceilg Mhichíl",
   "id": "584375361",
   "bbox": [
-    -10.538998,
-    51.7721129,
-    -10.538998,
-    51.7721129
+    -10.5393982,
+    51.7715213,
+    -10.5383895,
+    51.772281
   ],
   "description": "A monastic complex on Skellig Michael established in the seventh century A.D. and enrolled as a UNESCO World Heritage Site in 1996.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.538998,
-          51.7721129
+          -10.5389035363,
+          51.7719014778
         ]
       },
       "properties": {

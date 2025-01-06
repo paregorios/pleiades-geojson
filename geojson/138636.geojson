@@ -3,10 +3,10 @@
   "title": "Uxellodunum",
   "id": "138636",
   "bbox": [
-    -0.5237408,
+    -0.6144984,
     44.3915177469,
-    2.0704191,
-    45.0169568
+    2.8187811,
+    45.6201941
   ],
   "description": "Uxellodunum was an oppidum on the Dordogne river in the territory of the Cardurci tribe, mentioned by Caesar. Although Uxellodunum has been widely identified since the 19th century with the Gallic site at modern Puy d'Issolu (French commune of Vayrac, near the village of Saint-Denis-lès-Martel) -- and a commision of the French culture ministry officially confirmed this identification in 2001 -- a number of other sites are possible matches (see further sub \"Details\").",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.16838766601,
-          44.7386538465
+          1.58896495944,
+          44.7697888675
         ]
       },
       "properties": {

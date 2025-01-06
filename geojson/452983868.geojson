@@ -3,10 +3,10 @@
   "title": "Ponte de Rubiaes",
   "id": "452983868",
   "bbox": [
-    -8.6264128,
-    41.9041425,
-    -8.6264128,
-    41.9041425
+    -8.6267259,
+    41.9041585,
+    -8.6264054,
+    41.9043493
   ],
   "description": "A Roman bridge located by the Rio Coura.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6264128,
-          41.9041425
+          -8.62656824859,
+          41.9042489085
         ]
       },
       "properties": {
@@ -25,10 +25,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -8.6264128,
-          41.9041425
+          [
+            -8.6264054,
+            41.9041585
+          ],
+          [
+            -8.6264744,
+            41.9041865
+          ],
+          [
+            -8.6267259,
+            41.9043493
+          ]
         ]
       },
       "id": "osm-location",

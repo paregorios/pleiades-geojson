@@ -3,10 +3,10 @@
   "title": "Twee Tommen",
   "id": "318349403",
   "bbox": [
-    5.1657656,
-    50.7158591,
-    5.1657656,
-    50.7158591
+    5.1656304,
+    50.7158866,
+    5.1658673,
+    50.7160902
   ],
   "description": "A twin Gallo-Roman burial mound located to the east of Monte Aachen, Belgium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.1657656,
-          50.7158591
+          5.16574158276,
+          50.7159860677
         ]
       },
       "properties": {
@@ -25,10 +25,80 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.1657656,
-          50.7158591
+          [
+            5.1658608,
+            50.7160108
+          ],
+          [
+            5.1658673,
+            50.7160115
+          ],
+          [
+            5.1658638,
+            50.7159718
+          ],
+          [
+            5.1658217,
+            50.7159295
+          ],
+          [
+            5.1657794,
+            50.7159257
+          ],
+          [
+            5.1656841,
+            50.7158866
+          ],
+          [
+            5.1656734,
+            50.7158886
+          ],
+          [
+            5.1656332,
+            50.7159065
+          ],
+          [
+            5.1656381,
+            50.715945
+          ],
+          [
+            5.1656313,
+            50.7159571
+          ],
+          [
+            5.1656304,
+            50.7159687
+          ],
+          [
+            5.1656367,
+            50.7159844
+          ],
+          [
+            5.1656425,
+            50.7160213
+          ],
+          [
+            5.1657205,
+            50.7160798
+          ],
+          [
+            5.1657474,
+            50.7160872
+          ],
+          [
+            5.1657881,
+            50.7160902
+          ],
+          [
+            5.1658128,
+            50.7160591
+          ],
+          [
+            5.1658608,
+            50.7160108
+          ]
         ]
       },
       "id": "location-of-twee-tommen",
@@ -36,7 +106,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Twee Tommen",
+        "title": "OSM location of Twee Tommen",
         "link": "http://pleiades.stoa.org/places/318349403/location-of-twee-tommen"
       }
     }

@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "582108",
   "bbox": [
-    23.75,
-    37.5,
-    24.0,
-    37.75
+    23.9361287,
+    37.6437048,
+    23.965343,
+    37.6576462
   ],
   "description": "An ancient place, cited: BAtlas 59 C4 unnamed fort (on Patroklou Charax)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.875,
-          37.625
+          23.9504404904,
+          37.6503033898
         ]
       },
       "properties": {

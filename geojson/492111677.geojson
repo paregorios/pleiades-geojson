@@ -3,10 +3,10 @@
   "title": "Cherré",
   "id": "492111677",
   "bbox": [
-    0.2340337,
-    47.6621772,
-    0.2360132,
-    47.6636838
+    0.2337279,
+    47.6588604,
+    0.2375334,
+    47.6642192
   ],
   "description": "An archaeological site near Aubigné-Racan in western France.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.23502345,
-          47.6629305
+          0.235568426214,
+          47.6620169461
         ]
       },
       "properties": {
@@ -25,10 +25,100 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          0.2340337,
-          47.6621772
+          [
+            0.2340337,
+            47.6621772
+          ],
+          [
+            0.2340448,
+            47.6626625
+          ],
+          [
+            0.2340659,
+            47.6628203
+          ],
+          [
+            0.2337333,
+            47.662842
+          ],
+          [
+            0.2337279,
+            47.6639135
+          ],
+          [
+            0.235761,
+            47.6637958
+          ],
+          [
+            0.2358039,
+            47.6640559
+          ],
+          [
+            0.2360156,
+            47.6642192
+          ],
+          [
+            0.2374379,
+            47.6638756
+          ],
+          [
+            0.2374347,
+            47.6637885
+          ],
+          [
+            0.2375334,
+            47.6625681
+          ],
+          [
+            0.2368876,
+            47.6626107
+          ],
+          [
+            0.2368998,
+            47.6624639
+          ],
+          [
+            0.2355197,
+            47.6625565
+          ],
+          [
+            0.2356806,
+            47.6608801
+          ],
+          [
+            0.2358576,
+            47.6608223
+          ],
+          [
+            0.2360614,
+            47.6607248
+          ],
+          [
+            0.2364155,
+            47.6599299
+          ],
+          [
+            0.2360481,
+            47.6588794
+          ],
+          [
+            0.2354713,
+            47.6588604
+          ],
+          [
+            0.2346989,
+            47.6606019
+          ],
+          [
+            0.234495,
+            47.6619604
+          ],
+          [
+            0.2340337,
+            47.6621772
+          ]
         ]
       },
       "id": "location-of-cherre-archaeological-site",
@@ -36,25 +126,8 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Cherré (archaeological site)",
+        "title": "OSM location of Cherré (archaeological site)",
         "link": "http://pleiades.stoa.org/places/492111677/location-of-cherre-archaeological-site"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.2360132,
-          47.6636838
-        ]
-      },
-      "id": "location-of-gallo-roman-theater",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "location of Gallo-Roman theater",
-        "link": "http://pleiades.stoa.org/places/492111677/location-of-gallo-roman-theater"
       }
     }
   ]

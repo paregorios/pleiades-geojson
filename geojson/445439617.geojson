@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sma' Glen Signal Station",
+  "id": "445439617",
+  "bbox": [
+    -3.7712438,
+    56.435986,
+    -3.7708819,
+    56.4361871
+  ],
+  "description": "A Roman signal station of the \"Gask Ridge\" typology that served as a lookout post for the Roman fort at Fendoch.",
+  "connectsWith": [
+    "89184"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7710637104,
+          56.4360866346
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7708889,
+            56.4360586
+          ],
+          [
+            -3.7708819,
+            56.4360903
+          ],
+          [
+            -3.7708931,
+            56.4361216
+          ],
+          [
+            -3.7709214,
+            56.4361493
+          ],
+          [
+            -3.770964,
+            56.4361708
+          ],
+          [
+            -3.7710167,
+            56.4361839
+          ],
+          [
+            -3.7710741,
+            56.4361871
+          ],
+          [
+            -3.7711304,
+            56.4361803
+          ],
+          [
+            -3.7711842,
+            56.4361621
+          ],
+          [
+            -3.7712236,
+            56.4361349
+          ],
+          [
+            -3.7712438,
+            56.4361019
+          ],
+          [
+            -3.7712424,
+            56.4360671
+          ],
+          [
+            -3.7712197,
+            56.4360346
+          ],
+          [
+            -3.7711783,
+            56.4360083
+          ],
+          [
+            -3.7711231,
+            56.4359915
+          ],
+          [
+            -3.7710609,
+            56.435986
+          ],
+          [
+            -3.7710041,
+            56.4359915
+          ],
+          [
+            -3.7709533,
+            56.4360066
+          ],
+          [
+            -3.7709136,
+            56.4360298
+          ],
+          [
+            -3.7708889,
+            56.4360586
+          ]
+        ]
+      },
+      "id": "osm-location-of-sma-glen-signal-station",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sma' Glen Signal Station",
+        "link": "http://pleiades.stoa.org/places/445439617/osm-location-of-sma-glen-signal-station"
+      }
+    }
+  ]
+}

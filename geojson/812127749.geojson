@@ -3,10 +3,10 @@
   "title": "Aqueduct of the Gier",
   "id": "812127749",
   "bbox": [
-    4.7600989,
-    45.7212054,
-    4.7600989,
-    45.7212054
+    4.7599247,
+    45.7209134,
+    4.7608936,
+    45.7227071
   ],
   "description": "A Roman aqueduct of the first century AD supplying Lugdunum.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7600989,
-          45.7212054
+          4.76040849071,
+          45.7218110953
         ]
       },
       "properties": {
@@ -31,10 +31,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.7600989,
-          45.7212054
+          [
+            4.7599247,
+            45.7209224
+          ],
+          [
+            4.7599434,
+            45.7209134
+          ],
+          [
+            4.7600989,
+            45.7212054
+          ],
+          [
+            4.7608936,
+            45.7226974
+          ],
+          [
+            4.7608701,
+            45.7227071
+          ],
+          [
+            4.7599247,
+            45.7209224
+          ]
         ]
       },
       "id": "location-of-roman-aqueduct",

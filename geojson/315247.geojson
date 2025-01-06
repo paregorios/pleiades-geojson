@@ -9,6 +9,9 @@
     36.607458
   ],
   "description": "Uthina was a town in the province of Africa Proconsularis with Roman colonial status.",
+  "connectsWith": [
+    "319385"
+  ],
   "names": [
     "Uthina"
   ],

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Robin Hood's Butts",
+  "id": "112379514",
+  "bbox": [
+    -3.0853151,
+    50.9066032,
+    -3.0853151,
+    50.9066032
+  ],
+  "description": "A group of nine Bronze Age barrows in Somerset, England.",
+  "names": [
+    "Robin Hood's Butts"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0853151,
+          50.9066032
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0853151,
+          50.9066032
+        ]
+      },
+      "id": "osm-location-of-robin-hoods-butts",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Robin Hood's Butts",
+        "link": "http://pleiades.stoa.org/places/112379514/osm-location-of-robin-hoods-butts"
+      }
+    }
+  ]
+}

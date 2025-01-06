@@ -3,10 +3,10 @@
   "title": "Church in Sidi Khiribech",
   "id": "789856351",
   "bbox": [
-    20.0646244,
-    32.1244974,
-    20.0646244,
-    32.1244974
+    20.0641162,
+    32.1243185,
+    20.0646455,
+    32.124513
   ],
   "description": "Ruins of a church likely built around the fifth century AD, on the summit of the low hill of Sidi Khiribech in Berenike. The character of the building and its position has suggested to some archaeologists a defensive as well as a religious purpose.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0646244,
-          32.1244974
+          20.0643807886,
+          32.1244157929
         ]
       },
       "properties": {
@@ -33,10 +33,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.0646244,
-          32.1244974
+          [
+            20.064643,
+            32.124513
+          ],
+          [
+            20.0646455,
+            32.1243234
+          ],
+          [
+            20.0641186,
+            32.1243185
+          ],
+          [
+            20.0641162,
+            32.1245083
+          ],
+          [
+            20.064643,
+            32.124513
+          ]
         ]
       },
       "id": "early-christian-church-in-sidi-khiribech",

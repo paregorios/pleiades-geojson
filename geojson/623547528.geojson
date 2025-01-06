@@ -3,10 +3,10 @@
   "title": "Sant Amanç de Viladés",
   "id": "623547528",
   "bbox": [
-    1.680925,
+    1.6805923,
     41.734012,
-    1.680925,
-    41.734012
+    1.6819403,
+    41.7346833
   ],
   "description": "The archaeological site of Sant Amanç de Viladés includes multi-period remains, stretching from indigenous Iberian remains to those of a Roman villa to Medieval occupation.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.680925,
-          41.734012
+          1.68127620726,
+          41.7342290981
         ]
       },
       "properties": {
@@ -25,10 +25,60 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          1.680925,
-          41.734012
+          [
+            1.6806523,
+            41.734419
+          ],
+          [
+            1.6805923,
+            41.7343367
+          ],
+          [
+            1.6806368,
+            41.7342372
+          ],
+          [
+            1.680749,
+            41.734051
+          ],
+          [
+            1.680925,
+            41.734012
+          ],
+          [
+            1.6811744,
+            41.7340597
+          ],
+          [
+            1.681391,
+            41.7341448
+          ],
+          [
+            1.6816366,
+            41.7342256
+          ],
+          [
+            1.6817353,
+            41.7343064
+          ],
+          [
+            1.6818919,
+            41.7344291
+          ],
+          [
+            1.6819403,
+            41.7345012
+          ],
+          [
+            1.6819287,
+            41.7346412
+          ],
+          [
+            1.6819014,
+            41.7346833
+          ]
         ]
       },
       "id": "location-of-roman-villa",

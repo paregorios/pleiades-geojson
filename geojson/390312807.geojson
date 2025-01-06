@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gabia La Grande",
+  "id": "390312807",
+  "bbox": [
+    -3.6694292,
+    37.1365244,
+    -3.6694292,
+    37.1365244
+  ],
+  "description": "Gabia La Grande (Granada, Spain) is the findspot of a subterranean nymphaeum approached by a dromos that may have dated to the fourth century CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6694292,
+          37.1365244
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6694292,
+          37.1365244
+        ]
+      },
+      "id": "osm-location-of-gabia-grande",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Gabia Grande",
+        "link": "http://pleiades.stoa.org/places/390312807/osm-location-of-gabia-grande"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Kalavasos Ayios Dhimitrios",
   "id": "754796063",
   "bbox": [
-    33.3023499,
-    34.7507902,
-    33.3023499,
-    34.7507902
+    33.3025135,
+    34.7503031,
+    33.3037071,
+    34.7510569
   ],
   "description": "A Bronze Age site with monumental architecture in ancient Cyprus.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.3023499,
-          34.7507902
+          33.3030709953,
+          34.7506924465
         ]
       },
       "properties": {
@@ -31,10 +31,36 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.3023499,
-          34.7507902
+          [
+            33.3025135,
+            34.7508629
+          ],
+          [
+            33.3030688,
+            34.7510569
+          ],
+          [
+            33.3037071,
+            34.7506425
+          ],
+          [
+            33.3028568,
+            34.7503031
+          ],
+          [
+            33.3027409,
+            34.7505652
+          ],
+          [
+            33.3025977,
+            34.750627
+          ],
+          [
+            33.3025135,
+            34.7508629
+          ]
         ]
       },
       "id": "location-of-kalavasos-ayios-dhimitrios",

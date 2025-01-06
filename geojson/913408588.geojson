@@ -3,12 +3,12 @@
   "title": "Simitthu Roman theater",
   "id": "913408588",
   "bbox": [
+    8.5715778,
+    36.4913229,
     8.5721303,
-    36.4915774,
-    8.5721303,
-    36.4915774
+    36.4916809
   ],
-  "description": "The Roman theater at, an ancient Roman-Berber town in northwestern Tunisia.",
+  "description": "The Roman theater at Simitthu, an ancient Roman-Berber town in northwestern Tunisia.",
   "connectsWith": [
     "315174"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5721303,
-          36.4915774
+          8.57182133364,
+          36.4915299147
         ]
       },
       "properties": {
@@ -28,10 +28,44 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.5721303,
-          36.4915774
+          [
+            8.5721303,
+            36.4915774
+          ],
+          [
+            8.5716207,
+            36.4913229
+          ],
+          [
+            8.5715831,
+            36.4913919
+          ],
+          [
+            8.5715778,
+            36.4914825
+          ],
+          [
+            8.5716314,
+            36.4915946
+          ],
+          [
+            8.5717602,
+            36.4916723
+          ],
+          [
+            8.5719211,
+            36.4916809
+          ],
+          [
+            8.5720498,
+            36.4916507
+          ],
+          [
+            8.5721303,
+            36.4915774
+          ]
         ]
       },
       "id": "location-of-roman-theater",

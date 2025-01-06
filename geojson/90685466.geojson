@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "title": "Priddy Circles",
+  "id": "90685466",
+  "bbox": [
+    -2.6617908,
+    51.2716845,
+    -2.6594023,
+    51.2731643
+  ],
+  "description": "Priddy Circles describes a linear arrangement of circular earthwork enclosures near the village of Priddy, Mendip Hills, Somerset, England.",
+  "names": [
+    "Priddy Circles"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6605976685,
+          51.2724246361
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.661308,
+            51.2718224
+          ],
+          [
+            -2.6616268,
+            51.2720425
+          ],
+          [
+            -2.6617741,
+            51.2722859
+          ],
+          [
+            -2.6617908,
+            51.2724881
+          ],
+          [
+            -2.6616847,
+            51.2727397
+          ],
+          [
+            -2.6614596,
+            51.2729455
+          ],
+          [
+            -2.6610128,
+            51.2731282
+          ],
+          [
+            -2.6603978,
+            51.2731643
+          ],
+          [
+            -2.6599297,
+            51.2730475
+          ],
+          [
+            -2.6596299,
+            51.2728671
+          ],
+          [
+            -2.6594881,
+            51.2727079
+          ],
+          [
+            -2.6594023,
+            51.2723764
+          ],
+          [
+            -2.6595012,
+            51.2721237
+          ],
+          [
+            -2.6597045,
+            51.2719261
+          ],
+          [
+            -2.6600313,
+            51.2717652
+          ],
+          [
+            -2.6602574,
+            51.271707
+          ],
+          [
+            -2.6607747,
+            51.2716845
+          ],
+          [
+            -2.661308,
+            51.2718224
+          ]
+        ]
+      },
+      "id": "osm-location-of-priddy-circles",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Priddy Circles",
+        "link": "http://pleiades.stoa.org/places/90685466/osm-location-of-priddy-circles"
+      }
+    }
+  ]
+}

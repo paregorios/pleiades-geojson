@@ -3,10 +3,10 @@
   "title": "Porta Collina",
   "id": "987367012",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.48333,
+    41.9,
+    12.48333,
+    41.9
   ],
   "description": "A gate in Rome's Servian Wall located on the Quirinal Hill.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.48333,
+          41.9
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Ward Law",
   "id": "719249422",
   "bbox": [
-    -3.5246567,
-    54.9867559,
-    -3.5246567,
-    54.9867559
+    -3.528654,
+    54.9857488,
+    -3.5246863,
+    54.987907
   ],
   "description": "Ward Law, site of a temporary marching camp and hillfort on the river Nith, was identified via cropmarks.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5246567,
-          54.9867559
+          -3.52667015734,
+          54.9868278982
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.5246567,
-          54.9867559
+          [
+            -3.5260236,
+            54.987907
+          ],
+          [
+            -3.528654,
+            54.9869083
+          ],
+          [
+            -3.5273168,
+            54.9857488
+          ],
+          [
+            -3.5246863,
+            54.9867475
+          ],
+          [
+            -3.5260236,
+            54.987907
+          ]
         ]
       },
       "id": "osm-location",

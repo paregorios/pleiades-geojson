@@ -3,10 +3,10 @@
   "title": "Quinta da Bolacha",
   "id": "360881593",
   "bbox": [
-    -9.2274928,
-    38.7632686,
-    -9.2274928,
-    38.7632686
+    -9.2275206,
+    38.7631512,
+    -9.2272552,
+    38.7633174
   ],
   "description": "A Roman villa located near several productive sites.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.2274928,
-          38.7632686
+          -9.22738790409,
+          38.7632342705
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -9.2274928,
-          38.7632686
+          [
+            -9.2275206,
+            38.763282
+          ],
+          [
+            -9.2274879,
+            38.7631512
+          ],
+          [
+            -9.2272552,
+            38.7631865
+          ],
+          [
+            -9.227288,
+            38.7633174
+          ],
+          [
+            -9.2275206,
+            38.763282
+          ]
         ]
       },
       "id": "osm-location",
@@ -36,7 +54,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
+        "title": "OSM location of Villa Romana da Quinta da Bolacha",
         "link": "http://pleiades.stoa.org/places/360881593/osm-location"
       }
     }

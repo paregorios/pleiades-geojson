@@ -3,10 +3,10 @@
   "title": "Bremenium",
   "id": "89124",
   "bbox": [
-    -2.266126,
-    55.280652,
-    -2.263489,
-    55.282271
+    -2.2662574,
+    55.2806079,
+    -2.2634062,
+    55.2823387
   ],
   "description": "A Roman fort at present-day High Rochester.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2647955981,
-          55.2814646237
+          -2.26480103496,
+          55.2814720138
         ]
       },
       "properties": {
@@ -33,19 +33,89 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.264782,
-          55.281463
+          [
+            -2.2636208,
+            55.2817826
+          ],
+          [
+            -2.2638327,
+            55.2821584
+          ],
+          [
+            -2.2640097,
+            55.2822684
+          ],
+          [
+            -2.264227,
+            55.2823295
+          ],
+          [
+            -2.2645515,
+            55.2823387
+          ],
+          [
+            -2.2660214,
+            55.2820622
+          ],
+          [
+            -2.2661582,
+            55.2820133
+          ],
+          [
+            -2.2662574,
+            55.2819002
+          ],
+          [
+            -2.2662333,
+            55.2817261
+          ],
+          [
+            -2.2658443,
+            55.2810325
+          ],
+          [
+            -2.2656915,
+            55.2807851
+          ],
+          [
+            -2.2655574,
+            55.2806659
+          ],
+          [
+            -2.2654447,
+            55.2806247
+          ],
+          [
+            -2.2651926,
+            55.2806079
+          ],
+          [
+            -2.2636315,
+            55.280892
+          ],
+          [
+            -2.2634062,
+            55.2809944
+          ],
+          [
+            -2.2634518,
+            55.2812036
+          ],
+          [
+            -2.2636208,
+            55.2817826
+          ]
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "osm-location-of-bremenium",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89124/centerpoint-of-the-ancient-site"
+        "title": "OSM location of Bremenium",
+        "link": "http://pleiades.stoa.org/places/89124/osm-location-of-bremenium"
       }
     },
     {
@@ -76,13 +146,30 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89124/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89124/imagery-location-boundary-of-fort-walls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.264782,
+          55.281463
+        ]
+      },
+      "id": "imagery-location-centerpoint-of-the-ancient-site",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89124/imagery-location-centerpoint-of-the-ancient-site"
       }
     }
   ]

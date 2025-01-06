@@ -3,10 +3,10 @@
   "title": "Torre dei Conti",
   "id": "728475463",
   "bbox": [
-    12.4879699,
-    41.8934315,
-    12.4879699,
-    41.8934315
+    12.4877744,
+    41.893609,
+    12.4879193,
+    41.8937024
   ],
   "description": "A fortified Medieval tower located in Rome, dating to AD 1238, and built by Richard Conti, brother of Pope Innocent III.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4879699,
-          41.8934315
+          12.4878468601,
+          41.8936556843
         ]
       },
       "properties": {
@@ -28,10 +28,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4879699,
-          41.8934315
+          [
+            12.4877744,
+            41.893609
+          ],
+          [
+            12.4879037,
+            41.8936923
+          ],
+          [
+            12.4879193,
+            41.8937024
+          ]
         ]
       },
       "id": "osm-location",

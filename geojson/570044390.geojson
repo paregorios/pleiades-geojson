@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Zakisovaia Balka",
   "id": "570044390",
+  "bbox": [
+    31.9001502,
+    46.6870505,
+    31.9102407,
+    46.6964665
+  ],
   "description": "An unfortified Hellenized settlement located along the Bug river.",
   "connectsWith": [
     "226546"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9061334017,
+          46.6922461376
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

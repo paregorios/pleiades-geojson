@@ -4,9 +4,9 @@
   "id": "410517750",
   "bbox": [
     14.4923178,
-    40.7496781,
-    14.4923178,
-    40.7496781
+    40.749244,
+    14.49284,
+    40.7498166
   ],
   "description": "The so-called \"Garden of the Fugitives\" (I, 21,1) is an area of the city that was once given over to habitation but that in the final phase of the city was a vineyard with a summer triclinium. Excavation campaigns of the 1960s and 1970s discovered 13 human victims of the AD 79 eruption that destroyed the city.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4923178,
-          40.7496781
+          14.4926134426,
+          40.7495394748
         ]
       },
       "properties": {
@@ -34,10 +34,48 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.4923178,
-          40.7496781
+          [
+            14.4927376,
+            40.7495628
+          ],
+          [
+            14.49284,
+            40.7494366
+          ],
+          [
+            14.4928159,
+            40.7494092
+          ],
+          [
+            14.4928094,
+            40.7493694
+          ],
+          [
+            14.492837,
+            40.7493314
+          ],
+          [
+            14.4926691,
+            40.749244
+          ],
+          [
+            14.4923178,
+            40.7496781
+          ],
+          [
+            14.4926097,
+            40.7498166
+          ],
+          [
+            14.4927923,
+            40.7495902
+          ],
+          [
+            14.4927376,
+            40.7495628
+          ]
         ]
       },
       "id": "orto-dei-fuggiaschi",

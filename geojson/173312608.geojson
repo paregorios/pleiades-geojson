@@ -3,10 +3,10 @@
   "title": "Puig de Sa Morisca",
   "id": "173312608",
   "bbox": [
-    2.4806691,
-    39.5074557,
-    2.4806691,
-    39.5074557
+    2.4804596,
+    39.5073197,
+    2.4807341,
+    39.5075784
   ],
   "description": "A first millennium B.C., pre-Roman settlement of Majorca.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4806691,
-          39.5074557
+          2.48058665096,
+          39.5074636673
         ]
       },
       "properties": {

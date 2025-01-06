@@ -3,10 +3,10 @@
   "title": "Roman bridge at Ascain",
   "id": "855536858",
   "bbox": [
-    -1.6219524,
-    43.3500883,
-    -1.6219524,
-    43.3500883
+    -1.6219548,
+    43.3500758,
+    -1.6218859,
+    43.3503912
   ],
   "description": "A fifth-century Roman bridge over the river Nivelle at Ascain in France.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.6219524,
-          43.3500883
+          -1.62191432338,
+          43.350232203
         ]
       },
       "properties": {
@@ -25,10 +25,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.6219524,
-          43.3500883
+          [
+            -1.6218859,
+            43.3503912
+          ],
+          [
+            -1.6219069,
+            43.3502373
+          ],
+          [
+            -1.6219548,
+            43.3500758
+          ]
         ]
       },
       "id": "osm-location",

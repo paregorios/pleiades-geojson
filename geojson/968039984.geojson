@@ -3,10 +3,10 @@
   "title": "Grimde",
   "id": "968039984",
   "bbox": [
-    4.9583639,
-    50.7995153,
-    4.9583639,
-    50.7995153
+    4.95813,
+    50.7995316,
+    4.9586338,
+    50.7998257
   ],
   "description": "Grimde is the site of three Gallo-Roman tumuli.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.9583639,
-          50.7995153
+          4.9583767067,
+          50.7996766359
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Steinerner Steg - Ponte Romano",
   "id": "524074853",
   "bbox": [
-    11.1690766,
-    46.6716426,
-    11.1690766,
-    46.6716426
+    11.1690165,
+    46.6715476,
+    11.16952,
+    46.6716446
   ],
   "description": "A two-arched, stone-built footbridge across the Passer in Merano, South Tyrol.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.1690766,
-          46.6716426
+          11.16926825,
+          46.6715961
         ]
       },
       "properties": {
@@ -28,10 +28,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.1690766,
-          46.6716426
+          [
+            11.16952,
+            46.6715476
+          ],
+          [
+            11.1690165,
+            46.6716446
+          ]
         ]
       },
       "id": "location-of-river-bridge",

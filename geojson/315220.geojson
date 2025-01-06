@@ -9,6 +9,9 @@
     36.4046794
   ],
   "description": "An ancient settlement with extensive archaeological remains, located north across the river Kebir from the modern city of El Fahs in Tunisia.",
+  "connectsWith": [
+    "319385"
+  ],
   "names": [
     "Thuburbo Maius",
     "Henchir Kasbat",

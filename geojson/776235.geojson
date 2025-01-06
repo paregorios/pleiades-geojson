@@ -8,7 +8,7 @@
     28.8757968551,
     25.6727469589
   ],
-  "description": "An ancient settlement of at least Roman and Late Antique date, situated in the Dakleh Oasis at a site now called Amheida.",
+  "description": "An ancient settlement of at least Roman and Late Antique date, situated in the Dahkleh Oasis at a site now called Amheida.",
   "connectsWith": [
     "776172"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.8706203539,
-          25.6676117977
+          28.8708832519,
+          25.6677395488
         ]
       },
       "properties": {
@@ -65,6 +65,41 @@
         "location_precision": "precise",
         "title": "Imagery Location: Extent of Site Survey",
         "link": "http://pleiades.stoa.org/places/776235/imagery-location-extent-of-site-survey"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.871525,
+            25.6675557
+          ],
+          [
+            28.8715684,
+            25.6681297
+          ],
+          [
+            28.8707673,
+            25.6681789
+          ],
+          [
+            28.8707239,
+            25.6676049
+          ],
+          [
+            28.871525,
+            25.6675557
+          ]
+        ]
+      },
+      "id": "osm-location-of-ama-y-eida",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Amḥeida",
+        "link": "http://pleiades.stoa.org/places/776235/osm-location-of-ama-y-eida"
       }
     }
   ]

@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "title": "Birdhope Camps",
+  "id": "994246851",
+  "bbox": [
+    -2.2750252,
+    55.282443,
+    -2.2715522,
+    55.2845296
+  ],
+  "description": "The remains of three Roman temporary camps.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2732977104,
+          55.2834780281
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2715522,
+            55.2839553
+          ],
+          [
+            -2.2738911,
+            55.2845296
+          ],
+          [
+            -2.2741272,
+            55.2844074
+          ],
+          [
+            -2.2750252,
+            55.2831274
+          ],
+          [
+            -2.2749426,
+            55.282941
+          ],
+          [
+            -2.2728365,
+            55.282443
+          ],
+          [
+            -2.2724932,
+            55.2825285
+          ],
+          [
+            -2.2715952,
+            55.2838453
+          ],
+          [
+            -2.2715522,
+            55.2839553
+          ]
+        ]
+      },
+      "id": "osm-location-of-birdhope-camps",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Birdhope Camps",
+        "link": "http://pleiades.stoa.org/places/994246851/osm-location-of-birdhope-camps"
+      }
+    }
+  ]
+}

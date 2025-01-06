@@ -3,20 +3,20 @@
   "title": "Aquis Querquennis",
   "id": "933005071",
   "bbox": [
-    -7.9804677,
-    41.9743009,
-    -7.9804677,
-    41.9743009
+    -7.9819001,
+    41.9731623,
+    -7.9796971,
+    41.9748534
   ],
-  "description": "A first century A.D. Roman encampment along the Via Nova.",
+  "description": "A first-century A.D. Roman encampment along the Via Nova.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.9804677,
-          41.9743009
+          -7.98084352752,
+          41.9739782648
         ]
       },
       "properties": {

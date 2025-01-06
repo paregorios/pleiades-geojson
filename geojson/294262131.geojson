@@ -5,18 +5,21 @@
   "bbox": [
     11.9832091,
     42.1489975,
-    11.9848048,
-    42.1510764
+    11.9849925,
+    42.1511804
   ],
   "description": "An Etruscan necropolis located 5 km from Tolfa with tombs stretching from the Orientalizing period to the later Hellenistic.",
+  "connectsWith": [
+    "971724591"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9842226,
-          42.1499311333
+          11.9842353798,
+          42.1499671501
         ]
       },
       "properties": {
@@ -25,10 +28,20 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.9832091,
-          42.1510764
+          [
+            11.9832091,
+            42.1510764
+          ],
+          [
+            11.9834672,
+            42.1511804
+          ],
+          [
+            11.9835494,
+            42.1511112
+          ]
         ]
       },
       "id": "location-of-necropolis-zone-b",
@@ -59,10 +72,24 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.9848048,
-          42.1489975
+          [
+            11.9843622,
+            42.1491732
+          ],
+          [
+            11.984531,
+            42.1490671
+          ],
+          [
+            11.9848048,
+            42.1489975
+          ],
+          [
+            11.9849925,
+            42.1489975
+          ]
         ]
       },
       "id": "location-of-necropolis-zone-a",

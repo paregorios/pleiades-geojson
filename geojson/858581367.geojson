@@ -5,8 +5,8 @@
   "bbox": [
     12.7746998,
     43.9425669,
-    12.7746998,
-    43.9425669
+    12.7747881,
+    43.9427424
   ],
   "description": "A castle in the Marche built first in the eleventh century.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7746998,
-          43.9425669
+          12.7747442188,
+          43.9426547284
         ]
       },
       "properties": {
@@ -25,10 +25,24 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.7746998,
-          43.9425669
+          [
+            12.7747881,
+            43.9427424
+          ],
+          [
+            12.7747257,
+            43.9426632
+          ],
+          [
+            12.7747635,
+            43.9426478
+          ],
+          [
+            12.7746998,
+            43.9425669
+          ]
         ]
       },
       "id": "osm-location",

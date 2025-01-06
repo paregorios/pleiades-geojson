@@ -3,10 +3,10 @@
   "title": "Ponte Corvo",
   "id": "532772123",
   "bbox": [
-    11.8837853,
+    11.8835496,
     45.4016924,
     11.8837853,
-    45.4016924
+    45.4020371
   ],
   "description": "A Roman segmental arch bridge across the Bacchiglione river in Padua, Italy.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8837853,
-          45.4016924
+          11.88366745,
+          45.40186475
         ]
       },
       "properties": {
@@ -29,10 +29,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.8837853,
-          45.4016924
+          [
+            11.8837853,
+            45.4016924
+          ],
+          [
+            11.8835496,
+            45.4020371
+          ]
         ]
       },
       "id": "osm-location",

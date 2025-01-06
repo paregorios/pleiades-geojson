@@ -28,10 +28,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.7718289,
-          40.2728744
+          [
+            8.7718289,
+            40.2728744
+          ],
+          [
+            8.7717377,
+            40.2724937
+          ]
         ]
       },
       "id": "osm-location-of-roman-bridge",

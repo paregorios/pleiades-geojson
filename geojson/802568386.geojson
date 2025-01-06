@@ -3,10 +3,10 @@
   "title": "Roman bath at Lugdunum Convenarum",
   "id": "802568386",
   "bbox": [
-    0.5729984,
-    43.0316488,
-    0.5729984,
-    43.0316488
+    0.5727275,
+    43.0309281,
+    0.5737134,
+    43.0316692
   ],
   "description": "The Roman bath at Lugdunum Convenarum is part of the second urban nucleus found at the foot of the Fourvière hill.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5729984,
-          43.0316488
+          0.573223604067,
+          43.0313045315
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          0.5729984,
-          43.0316488
+          [
+            0.5730091,
+            43.0316692
+          ],
+          [
+            0.5727275,
+            43.0311459
+          ],
+          [
+            0.5734317,
+            43.0309281
+          ],
+          [
+            0.5737134,
+            43.0314825
+          ],
+          [
+            0.5730091,
+            43.0316692
+          ]
         ]
       },
       "id": "osm-location-of-roman-bath",

@@ -509,7 +509,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Semachonitis L.",
+        "title": "OSM location of Agmon HaHula",
         "link": "http://pleiades.stoa.org/places/678385/location-of-Semachonitis-L"
       }
     }

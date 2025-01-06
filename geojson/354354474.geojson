@@ -3,10 +3,10 @@
   "title": "Figsbury Ring",
   "id": "354354474",
   "bbox": [
-    -1.7343537,
-    51.1034292,
-    -1.7338645,
-    51.1040382
+    -1.734637,
+    51.1030735,
+    -1.7299506,
+    51.1048628
   ],
   "description": "Figsbury Ring Hill fort, Wiltshire, England, is a univallate hill fort that covers 15.5 acres.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7341091,
-          51.1037337
+          -1.73200975773,
+          51.1043271896
         ]
       },
       "properties": {
@@ -25,10 +25,44 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.7343537,
-          51.1040382
+          [
+            -1.7301823,
+            51.1030735
+          ],
+          [
+            -1.7299506,
+            51.1034615
+          ],
+          [
+            -1.7300793,
+            51.1038819
+          ],
+          [
+            -1.7307832,
+            51.1045448
+          ],
+          [
+            -1.7318475,
+            51.1048628
+          ],
+          [
+            -1.7327401,
+            51.1047658
+          ],
+          [
+            -1.7337786,
+            51.1043939
+          ],
+          [
+            -1.7343537,
+            51.1040382
+          ],
+          [
+            -1.734637,
+            51.1037364
+          ]
         ]
       },
       "id": "location-of-figsbury-ring-hill-fort",
@@ -38,23 +72,6 @@
         "location_precision": "precise",
         "title": "OSM location of Figsbury Ring hill fort outer ring",
         "link": "http://pleiades.stoa.org/places/354354474/location-of-figsbury-ring-hill-fort"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.7338645,
-          51.1034292
-        ]
-      },
-      "id": "location-of-figsbury-ring-hill-fort-inner-ring",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Figsbury Ring hill fort inner ring",
-        "link": "http://pleiades.stoa.org/places/354354474/location-of-figsbury-ring-hill-fort-inner-ring"
       }
     }
   ]

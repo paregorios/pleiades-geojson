@@ -3,10 +3,10 @@
   "title": "Temple of Augustus",
   "id": "391553443",
   "bbox": [
-    13.8419508,
-    44.8701253,
-    13.8419508,
-    44.8701253
+    13.8417338,
+    44.870086,
+    13.8419457,
+    44.8702827
   ],
   "description": "The Temple of Augustus in Pula is a Roman temple that dates to the time of Augustus. The tetrastyle Corinthian temple sites a high podium.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.8419508,
-          44.8701253
+          13.84183975,
+          44.87018435
         ]
       },
       "properties": {
@@ -28,10 +28,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.8419508,
-          44.8701253
+          [
+            13.8417338,
+            44.870248
+          ],
+          [
+            13.8418377,
+            44.870086
+          ],
+          [
+            13.8419457,
+            44.8701207
+          ],
+          [
+            13.8418418,
+            44.8702827
+          ],
+          [
+            13.8417338,
+            44.870248
+          ]
         ]
       },
       "id": "temple-of-augustus",

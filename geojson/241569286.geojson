@@ -25,10 +25,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.5335553,
-          43.6334152
+          [
+            5.5335589,
+            43.6334043
+          ],
+          [
+            5.5337631,
+            43.6335848
+          ]
         ]
       },
       "id": "location-of-roman-aqueduct",

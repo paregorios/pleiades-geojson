@@ -3,10 +3,10 @@
   "title": "Saint-Romain-en-Gal",
   "id": "747563989",
   "bbox": [
-    4.8713749,
-    45.5293116,
-    4.8713749,
-    45.5293116
+    4.8707459,
+    45.529313,
+    4.8714368,
+    45.5298999
   ],
   "description": "An urban quarter of Roman Vienne, now presented as an archaeological museum.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8713749,
-          45.5293116
+          4.87108692865,
+          45.5296065454
         ]
       },
       "properties": {
@@ -28,10 +28,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.8713749,
-          45.5293116
+          [
+            4.8708139,
+            45.5298999
+          ],
+          [
+            4.8707614,
+            45.5294753
+          ],
+          [
+            4.8707459,
+            45.5293498
+          ],
+          [
+            4.8713528,
+            45.529313
+          ],
+          [
+            4.8714368,
+            45.5298556
+          ],
+          [
+            4.8708139,
+            45.5298999
+          ]
         ]
       },
       "id": "osm-location",

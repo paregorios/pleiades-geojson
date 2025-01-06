@@ -3,10 +3,10 @@
   "title": "Maiden Castle, Cheshire",
   "id": "82240559",
   "bbox": [
-    -2.7515352,
-    53.0708848,
-    -2.7515352,
-    53.0708848
+    -2.7516017,
+    53.070231,
+    -2.7503473,
+    53.0713017
   ],
   "description": "Maiden Castle, Cheshire, is an Iron Age hillfort.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.7515352,
-          53.0708848
+          -2.75096145647,
+          53.0707530265
         ]
       },
       "properties": {
@@ -25,10 +25,72 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.7515352,
-          53.0708848
+          [
+            -2.7515352,
+            53.0708848
+          ],
+          [
+            -2.7515922,
+            53.0706993
+          ],
+          [
+            -2.7516017,
+            53.0705137
+          ],
+          [
+            -2.751559,
+            53.0703167
+          ],
+          [
+            -2.7513024,
+            53.070231
+          ],
+          [
+            -2.7508367,
+            53.070251
+          ],
+          [
+            -2.7505563,
+            53.0703766
+          ],
+          [
+            -2.7503663,
+            53.0705708
+          ],
+          [
+            -2.7503473,
+            53.0709562
+          ],
+          [
+            -2.7503924,
+            53.071206
+          ],
+          [
+            -2.750611,
+            53.0713017
+          ],
+          [
+            -2.7509222,
+            53.071276
+          ],
+          [
+            -2.7511955,
+            53.0712103
+          ],
+          [
+            -2.7513166,
+            53.0711575
+          ],
+          [
+            -2.7514164,
+            53.0710761
+          ],
+          [
+            -2.7515352,
+            53.0708848
+          ]
         ]
       },
       "id": "location-of-maiden-castle-hill-fort",
@@ -36,7 +98,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Maiden Castle hillfort",
+        "title": "OSM location of Maiden Castle hillfort",
         "link": "http://pleiades.stoa.org/places/82240559/location-of-maiden-castle-hill-fort"
       }
     }

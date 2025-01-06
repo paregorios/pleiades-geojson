@@ -3,10 +3,10 @@
   "title": "Torre di Donoratico",
   "id": "530611411",
   "bbox": [
-    10.586207,
-    43.1456301,
-    10.586207,
-    43.1456301
+    10.5861882,
+    43.145506,
+    10.5863885,
+    43.1456341
   ],
   "description": "An Etrusco-Roman fortified hilltop settlement that later served as a fortress of the Della Gherardesca family from the twelfth to the fifteenth centuries.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.586207,
-          43.1456301
+          10.5862880588,
+          43.1455774298
         ]
       },
       "properties": {
@@ -25,10 +25,32 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.586207,
-          43.1456301
+          [
+            10.586207,
+            43.1456301
+          ],
+          [
+            10.5862821,
+            43.1456341
+          ],
+          [
+            10.5863885,
+            43.1455558
+          ],
+          [
+            10.5863196,
+            43.145506
+          ],
+          [
+            10.5861882,
+            43.1456027
+          ],
+          [
+            10.586207,
+            43.1456301
+          ]
         ]
       },
       "id": "location-of-torre-di-donoratico",

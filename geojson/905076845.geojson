@@ -3,10 +3,10 @@
   "title": "Roman walls, Novaria",
   "id": "905076845",
   "bbox": [
-    8.6209641,
-    45.4445336,
-    8.6209641,
-    45.4445336
+    8.620319,
+    45.4445278,
+    8.620964,
+    45.4445767
   ],
   "description": "A segment of the Roman defensive wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6209641,
-          45.4445336
+          8.62062978776,
+          45.4445429368
         ]
       },
       "properties": {

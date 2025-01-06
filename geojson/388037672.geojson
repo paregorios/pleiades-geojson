@@ -3,10 +3,10 @@
   "title": "So-called Area A in Berenike",
   "id": "388037672",
   "bbox": [
-    20.063239,
-    32.12472,
-    20.063239,
-    32.12472
+    20.0632584,
+    32.1244034,
+    20.0634399,
+    32.1247157
   ],
   "description": "Ruins of a Hellenistic courtyard house (possibly connected to the adjacent building, known as Area X) in the archaeological site of Sidi Khiribech in Berenike (modern Benghazi).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.063239,
-          32.12472
+          20.0633540955,
+          32.1245636697
         ]
       },
       "properties": {
@@ -32,10 +32,40 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.063239,
-          32.12472
+          [
+            20.0632584,
+            32.1247127
+          ],
+          [
+            20.0632618,
+            32.1245705
+          ],
+          [
+            20.0632648,
+            32.1244429
+          ],
+          [
+            20.0633831,
+            32.1244449
+          ],
+          [
+            20.0633841,
+            32.1244034
+          ],
+          [
+            20.0634399,
+            32.1244043
+          ],
+          [
+            20.0634325,
+            32.1247157
+          ],
+          [
+            20.0632584,
+            32.1247127
+          ]
         ]
       },
       "id": "area-a-in-sidi-kiribech",

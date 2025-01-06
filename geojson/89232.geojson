@@ -3,10 +3,10 @@
   "title": "Low Borrowbridge",
   "id": "89232",
   "bbox": [
-    -2.6031428,
-    54.4059572,
-    -2.6031428,
-    54.4059572
+    -2.6039797,
+    54.4047832,
+    -2.6021343,
+    54.4059978
   ],
   "description": "At Low Borrowbridge, northeast of Kendal, are remains of a Roman auxiliary fort that was in use from the time of the Flavians until the fifth century A.D.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.6031428,
-          54.4059572
+          -2.60305639144,
+          54.4053765998
         ]
       },
       "properties": {

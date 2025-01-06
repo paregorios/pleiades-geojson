@@ -3,7 +3,7 @@
   "title": "Agunia (river)",
   "id": "383562",
   "bbox": [
-    8.4807005,
+    8.4805483,
     45.066667,
     8.9,
     45.8277536
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.69035025,
-          45.4472103
+          8.6903122,
+          45.447184925
         ]
       },
       "properties": {
@@ -48,10 +48,16 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.4807005,
-          45.8277536
+          [
+            8.4807005,
+            45.8277536
+          ],
+          [
+            8.4805483,
+            45.8276521
+          ]
         ]
       },
       "id": "location-of-course-of-Agunia-fl",

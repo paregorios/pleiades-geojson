@@ -9,6 +9,9 @@
     57.0
   ],
   "description": "An ancient place, cited: BAtlas 9 D4 unnamed aqueduct (Carpow)",
+  "connectsWith": [
+    "89136"
+  ],
   "features": [
     {
       "type": "Feature",
