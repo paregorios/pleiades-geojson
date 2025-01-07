@@ -1,16 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Torretta",
-  "id": "442828",
+  "title": "Temple of Liber Pater at Sabratha",
+  "id": "854121351",
   "bbox": [
-    15.8183151,
-    40.7860856,
-    15.8183151,
-    40.7860856
+    12.4815131,
+    32.8070442,
+    12.4815131,
+    32.8070442
   ],
-  "description": "An ancient place, cited: BAtlas 45 C3 Torretta",
-  "names": [
-    "Torretta di Pietragalla"
+  "description": "A Temple of Liber Pater at Sabratha that dates to the Iulio-Claudian period.",
+  "connectsWith": [
+    "344282"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.8183151,
-          40.7860856
+          12.4815131,
+          32.8070442
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.8183151,
-          40.7860856
+          12.4815131,
+          32.8070442
         ]
       },
-      "id": "osm-location-of-sito-archeologico-di-monte",
+      "id": "osm-location-of-templo-liber-pater",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Sito archeologico di Monte Torretta",
-        "link": "http://pleiades.stoa.org/places/442828/osm-location-of-sito-archeologico-di-monte"
+        "title": "OSM location of Templo Liber Pater",
+        "link": "http://pleiades.stoa.org/places/854121351/osm-location-of-templo-liber-pater"
       }
     }
   ]

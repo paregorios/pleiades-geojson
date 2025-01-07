@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mastaba of Khentika",
+  "id": "497304866",
+  "bbox": [
+    29.2799458,
+    25.5576274,
+    29.2804136,
+    25.5579048
+  ],
+  "description": "The Mastaba of Khentika at Qila ad-Babba near Balat in ad-Dakhla depression, Egypt, dates from the Sixth Dynasty of ancient Egypt. Khentika was a wealthy official and served as the governor of the Dakhla Oasis during the reign of Pharaoh Pepi II, (2284 – ca. 2216 BCE).",
+  "connectsWith": [
+    "301492848"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.280172191,
+          25.5577641005
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.2802747,
+            25.5578555
+          ],
+          [
+            29.2800007,
+            25.5579048
+          ],
+          [
+            29.2799458,
+            25.5576839
+          ],
+          [
+            29.2802169,
+            25.5576274
+          ],
+          [
+            29.2802409,
+            25.5577138
+          ],
+          [
+            29.2804099,
+            25.5577236
+          ],
+          [
+            29.2804136,
+            25.5577906
+          ],
+          [
+            29.2802578,
+            25.5577787
+          ],
+          [
+            29.2802747,
+            25.5578555
+          ]
+        ]
+      },
+      "id": "osm-location-of-mastaba-of-khentika",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mastaba of Khentika",
+        "link": "http://pleiades.stoa.org/places/497304866/osm-location-of-mastaba-of-khentika"
+      }
+    }
+  ]
+}

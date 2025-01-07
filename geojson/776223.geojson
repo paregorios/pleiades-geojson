@@ -3,10 +3,10 @@
   "title": "*Sioua",
   "id": "776223",
   "bbox": [
-    28.813372,
-    25.664694,
-    28.813372,
-    25.664694
+    28.8124505,
+    25.6643924,
+    28.8141349,
+    25.6655674
   ],
   "description": "\"Sioua\" is the Greek reconstruction of an ancient toponym (found in Egyptian sources: S·t-wȝḥ) that encompassed some part of the western end of the Dakhla Oasis in Egypt (certainly the site now known as Deir al-Haggar was included, and possibly also Amheida).",
   "connectsWith": [
@@ -22,12 +22,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.813372,
-          25.664694
+          28.8133148645,
+          25.6648036872
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.8126812,
+            25.6655674
+          ],
+          [
+            28.8124505,
+            25.6643973
+          ],
+          [
+            28.813062,
+            25.6643924
+          ],
+          [
+            28.8140169,
+            25.6644601
+          ],
+          [
+            28.8141349,
+            25.6652096
+          ],
+          [
+            28.8138989,
+            25.6653014
+          ],
+          [
+            28.8137004,
+            25.6653981
+          ],
+          [
+            28.8135341,
+            25.665403
+          ],
+          [
+            28.8126812,
+            25.6655674
+          ]
+        ]
+      },
+      "id": "osm-location-of-deir-el-hagar",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Deir el-Hagar",
+        "link": "http://pleiades.stoa.org/places/776223/osm-location-of-deir-el-hagar"
       }
     },
     {
@@ -38,13 +89,13 @@
           25.664694
         ]
       },
-      "id": "view-of-the-visible-remains-of-the-temple-at-deir-el-hagar",
+      "id": "imagery-location-view-of-the-visible-remains-of-the-temple-at-deir-el-hagar",
       "type": "Feature",
       "properties": {
         "description": "Deir el-Hagar is a sandstone temple on the western edge of Dakhla Oasis.",
         "location_precision": "precise",
-        "title": "visible remains of the temple at Deir el-Hagar",
-        "link": "http://pleiades.stoa.org/places/776223/view-of-the-visible-remains-of-the-temple-at-deir-el-hagar"
+        "title": "Imagery Location: visible remains of the temple at Deir el-Hagar",
+        "link": "http://pleiades.stoa.org/places/776223/imagery-location-view-of-the-visible-remains-of-the-temple-at-deir-el-hagar"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Roman villa at Híjar en Las Gabias",
   "id": "167120129",
   "bbox": [
-    -3.6768336,
-    37.1500887,
-    -3.6768336,
-    37.1500887
+    -3.6774863,
+    37.1499801,
+    -3.6764684,
+    37.1507438
   ],
   "description": "A Roman villa, of which the pars fructuaria has been excavated.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6768336,
-          37.1500887
+          -3.6770038018,
+          37.1503306147
         ]
       },
       "properties": {
@@ -25,19 +25,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.6768336,
-          37.1500887
+          [
+            -3.6771443,
+            37.1507438
+          ],
+          [
+            -3.6768613,
+            37.1505717
+          ],
+          [
+            -3.6767708,
+            37.1506535
+          ],
+          [
+            -3.6766367,
+            37.1505675
+          ],
+          [
+            -3.6766212,
+            37.1505776
+          ],
+          [
+            -3.6765508,
+            37.1505354
+          ],
+          [
+            -3.6764684,
+            37.1504552
+          ],
+          [
+            -3.6768077,
+            37.1499801
+          ],
+          [
+            -3.6772502,
+            37.1501394
+          ],
+          [
+            -3.6773381,
+            37.1499903
+          ],
+          [
+            -3.6774863,
+            37.1500522
+          ],
+          [
+            -3.6774313,
+            37.1502008
+          ],
+          [
+            -3.6772717,
+            37.1505557
+          ],
+          [
+            -3.6771932,
+            37.1506899
+          ],
+          [
+            -3.6771443,
+            37.1507438
+          ]
         ]
       },
-      "id": "osm-location-of-modern-hajar",
+      "id": "osm-location-of-villa-romana-de-hajar-en-las",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of modern Híjar",
-        "link": "http://pleiades.stoa.org/places/167120129/osm-location-of-modern-hajar"
+        "title": "OSM location of Villa romana de Híjar en Las Gabias",
+        "link": "http://pleiades.stoa.org/places/167120129/osm-location-of-villa-romana-de-hajar-en-las"
       }
     }
   ]

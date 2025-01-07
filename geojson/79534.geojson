@@ -3,10 +3,10 @@
   "title": "Ischalis?",
   "id": "79534",
   "bbox": [
-    -2.698015,
-    51.305512,
-    -2.698015,
-    51.305512
+    -2.7160863,
+    51.2990144,
+    -2.712834,
+    51.3022543
   ],
   "description": "Ischalis? is mentioned by Ptolemy, but its precise location remains debated. One possible location is the 'Charterhouse Roman town' site, while another is at Gatcombe, Somerset.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.698015,
-          51.305512
+          -2.71409924906,
+          51.3004208235
         ]
       },
       "properties": {
@@ -31,17 +31,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.698015,
-          51.305512
+          -2.712834,
+          51.2990144
         ]
       },
-      "id": "darmc-location-20345",
+      "id": "osm-location-of-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20345",
-        "link": "http://pleiades.stoa.org/places/79534/darmc-location-20345"
+        "title": "OSM location of Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79534/osm-location-of-roman-fort"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7152749,
+            51.3022543
+          ],
+          [
+            -2.7153235,
+            51.3022467
+          ],
+          [
+            -2.7157326,
+            51.3020483
+          ],
+          [
+            -2.7160724,
+            51.3018619
+          ],
+          [
+            -2.7160863,
+            51.3018424
+          ],
+          [
+            -2.7160863,
+            51.3018185
+          ],
+          [
+            -2.7158783,
+            51.3016321
+          ],
+          [
+            -2.7156563,
+            51.3014738
+          ],
+          [
+            -2.7156113,
+            51.3014543
+          ],
+          [
+            -2.7155662,
+            51.3014435
+          ],
+          [
+            -2.7155176,
+            51.301437
+          ],
+          [
+            -2.7154656,
+            51.3014348
+          ],
+          [
+            -2.7154171,
+            51.3014435
+          ],
+          [
+            -2.715372,
+            51.3014543
+          ],
+          [
+            -2.7149802,
+            51.3015974
+          ],
+          [
+            -2.7146889,
+            51.3017166
+          ],
+          [
+            -2.7146681,
+            51.301734
+          ],
+          [
+            -2.7146577,
+            51.30176
+          ],
+          [
+            -2.7146577,
+            51.3017947
+          ],
+          [
+            -2.7147062,
+            51.3018662
+          ],
+          [
+            -2.7147825,
+            51.3019486
+          ],
+          [
+            -2.7151432,
+            51.3022239
+          ],
+          [
+            -2.7151848,
+            51.3022434
+          ],
+          [
+            -2.7152264,
+            51.3022521
+          ],
+          [
+            -2.7152749,
+            51.3022543
+          ]
+        ]
+      },
+      "id": "osm-location-of-town-field-rectangular-enclosure",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Town Field rectangular enclosure",
+        "link": "http://pleiades.stoa.org/places/79534/osm-location-of-town-field-rectangular-enclosure"
       }
     }
   ]

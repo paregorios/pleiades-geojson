@@ -3,8 +3,8 @@
   "title": "Jmr-t",
   "id": "776186",
   "bbox": [
-    29.319825,
-    25.522623,
+    29.3194979,
+    25.5226204,
     29.319825,
     25.522623
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.319825,
-          25.522623
+          29.31966145,
+          25.5226217
         ]
       },
       "properties": {
@@ -34,17 +34,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          29.3194979,
+          25.5226204
+        ]
+      },
+      "id": "osm-location-of-ain-birbiya",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ain Birbiya",
+        "link": "http://pleiades.stoa.org/places/776186/osm-location-of-ain-birbiya"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           29.319825,
           25.522623
         ]
       },
-      "id": "centerpoint-of-ain-birbiyeh",
+      "id": "gps-centerpoint-of-ain-birbiyeh",
       "type": "Feature",
       "properties": {
         "description": "The centerpoint of the temple at Ain Birbiyeh",
         "location_precision": "precise",
-        "title": "Centerpoint of Ain Birbiyeh",
-        "link": "http://pleiades.stoa.org/places/776186/centerpoint-of-ain-birbiyeh"
+        "title": "GPS Centerpoint of Ain Birbiyeh",
+        "link": "http://pleiades.stoa.org/places/776186/gps-centerpoint-of-ain-birbiyeh"
       }
     }
   ]

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Alba Fucens Aqueduct",
+  "id": "102438478",
+  "bbox": [
+    13.4246866,
+    42.0922594,
+    13.4246866,
+    42.0922594
+  ],
+  "description": "The Alba Fucens Aqueduct is a Roman aqueduct dating from the later first century BCE.",
+  "connectsWith": [
+    "413005"
+  ],
+  "names": [
+    "Acquedotto romano di Alba Fucens"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4246866,
+          42.0922594
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4246866,
+          42.0922594
+        ]
+      },
+      "id": "osm-location-of-acquedotto-romano-di-alba-fucens",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Acquedotto romano di Alba Fucens",
+        "link": "http://pleiades.stoa.org/places/102438478/osm-location-of-acquedotto-romano-di-alba-fucens"
+      }
+    }
+  ]
+}

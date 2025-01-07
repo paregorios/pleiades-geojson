@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed quarry",
   "id": "82307",
   "bbox": [
     -3.0,
@@ -8,7 +8,7 @@
     -2.0,
     51.0
   ],
-  "description": "An ancient place, cited: BAtlas 8 E4 unnamed quarry (S Bucknowle)",
+  "description": "An unnamed ancient quarry located south of Bucknowle and included in the Barrington Atlas.",
   "features": [
     {
       "type": "Feature",

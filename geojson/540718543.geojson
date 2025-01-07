@@ -3,8 +3,8 @@
   "title": "Valcamonica",
   "id": "540718543",
   "bbox": [
-    10.1795678,
-    45.8889786,
+    10.1770329,
+    45.8862521,
     10.3640507,
     46.0333025
   ],
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.310777075,
-          45.99630795
+          10.3016775956,
+          45.9842984623
         ]
       },
       "properties": {
@@ -190,23 +190,6 @@
         "location_precision": "precise",
         "title": "OSM location of Incisioni rupestri ",
         "link": "http://pleiades.stoa.org/places/540718543/osm-location-of-incisioni-rupestri"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.3385509,
-          46.0313793
-        ]
-      },
-      "id": "osm-location-of-capo-di-ponte-rock-art",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Capo di Ponte rock art",
-        "link": "http://pleiades.stoa.org/places/540718543/osm-location-of-capo-di-ponte-rock-art"
       }
     }
   ]
