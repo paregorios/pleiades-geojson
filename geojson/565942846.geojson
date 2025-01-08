@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ashen Hill Barrows",
+  "id": "565942846",
+  "bbox": [
+    -2.6631819,
+    51.2659494,
+    -2.6631819,
+    51.2659494
+  ],
+  "description": "The Ashen Hill Barrow Cemetery is located in Somerset, England. These barrows are the most northerly of the sites in this area. The cemetery consists of six bowl barrows and two bell barrows that are aligned on an east-to-west axis.",
+  "connectsWith": [
+    "938383740"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6631819,
+          51.2659494
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6631819,
+          51.2659494
+        ]
+      },
+      "id": "osm-location-of-ashen-hill-barrows",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ashen Hill Barrows",
+        "link": "http://pleiades.stoa.org/places/565942846/osm-location-of-ashen-hill-barrows"
+      }
+    }
+  ]
+}

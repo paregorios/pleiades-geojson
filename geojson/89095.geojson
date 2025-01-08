@@ -23,12 +23,147 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.46449633706,
-          54.9948702569
+          -2.46450704762,
+          54.9948670081
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.4637513,
+            54.9944657
+          ],
+          [
+            -2.4634857,
+            54.9944854
+          ],
+          [
+            -2.4634556,
+            54.9945251
+          ],
+          [
+            -2.4635232,
+            54.9948835
+          ],
+          [
+            -2.4635314,
+            54.9949524
+          ],
+          [
+            -2.4635518,
+            54.9951239
+          ],
+          [
+            -2.4635791,
+            54.9951293
+          ],
+          [
+            -2.4636057,
+            54.9951346
+          ],
+          [
+            -2.4636365,
+            54.9951463
+          ],
+          [
+            -2.4636496,
+            54.9951797
+          ],
+          [
+            -2.4636948,
+            54.9951749
+          ],
+          [
+            -2.4637934,
+            54.9951659
+          ],
+          [
+            -2.4640006,
+            54.9951403
+          ],
+          [
+            -2.464012,
+            54.9951706
+          ],
+          [
+            -2.4640242,
+            54.9951696
+          ],
+          [
+            -2.464156,
+            54.9951542
+          ],
+          [
+            -2.4642134,
+            54.9953156
+          ],
+          [
+            -2.4642678,
+            54.995306
+          ],
+          [
+            -2.4643061,
+            54.9953073
+          ],
+          [
+            -2.4643507,
+            54.9953207
+          ],
+          [
+            -2.464853,
+            54.9952939
+          ],
+          [
+            -2.4648647,
+            54.9953024
+          ],
+          [
+            -2.4648778,
+            54.9953418
+          ],
+          [
+            -2.4649715,
+            54.9953365
+          ],
+          [
+            -2.4655469,
+            54.9953041
+          ],
+          [
+            -2.4654718,
+            54.9947456
+          ],
+          [
+            -2.465445,
+            54.9947394
+          ],
+          [
+            -2.4653726,
+            54.9944147
+          ],
+          [
+            -2.4652825,
+            54.9943625
+          ],
+          [
+            -2.4637513,
+            54.9944657
+          ]
+        ]
+      },
+      "id": "osm-location-of-aesica-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aesica Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89095/osm-location-of-aesica-roman-fort"
       }
     },
     {
@@ -39,13 +174,13 @@
           54.994861
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "imagery-centerpoint-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89095/centerpoint-of-the-ancient-site"
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89095/imagery-centerpoint-of-the-ancient-site"
       }
     },
     {
@@ -81,13 +216,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89095/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89095/imagery-location-boundary-of-fort-walls"
       }
     }
   ]

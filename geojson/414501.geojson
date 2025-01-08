@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "414501",
   "bbox": [
-    11.5,
-    42.0,
-    12.0,
-    42.5
+    11.9929855,
+    42.1786591,
+    11.9932133,
+    42.1787997
   ],
   "description": "An ancient place, cited: BAtlas 42 B4 unnamed bridge (near Aquae Apollinares? on road to Tarquinii at La Mola)",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.75,
-          42.25
+          11.9930994221,
+          42.1787294158
         ]
       },
       "properties": {
@@ -29,39 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              11.5,
-              42.0
-            ],
-            [
-              11.5,
-              42.5
-            ],
-            [
-              12.0,
-              42.5
-            ],
-            [
-              12.0,
-              42.0
-            ],
-            [
-              11.5,
-              42.0
-            ]
+            11.9930363,
+            42.1787997
+          ],
+          [
+            11.9932133,
+            42.1787262
+          ],
+          [
+            11.9931626,
+            42.1786591
+          ],
+          [
+            11.9929855,
+            42.1787327
+          ],
+          [
+            11.9930363,
+            42.1787997
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-la-mola",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/414501/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of La Mola",
+        "link": "http://pleiades.stoa.org/places/414501/osm-location-of-la-mola"
       }
     }
   ]

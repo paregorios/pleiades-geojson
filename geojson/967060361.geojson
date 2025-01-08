@@ -3,10 +3,10 @@
   "title": "Milecastle 44 (Allolee)",
   "id": "967060361",
   "bbox": [
-    -2.487892,
-    54.99611,
-    -2.487892,
-    54.99611
+    -2.4880267,
+    54.996035,
+    -2.4877407,
+    54.9962415
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.487892,
-          54.99611
+          -2.48788522248,
+          54.9961242698
         ]
       },
       "properties": {
@@ -41,6 +41,41 @@
         "location_precision": "precise",
         "title": "Center point of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060361/center-point-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.4880267,
+            54.9962239
+          ],
+          [
+            -2.4880077,
+            54.996035
+          ],
+          [
+            -2.4877422,
+            54.996045
+          ],
+          [
+            -2.4877407,
+            54.9962415
+          ],
+          [
+            -2.4880267,
+            54.9962239
+          ]
+        ]
+      },
+      "id": "osm-location-of-milecastle-44",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 44",
+        "link": "http://pleiades.stoa.org/places/967060361/osm-location-of-milecastle-44"
       }
     }
   ]

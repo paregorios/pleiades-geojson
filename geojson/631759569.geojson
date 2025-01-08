@@ -1,19 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Milecastle 73 (Dykesfield)",
-  "id": "967060416",
+  "title": "Capanna dell’Elceto",
+  "id": "631759569",
   "bbox": [
-    -3.0792008,
-    54.9245279,
-    -3.0792008,
-    54.9245279
+    11.9039521,
+    42.150336,
+    11.9039521,
+    42.150336
   ],
-  "description": "A milecastle situated on Hadrian's Wall.",
+  "description": "The so-called Capanna dell’Elceto was part of a fortified Protovillanovan settlement located near Monte Rovello, Italy.",
   "connectsWith": [
-    "91358"
-  ],
-  "names": [
-    "Milecastle 73"
+    "989027460"
   ],
   "features": [
     {
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0792008,
-          54.9245279
+          11.9039521,
+          42.150336
         ]
       },
       "properties": {
@@ -33,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.0792008,
-          54.9245279
+          11.9039521,
+          42.150336
         ]
       },
-      "id": "osm-location-of-milecastle-73-site-of",
+      "id": "osm-location-of-capanna-dellaelceto",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Milecastle 73 (site of)",
-        "link": "http://pleiades.stoa.org/places/967060416/osm-location-of-milecastle-73-site-of"
+        "title": "OSM location of Capanna dell’Elceto",
+        "link": "http://pleiades.stoa.org/places/631759569/osm-location-of-capanna-dellaelceto"
       }
     }
   ]

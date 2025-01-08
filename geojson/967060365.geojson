@@ -5,8 +5,8 @@
   "bbox": [
     -2.430555,
     54.995759,
-    -2.430465,
-    54.995817
+    -2.4304374,
+    54.9958364
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,12 +18,49 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.4305097619,
-          54.9957884286
+          -2.43050200595,
+          54.9957968643
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -2.4304538,
+              54.9957742
+            ],
+            [
+              -2.4305511,
+              54.9957843
+            ],
+            [
+              -2.4305347,
+              54.9958364
+            ],
+            [
+              -2.4304374,
+              54.9958263
+            ],
+            [
+              -2.4304538,
+              54.9957742
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-turret-41a-caw-gap",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 41A (Caw Gap)",
+        "link": "http://pleiades.stoa.org/places/967060365/osm-location-of-turret-41a-caw-gap"
       }
     },
     {
@@ -59,13 +96,13 @@
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "approximate-boundary-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060365/boundary-of-the-ancient-site"
+        "title": "Approximate Boundary of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060365/approximate-boundary-of-the-ancient-site"
       }
     }
   ]

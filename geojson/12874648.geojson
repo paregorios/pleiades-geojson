@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Rukhaegarh",
+  "id": "12874648",
+  "bbox": [
+    85.372333,
+    25.3261,
+    85.372333,
+    25.3261
+  ],
+  "description": "Settlement site near Nalanda, Bihar District, India, containing remains dated from the Northern Black Polished Ware period through the early Medieval period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.372333,
+          25.3261
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.372333,
+          25.3261
+        ]
+      },
+      "id": "google-earth-location-of-rukhaegarh",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the peak of the main mound at Rukhaegarh, after Lama 2024.",
+        "location_precision": "precise",
+        "title": "Google Earth location of Rukhaegarh ",
+        "link": "http://pleiades.stoa.org/places/12874648/google-earth-location-of-rukhaegarh"
+      }
+    }
+  ]
+}

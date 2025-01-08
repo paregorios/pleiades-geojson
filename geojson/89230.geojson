@@ -22,12 +22,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.75338011619,
-          54.8165904926
+          -1.7533816581,
+          54.8165972713
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7548819,
+            54.8169157
+          ],
+          [
+            -1.754189,
+            54.8158121
+          ],
+          [
+            -1.7518845,
+            54.8162924
+          ],
+          [
+            -1.7525774,
+            54.817396
+          ],
+          [
+            -1.7548819,
+            54.8169157
+          ]
+        ]
+      },
+      "id": "osm-location-of-lanchester-roman-fort-longovicium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Lanchester Roman Fort (Longovicium)",
+        "link": "http://pleiades.stoa.org/places/89230/osm-location-of-lanchester-roman-fort-longovicium"
       }
     },
     {

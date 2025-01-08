@@ -6,7 +6,7 @@
     12.4820433,
     41.8801881,
     12.5024275,
-    41.9062027
+    41.9064016
   ],
   "description": "The Republican city wall of Rome.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4949165284,
-          41.8962797646
+          12.4948734479,
+          41.8970005538
         ]
       },
       "properties": {
@@ -512,6 +512,49 @@
         "location_precision": "precise",
         "title": "OSM location of wall tract beneath Stazione Termini",
         "link": "http://pleiades.stoa.org/places/103808101/osm-location-of-wall-tract-beneath-stazione"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4943104,
+            41.9063394
+          ],
+          [
+            12.4943424,
+            41.9063478
+          ],
+          [
+            12.494338,
+            41.906357
+          ],
+          [
+            12.4943168,
+            41.9064016
+          ],
+          [
+            12.4942845,
+            41.9063946
+          ],
+          [
+            12.4943085,
+            41.9063434
+          ],
+          [
+            12.4943104,
+            41.9063394
+          ]
+        ]
+      },
+      "id": "osm-location-of-servian-wall-in-via-carducci",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Servian Wall tract in via Carducci",
+        "link": "http://pleiades.stoa.org/places/103808101/osm-location-of-servian-wall-in-via-carducci"
       }
     }
   ]

@@ -4,8 +4,8 @@
   "id": "167690",
   "bbox": [
     6.473626,
-    45.532064,
-    6.473626,
+    45.5310269,
+    6.474126,
     45.532064
   ],
   "description": "An ancient place, cited: BAtlas 17 G2 Brigantio",
@@ -21,49 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.473626,
-          45.532064
+          6.473876,
+          45.53154545
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0,
-              45.5
-            ],
-            [
-              6.0,
-              46.0
-            ],
-            [
-              6.5,
-              46.0
-            ],
-            [
-              6.5,
-              45.5
-            ],
-            [
-              6.0,
-              45.5
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/167690/batlas-location"
       }
     },
     {
@@ -81,6 +44,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/167690/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.474126,
+          45.5310269
+        ]
+      },
+      "id": "osm-location-of-notre-dame-de-brianasson",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Notre-Dame-de-Briançon",
+        "link": "http://pleiades.stoa.org/places/167690/osm-location-of-notre-dame-de-brianasson"
       }
     }
   ]

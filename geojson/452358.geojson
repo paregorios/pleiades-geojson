@@ -3,10 +3,10 @@
   "title": "Lametikos Kolpos",
   "id": "452358",
   "bbox": [
-    16.0,
-    38.5,
-    16.5,
-    39.0
+    16.1983209,
+    38.7484213,
+    16.2324193,
+    38.7759003
   ],
   "description": "An ancient place, cited: BAtlas 46 D4 Lametikos Kolpos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.25,
-          38.75
+          16.2171139295,
+          38.7632567587
         ]
       },
       "properties": {

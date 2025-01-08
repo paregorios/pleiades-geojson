@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Clanum",
-  "id": "114773",
+  "title": "Allerona",
+  "id": "906461649",
   "bbox": [
-    3.71247,
-    48.2343,
-    3.71247,
-    48.2343
+    11.973053,
+    42.812033,
+    11.973053,
+    42.812033
   ],
-  "description": "An ancient place, cited: BAtlas 11 unlocated Clanum",
-  "names": [
-    "Clanum"
-  ],
+  "description": "Allerona is an Italian town in the province of Terni (Umbria). It is the findspot of a Trajanic milestone.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.71247,
-          48.2343
+          11.973053,
+          42.812033
         ]
       },
       "properties": {
@@ -30,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.71247,
-          48.2343
+          11.973053,
+          42.812033
         ]
       },
-      "id": "osm-location-of-paisy-cosdon",
+      "id": "osm-location-of-allerona",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Paisy-Cosdon",
-        "link": "http://pleiades.stoa.org/places/114773/osm-location-of-paisy-cosdon"
+        "title": "OSM location of Allerona",
+        "link": "http://pleiades.stoa.org/places/906461649/osm-location-of-allerona"
       }
     }
   ]

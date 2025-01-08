@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Priddy Nine Barrows",
+  "id": "938383740",
+  "bbox": [
+    -2.6618363,
+    51.2606403,
+    -2.6618363,
+    51.2606403
+  ],
+  "description": "The place known as Priddy Nine Barrows is a collection of round barrows, dating from the Bronze Age located near Priddy in Somerset, England.",
+  "connectsWith": [
+    "90685466"
+  ],
+  "names": [
+    "Priddy Nine Barrows"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6618363,
+          51.2606403
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6618363,
+          51.2606403
+        ]
+      },
+      "id": "osm-location-of-priddy-nine-barrows",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Priddy Nine Barrows",
+        "link": "http://pleiades.stoa.org/places/938383740/osm-location-of-priddy-nine-barrows"
+      }
+    }
+  ]
+}

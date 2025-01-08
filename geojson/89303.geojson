@@ -5,8 +5,8 @@
   "bbox": [
     -2.67285,
     55.96288,
-    -2.67285,
-    55.96288
+    -2.6715299,
+    55.9633081
   ],
   "description": "Prehistoric hillfort in Scotland.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.67285,
-          55.96288
+          -2.67218995,
+          55.96309405
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "Centerpoint of hillfort (approx)",
         "link": "http://pleiades.stoa.org/places/89303/centerpoint-of-hillfort-approx"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6715299,
+          55.9633081
+        ]
+      },
+      "id": "osm-location-of-traprain-law",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Traprain Law",
+        "link": "http://pleiades.stoa.org/places/89303/osm-location-of-traprain-law"
       }
     }
   ]

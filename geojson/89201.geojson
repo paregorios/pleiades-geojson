@@ -3,10 +3,10 @@
   "title": "Onnum",
   "id": "89201",
   "bbox": [
-    -2.007349,
-    55.010086,
-    -2.004643,
-    55.011433
+    -2.0097519,
+    55.0082138,
+    -2.0033405,
+    55.0116189
   ],
   "description": "A fort on Hadrian's Wall known today as Halton Chesters.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.00573838966,
-          55.0106868919
+          -2.0060014009,
+          55.0103777064
         ]
       },
       "properties": {
@@ -33,19 +33,257 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          -2.005582,
-          55.010652
+          [
+            [
+              -2.0093069,
+              55.0110474
+            ],
+            [
+              -2.0093526,
+              55.010938
+            ],
+            [
+              -2.009394,
+              55.0107667
+            ],
+            [
+              -2.0094333,
+              55.0105486
+            ],
+            [
+              -2.0094379,
+              55.0105281
+            ],
+            [
+              -2.0094585,
+              55.0104543
+            ],
+            [
+              -2.009405,
+              55.010372
+            ],
+            [
+              -2.009377,
+              55.0103427
+            ],
+            [
+              -2.0093709,
+              55.0103238
+            ],
+            [
+              -2.0093965,
+              55.0102832
+            ],
+            [
+              -2.0094209,
+              55.0102511
+            ],
+            [
+              -2.009427,
+              55.0101868
+            ],
+            [
+              -2.009427,
+              55.0101553
+            ],
+            [
+              -2.0094123,
+              55.0101224
+            ],
+            [
+              -2.0094135,
+              55.0101036
+            ],
+            [
+              -2.0094013,
+              55.0100351
+            ],
+            [
+              -2.0093684,
+              55.0099379
+            ],
+            [
+              -2.0093379,
+              55.0098169
+            ],
+            [
+              -2.0093319,
+              55.0097687
+            ],
+            [
+              -2.0093465,
+              55.0097149
+            ],
+            [
+              -2.0093587,
+              55.0096764
+            ],
+            [
+              -2.0093672,
+              55.0095247
+            ],
+            [
+              -2.0093696,
+              55.00941
+            ],
+            [
+              -2.0093757,
+              55.0093625
+            ],
+            [
+              -2.0093818,
+              55.0092933
+            ],
+            [
+              -2.0093818,
+              55.0092367
+            ],
+            [
+              -2.0093855,
+              55.0092045
+            ],
+            [
+              -2.0093904,
+              55.0091402
+            ],
+            [
+              -2.0093879,
+              55.0090933
+            ],
+            [
+              -2.0093684,
+              55.0090199
+            ],
+            [
+              -2.0093355,
+              55.0089899
+            ],
+            [
+              -2.0093331,
+              55.0089759
+            ],
+            [
+              -2.0093477,
+              55.0089654
+            ],
+            [
+              -2.0093806,
+              55.0089598
+            ],
+            [
+              -2.0094148,
+              55.0089535
+            ],
+            [
+              -2.0094294,
+              55.0089388
+            ],
+            [
+              -2.0095099,
+              55.0087885
+            ],
+            [
+              -2.0095793,
+              55.0086599
+            ],
+            [
+              -2.0095793,
+              55.0085746
+            ],
+            [
+              -2.0095818,
+              55.0085221
+            ],
+            [
+              -2.0095921,
+              55.0084697
+            ],
+            [
+              -2.0096245,
+              55.0084078
+            ],
+            [
+              -2.0096641,
+              55.0083463
+            ],
+            [
+              -2.0096962,
+              55.0082782
+            ],
+            [
+              -2.0097196,
+              55.0082498
+            ],
+            [
+              -2.0097519,
+              55.0082138
+            ]
+          ],
+          [
+            [
+              -2.0093069,
+              55.0110474
+            ],
+            [
+              -2.009266,
+              55.0111596
+            ],
+            [
+              -2.0091709,
+              55.0112596
+            ],
+            [
+              -2.0089905,
+              55.0113267
+            ],
+            [
+              -2.0065277,
+              55.0110344
+            ],
+            [
+              -2.0065375,
+              55.0115853
+            ],
+            [
+              -2.004738,
+              55.0116189
+            ],
+            [
+              -2.0047258,
+              55.0109981
+            ],
+            [
+              -2.0037114,
+              55.0110163
+            ],
+            [
+              -2.0036989,
+              55.0108593
+            ],
+            [
+              -2.0035109,
+              55.0093432
+            ],
+            [
+              -2.0033405,
+              55.0082627
+            ],
+            [
+              -2.0097519,
+              55.0082138
+            ]
+          ]
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "osm-location-of-haltonchesters-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89201/centerpoint-of-the-ancient-site"
+        "title": "OSM location of Haltonchesters Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89201/osm-location-of-haltonchesters-roman-fort"
       }
     },
     {
@@ -96,13 +334,30 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89201/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89201/imagery-location-boundary-of-fort-walls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.005582,
+          55.010652
+        ]
+      },
+      "id": "imagery-location-centerpoint-of-the-ancient-site",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89201/imagery-location-centerpoint-of-the-ancient-site"
       }
     }
   ]

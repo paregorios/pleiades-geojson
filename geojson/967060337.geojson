@@ -3,7 +3,7 @@
   "title": "Turret 51A (Piper Syke)",
   "id": "967060337",
   "bbox": [
-    -2.644858,
+    -2.6448759,
     54.980624,
     -2.644745,
     54.980688
@@ -18,12 +18,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.64480206622,
-          54.9806559079
+          -2.64481050811,
+          54.9806569539
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.644762,
+            54.98065
+          ],
+          [
+            -2.6447909,
+            54.9806875
+          ],
+          [
+            -2.6448759,
+            54.980666
+          ],
+          [
+            -2.644847,
+            54.9806285
+          ],
+          [
+            -2.644762,
+            54.98065
+          ]
+        ]
+      },
+      "id": "osm-location-of-piper-sike-turret-51a",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Piper Sike Turret (51a)",
+        "link": "http://pleiades.stoa.org/places/967060337/osm-location-of-piper-sike-turret-51a"
       }
     },
     {
@@ -59,13 +94,13 @@
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "approximate-boundary-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060337/boundary-of-the-ancient-site"
+        "title": "Approximate boundary of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060337/approximate-boundary-of-the-ancient-site"
       }
     }
   ]

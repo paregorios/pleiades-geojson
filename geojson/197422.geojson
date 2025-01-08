@@ -3,10 +3,10 @@
   "title": "Oseriates",
   "id": "197422",
   "bbox": [
-    16.0,
-    45.0,
-    17.0,
-    46.0
+    16.5450113624,
+    45.2077397324,
+    17.0782485738,
+    45.2384347794
   ],
   "description": "Oseriates, a civitas of Roman Pannonia.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.5,
-          45.5
+          16.8111120408,
+          45.2306295293
         ]
       },
       "properties": {
@@ -28,39 +28,55 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              16.0,
-              45.0
+              16.545011362396167,
+              45.20773973243132
             ],
             [
-              16.0,
-              46.0
+              16.64637640124448,
+              45.22344417506969
             ],
             [
-              17.0,
-              46.0
+              16.704911141987964,
+              45.23058255808718
             ],
             [
-              17.0,
-              45.0
+              16.759876691222587,
+              45.234151749595924
             ],
             [
-              16.0,
-              45.0
+              16.811986887250328,
+              45.23486558789767
+            ],
+            [
+              16.86623859818326,
+              45.23772094110467
+            ],
+            [
+              16.926201015530182,
+              45.23843477940642
+            ],
+            [
+              16.982594241368417,
+              45.23700710280298
+            ],
+            [
+              17.078248573802682,
+              45.23058255808718
             ]
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-map-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/197422/undetermined"
+        "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+        "location_precision": "precise",
+        "title": "BAtlas Map Label Location",
+        "link": "http://pleiades.stoa.org/places/197422/batlas-map-label-location"
       }
     }
   ]

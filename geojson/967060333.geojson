@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.19670163063,
-          55.0385468468
+          -2.19663091532,
+          55.0385147234
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1965602,
+          55.0384826
+        ]
+      },
+      "id": "osm-location-of-milecastle-30-limestone-corner",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 30 (Limestone Corner)",
+        "link": "http://pleiades.stoa.org/places/967060333/osm-location-of-milecastle-30-limestone-corner"
       }
     },
     {
@@ -59,13 +76,13 @@
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "approximate-boundary-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060333/boundary-of-the-ancient-site"
+        "title": "Approximate boundary of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060333/approximate-boundary-of-the-ancient-site"
       }
     }
   ]

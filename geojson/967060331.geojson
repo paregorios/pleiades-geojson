@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.18254043655,
-          55.0359838071
+          -2.18254751827,
+          55.0359837036
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1825546,
+          55.0359836
+        ]
+      },
+      "id": "osm-location-of-black-carts-turret-29a",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Black Carts Turret 29A",
+        "link": "http://pleiades.stoa.org/places/967060331/osm-location-of-black-carts-turret-29a"
       }
     },
     {
@@ -59,13 +76,13 @@
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "approximate-boundary-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060331/boundary-of-the-ancient-site"
+        "title": "Approximate boundary of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060331/approximate-boundary-of-the-ancient-site"
       }
     }
   ]

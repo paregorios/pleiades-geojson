@@ -8,9 +8,11 @@
     -3.2132284,
     54.9537925
   ],
-  "description": "A Roman fort on Hadrian's Wall, cited: BAtlas 9 D6 Maia",
+  "description": "The Roman fort of Maia located at Bowness-on-Solway, was part of the Roman defenses supporting Hadrian's Wall along the Cumbrian coast.",
   "connectsWith": [
-    "91358"
+    "91358",
+    "579047271",
+    "967060359"
   ],
   "names": [
     "Bowness-on-Solway",
