@@ -3,10 +3,10 @@
   "title": "Aqua Anio Vetus",
   "id": "423560",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.5117027,
-    41.8938379
+    12.5114644,
+    41.8936828,
+    12.5123032,
+    41.8943357
   ],
   "description": "Aqua Anio Vetus, an aqueduct serving Rome and built originally during the third century BC. The Anio Vetus carried water to Rome from the Aniene near Vicovaro.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.49891985,
-          41.89280645
+          12.5118821412,
+          41.8939800474
         ]
       },
       "properties": {

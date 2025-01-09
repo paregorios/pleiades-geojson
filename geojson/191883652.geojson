@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Seleukeia on the Euphrates and the Royal Canal",
+  "id": "191883652",
+  "description": "A city in Babylonia on the Euphrates, mentioned in Babylonian texts of the third century BC and possibly to be identified with Sippar.",
+  "connectsWith": [
+    "912849",
+    "893951",
+    "45635759",
+    "894089"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

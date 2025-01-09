@@ -3,8 +3,8 @@
   "title": "Milecastle 23 (Stanley)",
   "id": "967060249",
   "bbox": [
-    -2.040402,
-    55.014965,
+    -2.0404503,
+    55.0149415,
     -2.040402,
     55.014965
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.040402,
-          55.014965
+          -2.04042615,
+          55.01495325
         ]
       },
       "properties": {
@@ -30,17 +30,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0404503,
+          55.0149415
+        ]
+      },
+      "id": "osm-location-of-milecastle-23-stanley",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 23 (Stanley)",
+        "link": "http://pleiades.stoa.org/places/967060249/osm-location-of-milecastle-23-stanley"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.040402,
           55.014965
         ]
       },
-      "id": "center-point-of-the-ancient-site",
+      "id": "appoximate-center-point-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060249/center-point-of-the-ancient-site"
+        "title": "Approximate center point of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060249/appoximate-center-point-of-the-ancient-site"
       }
     }
   ]

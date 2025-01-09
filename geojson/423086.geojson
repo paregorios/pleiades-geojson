@@ -9,6 +9,9 @@
     41.8584397
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Il Tondo",
+  "connectsWith": [
+    "622606468"
+  ],
   "features": [
     {
       "type": "Feature",

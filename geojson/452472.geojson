@@ -9,6 +9,9 @@
     38.943288
   ],
   "description": "An ancient place, cited: BAtlas 46 E4 Teura",
+  "connectsWith": [
+    "452473"
+  ],
   "names": [
     "Teura"
   ],

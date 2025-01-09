@@ -3,10 +3,10 @@
   "title": "Unnamed Roman bridgehead",
   "id": "765102512",
   "bbox": [
-    -2.135509,
+    -2.1358214,
     55.025051,
     -2.135509,
-    55.025051
+    55.025087
   ],
   "description": "Ancient bridgehead west of Milecastle 27 (Hadrian's Wall), providing link to Cilurnum.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.135509,
-          55.025051
+          -2.1356652,
+          55.025069
         ]
       },
       "properties": {
@@ -35,17 +35,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.1358214,
+          55.025087
+        ]
+      },
+      "id": "osm-location-of-abutment-of-roman-bridge",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Abutment of Roman Bridge",
+        "link": "http://pleiades.stoa.org/places/765102512/osm-location-of-abutment-of-roman-bridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.135509,
           55.025051
         ]
       },
-      "id": "roman-bridge-head",
+      "id": "imagery-location-roman-bridge-head",
       "type": "Feature",
       "properties": {
         "description": "Ancient bridgehead west of Milecastle 27, providing link to Cilurnum",
         "location_precision": "precise",
-        "title": "Roman bridge head",
-        "link": "http://pleiades.stoa.org/places/765102512/roman-bridge-head"
+        "title": "Imagery Location: Roman bridge head",
+        "link": "http://pleiades.stoa.org/places/765102512/imagery-location-roman-bridge-head"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Aqua Claudia",
   "id": "423563",
   "bbox": [
-    12.5139657,
+    12.5123169,
     41.8364607,
     12.5705729,
-    41.8910054
+    41.8910705
   ],
   "description": "The Aqua Claudia was one of the four great aqueducts of the ancient city of Rome. It was begun by Caius in A.D. 38 and completed by Claudius in A.D. 52.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5399694595,
-          41.86627027
+          12.5396504806,
+          41.8661529314
         ]
       },
       "properties": {

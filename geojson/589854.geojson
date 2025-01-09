@@ -3,20 +3,23 @@
   "title": "Katharo",
   "id": "589854",
   "bbox": [
-    25.579513,
-    35.14556,
-    25.579513,
-    35.14556
+    25.5662651,
+    35.1469233,
+    25.5662651,
+    35.1469233
   ],
   "description": "An ancient place, cited: BAtlas 60 E2 Katharo",
+  "connectsWith": [
+    "589748"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.579513,
-          35.14556
+          25.5662651,
+          35.1469233
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.579513,
-          35.14556
+          25.5662651,
+          35.1469233
         ]
       },
-      "id": "darmc-location-13060",
+      "id": "osm-location-of-katharon",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 13060",
-        "link": "http://pleiades.stoa.org/places/589854/darmc-location-13060"
+        "title": "OSM location of Katharon",
+        "link": "http://pleiades.stoa.org/places/589854/osm-location-of-katharon"
       }
     }
   ]

@@ -3,14 +3,23 @@
   "title": "Lametikos Kolpos",
   "id": "452358",
   "bbox": [
-    16.1983209,
-    38.7484213,
-    16.2324193,
-    38.7759003
+    16.06667,
+    38.85,
+    16.06667,
+    38.85
   ],
-  "description": "An ancient place, cited: BAtlas 46 D4 Lametikos Kolpos",
+  "description": "Lametikos Kolpos (sometimes also referred to as Vibonensis Sinus) is the modern-day Gulf of Saint Euphemia (Italian: Golfo di Santa Eufemia or Golfo di Sant'Eufemia) and is part of the Tyrrhenian Sea. It is located on the west coast of Calabria.",
+  "connectsWith": [
+    "1356"
+  ],
   "names": [
-    "Lametikos Kolpos"
+    "Lametikos Kolpos",
+    "Golfo di Sant'Eufemia",
+    "Gulf of Saint Euphemia",
+    "Terinaeus sinus",
+    "Hipponiates kolpos",
+    "sinus Vibonensis",
+    "Terinaios kolpos"
   ],
   "features": [
     {
@@ -18,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.2171139295,
-          38.7632567587
+          16.06667,
+          38.85
         ]
       },
       "properties": {
@@ -28,39 +37,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              16.0,
-              38.5
-            ],
-            [
-              16.0,
-              39.0
-            ],
-            [
-              16.5,
-              39.0
-            ],
-            [
-              16.5,
-              38.5
-            ],
-            [
-              16.0,
-              38.5
-            ]
-          ]
+          16.06667,
+          38.85
         ]
       },
-      "id": "batlas-location",
+      "id": "location-of-golfo-di-santeufemia",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/452358/batlas-location"
+        "description": "coordinates after GeoNames",
+        "location_precision": "precise",
+        "title": "GeoNames location of Golfo di Sant'Eufemia ",
+        "link": "http://pleiades.stoa.org/places/452358/location-of-golfo-di-santeufemia"
       }
     }
   ]

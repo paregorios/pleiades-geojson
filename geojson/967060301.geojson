@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.58038157166,
-          54.9898632164
+          -2.58038388583,
+          54.9898633082
         ]
       },
       "properties": {
@@ -66,6 +66,23 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060301/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5803862,
+          54.9898634
+        ]
+      },
+      "id": "osm-location-of-roman-watch-tower",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman watch tower",
+        "link": "http://pleiades.stoa.org/places/967060301/osm-location-of-roman-watch-tower"
       }
     }
   ]

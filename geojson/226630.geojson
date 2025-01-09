@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Hypanis (river)",
+  "title": "Hypanis/Southern Bug (river)",
   "id": "226630",
   "bbox": [
     26.4756292,
@@ -8,7 +8,7 @@
     32.0175719,
     49.6322739
   ],
-  "description": "An ancient place, cited: BAtlas 23 E1 Hypanis fl.",
+  "description": "The modern Southern Bug river in Ukraine was known in Greek and Roman sources as the Hypanis, one of three distinct rivers with this ancient name.",
   "names": [
     "Hypanis"
   ],

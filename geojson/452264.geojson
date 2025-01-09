@@ -9,6 +9,9 @@
     38.28633
   ],
   "description": "An ancient place, cited: BAtlas 46 C5 Arciade",
+  "connectsWith": [
+    "487529761"
+  ],
   "names": [
     "Arciade"
   ],

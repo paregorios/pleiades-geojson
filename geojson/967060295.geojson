@@ -4,8 +4,8 @@
   "id": "967060295",
   "bbox": [
     -2.086074,
-    55.019165,
-    -2.086074,
+    55.0191505,
+    -2.086072,
     55.019165
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.086074,
-          55.019165
+          -2.086073,
+          55.01915775
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.086072,
+          55.0191505
+        ]
+      },
+      "id": "osm-location-of-milecastle-25-codlawhill",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 25 (Codlawhill)",
+        "link": "http://pleiades.stoa.org/places/967060295/osm-location-of-milecastle-25-codlawhill"
       }
     },
     {
