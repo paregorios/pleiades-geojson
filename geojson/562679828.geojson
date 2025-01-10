@@ -3,9 +3,9 @@
   "title": "Ara del Tufo necropolis",
   "id": "562679828",
   "bbox": [
-    11.8776256,
-    42.3952498,
-    11.8776256,
+    11.8761746,
+    42.3930431,
+    11.8783284,
     42.3952498
   ],
   "description": "An Etruscan necropolis at Tuscania.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8776256,
-          42.3952498
+          11.8774640055,
+          42.3941666825
         ]
       },
       "properties": {
@@ -28,19 +28,125 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          11.8776256,
-          42.3952498
+          [
+            [
+              11.8768357,
+              42.3948656
+            ],
+            [
+              11.8769336,
+              42.3949408
+            ],
+            [
+              11.8772931,
+              42.3951389
+            ],
+            [
+              11.8776256,
+              42.3952498
+            ],
+            [
+              11.8778134,
+              42.3951231
+            ],
+            [
+              11.877851,
+              42.3949884
+            ],
+            [
+              11.8776793,
+              42.3946516
+            ],
+            [
+              11.8778188,
+              42.3945724
+            ],
+            [
+              11.8779475,
+              42.3944377
+            ],
+            [
+              11.8780333,
+              42.3943228
+            ],
+            [
+              11.8780977,
+              42.3943188
+            ],
+            [
+              11.878205,
+              42.3943268
+            ],
+            [
+              11.8783284,
+              42.3943624
+            ],
+            [
+              11.8781621,
+              42.3942039
+            ],
+            [
+              11.8781245,
+              42.3940296
+            ],
+            [
+              11.8780923,
+              42.3938474
+            ],
+            [
+              11.8781299,
+              42.3936414
+            ],
+            [
+              11.8781192,
+              42.3934869
+            ],
+            [
+              11.8782426,
+              42.3932214
+            ],
+            [
+              11.8783177,
+              42.3930431
+            ]
+          ],
+          [
+            [
+              11.8768357,
+              42.3948656
+            ],
+            [
+              11.8766708,
+              42.3947388
+            ],
+            [
+              11.8761746,
+              42.3941891
+            ],
+            [
+              11.8762531,
+              42.3941505
+            ],
+            [
+              11.87769,
+              42.3933799
+            ],
+            [
+              11.8783177,
+              42.3930431
+            ]
+          ]
         ]
       },
-      "id": "location-of-ara-del-tufo-necropolis",
+      "id": "osm-location-ara-del-tufo",
       "type": "Feature",
       "properties": {
-        "description": "Polygonal geometry representing the visible enclosure of the site, derived from an OpenStreetMap way.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ara del Tufo a Tuscania",
-        "link": "http://pleiades.stoa.org/places/562679828/location-of-ara-del-tufo-necropolis"
+        "title": "OSM location: Ara del Tufo",
+        "link": "http://pleiades.stoa.org/places/562679828/osm-location-ara-del-tufo"
       }
     }
   ]

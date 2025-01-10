@@ -3,10 +3,10 @@
   "title": "Santa Venera al Pozzo",
   "id": "657287138",
   "bbox": [
-    15.1540248,
-    37.5827598,
-    15.1540248,
-    37.5827598
+    15.1531532,
+    37.5827051,
+    15.1531532,
+    37.5827051
   ],
   "description": "An archaeological area in Sicily, near Acireale, possibly related to the ancient settlement of Acium.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.1540248,
-          37.5827598
+          15.1531532,
+          37.5827051
         ]
       },
       "properties": {
@@ -35,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.1540248,
-          37.5827598
+          15.1531532,
+          37.5827051
         ]
       },
-      "id": "area-archeologica-di-santa-venera-al-pozzo",
+      "id": "osm-location-of-area-archeologica-di-santa-venera",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of archaeological area of Santa Venera al Pozzo",
-        "link": "http://pleiades.stoa.org/places/657287138/area-archeologica-di-santa-venera-al-pozzo"
+        "title": "OSM location of Area archeologica di Santa Venera al Pozzo",
+        "link": "http://pleiades.stoa.org/places/657287138/osm-location-of-area-archeologica-di-santa-venera"
       }
     }
   ]

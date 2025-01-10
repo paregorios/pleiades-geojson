@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.2811081827,
-          55.029156832
+          -2.28110916635,
+          55.029155066
         ]
       },
       "properties": {
@@ -66,6 +66,41 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060270/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2810723,
+            55.0291783
+          ],
+          [
+            -2.2810664,
+            55.0291317
+          ],
+          [
+            -2.281148,
+            55.0291283
+          ],
+          [
+            -2.2811539,
+            55.0291749
+          ],
+          [
+            -2.2810723,
+            55.0291783
+          ]
+        ]
+      },
+      "id": "osm-location-of-turret-33b-coesike",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 33B (Coesike)",
+        "link": "http://pleiades.stoa.org/places/967060270/osm-location-of-turret-33b-coesike"
       }
     }
   ]

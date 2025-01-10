@@ -3,10 +3,10 @@
   "title": "Turret 26B (Brunton)",
   "id": "967060300",
   "bbox": [
-    -2.124336,
+    -2.1247119,
     55.022985,
     -2.124224,
-    55.023047
+    55.0231122
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.12427976753,
-          55.0230163998
+          -2.12449583376,
+          55.0230642999
         ]
       },
       "properties": {
@@ -66,6 +66,23 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060300/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1247119,
+          55.0231122
+        ]
+      },
+      "id": "osm-location-of-brunton-turret-26b",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Brunton Turret (26B)",
+        "link": "http://pleiades.stoa.org/places/967060300/osm-location-of-brunton-turret-26b"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Vigna Pia necropolis",
   "id": "606859979",
   "bbox": [
-    12.4597661,
+    12.459618,
     41.8644284,
-    12.4597661,
-    41.8644284
+    12.4600779,
+    41.8647595
   ],
   "description": "An imperial necropolis with columbarium tombs and a family tomb connected with the gens Atilia Romana.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4597661,
-          41.8644284
+          12.4598417618,
+          41.8646005154
         ]
       },
       "properties": {
@@ -29,19 +29,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4597661,
-          41.8644284
+          [
+            12.4598193,
+            41.8647543
+          ],
+          [
+            12.4597997,
+            41.8647595
+          ],
+          [
+            12.459727,
+            41.8647314
+          ],
+          [
+            12.4596627,
+            41.8646918
+          ],
+          [
+            12.459618,
+            41.864645
+          ],
+          [
+            12.4596962,
+            41.8646356
+          ],
+          [
+            12.4597438,
+            41.8645919
+          ],
+          [
+            12.4597396,
+            41.8644597
+          ],
+          [
+            12.4597661,
+            41.8644284
+          ],
+          [
+            12.4598584,
+            41.8644732
+          ],
+          [
+            12.4600737,
+            41.8645346
+          ],
+          [
+            12.4600779,
+            41.8645492
+          ],
+          [
+            12.4600219,
+            41.8646491
+          ],
+          [
+            12.4598193,
+            41.8647543
+          ]
         ]
       },
-      "id": "osm-location-of-necropoli-di-vigna-pia",
+      "id": "osm-location-necropoli-di-vigna-pia",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Necropoli di Vigna Pia",
-        "link": "http://pleiades.stoa.org/places/606859979/osm-location-of-necropoli-di-vigna-pia"
+        "title": "OSM location: Necropoli di Vigna Pia",
+        "link": "http://pleiades.stoa.org/places/606859979/osm-location-necropoli-di-vigna-pia"
       }
     }
   ]

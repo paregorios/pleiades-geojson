@@ -3,10 +3,10 @@
   "title": "Old Winchester Hill",
   "id": "460428554",
   "bbox": [
-    -1.0888094,
-    50.9808743,
-    -1.0887924,
-    50.9808962
+    -1.0909655,
+    50.979841,
+    -1.0850004,
+    50.9821286
   ],
   "description": "Old Winchester Hill is the site of both Bronze Age barrows and an Iron Age hill fort.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0888009,
-          50.98088525
+          -1.08800038769,
+          50.9808712433
         ]
       },
       "properties": {
@@ -25,36 +25,101 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.0887924,
-          50.9808962
+          [
+            -1.0888978,
+            50.9821286
+          ],
+          [
+            -1.0896915,
+            50.9820532
+          ],
+          [
+            -1.0902816,
+            50.9817291
+          ],
+          [
+            -1.0908571,
+            50.981277
+          ],
+          [
+            -1.0909655,
+            50.9808813
+          ],
+          [
+            -1.0901153,
+            50.9804694
+          ],
+          [
+            -1.0892624,
+            50.9802699
+          ],
+          [
+            -1.0881359,
+            50.9800733
+          ],
+          [
+            -1.0869815,
+            50.9799132
+          ],
+          [
+            -1.0863462,
+            50.979841
+          ],
+          [
+            -1.0852374,
+            50.9801073
+          ],
+          [
+            -1.0851372,
+            50.9802498
+          ],
+          [
+            -1.0850004,
+            50.9807071
+          ],
+          [
+            -1.0854591,
+            50.9808704
+          ],
+          [
+            -1.085613,
+            50.9809234
+          ],
+          [
+            -1.0859954,
+            50.9810553
+          ],
+          [
+            -1.0870268,
+            50.981363
+          ],
+          [
+            -1.0878614,
+            50.9817746
+          ],
+          [
+            -1.0883071,
+            50.9819268
+          ],
+          [
+            -1.0885819,
+            50.9820207
+          ],
+          [
+            -1.0888978,
+            50.9821286
+          ]
         ]
       },
-      "id": "location-of-old-winchester-hill",
+      "id": "osm-location-of-old-winchester-hill-iron-age-fort",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Old Winchester Hill",
-        "link": "http://pleiades.stoa.org/places/460428554/location-of-old-winchester-hill"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.0888094,
-          50.9808743
-        ]
-      },
-      "id": "location-of-iron-age-hill-fort",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of Iron Age hill-fort",
-        "link": "http://pleiades.stoa.org/places/460428554/location-of-iron-age-hill-fort"
+        "title": "OSM location of Old Winchester Hill Iron Age Fort",
+        "link": "http://pleiades.stoa.org/places/460428554/osm-location-of-old-winchester-hill-iron-age-fort"
       }
     }
   ]

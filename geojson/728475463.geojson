@@ -4,8 +4,8 @@
   "id": "728475463",
   "bbox": [
     12.4877744,
-    41.893609,
-    12.4879193,
+    41.8934516,
+    12.488118,
     41.8937024
   ],
   "description": "A fortified Medieval tower located in Rome, dating to AD 1238, and built by Richard Conti, brother of Pope Innocent III.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4878468601,
-          41.8936556843
+          12.4879455136,
+          41.8935786163
         ]
       },
       "properties": {
@@ -28,29 +28,55 @@
     },
     {
       "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [
-            12.4877744,
-            41.893609
+            [
+              12.4879639,
+              41.8934516
+            ],
+            [
+              12.4877744,
+              41.893609
+            ]
           ],
           [
-            12.4879037,
-            41.8936923
+            [
+              12.4877744,
+              41.893609
+            ],
+            [
+              12.4879037,
+              41.8936923
+            ],
+            [
+              12.4879193,
+              41.8937024
+            ]
           ],
           [
-            12.4879193,
-            41.8937024
+            [
+              12.4879193,
+              41.8937024
+            ],
+            [
+              12.488118,
+              41.8935564
+            ],
+            [
+              12.4879639,
+              41.8934516
+            ]
           ]
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-torre-dei-conti",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
-        "link": "http://pleiades.stoa.org/places/728475463/osm-location"
+        "title": "OSM location: Torre dei Conti",
+        "link": "http://pleiades.stoa.org/places/728475463/osm-location-torre-dei-conti"
       }
     }
   ]

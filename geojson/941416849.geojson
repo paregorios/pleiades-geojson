@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Coesike West temporary camps",
+  "id": "941416849",
+  "bbox": [
+    -2.2869936,
+    55.0248427,
+    -2.2857142,
+    55.0255269
+  ],
+  "description": "A sequence of temporary camps located south of the vallum associated with Hadrian's Wall.",
+  "connectsWith": [
+    "91358"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.28635702928,
+          55.0251859644
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.2869211,
+            55.0254208
+          ],
+          [
+            -2.286095,
+            55.0255269
+          ],
+          [
+            -2.2860172,
+            55.0255269
+          ],
+          [
+            -2.2859931,
+            55.0255038
+          ],
+          [
+            -2.2859475,
+            55.0254362
+          ],
+          [
+            -2.2857142,
+            55.0250041
+          ],
+          [
+            -2.2857182,
+            55.0249903
+          ],
+          [
+            -2.2857517,
+            55.0249657
+          ],
+          [
+            -2.2865939,
+            55.0248488
+          ],
+          [
+            -2.2866449,
+            55.0248442
+          ],
+          [
+            -2.2867093,
+            55.0248427
+          ],
+          [
+            -2.2867361,
+            55.0248673
+          ],
+          [
+            -2.2869936,
+            55.0253731
+          ],
+          [
+            -2.2869667,
+            55.0254085
+          ],
+          [
+            -2.2869211,
+            55.0254208
+          ]
+        ]
+      },
+      "id": "osm-location-of-coesike-west-temporary-camps",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Coesike West temporary camps",
+        "link": "http://pleiades.stoa.org/places/941416849/osm-location-of-coesike-west-temporary-camps"
+      }
+    }
+  ]
+}

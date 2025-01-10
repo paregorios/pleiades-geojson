@@ -3,10 +3,10 @@
   "title": "Great Southern baths at Conimbriga",
   "id": "684682242",
   "bbox": [
-    -8.4948907,
-    40.0983012,
-    -8.4948907,
-    40.0983012
+    -8.4950385,
+    40.097893,
+    -8.4950385,
+    40.097893
   ],
   "description": "The Roman baths at Conimbriga.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4948907,
-          40.0983012
+          -8.4950385,
+          40.097893
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.4948907,
-          40.0983012
+          -8.4950385,
+          40.097893
         ]
       },
-      "id": "location-of-baths",
+      "id": "osm-location-of-great-southern-baths",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of baths",
-        "link": "http://pleiades.stoa.org/places/684682242/location-of-baths"
+        "title": "OSM location of Great Southern baths",
+        "link": "http://pleiades.stoa.org/places/684682242/osm-location-of-great-southern-baths"
       }
     }
   ]

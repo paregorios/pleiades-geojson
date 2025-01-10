@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Burnum",
   "id": "723135880",
   "bbox": [
-    16.0184452,
-    44.0195026,
-    16.0184452,
-    44.0195026
+    16.0181746,
+    44.019142,
+    16.0181746,
+    44.019142
   ],
   "description": "A Roman amphitheater associated with the legionary establishment of Burnum.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0184452,
-          44.0195026
+          16.0181746,
+          44.019142
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0184452,
-          44.0195026
+          16.0181746,
+          44.019142
         ]
       },
-      "id": "location-of-roman-amphitheater",
+      "id": "osm-location-of-burnum-amphitheatre",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman amphitheater",
-        "link": "http://pleiades.stoa.org/places/723135880/location-of-roman-amphitheater"
+        "title": "OSM location of Burnum Amphitheatre",
+        "link": "http://pleiades.stoa.org/places/723135880/osm-location-of-burnum-amphitheatre"
       }
     }
   ]

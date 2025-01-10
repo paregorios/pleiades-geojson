@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Clearbury Ring",
+  "id": "156313336",
+  "bbox": [
+    -1.7853963,
+    51.018064,
+    -1.7825585,
+    51.0196611
+  ],
+  "description": "A univallate Iron Age hillfort.",
+  "names": [
+    "Clearbury Ring"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7839306329,
+          51.0188352625
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.7853963,
+            51.0190941
+          ],
+          [
+            -1.7841813,
+            51.0196611
+          ],
+          [
+            -1.7832774,
+            51.0193236
+          ],
+          [
+            -1.782816,
+            51.01903
+          ],
+          [
+            -1.7825585,
+            51.0186487
+          ],
+          [
+            -1.7825934,
+            51.0184361
+          ],
+          [
+            -1.7829018,
+            51.0182066
+          ],
+          [
+            -1.7834016,
+            51.018064
+          ],
+          [
+            -1.7837789,
+            51.0180733
+          ],
+          [
+            -1.7843717,
+            51.0182994
+          ],
+          [
+            -1.7851468,
+            51.0187905
+          ],
+          [
+            -1.7853963,
+            51.0190941
+          ]
+        ]
+      },
+      "id": "osm-location-of-clearbury-ring",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Clearbury Ring",
+        "link": "http://pleiades.stoa.org/places/156313336/osm-location-of-clearbury-ring"
+      }
+    }
+  ]
+}

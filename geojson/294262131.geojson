@@ -3,8 +3,8 @@
   "title": "Pian della Conserva",
   "id": "294262131",
   "bbox": [
-    11.9832091,
-    42.1489975,
+    11.9817234,
+    42.1489433,
     11.9849925,
     42.1511804
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9842353798,
-          42.1499671501
+          11.9837167397,
+          42.1497808764
         ]
       },
       "properties": {
@@ -99,6 +99,73 @@
         "location_precision": "precise",
         "title": "OSM location of necropolis zone A",
         "link": "http://pleiades.stoa.org/places/294262131/location-of-necropolis-zone-a"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9825046,
+            42.1494669
+          ],
+          [
+            11.9825267,
+            42.149432
+          ],
+          [
+            11.9825848,
+            42.1492311
+          ],
+          [
+            11.9825655,
+            42.1491183
+          ],
+          [
+            11.9825046,
+            42.1490732
+          ],
+          [
+            11.9819161,
+            42.149035
+          ],
+          [
+            11.981863,
+            42.1489464
+          ],
+          [
+            11.9817234,
+            42.1489433
+          ],
+          [
+            11.9817405,
+            42.1490495
+          ],
+          [
+            11.9818999,
+            42.1491168
+          ],
+          [
+            11.9819543,
+            42.1493131
+          ],
+          [
+            11.9821824,
+            42.1495994
+          ],
+          [
+            11.9825046,
+            42.1494669
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-di-pian-della-conserva",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli di Pian della Conserva, Zona D",
+        "link": "http://pleiades.stoa.org/places/294262131/osm-location-of-necropoli-di-pian-della-conserva"
       }
     }
   ]

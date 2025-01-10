@@ -6,7 +6,7 @@
     1.6805923,
     41.734012,
     1.6819403,
-    41.7346833
+    41.7347899
   ],
   "description": "The archaeological site of Sant Amanç de Viladés includes multi-period remains, stretching from indigenous Iberian remains to those of a Roman villa to Medieval occupation.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.68127620726,
-          41.7342290981
+          1.68128161964,
+          41.7343944318
         ]
       },
       "properties": {
@@ -25,69 +25,119 @@
     },
     {
       "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [
-            1.6806523,
-            41.734419
+            [
+              1.6816405,
+              41.7347899
+            ],
+            [
+              1.6814916,
+              41.7347639
+            ],
+            [
+              1.6814065,
+              41.7347033
+            ],
+            [
+              1.6812344,
+              41.7346225
+            ],
+            [
+              1.6810062,
+              41.7345186
+            ],
+            [
+              1.6807973,
+              41.7344551
+            ],
+            [
+              1.6806523,
+              41.734419
+            ]
           ],
           [
-            1.6805923,
-            41.7343367
+            [
+              1.6806523,
+              41.734419
+            ],
+            [
+              1.6805923,
+              41.7343367
+            ],
+            [
+              1.6806368,
+              41.7342372
+            ],
+            [
+              1.680749,
+              41.734051
+            ],
+            [
+              1.680925,
+              41.734012
+            ],
+            [
+              1.6811744,
+              41.7340597
+            ],
+            [
+              1.681391,
+              41.7341448
+            ],
+            [
+              1.6816366,
+              41.7342256
+            ],
+            [
+              1.6817353,
+              41.7343064
+            ],
+            [
+              1.6818919,
+              41.7344291
+            ],
+            [
+              1.6819403,
+              41.7345012
+            ],
+            [
+              1.6819287,
+              41.7346412
+            ],
+            [
+              1.6819014,
+              41.7346833
+            ]
           ],
           [
-            1.6806368,
-            41.7342372
-          ],
-          [
-            1.680749,
-            41.734051
-          ],
-          [
-            1.680925,
-            41.734012
-          ],
-          [
-            1.6811744,
-            41.7340597
-          ],
-          [
-            1.681391,
-            41.7341448
-          ],
-          [
-            1.6816366,
-            41.7342256
-          ],
-          [
-            1.6817353,
-            41.7343064
-          ],
-          [
-            1.6818919,
-            41.7344291
-          ],
-          [
-            1.6819403,
-            41.7345012
-          ],
-          [
-            1.6819287,
-            41.7346412
-          ],
-          [
-            1.6819014,
-            41.7346833
+            [
+              1.6819014,
+              41.7346833
+            ],
+            [
+              1.6818726,
+              41.7347278
+            ],
+            [
+              1.681772,
+              41.7347798
+            ],
+            [
+              1.6816405,
+              41.7347899
+            ]
           ]
         ]
       },
-      "id": "location-of-roman-villa",
+      "id": "osm-location-of-vila-la-romana-de-sant-amanass",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman villa",
-        "link": "http://pleiades.stoa.org/places/623547528/location-of-roman-villa"
+        "title": "OSM location of Vil·la romana de Sant Amanç",
+        "link": "http://pleiades.stoa.org/places/623547528/osm-location-of-vila-la-romana-de-sant-amanass"
       }
     }
   ]

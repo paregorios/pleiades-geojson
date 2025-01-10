@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.35676661552,
-          55.0072271165
+          -2.35676545776,
+          55.0072253083
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3567643,
+          55.0072235
+        ]
+      },
+      "id": "osm-location-of-milecastle-38",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 38",
+        "link": "http://pleiades.stoa.org/places/967060234/osm-location-of-milecastle-38"
       }
     },
     {

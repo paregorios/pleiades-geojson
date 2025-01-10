@@ -12,14 +12,17 @@
   "connectsWith": [
     "91358"
   ],
+  "names": [
+    "Turret 49B (Birdoswald)"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.60885239079,
-          54.9889169298
+          -2.60885119539,
+          54.9889150149
         ]
       },
       "properties": {
@@ -66,6 +69,23 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060305/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.60885,
+          54.9889131
+        ]
+      },
+      "id": "osm-location-of-turret-49b",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 49B",
+        "link": "http://pleiades.stoa.org/places/967060305/osm-location-of-turret-49b"
       }
     }
   ]

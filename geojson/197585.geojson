@@ -3,10 +3,10 @@
   "title": "Volgum",
   "id": "197585",
   "bbox": [
-    17.244062,
-    46.7096385,
-    17.2465316,
-    46.71162
+    17.2432308,
+    46.7095723,
+    17.2489955,
+    46.7134091
   ],
   "description": "A fortified Roman settlement located 7 km south of the city of Keszthely, Hungary.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.2452968,
-          46.71062925
+          17.2461339984,
+          46.7114701017
         ]
       },
       "properties": {
@@ -28,36 +28,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          17.244062,
-          46.71162
+          [
+            17.2489955,
+            46.7099243
+          ],
+          [
+            17.2486024,
+            46.7117243
+          ],
+          [
+            17.2482345,
+            46.7134091
+          ],
+          [
+            17.2458004,
+            46.7131877
+          ],
+          [
+            17.2432308,
+            46.7129539
+          ],
+          [
+            17.2436383,
+            46.7112171
+          ],
+          [
+            17.2440242,
+            46.7095723
+          ],
+          [
+            17.246507,
+            46.7097481
+          ],
+          [
+            17.2489955,
+            46.7099243
+          ]
         ]
       },
-      "id": "darmc-location-15433",
+      "id": "osm-location-of-valcum-castrum-ra3mai-katonai-ta-1",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15433",
-        "link": "http://pleiades.stoa.org/places/197585/darmc-location-15433"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.2465316,
-          46.7096385
-        ]
-      },
-      "id": "osm-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of Római castrum Fenekpuszta",
-        "link": "http://pleiades.stoa.org/places/197585/osm-location"
+        "title": "OSM location of Valcum castrum - római katonai tábor",
+        "link": "http://pleiades.stoa.org/places/197585/osm-location-of-valcum-castrum-ra3mai-katonai-ta-1"
       }
     }
   ]

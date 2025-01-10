@@ -3,10 +3,10 @@
   "title": "Tagliata Etrusca",
   "id": "293747172",
   "bbox": [
-    11.2932143,
-    42.4072445,
-    11.2932143,
-    42.4072445
+    11.2929969,
+    42.4067057,
+    11.2948444,
+    42.4105815
   ],
   "description": "A rock-cut canal located at the port of ancient Cosa.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.2932143,
-          42.4072445
+          11.2935791201,
+          42.4089711673
         ]
       },
       "properties": {
@@ -28,19 +28,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.2932143,
-          42.4072445
+          [
+            11.2948444,
+            42.4105334
+          ],
+          [
+            11.2940167,
+            42.4105815
+          ],
+          [
+            11.2938719,
+            42.4105664
+          ],
+          [
+            11.2938031,
+            42.4105137
+          ],
+          [
+            11.2937684,
+            42.4103523
+          ],
+          [
+            11.2936718,
+            42.4096203
+          ],
+          [
+            11.2936097,
+            42.4092073
+          ],
+          [
+            11.2935409,
+            42.408862
+          ],
+          [
+            11.2935046,
+            42.4087412
+          ],
+          [
+            11.2933998,
+            42.4084506
+          ],
+          [
+            11.293159,
+            42.4081357
+          ],
+          [
+            11.2930611,
+            42.4080747
+          ],
+          [
+            11.2930163,
+            42.4080125
+          ],
+          [
+            11.2929969,
+            42.4078459
+          ],
+          [
+            11.2929984,
+            42.4076107
+          ],
+          [
+            11.2930196,
+            42.4074223
+          ],
+          [
+            11.2930912,
+            42.4073176
+          ],
+          [
+            11.293179,
+            42.4072258
+          ],
+          [
+            11.293198,
+            42.4071624
+          ],
+          [
+            11.2931944,
+            42.4068968
+          ],
+          [
+            11.2932125,
+            42.4067815
+          ],
+          [
+            11.2931229,
+            42.4067057
+          ]
         ]
       },
-      "id": "location-of-tagliata-etrusca",
+      "id": "osm-location-tagliata-etrusca",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Tagliata Etrusca",
-        "link": "http://pleiades.stoa.org/places/293747172/location-of-tagliata-etrusca"
+        "title": "OSM location: Tagliata Etrusca",
+        "link": "http://pleiades.stoa.org/places/293747172/osm-location-tagliata-etrusca"
       }
     }
   ]

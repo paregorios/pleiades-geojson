@@ -3,10 +3,10 @@
   "title": "Lavatris",
   "id": "89224",
   "bbox": [
-    -2.016957,
-    54.512304,
-    -2.007831,
-    54.517008
+    -2.0134968,
+    54.5161805,
+    -2.0134968,
+    54.5161805
   ],
   "description": "Roman fort near Bowes.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.012394,
-          54.514656
+          -2.0134968,
+          54.5161805
         ]
       },
       "properties": {
@@ -30,34 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.007831,
-          54.517008
+          -2.0134968,
+          54.5161805
         ]
       },
-      "id": "darmc-location-19147",
+      "id": "osm-location-of-lavatrae-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19147",
-        "link": "http://pleiades.stoa.org/places/89224/darmc-location-19147"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.016957,
-          54.512304
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/89224/dare-location"
+        "title": "OSM location of Lavatrae Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89224/osm-location-of-lavatrae-roman-fort"
       }
     }
   ]

@@ -19,12 +19,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.32367380505,
-          54.5214081466
+          -2.32382230253,
+          54.5213701233
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3239708,
+          54.5213321
+        ]
+      },
+      "id": "osm-location-of-verterae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Verterae",
+        "link": "http://pleiades.stoa.org/places/89312/osm-location-of-verterae"
       }
     },
     {
@@ -55,13 +72,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-approximate-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89312/boundary-of-fort-walls"
+        "title": "Imagery Location: Approximate boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89312/imagery-location-approximate-boundary-of-fort-walls"
       }
     }
   ]

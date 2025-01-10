@@ -5,8 +5,8 @@
   "bbox": [
     -1.826704,
     55.001543,
-    -1.824495,
-    55.003153
+    -1.8244551,
+    55.0032381
   ],
   "description": "The fourth fort on Hadrian's Wall, after Segedunum (Wallsend), Pons Aelius (Newcastle), and Condercum (Benwell).",
   "connectsWith": [
@@ -23,12 +23,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.82546387692,
-          55.0023775366
+          -1.82548516757,
+          55.0024010456
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8265843,
+            55.0018659
+          ],
+          [
+            -1.8264073,
+            55.0026143
+          ],
+          [
+            -1.8262115,
+            55.0032381
+          ],
+          [
+            -1.8245459,
+            55.0030396
+          ],
+          [
+            -1.8244551,
+            55.0030253
+          ],
+          [
+            -1.8246438,
+            55.0023682
+          ],
+          [
+            -1.8248676,
+            55.0016438
+          ],
+          [
+            -1.8265843,
+            55.0018659
+          ]
+        ]
+      },
+      "id": "osm-location-of-vindobala",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vindobala",
+        "link": "http://pleiades.stoa.org/places/89315/osm-location-of-vindobala"
       }
     },
     {
@@ -39,13 +86,13 @@
           55.00241
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "pastscape-location-centerpoint-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89315/centerpoint-of-the-ancient-site"
+        "title": "PastScape Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89315/pastscape-location-centerpoint-of-the-ancient-site"
       }
     },
     {
@@ -81,13 +128,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89315/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89315/imagery-location-boundary-of-fort-walls"
       }
     }
   ]

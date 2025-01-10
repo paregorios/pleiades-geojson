@@ -3,10 +3,10 @@
   "title": "Sava di Baronissi",
   "id": "433107",
   "bbox": [
-    14.771767,
-    40.7476867945,
-    14.7792687878,
-    40.748795
+    14.7824363,
+    40.7456287,
+    14.7824363,
+    40.7456287
   ],
   "description": "An ancient place, cited: BAtlas 44 G4 Sava di Baronissi",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7755178939,
-          40.7482408973
+          14.7824363,
+          40.7456287
         ]
       },
       "properties": {
@@ -27,34 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.771767,
-          40.748795
+          14.7824363,
+          40.7456287
         ]
       },
-      "id": "darmc-location-7962",
+      "id": "osm-location-of-villa-romana",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7962",
-        "link": "http://pleiades.stoa.org/places/433107/darmc-location-7962"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.77926878783569,
-          40.7476867945411
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/433107/dare-location"
+        "title": "OSM location of Villa Romana",
+        "link": "http://pleiades.stoa.org/places/433107/osm-location-of-villa-romana"
       }
     }
   ]

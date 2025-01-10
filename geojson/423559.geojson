@@ -5,8 +5,8 @@
   "bbox": [
     12.5540048,
     41.8468774,
-    12.5601627,
-    41.8507059
+    12.8401811,
+    41.9505452
   ],
   "description": "Aqua Anio Novus is an ancient aqueduct supplying the city of Rome. Begun by Caius in A.D. 38, it was completed and dedicated by Claudius in A.D. 52.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5570530293,
-          41.8487461932
+          12.6985061251,
+          41.8993488506
         ]
       },
       "properties": {
@@ -86,6 +86,61 @@
         "location_precision": "precise",
         "title": "OSM location of Acquedotti Claudio e Anio novus",
         "link": "http://pleiades.stoa.org/places/423559/location-of-aqueduct"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8398138,
+            41.9493481
+          ],
+          [
+            12.8397845,
+            41.9493524
+          ],
+          [
+            12.8397611,
+            41.9493559
+          ],
+          [
+            12.8397662,
+            41.9493749
+          ],
+          [
+            12.8398599,
+            41.9497489
+          ],
+          [
+            12.8401208,
+            41.9505452
+          ],
+          [
+            12.8401463,
+            41.9505421
+          ],
+          [
+            12.8401811,
+            41.9505378
+          ],
+          [
+            12.8399085,
+            41.9497456
+          ],
+          [
+            12.8398138,
+            41.9493481
+          ]
+        ]
+      },
+      "id": "osm-location-of-acquedotto-anio-novus",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Acquedotto Anio Novus",
+        "link": "http://pleiades.stoa.org/places/423559/osm-location-of-acquedotto-anio-novus"
       }
     }
   ]

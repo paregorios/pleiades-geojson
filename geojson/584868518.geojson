@@ -3,10 +3,10 @@
   "title": "Villa del Vergigno, Montelupo Fiorentino",
   "id": "584868518",
   "bbox": [
-    11.0628787,
-    43.7065313,
-    11.0628787,
-    43.7065313
+    11.0622963,
+    43.7056462,
+    11.0643122,
+    43.7074374
   ],
   "description": "A large villa rustica inhabited from ca. 100 B.C. to A.D. 500, located near Montelupo Fiorentino in the mid-Arno Valley of northern Tuscany, approximately twenty km west of Florence.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.0628787,
-          43.7065313
+          11.0634314177,
+          43.7064670541
         ]
       },
       "properties": {
@@ -28,19 +28,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.0628787,
-          43.7065313
+          [
+            11.0636639,
+            43.7074374
+          ],
+          [
+            11.0629344,
+            43.706782
+          ],
+          [
+            11.0623658,
+            43.7064175
+          ],
+          [
+            11.0622963,
+            43.706281
+          ],
+          [
+            11.0623231,
+            43.7061647
+          ],
+          [
+            11.0629504,
+            43.7056462
+          ],
+          [
+            11.0630552,
+            43.7056996
+          ],
+          [
+            11.0643122,
+            43.7060181
+          ],
+          [
+            11.0643108,
+            43.7060896
+          ],
+          [
+            11.0642913,
+            43.7070786
+          ],
+          [
+            11.0640357,
+            43.7070629
+          ],
+          [
+            11.063897,
+            43.7070919
+          ],
+          [
+            11.0638138,
+            43.7071253
+          ],
+          [
+            11.0637584,
+            43.7072233
+          ],
+          [
+            11.0636639,
+            43.7074374
+          ]
         ]
       },
-      "id": "location-of-roman-villa",
+      "id": "osm-location-villa-romana-del-virginio",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa romana del Virginio",
-        "link": "http://pleiades.stoa.org/places/584868518/location-of-roman-villa"
+        "title": "OSM location: Villa romana del Virginio",
+        "link": "http://pleiades.stoa.org/places/584868518/osm-location-villa-romana-del-virginio"
       }
     }
   ]

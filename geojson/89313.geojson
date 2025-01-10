@@ -3,7 +3,7 @@
   "title": "Vindolanda",
   "id": "89313",
   "bbox": [
-    -2.361412,
+    -2.361269,
     54.990429,
     -2.359105,
     54.992024
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.36079883305,
-          54.9912906687
+          -2.36022223305,
+          54.9913026187
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.361412,
-          54.991355
+          -2.3602588,
+          54.9913789
         ]
       },
-      "id": "darmc-location-19221",
+      "id": "osm-location-of-castra-vindolanda",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19221",
-        "link": "http://pleiades.stoa.org/places/89313/darmc-location-19221"
+        "title": "OSM location of Castra Vindolanda",
+        "link": "http://pleiades.stoa.org/places/89313/osm-location-of-castra-vindolanda"
       }
     },
     {
@@ -75,13 +75,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89313/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89313/imagery-location-boundary-of-fort-walls"
       }
     }
   ]

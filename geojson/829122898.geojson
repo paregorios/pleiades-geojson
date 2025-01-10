@@ -3,10 +3,10 @@
   "title": "Arch of Trajan at Canosa",
   "id": "829122898",
   "bbox": [
-    16.0462452,
-    41.2275682,
-    16.0462452,
-    41.2275682
+    16.0462758,
+    41.2274487,
+    16.0463547,
+    41.2275634
   ],
   "description": "The Arch of Trajan at Canosa dates to the second century CE.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0462452,
-          41.2275682
+          16.0463152591,
+          41.2275060733
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.0462452,
-          41.2275682
+          [
+            16.0463547,
+            41.2275589
+          ],
+          [
+            16.0463413,
+            41.2274487
+          ],
+          [
+            16.0462758,
+            41.2274533
+          ],
+          [
+            16.0462892,
+            41.2275634
+          ],
+          [
+            16.0463547,
+            41.2275589
+          ]
         ]
       },
-      "id": "location-of-arco-di-traiano",
+      "id": "osm-location-arco-di-traiano",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Arco di Traiano",
-        "link": "http://pleiades.stoa.org/places/829122898/location-of-arco-di-traiano"
+        "title": "OSM location: Arco di Traiano",
+        "link": "http://pleiades.stoa.org/places/829122898/osm-location-arco-di-traiano"
       }
     }
   ]

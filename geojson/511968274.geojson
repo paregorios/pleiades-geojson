@@ -3,10 +3,10 @@
   "title": "Badbury Rings",
   "id": "511968274",
   "bbox": [
-    -2.0556885,
-    50.8270818,
-    -2.0556885,
-    50.8270818
+    -2.0563683,
+    50.8242679,
+    -2.0483109,
+    50.8284988
   ],
   "description": "Badbury Rings is an Iron Age hill fort in Dorset, England.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0556885,
-          50.8270818
+          -2.0523427778,
+          50.8264308708
         ]
       },
       "properties": {
@@ -28,19 +28,109 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.0556885,
-          50.8270818
+          [
+            -2.0529565,
+            50.8284155
+          ],
+          [
+            -2.0521192,
+            50.8284988
+          ],
+          [
+            -2.0512399,
+            50.8284901
+          ],
+          [
+            -2.0502235,
+            50.828323
+          ],
+          [
+            -2.0492444,
+            50.827975
+          ],
+          [
+            -2.0488796,
+            50.8277582
+          ],
+          [
+            -2.0483753,
+            50.8272499
+          ],
+          [
+            -2.0483109,
+            50.8267213
+          ],
+          [
+            -2.0483646,
+            50.8261927
+          ],
+          [
+            -2.0486543,
+            50.825698
+          ],
+          [
+            -2.050446,
+            50.8246204
+          ],
+          [
+            -2.0516798,
+            50.8243493
+          ],
+          [
+            -2.0528492,
+            50.8242679
+          ],
+          [
+            -2.0541045,
+            50.8243696
+          ],
+          [
+            -2.055628,
+            50.824966
+          ],
+          [
+            -2.0563027,
+            50.8257853
+          ],
+          [
+            -2.0563683,
+            50.8264028
+          ],
+          [
+            -2.0561752,
+            50.826945
+          ],
+          [
+            -2.0557675,
+            50.8274397
+          ],
+          [
+            -2.0551345,
+            50.8279479
+          ],
+          [
+            -2.0542333,
+            50.8282732
+          ],
+          [
+            -2.0535037,
+            50.8283681
+          ],
+          [
+            -2.0529565,
+            50.8284155
+          ]
         ]
       },
-      "id": "location-of-badbury-rings",
+      "id": "osm-location-of-badbury-rings",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Badbury Rings",
-        "link": "http://pleiades.stoa.org/places/511968274/location-of-badbury-rings"
+        "title": "OSM location of Badbury Rings",
+        "link": "http://pleiades.stoa.org/places/511968274/osm-location-of-badbury-rings"
       }
     }
   ]

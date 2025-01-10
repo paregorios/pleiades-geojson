@@ -3,10 +3,10 @@
   "title": "Scornavacche",
   "id": "462486",
   "bbox": [
-    14.573623,
-    37.044721,
-    14.573623,
-    37.044721
+    14.5789775,
+    37.0486389,
+    14.5806627,
+    37.0528885
   ],
   "description": "An ancient place, cited: BAtlas 47 F4 Scornavacche",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.573623,
-          37.044721
+          14.5798213877,
+          37.0507125088
         ]
       },
       "properties": {
@@ -25,19 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.573623,
-          37.044721
+          [
+            14.5806627,
+            37.0487685
+          ],
+          [
+            14.5795511,
+            37.0486389
+          ],
+          [
+            14.5789775,
+            37.0526212
+          ],
+          [
+            14.5800426,
+            37.0528885
+          ],
+          [
+            14.5804885,
+            37.0496515
+          ],
+          [
+            14.5805899,
+            37.0496528
+          ],
+          [
+            14.580635,
+            37.049338
+          ],
+          [
+            14.5806041,
+            37.0493361
+          ],
+          [
+            14.5806627,
+            37.0487685
+          ]
         ]
       },
-      "id": "darmc-location-18874",
+      "id": "osm-location-of-scornavacche",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18874",
-        "link": "http://pleiades.stoa.org/places/462486/darmc-location-18874"
+        "title": "OSM location of Scornavacche",
+        "link": "http://pleiades.stoa.org/places/462486/osm-location-of-scornavacche"
       }
     }
   ]

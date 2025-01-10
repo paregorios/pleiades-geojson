@@ -6,7 +6,7 @@
     -2.49962,
     54.993853,
     -2.499497,
-    54.993916
+    54.9939173
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,12 +18,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.49955908163,
-          54.993884619
+          -2.49955139082,
+          54.9938889345
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.4995377,
+            54.9939173
+          ],
+          [
+            -2.4995017,
+            54.9938901
+          ],
+          [
+            -2.4995497,
+            54.9938692
+          ],
+          [
+            -2.4995857,
+            54.9938964
+          ],
+          [
+            -2.4995377,
+            54.9939173
+          ]
+        ]
+      },
+      "id": "osm-location-of-turret-44b-mucklebank",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 44B (Mucklebank)",
+        "link": "http://pleiades.stoa.org/places/967060346/osm-location-of-turret-44b-mucklebank"
       }
     },
     {

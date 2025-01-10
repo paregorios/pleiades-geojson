@@ -3,10 +3,10 @@
   "title": "Roman villa at Santo André de Almoçageme",
   "id": "404080747",
   "bbox": [
-    -9.4679618,
-    38.8000795,
-    -9.4679618,
-    38.8000795
+    -9.4687217,
+    38.7995297,
+    -9.4674133,
+    38.8009215
   ],
   "description": "A Roman villa located in Santo André de Almoçageme, Sintra, Portugal, and occupied from the second to the sixth centuries AD.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.4679618,
-          38.8000795
+          -9.46806211734,
+          38.8001814748
         ]
       },
       "properties": {
@@ -25,19 +25,113 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -9.4679618,
-          38.8000795
+          [
+            -9.4674509,
+            38.7996549
+          ],
+          [
+            -9.4676381,
+            38.7995829
+          ],
+          [
+            -9.4677762,
+            38.7995297
+          ],
+          [
+            -9.4678615,
+            38.7996791
+          ],
+          [
+            -9.4679618,
+            38.7997098
+          ],
+          [
+            -9.467918,
+            38.7997777
+          ],
+          [
+            -9.4680743,
+            38.7998123
+          ],
+          [
+            -9.4681228,
+            38.7997333
+          ],
+          [
+            -9.4684606,
+            38.7998244
+          ],
+          [
+            -9.468373,
+            38.7999456
+          ],
+          [
+            -9.4682838,
+            38.800069
+          ],
+          [
+            -9.4682474,
+            38.8001195
+          ],
+          [
+            -9.468358,
+            38.8002195
+          ],
+          [
+            -9.4684783,
+            38.8003367
+          ],
+          [
+            -9.4685589,
+            38.8004222
+          ],
+          [
+            -9.4686916,
+            38.8005608
+          ],
+          [
+            -9.4687217,
+            38.8006139
+          ],
+          [
+            -9.4686712,
+            38.8006829
+          ],
+          [
+            -9.4685651,
+            38.8009215
+          ],
+          [
+            -9.4676484,
+            38.8003912
+          ],
+          [
+            -9.4674133,
+            38.8001931
+          ],
+          [
+            -9.4675427,
+            38.7998623
+          ],
+          [
+            -9.4675236,
+            38.7997698
+          ],
+          [
+            -9.4674509,
+            38.7996549
+          ]
         ]
       },
-      "id": "location-of-roman-villa",
+      "id": "osm-location-of-villa-romana-de-santo-andra-c-de",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman villa",
-        "link": "http://pleiades.stoa.org/places/404080747/location-of-roman-villa"
+        "title": "OSM location of Villa romana de Santo André de Almoçageme",
+        "link": "http://pleiades.stoa.org/places/404080747/osm-location-of-villa-romana-de-santo-andra-c-de"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Temple of Kalabsha",
   "id": "996473998",
   "bbox": [
-    32.8676847,
-    23.9608438,
-    32.8676847,
-    23.9608438
+    32.8670535,
+    23.9606172,
+    32.8678685,
+    23.9610924
   ],
   "description": "An ancient temple dated ca. 30 BCE was originally located at Bab al-Kalabsha (Gate of Kalabsha), some 50 km south of Aswan. It was relocated to its present site during the construction of the Aswan High Dam with sponsorship from the government of Germany.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.8676847,
-          23.9608438
+          32.8674545631,
+          23.9608546442
         ]
       },
       "properties": {
@@ -28,19 +28,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          32.8676847,
-          23.9608438
+          [
+            32.8671501,
+            23.9610924
+          ],
+          [
+            32.8678218,
+            23.9609135
+          ],
+          [
+            32.8678685,
+            23.9608961
+          ],
+          [
+            32.8678008,
+            23.9607436
+          ],
+          [
+            32.8677447,
+            23.9606172
+          ],
+          [
+            32.867698,
+            23.9606345
+          ],
+          [
+            32.8670535,
+            23.9607971
+          ],
+          [
+            32.8671501,
+            23.9610924
+          ]
         ]
       },
-      "id": "osm-location-of-temple-of-kalabsha",
+      "id": "osm-location-temple-of-kalabsha",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Kalabsha",
-        "link": "http://pleiades.stoa.org/places/996473998/osm-location-of-temple-of-kalabsha"
+        "title": "OSM location: Temple of Kalabsha",
+        "link": "http://pleiades.stoa.org/places/996473998/osm-location-temple-of-kalabsha"
       }
     }
   ]

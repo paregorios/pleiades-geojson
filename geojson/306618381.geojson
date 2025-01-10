@@ -3,10 +3,10 @@
   "title": "Temple of Augustus et Livia",
   "id": "306618381",
   "bbox": [
-    4.8743977,
-    45.5254094,
+    4.8741383,
+    45.5254069,
     4.8744515,
-    45.5255384
+    45.5255399
   ],
   "description": "The so-called Temple of Augustus et Livia dates ca. 10 B.C. and was originally dedicated to Roma and Augustus. The temple was located on the ancient forum of the city. By the fifth century the temple had become a Christian church. It was extensively restored in the nineteenth century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.87441322642,
-          45.5254738522
+          4.87429497557,
+          45.5254734211
         ]
       },
       "properties": {
@@ -31,46 +31,66 @@
         "type": "LineString",
         "coordinates": [
           [
-            4.8744515,
-            45.5254094
+            4.8744,
+            45.5255399
           ],
           [
-            4.8744515,
-            45.5254171
+            4.8744,
+            45.5255383
           ],
           [
-            4.8744499,
-            45.525417
+            4.8744505,
+            45.5255384
           ],
           [
-            4.8743983,
-            45.5254169
-          ],
-          [
-            4.8743977,
-            45.5255314
+            4.8744505,
+            45.5255316
           ],
           [
             4.8744492,
             45.5255316
           ],
           [
-            4.8744505,
-            45.5255316
+            4.8744499,
+            45.525417
           ],
           [
-            4.8744505,
-            45.5255384
+            4.8744515,
+            45.5254171
+          ],
+          [
+            4.8744515,
+            45.5254094
+          ],
+          [
+            4.8744007,
+            45.5254093
+          ],
+          [
+            4.8744007,
+            45.5254076
+          ],
+          [
+            4.874139,
+            45.5254069
+          ],
+          [
+            4.8741383,
+            45.5255392
+          ],
+          [
+            4.8744,
+            45.5255399
           ]
         ]
       },
-      "id": "location-of-temple-of-augustus-et-livia",
+      "id": "osm-location-temple-dauguste-et-de-livie",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Augustus et Livia",
-        "link": "http://pleiades.stoa.org/places/306618381/location-of-temple-of-augustus-et-livia"
+        "title": "OSM location: Temple d'Auguste et de Livie",
+        "link": "http://pleiades.stoa.org/places/306618381/osm-location-temple-dauguste-et-de-livie"
       }
     }
   ]

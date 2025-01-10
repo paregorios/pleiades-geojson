@@ -3,10 +3,10 @@
   "title": "Ermita de la Virgen del Pilar Dam",
   "id": "890174715",
   "bbox": [
-    -1.0092935,
-    41.0774196,
-    -1.0092935,
-    41.0774196
+    -1.0093203,
+    41.0773275,
+    -1.0090849,
+    41.0774345
   ],
   "description": "An early Imperial Roman dam located in Teruel province, Aragon, Spain.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.0092935,
-          41.0774196
+          -1.00919893548,
+          41.0773828801
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.0092935,
-          41.0774196
+          [
+            -1.0090849,
+            41.0773851
+          ],
+          [
+            -1.0090944,
+            41.0773275
+          ],
+          [
+            -1.0093203,
+            41.0773881
+          ],
+          [
+            -1.0093024,
+            41.0774345
+          ],
+          [
+            -1.0090849,
+            41.0773851
+          ]
         ]
       },
-      "id": "location-of-roman-dam",
+      "id": "osm-location-ermita-de-la-virgen-del-pilar-dam",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman dam",
-        "link": "http://pleiades.stoa.org/places/890174715/location-of-roman-dam"
+        "title": "OSM location: Ermita de la Virgen del Pilar Dam",
+        "link": "http://pleiades.stoa.org/places/890174715/osm-location-ermita-de-la-virgen-del-pilar-dam"
       }
     }
   ]
