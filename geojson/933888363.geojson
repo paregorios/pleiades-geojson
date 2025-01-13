@@ -3,10 +3,10 @@
   "title": "Wari-Bateshwar",
   "id": "933888363",
   "bbox": [
-    90.6981963,
-    23.9156451,
-    90.6981963,
-    23.9156451
+    90.7152981,
+    23.9197152,
+    90.7152981,
+    23.9197152
   ],
   "description": "An ancient settlement site located in what is now Bangladesh.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6981963,
-          23.9156451
+          90.7152981,
+          23.9197152
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.6981963,
-          23.9156451
+          90.7152981,
+          23.9197152
         ]
       },
       "id": "narsingdi",

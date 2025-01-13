@@ -3,10 +3,10 @@
   "title": "Tasg(a)etium",
   "id": "187573",
   "bbox": [
-    8.860196,
-    47.659282,
-    8.860196,
-    47.659282
+    8.8588308,
+    47.6559494,
+    8.8588308,
+    47.6559494
   ],
   "description": "A fort and vicus located on the Rhine near the southwest end of Lake Constance. A military outpost was created here in the early first century. The site was likely abandoned at the beginning of the fifth century.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.860196,
-          47.659282
+          8.8588308,
+          47.6559494
         ]
       },
       "properties": {
@@ -32,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.860196,
-          47.659282
+          8.8588308,
+          47.6559494
         ]
       },
-      "id": "darmc-location-15019",
+      "id": "osm-location-of-rapmerkastell-tasgetium",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15019",
-        "link": "http://pleiades.stoa.org/places/187573/darmc-location-15019"
+        "title": "OSM location of Römerkastell Tasgetium",
+        "link": "http://pleiades.stoa.org/places/187573/osm-location-of-rapmerkastell-tasgetium"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Cabu Abbas",
   "id": "973869063",
   "bbox": [
-    9.5207961,
-    40.955607,
-    9.5207961,
-    40.955607
+    9.5208733,
+    40.9556203,
+    9.5208733,
+    40.9556203
   ],
   "description": "A nuragic complex near Olbia, in the province of Sassari.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5207961,
-          40.955607
+          9.5208733,
+          40.9556203
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5207961,
-          40.955607
+          9.5208733,
+          40.9556203
         ]
       },
       "id": "osm-location-of-nuraghe-riu-mulinu-cabu-abbas",

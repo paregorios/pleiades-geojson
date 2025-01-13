@@ -3,6 +3,9 @@
   "title": "Sabata/Sabatini",
   "id": "438822",
   "description": "An ancient place, cited: BAtlas 44 unlocated *Sabata/Sabatini",
+  "connectsWith": [
+    "432754"
+  ],
   "names": [
     "Sabata",
     "Sabatini"

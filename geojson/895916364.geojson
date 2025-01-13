@@ -3,10 +3,10 @@
   "title": "Necropoli del Fusco",
   "id": "895916364",
   "bbox": [
-    15.2590759,
-    37.0750458,
-    15.2590759,
-    37.0750458
+    15.2692337,
+    37.0758562,
+    15.2692337,
+    37.0758562
   ],
   "description": "The Fusco necropolis is the largest and oldest burial area in Greek Syracuse. Located within contrada Canalicchio, the site was excavated by Paolo Orsi in 1893.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2590759,
-          37.0750458
+          15.2692337,
+          37.0758562
         ]
       },
       "properties": {
@@ -33,8 +33,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2590759,
-          37.0750458
+          15.2692337,
+          37.0758562
         ]
       },
       "id": "osm-location-of-the-necropoli-del-fusco",

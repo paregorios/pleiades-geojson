@@ -3,12 +3,12 @@
   "title": "tribus Clustumina",
   "id": "943743265",
   "bbox": [
-    12.413467,
-    41.891775,
+    12.2403118,
+    42.0150826,
     12.646763,
-    42.560247
+    43.4574214
   ],
-  "description": "The tribus Clustumina (or Crustumina) was a rural tribe of Rome which was established in 495 B.C. ",
+  "description": "The tribus Clustumina (or Crustumina) was a rural tribe of Rome which was established in 495 B.C.",
   "connectsWith": [
     "423025",
     "432900",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.524107,
-          42.2560854
+          12.6436548,
+          42.56219435
         ]
       },
       "properties": {

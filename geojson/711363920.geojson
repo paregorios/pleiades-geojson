@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Haltwhistle Burn Temporary Camp 4",
+  "id": "711363920",
+  "bbox": [
+    -2.4485189,
+    54.9917574,
+    -2.4485189,
+    54.9917574
+  ],
+  "description": "The archaeological remains of Haltwhistle Burn Temporary Camp 4 are visible as a standing earthwork.",
+  "connectsWith": [
+    "9324677"
+  ],
+  "names": [
+    "Haltwhistle Burn 4 Roman temporary camp"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4485189,
+          54.9917574
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4485189,
+          54.9917574
+        ]
+      },
+      "id": "osm-location-of-haltwhistle-burn-temporary-camp-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Haltwhistle Burn Temporary Camp 4",
+        "link": "http://pleiades.stoa.org/places/711363920/osm-location-of-haltwhistle-burn-temporary-camp-4"
+      }
+    }
+  ]
+}

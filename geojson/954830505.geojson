@@ -4,8 +4,8 @@
   "id": "954830505",
   "bbox": [
     -1.8951844,
-    42.6771657,
-    -1.8949172,
+    42.6752951,
+    -1.8930308,
     42.6774808
   ],
   "description": "Remains of a Roman bridge and paved road.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8950508,
-          42.67732325
+          -1.89456313883,
+          42.6767389687
         ]
       },
       "properties": {

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Patronus tomb",
   "id": "52737372",
+  "bbox": [
+    12.5023027,
+    41.8763933,
+    12.5026073,
+    41.8766515
+  ],
   "description": "A painted tomb located near the Porta Latina in Rome. The tomb's owner, Patronus, is identified as a Greek physician of the first century CE.",
   "connectsWith": [
     "423025",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5024654682,
+          41.8765146357
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

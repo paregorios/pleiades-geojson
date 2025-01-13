@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Asiane (Byzantine diocese)",
   "id": "1001134",
+  "bbox": [
+    25.0,
+    35.0,
+    30.0,
+    40.0
+  ],
   "description": "Byzantine diocese",
   "names": [
     "Asiane"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5,
+          37.5
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

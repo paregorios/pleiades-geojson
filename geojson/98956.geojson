@@ -3,10 +3,10 @@
   "title": "Fectio",
   "id": "98956",
   "bbox": [
-    5.164175,
-    52.058481,
-    5.172348,
-    52.063106
+    5.1599107,
+    52.0566644,
+    5.1638177,
+    52.0587978
   ],
   "description": "Fectio was a castellum along the Roman frontier system (limes) of Germania Inferior.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.1682615,
-          52.0607935
+          5.16186633756,
+          52.0577189844
         ]
       },
       "properties": {
@@ -31,36 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.172348,
-          52.063106
+          [
+            5.1622902,
+            52.0587978
+          ],
+          [
+            5.1638177,
+            52.0575698
+          ],
+          [
+            5.1614235,
+            52.0566644
+          ],
+          [
+            5.1599107,
+            52.0578314
+          ],
+          [
+            5.1622902,
+            52.0587978
+          ]
         ]
       },
-      "id": "darmc-location-7750",
+      "id": "osm-location-of-castellum-fectio",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7750",
-        "link": "http://pleiades.stoa.org/places/98956/darmc-location-7750"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.164175,
-          52.058481
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/98956/dare-location"
+        "title": "OSM location of Castellum Fectio",
+        "link": "http://pleiades.stoa.org/places/98956/osm-location-of-castellum-fectio"
       }
     }
   ]

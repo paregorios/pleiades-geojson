@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mahalibeh Castle",
+  "id": "99995226",
+  "bbox": [
+    36.0860344,
+    35.5073286,
+    36.0887199,
+    35.5090919
+  ],
+  "description": "Mahalibeh Castle in Syria dates to the 11th century. The castle was surrendered to al-Zahir Ghazi, the son of Saladin, by 1194.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0872896663,
+          35.5080647218
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.0872757,
+            35.5088065
+          ],
+          [
+            36.0870648,
+            35.5087749
+          ],
+          [
+            36.0869472,
+            35.5088197
+          ],
+          [
+            36.0865915,
+            35.5090919
+          ],
+          [
+            36.0862325,
+            35.5088238
+          ],
+          [
+            36.0860344,
+            35.5081842
+          ],
+          [
+            36.0862132,
+            35.507893
+          ],
+          [
+            36.087263,
+            35.5074489
+          ],
+          [
+            36.0884816,
+            35.5073286
+          ],
+          [
+            36.0887199,
+            35.5074806
+          ],
+          [
+            36.0885546,
+            35.5075364
+          ],
+          [
+            36.0882896,
+            35.507882
+          ],
+          [
+            36.0872757,
+            35.5088065
+          ]
+        ]
+      },
+      "id": "osm-location-of-mahalibeh-castle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mahalibeh Castle",
+        "link": "http://pleiades.stoa.org/places/99995226/osm-location-of-mahalibeh-castle"
+      }
+    }
+  ]
+}

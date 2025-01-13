@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Asabon (mountain)",
   "id": "932433",
+  "bbox": [
+    57.2625,
+    23.235,
+    57.2625,
+    23.235
+  ],
   "description": "The Al Hajar Mountains of northeastern Oman and the eastern United Arab Emirates are the highest mountain range in the eastern Arabian peninsula.",
   "names": [
     "Asabon"
@@ -9,20 +15,32 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2625,
+          23.235
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.2625,
+          23.235
+        ]
+      },
+      "id": "osm-location-of-al-hajar-mountains",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/932433/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Al Hajar Mountains",
+        "link": "http://pleiades.stoa.org/places/932433/osm-location-of-al-hajar-mountains"
       }
     }
   ]

@@ -8,7 +8,7 @@
     42.503378,
     42.084655
   ],
-  "description": "An ancient place, cited: BAtlas 88 A2 Vani",
+  "description": "Vani (7th -1st centuries BCE) is an ancient city located in the Colchis Lowlands on the western bank of the Sulori River.",
   "names": [
     "Vani"
   ],
@@ -54,7 +54,7 @@
       "id": "darmc-location-22134",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22134",
         "link": "http://pleiades.stoa.org/places/863918/darmc-location-22134"

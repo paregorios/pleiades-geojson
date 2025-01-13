@@ -3,10 +3,10 @@
   "title": "Memnon Colossi",
   "id": "786066",
   "bbox": [
-    32.572827,
-    25.643487,
-    32.610556,
-    25.720556
+    32.6101898,
+    25.7202338,
+    32.6106937,
+    25.7207647
   ],
   "description": "Two seated, colossal statues of the Pharaoh Amenhotep III at a site on the west bank of the Nile river.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5916915,
-          25.6820215
+          32.6104407907,
+          25.7204979811
         ]
       },
       "properties": {
@@ -29,36 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          32.572827,
-          25.643487
+          [
+            32.6103931,
+            25.7207647
+          ],
+          [
+            32.6101898,
+            25.7203622
+          ],
+          [
+            32.6104877,
+            25.7202338
+          ],
+          [
+            32.6106937,
+            25.7206267
+          ],
+          [
+            32.6103931,
+            25.7207647
+          ]
         ]
       },
-      "id": "darmc-location-16080",
+      "id": "osm-location-of-colossi-of-memnon",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16080",
-        "link": "http://pleiades.stoa.org/places/786066/darmc-location-16080"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.610556,
-          25.720556
-        ]
-      },
-      "id": "location-of-memnon-colossi",
-      "type": "Feature",
-      "properties": {
-        "description": "Coordinates after Wikipedia; verified in Google Earth 2013.",
-        "location_precision": "precise",
-        "title": "Imagery location of Memnon Colossi",
-        "link": "http://pleiades.stoa.org/places/786066/location-of-memnon-colossi"
+        "title": "OSM location of Colossi of Memnon",
+        "link": "http://pleiades.stoa.org/places/786066/osm-location-of-colossi-of-memnon"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Chapel of Hakor",
   "id": "885585406",
   "bbox": [
-    32.6558692,
-    25.7186822,
-    32.6561052,
-    25.7188705
+    32.6558677,
+    25.7186851,
+    32.6561162,
+    25.7188618
   ],
   "description": "Chapel for the Sacred Barque of Amun-Ra in Karnak, established by the Egyptian pharaoh Hakor of the Twenty-ninth dynasty who reigned from 392/1 to 379/8 BCE.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6559869941,
-          25.7187740973
+          32.6559919535,
+          25.7187734245
         ]
       },
       "properties": {

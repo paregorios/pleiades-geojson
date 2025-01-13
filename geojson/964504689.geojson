@@ -3,10 +3,10 @@
   "title": "Walbrook (stream)",
   "id": "964504689",
   "bbox": [
-    -0.090291,
-    51.512795,
-    -0.090291,
-    51.512795
+    -0.0926971,
+    51.509608,
+    -0.081048,
+    51.5215281
   ],
   "description": "Historical water course that ran through the heart of Roman London and flowed into the modern River Thames. Completely built over since the 19th century, it exists only as a subterranean stream and part of the London sewer system.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.090291,
-          51.512795
+          -0.087006640222,
+          51.5156539118
         ]
       },
       "properties": {

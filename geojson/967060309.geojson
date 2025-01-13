@@ -3,8 +3,8 @@
   "title": "Turret 50A (High House)",
   "id": "967060309",
   "bbox": [
-    -2.623407,
-    54.985785,
+    -2.6235635,
+    54.9857417,
     -2.623407,
     54.985785
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.623407,
-          54.985785
+          -2.62348525,
+          54.98576335
         ]
       },
       "properties": {
@@ -30,17 +30,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.6235635,
+          54.9857417
+        ]
+      },
+      "id": "osm-location-of-turret-50a",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 50A",
+        "link": "http://pleiades.stoa.org/places/967060309/osm-location-of-turret-50a"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.623407,
           54.985785
         ]
       },
-      "id": "center-point-of-the-ancient-site",
+      "id": "appoximate-center-point-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060309/center-point-of-the-ancient-site"
+        "title": "Approximate center point of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060309/appoximate-center-point-of-the-ancient-site"
       }
     }
   ]

@@ -4,8 +4,8 @@
   "id": "69567",
   "bbox": [
     -2.552199,
-    49.46466,
-    -2.552199,
+    49.4568142,
+    -2.5389979,
     49.46466
   ],
   "description": "St-Peter-Port is a port city on the island of Guernsey.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.552199,
-          49.46466
+          -2.54559845,
+          49.4607371
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "DARMC location 24871",
         "link": "http://pleiades.stoa.org/places/69567/darmc-location-24871"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5389979,
+          49.4568142
+        ]
+      },
+      "id": "osm-location-of-saint-peter-port",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Saint Peter Port",
+        "link": "http://pleiades.stoa.org/places/69567/osm-location-of-saint-peter-port"
       }
     }
   ]
