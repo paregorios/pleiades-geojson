@@ -8,7 +8,7 @@
     34.586367,
     35.692703
   ],
-  "description": "Third largest island in the Mediterranean Sea.",
+  "description": "Cyprus is the third largest island in the Mediterranean Sea.",
   "connectsWith": [
     "648602",
     "1043",
@@ -28,8 +28,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.1406294139,
-          34.9470616026
+          33.1903984646,
+          34.9991266111
         ]
       },
       "properties": {

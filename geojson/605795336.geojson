@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ušnanis",
   "id": "605795336",
+  "bbox": [
+    34.63,
+    36.9303120368,
+    35.4111353467,
+    37.4
+  ],
   "description": "Ušnanis is a Quean fortress located on the Cilician plain. In the eighth century BC, perhaps only for a short time, Phrygia controlled the territory in which Ušnanis was located. The Assyrian king Sargon II (r. 721-705), after his armies defeated the Phrygian king Midas (= Mitâ of Musku), restored Ušnanis to Que, which was then a province of the Assyrian Empire.",
   "connectsWith": [
     "652445664",
@@ -18,7 +24,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0714001733,
+          37.1359885184
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

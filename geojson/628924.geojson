@@ -4,11 +4,11 @@
   "id": "628924",
   "bbox": [
     34.16499,
-    38.12686,
+    37.248,
     39.76667,
     39.8
   ],
-  "description": "A mountain range of SE Turkey, extending N of the Taurus mountains.",
+  "description": "A mountain range of southeastern Turkey, extending to the north of the Taurus mountains.",
   "names": [
     "Antitaurus M.",
     "Antitaurus",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.4602035667,
-          38.8196045333
+          34.3643,
+          37.248
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Clickimin broch",
   "id": "84840228",
   "bbox": [
-    -1.1653609,
-    60.1490113,
-    -1.1653609,
-    60.1490113
+    -1.1661031,
+    60.1489819,
+    -1.1652375,
+    60.1493852
   ],
   "description": "A Broch tower with other associated Iron Age structures.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.1653609,
-          60.1490113
+          -1.16565466361,
+          60.1491793009
         ]
       },
       "properties": {
