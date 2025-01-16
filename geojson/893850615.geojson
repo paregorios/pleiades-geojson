@@ -3,10 +3,10 @@
   "title": "Worlebury Camp",
   "id": "893850615",
   "bbox": [
-    -2.985153,
-    51.357425,
-    -2.985153,
-    51.357425
+    -2.9866479,
+    51.3575334,
+    -2.9866479,
+    51.3575334
   ],
   "description": "Worlebury Camp is the site of an Iron Age hill fort in Somerset, England.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.985153,
-          51.357425
+          -2.9866479,
+          51.3575334
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.985153,
-          51.357425
+          -2.9866479,
+          51.3575334
         ]
       },
-      "id": "location-of-worlebury-camp",
+      "id": "osm-location-of-worlebury-camp",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after GeoHack.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Worlebury Camp",
-        "link": "http://pleiades.stoa.org/places/893850615/location-of-worlebury-camp"
+        "title": "OSM location of Worlebury Camp",
+        "link": "http://pleiades.stoa.org/places/893850615/osm-location-of-worlebury-camp"
       }
     }
   ]

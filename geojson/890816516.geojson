@@ -39,7 +39,7 @@
       "properties": {
         "description": "A Gallo-Roman bath complex of the third century AD. Location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "location of Thermes de Cluny",
+        "title": "OSM location of Thermes de Cluny",
         "link": "http://pleiades.stoa.org/places/890816516/location-of-thermes-de-cluny"
       }
     }
