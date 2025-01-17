@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.502981,
-          32.5033615
+          35.5030916333,
+          32.5036976
         ]
       },
       "properties": {
@@ -65,6 +65,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/678378/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5033129,
+          32.5043698
+        ]
+      },
+      "id": "5ea5dc-5d15d95ea-5e95d05df",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of תל בית שאן",
+        "link": "http://pleiades.stoa.org/places/678378/5ea5dc-5d15d95ea-5e95d05df"
       }
     }
   ]

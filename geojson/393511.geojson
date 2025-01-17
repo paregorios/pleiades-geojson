@@ -9,6 +9,9 @@
     45.8446684504
   ],
   "description": "An ancient place, cited: BAtlas 40 A1 Venetia",
+  "connectsWith": [
+    "754349602"
+  ],
   "names": [
     "Venetia"
   ],

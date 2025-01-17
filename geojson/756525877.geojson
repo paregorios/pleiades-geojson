@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Altar of Androgeos",
+  "id": "756525877",
+  "bbox": [
+    23.706248,
+    37.937309,
+    23.706248,
+    37.937309
+  ],
+  "description": "The Altar of Androgeos, son of Minos, at Phaleron is described by Pausanias.",
+  "connectsWith": [
+    "580072"
+  ],
+  "names": [
+    "Androgeu bômós tou Minô"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.706248,
+          37.937309
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
     5.0409236,
     52.086177,
     5.0425391,
-    52.0876254
+    52.0876391
   ],
   "description": "A Roman auxiliary fort with associated vicus and port at modern Vleuten-De Meern in the Dutch province of Utrecht.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.04177843755,
-          52.0871731381
+          5.04175404187,
+          52.0871755919
         ]
       },
       "properties": {
