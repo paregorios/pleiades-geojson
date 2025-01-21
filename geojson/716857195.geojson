@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa of Caesar and Maxentius at San Cesareo",
+  "id": "716857195",
+  "bbox": [
+    12.7936787,
+    41.8218447,
+    12.7952109,
+    41.8233503
+  ],
+  "description": "The so-called Villa of Caesar and Maxentius at San Cesareo is located at the 18th mile of the Via Labicana.",
+  "connectsWith": [
+    "422817"
+  ],
+  "names": [
+    "Villa di Cesare e Massenzio a San Cesareo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7945254579,
+          41.8225042513
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7945349,
+            41.8233503
+          ],
+          [
+            12.7938261,
+            41.8221981
+          ],
+          [
+            12.7936787,
+            41.8219439
+          ],
+          [
+            12.7936996,
+            41.8218447
+          ],
+          [
+            12.7946836,
+            41.8218889
+          ],
+          [
+            12.7949746,
+            41.82198
+          ],
+          [
+            12.7950371,
+            41.822111
+          ],
+          [
+            12.7950838,
+            41.8222122
+          ],
+          [
+            12.795099,
+            41.8222435
+          ],
+          [
+            12.7951112,
+            41.8222688
+          ],
+          [
+            12.7951305,
+            41.8223197
+          ],
+          [
+            12.7951517,
+            41.8223782
+          ],
+          [
+            12.7948626,
+            41.8224962
+          ],
+          [
+            12.794936,
+            41.8226911
+          ],
+          [
+            12.7951745,
+            41.8231019
+          ],
+          [
+            12.7952109,
+            41.8231784
+          ],
+          [
+            12.7945349,
+            41.8233503
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-di-cesare-e-massenzio-a-san",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa di Cesare e Massenzio a San Cesareo",
+        "link": "http://pleiades.stoa.org/places/716857195/osm-location-of-villa-di-cesare-e-massenzio-a-san"
+      }
+    }
+  ]
+}

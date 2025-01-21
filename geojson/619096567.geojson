@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Nildelta",
+  "title": "Nile Delta",
   "id": "619096567",
   "bbox": [
     30.0,
@@ -8,7 +8,7 @@
     30.5,
     31.5
   ],
-  "description": "A place from the TAVO Index",
+  "description": "The delta of the Nile River in lower Egypt.",
   "names": [
     "Nildelta"
   ],

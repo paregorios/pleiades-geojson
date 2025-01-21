@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed Roman bridge (Fidenza)",
+  "id": "160277607",
+  "bbox": [
+    10.0571504,
+    44.8669148,
+    10.0573249,
+    44.8671231
+  ],
+  "description": "The remains of an unnamed Roman bridge at Fidenza are located in the public square known as \"piazza Grandi\". The bridge was part of the ancient Via Aemilia and carried the roadway across the Stirone stream. It likely dates to the first century CE.",
+  "connectsWith": [
+    "383648"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0572382139,
+          44.8670213934
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0572471,
+            44.8669148
+          ],
+          [
+            10.0571504,
+            44.867095
+          ],
+          [
+            10.0572344,
+            44.8671231
+          ],
+          [
+            10.0573249,
+            44.8669528
+          ],
+          [
+            10.0572471,
+            44.8669148
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-romano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte romano",
+        "link": "http://pleiades.stoa.org/places/160277607/osm-location-of-ponte-romano"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pasture House Turret 3A",
+  "id": "189058537",
+  "bbox": [
+    -3.2743543,
+    54.9318589,
+    -3.2721174,
+    54.9329264
+  ],
+  "description": "Pasture House turret 3a is located 386 meters west of Pasture House Farm. Its archaeological remains are preserved as an earthwork. The site was once part of the Roman Cumbrian coastal defense system.",
+  "connectsWith": [
+    "579047271"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.27325887631,
+          54.9323912193
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.2721174,
+            54.9322696
+          ],
+          [
+            -3.2726381,
+            54.9329264
+          ],
+          [
+            -3.2743543,
+            54.9325423
+          ],
+          [
+            -3.274,
+            54.9318589
+          ],
+          [
+            -3.2721174,
+            54.9322696
+          ]
+        ]
+      },
+      "id": "osm-location-of-pasture-house-farm",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pasture House Farm",
+        "link": "http://pleiades.stoa.org/places/189058537/osm-location-of-pasture-house-farm"
+      }
+    }
+  ]
+}

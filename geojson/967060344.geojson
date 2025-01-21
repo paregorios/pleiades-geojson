@@ -6,7 +6,7 @@
     -2.511006,
     54.99062,
     -2.510882,
-    54.990686
+    54.9906904
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.51094308293,
-          54.9906528877
+          -2.51094244146,
+          54.9906562439
         ]
       },
       "properties": {
@@ -66,6 +66,41 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060344/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.5109976,
+            54.9906636
+          ],
+          [
+            -2.5109585,
+            54.9906288
+          ],
+          [
+            -2.510886,
+            54.9906556
+          ],
+          [
+            -2.5109251,
+            54.9906904
+          ],
+          [
+            -2.5109976,
+            54.9906636
+          ]
+        ]
+      },
+      "id": "osm-location-of-turret-45a-walltown",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Turret 45A (Walltown)",
+        "link": "http://pleiades.stoa.org/places/967060344/osm-location-of-turret-45a-walltown"
       }
     }
   ]

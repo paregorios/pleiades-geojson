@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.989428,
-          31.839295
+          34.9894068333,
+          31.8392950333
         ]
       },
       "properties": {
@@ -59,6 +59,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/687891/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9893645,
+          31.8392951
+        ]
+      },
+      "id": "osm-location-of-emmaus-nicopolis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Emmaus Nicopolis",
+        "link": "http://pleiades.stoa.org/places/687891/osm-location-of-emmaus-nicopolis"
       }
     }
   ]

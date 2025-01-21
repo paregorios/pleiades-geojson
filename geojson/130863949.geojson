@@ -3,10 +3,10 @@
   "title": "Gallo-Roman amphitheater at Grannum",
   "id": "130863949",
   "bbox": [
-    5.49096,
-    48.385249,
-    5.49096,
-    48.385249
+    5.4900471,
+    48.3846384,
+    5.4920039,
+    48.3857756
   ],
   "description": "The Gallo-Roman amphitheater at Grannum dates to the late first century B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.49096,
-          48.385249
+          5.49100837822,
+          48.3852004654
         ]
       },
       "properties": {
@@ -41,6 +41,129 @@
         "location_precision": "precise",
         "title": "Imagery location of Gallo-Roman amphitheater",
         "link": "http://pleiades.stoa.org/places/130863949/gallo-roman-theater"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.4900471,
+            48.385047
+          ],
+          [
+            5.4901732,
+            48.3848725
+          ],
+          [
+            5.4902339,
+            48.3848226
+          ],
+          [
+            5.4903403,
+            48.3847458
+          ],
+          [
+            5.4904163,
+            48.3847096
+          ],
+          [
+            5.4904813,
+            48.3847186
+          ],
+          [
+            5.4906135,
+            48.3846774
+          ],
+          [
+            5.4907418,
+            48.3846518
+          ],
+          [
+            5.4908956,
+            48.3846384
+          ],
+          [
+            5.4910029,
+            48.3846384
+          ],
+          [
+            5.4911186,
+            48.3846482
+          ],
+          [
+            5.491252,
+            48.3846751
+          ],
+          [
+            5.4914466,
+            48.3847251
+          ],
+          [
+            5.4915912,
+            48.3847935
+          ],
+          [
+            5.4917369,
+            48.3848814
+          ],
+          [
+            5.491829,
+            48.3849551
+          ],
+          [
+            5.4919083,
+            48.385025
+          ],
+          [
+            5.491964,
+            48.3851091
+          ],
+          [
+            5.4919899,
+            48.3851884
+          ],
+          [
+            5.4920039,
+            48.3852854
+          ],
+          [
+            5.4919813,
+            48.3853884
+          ],
+          [
+            5.4919395,
+            48.3854998
+          ],
+          [
+            5.4918711,
+            48.3856188
+          ],
+          [
+            5.4917369,
+            48.3857756
+          ],
+          [
+            5.4900552,
+            48.3852073
+          ],
+          [
+            5.4901383,
+            48.3850844
+          ],
+          [
+            5.4900471,
+            48.385047
+          ]
+        ]
+      },
+      "id": "osm-location-of-amphitha-c-ac-tre-de-grand",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Amphithéâtre de Grand",
+        "link": "http://pleiades.stoa.org/places/130863949/osm-location-of-amphitha-c-ac-tre-de-grand"
       }
     }
   ]

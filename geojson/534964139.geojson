@@ -3,10 +3,10 @@
   "title": "Tall Ziyāda",
   "id": "534964139",
   "bbox": [
-    40.0,
-    36.0,
-    41.0,
-    37.0
+    40.844142,
+    36.411153,
+    40.844142,
+    36.411153
   ],
   "description": "A place from the TAVO Index",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.5,
-          36.5
+          40.844142,
+          36.411153
         ]
       },
       "properties": {
@@ -29,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              40.0,
-              36.0
-            ],
-            [
-              40.0,
-              37.0
-            ],
-            [
-              41.0,
-              37.0
-            ],
-            [
-              41.0,
-              36.0
-            ],
-            [
-              40.0,
-              36.0
-            ]
-          ]
+          40.844142,
+          36.411153
         ]
       },
-      "id": "gane-location-60336",
+      "id": "imagery-location",
       "type": "Feature",
       "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 60336",
-        "link": "http://pleiades.stoa.org/places/534964139/gane-location-60336"
+        "description": "ID by excavation director from an old satellite image on Google Earth (personal communication), verified in Google Earth. Historical imagery on GE indicates that the site was surrounded or inundated by the reservoir behind the \"Hassakeh South\" between 2018 and 2021 but not during the period 2022-2024.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/534964139/imagery-location"
       }
     }
   ]

@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.60242221492,
-          54.9894681243
+          -2.60241733329,
+          54.9894646982
         ]
       },
       "properties": {
@@ -32,19 +32,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.602448,
-          54.989458
+          [
+            -2.6037598,
+            54.9899863
+          ],
+          [
+            -2.6036257,
+            54.9901155
+          ],
+          [
+            -2.6025045,
+            54.9902648
+          ],
+          [
+            -2.6019627,
+            54.9903094
+          ],
+          [
+            -2.601842,
+            54.9902587
+          ],
+          [
+            -2.6017896,
+            54.9901883
+          ],
+          [
+            -2.6010573,
+            54.9889372
+          ],
+          [
+            -2.6010829,
+            54.9888991
+          ],
+          [
+            -2.6011445,
+            54.9888565
+          ],
+          [
+            -2.602753,
+            54.9885477
+          ],
+          [
+            -2.6028364,
+            54.9885598
+          ],
+          [
+            -2.6029077,
+            54.9885906
+          ],
+          [
+            -2.6032964,
+            54.9892766
+          ],
+          [
+            -2.6037598,
+            54.9899863
+          ]
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "osm-location-of-birdoswald-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89109/centerpoint-of-the-ancient-site"
+        "title": "OSM location of Birdoswald Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89109/osm-location-of-birdoswald-roman-fort"
       }
     },
     {
@@ -80,13 +134,30 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89109/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89109/imagery-location-boundary-of-fort-walls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.602448,
+          54.989458
+        ]
+      },
+      "id": "imagery-location-centerpoint-of-the-ancient-site",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89109/imagery-location-centerpoint-of-the-ancient-site"
       }
     }
   ]

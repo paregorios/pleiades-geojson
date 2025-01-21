@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nebelivka",
+  "id": "783634737",
+  "bbox": [
+    30.5445606,
+    48.6313943,
+    30.5682888,
+    48.6496983
+  ],
+  "description": "Nebelivka is a Neolithic-period archaeological site in Ukraine.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5570429577,
+          48.6411831843
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.5647523,
+            48.6461001
+          ],
+          [
+            30.5643875,
+            48.6467097
+          ],
+          [
+            30.5613405,
+            48.6481274
+          ],
+          [
+            30.5578215,
+            48.6491907
+          ],
+          [
+            30.5547745,
+            48.6496443
+          ],
+          [
+            30.5497295,
+            48.6496983
+          ],
+          [
+            30.5478008,
+            48.6490489
+          ],
+          [
+            30.5458966,
+            48.6475681
+          ],
+          [
+            30.5451215,
+            48.6464761
+          ],
+          [
+            30.5447179,
+            48.6457596
+          ],
+          [
+            30.5445606,
+            48.6452495
+          ],
+          [
+            30.5475862,
+            48.639805
+          ],
+          [
+            30.5508263,
+            48.6365012
+          ],
+          [
+            30.5555255,
+            48.6338495
+          ],
+          [
+            30.5586369,
+            48.6324172
+          ],
+          [
+            30.5620232,
+            48.6313943
+          ],
+          [
+            30.5654953,
+            48.6323
+          ],
+          [
+            30.5682888,
+            48.6347267
+          ],
+          [
+            30.5681212,
+            48.6375505
+          ],
+          [
+            30.5671794,
+            48.6404863
+          ],
+          [
+            30.5647523,
+            48.6461001
+          ]
+        ]
+      },
+      "id": "osm-location-of-d-ddegd1d3-4d1-2-nnd-d-nd-nnndod3",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Район трипільського поселення Небелівка",
+        "link": "http://pleiades.stoa.org/places/783634737/osm-location-of-d-ddegd1d3-4d1-2-nnd-d-nd-nnndod3"
+      }
+    }
+  ]
+}

@@ -4,8 +4,8 @@
   "id": "197183",
   "bbox": [
     16.8934120429,
-    43.7361997482,
-    17.1154157547,
+    43.72472,
+    17.12278,
     43.7390551014
   ],
   "description": "Tušnica.",
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.0044200328,
-          43.7377445264
+          17.0636000164,
+          43.7312322632
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.12278,
+          43.72472
+        ]
+      },
+      "id": "location-of-tusnica",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "GeoNames location of Tušnica",
+        "link": "http://pleiades.stoa.org/places/197183/location-of-tusnica"
       }
     },
     {

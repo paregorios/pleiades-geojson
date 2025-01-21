@@ -3,7 +3,7 @@
   "title": "Cilurnum",
   "id": "89144",
   "bbox": [
-    -2.141103,
+    -2.1411114,
     55.024981,
     -2.138174,
     55.026895
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.13979380446,
-          55.02587545
+          -2.13974950563,
+          55.0258943304
         ]
       },
       "properties": {
@@ -33,19 +33,153 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.139952,
-          55.025811
+          [
+            -2.1391901,
+            55.0250518
+          ],
+          [
+            -2.139226,
+            55.025034
+          ],
+          [
+            -2.1392632,
+            55.0250227
+          ],
+          [
+            -2.139296,
+            55.0250185
+          ],
+          [
+            -2.1393189,
+            55.0250156
+          ],
+          [
+            -2.139361,
+            55.0250156
+          ],
+          [
+            -2.1400225,
+            55.0251759
+          ],
+          [
+            -2.1402894,
+            55.0252358
+          ],
+          [
+            -2.140586,
+            55.0253081
+          ],
+          [
+            -2.1406974,
+            55.0253336
+          ],
+          [
+            -2.1410448,
+            55.0254186
+          ],
+          [
+            -2.1410868,
+            55.0254337
+          ],
+          [
+            -2.1411079,
+            55.0254588
+          ],
+          [
+            -2.1411114,
+            55.0254839
+          ],
+          [
+            -2.1405298,
+            55.0262209
+          ],
+          [
+            -2.1405053,
+            55.0262539
+          ],
+          [
+            -2.1404122,
+            55.0263794
+          ],
+          [
+            -2.1400841,
+            55.0268285
+          ],
+          [
+            -2.1400618,
+            55.0268427
+          ],
+          [
+            -2.1400122,
+            55.0268513
+          ],
+          [
+            -2.1399701,
+            55.026847
+          ],
+          [
+            -2.1392394,
+            55.0266951
+          ],
+          [
+            -2.1389694,
+            55.0266312
+          ],
+          [
+            -2.1389124,
+            55.0266181
+          ],
+          [
+            -2.1383006,
+            55.0264778
+          ],
+          [
+            -2.138256,
+            55.0264636
+          ],
+          [
+            -2.1382337,
+            55.0264423
+          ],
+          [
+            -2.1382461,
+            55.0264168
+          ],
+          [
+            -2.1385528,
+            55.0259274
+          ],
+          [
+            -2.138641,
+            55.025803
+          ],
+          [
+            -2.1386599,
+            55.0257765
+          ],
+          [
+            -2.1388901,
+            55.0254513
+          ],
+          [
+            -2.1389305,
+            55.0254006
+          ],
+          [
+            -2.1391901,
+            55.0250518
+          ]
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "osm-location-of-cilurnum",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89144/centerpoint-of-the-ancient-site"
+        "title": "OSM location of Cilurnum",
+        "link": "http://pleiades.stoa.org/places/89144/osm-location-of-cilurnum"
       }
     },
     {
@@ -81,13 +215,30 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls",
+      "id": "imagery-location-boundary-of-fort-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls",
-        "link": "http://pleiades.stoa.org/places/89144/boundary-of-fort-walls"
+        "title": "Imagery Location: Boundary of fort walls",
+        "link": "http://pleiades.stoa.org/places/89144/imagery-location-boundary-of-fort-walls"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.139952,
+          55.025811
+        ]
+      },
+      "id": "imagery-location-centerpoint-of-the-ancient-site",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Centerpoint of the ancient site",
+        "link": "http://pleiades.stoa.org/places/89144/imagery-location-centerpoint-of-the-ancient-site"
       }
     }
   ]

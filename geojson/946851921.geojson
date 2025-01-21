@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths of Cilurnum",
+  "id": "946851921",
+  "bbox": [
+    -2.1379681,
+    55.0250221,
+    -2.1374811,
+    55.0252876
+  ],
+  "description": "The Roman military bathhouse at Cilurnum.",
+  "connectsWith": [
+    "89144"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13774934914,
+          55.0251616701
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.137846,
+            55.0252671
+          ],
+          [
+            -2.1379027,
+            55.025195
+          ],
+          [
+            -2.1378394,
+            55.0251786
+          ],
+          [
+            -2.1378709,
+            55.0251386
+          ],
+          [
+            -2.1379337,
+            55.0251549
+          ],
+          [
+            -2.1379681,
+            55.0251113
+          ],
+          [
+            -2.1378949,
+            55.0250923
+          ],
+          [
+            -2.1379197,
+            55.0250609
+          ],
+          [
+            -2.1377698,
+            55.0250221
+          ],
+          [
+            -2.1376902,
+            55.0251232
+          ],
+          [
+            -2.1376336,
+            55.0251085
+          ],
+          [
+            -2.1375972,
+            55.0251547
+          ],
+          [
+            -2.13754,
+            55.0251399
+          ],
+          [
+            -2.1374811,
+            55.0252147
+          ],
+          [
+            -2.137763,
+            55.0252876
+          ],
+          [
+            -2.1377905,
+            55.0252527
+          ],
+          [
+            -2.137846,
+            55.0252671
+          ]
+        ]
+      },
+      "id": "osm-location-of-bath-house",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bath-house",
+        "link": "http://pleiades.stoa.org/places/946851921/osm-location-of-bath-house"
+      }
+    }
+  ]
+}

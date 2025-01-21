@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.17550016679,
-          55.0342831434
+          -2.17547838339,
+          55.0342763217
         ]
       },
       "properties": {
@@ -66,6 +66,23 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060332/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1754566,
+          55.0342695
+        ]
+      },
+      "id": "osm-location-of-milecastle-29-tower-tye",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 29 (Tower Tye)",
+        "link": "http://pleiades.stoa.org/places/967060332/osm-location-of-milecastle-29-tower-tye"
       }
     }
   ]

@@ -3,12 +3,12 @@
   "title": "Nigrum Pullum",
   "id": "99014",
   "bbox": [
-    4.727222,
-    52.105833,
-    4.727222,
-    52.105833
+    4.715299,
+    52.1047219,
+    4.7164821,
+    52.1053792
   ],
-  "description": "Nigrum Pullum was a castellum along the Roman frontier in Germania Inferior.",
+  "description": "Nigrum Pullum was a castellum along the Roman frontier in Germania Inferior. The archaeological site is located in modern Zwammerdam in the Netherlands.",
   "names": [
     "Nigrum Pullum",
     "Zwammerdam"
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.727222,
-          52.105833
+          4.71588786447,
+          52.1050251275
         ]
       },
       "properties": {
@@ -29,19 +29,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.727222,
-          52.105833
+          [
+            4.7160575,
+            52.1053792
+          ],
+          [
+            4.715299,
+            52.1050449
+          ],
+          [
+            4.7154039,
+            52.1048579
+          ],
+          [
+            4.7155248,
+            52.1047609
+          ],
+          [
+            4.7156429,
+            52.1047219
+          ],
+          [
+            4.7157536,
+            52.1047224
+          ],
+          [
+            4.7158561,
+            52.1047561
+          ],
+          [
+            4.7162161,
+            52.1049019
+          ],
+          [
+            4.7163538,
+            52.104938
+          ],
+          [
+            4.7164562,
+            52.1049549
+          ],
+          [
+            4.7164821,
+            52.1049734
+          ],
+          [
+            4.7164391,
+            52.1050717
+          ],
+          [
+            4.7163385,
+            52.1051489
+          ],
+          [
+            4.7161085,
+            52.1053069
+          ],
+          [
+            4.7160575,
+            52.1053792
+          ]
         ]
       },
-      "id": "location-of-zwammerdam",
+      "id": "osm-location-of-nigrum-pullum",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Location of Zwammerdam",
-        "link": "http://pleiades.stoa.org/places/99014/location-of-zwammerdam"
+        "title": "OSM location of Nigrum Pullum",
+        "link": "http://pleiades.stoa.org/places/99014/osm-location-of-nigrum-pullum"
       }
     }
   ]

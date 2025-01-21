@@ -3,10 +3,10 @@
   "title": "Battlesbury Camp ",
   "id": "245109545",
   "bbox": [
-    -2.1474033,
-    51.2099003,
-    -2.1474033,
-    51.2099003
+    -2.1508722,
+    51.2077282,
+    -2.1426549,
+    51.2123078
   ],
   "description": "Battlesbury Camp is an Iron Age hillfort located in Wiltshire, England.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1474033,
-          51.2099003
+          -2.14686316662,
+          51.2099164351
         ]
       },
       "properties": {
@@ -25,19 +25,137 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2.1474033,
-          51.2099003
+          [
+            -2.1507454,
+            51.2103129
+          ],
+          [
+            -2.150804,
+            51.2104993
+          ],
+          [
+            -2.1508722,
+            51.2108414
+          ],
+          [
+            -2.1507308,
+            51.2114677
+          ],
+          [
+            -2.1503748,
+            51.2118587
+          ],
+          [
+            -2.1492483,
+            51.2123078
+          ],
+          [
+            -2.1484485,
+            51.2122009
+          ],
+          [
+            -2.1472391,
+            51.2119076
+          ],
+          [
+            -2.1462345,
+            51.2113761
+          ],
+          [
+            -2.1455907,
+            51.2107528
+          ],
+          [
+            -2.1447909,
+            51.2104901
+          ],
+          [
+            -2.1435815,
+            51.2103862
+          ],
+          [
+            -2.142889,
+            51.2102029
+          ],
+          [
+            -2.1426549,
+            51.2100013
+          ],
+          [
+            -2.1426939,
+            51.2093352
+          ],
+          [
+            -2.1430061,
+            51.2088464
+          ],
+          [
+            -2.1435327,
+            51.208382
+          ],
+          [
+            -2.1441765,
+            51.2081009
+          ],
+          [
+            -2.1447227,
+            51.2079604
+          ],
+          [
+            -2.1457078,
+            51.2077282
+          ],
+          [
+            -2.146927,
+            51.2077343
+          ],
+          [
+            -2.1479023,
+            51.2078626
+          ],
+          [
+            -2.1483315,
+            51.2080643
+          ],
+          [
+            -2.148546,
+            51.2083148
+          ],
+          [
+            -2.1488386,
+            51.2089075
+          ],
+          [
+            -2.1494238,
+            51.2093658
+          ],
+          [
+            -2.1498823,
+            51.2096102
+          ],
+          [
+            -2.1503212,
+            51.2098668
+          ],
+          [
+            -2.1505748,
+            51.2100685
+          ],
+          [
+            -2.1507454,
+            51.2103129
+          ]
         ]
       },
-      "id": "location-of-battlesbury-camp-hill-fort",
+      "id": "osm-location-battlesbury-camp-hill-fort",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Battlesbury Camp hill fort",
-        "link": "http://pleiades.stoa.org/places/245109545/location-of-battlesbury-camp-hill-fort"
+        "title": "OSM location: Battlesbury Camp hill fort",
+        "link": "http://pleiades.stoa.org/places/245109545/osm-location-battlesbury-camp-hill-fort"
       }
     }
   ]

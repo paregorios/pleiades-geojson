@@ -3,10 +3,10 @@
   "title": "Colerne",
   "id": "79396",
   "bbox": [
-    -2.260217,
-    51.439258,
-    -2.260217,
-    51.439258
+    -2.273334,
+    51.4448902,
+    -2.273334,
+    51.4448902
   ],
   "description": "An ancient place, cited: BAtlas 8 E3 Colerne",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.260217,
-          51.439258
+          -2.273334,
+          51.4448902
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.260217,
-          51.439258
+          -2.273334,
+          51.4448902
         ]
       },
-      "id": "darmc-location-4469",
+      "id": "osm-location-of-roman-villa",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 4469",
-        "link": "http://pleiades.stoa.org/places/79396/darmc-location-4469"
+        "title": "OSM location of Roman villa",
+        "link": "http://pleiades.stoa.org/places/79396/osm-location-of-roman-villa"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Turret 35A (Sewingshields Crag)",
   "id": "967060230",
   "bbox": [
-    -2.313159,
-    55.024818,
-    -2.313046,
-    55.02488
+    -2.3131769,
+    55.0248072,
+    -2.313059,
+    55.0248703
   ],
   "description": "A turret situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.31310186889,
-          55.0248484499
+          -2.31311795,
+          55.02483875
         ]
       },
       "properties": {
@@ -28,44 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -2.313134,
-              55.024818,
-              0
-            ],
-            [
-              -2.313046,
-              55.024838,
-              0
-            ],
-            [
-              -2.31307,
-              55.02488,
-              0
-            ],
-            [
-              -2.313159,
-              55.024857,
-              0
-            ],
-            [
-              -2.313134,
-              55.024818,
-              0
-            ]
+            -2.3131769,
+            55.0248473
+          ],
+          [
+            -2.3131438,
+            55.0248072
+          ],
+          [
+            -2.313059,
+            55.0248302
+          ],
+          [
+            -2.3130921,
+            55.0248703
+          ],
+          [
+            -2.3131769,
+            55.0248473
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "osm-location-of-turret-35a-sewingshields",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060230/boundary-of-the-ancient-site"
+        "title": "OSM location of Turret 35A (Sewingshields)",
+        "link": "http://pleiades.stoa.org/places/967060230/osm-location-of-turret-35a-sewingshields"
       }
     }
   ]

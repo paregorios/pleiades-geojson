@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kalecik",
+  "id": "230761554",
+  "bbox": [
+    43.338463,
+    38.545341,
+    43.338463,
+    38.545341
+  ],
+  "description": "Kalecik (formerly known as Aralesk or Lesk) is a modern village situated ca. 5 km north of Van Kalesi in southeast Turkey. In the village church, a re-used cylindrical stone (presumably a column base) with a building inscription of the Urartian king Išpuini, son of Sarduri I (ninth century BCE), was found. Furthermore, a re-used stone slab with an inscription of the Urartian king Argišti, son of Minua and grandson of Išpuini (eighth century BCE) has also been found here.",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "Aralesk"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.338463,
+          38.545341
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.338463,
+          38.545341
+        ]
+      },
+      "id": "kalecik",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of modern Kalecik",
+        "link": "http://pleiades.stoa.org/places/230761554/kalecik"
+      }
+    }
+  ]
+}

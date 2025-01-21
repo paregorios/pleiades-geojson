@@ -3,12 +3,12 @@
   "title": "Phosphoros/Lux Dubia (sanctuary)",
   "id": "256363",
   "bbox": [
-    -6.354394,
-    36.778761,
-    -6.354394,
-    36.778761
+    -6.3534794,
+    36.7761393,
+    -6.3534794,
+    36.7761393
   ],
-  "description": "An ancient place, cited: BAtlas 26 D5 Phosphoros/Lux Dubia, T.",
+  "description": "Strabo describes this sanctuary in his narrative of sailing up the Guadalquivir River. His text mentions a sanctuary of Phosphorus - this is likely Diana - that is known as \"Lux Dubia\" (Strabo transliterates \"Lucem dubiam\" to Greek characters, thus λοῦκεμ δουβίαν).",
   "connectsWith": [
     "256038"
   ],
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.354394,
-          36.778761
+          -6.3534794,
+          36.7761393
         ]
       },
       "properties": {
@@ -37,17 +37,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.354394,
-          36.778761
+          -6.3534794,
+          36.7761393
         ]
       },
-      "id": "darmc-location-20622",
+      "id": "osm-location-of-sanlaocar-de-barrameda",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20622",
-        "link": "http://pleiades.stoa.org/places/256363/darmc-location-20622"
+        "title": "OSM location of Sanlúcar de Barrameda",
+        "link": "http://pleiades.stoa.org/places/256363/osm-location-of-sanlaocar-de-barrameda"
       }
     }
   ]

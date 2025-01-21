@@ -9,6 +9,9 @@
     50.4263052
   ],
   "description": "Castle an Dinas is an Iron Age hillfort near St. Columb Major in Cornwall, United Kingdom, built during the third and second centuries BC.",
+  "names": [
+    "Castle an Dinas"
+  ],
   "features": [
     {
       "type": "Feature",

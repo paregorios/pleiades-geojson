@@ -3,10 +3,10 @@
   "title": "*Letocetum",
   "id": "79559",
   "bbox": [
-    -1.8565,
-    52.655807,
-    -1.851016,
-    52.6569
+    -1.8573097,
+    52.6566061,
+    -1.8556354,
+    52.6574233
   ],
   "description": "*Letocetum was an important military post near the junction of Watling Street and Icknield Street.",
   "connectsWith": [
@@ -21,29 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.853758,
-          52.6563535
+          -1.85649755316,
+          52.6569475964
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.851016,
-          52.655807
-        ]
-      },
-      "id": "darmc-location-20429",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 20429",
-        "link": "http://pleiades.stoa.org/places/79559/darmc-location-20429"
       }
     },
     {
@@ -61,6 +44,97 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/79559/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.8573097,
+            52.6569722
+          ],
+          [
+            -1.8567301,
+            52.6571657
+          ],
+          [
+            -1.8564868,
+            52.6572448
+          ],
+          [
+            -1.8562922,
+            52.6572489
+          ],
+          [
+            -1.8562192,
+            52.6572811
+          ],
+          [
+            -1.8559516,
+            52.6574233
+          ],
+          [
+            -1.8556354,
+            52.6571523
+          ],
+          [
+            -1.8560025,
+            52.656947
+          ],
+          [
+            -1.856393,
+            52.6567061
+          ],
+          [
+            -1.8564759,
+            52.6566921
+          ],
+          [
+            -1.8565896,
+            52.6566899
+          ],
+          [
+            -1.8566586,
+            52.6566849
+          ],
+          [
+            -1.8567509,
+            52.6566765
+          ],
+          [
+            -1.8568871,
+            52.6566632
+          ],
+          [
+            -1.857045,
+            52.6566267
+          ],
+          [
+            -1.8571363,
+            52.6566152
+          ],
+          [
+            -1.8571881,
+            52.6566061
+          ],
+          [
+            -1.8572043,
+            52.6567065
+          ],
+          [
+            -1.8573097,
+            52.6569722
+          ]
+        ]
+      },
+      "id": "osm-location-of-letocetum-roman-baths-and-museum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Letocetum Roman Baths and Museum",
+        "link": "http://pleiades.stoa.org/places/79559/osm-location-of-letocetum-roman-baths-and-museum"
       }
     }
   ]

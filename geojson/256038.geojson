@@ -3,10 +3,10 @@
   "title": "Caepionis Monu.",
   "id": "256038",
   "bbox": [
-    -6.354394,
-    36.778761,
-    -6.354394,
-    36.778761
+    -6.4422425,
+    36.7377787,
+    -6.4419245,
+    36.7379933
   ],
   "description": "Caepionis Monumentum (Tower of Caepio) was a tower-cum-lighthouse built by the Roman proconsul Quintus Servilius Caepio in 140 BC. The aim was to make the Salmedina reef at the mouth of the river Baitis (Guadalquivir) navigable. The modern toponym is Chipiona.",
   "connectsWith": [
@@ -14,7 +14,8 @@
   ],
   "names": [
     "Caepionis Monu.",
-    "Scipionis Monu."
+    "Scipionis Monu.",
+    "Kaipíonos pyrgos"
   ],
   "features": [
     {
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.354394,
-          36.778761
+          -6.44208220636,
+          36.7378883315
         ]
       },
       "properties": {
@@ -32,39 +33,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -7.0,
-              36.0
-            ],
-            [
-              -7.0,
-              37.0
-            ],
-            [
-              -6.0,
-              37.0
-            ],
-            [
-              -6.0,
-              36.0
-            ],
-            [
-              -7.0,
-              36.0
-            ]
+            -6.4422252,
+            36.7379541
+          ],
+          [
+            -6.4422425,
+            36.7378585
+          ],
+          [
+            -6.4421911,
+            36.7378527
+          ],
+          [
+            -6.4421993,
+            36.7378058
+          ],
+          [
+            -6.4419573,
+            36.7377787
+          ],
+          [
+            -6.4419245,
+            36.7379668
+          ],
+          [
+            -6.4421615,
+            36.7379933
+          ],
+          [
+            -6.4421699,
+            36.7379486
+          ],
+          [
+            -6.4422252,
+            36.7379541
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-faro-de-chipiona",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/256038/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Faro de Chipiona",
+        "link": "http://pleiades.stoa.org/places/256038/osm-location-of-faro-de-chipiona"
       }
     }
   ]

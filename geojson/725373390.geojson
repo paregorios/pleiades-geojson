@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "title": "Buffa necropolis",
+  "id": "725373390",
+  "bbox": [
+    12.8286627,
+    37.5956429,
+    12.8355287,
+    37.5999725
+  ],
+  "description": "One of the necropoleis of the ancient city of Selinous, on the Buffa hill in contrada Manuzza, to the NE of the ancient city",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8316599322,
+          37.5976349714
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8287618,
+            37.5956653
+          ],
+          [
+            12.8286627,
+            37.595856
+          ],
+          [
+            12.8291157,
+            37.5968655
+          ],
+          [
+            12.829866,
+            37.5974376
+          ],
+          [
+            12.8296112,
+            37.5983237
+          ],
+          [
+            12.8302482,
+            37.598963
+          ],
+          [
+            12.8305314,
+            37.5999725
+          ],
+          [
+            12.8355287,
+            37.5976283
+          ],
+          [
+            12.834382,
+            37.5971123
+          ],
+          [
+            12.8332778,
+            37.5968095
+          ],
+          [
+            12.8325558,
+            37.5964393
+          ],
+          [
+            12.8318763,
+            37.5965178
+          ],
+          [
+            12.8310552,
+            37.5969777
+          ],
+          [
+            12.8304889,
+            37.5969441
+          ],
+          [
+            12.8300642,
+            37.596529
+          ],
+          [
+            12.8291582,
+            37.5956429
+          ],
+          [
+            12.828875,
+            37.5956429
+          ],
+          [
+            12.8287618,
+            37.5956653
+          ]
+        ]
+      },
+      "id": "osm-location-of-buffa-necropolis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Buffa necropolis",
+        "link": "http://pleiades.stoa.org/places/725373390/osm-location-of-buffa-necropolis"
+      }
+    }
+  ]
+}

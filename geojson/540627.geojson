@@ -3,10 +3,10 @@
   "title": "Amphanai?",
   "id": "540627",
   "bbox": [
-    22.954643,
-    39.294909,
-    22.954643,
-    39.294909
+    22.9303273,
+    39.3131108,
+    22.9303273,
+    39.3131108
   ],
   "description": "An ancient place, cited: BAtlas 55 D2 Amphanai?",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.954643,
-          39.294909
+          22.9303273,
+          39.3131108
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.954643,
-          39.294909
+          22.9303273,
+          39.3131108
         ]
       },
-      "id": "darmc-location-11359",
+      "id": "osm-location-of-amphanae",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 11359",
-        "link": "http://pleiades.stoa.org/places/540627/darmc-location-11359"
+        "title": "OSM location of Amphanae",
+        "link": "http://pleiades.stoa.org/places/540627/osm-location-of-amphanae"
       }
     }
   ]

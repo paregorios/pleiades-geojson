@@ -3,10 +3,10 @@
   "title": "Milecastle 35 (Sewingshields)",
   "id": "967060231",
   "bbox": [
-    -2.306769,
-    55.025674,
-    -2.306375,
-    55.025913
+    -2.30683,
+    55.0256423,
+    -2.3063971,
+    55.0258947
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.3065742084,
-          55.0257922815
+          -2.30661566082,
+          55.0257689633
         ]
       },
       "properties": {
@@ -28,44 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -2.306692,
-              55.025674,
-              0
-            ],
-            [
-              -2.306375,
-              55.025713,
-              0
-            ],
-            [
-              -2.306464,
-              55.025913,
-              0
-            ],
-            [
-              -2.306769,
-              55.025871,
-              0
-            ],
-            [
-              -2.306692,
-              55.025674,
-              0
-            ]
+            -2.30683,
+            55.0258556
+          ],
+          [
+            -2.3065313,
+            55.0258947
+          ],
+          [
+            -2.3063971,
+            55.0257007
+          ],
+          [
+            -2.3064195,
+            55.02568
+          ],
+          [
+            -2.3066869,
+            55.0256423
+          ],
+          [
+            -2.3067167,
+            55.0256529
+          ],
+          [
+            -2.30683,
+            55.0258556
           ]
         ]
       },
-      "id": "boundary-of-the-ancient-site",
+      "id": "osm-location-of-milecastle-35-sewingshields",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Boundary of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060231/boundary-of-the-ancient-site"
+        "title": "OSM location of Milecastle 35 (Sewingshields)",
+        "link": "http://pleiades.stoa.org/places/967060231/osm-location-of-milecastle-35-sewingshields"
       }
     }
   ]

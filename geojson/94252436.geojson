@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "paleochristian basilica of Lugdunum Convenarum",
+  "id": "94252436",
+  "bbox": [
+    0.5740961,
+    43.0280998,
+    0.5746249,
+    43.0283658
+  ],
+  "description": "The paleochristian basilica of Saint-Bertrand-de-Comminges.",
+  "connectsWith": [
+    "246477"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.574360849143,
+          43.0282240716
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.5741791,
+            43.0283658
+          ],
+          [
+            0.5745274,
+            43.0282279
+          ],
+          [
+            0.5745178,
+            43.0282179
+          ],
+          [
+            0.574584,
+            43.0281853
+          ],
+          [
+            0.5746249,
+            43.0281453
+          ],
+          [
+            0.5745844,
+            43.0280998
+          ],
+          [
+            0.5745165,
+            43.028114
+          ],
+          [
+            0.5744148,
+            43.028135
+          ],
+          [
+            0.574393,
+            43.0281406
+          ],
+          [
+            0.5740961,
+            43.0282602
+          ],
+          [
+            0.5741791,
+            43.0283658
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilique-pala-c-ochra-c-tienne",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilique Paléochrétienne",
+        "link": "http://pleiades.stoa.org/places/94252436/osm-location-of-basilique-pala-c-ochra-c-tienne"
+      }
+    }
+  ]
+}

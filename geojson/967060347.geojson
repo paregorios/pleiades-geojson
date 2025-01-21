@@ -3,8 +3,8 @@
   "title": "Milecastle 45 (Walltown)",
   "id": "967060347",
   "bbox": [
-    -2.506261,
-    54.992634,
+    -2.5063344,
+    54.9926138,
     -2.505901,
     54.992855
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.50608201063,
-          54.9927460879
+          -2.50610017535,
+          54.9927369759
         ]
       },
       "properties": {
@@ -66,6 +66,41 @@
         "location_precision": "precise",
         "title": "Boundary of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060347/boundary-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.5060403,
+            54.9928383
+          ],
+          [
+            -2.5059061,
+            54.9926799
+          ],
+          [
+            -2.5061756,
+            54.9926138
+          ],
+          [
+            -2.5063344,
+            54.9927744
+          ],
+          [
+            -2.5060403,
+            54.9928383
+          ]
+        ]
+      },
+      "id": "osm-location-of-milecastle-45-walltown",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 45 (Walltown)",
+        "link": "http://pleiades.stoa.org/places/967060347/osm-location-of-milecastle-45-walltown"
       }
     }
   ]

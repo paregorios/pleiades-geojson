@@ -9,6 +9,9 @@
     53.0
   ],
   "description": "An ancient place, cited: BAtlas 8 G2 Metaris Eischusis",
+  "connectsWith": [
+    "20469"
+  ],
   "names": [
     "Metaris Eischusis"
   ],
