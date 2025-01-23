@@ -4,8 +4,8 @@
   "id": "26017958",
   "bbox": [
     -2.1975398,
-    51.565342,
-    -1.720072,
+    51.3539693,
+    -1.0765851,
     51.8590508
   ],
   "description": "A branch Roman road (Margary 41) running from Calleva Atrebatum (modern Silchester) to the legionary fortress at Col. Glevum (Gloucester). Not to be confused with the major north-south road named Ermine Street (Margary 2).",
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.96440855,
-          51.7126020833
+          -1.66396262301,
+          51.581384994
         ]
       },
       "properties": {

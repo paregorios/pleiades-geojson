@@ -3,10 +3,10 @@
   "title": "Metaris Eischusis",
   "id": "79600",
   "bbox": [
-    -1.0,
-    52.0,
-    0.0,
-    53.0
+    0.1835058,
+    52.8737925,
+    0.5122362,
+    53.0849526
   ],
   "description": "An ancient place, cited: BAtlas 8 G2 Metaris Eischusis",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5,
-          52.5
+          0.343072774258,
+          52.9696440818
         ]
       },
       "properties": {
@@ -31,39 +31,117 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              -1.0,
-              52.0
+              0.3625475,
+              53.0849526
             ],
             [
-              -1.0,
-              53.0
+              0.3134536,
+              53.0309425
             ],
             [
-              0.0,
-              53.0
+              0.2790355,
+              53.0160742
             ],
             [
-              0.0,
-              52.0
+              0.2281378,
+              52.9949504
             ],
             [
-              -1.0,
-              52.0
+              0.1962088,
+              52.9884407
+            ],
+            [
+              0.1835058,
+              52.9768655
+            ],
+            [
+              0.1968954,
+              52.9749015
+            ],
+            [
+              0.2180098,
+              52.9724206
+            ],
+            [
+              0.2353476,
+              52.9604275
+            ],
+            [
+              0.2341459,
+              52.9302233
+            ],
+            [
+              0.2245329,
+              52.903622
+            ],
+            [
+              0.2249621,
+              52.8897455
+            ],
+            [
+              0.2272367,
+              52.8855765
+            ],
+            [
+              0.2559469,
+              52.8737925
+            ],
+            [
+              0.2669333,
+              52.8748286
+            ],
+            [
+              0.2719114,
+              52.8870526
+            ],
+            [
+              0.3663252,
+              52.9031043
+            ],
+            [
+              0.3814314,
+              52.895131
+            ],
+            [
+              0.3925894,
+              52.8876741
+            ],
+            [
+              0.4154204,
+              52.8882955
+            ],
+            [
+              0.4676052,
+              52.9343622
+            ],
+            [
+              0.5122362,
+              53.0015631
+            ]
+          ],
+          [
+            [
+              0.3625475,
+              53.0849526
+            ],
+            [
+              0.5122362,
+              53.0015631
             ]
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-of-the-wash",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/79600/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of The Wash",
+        "link": "http://pleiades.stoa.org/places/79600/osm-location-of-the-wash"
       }
     }
   ]

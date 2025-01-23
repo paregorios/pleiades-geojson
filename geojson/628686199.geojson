@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Romano-British villa 250m south of Park Farm",
+  "id": "628686199",
+  "bbox": [
+    0.5090075,
+    52.876187,
+    0.5090075,
+    52.876187
+  ],
+  "description": "A Romano-British villa and its associated features are located to the north-east of the River Ingol and along the ancient route known as the Icknield Way.",
+  "connectsWith": [
+    "487909247"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5090075,
+          52.876187
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5090075,
+          52.876187
+        ]
+      },
+      "id": "osm-location-of-romano-british-villa-250m-south-of",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Romano-British villa 250m south of Park Farm",
+        "link": "http://pleiades.stoa.org/places/628686199/osm-location-of-romano-british-villa-250m-south-of"
+      }
+    }
+  ]
+}
