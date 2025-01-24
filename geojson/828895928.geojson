@@ -3,10 +3,10 @@
   "title": "Caveirac milestone",
   "id": "828895928",
   "bbox": [
-    4.2606573,
-    43.8259253,
-    4.2606573,
-    43.8259253
+    4.2600401,
+    43.8257918,
+    4.2600401,
+    43.8257918
   ],
   "description": "A Roman milestone - (CIL 17-02, no. 256).",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2606573,
-          43.8259253
+          4.2600401,
+          43.8257918
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.2606573,
-          43.8259253
+          4.2600401,
+          43.8257918
         ]
       },
       "id": "osm-location",

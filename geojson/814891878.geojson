@@ -3,12 +3,12 @@
   "title": "tribus Aemilia",
   "id": "814891878",
   "bbox": [
-    12.486137,
+    12.609394,
     41.234601,
     13.933756,
     42.93488
   ],
-  "description": "The tribus Aemilia is counted among the twenty-one oldest rural tribes of Rome. Its location is uncertain. ",
+  "description": "The tribus Aemilia is counted among the twenty-one oldest rural tribes of Rome. Its location is uncertain.",
   "connectsWith": [
     "423025",
     "432900"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.11391925,
-          41.8555845
+          13.932224,
+          41.238254
         ]
       },
       "properties": {
