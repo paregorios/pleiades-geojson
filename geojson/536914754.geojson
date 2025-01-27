@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cowley Roundabout Roman Settlement",
+  "id": "536914754",
+  "bbox": [
+    -2.07753,
+    51.819153,
+    -2.074532,
+    51.820161
+  ],
+  "description": "Roman settlement, with evidence for agricultural, quarrying, and settlement activity during the second to fourth centuries CE, together with a possible mutatio (horse-changing station) along the Roman road linking Glevum (modern Gloucestershire) and Corinium (modern Cirencester).",
+  "names": [
+    "Birdlip"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.076031,
+          51.819657
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07753,
+          51.819153
+        ]
+      },
+      "id": "imagery-location-area 23",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Area 23",
+        "link": "http://pleiades.stoa.org/places/536914754/imagery-location-area 23"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.074532,
+          51.820161
+        ]
+      },
+      "id": "imagery-location-area-22",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Area 22",
+        "link": "http://pleiades.stoa.org/places/536914754/imagery-location-area-22"
+      }
+    }
+  ]
+}

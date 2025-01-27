@@ -3,10 +3,10 @@
   "title": "Torcularium villa",
   "id": "100196697",
   "bbox": [
-    12.4148208,
-    41.8146397,
-    12.4148208,
-    41.8146397
+    12.4142039,
+    41.8138281,
+    12.4153305,
+    41.8147716
   ],
   "description": "A Roman villa of the early second century BC constructed in opus incertum and named because of the presence of a torcularium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4148208,
-          41.8146397
+          12.4147255132,
+          41.8143153632
         ]
       },
       "properties": {

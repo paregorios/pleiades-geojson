@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
+        "title": "OSM location of Terme romane di San Lorenzo",
         "link": "http://pleiades.stoa.org/places/472039/osm-location"
       }
     }

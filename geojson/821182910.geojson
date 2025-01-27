@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Casinum",
   "id": "821182910",
   "bbox": [
-    13.823597,
-    41.4825511,
-    13.823597,
-    41.4825511
+    13.8231835,
+    41.4825436,
+    13.8240081,
+    41.4832327
   ],
   "description": "The Roman amphitheater at Casinum was built thanks to the patronage of Ummidia Quadratilla in the first century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.823597,
-          41.4825511
+          13.823593042,
+          41.4828837145
         ]
       },
       "properties": {

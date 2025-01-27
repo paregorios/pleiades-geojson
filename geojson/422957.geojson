@@ -8,7 +8,10 @@
     12.541577,
     41.892546
   ],
-  "description": "An ancient place, cited: BAtlas 43 C2 Largo Preneste",
+  "description": "A Roman tomb of the second or third century CE.",
+  "connectsWith": [
+    "622606468"
+  ],
   "features": [
     {
       "type": "Feature",
