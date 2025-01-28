@@ -3,14 +3,18 @@
   "title": "Largo Preneste",
   "id": "422957",
   "bbox": [
-    12.541577,
-    41.892546,
-    12.541577,
-    41.892546
+    12.5415463,
+    41.892122,
+    12.5416308,
+    41.8921797
   ],
   "description": "A Roman tomb of the second or third century CE.",
   "connectsWith": [
     "622606468"
+  ],
+  "names": [
+    "Largo Preneste",
+    "Colombario di Largo Preneste"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.541577,
-          41.892546
+          12.5415885156,
+          41.8921508628
         ]
       },
       "properties": {
@@ -28,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.541577,
-          41.892546
+          [
+            12.5415463,
+            41.8921714
+          ],
+          [
+            12.5416207,
+            41.8921797
+          ],
+          [
+            12.5416308,
+            41.8921304
+          ],
+          [
+            12.5415563,
+            41.892122
+          ],
+          [
+            12.5415463,
+            41.8921714
+          ]
         ]
       },
-      "id": "darmc-location-23766",
+      "id": "osm-location-of-colombario-di-largo-preneste",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23766",
-        "link": "http://pleiades.stoa.org/places/422957/darmc-location-23766"
+        "title": "OSM location of Colombario di Largo Preneste",
+        "link": "http://pleiades.stoa.org/places/422957/osm-location-of-colombario-di-largo-preneste"
       }
     }
   ]

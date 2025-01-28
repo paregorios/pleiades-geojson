@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hamadab",
+  "id": "29407544",
+  "bbox": [
+    33.692987,
+    16.9133533,
+    33.695063,
+    16.9163917
+  ],
+  "description": "Hamadab is an important archaeological site of the middle Nile River valley. It is the site of a ruined Kushite city located in what is now Sudan. The settlement was established by the third century BCE and remained active until the fourth century CE.",
+  "connectsWith": [
+    "727172"
+  ],
+  "names": [
+    "Hamadab"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6940398848,
+          16.9147885054
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.6941671,
+            16.9163301
+          ],
+          [
+            33.6947358,
+            16.9157963
+          ],
+          [
+            33.6950147,
+            16.9152779
+          ],
+          [
+            33.695063,
+            16.9147698
+          ],
+          [
+            33.6950308,
+            16.9142207
+          ],
+          [
+            33.6948377,
+            16.9136869
+          ],
+          [
+            33.6941564,
+            16.9133533
+          ],
+          [
+            33.6936629,
+            16.9134303
+          ],
+          [
+            33.6931479,
+            16.9136972
+          ],
+          [
+            33.692987,
+            16.9140051
+          ],
+          [
+            33.6931211,
+            16.9145081
+          ],
+          [
+            33.693164,
+            16.9149905
+          ],
+          [
+            33.6933142,
+            16.9154165
+          ],
+          [
+            33.6933893,
+            16.9158014
+          ],
+          [
+            33.6934751,
+            16.9161145
+          ],
+          [
+            33.6938721,
+            16.9163917
+          ],
+          [
+            33.6941671,
+            16.9163301
+          ]
+        ]
+      },
+      "id": "osm-location-of-hamdab",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hamdab",
+        "link": "http://pleiades.stoa.org/places/29407544/osm-location-of-hamdab"
+      }
+    }
+  ]
+}

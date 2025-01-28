@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bostel",
+  "id": "688740628",
+  "bbox": [
+    11.3841983,
+    45.8534534,
+    11.3852757,
+    45.8545997
+  ],
+  "description": "The archaeological site of Bostel is located in Castelletto, municipality of Rotzo, province of Vicenza. The site is located some 850 meters above sea level. This ancient alpine village was inhabited from the fifth to first centuries BCE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3847936811,
+          45.8540650757
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3841983,
+            45.8539931
+          ],
+          [
+            11.384726,
+            45.8534534
+          ],
+          [
+            11.3850896,
+            45.8536425
+          ],
+          [
+            11.3852757,
+            45.8537457
+          ],
+          [
+            11.3852354,
+            45.8544727
+          ],
+          [
+            11.3851728,
+            45.8545997
+          ],
+          [
+            11.3843371,
+            45.8544291
+          ],
+          [
+            11.3841983,
+            45.8539931
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-del-bostel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area Archeologica del Bostel",
+        "link": "http://pleiades.stoa.org/places/688740628/osm-location-of-area-archeologica-del-bostel"
+      }
+    }
+  ]
+}

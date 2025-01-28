@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus and Episcopal Palace",
+  "id": "292421356",
+  "bbox": [
+    13.3699001,
+    45.7701863,
+    13.3702138,
+    45.7704822
+  ],
+  "description": "Domus and Episcopal Palace at Aquileia. The second phase of the Episcopal Palace at Aquileia belongs to the fourth and fifth centuries CE.",
+  "connectsWith": [
+    "187290"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3700656415,
+          45.7703420037
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.3701113,
+            45.7701863
+          ],
+          [
+            13.3701769,
+            45.7702014
+          ],
+          [
+            13.3702138,
+            45.770238
+          ],
+          [
+            13.3701491,
+            45.7703502
+          ],
+          [
+            13.3700711,
+            45.7704822
+          ],
+          [
+            13.3699001,
+            45.770432
+          ],
+          [
+            13.3699509,
+            45.7703462
+          ],
+          [
+            13.3700166,
+            45.7703649
+          ],
+          [
+            13.370046,
+            45.7703181
+          ],
+          [
+            13.3700818,
+            45.7702598
+          ],
+          [
+            13.3700662,
+            45.7702535
+          ],
+          [
+            13.3701113,
+            45.7701863
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-e-palazzo-episcopale",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus e Palazzo Episcopale",
+        "link": "http://pleiades.stoa.org/places/292421356/osm-location-of-domus-e-palazzo-episcopale"
+      }
+    }
+  ]
+}

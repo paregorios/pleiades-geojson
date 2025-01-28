@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cave of Pan",
+  "id": "486617493",
+  "bbox": [
+    23.7251272,
+    37.9720415,
+    23.7251272,
+    37.9720415
+  ],
+  "description": "A rocky cleft in the north face of the Acropolis, dedicated to Pan",
+  "connectsWith": [
+    "638356144",
+    "870756929",
+    "538107005",
+    "992770796"
+  ],
+  "names": [
+    "tou Panos to aulion",
+    "Cave of Pan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7251272,
+          37.9720415
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7251272,
+          37.9720415
+        ]
+      },
+      "id": "spelaio-panos",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "Σπήλαιο Πανός",
+        "link": "http://pleiades.stoa.org/places/486617493/spelaio-panos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Appiaria (Titular See)",
+  "id": "890261934",
+  "description": "Appiaria, identifiable with the village of Rjahovo in the municipality of Slivo Pole in present-day Bulgaria, is an ancient episcopal see of the Roman province of Moesia Seconda (Inferior) in the civil diocese of Thrace.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

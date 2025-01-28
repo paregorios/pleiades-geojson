@@ -3,10 +3,10 @@
   "title": "Agora of Palmyra",
   "id": "844139526",
   "bbox": [
-    38.267151,
-    34.550502,
-    38.267151,
-    34.550502
+    38.2666281,
+    34.5500702,
+    38.2677796,
+    34.5509728
   ],
   "description": "Agora of the Ancient City of Palmyra.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.267151,
-          34.550502
+          38.2671772422,
+          34.5505110476
         ]
       },
       "properties": {
@@ -41,6 +41,41 @@
         "location_precision": "precise",
         "title": "Imagery Location of the Agora of Palmyra",
         "link": "http://pleiades.stoa.org/places/844139526/imagery-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2666281,
+            34.550431
+          ],
+          [
+            38.2671133,
+            34.5500702
+          ],
+          [
+            38.2677796,
+            34.5506021
+          ],
+          [
+            38.2672889,
+            34.5509728
+          ],
+          [
+            38.2666281,
+            34.550431
+          ]
+        ]
+      },
+      "id": "osm-location-of-agora",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Agora",
+        "link": "http://pleiades.stoa.org/places/844139526/osm-location-of-agora"
       }
     }
   ]

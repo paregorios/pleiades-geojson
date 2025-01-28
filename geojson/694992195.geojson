@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Nocera necropolis",
+  "id": "694992195",
+  "bbox": [
+    14.4938871,
+    40.7493033,
+    14.4938871,
+    40.7493033
+  ],
+  "description": "The Porta Nocera necropolis at Pompeii.",
+  "connectsWith": [
+    "11924821"
+  ],
+  "names": [
+    "Porta Nocera necropolis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4938871,
+          40.7493033
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4938871,
+          40.7493033
+        ]
+      },
+      "id": "osm-location-of-necropoli-di-porta-nocera",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli di Porta Nocera",
+        "link": "http://pleiades.stoa.org/places/694992195/osm-location-of-necropoli-di-porta-nocera"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Ponte Salario",
   "id": "423011",
   "bbox": [
-    12.508333,
-    41.939444,
-    12.508333,
-    41.939444
+    12.5081633,
+    41.9391639,
+    12.5085223,
+    41.9397351
   ],
   "description": "The Ponte Salario is a Medieval bridge with Roman origins. It is located at the point where the Via Salaria crosses the Anio, about 3 km north of the Colline Gate.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.508333,
-          41.939444
+          12.5083388021,
+          41.9394473076
         ]
       },
       "properties": {
@@ -38,6 +38,41 @@
         "location_precision": "precise",
         "title": "Imagery location of the Ponte Salario",
         "link": "http://pleiades.stoa.org/places/423011/location-of-the-ponte-salario"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5081633,
+            41.9397351
+          ],
+          [
+            12.5082165,
+            41.9396473
+          ],
+          [
+            12.5083498,
+            41.9394462
+          ],
+          [
+            12.5084469,
+            41.9392934
+          ],
+          [
+            12.5085223,
+            41.9391639
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-salario",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Salario",
+        "link": "http://pleiades.stoa.org/places/423011/osm-location-of-ponte-salario"
       }
     }
   ]

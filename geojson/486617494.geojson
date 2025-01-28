@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "title": "Skyphoi sanctuary",
+  "id": "486617494",
+  "bbox": [
+    23.7270202,
+    37.9722492,
+    23.7270202,
+    37.9722492
+  ],
+  "description": "A sanctuary north of the Acropolis of Athens, consisting of a platform of the Archaic period, and 200 miniature <i>skyphoi</i> from the 3rd century BC. It is disputed whether it was an independent sanctuary or part of the sanctuary of Eros and Aphrodite.",
+  "connectsWith": [
+    "579885",
+    "925585578"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7270202,
+          37.9722492
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

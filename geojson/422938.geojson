@@ -3,10 +3,10 @@
   "title": "Grotta di Paris",
   "id": "422938",
   "bbox": [
-    12.773526,
-    41.923733,
-    12.773526,
-    41.923733
+    12.7692663,
+    41.923931,
+    12.7692663,
+    41.923931
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Grotta di Paris",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.773526,
-          41.923733
+          12.7692663,
+          41.923931
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.773526,
-          41.923733
+          12.7692663,
+          41.923931
         ]
       },
-      "id": "darmc-location-20893",
+      "id": "osm-location-of-nymphaeum-of-paris",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20893",
-        "link": "http://pleiades.stoa.org/places/422938/darmc-location-20893"
+        "title": "OSM location of Nymphaeum of Paris",
+        "link": "http://pleiades.stoa.org/places/422938/osm-location-of-nymphaeum-of-paris"
       }
     }
   ]

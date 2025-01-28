@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus of Titus Macer",
+  "id": "411902357",
+  "bbox": [
+    13.3690202,
+    45.7709236,
+    13.369878,
+    45.771336
+  ],
+  "description": "The House of Titus Macer at Aquileia dates to the middle of the first century CE when at least two pre-exisiting domus were merged to form a single domus covering more than 1,500 square meters.",
+  "connectsWith": [
+    "187290"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3694429526,
+          45.7711262745
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.369252,
+            45.7711466
+          ],
+          [
+            13.3690202,
+            45.7710862
+          ],
+          [
+            13.3691073,
+            45.7709236
+          ],
+          [
+            13.369878,
+            45.7711243
+          ],
+          [
+            13.369754,
+            45.771336
+          ],
+          [
+            13.369223,
+            45.7712007
+          ],
+          [
+            13.369252,
+            45.7711466
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-di-titus-macer",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus di Titus Macer",
+        "link": "http://pleiades.stoa.org/places/411902357/osm-location-of-domus-di-titus-macer"
+      }
+    }
+  ]
+}

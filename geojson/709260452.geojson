@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Thornham Roman Signal Station",
+  "id": "709260452",
+  "bbox": [
+    0.568174,
+    52.95192,
+    0.568174,
+    52.95192
+  ],
+  "description": "The site of a Roman signal station initially identified via aerial photographs in the 1940s, Thornham Roman Signal Station is located on Beacon Hill overlooking Brancaster Bay.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.568174,
+          52.95192
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.568174,
+          52.95192
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "Imagery location",
+        "link": "http://pleiades.stoa.org/places/709260452/imagery-location"
+      }
+    }
+  ]
+}

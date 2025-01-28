@@ -3,10 +3,10 @@
   "title": "Torre de San Josep",
   "id": "823633465",
   "bbox": [
-    -0.1970617,
-    38.5163318,
-    -0.1970617,
-    38.5163318
+    -0.1970922,
+    38.5163336,
+    -0.1970267,
+    38.5163784
   ],
   "description": "A Roman tower tomb located northeast of Villajoyosa, Spain. It is also known as the Torre de Hércules.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.1970617,
-          38.5163318
+          -0.19705945,
+          38.516356
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -0.1970617,
-          38.5163318
+          [
+            -0.1970922,
+            38.5163671
+          ],
+          [
+            -0.1970807,
+            38.5163336
+          ],
+          [
+            -0.1970267,
+            38.5163449
+          ],
+          [
+            -0.1970382,
+            38.5163784
+          ],
+          [
+            -0.1970922,
+            38.5163671
+          ]
         ]
       },
-      "id": "location-of-torre-de-san-josep",
+      "id": "osm-location-torre-de-sant-josep",
       "type": "Feature",
       "properties": {
-        "description": "Representative Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM Location of Torre de San Josep",
-        "link": "http://pleiades.stoa.org/places/823633465/location-of-torre-de-san-josep"
+        "title": "OSM location: Torre de Sant Josep",
+        "link": "http://pleiades.stoa.org/places/823633465/osm-location-torre-de-sant-josep"
       }
     }
   ]

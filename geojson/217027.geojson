@@ -3,10 +3,10 @@
   "title": "Tropaeum Traiani (settlement)",
   "id": "217027",
   "bbox": [
-    27.941695,
-    44.091987,
-    27.944226,
-    44.0936649
+    27.9416625,
+    44.0900739,
+    27.9459532,
+    44.093713
   ],
   "description": "Civitas Tropaensium was a Roman castrum settled by Roman veterans of the Dacian Wars. Constantine I rebuilt the city after it was destroyed by the Goths and it survived until the Avars sacked it in A.D. 587.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.9429605,
-          44.09282595
+          27.9439872467,
+          44.0920733521
         ]
       },
       "properties": {

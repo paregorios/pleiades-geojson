@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Torre Dell'Angelo",
+  "id": "201442266",
+  "bbox": [
+    12.5083989,
+    41.8743656,
+    12.5084793,
+    41.8744228
+  ],
+  "description": "A Roman columbarium tomb located on the Via Latina.",
+  "connectsWith": [
+    "423025",
+    "93042695"
+  ],
+  "names": [
+    "Torre dell'angelo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5084393148,
+          41.8743931095
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.508466,
+            41.8744088
+          ],
+          [
+            12.5084159,
+            41.8744228
+          ],
+          [
+            12.5083989,
+            41.8743771
+          ],
+          [
+            12.5084653,
+            41.8743656
+          ],
+          [
+            12.5084793,
+            41.8744093
+          ],
+          [
+            12.508466,
+            41.8744088
+          ]
+        ]
+      },
+      "id": "osm-location-of-sepolcro-in-laterizio-ii-secolo-d",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sepolcro In Laterizio II Secolo d.c. Detto Torre Dell' Angelo",
+        "link": "http://pleiades.stoa.org/places/201442266/osm-location-of-sepolcro-in-laterizio-ii-secolo-d"
+      }
+    }
+  ]
+}

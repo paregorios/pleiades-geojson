@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Columbarium, Via del Casale Ferranti",
+  "id": "782218546",
+  "bbox": [
+    12.5817414,
+    41.8350309,
+    12.5826281,
+    41.8357091
+  ],
+  "description": "Roman columbarium tombs in the Via del Casale Ferranti.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5821897071,
+          41.8353770665
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5821649,
+            41.8357091
+          ],
+          [
+            12.5821251,
+            41.8356926
+          ],
+          [
+            12.5821001,
+            41.8356929
+          ],
+          [
+            12.5820504,
+            41.835697
+          ],
+          [
+            12.5819966,
+            41.8356914
+          ],
+          [
+            12.5818948,
+            41.8356417
+          ],
+          [
+            12.5817713,
+            41.835579
+          ],
+          [
+            12.5817414,
+            41.8355459
+          ],
+          [
+            12.5817689,
+            41.8354971
+          ],
+          [
+            12.5818239,
+            41.8354072
+          ],
+          [
+            12.5818325,
+            41.835378
+          ],
+          [
+            12.5824578,
+            41.8350309
+          ],
+          [
+            12.5826281,
+            41.8351508
+          ],
+          [
+            12.5821649,
+            41.8357091
+          ]
+        ]
+      },
+      "id": "osm-location-of-colombario-di-via-latina-antica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Colombario di Via del Casale Ferranti",
+        "link": "http://pleiades.stoa.org/places/782218546/osm-location-of-colombario-di-via-latina-antica"
+      }
+    }
+  ]
+}
