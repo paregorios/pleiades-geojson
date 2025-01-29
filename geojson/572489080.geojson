@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Broxtowe Roman fort",
-  "id": "985158683",
+  "title": "Vila Mogorjelo",
+  "id": "572489080",
   "bbox": [
-    -1.2165064,
-    52.9808287,
-    -1.2165064,
-    52.9808287
+    17.69989,
+    43.0995839,
+    17.69989,
+    43.0995839
   ],
-  "description": "Site of Roman fortification dating from 50-75 CE.",
+  "description": "A Roman villa located in Čapljina, Bosnia and Herzegovina.",
+  "names": [
+    "Villa rustica Vila Mogorjelo"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2165064,
-          52.9808287
+          17.69989,
+          43.0995839
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.2165064,
-          52.9808287
+          17.69989,
+          43.0995839
         ]
       },
-      "id": "osm-location-of-browtowe-roman-fort",
+      "id": "osm-location-of-mogorjelo",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Broxtowe Roman fort",
-        "link": "http://pleiades.stoa.org/places/985158683/osm-location-of-browtowe-roman-fort"
+        "title": "OSM location of Mogorjelo",
+        "link": "http://pleiades.stoa.org/places/572489080/osm-location-of-mogorjelo"
       }
     }
   ]

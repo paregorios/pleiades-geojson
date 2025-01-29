@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Oppidum des Caisses de Jean-Jean",
+  "id": "811458570",
+  "bbox": [
+    4.880024,
+    43.7113599,
+    4.880024,
+    43.7113599
+  ],
+  "description": "A Celtic oppidum that flourished between the sixth and the first century BCE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880024,
+          43.7113599
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880024,
+          43.7113599
+        ]
+      },
+      "id": "osm-location-of-oppidum-des-caisses-de-jean-jean",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Oppidum des Caisses de Jean-Jean",
+        "link": "http://pleiades.stoa.org/places/811458570/osm-location-of-oppidum-des-caisses-de-jean-jean"
+      }
+    }
+  ]
+}

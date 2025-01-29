@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castle Acre Castle",
+  "id": "95991112",
+  "bbox": [
+    0.6897193,
+    52.7020614,
+    0.6926612,
+    52.7042566
+  ],
+  "description": "Medieval fortifications in Castle Acre, Norfolk, England.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.691306343462,
+          52.7032581391
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.6923559,
+            52.7042097
+          ],
+          [
+            0.6924993,
+            52.703513
+          ],
+          [
+            0.6926342,
+            52.7026826
+          ],
+          [
+            0.6926612,
+            52.7025306
+          ],
+          [
+            0.6922777,
+            52.7025078
+          ],
+          [
+            0.6921702,
+            52.7024814
+          ],
+          [
+            0.6918525,
+            52.7023656
+          ],
+          [
+            0.6916533,
+            52.7022759
+          ],
+          [
+            0.6912974,
+            52.7021504
+          ],
+          [
+            0.6909656,
+            52.7020614
+          ],
+          [
+            0.6906923,
+            52.7022876
+          ],
+          [
+            0.6897193,
+            52.7035023
+          ],
+          [
+            0.6897996,
+            52.7037404
+          ],
+          [
+            0.6900633,
+            52.7039004
+          ],
+          [
+            0.6901349,
+            52.7039438
+          ],
+          [
+            0.690395,
+            52.7040556
+          ],
+          [
+            0.6906995,
+            52.704095
+          ],
+          [
+            0.6907652,
+            52.7041356
+          ],
+          [
+            0.6909905,
+            52.7041769
+          ],
+          [
+            0.6916451,
+            52.7042547
+          ],
+          [
+            0.691982,
+            52.7042566
+          ],
+          [
+            0.6923192,
+            52.7042413
+          ],
+          [
+            0.6923559,
+            52.7042097
+          ]
+        ]
+      },
+      "id": "osm-location-of-castle-acre-castle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castle Acre Castle",
+        "link": "http://pleiades.stoa.org/places/95991112/osm-location-of-castle-acre-castle"
+      }
+    }
+  ]
+}

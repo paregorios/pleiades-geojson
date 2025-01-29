@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nubian Lion Temple at Naqa",
+  "id": "204558111",
+  "bbox": [
+    33.2724928,
+    16.2684604,
+    33.2732047,
+    16.269027
+  ],
+  "description": "The Temple of Apedemak, also known as the Lion Temple, is located to the west of the temple of Amun.",
+  "connectsWith": [
+    "805635"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.2728487534,
+          16.2687436811
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.2726494,
+            16.269027
+          ],
+          [
+            33.2724928,
+            16.2687323
+          ],
+          [
+            33.2730482,
+            16.2684604
+          ],
+          [
+            33.2732047,
+            16.268755
+          ],
+          [
+            33.2726494,
+            16.269027
+          ]
+        ]
+      },
+      "id": "osm-location-of-nubian-lion-temple-at-naqa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nubian Lion Temple at Naqa",
+        "link": "http://pleiades.stoa.org/places/204558111/osm-location-of-nubian-lion-temple-at-naqa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "title": "Beidha",
+  "id": "525963321",
+  "bbox": [
+    35.4470652,
+    30.3704414,
+    35.4480867,
+    30.3712406
+  ],
+  "description": "Beidha is a Neolithic archaeological site located just north of Petra near Siq al-Barid in Jordan. Diana Kirkbride (1957) and Brian Byrd excavated the site. Three phases of occupation were identified beginning in the eleventh millennium BCE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4475843004,
+          30.3708561345
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.4470652,
+            30.3709605
+          ],
+          [
+            35.4471056,
+            30.3708455
+          ],
+          [
+            35.4475134,
+            30.3704414
+          ],
+          [
+            35.4480867,
+            30.3707898
+          ],
+          [
+            35.447804,
+            30.3712406
+          ],
+          [
+            35.4470652,
+            30.3709605
+          ]
+        ]
+      },
+      "id": "osm-location-of-beidha-archaeological-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Beidha Archaeological Site",
+        "link": "http://pleiades.stoa.org/places/525963321/osm-location-of-beidha-archaeological-site"
+      }
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "title": "Palazzo Valentini",
+  "id": "947806460",
+  "bbox": [
+    12.4834696,
+    41.89608,
+    12.484582,
+    41.8967988
+  ],
+  "description": "Rome's Palazzo Valentini was first built in 1585 on the site of a pre-existing palazzo located adjacent to what was then the piazza dei Santi Apostoli. The palazzo's foundations are entangled with various ancient remains, including perhaps architectural elements of the Forum of Trajan.",
+  "connectsWith": [
+    "423025",
+    "250091860"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4839994159,
+          41.8964114137
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4838294,
+              41.89608
+            ],
+            [
+              12.483661,
+              41.8962519
+            ],
+            [
+              12.4834696,
+              41.8966351
+            ],
+            [
+              12.4836343,
+              41.8967136
+            ],
+            [
+              12.4838089,
+              41.8967988
+            ],
+            [
+              12.4842871,
+              41.8965403
+            ],
+            [
+              12.4843918,
+              41.8964642
+            ],
+            [
+              12.4845806,
+              41.8962503
+            ],
+            [
+              12.484582,
+              41.8962341
+            ]
+          ],
+          [
+            [
+              12.4843729,
+              41.8961771
+            ],
+            [
+              12.4844713,
+              41.8962244
+            ],
+            [
+              12.484582,
+              41.8962341
+            ]
+          ],
+          [
+            [
+              12.4843398,
+              41.8962209
+            ],
+            [
+              12.4843729,
+              41.8961771
+            ]
+          ],
+          [
+            [
+              12.4843398,
+              41.8962209
+            ],
+            [
+              12.4842282,
+              41.8963595
+            ]
+          ],
+          [
+            [
+              12.4842282,
+              41.8963595
+            ],
+            [
+              12.484153,
+              41.896453
+            ],
+            [
+              12.4841172,
+              41.8964349
+            ],
+            [
+              12.4841896,
+              41.896342
+            ]
+          ],
+          [
+            [
+              12.4841896,
+              41.896342
+            ],
+            [
+              12.484252,
+              41.8962618
+            ]
+          ],
+          [
+            [
+              12.4841312,
+              41.8962116
+            ],
+            [
+              12.4839815,
+              41.8961496
+            ]
+          ],
+          [
+            [
+              12.4839112,
+              41.8962438
+            ],
+            [
+              12.4837081,
+              41.8964899
+            ],
+            [
+              12.4838965,
+              41.8965737
+            ],
+            [
+              12.484106,
+              41.8963242
+            ],
+            [
+              12.4839112,
+              41.8962438
+            ]
+          ],
+          [
+            [
+              12.4839815,
+              41.8961496
+            ],
+            [
+              12.4838294,
+              41.89608
+            ]
+          ],
+          [
+            [
+              12.4841312,
+              41.8962116
+            ],
+            [
+              12.484252,
+              41.8962618
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-palazzo-valentini",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Palazzo Valentini",
+        "link": "http://pleiades.stoa.org/places/947806460/osm-location-of-palazzo-valentini"
+      }
+    }
+  ]
+}

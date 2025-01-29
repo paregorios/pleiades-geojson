@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Shuqba Cave",
+  "id": "807201016",
+  "bbox": [
+    35.0432195,
+    31.9820852,
+    35.0432195,
+    31.9820852
+  ],
+  "description": "Shuqba Cave is one of the largest caves in Palestine. Excavations conducted there by Dorothy Garrod in 1928 helped to identify the Natufian culture.",
+  "names": [
+    "Shuqba Cave"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0432195,
+          31.9820852
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0432195,
+          31.9820852
+        ]
+      },
+      "id": "osm-location-of-shuqba-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Shuqba Cave",
+        "link": "http://pleiades.stoa.org/places/807201016/osm-location-of-shuqba-cave"
+      }
+    }
+  ]
+}

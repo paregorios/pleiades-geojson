@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Fabrateria Nova amphitheater",
+  "id": "635129231",
+  "bbox": [
+    13.5524311,
+    41.5186033,
+    13.553488,
+    41.5192925
+  ],
+  "description": "Remains of a Roman amphitheater at Fabrateria Nova.",
+  "connectsWith": [
+    "432825"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5529449361,
+          41.518955168
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5532347,
+            41.5192925
+          ],
+          [
+            13.552604,
+            41.5191878
+          ],
+          [
+            13.5524834,
+            41.5190339
+          ],
+          [
+            13.5524311,
+            41.5189479
+          ],
+          [
+            13.5525272,
+            41.5186033
+          ],
+          [
+            13.5527711,
+            41.5186459
+          ],
+          [
+            13.5531552,
+            41.5187424
+          ],
+          [
+            13.5534454,
+            41.5188433
+          ],
+          [
+            13.5534483,
+            41.5189806
+          ],
+          [
+            13.553488,
+            41.5190707
+          ],
+          [
+            13.5533937,
+            41.5191983
+          ],
+          [
+            13.5532347,
+            41.5192925
+          ]
+        ]
+      },
+      "id": "osm-location-of-fabrateria-nova-amphitheatre",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Fabrateria Nova amphitheatre",
+        "link": "http://pleiades.stoa.org/places/635129231/osm-location-of-fabrateria-nova-amphitheatre"
+      }
+    }
+  ]
+}

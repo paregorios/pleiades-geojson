@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nahal Oren",
+  "id": "807201017",
+  "bbox": [
+    34.9741241,
+    32.7145854,
+    34.9741241,
+    32.7145854
+  ],
+  "description": "A cave site on Mount Carmel where archaeological evidence for Upper Paleolithic, Natufian (Epipaleolithic), and Pre-Pottery Neolithic A and B industries has been discovered.",
+  "names": [
+    "Nahal Oren"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9741241,
+          32.7145854
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9741241,
+          32.7145854
+        ]
+      },
+      "id": "osm-location-of-oren",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Oren",
+        "link": "http://pleiades.stoa.org/places/807201017/osm-location-of-oren"
+      }
+    }
+  ]
+}
