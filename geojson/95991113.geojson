@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castle Rising Castle",
+  "id": "95991113",
+  "bbox": [
+    0.468716,
+    52.7928305,
+    0.4692302,
+    52.7930443
+  ],
+  "description": "Castle Rising Castle is a ruined medieval castle located in Castle Rising, Norfolk, England. It was established by William d'Aubigny II ca. 1138.",
+  "names": [
+    "Castle Rising Castle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.468968943028,
+          52.7929405408
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.4687566,
+            52.7930443
+          ],
+          [
+            0.468716,
+            52.7928645
+          ],
+          [
+            0.4691282,
+            52.7928305
+          ],
+          [
+            0.4691535,
+            52.7929427
+          ],
+          [
+            0.469215,
+            52.7929376
+          ],
+          [
+            0.4692302,
+            52.7930052
+          ],
+          [
+            0.4687566,
+            52.7930443
+          ]
+        ]
+      },
+      "id": "osm-location-of-castle-rising",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castle Rising",
+        "link": "http://pleiades.stoa.org/places/95991113/osm-location-of-castle-rising"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Alahan",
   "id": "648553",
   "bbox": [
-    33.367807,
-    36.81369,
-    33.367807,
-    36.81369
+    33.351041,
+    36.7908755,
+    33.3539502,
+    36.7915228
   ],
   "description": "An ancient place, cited: BAtlas 66 C3 Alahan",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.367807,
-          36.81369
+          33.3525136289,
+          36.7912598311
         ]
       },
       "properties": {
@@ -25,19 +25,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.367807,
-          36.81369
+          [
+            33.3525148,
+            36.7911476
+          ],
+          [
+            33.3515398,
+            36.7908755
+          ],
+          [
+            33.351041,
+            36.7910187
+          ],
+          [
+            33.3512527,
+            36.7912217
+          ],
+          [
+            33.3519124,
+            36.7914259
+          ],
+          [
+            33.3539194,
+            36.7915228
+          ],
+          [
+            33.3539502,
+            36.791296
+          ],
+          [
+            33.3525148,
+            36.7911476
+          ]
         ]
       },
-      "id": "darmc-location-4991",
+      "id": "osm-location-of-alahan-monastery",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 4991",
-        "link": "http://pleiades.stoa.org/places/648553/darmc-location-4991"
+        "title": "OSM location of Alahan Monastery",
+        "link": "http://pleiades.stoa.org/places/648553/osm-location-of-alahan-monastery"
       }
     }
   ]

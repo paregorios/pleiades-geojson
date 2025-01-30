@@ -3,8 +3,8 @@
   "title": "Milecastle 37 (Housesteads)",
   "id": "893595278",
   "bbox": [
-    -2.337816,
-    55.012232,
+    -2.3379079,
+    55.0121666,
     -2.337435,
     55.012455
   ],
@@ -19,12 +19,55 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.33762363955,
-          55.0123397117
+          -2.33766677136,
+          55.0123049639
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3379079,
+            55.0123128
+          ],
+          [
+            -2.3378198,
+            55.0121666
+          ],
+          [
+            -2.3376645,
+            55.0121973
+          ],
+          [
+            -2.3375119,
+            55.0122276
+          ],
+          [
+            -2.3376,
+            55.0123738
+          ],
+          [
+            -2.337722,
+            55.0123498
+          ],
+          [
+            -2.3379079,
+            55.0123128
+          ]
+        ]
+      },
+      "id": "osm-location-of-milecastle-37",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 37",
+        "link": "http://pleiades.stoa.org/places/893595278/osm-location-of-milecastle-37"
       }
     },
     {
@@ -55,13 +98,13 @@
           ]
         ]
       },
-      "id": "boundary-of-milecastle-walls",
+      "id": "imagery-location-boundary-of-milecastle-walls",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of milecastle walls",
-        "link": "http://pleiades.stoa.org/places/893595278/boundary-of-milecastle-walls"
+        "title": "Imagery Location: Boundary of milecastle walls",
+        "link": "http://pleiades.stoa.org/places/893595278/imagery-location-boundary-of-milecastle-walls"
       }
     }
   ]

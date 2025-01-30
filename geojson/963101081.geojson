@@ -5,8 +5,8 @@
   "bbox": [
     55.565148,
     37.499187,
-    55.565148,
-    37.499187
+    55.5751725,
+    37.521121
   ],
   "description": "One of the interval forts spaced along the Great Wall of Gorgan.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.565148,
-          37.499187
+          55.57016025,
+          37.510154
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "DARMC location 32235",
         "link": "http://pleiades.stoa.org/places/963101081/darmc-location-32235"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.5751725,
+          37.521121
+        ]
+      },
+      "id": "osm-location-of-fort-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Fort 1, Great Wall of Gorgan",
+        "link": "http://pleiades.stoa.org/places/963101081/osm-location-of-fort-1"
       }
     }
   ]

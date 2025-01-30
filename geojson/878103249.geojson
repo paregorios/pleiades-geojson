@@ -3,10 +3,10 @@
   "title": "Gialia Monastery",
   "id": "878103249",
   "bbox": [
-    32.5550461,
-    35.0895042,
-    32.5550461,
-    35.0895042
+    32.5549753,
+    35.0894521,
+    32.5549753,
+    35.0894521
   ],
   "description": "The Gialia Monastery is a ruined medieval Georgian Orthodox monastery located in the village of Gialia, Paphos District, northwestern Cyprus.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5550461,
-          35.0895042
+          32.5549753,
+          35.0894521
         ]
       },
       "properties": {
@@ -31,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5550461,
-          35.0895042
+          32.5549753,
+          35.0894521
         ]
       },
       "id": "location-of-ag-mamas",

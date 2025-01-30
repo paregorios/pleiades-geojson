@@ -3,10 +3,10 @@
   "title": "Barcombe Hill Roman Signal Station",
   "id": "512867195",
   "bbox": [
-    -2.340697,
-    54.995465,
-    -2.340697,
-    54.995465
+    -2.3414483,
+    54.9951546,
+    -2.339957,
+    54.9958285
   ],
   "description": "A Roman signal station on Barcombe Hill, overlooking the Stanegate and Vindolanda.",
   "connectsWith": [
@@ -20,12 +20,99 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.340697,
-          54.995465
+          -2.34068789562,
+          54.9954660052
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3414483,
+            54.9954654
+          ],
+          [
+            -2.3413786,
+            54.9952777
+          ],
+          [
+            -2.3411748,
+            54.995173
+          ],
+          [
+            -2.3409924,
+            54.9951546
+          ],
+          [
+            -2.3406812,
+            54.9951792
+          ],
+          [
+            -2.3403486,
+            54.9952592
+          ],
+          [
+            -2.3401501,
+            54.9953331
+          ],
+          [
+            -2.3400268,
+            54.9953977
+          ],
+          [
+            -2.3399946,
+            54.9955146
+          ],
+          [
+            -2.339957,
+            54.9956531
+          ],
+          [
+            -2.3400107,
+            54.9957608
+          ],
+          [
+            -2.3401877,
+            54.9958285
+          ],
+          [
+            -2.3406812,
+            54.9956931
+          ],
+          [
+            -2.3409924,
+            54.9956069
+          ],
+          [
+            -2.3411855,
+            54.9955608
+          ],
+          [
+            -2.3413142,
+            54.9955546
+          ],
+          [
+            -2.341384,
+            54.9955269
+          ],
+          [
+            -2.3414483,
+            54.9954654
+          ]
+        ]
+      },
+      "id": "osm-location-of-barcombe-hill-roman-signal-station",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Barcombe Hill Roman Signal Station",
+        "link": "http://pleiades.stoa.org/places/512867195/osm-location-of-barcombe-hill-roman-signal-station"
       }
     },
     {

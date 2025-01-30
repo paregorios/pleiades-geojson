@@ -3,10 +3,10 @@
   "title": "Kinneil",
   "id": "728068766",
   "bbox": [
-    -3.641713,
-    56.005207,
-    -3.641217,
-    56.005478
+    -3.6417353,
+    56.0052252,
+    -3.6412588,
+    56.0054905
   ],
   "description": "The site of a Roman fortlet on the Antonine Wall. The fortlet measures ca. 21.5 x 18.5 m, covering an area of ca. 0.04 ha.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.64142476346,
-          56.0053547501
+          -3.6414883119,
+          56.0053521221
         ]
       },
       "properties": {
@@ -28,56 +28,141 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              -3.641713,
-              56.005413
+              -3.641498,
+              56.0054404
             ],
             [
-              -3.641343,
-              56.005478
+              -3.6413859,
+              56.005462
             ],
             [
-              -3.641217,
-              56.005268
+              -3.6413442,
+              56.0053953
             ],
             [
-              -3.641592,
-              56.005207
+              -3.6413027,
+              56.0053227
             ],
             [
-              -3.641713,
-              56.005413
+              -3.6412998,
+              56.0052977
+            ],
+            [
+              -3.641318,
+              56.0052848
+            ],
+            [
+              -3.6414187,
+              56.0052685
+            ],
+            [
+              -3.6414065,
+              56.0052471
+            ],
+            [
+              -3.6412944,
+              56.0052652
+            ],
+            [
+              -3.6412588,
+              56.0052905
+            ],
+            [
+              -3.641263,
+              56.0053269
+            ],
+            [
+              -3.6413061,
+              56.0054024
+            ],
+            [
+              -3.6413611,
+              56.0054905
+            ],
+            [
+              -3.6415112,
+              56.0054616
+            ],
+            [
+              -3.641498,
+              56.0054404
+            ]
+          ],
+          [
+            [
+              -3.6414584,
+              56.0052387
+            ],
+            [
+              -3.6414706,
+              56.0052601
+            ],
+            [
+              -3.6415471,
+              56.0052478
+            ],
+            [
+              -3.6415809,
+              56.0052482
+            ],
+            [
+              -3.6416015,
+              56.0052665
+            ],
+            [
+              -3.6416444,
+              56.00534
+            ],
+            [
+              -3.6416842,
+              56.0054045
+            ],
+            [
+              -3.6415667,
+              56.0054272
+            ],
+            [
+              -3.6415799,
+              56.0054484
+            ],
+            [
+              -3.6417353,
+              56.0054184
+            ],
+            [
+              -3.6416824,
+              56.0053328
+            ],
+            [
+              -3.6416381,
+              56.0052569
+            ],
+            [
+              -3.6416035,
+              56.005226
+            ],
+            [
+              -3.6415418,
+              56.0052252
+            ],
+            [
+              -3.6414584,
+              56.0052387
             ]
           ]
         ]
       },
-      "id": "boundary-of-fortley-walls-approx",
+      "id": "osm-location-of-kinneil-roman-fortlet",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Boundary of fortlet walls (approx)",
-        "link": "http://pleiades.stoa.org/places/728068766/boundary-of-fortley-walls-approx"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.641384,
-          56.005368
-        ]
-      },
-      "id": "antonine-wall-fort-at-kinneil",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate centerpoint of Kinneil Roman fortlet",
-        "location_precision": "precise",
-        "title": "Centerpoint of fortlet (approx)",
-        "link": "http://pleiades.stoa.org/places/728068766/antonine-wall-fort-at-kinneil"
+        "title": "OSM location of Kinneil Roman Fortlet",
+        "link": "http://pleiades.stoa.org/places/728068766/osm-location-of-kinneil-roman-fortlet"
       }
     }
   ]

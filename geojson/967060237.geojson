@@ -3,10 +3,10 @@
   "title": "Milecastle 55 (Low Wall)",
   "id": "967060237",
   "bbox": [
-    -2.726448,
+    -2.7264762,
     54.971824,
     -2.726448,
-    54.971824
+    54.9719229
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.726448,
-          54.971824
+          -2.7264621,
+          54.97187345
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "Center point of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060237/center-point-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7264762,
+          54.9719229
+        ]
+      },
+      "id": "osm-location-of-mile-castle-55",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mile Castle 55",
+        "link": "http://pleiades.stoa.org/places/967060237/osm-location-of-mile-castle-55"
       }
     }
   ]

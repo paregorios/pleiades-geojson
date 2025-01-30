@@ -3,10 +3,10 @@
   "title": "Alauna/Alione",
   "id": "89097",
   "bbox": [
-    -3.49391,
-    54.720887,
-    -3.49391,
-    54.720887
+    -3.4953223,
+    54.7200446,
+    -3.4923212,
+    54.7217623
   ],
   "description": "A Roman fort at present-day Maryport. Part of Cumbrian coastal defenses.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.49391,
-          54.720887
+          -3.49382290055,
+          54.7209036526
         ]
       },
       "properties": {
@@ -33,19 +33,41 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.49391,
-          54.720887
+          [
+            -3.4953223,
+            54.720832
+          ],
+          [
+            -3.4935945,
+            54.7200446
+          ],
+          [
+            -3.4923212,
+            54.7209746
+          ],
+          [
+            -3.4933976,
+            54.7214605
+          ],
+          [
+            -3.4940661,
+            54.7217623
+          ],
+          [
+            -3.4953223,
+            54.720832
+          ]
         ]
       },
-      "id": "centerpoint-of-the-ancient-site",
+      "id": "osm-location-of-alauna-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Centerpoint of the ancient site",
-        "link": "http://pleiades.stoa.org/places/89097/centerpoint-of-the-ancient-site"
+        "title": "OSM location of Alauna Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89097/osm-location-of-alauna-roman-fort"
       }
     }
   ]

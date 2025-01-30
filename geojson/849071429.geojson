@@ -3,10 +3,10 @@
   "title": "Kirmington",
   "id": "849071429",
   "bbox": [
-    -0.3332792,
-    53.586049,
-    -0.3332792,
-    53.586049
+    -0.3446155,
+    53.5872901,
+    -0.3446155,
+    53.5872901
   ],
   "description": "A Roman fort of early Claudian date.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3332792,
-          53.586049
+          -0.3446155,
+          53.5872901
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.3332792,
-          53.586049
+          -0.3446155,
+          53.5872901
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-of-kirmington-roman-settlement",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Kirmington",
-        "link": "http://pleiades.stoa.org/places/849071429/osm-location"
+        "title": "OSM location of Kirmington Roman settlement",
+        "link": "http://pleiades.stoa.org/places/849071429/osm-location-of-kirmington-roman-settlement"
       }
     }
   ]

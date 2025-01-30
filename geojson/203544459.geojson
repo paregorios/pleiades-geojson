@@ -3,10 +3,10 @@
   "title": "Standing Stones of Stenness",
   "id": "203544459",
   "bbox": [
-    -3.2082333,
-    58.9939186,
-    -3.2082333,
-    58.9939186
+    -3.2083868,
+    58.993876,
+    -3.2077731,
+    58.9941893
   ],
   "description": "The Standing Stones of Stenness is a Neolithic monument on the mainland of Orkney, Scotland, generally dated to the third millennium BC.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.2082333,
-          58.9939186
+          -3.20807992295,
+          58.9940343764
         ]
       },
       "properties": {
@@ -31,19 +31,89 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.2082333,
-          58.9939186
+          [
+            -3.2082036,
+            58.9938888
+          ],
+          [
+            -3.2080604,
+            58.993876
+          ],
+          [
+            -3.2079581,
+            58.9938884
+          ],
+          [
+            -3.2078563,
+            58.9939251
+          ],
+          [
+            -3.2077988,
+            58.9939698
+          ],
+          [
+            -3.2077731,
+            58.9940321
+          ],
+          [
+            -3.2077954,
+            58.9940939
+          ],
+          [
+            -3.2078532,
+            58.9941415
+          ],
+          [
+            -3.2079259,
+            58.9941717
+          ],
+          [
+            -3.2080135,
+            58.9941888
+          ],
+          [
+            -3.2081381,
+            58.9941893
+          ],
+          [
+            -3.2082478,
+            58.9941669
+          ],
+          [
+            -3.2083269,
+            58.9941295
+          ],
+          [
+            -3.2083678,
+            58.9940915
+          ],
+          [
+            -3.2083868,
+            58.9940341
+          ],
+          [
+            -3.208351,
+            58.9939597
+          ],
+          [
+            -3.2082854,
+            58.9939155
+          ],
+          [
+            -3.2082036,
+            58.9938888
+          ]
         ]
       },
-      "id": "location-of-standing-stones-of-stenness",
+      "id": "osm-location-stones-of-stenness",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Standing Stones of Stenness",
-        "link": "http://pleiades.stoa.org/places/203544459/location-of-standing-stones-of-stenness"
+        "title": "OSM location: Stones of Stenness",
+        "link": "http://pleiades.stoa.org/places/203544459/osm-location-stones-of-stenness"
       }
     }
   ]

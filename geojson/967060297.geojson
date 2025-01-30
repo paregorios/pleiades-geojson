@@ -3,8 +3,8 @@
   "title": "Milecastle 27 (Low Brunton)",
   "id": "967060297",
   "bbox": [
-    -2.131759,
-    55.024336,
+    -2.1318063,
+    55.0243276,
     -2.131759,
     55.024336
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.131759,
-          55.024336
+          -2.13178265,
+          55.0243318
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "Center point of the ancient site",
         "link": "http://pleiades.stoa.org/places/967060297/center-point-of-the-ancient-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1318063,
+          55.0243276
+        ]
+      },
+      "id": "osm-location-of-milecastle-27-low-brunton",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Milecastle 27 (Low Brunton)",
+        "link": "http://pleiades.stoa.org/places/967060297/osm-location-of-milecastle-27-low-brunton"
       }
     }
   ]

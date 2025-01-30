@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.76649842338,
-          53.1254921011
+          -9.76665824677,
+          53.1254814021
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.7663386,
-          53.1255028
-        ]
-      },
-      "id": "osm-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location",
-        "link": "http://pleiades.stoa.org/places/902088536/osm-location"
       }
     },
     {

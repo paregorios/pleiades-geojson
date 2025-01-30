@@ -3,10 +3,10 @@
   "title": "Costești-Blidaru",
   "id": "876112477",
   "bbox": [
-    23.1624896,
-    45.6680515,
-    23.1624896,
-    45.6680515
+    23.161001,
+    45.666342,
+    23.1647104,
+    45.6688312
   ],
   "description": "A Dacian fotress located near modern Costești village, Hunedoara County, Romania, built in the first century B.C.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.1624896,
-          45.6680515
+          23.1628270537,
+          45.6676145301
         ]
       },
       "properties": {
