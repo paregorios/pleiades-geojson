@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Actium Victory Monument",
+  "id": "495850428",
+  "bbox": [
+    20.7356515,
+    39.0277256,
+    20.7356515,
+    39.0277256
+  ],
+  "description": "A naval victory monument was built by Octavian at Nicopolis (Epirus) to celebrate the Battle of Actium.",
+  "connectsWith": [
+    "531013"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7356515,
+          39.0277256
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7356515,
+          39.0277256
+        ]
+      },
+      "id": "osm-location-of-ii1-2i-i1-4iui-i-ii-i-iii3i-iiii-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Μνημείο του Αυγούστου",
+        "link": "http://pleiades.stoa.org/places/495850428/osm-location-of-ii1-2i-i1-4iui-i-ii-i-iii3i-iiii-i"
+      }
+    }
+  ]
+}

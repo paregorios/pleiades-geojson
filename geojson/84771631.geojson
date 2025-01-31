@@ -3,10 +3,10 @@
   "title": "Titus Tunnel",
   "id": "84771631",
   "bbox": [
-    35.9226938,
-    36.1217286,
-    35.9226938,
-    36.1217286
+    35.9271925,
+    36.1214777,
+    35.9294386,
+    36.1231052
   ],
   "description": "A Flavian period channel cut for the purpose of diverting the course of a river.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9226938,
-          36.1217286
+          35.9283862884,
+          36.1221986558
         ]
       },
       "properties": {
@@ -25,19 +25,41 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.9226938,
-          36.1217286
+          [
+            35.9271925,
+            36.1214777
+          ],
+          [
+            35.9274921,
+            36.1216189
+          ],
+          [
+            35.9281202,
+            36.1219443
+          ],
+          [
+            35.9285406,
+            36.1222465
+          ],
+          [
+            35.9289589,
+            36.1225472
+          ],
+          [
+            35.9294386,
+            36.1231052
+          ]
         ]
       },
-      "id": "location-of-titus-tunnel",
+      "id": "osm-location-titus-tunnel",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Titus Tunnel",
-        "link": "http://pleiades.stoa.org/places/84771631/location-of-titus-tunnel"
+        "title": "OSM location: Titus Tunnel",
+        "link": "http://pleiades.stoa.org/places/84771631/osm-location-titus-tunnel"
       }
     }
   ]

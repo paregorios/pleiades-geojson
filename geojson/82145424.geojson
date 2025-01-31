@@ -3,10 +3,10 @@
   "title": "Roman theater at Nicopolis",
   "id": "82145424",
   "bbox": [
-    20.729173,
-    39.011086,
-    20.729173,
-    39.011086
+    20.7288876,
+    39.0109266,
+    20.7294099,
+    39.0112127
   ],
   "description": "The Roman theater at Nicopolis incorporates both Greek and Roman architectural practices in its construction.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.729173,
-          39.011086
+          20.7291299564,
+          39.0110611075
         ]
       },
       "properties": {
@@ -28,19 +28,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.729173,
-          39.011086
+          [
+            20.7289133,
+            39.0112127
+          ],
+          [
+            20.7294099,
+            39.0110726
+          ],
+          [
+            20.7293682,
+            39.0109883
+          ],
+          [
+            20.7292682,
+            39.0109426
+          ],
+          [
+            20.7291368,
+            39.0109266
+          ],
+          [
+            20.729014,
+            39.0109579
+          ],
+          [
+            20.7289156,
+            39.0110272
+          ],
+          [
+            20.7288876,
+            39.0111268
+          ],
+          [
+            20.7289133,
+            39.0112127
+          ]
         ]
       },
-      "id": "imagery-location",
+      "id": "osm-location-of-odeion",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location of Roman theater",
-        "link": "http://pleiades.stoa.org/places/82145424/imagery-location"
+        "title": "OSM location of Odeion",
+        "link": "http://pleiades.stoa.org/places/82145424/osm-location-of-odeion"
       }
     }
   ]

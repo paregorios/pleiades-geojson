@@ -3,10 +3,10 @@
   "title": "Umma",
   "id": "44626252",
   "bbox": [
-    45.886,
-    31.65,
-    45.9,
-    31.6669
+    45.8815949,
+    31.6639305,
+    45.8935002,
+    31.674048
   ],
   "description": "Umma was an important ancient city of Sumer but has not been scientifically excavated. The mainstream of scholarly opinion associates the ancient site with Tell Jokha, Iraq, located in Iraq's Northwestern Dhi Qar Governorate. This area is remote and is associated with a network of ancient canals. Tell Jokha measures about 1,500 meters in diameter.",
   "connectsWith": [
@@ -25,29 +25,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.893,
-          31.65845
+          45.8867859118,
+          31.6679552584
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.9,
-          31.65
-        ]
-      },
-      "id": "osm-location-of-tall-yukhah",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location of Tall Yukhah based on a node derived from OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of Tall Yukhah",
-        "link": "http://pleiades.stoa.org/places/44626252/osm-location-of-tall-yukhah"
       }
     },
     {
@@ -65,6 +48,101 @@
         "location_precision": "precise",
         "title": "CIGS location of Tall Jūka",
         "link": "http://pleiades.stoa.org/places/44626252/cigs-location-of-tall-juka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.8918273,
+            31.6725873
+          ],
+          [
+            45.8902718,
+            31.6735528
+          ],
+          [
+            45.8884367,
+            31.674048
+          ],
+          [
+            45.8865117,
+            31.6740215
+          ],
+          [
+            45.8846963,
+            31.6734761
+          ],
+          [
+            45.8831145,
+            31.6724085
+          ],
+          [
+            45.8820399,
+            31.670954
+          ],
+          [
+            45.8815949,
+            31.669278
+          ],
+          [
+            45.8818302,
+            31.6675715
+          ],
+          [
+            45.8827189,
+            31.6660287
+          ],
+          [
+            45.8841599,
+            31.6648253
+          ],
+          [
+            45.8859892,
+            31.6640983
+          ],
+          [
+            45.8879983,
+            31.6639305
+          ],
+          [
+            45.8899587,
+            31.6643409
+          ],
+          [
+            45.8915771,
+            31.6652284
+          ],
+          [
+            45.8927806,
+            31.6665074
+          ],
+          [
+            45.8934445,
+            31.6680454
+          ],
+          [
+            45.8935002,
+            31.6696833
+          ],
+          [
+            45.8929418,
+            31.6712513
+          ],
+          [
+            45.8918273,
+            31.6725873
+          ]
+        ]
+      },
+      "id": "osm-location-of-umma",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Umma",
+        "link": "http://pleiades.stoa.org/places/44626252/osm-location-of-umma"
       }
     }
   ]

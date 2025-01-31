@@ -3,10 +3,10 @@
   "title": "Porta Flaminia",
   "id": "54214302",
   "bbox": [
-    12.4760155,
-    41.9115109,
-    12.4760155,
-    41.9115109
+    12.4757626,
+    41.9114549,
+    12.4762256,
+    41.9115955
   ],
   "description": "A gate in the Aurelian Wall from which the Via Flaminia issued, the Porta Flaminia became known as the Porta del Popolo after the fifteenth century. Sixtus IV is credited with building the gateway that stands today.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4760155,
-          41.9115109
+          12.4759948369,
+          41.9115264872
         ]
       },
       "properties": {
@@ -35,19 +35,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4760155,
-          41.9115109
+          [
+            12.4757626,
+            41.911512
+          ],
+          [
+            12.4757903,
+            41.9114549
+          ],
+          [
+            12.4760105,
+            41.9115002
+          ],
+          [
+            12.4762256,
+            41.9115437
+          ],
+          [
+            12.4762093,
+            41.9115955
+          ],
+          [
+            12.4759884,
+            41.9115542
+          ],
+          [
+            12.4757626,
+            41.911512
+          ]
         ]
       },
-      "id": "osm-location-of-porta-del-popolo",
+      "id": "osm-location-porta-del-popolo",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Porta del Popolo",
-        "link": "http://pleiades.stoa.org/places/54214302/osm-location-of-porta-del-popolo"
+        "title": "OSM location: Porta del Popolo",
+        "link": "http://pleiades.stoa.org/places/54214302/osm-location-porta-del-popolo"
       }
     }
   ]

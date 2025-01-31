@@ -3,8 +3,8 @@
   "title": "Forum of Col. Augusta Raurica",
   "id": "66838501",
   "bbox": [
-    7.7245914,
-    47.5340429,
+    7.7234131,
+    47.5335087,
     7.7249715,
     47.5342981
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.72478145445,
-          47.534170478
+          7.72414419614,
+          47.5338747725
         ]
       },
       "properties": {
@@ -67,6 +67,41 @@
         "location_precision": "precise",
         "title": "OSM location of Curia",
         "link": "http://pleiades.stoa.org/places/66838501/location-of-the-forum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7234131,
+            47.5336097
+          ],
+          [
+            7.7234982,
+            47.5336496
+          ],
+          [
+            7.7236004,
+            47.5335474
+          ],
+          [
+            7.7235172,
+            47.5335087
+          ],
+          [
+            7.7234131,
+            47.5336097
+          ]
+        ]
+      },
+      "id": "osm-location-of-forum-und-forumtempel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Forum und Forumtempel",
+        "link": "http://pleiades.stoa.org/places/66838501/osm-location-of-forum-und-forumtempel"
       }
     }
   ]

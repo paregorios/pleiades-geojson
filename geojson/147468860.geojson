@@ -3,10 +3,10 @@
   "title": "Ponte Acque Alte",
   "id": "147468860",
   "bbox": [
-    12.8841478,
-    41.554411,
-    12.884548,
-    41.5547204
+    12.88405,
+    41.5543333,
+    12.8846242,
+    41.5547701
   ],
   "description": "A Roman bridge along the Via Appia near Cisterna di Latina.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8843479,
-          41.5545657
+          12.8843378915,
+          41.5545526745
         ]
       },
       "properties": {
@@ -31,22 +31,66 @@
         "type": "LineString",
         "coordinates": [
           [
-            12.8841478,
-            41.5547204
+            12.88405,
+            41.554692
           ],
           [
-            12.884548,
-            41.554411
+            12.8841578,
+            41.5547701
+          ],
+          [
+            12.8842433,
+            41.554704
+          ],
+          [
+            12.8842266,
+            41.5546919
+          ],
+          [
+            12.8845005,
+            41.5544803
+          ],
+          [
+            12.8845195,
+            41.5544941
+          ],
+          [
+            12.8846242,
+            41.5544132
+          ],
+          [
+            12.8845141,
+            41.5543333
+          ],
+          [
+            12.8844289,
+            41.5543991
+          ],
+          [
+            12.8844502,
+            41.5544146
+          ],
+          [
+            12.8841495,
+            41.5546469
+          ],
+          [
+            12.8841282,
+            41.5546315
+          ],
+          [
+            12.88405,
+            41.554692
           ]
         ]
       },
-      "id": "location-of-roman-bridge",
+      "id": "osm-location-of-ponte-acque-alte",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman bridge",
-        "link": "http://pleiades.stoa.org/places/147468860/location-of-roman-bridge"
+        "title": "OSM location of Ponte Acque Alte",
+        "link": "http://pleiades.stoa.org/places/147468860/osm-location-of-ponte-acque-alte"
       }
     }
   ]

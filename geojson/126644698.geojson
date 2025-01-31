@@ -3,10 +3,10 @@
   "title": "Shore Temple of Mahabalipuram",
   "id": "126644698",
   "bbox": [
-    80.1982819,
-    12.6165359,
-    80.1982819,
-    12.6165359
+    80.1982334,
+    12.615948,
+    80.200048,
+    12.6173177
   ],
   "description": "The so-called \"Shore Temple\" of Mahabalipuram is a granite-built tomb at the \"Group of Monuments at Mahabalipuram\" UNESCO World Heritage Site. It dates to the eighth century CE.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.1982819,
-          12.6165359
+          80.1990237213,
+          12.6165815493
         ]
       },
       "properties": {
@@ -31,19 +31,109 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          80.1982819,
-          12.6165359
+          [
+            80.1982334,
+            12.6160649
+          ],
+          [
+            80.1985646,
+            12.6160268
+          ],
+          [
+            80.1986942,
+            12.6160315
+          ],
+          [
+            80.1992099,
+            12.6160501
+          ],
+          [
+            80.1994474,
+            12.615948
+          ],
+          [
+            80.1995297,
+            12.6160624
+          ],
+          [
+            80.1995537,
+            12.6160714
+          ],
+          [
+            80.1995911,
+            12.6160759
+          ],
+          [
+            80.1996801,
+            12.61604
+          ],
+          [
+            80.1997674,
+            12.6161795
+          ],
+          [
+            80.1998587,
+            12.6163217
+          ],
+          [
+            80.19992,
+            12.6163725
+          ],
+          [
+            80.1999477,
+            12.6164047
+          ],
+          [
+            80.200048,
+            12.6166822
+          ],
+          [
+            80.200021,
+            12.61676
+          ],
+          [
+            80.1991469,
+            12.6170301
+          ],
+          [
+            80.1990594,
+            12.6171371
+          ],
+          [
+            80.1989808,
+            12.6171805
+          ],
+          [
+            80.1983069,
+            12.6173177
+          ],
+          [
+            80.1982907,
+            12.6165606
+          ],
+          [
+            80.1982844,
+            12.6165181
+          ],
+          [
+            80.198278,
+            12.616461
+          ],
+          [
+            80.1982334,
+            12.6160649
+          ]
         ]
       },
-      "id": "location-of-shore-temple",
+      "id": "osm-location-of-shore-temple-complex-mahabalipuram",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Shore Temple",
-        "link": "http://pleiades.stoa.org/places/126644698/location-of-shore-temple"
+        "title": "OSM location of Shore Temple Complex, Mahabalipuram",
+        "link": "http://pleiades.stoa.org/places/126644698/osm-location-of-shore-temple-complex-mahabalipuram"
       }
     }
   ]

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell Umm al-Aqarib",
+  "id": "533622483",
+  "description": "Tell Umm al-Aqarib is the site of an ancient Sumerian city-state ca. 2300 - 2000 BCE of unknown identification.",
+  "connectsWith": [
+    "44626252"
+  ],
+  "names": [
+    "Tell Umm al-Aqarib"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
