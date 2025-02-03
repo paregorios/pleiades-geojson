@@ -3,9 +3,9 @@
   "title": "Porte Noire (Besançon)",
   "id": "448979857",
   "bbox": [
-    6.0302671,
+    6.0302675,
     47.2341694,
-    6.0302671,
+    6.0302675,
     47.2341694
   ],
   "description": "A Gallo-Roman triumphal arch dedicated to Marcus Aurelius.",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.0302671,
+          6.0302675,
           47.2341694
         ]
       },

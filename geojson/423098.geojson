@@ -9,6 +9,9 @@
     41.9153074
   ],
   "description": "A coastal Roman villa that is succeeded by a Medieval coastal tower.",
+  "names": [
+    "Torre di Palidoro"
+  ],
   "features": [
     {
       "type": "Feature",

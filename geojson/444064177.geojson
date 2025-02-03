@@ -3,10 +3,10 @@
   "title": "Pranu Muttedu",
   "id": "444064177",
   "bbox": [
-    9.2669504,
-    39.5675389,
-    9.2669504,
-    39.5675389
+    9.2675888,
+    39.5679748,
+    9.2675888,
+    39.5679748
   ],
   "description": "Pranu Muttedu is a pre- and protohistoric archaeological site located near Goni, Sardinia. The complex includes standing stones (menhirs) and prehistoric built tombs (domus de janas). The site dates to the Late Neolithic (3200 – 2800 BC) and Early Chalcolithic (2800 – 2600 BC) periods.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2669504,
-          39.5675389
+          9.2675888,
+          39.5679748
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2669504,
-          39.5675389
+          9.2675888,
+          39.5679748
         ]
       },
       "id": "location-of-pranu-muttedu",

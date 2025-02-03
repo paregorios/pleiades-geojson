@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Bias (river)",
   "id": "573142",
+  "bbox": [
+    21.6288213998,
+    37.0566089567,
+    22.1683641828,
+    37.1422695529
+  ],
   "description": "A small river of Messenia, flowing into the sea between the Pamisus and Korone; now unlocated.",
   "connectsWith": [
     "570480"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9059791097,
+          37.1103474226
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

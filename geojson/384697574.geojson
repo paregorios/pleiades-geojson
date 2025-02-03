@@ -3,10 +3,10 @@
   "title": "Valley of the Kings",
   "id": "384697574",
   "bbox": [
-    32.6007001,
-    25.7378571,
-    32.6007001,
-    25.7378571
+    32.5985238,
+    25.7376593,
+    32.6042618,
+    25.7428492
   ],
   "description": "A valley in Egypt where Pharaonic burials took place from the sixteenth to the eleventh centuries B.C. (Eighteenth to the Twentieth Dynasties).",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6007001,
-          25.7378571
+          32.601625061,
+          25.7398049264
         ]
       },
       "properties": {
@@ -31,19 +31,141 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          32.6007001,
-          25.7378571
+          [
+            32.6008824,
+            25.7376593
+          ],
+          [
+            32.6005461,
+            25.7376961
+          ],
+          [
+            32.6001661,
+            25.7381538
+          ],
+          [
+            32.5992057,
+            25.7381949
+          ],
+          [
+            32.5985238,
+            25.7390652
+          ],
+          [
+            32.5991076,
+            25.7396013
+          ],
+          [
+            32.5996133,
+            25.7399997
+          ],
+          [
+            32.5997411,
+            25.741025
+          ],
+          [
+            32.5999516,
+            25.7412483
+          ],
+          [
+            32.6006149,
+            25.7412458
+          ],
+          [
+            32.6012027,
+            25.7416435
+          ],
+          [
+            32.601481,
+            25.7418068
+          ],
+          [
+            32.601849,
+            25.7421896
+          ],
+          [
+            32.6016158,
+            25.7427296
+          ],
+          [
+            32.6017881,
+            25.7428492
+          ],
+          [
+            32.6026956,
+            25.7420079
+          ],
+          [
+            32.6029732,
+            25.7418527
+          ],
+          [
+            32.6031819,
+            25.7417297
+          ],
+          [
+            32.6039617,
+            25.74098
+          ],
+          [
+            32.6037103,
+            25.7399528
+          ],
+          [
+            32.6035263,
+            25.7395418
+          ],
+          [
+            32.6041506,
+            25.7391003
+          ],
+          [
+            32.6042618,
+            25.7385436
+          ],
+          [
+            32.6038552,
+            25.7379434
+          ],
+          [
+            32.6021482,
+            25.7381642
+          ],
+          [
+            32.601852,
+            25.7383837
+          ],
+          [
+            32.6017028,
+            25.7388997
+          ],
+          [
+            32.6013624,
+            25.738937
+          ],
+          [
+            32.6011399,
+            25.7384774
+          ],
+          [
+            32.6011284,
+            25.7377528
+          ],
+          [
+            32.6008824,
+            25.7376593
+          ]
         ]
       },
-      "id": "location-of-valley-of-the-kings-necropolis",
+      "id": "osm-location-valley-of-the-kings",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Valley of the Kings necropolis",
-        "link": "http://pleiades.stoa.org/places/384697574/location-of-valley-of-the-kings-necropolis"
+        "title": "OSM location: Valley of the Kings",
+        "link": "http://pleiades.stoa.org/places/384697574/osm-location-valley-of-the-kings"
       }
     }
   ]

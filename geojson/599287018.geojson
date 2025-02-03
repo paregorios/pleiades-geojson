@@ -3,10 +3,10 @@
   "title": "Tomb of Tutankhamun (KV62)",
   "id": "599287018",
   "bbox": [
-    32.6015135,
-    25.7403861,
-    32.6015135,
-    25.7403861
+    32.6012989,
+    25.7402889,
+    32.6012989,
+    25.7402889
   ],
   "description": "The rock-cut tomb of the Egyptian pharaoh Tutankhamun (r. ca. 1332-1323 BC), discovered by Howard Carter in 1922.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6015135,
-          25.7403861
+          32.6012989,
+          25.7402889
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6015135,
-          25.7403861
+          32.6012989,
+          25.7402889
         ]
       },
-      "id": "tomb-of-tutankhamun",
+      "id": "osm-location-of-kv62-tomb-of-tutankhamen",
       "type": "Feature",
       "properties": {
-        "description": "Tomb of pharaoh Tutankhamun (r. ca. 1332-1323 BC), discovered by Howard Carter in 1922. Location verified in Google Earth 2013 based on OSM coordinates.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Tomb of Tutankhamun (KV 62)",
-        "link": "http://pleiades.stoa.org/places/599287018/tomb-of-tutankhamun"
+        "title": "OSM location of KV62 Tomb of Tutankhamen",
+        "link": "http://pleiades.stoa.org/places/599287018/osm-location-of-kv62-tomb-of-tutankhamen"
       }
     }
   ]

@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Termerion (promuntory)",
-  "id": "599966",
+  "title": "Tol-e Sangi (Fars)",
+  "id": "571478280",
   "bbox": [
-    27.3028116,
-    36.9570702,
-    27.3028116,
-    36.9570702
+    53.2289635,
+    30.2738975,
+    53.2289635,
+    30.2738975
   ],
-  "description": "An ancient place, cited: BAtlas 61 E4 Termerion Pr.",
-  "names": [
-    "Termerion Pr."
-  ],
+  "description": "Neolithic archaeological site in the Fars province of present-day Iran.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.3028116,
-          36.9570702
+          53.2289635,
+          30.2738975
         ]
       },
       "properties": {
@@ -30,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.3028116,
-          36.9570702
+          53.2289635,
+          30.2738975
         ]
       },
-      "id": "osm-location-of-koca-burun",
+      "id": "osm-location-of-morghab",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Koca Burun",
-        "link": "http://pleiades.stoa.org/places/599966/osm-location-of-koca-burun"
+        "title": "OSM location of Morghab",
+        "link": "http://pleiades.stoa.org/places/571478280/osm-location-of-morghab"
       }
     }
   ]

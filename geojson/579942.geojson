@@ -3,10 +3,10 @@
   "title": "Halipedon",
   "id": "579942",
   "bbox": [
-    23.644609,
-    37.937222,
-    23.644609,
-    37.937222
+    23.679,
+    37.946,
+    23.679,
+    37.946
   ],
   "description": "A swampy plain that was located to the north of the main harbour of the Piraeus.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.644609,
-          37.937222
+          23.679,
+          37.946
         ]
       },
       "properties": {
@@ -31,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              23.5,
-              37.75
-            ],
-            [
-              23.5,
-              38.0
-            ],
-            [
-              23.75,
-              38.0
-            ],
-            [
-              23.75,
-              37.75
-            ],
-            [
-              23.5,
-              37.75
-            ]
-          ]
+          23.679,
+          37.946
         ]
       },
-      "id": "batlas-location",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/579942/batlas-location"
+        "description": "Coordinates following Topostext",
+        "location_precision": "precise",
+        "title": "Topostext location",
+        "link": "http://pleiades.stoa.org/places/579942/topostext-location"
       }
     }
   ]

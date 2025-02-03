@@ -3,10 +3,10 @@
   "title": "Pozzo sacro di Sa Testa",
   "id": "623096561",
   "bbox": [
-    9.5460621,
-    40.9346022,
-    9.5460621,
-    40.9346022
+    9.5458636,
+    40.9345242,
+    9.5460701,
+    40.9346083
   ],
   "description": "An architectural complex dating to Sardinia's nuragic period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5460621,
-          40.9346022
+          9.54596112649,
+          40.9345723814
         ]
       },
       "properties": {

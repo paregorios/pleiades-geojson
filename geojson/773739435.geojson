@@ -3,10 +3,10 @@
   "title": "Hippodrome of Constantinople",
   "id": "773739435",
   "bbox": [
-    28.9746077,
-    41.005444,
-    28.9746077,
-    41.005444
+    28.974564,
+    41.0051832,
+    28.9775431,
+    41.0078578
   ],
   "description": "The Hippodrome was the great racetrack of the city of Constantinople and was connected to the no longer extant imperial palace. At about 450 m in length, the Hippodrome once accommodated about 100,000 spectators.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9746077,
-          41.005444
+          28.9760270753,
+          41.0065563573
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Ponte di Annibale - Sant'Angelo",
   "id": "588990228",
   "bbox": [
-    16.2745665,
-    39.132926,
-    16.2745665,
-    39.132926
+    16.2744088,
+    39.1327519,
+    16.2747253,
+    39.1331116
   ],
   "description": "A Roman bridge known by a variety of local toponyms that crosses the Savuto river. It is located in the modern Italian municipality of Altilia, Calabria.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.2745665,
-          39.132926
+          16.2745670504,
+          39.1329317508
         ]
       },
       "properties": {
@@ -29,19 +29,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.2745665,
-          39.132926
+          [
+            16.2744088,
+            39.1327752
+          ],
+          [
+            16.2746767,
+            39.1331116
+          ],
+          [
+            16.2747024,
+            39.1330993
+          ],
+          [
+            16.2747253,
+            39.1330883
+          ],
+          [
+            16.2744574,
+            39.1327519
+          ],
+          [
+            16.2744251,
+            39.1327674
+          ],
+          [
+            16.2744088,
+            39.1327752
+          ]
         ]
       },
-      "id": "osm-location-of-ponte-di-annibale-santangelo",
+      "id": "osm-location-of-ponte-di-annibale",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ponte di Annibale - Sant'Angelo",
-        "link": "http://pleiades.stoa.org/places/588990228/osm-location-of-ponte-di-annibale-santangelo"
+        "title": "OSM location of Ponte di Annibale",
+        "link": "http://pleiades.stoa.org/places/588990228/osm-location-of-ponte-di-annibale"
       }
     }
   ]

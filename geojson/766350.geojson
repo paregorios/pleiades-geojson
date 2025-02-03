@@ -3,10 +3,10 @@
   "title": "Deir Abu Sha'ar el-Qibli",
   "id": "766350",
   "bbox": [
-    33.639013,
-    27.362772,
-    33.639013,
-    27.362772
+    33.6326029,
+    27.3684682,
+    33.6334485,
+    27.3692911
   ],
   "description": "An ancient place, cited: BAtlas 78 D3 Deir Abu Sha'ar el-Qibli",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.639013,
-          27.362772
+          33.6330385515,
+          27.36889778
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.639013,
-          27.362772
+          [
+            33.6328051,
+            27.3692911
+          ],
+          [
+            33.6326029,
+            27.3687754
+          ],
+          [
+            33.6332528,
+            27.3684682
+          ],
+          [
+            33.6334485,
+            27.3690972
+          ],
+          [
+            33.6328051,
+            27.3692911
+          ]
         ]
       },
-      "id": "darmc-location-32631",
+      "id": "osm-location-of-deir-abu-shaar-el-qibli",
       "type": "Feature",
       "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 32631",
-        "link": "http://pleiades.stoa.org/places/766350/darmc-location-32631"
+        "title": "OSM location of Deir Abu Sha'ar el-Qibli",
+        "link": "http://pleiades.stoa.org/places/766350/osm-location-of-deir-abu-shaar-el-qibli"
       }
     }
   ]

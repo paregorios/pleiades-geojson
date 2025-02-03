@@ -3,10 +3,10 @@
   "title": "Sep. Eurysacis",
   "id": "226302607",
   "bbox": [
-    12.515278,
-    41.891389,
-    12.515278,
-    41.891389
+    12.5152301,
+    41.8913773,
+    12.5153964,
+    41.8914528
   ],
   "description": "The tomb of a baker, M. Vergilius Eurysaces, built at the point where the via Labicana and the via Praenestina exit from Rome's walls to the east. The tomb dates to the later Republican period (ca. 50-20 B.C.).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.515278,
-          41.891389
+          12.515295022,
+          41.8914052626
         ]
       },
       "properties": {
@@ -45,6 +45,49 @@
         "location_precision": "precise",
         "title": "Imagery location of Sep. Eurysacis",
         "link": "http://pleiades.stoa.org/places/226302607/location-of-sep.-eurysacis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5152616,
+            41.8914528
+          ],
+          [
+            12.5152301,
+            41.8914056
+          ],
+          [
+            12.515326,
+            41.8913773
+          ],
+          [
+            12.5153964,
+            41.8914418
+          ],
+          [
+            12.5153895,
+            41.8914478
+          ],
+          [
+            12.5153156,
+            41.8914478
+          ],
+          [
+            12.5152616,
+            41.8914528
+          ]
+        ]
+      },
+      "id": "osm-location-of-sepolcro-del-fornaio-eurisace",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sepolcro del fornaio Eurisace",
+        "link": "http://pleiades.stoa.org/places/226302607/osm-location-of-sepolcro-del-fornaio-eurisace"
       }
     }
   ]

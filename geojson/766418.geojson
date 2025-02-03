@@ -3,10 +3,10 @@
   "title": "Umm Towat",
   "id": "766418",
   "bbox": [
-    33.241489,
-    27.168976,
-    33.241489,
-    27.168976
+    33.2418931,
+    27.1695152,
+    33.2420236,
+    27.1696268
   ],
   "description": "An ancient place, cited: BAtlas 78 C3 Umm Towat",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.241489,
-          27.168976
+          33.2419583341,
+          27.1695710084
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.241489,
-          27.168976
+          [
+            33.2419261,
+            27.1696268
+          ],
+          [
+            33.2418931,
+            27.1695472
+          ],
+          [
+            33.2419905,
+            27.1695152
+          ],
+          [
+            33.2420236,
+            27.1695948
+          ],
+          [
+            33.2419261,
+            27.1696268
+          ]
         ]
       },
-      "id": "darmc-location-22645",
+      "id": "osm-location-of-umm-towat",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 22645",
-        "link": "http://pleiades.stoa.org/places/766418/darmc-location-22645"
+        "title": "OSM location of Umm Towat",
+        "link": "http://pleiades.stoa.org/places/766418/osm-location-of-umm-towat"
       }
     }
   ]

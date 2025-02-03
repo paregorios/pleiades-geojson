@@ -3,10 +3,10 @@
   "title": "So-called Arch of Hadrian (Capua)",
   "id": "457780134",
   "bbox": [
-    14.2476599,
-    41.0840002,
-    14.2476599,
-    41.0840002
+    14.247687,
+    41.0840181,
+    14.247687,
+    41.0840181
   ],
   "description": "The remains of a triple arch in opus latericium marking the pomerium of Capua. It is perhaps originally constructed under the Flavians.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2476599,
-          41.0840002
+          14.247687,
+          41.0840181
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2476599,
-          41.0840002
+          14.247687,
+          41.0840181
         ]
       },
-      "id": "osm-location-of-arch-of-hadrian",
+      "id": "osm-location-of-arco-di-adriano",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Arch of Hadrian",
-        "link": "http://pleiades.stoa.org/places/457780134/osm-location-of-arch-of-hadrian"
+        "title": "OSM location of Arco di Adriano",
+        "link": "http://pleiades.stoa.org/places/457780134/osm-location-of-arco-di-adriano"
       }
     }
   ]

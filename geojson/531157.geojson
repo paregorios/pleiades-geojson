@@ -3,20 +3,20 @@
   "title": "Zervokhori",
   "id": "531157",
   "bbox": [
-    20.577329,
-    39.412965,
-    20.577329,
-    39.412965
+    20.56208,
+    39.3957625,
+    20.5621611,
+    39.3958155
   ],
-  "description": "An ancient place, cited: BAtlas 54 C3 Zervokhori",
+  "description": "A fortified settlement, probably constructed in the Hellenistic period, located south of the modern Greek village of Asfaka (Souli municipality, Epirus). An extensive, elite residence was built inside the fortification in early Roman times. The modern chapel of Ag. Donatos, which incorporates spolia from a Hellenistic structure, was built on part of the lower terrace of the ancient site.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.577329,
-          39.412965
+          20.56212055,
+          39.395789
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.577329,
-          39.412965
+          [
+            20.56208,
+            39.3958131
+          ],
+          [
+            20.5620826,
+            39.3957625
+          ],
+          [
+            20.5621611,
+            39.3957649
+          ],
+          [
+            20.5621585,
+            39.3958155
+          ],
+          [
+            20.56208,
+            39.3958131
+          ]
         ]
       },
-      "id": "darmc-location-15524",
+      "id": "osm-location-of-ii3i1i-i-ii-i1-2i-ii-i-iiuii2i",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15524",
-        "link": "http://pleiades.stoa.org/places/531157/darmc-location-15524"
+        "title": "OSM location of Άγιος Δονάτος Ζερβοχωρίου",
+        "link": "http://pleiades.stoa.org/places/531157/osm-location-of-ii3i1i-i-ii-i1-2i-ii-i-iiuii2i"
       }
     }
   ]

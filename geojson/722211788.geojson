@@ -3,10 +3,10 @@
   "title": "Tell Arpachiyah",
   "id": "722211788",
   "bbox": [
-    42.95,
-    36.483333,
-    42.95,
-    36.483333
+    42.95255,
+    36.49324,
+    42.95255,
+    36.49324
   ],
   "description": "A Neolithic site occupied in the Halaf and Ubaid periods.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.95,
-          36.483333
+          42.95255,
+          36.49324
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.95,
-          36.483333
+          42.95255,
+          36.49324
         ]
       },
-      "id": "imagery-location-of-tell-arpachiyah",
+      "id": "osm-location-of-tell-arpachiyah-tepe-reshwa",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates following GeoHack.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Tell Arpachiyah",
-        "link": "http://pleiades.stoa.org/places/722211788/imagery-location-of-tell-arpachiyah"
+        "title": "OSM location of Tell Arpachiyah (Tepe Reshwa)",
+        "link": "http://pleiades.stoa.org/places/722211788/osm-location-of-tell-arpachiyah-tepe-reshwa"
       }
     }
   ]
