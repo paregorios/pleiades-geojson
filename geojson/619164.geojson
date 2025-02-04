@@ -3,10 +3,10 @@
   "title": "Garsaura/Col. Claudia Archelais/Koloneia",
   "id": "619164",
   "bbox": [
-    34.028159,
-    38.37335,
-    34.038591,
-    38.383412
+    34.026907,
+    38.3705416,
+    34.026907,
+    38.3705416
   ],
   "description": "Originally known as Garsaura, this place was a key settlement of the strategia of Garsaouritis. King Archelaus refounded it and named it after himself. Under the Roman emperor Claudius the site received colonial status. The settlement is located at an oasis to the southeast of Tuz Gölü and some 225 km south of Ancyra.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.033375,
-          38.378381
+          34.026907,
+          38.3705416
         ]
       },
       "properties": {
@@ -37,34 +37,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.028159,
-          38.37335
+          34.026907,
+          38.3705416
         ]
       },
-      "id": "darmc-location-566",
+      "id": "osm-location-of-aksaray",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 566",
-        "link": "http://pleiades.stoa.org/places/619164/darmc-location-566"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.038591,
-          38.383412
-        ]
-      },
-      "id": "darmc-location-12484",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12484",
-        "link": "http://pleiades.stoa.org/places/619164/darmc-location-12484"
+        "title": "OSM location of Aksaray",
+        "link": "http://pleiades.stoa.org/places/619164/osm-location-of-aksaray"
       }
     }
   ]

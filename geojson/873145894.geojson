@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castro de Arrola",
+  "id": "873145894",
+  "bbox": [
+    -2.6090957,
+    43.3115176,
+    -2.6077175,
+    43.3124895
+  ],
+  "description": "Castro de Arrola or oppidum de Marueleza is an Iron Age oppidum in the province of Vizcaya, Spain. The site dates to the third and second centuries BCE.",
+  "names": [
+    "Castro de Arrola"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.60843434173,
+          43.3120647552
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.6084412,
+            43.3124739
+          ],
+          [
+            -2.608629,
+            43.3124486
+          ],
+          [
+            -2.6087738,
+            43.3124037
+          ],
+          [
+            -2.6089535,
+            43.3123178
+          ],
+          [
+            -2.6090957,
+            43.3121558
+          ],
+          [
+            -2.609067,
+            43.3120317
+          ],
+          [
+            -2.6089213,
+            43.3117967
+          ],
+          [
+            -2.6084787,
+            43.3115176
+          ],
+          [
+            -2.6082031,
+            43.3117478
+          ],
+          [
+            -2.6077175,
+            43.312128
+          ],
+          [
+            -2.6080815,
+            43.312443
+          ],
+          [
+            -2.6081891,
+            43.3124895
+          ],
+          [
+            -2.6084412,
+            43.3124739
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/873145894/osm-location"
+      }
+    }
+  ]
+}

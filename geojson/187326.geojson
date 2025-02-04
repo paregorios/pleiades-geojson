@@ -3,10 +3,10 @@
   "title": "*Brigobannis",
   "id": "187326",
   "bbox": [
-    8.4825,
-    47.919444,
-    8.48878,
-    47.92375
+    8.4798208,
+    47.919321,
+    8.4802621,
+    47.9197181
   ],
   "description": "An ancient place, cited: BAtlas 19 A2 *Brigobannis",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.48564,
-          47.921597
+          8.4800437961,
+          47.9195111071
         ]
       },
       "properties": {
@@ -28,36 +28,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.48878,
-          47.92375
+          [
+            8.4798208,
+            47.9196338
+          ],
+          [
+            8.4800093,
+            47.9196697
+          ],
+          [
+            8.4799986,
+            47.9196948
+          ],
+          [
+            8.4801208,
+            47.9197181
+          ],
+          [
+            8.4801856,
+            47.9195651
+          ],
+          [
+            8.4802153,
+            47.9195708
+          ],
+          [
+            8.4802595,
+            47.9194666
+          ],
+          [
+            8.4802279,
+            47.9194606
+          ],
+          [
+            8.4802621,
+            47.9193799
+          ],
+          [
+            8.4799525,
+            47.919321
+          ],
+          [
+            8.47994,
+            47.9193505
+          ],
+          [
+            8.479908,
+            47.9193444
+          ],
+          [
+            8.4798743,
+            47.919424
+          ],
+          [
+            8.479907,
+            47.9194302
+          ],
+          [
+            8.4798208,
+            47.9196338
+          ]
         ]
       },
-      "id": "darmc-location-7467",
+      "id": "osm-location-of-rapmische-badruine-ha1-4fingen",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7467",
-        "link": "http://pleiades.stoa.org/places/187326/darmc-location-7467"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.4825,
-          47.919444
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/187326/dare-location"
+        "title": "OSM location of Römische Badruine Hüfingen",
+        "link": "http://pleiades.stoa.org/places/187326/osm-location-of-rapmische-badruine-ha1-4fingen"
       }
     }
   ]

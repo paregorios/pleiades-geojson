@@ -3,10 +3,10 @@
   "title": "Boin villa",
   "id": "140513",
   "bbox": [
-    1.291694,
-    45.44644,
-    1.291694,
-    45.44644
+    1.2870067,
+    45.4621353,
+    1.2884658,
+    45.4632866
   ],
   "description": "An ancient place, cited: BAtlas 14 G3 no. 82 (Boin, Cm. St-Eloy-les-Tuileries)",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.291694,
-          45.44644
+          1.28769621967,
+          45.4626999297
         ]
       },
       "properties": {
@@ -25,19 +25,65 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          1.291694,
-          45.44644
+          [
+            1.2884604,
+            45.4627599
+          ],
+          [
+            1.2880474,
+            45.4632866
+          ],
+          [
+            1.2873071,
+            45.4630233
+          ],
+          [
+            1.2872105,
+            45.4628954
+          ],
+          [
+            1.2872803,
+            45.462726
+          ],
+          [
+            1.2872963,
+            45.462647
+          ],
+          [
+            1.2870067,
+            45.4624551
+          ],
+          [
+            1.2871998,
+            45.4621353
+          ],
+          [
+            1.2873124,
+            45.4621429
+          ],
+          [
+            1.2878542,
+            45.4623648
+          ],
+          [
+            1.2884658,
+            45.4627298
+          ],
+          [
+            1.2884604,
+            45.4627599
+          ]
         ]
       },
-      "id": "center-of-batlas-location",
+      "id": "osm-location-of-villa-gallo-romaine-du-boin",
       "type": "Feature",
       "properties": {
-        "description": "A positive identification of the sub-commune location noted in the Barrington Atlas directory",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Center point of location",
-        "link": "http://pleiades.stoa.org/places/140513/center-of-batlas-location"
+        "title": "OSM location of Villa gallo-romaine du Boin",
+        "link": "http://pleiades.stoa.org/places/140513/osm-location-of-villa-gallo-romaine-du-boin"
       }
     }
   ]

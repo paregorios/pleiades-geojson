@@ -9,6 +9,9 @@
     45.052752
   ],
   "description": "A Roman road connecting Rome to Placentia begun by Marcus Aemilius Scaurus in 115 B.C.",
+  "names": [
+    "Via Aemilia Scauri"
+  ],
   "features": [
     {
       "type": "Feature",

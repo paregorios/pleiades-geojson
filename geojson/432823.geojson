@@ -3,10 +3,10 @@
   "title": "Eumorfiana? Ins.",
   "id": "432823",
   "bbox": [
-    13.1,
-    40.833,
-    13.1,
-    40.833
+    13.1025585,
+    40.8397513,
+    13.1029903,
+    40.8401216
   ],
   "description": "An ancient place, cited: BAtlas 44 D4 Eumorfiana? Ins.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1,
-          40.833
+          13.1027577232,
+          40.8399208755
         ]
       },
       "properties": {
@@ -32,19 +32,101 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.1,
-          40.833
+          [
+            13.1027047,
+            40.8401216
+          ],
+          [
+            13.1026403,
+            40.8401115
+          ],
+          [
+            13.1025853,
+            40.840074
+          ],
+          [
+            13.1026068,
+            40.8400364
+          ],
+          [
+            13.1025799,
+            40.8399928
+          ],
+          [
+            13.1025585,
+            40.83994
+          ],
+          [
+            13.1025746,
+            40.8398832
+          ],
+          [
+            13.1026363,
+            40.8398578
+          ],
+          [
+            13.1026309,
+            40.8398173
+          ],
+          [
+            13.1026644,
+            40.839799
+          ],
+          [
+            13.1026765,
+            40.8397736
+          ],
+          [
+            13.1027503,
+            40.8397757
+          ],
+          [
+            13.1028026,
+            40.8397513
+          ],
+          [
+            13.1029139,
+            40.8397645
+          ],
+          [
+            13.1029903,
+            40.8398426
+          ],
+          [
+            13.1029675,
+            40.8398883
+          ],
+          [
+            13.1029273,
+            40.8398873
+          ],
+          [
+            13.1029018,
+            40.8399603
+          ],
+          [
+            13.1028522,
+            40.840009
+          ],
+          [
+            13.1027985,
+            40.8400709
+          ],
+          [
+            13.1027047,
+            40.8401216
+          ]
         ]
       },
-      "id": "location-of-scoglio-della-botte",
+      "id": "osm-location-of-scoglio-della-botte",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after GeoHack.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Scoglio della Botte",
-        "link": "http://pleiades.stoa.org/places/432823/location-of-scoglio-della-botte"
+        "title": "OSM location of Scoglio della Botte",
+        "link": "http://pleiades.stoa.org/places/432823/osm-location-of-scoglio-della-botte"
       }
     }
   ]

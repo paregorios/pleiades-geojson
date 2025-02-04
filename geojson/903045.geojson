@@ -3,10 +3,10 @@
   "title": "Iasonius (mountain)",
   "id": "903045",
   "bbox": [
-    52.1102898,
-    35.954337,
-    52.1102898,
-    35.954337
+    52.1103419,
+    35.954365,
+    52.1103419,
+    35.954365
   ],
   "description": "A mountain mentioned by Strabo, Ptolemy, and Ammianus. It is probably to be identified with Mount Damāvand in modern Iran.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.1102898,
-          35.954337
+          52.1103419,
+          35.954365
         ]
       },
       "properties": {
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.1102898,
-          35.954337
+          52.1103419,
+          35.954365
         ]
       },
       "id": "location-of-damavand-mountain",

@@ -3,10 +3,10 @@
   "title": "Semnones",
   "id": "118962",
   "bbox": [
-    11.0,
-    51.0,
-    12.0,
-    52.0
+    10.9948321422,
+    51.1030135626,
+    13.2202428767,
+    53.1037020511
   ],
   "description": "The Semnones were a tribe of the Germanic Suebi whose territory lay between the Albis and Viadua rivers.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5,
-          51.5
+          12.1273088999,
+          52.0983411778
         ]
       },
       "properties": {

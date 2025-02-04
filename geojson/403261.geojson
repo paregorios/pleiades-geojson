@@ -3,10 +3,10 @@
   "title": "Portus Pisanus?",
   "id": "403261",
   "bbox": [
-    10.343319,
-    43.679716,
-    10.346781,
-    43.680035
+    10.3478436,
+    43.6796766,
+    10.3478436,
+    43.6796766
   ],
   "description": "The port city of Roman Pisa.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.34505,
-          43.6798755
+          10.3478436,
+          43.6796766
         ]
       },
       "properties": {
@@ -34,34 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.343319,
-          43.680035
+          10.3478436,
+          43.6796766
         ]
       },
-      "id": "darmc-location-18804",
+      "id": "osm-location-of-san-piero-a-grado",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18804",
-        "link": "http://pleiades.stoa.org/places/403261/darmc-location-18804"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.346781,
-          43.679716
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, village precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/403261/dare-location"
+        "title": "OSM location of San Piero a Grado",
+        "link": "http://pleiades.stoa.org/places/403261/osm-location-of-san-piero-a-grado"
       }
     }
   ]

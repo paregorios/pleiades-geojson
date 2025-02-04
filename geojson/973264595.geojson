@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Merton Roman Camp",
+  "id": "973264595",
+  "bbox": [
+    -1.1662921,
+    51.8724629,
+    -1.1627523,
+    51.874715
+  ],
+  "description": "The so-called Merton Roman Camp was the site of a Roman parade ground and part of a temporary marching camp located 500m southeast of the Roman settlement of Alchester.",
+  "connectsWith": [
+    "79289"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16452336335,
+          51.8735643192
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1639868,
+            51.8747036
+          ],
+          [
+            -1.1640979,
+            51.874715
+          ],
+          [
+            -1.1643294,
+            51.8746579
+          ],
+          [
+            -1.1662273,
+            51.8740577
+          ],
+          [
+            -1.1662921,
+            51.8739777
+          ],
+          [
+            -1.1662736,
+            51.8738977
+          ],
+          [
+            -1.1651719,
+            51.8724858
+          ],
+          [
+            -1.1650145,
+            51.8724629
+          ],
+          [
+            -1.1648015,
+            51.8724972
+          ],
+          [
+            -1.1628666,
+            51.8730174
+          ],
+          [
+            -1.1627523,
+            51.8731062
+          ],
+          [
+            -1.1627647,
+            51.8732003
+          ],
+          [
+            -1.1639868,
+            51.8747036
+          ]
+        ]
+      },
+      "id": "osm-location-of-merton-roman-camp",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Merton Roman Camp",
+        "link": "http://pleiades.stoa.org/places/973264595/osm-location-of-merton-roman-camp"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Les Tours-Mirandes",
   "id": "138624",
   "bbox": [
-    0.293779,
-    46.738131,
-    0.297558,
-    46.74009
+    0.2934055,
+    46.7381577,
+    0.2987879,
+    46.7409661
   ],
   "description": "An ancient place, cited: BAtlas 14 F2 Les Tours-Mirandes",
   "names": [
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.2956685,
-          46.7391105
+          0.294950745836,
+          46.7398759059
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.297558,
-          46.738131
-        ]
-      },
-      "id": "darmc-location-23470",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 23470",
-        "link": "http://pleiades.stoa.org/places/138624/darmc-location-23470"
       }
     },
     {
@@ -58,6 +41,125 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/138624/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.2979547,
+            46.7381577
+          ],
+          [
+            0.2981723,
+            46.738406
+          ],
+          [
+            0.2981938,
+            46.7384296
+          ],
+          [
+            0.2981985,
+            46.7384348
+          ],
+          [
+            0.2982495,
+            46.738491
+          ],
+          [
+            0.2982836,
+            46.7384762
+          ],
+          [
+            0.2983356,
+            46.7385372
+          ],
+          [
+            0.2983474,
+            46.738551
+          ],
+          [
+            0.2984503,
+            46.738666
+          ],
+          [
+            0.2979139,
+            46.7388424
+          ],
+          [
+            0.298482,
+            46.7396022
+          ],
+          [
+            0.2985926,
+            46.7397501
+          ],
+          [
+            0.2987879,
+            46.7399918
+          ],
+          [
+            0.2943941,
+            46.7409661
+          ],
+          [
+            0.2943188,
+            46.7408103
+          ],
+          [
+            0.2942313,
+            46.7406293
+          ],
+          [
+            0.2937161,
+            46.7407827
+          ],
+          [
+            0.2935186,
+            46.7408102
+          ],
+          [
+            0.2934109,
+            46.739735
+          ],
+          [
+            0.2934083,
+            46.7396593
+          ],
+          [
+            0.2934055,
+            46.7394342
+          ],
+          [
+            0.2950767,
+            46.7390657
+          ],
+          [
+            0.2958144,
+            46.7388889
+          ],
+          [
+            0.2966596,
+            46.7386412
+          ],
+          [
+            0.2971311,
+            46.7384792
+          ],
+          [
+            0.2979547,
+            46.7381577
+          ]
+        ]
+      },
+      "id": "osm-location-of-site-gallo-romain-des-tours",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Site gallo-romain des Tours Mirandes",
+        "link": "http://pleiades.stoa.org/places/138624/osm-location-of-site-gallo-romain-des-tours"
       }
     }
   ]

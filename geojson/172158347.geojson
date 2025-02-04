@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte della Maddalena",
+  "id": "172158347",
+  "bbox": [
+    10.5513124,
+    43.985547,
+    10.5526739,
+    43.9858422
+  ],
+  "description": "A Medieval bridge across the Serchio River. The bridge was built ca. 1080-1100 and was renovated ca. 1300. It is located along the Via Francigena.",
+  "connectsWith": [
+    "403185",
+    "136661131"
+  ],
+  "names": [
+    "Ponte della Maddalena"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5519940556,
+          43.9857049063
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5526739,
+            43.9858422
+          ],
+          [
+            10.5526733,
+            43.9857636
+          ],
+          [
+            10.5526424,
+            43.98578
+          ],
+          [
+            10.5525982,
+            43.9857839
+          ],
+          [
+            10.5525379,
+            43.9857762
+          ],
+          [
+            10.551416,
+            43.9856011
+          ],
+          [
+            10.5513787,
+            43.9855918
+          ],
+          [
+            10.5513595,
+            43.9855723
+          ],
+          [
+            10.551358,
+            43.9855473
+          ],
+          [
+            10.5513137,
+            43.985547
+          ],
+          [
+            10.5513124,
+            43.9855816
+          ],
+          [
+            10.5513253,
+            43.9856053
+          ],
+          [
+            10.5513567,
+            43.9856233
+          ],
+          [
+            10.5514153,
+            43.9856334
+          ],
+          [
+            10.5525284,
+            43.9858065
+          ],
+          [
+            10.5526069,
+            43.9858176
+          ],
+          [
+            10.5526438,
+            43.9858278
+          ],
+          [
+            10.5526739,
+            43.9858422
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-della-maddalena",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte della Maddalena",
+        "link": "http://pleiades.stoa.org/places/172158347/osm-location-of-ponte-della-maddalena"
+      }
+    }
+  ]
+}

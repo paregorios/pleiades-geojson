@@ -3,10 +3,10 @@
   "title": "Varakhsha",
   "id": "29800",
   "bbox": [
-    62.908284,
-    40.35468,
-    62.908284,
-    40.35468
+    64.070891,
+    39.8619753,
+    64.0757619,
+    39.8653764
   ],
   "description": "An ancient place, cited: BAtlas 3 H2 Varakhsha",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.908284,
-          40.35468
+          64.0731945256,
+          39.8638069823
         ]
       },
       "properties": {
@@ -25,19 +25,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          62.908284,
-          40.35468
+          [
+            64.0715025,
+            39.8652117
+          ],
+          [
+            64.070891,
+            39.8634082
+          ],
+          [
+            64.0709017,
+            39.86312
+          ],
+          [
+            64.071524,
+            39.8619753
+          ],
+          [
+            64.0752469,
+            39.8629965
+          ],
+          [
+            64.0755902,
+            39.8633259
+          ],
+          [
+            64.0757511,
+            39.8636882
+          ],
+          [
+            64.0757619,
+            39.8640176
+          ],
+          [
+            64.0757404,
+            39.8642812
+          ],
+          [
+            64.075676,
+            39.8645117
+          ],
+          [
+            64.0755366,
+            39.8647341
+          ],
+          [
+            64.0752791,
+            39.8649729
+          ],
+          [
+            64.0750001,
+            39.8650964
+          ],
+          [
+            64.0747104,
+            39.8651541
+          ],
+          [
+            64.0719424,
+            39.8653764
+          ],
+          [
+            64.0716742,
+            39.865327
+          ],
+          [
+            64.0715025,
+            39.8652117
+          ]
         ]
       },
-      "id": "darmc-location-15351",
+      "id": "osm-location-of-varakhsha",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15351",
-        "link": "http://pleiades.stoa.org/places/29800/darmc-location-15351"
+        "title": "OSM location of Varakhsha",
+        "link": "http://pleiades.stoa.org/places/29800/osm-location-of-varakhsha"
       }
     }
   ]

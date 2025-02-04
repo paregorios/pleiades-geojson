@@ -3,10 +3,10 @@
   "title": "Colossae",
   "id": "638811",
   "bbox": [
-    29.255123,
-    37.786618,
-    29.259931,
-    37.802117
+    29.2583129,
+    37.7850637,
+    29.2615686,
+    37.7883324
   ],
   "description": "An ancient place, cited: BAtlas 65 B2 Colossae",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.2580716667,
-          37.7930956667
+          29.2599208967,
+          37.7867946862
         ]
       },
       "properties": {
@@ -32,53 +32,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          29.255123,
-          37.802117
+          [
+            29.2588425,
+            37.7870201
+          ],
+          [
+            29.258501,
+            37.7872346
+          ],
+          [
+            29.2583129,
+            37.7875172
+          ],
+          [
+            29.2584138,
+            37.787838
+          ],
+          [
+            29.2587171,
+            37.7882228
+          ],
+          [
+            29.2590688,
+            37.7883324
+          ],
+          [
+            29.2595449,
+            37.7882304
+          ],
+          [
+            29.2597522,
+            37.7881884
+          ],
+          [
+            29.2601917,
+            37.7881128
+          ],
+          [
+            29.2610151,
+            37.7880587
+          ],
+          [
+            29.2611788,
+            37.7879861
+          ],
+          [
+            29.2614036,
+            37.7879172
+          ],
+          [
+            29.2614646,
+            37.7877702
+          ],
+          [
+            29.2615284,
+            37.7874879
+          ],
+          [
+            29.2615686,
+            37.7868478
+          ],
+          [
+            29.2612778,
+            37.7859142
+          ],
+          [
+            29.2611634,
+            37.78562
+          ],
+          [
+            29.2605612,
+            37.7852025
+          ],
+          [
+            29.2597202,
+            37.7850637
+          ],
+          [
+            29.2593676,
+            37.7850744
+          ],
+          [
+            29.259119,
+            37.7853768
+          ],
+          [
+            29.2589799,
+            37.7855566
+          ],
+          [
+            29.2586778,
+            37.7858116
+          ],
+          [
+            29.2585497,
+            37.7861338
+          ],
+          [
+            29.2585975,
+            37.7864037
+          ],
+          [
+            29.2587547,
+            37.7867079
+          ],
+          [
+            29.258881,
+            37.7868337
+          ],
+          [
+            29.2588425,
+            37.7870201
+          ]
         ]
       },
-      "id": "darmc-location-12064",
+      "id": "osm-location-of-colossae",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12064",
-        "link": "http://pleiades.stoa.org/places/638811/darmc-location-12064"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.259161,
-          37.790552
-        ]
-      },
-      "id": "darmc-location-11402",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 11402",
-        "link": "http://pleiades.stoa.org/places/638811/darmc-location-11402"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.259931,
-          37.786618
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/638811/dare-location"
+        "title": "OSM location of Colossae",
+        "link": "http://pleiades.stoa.org/places/638811/osm-location-of-colossae"
       }
     }
   ]

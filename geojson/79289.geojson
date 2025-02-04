@@ -8,7 +8,7 @@
     -1.173187,
     51.878509
   ],
-  "description": "An ancient place, cited: BAtlas 8 F3 Alchester",
+  "description": "Alchester was the site of a fortified Roman town located 17 kilometers to the northeast of Oxford. The site was of Claudian date and likely on the site of a Pre-Roman Iron Age settlement. It may have been one of the earliest legionary bases in Britannia.",
   "features": [
     {
       "type": "Feature",
@@ -34,7 +34,7 @@
       "id": "darmc-location-19948",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19948",
         "link": "http://pleiades.stoa.org/places/79289/darmc-location-19948"

@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "title": "Panagia Ekatontapiliani",
+  "id": "484690690",
+  "bbox": [
+    25.1517406,
+    37.0848091,
+    25.1521784,
+    37.085062
+  ],
+  "description": "Panagia Ekatontapiliani or Panagia Katapoliani is an important Early Christian church complex in Parikia town, on the island of Paros, Greece, that was founded in 326 CE.",
+  "connectsWith": [
+    "599868"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1519566856,
+          37.0849330118
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.1519127,
+            37.085062
+          ],
+          [
+            25.1519031,
+            37.0850362
+          ],
+          [
+            25.1518032,
+            37.0850599
+          ],
+          [
+            25.1517406,
+            37.0848917
+          ],
+          [
+            25.151785,
+            37.0848812
+          ],
+          [
+            25.1518451,
+            37.0848664
+          ],
+          [
+            25.1518365,
+            37.0848437
+          ],
+          [
+            25.151958,
+            37.0848119
+          ],
+          [
+            25.1519677,
+            37.0848091
+          ],
+          [
+            25.1519901,
+            37.0848596
+          ],
+          [
+            25.1521049,
+            37.0848324
+          ],
+          [
+            25.1521128,
+            37.0848517
+          ],
+          [
+            25.1521169,
+            37.0848506
+          ],
+          [
+            25.1521346,
+            37.0848508
+          ],
+          [
+            25.1521522,
+            37.0848561
+          ],
+          [
+            25.1521651,
+            37.0848645
+          ],
+          [
+            25.1521745,
+            37.0848765
+          ],
+          [
+            25.1521784,
+            37.0848903
+          ],
+          [
+            25.1521763,
+            37.0849044
+          ],
+          [
+            25.1521686,
+            37.0849172
+          ],
+          [
+            25.1521649,
+            37.0849201
+          ],
+          [
+            25.1521561,
+            37.0849272
+          ],
+          [
+            25.1521401,
+            37.0849334
+          ],
+          [
+            25.1521487,
+            37.0849534
+          ],
+          [
+            25.1520371,
+            37.0849801
+          ],
+          [
+            25.1520551,
+            37.0850283
+          ],
+          [
+            25.1519127,
+            37.085062
+          ]
+        ]
+      },
+      "id": "osm-location-of-panagia-ekatontapyliani",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Panagia Ekatontapyliani",
+        "link": "http://pleiades.stoa.org/places/484690690/osm-location-of-panagia-ekatontapyliani"
+      }
+    }
+  ]
+}

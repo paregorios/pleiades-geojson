@@ -3,10 +3,10 @@
   "title": "Grimspound",
   "id": "248025633",
   "bbox": [
-    -3.83738,
-    50.613326,
-    -3.83738,
-    50.613326
+    -3.8389259,
+    50.6125092,
+    -3.8368683,
+    50.6139962
   ],
   "description": "A prehistoric settlement of the late Bronze Age located in the Dartmoor area of south Devon, England. The remains of 24 stone houses survive within a massive boundary wall.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.83738,
-          50.613326
+          -3.83788680436,
+          50.6132782266
         ]
       },
       "properties": {
@@ -28,19 +28,137 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.83738,
-          50.613326
+          [
+            -3.8380175,
+            50.6125092
+          ],
+          [
+            -3.8377292,
+            50.6125656
+          ],
+          [
+            -3.837311,
+            50.6126917
+          ],
+          [
+            -3.8370534,
+            50.6128255
+          ],
+          [
+            -3.8369045,
+            50.6130215
+          ],
+          [
+            -3.8368687,
+            50.6132315
+          ],
+          [
+            -3.8368683,
+            50.6133437
+          ],
+          [
+            -3.8370369,
+            50.6136462
+          ],
+          [
+            -3.8371271,
+            50.6138314
+          ],
+          [
+            -3.8373623,
+            50.6139909
+          ],
+          [
+            -3.8375388,
+            50.6139962
+          ],
+          [
+            -3.8377566,
+            50.6139804
+          ],
+          [
+            -3.8379931,
+            50.6139621
+          ],
+          [
+            -3.8382447,
+            50.6139034
+          ],
+          [
+            -3.8384102,
+            50.6138632
+          ],
+          [
+            -3.8385619,
+            50.6138019
+          ],
+          [
+            -3.8386804,
+            50.613746
+          ],
+          [
+            -3.8387852,
+            50.6136882
+          ],
+          [
+            -3.838868,
+            50.6135937
+          ],
+          [
+            -3.8389121,
+            50.6134817
+          ],
+          [
+            -3.8389259,
+            50.6133872
+          ],
+          [
+            -3.8389081,
+            50.6132596
+          ],
+          [
+            -3.8388735,
+            50.6131003
+          ],
+          [
+            -3.8387852,
+            50.6129288
+          ],
+          [
+            -3.8387192,
+            50.612877
+          ],
+          [
+            -3.8386452,
+            50.6128112
+          ],
+          [
+            -3.8385755,
+            50.612749
+          ],
+          [
+            -3.8383257,
+            50.6125916
+          ],
+          [
+            -3.8381464,
+            50.6125293
+          ],
+          [
+            -3.8380175,
+            50.6125092
+          ]
         ]
       },
-      "id": "grimspound-dartmoor-england",
+      "id": "osm-location-of-grimspound",
       "type": "Feature",
       "properties": {
-        "description": "Bronze Age Stone Hut Circles in Grimspound, Dartmoor, England.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Grimspound, Dartmoor, England",
-        "link": "http://pleiades.stoa.org/places/248025633/grimspound-dartmoor-england"
+        "title": "OSM location of Grimspound",
+        "link": "http://pleiades.stoa.org/places/248025633/osm-location-of-grimspound"
       }
     }
   ]

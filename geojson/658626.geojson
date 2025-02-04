@@ -3,10 +3,10 @@
   "title": "Tourmanin",
   "id": "658626",
   "bbox": [
-    36.816034,
-    36.234471,
-    36.816034,
-    36.234471
+    36.8237088,
+    36.2418776,
+    36.8237088,
+    36.2418776
   ],
   "description": "An ancient place, cited: BAtlas 67 D4 Tourmanin",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.816034,
-          36.234471
+          36.8237088,
+          36.2418776
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.816034,
-          36.234471
+          36.8237088,
+          36.2418776
         ]
       },
-      "id": "darmc-location-267",
+      "id": "osm-location-of-deir-turmanin",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 267",
-        "link": "http://pleiades.stoa.org/places/658626/darmc-location-267"
+        "title": "OSM location of Deir Turmanin",
+        "link": "http://pleiades.stoa.org/places/658626/osm-location-of-deir-turmanin"
       }
     }
   ]

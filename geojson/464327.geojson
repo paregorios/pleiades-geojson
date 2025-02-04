@@ -3,10 +3,10 @@
   "title": "Motya causeway",
   "id": "464327",
   "bbox": [
-    12.471073,
-    37.876922,
-    12.471073,
-    37.876922
+    12.470383,
+    37.8705833,
+    12.4710125,
+    37.8858142
   ],
   "description": "Remains of a causeway that once connected Motya to the Sicilian mainland.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.471073,
-          37.876922
+          12.4705536014,
+          37.8782193078
         ]
       },
       "properties": {
@@ -28,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.471073,
-          37.876922
+          [
+            12.4707356,
+            37.8705833
+          ],
+          [
+            12.4705405,
+            37.872108
+          ],
+          [
+            12.4705008,
+            37.8737417
+          ],
+          [
+            12.4705972,
+            37.875738
+          ],
+          [
+            12.470383,
+            37.8826545
+          ],
+          [
+            12.4707086,
+            37.8845874
+          ],
+          [
+            12.4710125,
+            37.8858142
+          ]
         ]
       },
-      "id": "midpoint-of-the-submerged-causeway",
+      "id": "osm-location-of-strada-fenicia-sommersa",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "midpoint of the submerged causeway",
-        "link": "http://pleiades.stoa.org/places/464327/midpoint-of-the-submerged-causeway"
+        "title": "OSM location of Strada Fenicia sommersa",
+        "link": "http://pleiades.stoa.org/places/464327/osm-location-of-strada-fenicia-sommersa"
       }
     }
   ]

@@ -16,7 +16,8 @@
   "names": [
     "Constantinopolis",
     "Constantinople",
-    "Istanbul"
+    "Istanbul",
+    "He Polis"
   ],
   "features": [
     {
@@ -24,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.9653517362,
-          41.0063714116
+          28.9656351401,
+          41.0065926253
         ]
       },
       "properties": {
