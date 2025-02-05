@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "title": "Delos Synagogue",
+  "id": "152199037",
+  "bbox": [
+    25.2744154,
+    37.4047244,
+    25.274751,
+    37.4049723
+  ],
+  "description": "A complex located near the Stadium Quarter in Delos was identified by André Plassart in 1912. Scholarly opinion on whether or not the complex was, in fact, a synagogue remains mixed. Trümper's analysis (2004) reasserts the likelihood of the structure serving as a synagogue.",
+  "connectsWith": [
+    "599588",
+    "599506",
+    "568838229"
+  ],
+  "names": [
+    "Delos Synagogue"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2745762304,
+          37.404862128
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.2744154,
+            37.4049519
+          ],
+          [
+            25.2744375,
+            37.4047244
+          ],
+          [
+            25.2746825,
+            37.4047394
+          ],
+          [
+            25.2746641,
+            37.4049289
+          ],
+          [
+            25.274751,
+            37.4049343
+          ],
+          [
+            25.2747473,
+            37.4049723
+          ],
+          [
+            25.2744154,
+            37.4049519
+          ]
+        ]
+      },
+      "id": "osm-location-of-jewish-synagogue",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Jewish Synagogue",
+        "link": "http://pleiades.stoa.org/places/152199037/osm-location-of-jewish-synagogue"
+      }
+    }
+  ]
+}

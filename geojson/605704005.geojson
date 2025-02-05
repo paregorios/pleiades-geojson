@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman amphitheater of Tours",
+  "id": "605704005",
+  "bbox": [
+    0.696371,
+    47.3954326,
+    0.696371,
+    47.3954326
+  ],
+  "description": "A Roman amphitheater at Tours that dates to the first century CE.",
+  "connectsWith": [
+    "138255"
+  ],
+  "names": [
+    "Tours Amphitheatre"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696371,
+          47.3954326
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696371,
+          47.3954326
+        ]
+      },
+      "id": "osm-location-of-amphitha-c-ac-tre-de-tours",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Amphithéâtre de Tours",
+        "link": "http://pleiades.stoa.org/places/605704005/osm-location-of-amphitha-c-ac-tre-de-tours"
+      }
+    }
+  ]
+}

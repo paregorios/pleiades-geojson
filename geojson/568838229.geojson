@@ -3,10 +3,10 @@
   "title": "Quartier du Stade at Delos",
   "id": "568838229",
   "bbox": [
-    25.2736561,
-    37.4053808,
-    25.2743653,
-    37.4065904
+    25.2736651,
+    37.4054092,
+    25.2743681,
+    37.4065928
   ],
   "description": "Neighborhood surrounding the stadium in the settlement of Delos, constructed during the Hellenistic period.",
   "connectsWith": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.2740651623,
-          37.4059110644
+          25.2740664663,
+          37.4059298724
         ]
       },
       "properties": {
@@ -33,62 +33,70 @@
         "type": "LineString",
         "coordinates": [
           [
-            25.2736561,
-            37.4053808
+            25.2736651,
+            37.4054145
           ],
           [
-            25.2741505,
-            37.4054206
+            25.2739768,
+            37.4060312
+          ],
+          [
+            25.2742656,
+            37.4065928
+          ],
+          [
+            25.2743681,
+            37.4065592
+          ],
+          [
+            25.2741973,
+            37.4061461
+          ],
+          [
+            25.2742442,
+            37.4061348
           ],
           [
             25.2741724,
-            37.4055453
+            37.4059416
+          ],
+          [
+            25.2742336,
+            37.4059261
           ],
           [
             25.2740797,
             37.4055699
           ],
           [
-            25.2742308,
-            37.4059251
+            25.2740719,
+            37.4055519
           ],
           [
-            25.2741682,
-            37.4059401
+            25.2741469,
+            37.4055362
           ],
           [
-            25.2742415,
-            37.4061341
+            25.2741104,
+            37.4054245
           ],
           [
-            25.2741948,
-            37.4061453
+            25.2738221,
+            37.4054092
           ],
           [
-            25.2743653,
-            37.406558
-          ],
-          [
-            25.274267,
-            37.4065904
-          ],
-          [
-            25.2738949,
-            37.40585
-          ],
-          [
-            25.2736561,
-            37.4053808
+            25.2736651,
+            37.4054145
           ]
         ]
       },
-      "id": "quartier-du-stade",
+      "id": "osm-location-of-stadium-quarter",
       "type": "Feature",
       "properties": {
-        "description": "Polygon representing the location of the Quartier du Stade district, derived from an OpenStreetMap Way.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Quartier du Stade",
-        "link": "http://pleiades.stoa.org/places/568838229/quartier-du-stade"
+        "title": "OSM location of Stadium Quarter",
+        "link": "http://pleiades.stoa.org/places/568838229/osm-location-of-stadium-quarter"
       }
     }
   ]

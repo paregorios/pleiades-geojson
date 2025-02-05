@@ -3,10 +3,10 @@
   "title": "Aineia",
   "id": "491513",
   "bbox": [
-    22.879124,
-    40.439481,
-    22.879124,
-    40.439481
+    22.8323881,
+    40.4739063,
+    22.8364093,
+    40.4768757
   ],
   "description": "An ancient place, cited: BAtlas 50 C4 Aineia",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.879124,
-          40.439481
+          22.834673088,
+          40.4753966186
         ]
       },
       "properties": {
@@ -28,19 +28,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.879124,
-          40.439481
+          [
+            22.8327291,
+            40.4744608
+          ],
+          [
+            22.8323881,
+            40.4756146
+          ],
+          [
+            22.8325096,
+            40.4759545
+          ],
+          [
+            22.8329564,
+            40.4762049
+          ],
+          [
+            22.8340695,
+            40.4765626
+          ],
+          [
+            22.8348416,
+            40.4765298
+          ],
+          [
+            22.8352962,
+            40.476661
+          ],
+          [
+            22.835794,
+            40.4768757
+          ],
+          [
+            22.8364093,
+            40.476816
+          ],
+          [
+            22.8363583,
+            40.4753075
+          ],
+          [
+            22.8362799,
+            40.4739063
+          ],
+          [
+            22.8355314,
+            40.4740583
+          ],
+          [
+            22.8352962,
+            40.4741746
+          ],
+          [
+            22.8327291,
+            40.4744608
+          ]
         ]
       },
-      "id": "darmc-location-1069",
+      "id": "osm-location-of-ii-i1-2iui1i",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 1069",
-        "link": "http://pleiades.stoa.org/places/491513/darmc-location-1069"
+        "title": "OSM location of Αίνεια",
+        "link": "http://pleiades.stoa.org/places/491513/osm-location-of-ii-i1-2iui1i"
       }
     }
   ]

@@ -3,20 +3,23 @@
   "title": "Alchester",
   "id": "79289",
   "bbox": [
-    -1.173187,
-    51.878509,
-    -1.173187,
-    51.878509
+    -1.174645,
+    51.8762882,
+    -1.1672798,
+    51.8794012
   ],
   "description": "Alchester was the site of a fortified Roman town located 17 kilometers to the northeast of Oxford. The site was of Claudian date and likely on the site of a Pre-Roman Iron Age settlement. It may have been one of the earliest legionary bases in Britannia.",
+  "names": [
+    "Alchester"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.173187,
-          51.878509
+          -1.17163043176,
+          51.8781275248
         ]
       },
       "properties": {
@@ -25,19 +28,172 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -1.173187,
-          51.878509
+          [
+            -1.1677841,
+            51.8765131
+          ],
+          [
+            -1.1672798,
+            51.8769686
+          ],
+          [
+            -1.1674292,
+            51.8791943
+          ],
+          [
+            -1.1674688,
+            51.8793203
+          ],
+          [
+            -1.1676033,
+            51.8793706
+          ],
+          [
+            -1.1678475,
+            51.8794012
+          ],
+          [
+            -1.1703833,
+            51.8793831
+          ],
+          [
+            -1.1706608,
+            51.8793811
+          ],
+          [
+            -1.1719699,
+            51.879361
+          ],
+          [
+            -1.1722464,
+            51.8792807
+          ],
+          [
+            -1.1723523,
+            51.8791827
+          ],
+          [
+            -1.1723486,
+            51.8790947
+          ],
+          [
+            -1.1722953,
+            51.8778047
+          ],
+          [
+            -1.172254,
+            51.8775707
+          ],
+          [
+            -1.1722449,
+            51.8775195
+          ],
+          [
+            -1.1720618,
+            51.8764843
+          ],
+          [
+            -1.1719217,
+            51.8763805
+          ],
+          [
+            -1.1715948,
+            51.8762882
+          ],
+          [
+            -1.1710299,
+            51.8762949
+          ],
+          [
+            -1.1690077,
+            51.8764103
+          ],
+          [
+            -1.1681856,
+            51.8764794
+          ],
+          [
+            -1.1677841,
+            51.8765131
+          ]
         ]
       },
-      "id": "darmc-location-19948",
+      "id": "osm-location-of-alchester-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19948",
-        "link": "http://pleiades.stoa.org/places/79289/darmc-location-19948"
+        "title": "OSM location of Alchester Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79289/osm-location-of-alchester-roman-fort"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.1723523,
+            51.8791827
+          ],
+          [
+            -1.1745312,
+            51.8791314
+          ],
+          [
+            -1.17461,
+            51.8790812
+          ],
+          [
+            -1.174645,
+            51.8790247
+          ],
+          [
+            -1.1745393,
+            51.8776393
+          ],
+          [
+            -1.1744498,
+            51.877564
+          ],
+          [
+            -1.1743035,
+            51.8775038
+          ],
+          [
+            -1.1740677,
+            51.8774837
+          ],
+          [
+            -1.1722449,
+            51.8775195
+          ],
+          [
+            -1.172254,
+            51.8775707
+          ],
+          [
+            -1.1722953,
+            51.8778047
+          ],
+          [
+            -1.1723486,
+            51.8790947
+          ],
+          [
+            -1.1723523,
+            51.8791827
+          ]
+        ]
+      },
+      "id": "osm-location-of-alchester-fort-annex",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Alchester Fort Annex",
+        "link": "http://pleiades.stoa.org/places/79289/osm-location-of-alchester-fort-annex"
       }
     }
   ]
