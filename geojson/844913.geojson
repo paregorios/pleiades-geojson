@@ -9,6 +9,9 @@
     41.115693
   ],
   "description": "An ancient place, cited: BAtlas 86 B2 Elaios",
+  "connectsWith": [
+    "844914"
+  ],
   "names": [
     "Elaios"
   ],

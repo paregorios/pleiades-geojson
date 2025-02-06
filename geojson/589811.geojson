@@ -3,14 +3,17 @@
   "title": "Hypsele",
   "id": "589811",
   "bbox": [
-    24.6804649,
-    37.6821091,
-    25.0007636,
-    37.9995793
+    24.794608,
+    37.84236,
+    24.794608,
+    37.84236
   ],
-  "description": "An ancient place, cited: BAtlas 60 A4 Hypsele",
+  "description": "A fortified settlement of the geometric period, located at modern Ypsili on the island of Andros. Its ancient name is not known.",
   "connectsWith": [
     "589693"
+  ],
+  "names": [
+    "Hypsili Androu"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.8509719288,
-          37.8568440184
+          24.794608,
+          37.84236
         ]
       },
       "properties": {
@@ -27,14 +30,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.794608,
+          37.84236
+        ]
+      },
+      "id": "cfl-ago-location-hypsele",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589811/batlas-location"
+        "location_precision": "precise",
+        "title": "CFL/AGO Location: Hypsele",
+        "link": "http://pleiades.stoa.org/places/589811/cfl-ago-location-hypsele"
       }
     }
   ]

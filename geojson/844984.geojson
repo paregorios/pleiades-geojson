@@ -3,14 +3,17 @@
   "title": "Kinolis",
   "id": "844984",
   "bbox": [
-    34.145267,
-    41.961989,
-    34.163671,
-    41.963436
+    34.165575,
+    41.96571,
+    34.165575,
+    41.96571
   ],
-  "description": "An ancient place, cited: BAtlas 86 E2 Kinolis",
+  "description": "An ancient emporion on the southern coast of the Black Sea, mentioned in multiple ancient sources. It is probably to be identified with the subsequent site of \"Ginolu Kalesi\", a now-ruined 9th/10th century CE castle in the modern municipal territory of Çatalzeytin in Turkey's Kastamonu Province.",
   "names": [
-    "Kinolis"
+    "Kinolis",
+    "Çatalzeytin",
+    "Ginoğlu",
+    "Ginolu Kalesi"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.154469,
-          41.9627125
+          34.165575,
+          41.96571
         ]
       },
       "properties": {
@@ -30,34 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.163671,
-          41.963436
+          34.165575,
+          41.96571
         ]
       },
-      "id": "darmc-location-78",
+      "id": "imagery-location-ginolu-kalesi",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Location determined in Google Earth after description and plans in Eser 2004.",
         "location_precision": "precise",
-        "title": "DARMC location 78",
-        "link": "http://pleiades.stoa.org/places/844984/darmc-location-78"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.145267,
-          41.961989
-        ]
-      },
-      "id": "darmc-location-4137",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 4137",
-        "link": "http://pleiades.stoa.org/places/844984/darmc-location-4137"
+        "title": "Imagery Location: Ginolu Kalesi",
+        "link": "http://pleiades.stoa.org/places/844984/imagery-location-ginolu-kalesi"
       }
     }
   ]

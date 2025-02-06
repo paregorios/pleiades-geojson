@@ -3,10 +3,10 @@
   "title": "Roquepertuse",
   "id": "148174",
   "bbox": [
-    5.27003,
-    43.532393,
-    5.270422,
-    43.536051
+    5.2709365,
+    43.5322067,
+    5.2717,
+    43.5329828
   ],
   "description": "An ancient place, cited: BAtlas 15 E2 Roquepertuse",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.270226,
-          43.534222
+          5.27133638189,
+          43.5325801412
         ]
       },
       "properties": {
@@ -28,36 +28,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          5.270422,
-          43.536051
+          [
+            5.2713971,
+            43.5329828
+          ],
+          [
+            5.2715713,
+            43.5329467
+          ],
+          [
+            5.2716419,
+            43.5328745
+          ],
+          [
+            5.2717,
+            43.5327271
+          ],
+          [
+            5.2716336,
+            43.5324384
+          ],
+          [
+            5.271451,
+            43.5323241
+          ],
+          [
+            5.2710859,
+            43.5322067
+          ],
+          [
+            5.2709365,
+            43.5323602
+          ],
+          [
+            5.2711025,
+            43.5326369
+          ],
+          [
+            5.2711896,
+            43.5328264
+          ],
+          [
+            5.2713971,
+            43.5329828
+          ]
         ]
       },
-      "id": "darmc-location-16173",
+      "id": "osm-location-of-site-archa-c-ologique-de",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16173",
-        "link": "http://pleiades.stoa.org/places/148174/darmc-location-16173"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.27003,
-          43.532393
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/148174/dare-location"
+        "title": "OSM location of Site archéologique de Roquepertuse",
+        "link": "http://pleiades.stoa.org/places/148174/osm-location-of-site-archa-c-ologique-de"
       }
     }
   ]

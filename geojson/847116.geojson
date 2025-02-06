@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "847116",
   "bbox": [
-    30.0,
-    39.0,
-    36.0,
-    43.0
+    32.496599,
+    40.184196,
+    32.496599,
+    40.184196
   ],
   "description": "Krateia → Carus Vicus → Krentios → Map 63",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.0,
-          41.0
+          32.496599,
+          40.184196
         ]
       },
       "properties": {
