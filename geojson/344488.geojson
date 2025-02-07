@@ -3,10 +3,10 @@
   "title": "Subututtu",
   "id": "344488",
   "bbox": [
-    13.920485,
-    32.442203,
-    13.920485,
-    32.442203
+    13.902604,
+    32.4555101,
+    13.9030716,
+    32.4558566
   ],
   "description": "An ancient place, cited: BAtlas 35 F2 Subututtu",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.920485,
-          32.442203
+          13.9028390369,
+          32.4556667752
         ]
       },
       "properties": {
@@ -28,19 +28,41 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.920485,
-          32.442203
+          [
+            13.902888,
+            32.4558566
+          ],
+          [
+            13.902604,
+            32.455582
+          ],
+          [
+            13.9027016,
+            32.4555101
+          ],
+          [
+            13.9029001,
+            32.4555557
+          ],
+          [
+            13.9030716,
+            32.4557215
+          ],
+          [
+            13.902888,
+            32.4558566
+          ]
         ]
       },
-      "id": "darmc-location-9892",
+      "id": "osm-location-of-diwan-palace",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 9892",
-        "link": "http://pleiades.stoa.org/places/344488/darmc-location-9892"
+        "title": "OSM location of Diwan Palace",
+        "link": "http://pleiades.stoa.org/places/344488/osm-location-of-diwan-palace"
       }
     }
   ]

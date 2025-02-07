@@ -3,10 +3,10 @@
   "title": "Africa Proconsularis (late Roman province)",
   "id": "991341",
   "bbox": [
-    5.0,
-    35.0,
-    10.0,
-    40.0
+    9.106753,
+    36.450148,
+    9.106753,
+    36.450148
   ],
   "description": "The late Roman province of Africa Proconsularis, within the Diocese of Africa.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5,
-          37.5
+          9.106753,
+          36.450148
         ]
       },
       "properties": {

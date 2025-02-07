@@ -3,13 +3,14 @@
   "title": "Pons Servili",
   "id": "481963",
   "bbox": [
-    20.511961,
-    41.073671,
-    20.511961,
-    41.073671
+    20.56361,
+    41.06028,
+    20.5824245,
+    41.0652857
   ],
-  "description": "An ancient place, cited: BAtlas 49 C2 Pons Servili",
+  "description": "A bridge (and associated mutatio or other road station) listed on the Peutinger Map. Hammond 1974 (whence BAtlas) localizes the bridge in the modern \"Fusha e Kododeshit\" plain in Albania, located west of modern Urakë, which he identifies with a mansio named Claudanon listed in the ItBurd. Bitrakova-Grozdanova 1994 would place the bridge at or very near Urakë and Claudanon in the vicinity of moden Radožda in Macedonia.",
   "names": [
+    "Orakë",
     "Pons Servili"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.511961,
-          41.073671
+          20.57301725,
+          41.06278285
         ]
       },
       "properties": {
@@ -30,17 +31,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.511961,
-          41.073671
+          20.5824245,
+          41.0652857
         ]
       },
-      "id": "darmc-location-4418",
+      "id": "osm-location-modern-uraka",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 4418",
-        "link": "http://pleiades.stoa.org/places/481963/darmc-location-4418"
+        "title": "OSM Location: modern Urakë",
+        "link": "http://pleiades.stoa.org/places/481963/osm-location-modern-uraka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.56361,
+          41.06028
+        ]
+      },
+      "id": "geonames-location-fusha-e-domosdoves",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Geonames Location: Fusha e Domosdovës",
+        "link": "http://pleiades.stoa.org/places/481963/geonames-location-fusha-e-domosdoves"
       }
     }
   ]

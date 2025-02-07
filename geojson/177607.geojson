@@ -3,12 +3,12 @@
   "title": "Pons Dubris",
   "id": "177607",
   "bbox": [
-    5.11052,
-    46.924983,
-    5.11052,
-    46.924983
+    5.1101433,
+    46.9238414,
+    5.1101433,
+    46.9238414
   ],
-  "description": "An ancient place, cited: BAtlas 18 C3 Pons Dubris",
+  "description": "An ancient settlement and bridge at the modern village of Pontoux (Saône-et-Loire department, France).",
   "names": [
     "Pons Dubris"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.11052,
-          46.924983
+          5.1101433,
+          46.9238414
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.11052,
-          46.924983
+          5.1101433,
+          46.9238414
         ]
       },
-      "id": "darmc-location-14365",
+      "id": "osm-location-of-pontoux",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14365",
-        "link": "http://pleiades.stoa.org/places/177607/darmc-location-14365"
+        "title": "OSM location of Pontoux",
+        "link": "http://pleiades.stoa.org/places/177607/osm-location-of-pontoux"
       }
     }
   ]

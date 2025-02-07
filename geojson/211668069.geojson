@@ -3,10 +3,10 @@
   "title": "Pons Cestius",
   "id": "211668069",
   "bbox": [
-    12.4773,
-    41.89,
-    12.4773,
-    41.89
+    12.4771021,
+    41.8896749,
+    12.4775097,
+    41.8904079
   ],
   "description": "A Roman stone bridge on the Tiber river, spanning the river channel from the Tiber Island westward to the Transtiberim (Trastevere). The original bridge dates to the first century BC.",
   "connectsWith": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4773,
-          41.89
+          12.4772938765,
+          41.8900482504
         ]
       },
       "properties": {
@@ -30,19 +30,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.4773,
-          41.89
+          [
+            [
+              12.4771953,
+              41.8896749
+            ],
+            [
+              12.4772111,
+              41.8897141
+            ],
+            [
+              12.4772413,
+              41.8897891
+            ],
+            [
+              12.4773002,
+              41.889938
+            ],
+            [
+              12.4773766,
+              41.8901316
+            ],
+            [
+              12.4773893,
+              41.8901609
+            ],
+            [
+              12.4774539,
+              41.8902694
+            ],
+            [
+              12.4774809,
+              41.8903149
+            ],
+            [
+              12.4775097,
+              41.8903632
+            ]
+          ],
+          [
+            [
+              12.4771021,
+              41.8897003
+            ],
+            [
+              12.4771486,
+              41.889688
+            ],
+            [
+              12.4771953,
+              41.8896749
+            ]
+          ],
+          [
+            [
+              12.4771021,
+              41.8897003
+            ],
+            [
+              12.4771189,
+              41.8897445
+            ],
+            [
+              12.4771496,
+              41.8898254
+            ],
+            [
+              12.4772008,
+              41.8899602
+            ],
+            [
+              12.4772781,
+              41.8901635
+            ],
+            [
+              12.4773349,
+              41.8903064
+            ],
+            [
+              12.4773542,
+              41.8903548
+            ],
+            [
+              12.4773753,
+              41.8904079
+            ]
+          ],
+          [
+            [
+              12.4773753,
+              41.8904079
+            ],
+            [
+              12.4773856,
+              41.8904045
+            ],
+            [
+              12.4773931,
+              41.890402
+            ],
+            [
+              12.4774499,
+              41.8903846
+            ],
+            [
+              12.4775013,
+              41.890366
+            ],
+            [
+              12.4775097,
+              41.8903632
+            ]
+          ]
         ]
       },
-      "id": "location-of-pons-cestius",
+      "id": "osm-location-of-ponte-cestio",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after Wikipedia; verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Pons Cestius",
-        "link": "http://pleiades.stoa.org/places/211668069/location-of-pons-cestius"
+        "title": "OSM location of Ponte Cestio",
+        "link": "http://pleiades.stoa.org/places/211668069/osm-location-of-ponte-cestio"
       }
     }
   ]

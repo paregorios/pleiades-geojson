@@ -3,10 +3,10 @@
   "title": "Pons Fabricius",
   "id": "68481414",
   "bbox": [
-    12.478333,
-    41.891111,
-    12.478333,
-    41.891111
+    12.4779409,
+    41.8908435,
+    12.4785347,
+    41.8913087
   ],
   "description": "The Pons Fabricius (sometimes referred to as the Ponte dei Quattro Capi) is a first century BC bridge in Rome that spans part of the Tiber from the area of the Circus Flaminius to the Tiber island.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.478333,
-          41.891111
+          12.4782358548,
+          41.8910799156
         ]
       },
       "properties": {
@@ -33,19 +33,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.478333,
-          41.891111
+          [
+            [
+              12.4779409,
+              41.8908789
+            ],
+            [
+              12.4779592,
+              41.8908899
+            ],
+            [
+              12.4779763,
+              41.8909003
+            ],
+            [
+              12.477992,
+              41.8909108
+            ],
+            [
+              12.4781336,
+              41.8910346
+            ],
+            [
+              12.4782564,
+              41.8911419
+            ],
+            [
+              12.4783115,
+              41.8911901
+            ],
+            [
+              12.4784018,
+              41.8912686
+            ],
+            [
+              12.478427,
+              41.8912798
+            ],
+            [
+              12.4784585,
+              41.8912938
+            ],
+            [
+              12.4784744,
+              41.8913087
+            ]
+          ],
+          [
+            [
+              12.4779409,
+              41.8908789
+            ],
+            [
+              12.4779777,
+              41.8908602
+            ],
+            [
+              12.4779983,
+              41.8908501
+            ],
+            [
+              12.4780083,
+              41.8908435
+            ]
+          ],
+          [
+            [
+              12.4780083,
+              41.8908435
+            ],
+            [
+              12.4780227,
+              41.8908536
+            ],
+            [
+              12.4780373,
+              41.890865
+            ],
+            [
+              12.4781967,
+              41.8910063
+            ],
+            [
+              12.4783103,
+              41.8911046
+            ],
+            [
+              12.478458,
+              41.8912343
+            ],
+            [
+              12.4785177,
+              41.8912645
+            ],
+            [
+              12.4785347,
+              41.8912799
+            ]
+          ],
+          [
+            [
+              12.4784744,
+              41.8913087
+            ],
+            [
+              12.4785043,
+              41.8912944
+            ],
+            [
+              12.4785347,
+              41.8912799
+            ]
+          ]
         ]
       },
-      "id": "location-of-pons-fabricius",
+      "id": "osm-location-of-ponte-fabricio",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates following GeoHack, verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Pons Fabricius",
-        "link": "http://pleiades.stoa.org/places/68481414/location-of-pons-fabricius"
+        "title": "OSM location of Ponte Fabricio",
+        "link": "http://pleiades.stoa.org/places/68481414/osm-location-of-ponte-fabricio"
       }
     }
   ]

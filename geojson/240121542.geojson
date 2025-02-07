@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Salkhad Castle",
+  "id": "240121542",
+  "bbox": [
+    36.7097577,
+    32.4933281,
+    36.7111008,
+    32.4943912
+  ],
+  "description": "A Medieval castle dated to the thirteenth century in the Syrian village of Salkhad.",
+  "connectsWith": [
+    "678436"
+  ],
+  "names": [
+    "Chateau de Salkhad"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7104287636,
+          32.4938734806
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7098327,
+            32.4941543
+          ],
+          [
+            36.7101989,
+            32.4943721
+          ],
+          [
+            36.7107065,
+            32.4943912
+          ],
+          [
+            36.7110628,
+            32.4941809
+          ],
+          [
+            36.7111008,
+            32.4938673
+          ],
+          [
+            36.7110186,
+            32.4935497
+          ],
+          [
+            36.710337,
+            32.4933281
+          ],
+          [
+            36.7097577,
+            32.4935619
+          ],
+          [
+            36.7098327,
+            32.4941543
+          ]
+        ]
+      },
+      "id": "osm-location-of-salkhad-castle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Salkhad Castle",
+        "link": "http://pleiades.stoa.org/places/240121542/osm-location-of-salkhad-castle"
+      }
+    }
+  ]
+}

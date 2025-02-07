@@ -3,10 +3,10 @@
   "title": "El Gallinero",
   "id": "102500044",
   "bbox": [
-    -6.199817,
-    36.5302054,
-    -6.199817,
-    36.5302054
+    -6.1998815,
+    36.5299578,
+    -6.1995895,
+    36.5302177
   ],
   "description": "The remains of a Roman ceramic workshop and manufactory.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.199817,
-          36.5302054
+          -6.19973779243,
+          36.5300848397
         ]
       },
       "properties": {

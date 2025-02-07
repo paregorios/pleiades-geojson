@@ -3,10 +3,10 @@
   "title": "Carrowmore Megalithic Cemetery",
   "id": "835780234",
   "bbox": [
-    -8.519667,
-    54.2507999,
-    -8.519667,
-    54.2507999
+    -8.5197431,
+    54.2507478,
+    -8.5197431,
+    54.2507478
   ],
   "description": "A grouping of fourth-millennium BC Neolithic monuments located on the Cúil Irra peninsula near Sligo, Ireland.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.519667,
-          54.2507999
+          -8.5197431,
+          54.2507478
         ]
       },
       "properties": {

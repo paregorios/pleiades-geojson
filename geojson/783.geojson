@@ -3,10 +3,10 @@
   "title": "Alpes (mountains)",
   "id": "783",
   "bbox": [
-    7.4019021,
+    7.4014612,
     43.7445795,
-    7.4019021,
-    43.7445795
+    7.4020506,
+    43.7450086
   ],
   "description": "The Alps are one of the great mountain ranges of Europe stretching some 1,200 km. (750 miles).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4019021,
-          43.7445795
+          7.40175591685,
+          43.7447943789
         ]
       },
       "properties": {

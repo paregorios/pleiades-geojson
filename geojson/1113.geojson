@@ -5,8 +5,8 @@
   "bbox": [
     16.409844,
     38.382526,
-    16.491255,
-    39.715766
+    16.4992738,
+    39.7192276
   ],
   "description": "Magna Graecia refers to the coastal areas of Southern Italy on the Tarentine Gulf that were extensively colonized by Greek colonists beginning in the eighth century BC.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.450365,
-          39.04911
+          16.4931148975,
+          39.7174784349
         ]
       },
       "properties": {

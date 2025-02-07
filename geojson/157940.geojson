@@ -3,10 +3,10 @@
   "title": "Tropaeum Augusti/Alpium Tropaeum/Alpis Summa/Alpis Maritima",
   "id": "157940",
   "bbox": [
-    7.4019021,
+    7.4014612,
     43.7445795,
-    7.4019021,
-    43.7445795
+    7.4020506,
+    43.7450086
   ],
   "description": "A victory monument built by Augustus (5 B.C.) to commemorate the subjugation of the tribes of the western Alps. The Romans considered the spot to be \"In Alpe Maritima\".",
   "connectsWith": [
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4019021,
-          43.7445795
+          7.40175598063,
+          43.7447943942
         ]
       },
       "properties": {

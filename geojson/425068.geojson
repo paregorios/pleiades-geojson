@@ -3,10 +3,10 @@
   "title": "Pons Aemilius",
   "id": "425068",
   "bbox": [
-    12.4794,
-    41.8893,
-    12.4794,
-    41.8893
+    12.479198,
+    41.8892673,
+    12.4795475,
+    41.8894072
   ],
   "description": "The Pons Aemilius was the first stone bridge across the Tiber river at Rome (241 B.C.). Its remains are known today as the 'Ponte Rotto'.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4794,
-          41.8893
+          12.4793727678,
+          41.8893372541
         ]
       },
       "properties": {
@@ -33,19 +33,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.4794,
-          41.8893
+          [
+            [
+              12.4793461,
+              41.889288
+            ],
+            [
+              12.479224,
+              41.8892673
+            ],
+            [
+              12.479198,
+              41.8893525
+            ],
+            [
+              12.479322,
+              41.8893735
+            ]
+          ],
+          [
+            [
+              12.4794573,
+              41.8893067
+            ],
+            [
+              12.4793461,
+              41.889288
+            ]
+          ],
+          [
+            [
+              12.4794504,
+              41.8893951
+            ],
+            [
+              12.4795216,
+              41.8894072
+            ],
+            [
+              12.4795475,
+              41.889322
+            ],
+            [
+              12.4794573,
+              41.8893067
+            ]
+          ],
+          [
+            [
+              12.479322,
+              41.8893735
+            ],
+            [
+              12.4794504,
+              41.8893951
+            ]
+          ]
         ]
       },
-      "id": "imagery-location-of-pons-aemilius",
+      "id": "osm-location-of-emilio-bridge",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, coordinates derived through analysis of imagery in Google Earth 2013.",
+        "description": "Representativelocation based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location of Pons Aemilius",
-        "link": "http://pleiades.stoa.org/places/425068/imagery-location-of-pons-aemilius"
+        "title": "OSM location of Emilio Bridge",
+        "link": "http://pleiades.stoa.org/places/425068/osm-location-of-emilio-bridge"
       }
     }
   ]
