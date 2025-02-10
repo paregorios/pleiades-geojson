@@ -3,10 +3,10 @@
   "title": "So-called 'Tomb of Cicero' at Formiae",
   "id": "98979035",
   "bbox": [
-    13.5788172,
+    13.5785638,
     41.2514763,
-    13.5788172,
-    41.2514763
+    13.5788316,
+    41.251658
   ],
   "description": "A 24-meter tall tower tomb on the Via Appia at Formiae is traditionally considered as a possible location of the Tomb of Cicero.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5788172,
-          41.2514763
+          13.5786977149,
+          41.2515671738
         ]
       },
       "properties": {

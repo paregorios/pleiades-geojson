@@ -3,10 +3,10 @@
   "title": "Issus/Nikopolis",
   "id": "658490",
   "bbox": [
-    36.165688,
-    36.837809,
-    36.224409,
-    36.842776
+    36.1556875,
+    36.8530822,
+    36.1582742,
+    36.8542047
   ],
   "description": "An ancient port city of Cilicia at the apex of the gulf that bore its name (Issicus Sinus).",
   "names": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.1950485,
-          36.8402925
+          36.1570387516,
+          36.8536681114
         ]
       },
       "properties": {
@@ -34,36 +34,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          36.165688,
-          36.837809
+          [
+            36.1569613,
+            36.8530822
+          ],
+          [
+            36.1560255,
+            36.8533604
+          ],
+          [
+            36.1556875,
+            36.8536574
+          ],
+          [
+            36.1557623,
+            36.8538977
+          ],
+          [
+            36.1566495,
+            36.8542047
+          ],
+          [
+            36.1573809,
+            36.8541951
+          ],
+          [
+            36.1582742,
+            36.8539168
+          ],
+          [
+            36.1582448,
+            36.8533289
+          ],
+          [
+            36.1569613,
+            36.8530822
+          ]
         ]
       },
-      "id": "darmc-location-20346",
+      "id": "osm-location-of-kinet-hapya1-4k",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20346",
-        "link": "http://pleiades.stoa.org/places/658490/darmc-location-20346"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.224409,
-          36.842776
-        ]
-      },
-      "id": "darmc-location-11926",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 11926",
-        "link": "http://pleiades.stoa.org/places/658490/darmc-location-11926"
+        "title": "OSM location of Kinet Höyük",
+        "link": "http://pleiades.stoa.org/places/658490/osm-location-of-kinet-hapya1-4k"
       }
     }
   ]

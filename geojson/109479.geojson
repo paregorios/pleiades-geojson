@@ -9,6 +9,10 @@
     49.7400742
   ],
   "description": "An ancient place, cited: BAtlas 11 G3 unnamed aqueduct (Ruwertal-Wasserleitung, at Col. Augusta Treverorum)",
+  "connectsWith": [
+    "108894",
+    "108894"
+  ],
   "features": [
     {
       "type": "Feature",

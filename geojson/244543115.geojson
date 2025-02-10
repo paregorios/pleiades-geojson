@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomba delle Anatre",
+  "id": "244543115",
+  "bbox": [
+    12.3829396,
+    42.0253964,
+    12.3832427,
+    42.0255319
+  ],
+  "description": "The Tomb of the Ducks at Veii is an early example of a painted Etruscan tomb. It dates to the second quarter of the seventh century BCE and was discovered in 1958 in the Riserva del Bagno necropolis.",
+  "connectsWith": [
+    "913927020",
+    "423116"
+  ],
+  "names": [
+    "Tomba delle Anatre"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3830920253,
+          42.0254631372
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3829423,
+            42.0255189
+          ],
+          [
+            12.3832414,
+            42.0255319
+          ],
+          [
+            12.3832427,
+            42.0254064
+          ],
+          [
+            12.3829396,
+            42.0253964
+          ],
+          [
+            12.3829423,
+            42.0255189
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomba-delle-anatre",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomba delle Anatre",
+        "link": "http://pleiades.stoa.org/places/244543115/osm-location-of-tomba-delle-anatre"
+      }
+    }
+  ]
+}

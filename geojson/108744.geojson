@@ -3,10 +3,10 @@
   "title": "Unnamed fort at Anreppen",
   "id": "108744",
   "bbox": [
-    8.593056,
-    51.737778,
-    8.593056,
-    51.737778
+    8.585135,
+    51.735416,
+    8.5962073,
+    51.7398282
   ],
   "description": "A Roman legionary camp, approximately dating to the years 4-6 CE, located at modern Anreppen, Stadt Delbrück (Germany).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.593056,
-          51.737778
+          8.59073685306,
+          51.737482002
         ]
       },
       "properties": {
@@ -28,36 +28,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.593056,
-          51.737778
+          [
+            8.594784,
+            51.7398282
+          ],
+          [
+            8.5957773,
+            51.7390851
+          ],
+          [
+            8.5962073,
+            51.7380997
+          ],
+          [
+            8.5956892,
+            51.7374636
+          ],
+          [
+            8.5910893,
+            51.7356286
+          ],
+          [
+            8.5903298,
+            51.735481
+          ],
+          [
+            8.5882206,
+            51.735416
+          ],
+          [
+            8.5869733,
+            51.7354175
+          ],
+          [
+            8.5862159,
+            51.7356789
+          ],
+          [
+            8.585135,
+            51.7364656
+          ],
+          [
+            8.5853033,
+            51.7372061
+          ],
+          [
+            8.5868774,
+            51.7378681
+          ],
+          [
+            8.5906264,
+            51.7394082
+          ],
+          [
+            8.5910661,
+            51.7394346
+          ],
+          [
+            8.5914491,
+            51.7392361
+          ],
+          [
+            8.592026,
+            51.7390605
+          ],
+          [
+            8.5928456,
+            51.7391756
+          ],
+          [
+            8.5931708,
+            51.7393752
+          ],
+          [
+            8.594784,
+            51.7398282
+          ]
         ]
       },
-      "id": "location-of-legionary-camp-at-anreppen",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Centerpoint of the ancient remains.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Location of legionary camp at Anreppen",
-        "link": "http://pleiades.stoa.org/places/108744/location-of-legionary-camp-at-anreppen"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.593056,
-          51.737778
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/108744/dare-location"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/108744/osm-location"
       }
     }
   ]

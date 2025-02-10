@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Villa of Masseria Ciccotti",
-  "id": "757662810",
+  "title": "Tomba Campana",
+  "id": "302659740",
   "bbox": [
-    16.0830673,
-    40.7560387,
-    16.0830673,
-    40.7560387
+    12.4059327,
+    42.0328489,
+    12.4059327,
+    42.0328489
   ],
-  "description": "A Roman villa along the via Herculea near Oppido Lucano.",
+  "description": "The Grotta Campana at Veii is an Etruscan burial complex discovered by Giampietro Campana in 1843.",
   "connectsWith": [
-    "442699"
+    "423116"
   ],
   "names": [
-    "Villa di Masseria Ciccotti"
+    "Tomba Campana a Veio"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0830673,
-          40.7560387
+          12.4059327,
+          42.0328489
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0830673,
-          40.7560387
+          12.4059327,
+          42.0328489
         ]
       },
-      "id": "osm-location-of-villa-di-masseria-ciccotti",
+      "id": "osm-location-of-tomba-campana",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa di Masseria Ciccotti",
-        "link": "http://pleiades.stoa.org/places/757662810/osm-location-of-villa-di-masseria-ciccotti"
+        "title": "OSM location of Tomba Campana",
+        "link": "http://pleiades.stoa.org/places/302659740/osm-location-of-tomba-campana"
       }
     }
   ]

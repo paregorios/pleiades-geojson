@@ -4,8 +4,8 @@
   "id": "216943",
   "bbox": [
     24.296418,
-    45.434546,
-    24.296418,
+    45.4004098,
+    24.311458,
     45.434546
   ],
   "description": "An ancient place, cited: BAtlas 22 B3 Praetorium",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.296418,
-          45.434546
+          24.3034767926,
+          45.4177599602
         ]
       },
       "properties": {
@@ -41,6 +41,89 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/216943/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.3108576,
+            45.4015373
+          ],
+          [
+            24.3096464,
+            45.4012699
+          ],
+          [
+            24.3096087,
+            45.4012338
+          ],
+          [
+            24.3096087,
+            45.4011856
+          ],
+          [
+            24.3096362,
+            45.4011157
+          ],
+          [
+            24.3100616,
+            45.4004363
+          ],
+          [
+            24.3100993,
+            45.4004122
+          ],
+          [
+            24.3101508,
+            45.4004098
+          ],
+          [
+            24.3113826,
+            45.4006532
+          ],
+          [
+            24.3114375,
+            45.4006869
+          ],
+          [
+            24.3114546,
+            45.400723
+          ],
+          [
+            24.311458,
+            45.4007784
+          ],
+          [
+            24.3114375,
+            45.4008218
+          ],
+          [
+            24.3110498,
+            45.4014771
+          ],
+          [
+            24.3109949,
+            45.4015156
+          ],
+          [
+            24.3109297,
+            45.4015349
+          ],
+          [
+            24.3108576,
+            45.4015373
+          ]
+        ]
+      },
+      "id": "osm-location-of-castrul-roman-praetorium-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castrul roman Praetorium I",
+        "link": "http://pleiades.stoa.org/places/216943/osm-location-of-castrul-roman-praetorium-i"
       }
     }
   ]

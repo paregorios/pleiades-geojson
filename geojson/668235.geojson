@@ -3,10 +3,10 @@
   "title": "Dausara",
   "id": "668235",
   "bbox": [
-    38.554739,
-    35.926124,
-    38.554739,
-    35.926124
+    38.4810486,
+    35.8973151,
+    38.4810486,
+    35.8973151
   ],
   "description": "An ancient place, cited: BAtlas 68 G2 Dausara",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.554739,
-          35.926124
+          38.4810486,
+          35.8973151
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.554739,
-          35.926124
+          38.4810486,
+          35.8973151
         ]
       },
-      "id": "darmc-location-7631",
+      "id": "osm-location-of-qalat-jabar",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7631",
-        "link": "http://pleiades.stoa.org/places/668235/darmc-location-7631"
+        "title": "OSM location of Qal'at Ja'bar",
+        "link": "http://pleiades.stoa.org/places/668235/osm-location-of-qalat-jabar"
       }
     }
   ]

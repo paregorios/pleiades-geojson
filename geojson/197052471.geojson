@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomba dei Leoni Ruggenti",
+  "id": "197052471",
+  "bbox": [
+    12.3856921,
+    42.0342492,
+    12.3861731,
+    42.0348225
+  ],
+  "description": "The so-called \"Tomb of the Roaring Lions\" at Veii is considered to be among the earliest, if not the earliest, known example of a painted tomb in Etruria. It is dated ca. 700-690 BCE.",
+  "connectsWith": [
+    "423116"
+  ],
+  "names": [
+    "Tomba dei Leoni Ruggenti"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3859261011,
+          42.0345435224
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.386017,
+            42.0347092
+          ],
+          [
+            12.385971,
+            42.0346981
+          ],
+          [
+            12.3859241,
+            42.0348225
+          ],
+          [
+            12.3856921,
+            42.0347878
+          ],
+          [
+            12.3858881,
+            42.0342492
+          ],
+          [
+            12.3861731,
+            42.0343353
+          ],
+          [
+            12.386017,
+            42.0347092
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomba-dei-leoni-ruggenti",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of tomba dei leoni ruggenti",
+        "link": "http://pleiades.stoa.org/places/197052471/osm-location-of-tomba-dei-leoni-ruggenti"
+      }
+    }
+  ]
+}

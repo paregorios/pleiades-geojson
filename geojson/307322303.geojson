@@ -3,10 +3,10 @@
   "title": "Mount Fumaiolo",
   "id": "307322303",
   "bbox": [
-    12.071667,
-    43.789167,
-    12.071667,
-    43.789167
+    12.0698885,
+    43.7882363,
+    12.0698885,
+    43.7882363
   ],
   "description": "A mountain of the northern Apennines (elevation 1,408 m; 4,619 ft) from which the Tiber River originates.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.071667,
-          43.789167
+          12.0698885,
+          43.7882363
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.071667,
-          43.789167
+          12.0698885,
+          43.7882363
         ]
       },
-      "id": "location-of-mount-fumaiolo",
+      "id": "osm-location-of-monte-fumaiolo",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Mount Fumaiolo",
-        "link": "http://pleiades.stoa.org/places/307322303/location-of-mount-fumaiolo"
+        "title": "OSM location of Monte Fumaiolo",
+        "link": "http://pleiades.stoa.org/places/307322303/osm-location-of-monte-fumaiolo"
       }
     }
   ]

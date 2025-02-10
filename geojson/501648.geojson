@@ -3,10 +3,10 @@
   "title": "Tragilos",
   "id": "501648",
   "bbox": [
-    23.721626,
-    40.844865,
-    23.721626,
-    40.844865
+    23.715935,
+    40.8373076,
+    23.715935,
+    40.8373076
   ],
   "description": "An ancient place, cited: BAtlas 51 B3 Tragilos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.721626,
-          40.844865
+          23.715935,
+          40.8373076
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.721626,
-          40.844865
+          23.715935,
+          40.8373076
         ]
       },
-      "id": "darmc-location-10245",
+      "id": "osm-location-of-iiii-i1i-i-i-i3i1ioii-issiii-i-i",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 10245",
-        "link": "http://pleiades.stoa.org/places/501648/darmc-location-10245"
+        "title": "OSM location of Αρχαιολογικός Χώρος Τράγιλος",
+        "link": "http://pleiades.stoa.org/places/501648/osm-location-of-iiii-i1i-i-i-i3i1ioii-issiii-i-i"
       }
     }
   ]

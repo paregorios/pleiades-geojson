@@ -1,19 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Thyrreion",
-  "id": "531123",
+  "title": "Osteria di Centocelle",
+  "id": "612594175",
   "bbox": [
-    20.9875525,
-    38.853254,
-    20.9875525,
-    38.853254
+    12.5682719,
+    41.8740061,
+    12.5682719,
+    41.8740061
   ],
-  "description": "An ancient place, cited: BAtlas 54 C4 Thyrreion",
+  "description": "An nymphaeum located at Osteria di Centocelle dating to the Roman Imperial period.",
   "connectsWith": [
-    "231467659"
-  ],
-  "names": [
-    "Thyrreion"
+    "423025"
   ],
   "features": [
     {
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.9875525,
-          38.853254
+          12.5682719,
+          41.8740061
         ]
       },
       "properties": {
@@ -33,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.9875525,
-          38.853254
+          12.5682719,
+          41.8740061
         ]
       },
-      "id": "osm-location-of-iiii-i-i-iiiiiui1i",
+      "id": "osm-location-of-osteria-di-centocelle",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Αρχαίο Θύρρειο",
-        "link": "http://pleiades.stoa.org/places/531123/osm-location-of-iiii-i-i-iiiiiui1i"
+        "title": "OSM location of Osteria di Centocelle",
+        "link": "http://pleiades.stoa.org/places/612594175/osm-location-of-osteria-di-centocelle"
       }
     }
   ]

@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Bylazora?",
+  "title": "Bylazora",
   "id": "491557",
   "bbox": [
-    21.948229,
-    41.87011,
-    21.948229,
-    41.87011
+    21.9115329,
+    41.8463082,
+    21.9129816,
+    41.8474249
   ],
-  "description": "An ancient place, cited: BAtlas 50 A1 Bylazora?",
+  "description": "Excavated since 2008, a settlement site near the town of Knezje in Macedonia's Sveti Nikole municipality, has been identified as ancient Bylazora.",
   "connectsWith": [
     "491680",
     "991253193"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.948229,
-          41.87011
+          21.9122757365,
+          41.8469121885
         ]
       },
       "properties": {
@@ -32,19 +32,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          21.948229,
-          41.87011
+          [
+            [
+              21.9129575,
+              41.8472031
+            ],
+            [
+              21.9129333,
+              41.8470712
+            ],
+            [
+              21.9127402,
+              41.8471092
+            ],
+            [
+              21.9127375,
+              41.8470233
+            ],
+            [
+              21.9126758,
+              41.8470253
+            ],
+            [
+              21.9126651,
+              41.8469453
+            ],
+            [
+              21.9118658,
+              41.8470033
+            ],
+            [
+              21.9120428,
+              41.8471971
+            ],
+            [
+              21.9123245,
+              41.847277
+            ],
+            [
+              21.9124425,
+              41.847351
+            ],
+            [
+              21.912598,
+              41.8474249
+            ],
+            [
+              21.9127858,
+              41.847345
+            ],
+            [
+              21.9129816,
+              41.847343
+            ],
+            [
+              21.9129575,
+              41.8472031
+            ]
+          ],
+          [
+            [
+              21.9126651,
+              41.8469453
+            ],
+            [
+              21.912262,
+              41.8464531
+            ],
+            [
+              21.9122238,
+              41.846438
+            ],
+            [
+              21.9121567,
+              41.8464083
+            ],
+            [
+              21.9121572,
+              41.8463411
+            ],
+            [
+              21.9120352,
+              41.8463466
+            ],
+            [
+              21.9120138,
+              41.8463084
+            ],
+            [
+              21.9119201,
+              41.8463082
+            ],
+            [
+              21.9115329,
+              41.8465126
+            ],
+            [
+              21.9117139,
+              41.8466704
+            ],
+            [
+              21.9118124,
+              41.8468109
+            ],
+            [
+              21.9118658,
+              41.8470033
+            ],
+            [
+              21.9126651,
+              41.8469453
+            ]
+          ]
         ]
       },
-      "id": "darmc-location-23921",
+      "id": "osm-location-of-dd-d-ddegd-d3-4nddeg",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23921",
-        "link": "http://pleiades.stoa.org/places/491557/darmc-location-23921"
+        "title": "OSM location of Билазора",
+        "link": "http://pleiades.stoa.org/places/491557/osm-location-of-dd-d-ddegd-d3-4nddeg"
       }
     }
   ]

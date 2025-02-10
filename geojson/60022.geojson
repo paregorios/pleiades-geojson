@@ -3,10 +3,10 @@
   "title": "Sagapa Stoma",
   "id": "60022",
   "bbox": [
-    67.59,
+    67.4095123,
     -20.0,
     80.0,
-    34.0484606
+    35.8512743
   ],
   "description": "Sagapa Stoma is the western mouth of the Indus river.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.064042175,
-          4.52961515
+          76.6130708316,
+          5.37018372166
         ]
       },
       "properties": {

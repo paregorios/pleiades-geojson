@@ -3,10 +3,10 @@
   "title": "Derbe/Claudioderbe",
   "id": "648620",
   "bbox": [
-    33.165901,
-    37.3088,
-    33.420821,
-    37.438954
+    33.3601974,
+    37.3475107,
+    33.3635795,
+    37.3510506
   ],
   "description": "An ancient place, cited: BAtlas 66 C2 Derbe/Claudioderbe",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.326976,
-          37.3607866667
+          33.361778847,
+          37.3492074605
         ]
       },
       "properties": {
@@ -29,53 +29,101 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.165901,
-          37.438954
+          [
+            33.363498,
+            37.3494493
+          ],
+          [
+            33.3635795,
+            37.3490596
+          ],
+          [
+            33.3634273,
+            37.3485091
+          ],
+          [
+            33.3630792,
+            37.3479835
+          ],
+          [
+            33.3625006,
+            37.3477504
+          ],
+          [
+            33.3618744,
+            37.3475977
+          ],
+          [
+            33.3613179,
+            37.3475107
+          ],
+          [
+            33.3609555,
+            37.3475587
+          ],
+          [
+            33.3606393,
+            37.3476651
+          ],
+          [
+            33.3605043,
+            37.3478462
+          ],
+          [
+            33.3602201,
+            37.3485219
+          ],
+          [
+            33.3601974,
+            37.3489739
+          ],
+          [
+            33.3603192,
+            37.3496459
+          ],
+          [
+            33.360486,
+            37.3503539
+          ],
+          [
+            33.3609342,
+            37.3509008
+          ],
+          [
+            33.3614198,
+            37.3510506
+          ],
+          [
+            33.3619291,
+            37.3510013
+          ],
+          [
+            33.3623981,
+            37.3507932
+          ],
+          [
+            33.362772,
+            37.3504468
+          ],
+          [
+            33.3631986,
+            37.3499892
+          ],
+          [
+            33.363498,
+            37.3494493
+          ]
         ]
       },
-      "id": "darmc-location-1442",
+      "id": "osm-location-of-kerti-hoeyuk",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 1442",
-        "link": "http://pleiades.stoa.org/places/648620/darmc-location-1442"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.420821,
-          37.3088
-        ]
-      },
-      "id": "darmc-location-3205",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 3205",
-        "link": "http://pleiades.stoa.org/places/648620/darmc-location-3205"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.394206,
-          37.334606
-        ]
-      },
-      "id": "darmc-location-3206",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 3206",
-        "link": "http://pleiades.stoa.org/places/648620/darmc-location-3206"
+        "title": "OSM location of Kerti Höyük",
+        "link": "http://pleiades.stoa.org/places/648620/osm-location-of-kerti-hoeyuk"
       }
     }
   ]
