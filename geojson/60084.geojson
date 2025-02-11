@@ -3,10 +3,10 @@
   "title": "Terabdon Kolpos",
   "id": "60084",
   "bbox": [
-    65.0,
-    25.0,
-    70.0,
-    30.0
+    66.5,
+    25.166667,
+    66.5,
+    25.166667
   ],
   "description": "An ancient place, cited: BAtlas 6 B4 Terabdon Kolpos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          27.5
+          66.5,
+          25.166667
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              65.0,
-              25.0
-            ],
-            [
-              65.0,
-              30.0
-            ],
-            [
-              70.0,
-              30.0
-            ],
-            [
-              70.0,
-              25.0
-            ],
-            [
-              65.0,
-              25.0
-            ]
-          ]
+          66.5,
+          25.166667
         ]
       },
-      "id": "batlas-location",
+      "id": "imagery-location-sonmiani-bay",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/60084/batlas-location"
+        "description": "Coordinates following GeoHack - Sonmiani Bay",
+        "location_precision": "precise",
+        "title": "Imagery location Sonmiani Bay",
+        "link": "http://pleiades.stoa.org/places/60084/imagery-location-sonmiani-bay"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "The House of the Masks ",
   "id": "576206943",
   "bbox": [
-    25.269422,
-    37.396383,
-    25.269422,
-    37.396383
+    25.2692004,
+    37.3960659,
+    25.2696753,
+    37.396484
   ],
   "description": "The House of the Masks (also known as the House of the Comedians), built around 150-100 BC, was a luxurious residential complex that may have housed traveling troops of actors performing at the theater in Delos.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.269422,
-          37.396383
+          25.269428626,
+          37.3962779405
         ]
       },
       "properties": {
@@ -32,19 +32,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          25.269422,
-          37.396383
+          [
+            25.2692004,
+            37.3964637
+          ],
+          [
+            25.2695922,
+            37.396484
+          ],
+          [
+            25.2696753,
+            37.3961702
+          ],
+          [
+            25.2696634,
+            37.3961132
+          ],
+          [
+            25.2694741,
+            37.3960813
+          ],
+          [
+            25.2692548,
+            37.3960659
+          ],
+          [
+            25.2692004,
+            37.3964637
+          ]
         ]
       },
-      "id": "imagery-location",
+      "id": "osm-location-of-house-with-the-masks",
       "type": "Feature",
       "properties": {
-        "description": "The House of the Masks is visible through satellite imagery to the southeast of the theater at Delos. This has been confirmed through pictures and the archaeological plan. ",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location for the House of the Masks at Delos",
-        "link": "http://pleiades.stoa.org/places/576206943/imagery-location"
+        "title": "OSM location of House with the Masks",
+        "link": "http://pleiades.stoa.org/places/576206943/osm-location-of-house-with-the-masks"
       }
     }
   ]

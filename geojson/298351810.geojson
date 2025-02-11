@@ -3,10 +3,10 @@
   "title": "Skellig Michael",
   "id": "298351810",
   "bbox": [
-    -10.5424313,
-    51.7712848,
-    -10.5424313,
-    51.7712848
+    -10.5450507,
+    51.7678389,
+    -10.5360326,
+    51.7747146
   ],
   "description": "An island in the Atlantic Ocean located just west of the coast of Ireland.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.5424313,
-          51.7712848
+          -10.5400831664,
+          51.7712142555
         ]
       },
       "properties": {

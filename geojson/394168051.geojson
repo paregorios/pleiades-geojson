@@ -3,10 +3,10 @@
   "title": "Agora of the Italians",
   "id": "394168051",
   "bbox": [
-    25.267222,
-    37.401667,
-    25.267222,
-    37.401667
+    25.2671208,
+    37.4015016,
+    25.267968,
+    37.4020162
   ],
   "description": "A Hellenistic and Roman complex on the island of Delos, the so-called \"Agora of the Italians\" was likely built by Roman merchants. Its precise function is debated.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.267222,
-          37.401667
+          25.267542049,
+          37.4017455232
         ]
       },
       "properties": {
@@ -32,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          25.267222,
-          37.401667
+          [
+            25.2672075,
+            37.4020162
+          ],
+          [
+            25.267968,
+            37.4019379
+          ],
+          [
+            25.2679051,
+            37.4015016
+          ],
+          [
+            25.2671208,
+            37.4015317
+          ],
+          [
+            25.2672075,
+            37.4020162
+          ]
         ]
       },
-      "id": "imagery-location",
+      "id": "osm-location-of-agora-of-the-italians",
       "type": "Feature",
       "properties": {
-        "description": "Hellenistic and Roman complex on the island of Delos",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location of the Agora of the Italians",
-        "link": "http://pleiades.stoa.org/places/394168051/imagery-location"
+        "title": "OSM location of Agora of the Italians",
+        "link": "http://pleiades.stoa.org/places/394168051/osm-location-of-agora-of-the-italians"
       }
     }
   ]
