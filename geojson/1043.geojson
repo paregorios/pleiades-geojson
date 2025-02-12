@@ -5,8 +5,8 @@
   "bbox": [
     -19.665682,
     -2.282222,
-    36.8965098,
-    43.7733763
+    37.219766,
+    44.2385238
   ],
   "description": "The Mediterranean Sea or Mare Nostrum is a sea connected to the Atlantic Ocean that is surrounded almost completely by land.",
   "connectsWith": [
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4628911674,
-          34.6461331001
+          14.4493666951,
+          34.6552056908
         ]
       },
       "properties": {

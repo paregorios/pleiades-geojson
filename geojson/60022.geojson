@@ -8,7 +8,7 @@
     80.0,
     35.8512743
   ],
-  "description": "Sagapa Stoma is the western mouth of the Indus river.",
+  "description": "The Sagapa Stoma is a river mouth reported by Ptolemy. Erdosy (BAtlas) identifies it with the western mouth of the Indus river, contra Eggermont.",
   "connectsWith": [
     "39352"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.6130708316,
-          5.37018372166
+          73.2261416633,
+          30.7403674433
         ]
       },
       "properties": {
