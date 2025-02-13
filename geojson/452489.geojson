@@ -9,6 +9,9 @@
     38.8531393
   ],
   "description": "The Gulf of Saint Euphemia.",
+  "connectsWith": [
+    "452358"
+  ],
   "names": [
     "Vibonensis Sinus",
     "Golfo di Sant’Eufemia"

@@ -3,12 +3,12 @@
   "title": "Porcibera (river)",
   "id": "383749",
   "bbox": [
-    8.9024614,
-    44.4976778,
-    8.9024614,
+    8.8759737,
+    44.4088956,
+    8.9044554,
     44.4976778
   ],
-  "description": "A river, flowing from the Apennines and emptying in the Ligusticum Mare near Genua.",
+  "description": "A river, flowing from Monte Leco in the Ligurian Apennines and emptying in the Ligusticum Mare near Genua.",
   "connectsWith": [
     "157878"
   ],
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.9024614,
-          44.4976778
+          8.89354946229,
+          44.4535503415
         ]
       },
       "properties": {

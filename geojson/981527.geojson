@@ -3,12 +3,12 @@
   "title": "Iudaea (province)",
   "id": "981527",
   "bbox": [
-    30.0,
-    30.0,
-    35.0,
-    35.0
+    35.190652,
+    32.276414,
+    35.26652,
+    32.38642
   ],
-  "description": "The Roman province of Iudaea, incorporating the historical regions of Judea, Samaria, and Idumaea, was established in 6 CE, when the former tetrarchy of Herod Archelaus came under direct Roman administration. Following the Bar Kokhba War (132-135), Hadrian changed the province's name to Palaestina, and in the mid- to late 4th century CE the area was divided into three provinces (Palaestina Prima, Secunda, and Tertia or Salutaris). ",
+  "description": "The Roman province of Iudaea, incorporating the historical regions of Judea, Samaria, and Idumaea, was established in 6 CE, when the former tetrarchy of Herod Archelaus came under direct Roman administration. Following the Bar Kokhba War (132-135), Hadrian changed the province's name to Palaestina, and in the mid- to late 4th century CE the area was divided into three provinces (Palaestina Prima, Secunda, and Tertia or Salutaris).",
   "connectsWith": [
     "930907033"
   ],
@@ -21,49 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5,
-          32.5
+          35.228586,
+          32.331417
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              34.963873,
-              32.077683
-            ],
-            [
-              35.71748,
-              30.922199
-            ],
-            [
-              35.717485,
-              32.823955
-            ],
-            [
-              34.222502,
-              32.823955
-            ],
-            [
-              34.222502,
-              30.922199
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "precise",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/981527/batlas-location"
       }
     }
   ]

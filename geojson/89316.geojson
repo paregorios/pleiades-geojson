@@ -22,12 +22,83 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.67677150805,
-          54.6767323149
+          -1.67663262903,
+          54.6765887433
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.6770421,
+            54.6763267
+          ],
+          [
+            -1.6770461,
+            54.6762596
+          ],
+          [
+            -1.6766733,
+            54.6762565
+          ],
+          [
+            -1.6764896,
+            54.676317
+          ],
+          [
+            -1.6761167,
+            54.676182
+          ],
+          [
+            -1.6757875,
+            54.6763833
+          ],
+          [
+            -1.6764031,
+            54.6766349
+          ],
+          [
+            -1.6764319,
+            54.6766077
+          ],
+          [
+            -1.6769006,
+            54.6767977
+          ],
+          [
+            -1.6769724,
+            54.676726
+          ],
+          [
+            -1.6770093,
+            54.6766538
+          ],
+          [
+            -1.6770367,
+            54.6766004
+          ],
+          [
+            -1.6770099,
+            54.6765942
+          ],
+          [
+            -1.6770421,
+            54.6763267
+          ]
+        ]
+      },
+      "id": "osm-location-of-binchester-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Binchester Roman Fort",
+        "link": "http://pleiades.stoa.org/places/89316/osm-location-of-binchester-roman-fort"
       }
     },
     {
@@ -63,13 +134,13 @@
           ]
         ]
       },
-      "id": "boundary-of-fort-walls-approx.",
+      "id": "imagery-location-boundary-of-fort-walls-approx.",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of fort walls (approx.)",
-        "link": "http://pleiades.stoa.org/places/89316/boundary-of-fort-walls-approx."
+        "title": "Imagery Location: Boundary of fort walls (approx.)",
+        "link": "http://pleiades.stoa.org/places/89316/imagery-location-boundary-of-fort-walls-approx."
       }
     }
   ]

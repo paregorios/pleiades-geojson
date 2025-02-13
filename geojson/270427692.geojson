@@ -1,0 +1,146 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khirbet ez-Zeraqōn",
+  "id": "270427692",
+  "bbox": [
+    35.9473188,
+    32.587078,
+    35.9486401,
+    32.5879498
+  ],
+  "description": "Settlement in northern Jordan dated to the Early Bronze Age.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9479645143,
+          32.5874591007
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9478514,
+            32.5878025
+          ],
+          [
+            35.9479246,
+            32.5879498
+          ],
+          [
+            35.9479855,
+            32.5879224
+          ],
+          [
+            35.9480242,
+            32.5877529
+          ],
+          [
+            35.9482965,
+            32.5876535
+          ],
+          [
+            35.948388,
+            32.5874874
+          ],
+          [
+            35.9486401,
+            32.5873606
+          ],
+          [
+            35.9486299,
+            32.5872562
+          ],
+          [
+            35.9485994,
+            32.5872407
+          ],
+          [
+            35.9483575,
+            32.587239
+          ],
+          [
+            35.94826,
+            32.5872562
+          ],
+          [
+            35.9482254,
+            32.5872322
+          ],
+          [
+            35.9481868,
+            32.5871603
+          ],
+          [
+            35.9481482,
+            32.5871414
+          ],
+          [
+            35.9479937,
+            32.5871534
+          ],
+          [
+            35.9479754,
+            32.587078
+          ],
+          [
+            35.9478758,
+            32.587078
+          ],
+          [
+            35.9477741,
+            32.58709
+          ],
+          [
+            35.947642,
+            32.5873007
+          ],
+          [
+            35.9474204,
+            32.5873264
+          ],
+          [
+            35.9473188,
+            32.5873863
+          ],
+          [
+            35.9473778,
+            32.5875131
+          ],
+          [
+            35.9474062,
+            32.5875662
+          ],
+          [
+            35.9474062,
+            32.5876741
+          ],
+          [
+            35.9477762,
+            32.5877957
+          ],
+          [
+            35.9478514,
+            32.5878025
+          ]
+        ]
+      },
+      "id": "khirbet-ez-zeraqon",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of the upper city at Khirbet ez-Zeraqon, derived from an OpenStreetMap Way",
+        "location_precision": "precise",
+        "title": "OSM location of Khirbet ez-Zeraqōn",
+        "link": "http://pleiades.stoa.org/places/270427692/khirbet-ez-zeraqon"
+      }
+    }
+  ]
+}

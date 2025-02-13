@@ -3,9 +3,9 @@
   "title": "Nuraghe Palmavera",
   "id": "584920092",
   "bbox": [
-    8.2424319,
-    40.5954311,
-    8.2424319,
+    8.2424282,
+    40.5944274,
+    8.2433449,
     40.5954311
   ],
   "description": "A site near Alghero, Sardinia, belonging to the first nuragic phase (fifteenth and fourteenth centuries BC).",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.2424319,
-          40.5954311
+          8.24282127946,
+          40.5949507186
         ]
       },
       "properties": {
