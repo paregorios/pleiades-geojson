@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tullianum",
+  "id": "755655444",
+  "bbox": [
+    12.4845127,
+    41.8930838,
+    12.4846574,
+    41.8932013
+  ],
+  "description": "Prison located at the foot of the Capitoline Hill, named either for Servius Tullius (578–535 BCE) or for the spring (tullus) on which it was constructed. Also known as the Mamertine Prison. The church of San Giuseppe dei Falegnami was constructed on the site in the 11th century CE.",
+  "connectsWith": [
+    "347036492",
+    "423025"
+  ],
+  "names": [
+    "Carcere Mamertino",
+    "Mamertine Prison"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4845855323,
+          41.8931418032
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4846207,
+              41.8931945
+            ],
+            [
+              12.4846359,
+              41.8931933
+            ]
+          ],
+          [
+            [
+              12.4846359,
+              41.8931933
+            ],
+            [
+              12.4846574,
+              41.8931917
+            ]
+          ],
+          [
+            [
+              12.4846219,
+              41.8930852
+            ],
+            [
+              12.4846461,
+              41.8930838
+            ],
+            [
+              12.4846519,
+              41.8931388
+            ],
+            [
+              12.4846574,
+              41.8931917
+            ]
+          ],
+          [
+            [
+              12.4846219,
+              41.8930852
+            ],
+            [
+              12.4845127,
+              41.8930917
+            ],
+            [
+              12.4845272,
+              41.8932013
+            ]
+          ],
+          [
+            [
+              12.4845272,
+              41.8932013
+            ],
+            [
+              12.4846207,
+              41.8931945
+            ]
+          ]
+        ]
+      },
+      "id": "carcere-mamertino",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Mamertine Prison, derived from an OpenStreetMap Relation.",
+        "location_precision": "precise",
+        "title": "OSM location of Carcere Mamertino",
+        "link": "http://pleiades.stoa.org/places/755655444/carcere-mamertino"
+      }
+    }
+  ]
+}

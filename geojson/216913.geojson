@@ -3,10 +3,10 @@
   "title": "Ovidiu",
   "id": "216913",
   "bbox": [
-    28.569548,
-    44.257196,
-    28.569548,
-    44.257196
+    28.5770943,
+    44.2459858,
+    28.5782557,
+    44.2468005
   ],
   "description": "An ancient place, cited: BAtlas 22 F4 Ovidiu",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.569548,
-          44.257196
+          28.5776914445,
+          44.2464215314
         ]
       },
       "properties": {
@@ -25,19 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          28.569548,
-          44.257196
+          [
+            28.5770943,
+            44.246568
+          ],
+          [
+            28.5775155,
+            44.2459858
+          ],
+          [
+            28.5781753,
+            44.2461991
+          ],
+          [
+            28.5782021,
+            44.2462529
+          ],
+          [
+            28.5782557,
+            44.2463989
+          ],
+          [
+            28.5781431,
+            44.2466026
+          ],
+          [
+            28.5779875,
+            44.2467755
+          ],
+          [
+            28.5776844,
+            44.2468005
+          ],
+          [
+            28.5770943,
+            44.246568
+          ]
         ]
       },
-      "id": "darmc-location-23996",
+      "id": "osm-location-of-castrum-ovidiu",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23996",
-        "link": "http://pleiades.stoa.org/places/216913/darmc-location-23996"
+        "title": "OSM location of Castrum Ovidiu",
+        "link": "http://pleiades.stoa.org/places/216913/osm-location-of-castrum-ovidiu"
       }
     }
   ]

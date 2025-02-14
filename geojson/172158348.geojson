@@ -34,7 +34,7 @@
       "id": "megalithic-portal-location-of-pazarli",
       "type": "Feature",
       "properties": {
-        "description": "Point representing the location of the Pazarli site from coordinates listed in entry in the Megalithic Portal.",
+        "description": "Point representing the location of the Pazarli site from coordinates listed in entry in the Megalithic Portal. Verified in Google Earth.",
         "location_precision": "precise",
         "title": "Megalithic Portal location of Pazarli",
         "link": "http://pleiades.stoa.org/places/172158348/megalithic-portal-location-of-pazarli"

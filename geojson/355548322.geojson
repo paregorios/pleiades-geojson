@@ -3,10 +3,10 @@
   "title": "Fleury",
   "id": "355548322",
   "bbox": [
-    3.1872431,
-    43.1993756,
-    3.1872431,
-    43.1993756
+    3.1872944,
+    43.1994076,
+    3.1872944,
+    43.1994076
   ],
   "description": "A small Gallo-Roman settlement south of Béziers, located on the coast at La Fount de Rome.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1872431,
-          43.1993756
+          3.1872944,
+          43.1994076
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1872431,
-          43.1993756
+          3.1872944,
+          43.1994076
         ]
       },
       "id": "location-of-fount-de-rome",

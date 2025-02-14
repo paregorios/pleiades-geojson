@@ -37,13 +37,13 @@
           37.780327
         ]
       },
-      "id": "strophilas",
+      "id": "cfl-ago-location-strophilas",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Strophilas",
-        "link": "http://pleiades.stoa.org/places/392437877/strophilas"
+        "title": "CFL/AGO Location: Strophilas",
+        "link": "http://pleiades.stoa.org/places/392437877/cfl-ago-location-strophilas"
       }
     }
   ]

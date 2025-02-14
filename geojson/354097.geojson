@@ -9,6 +9,9 @@
     26.760357
   ],
   "description": "An ancient place, cited: BAtlas 36 D5 el-Abiad",
+  "names": [
+    "el-Abiad"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Sicilia (Roman province)",
   "id": "981549",
   "bbox": [
-    14.262968,
+    15.088142,
     37.502959,
     15.088142,
-    37.99808
+    37.502959
   ],
   "description": "The Roman province of Sicilia (Sicily) was initially organized in 241 BC as a territory with a proconsular governor. The territory fell to the Vandals in AD 440 but was reclaimed by the Byzantines.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.6747958,
-          37.751645425
+          15.088142,
+          37.502959
         ]
       },
       "properties": {

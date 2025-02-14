@@ -3,10 +3,10 @@
   "title": "Hadrian's Wall (Cumbrian Coast)",
   "id": "579047271",
   "bbox": [
-    -3.6032,
-    54.5621,
-    -3.205,
-    54.9571
+    -3.576289,
+    54.573931,
+    -3.2132284,
+    54.9537925
   ],
   "description": "Line of Roman fortifications along Cumbrian Coast running from western terminus of the stone wall commonly referred to as Hadrian's Wall at Maia (Bowness-on-Solway) in the north to Gabrosentum (Moresby) in the south.",
   "connectsWith": [
@@ -21,49 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4041,
-          54.7596
+          -3.34130181741,
+          54.8709720268
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -3.6032,
-              54.5621
-            ],
-            [
-              -3.205,
-              54.5621
-            ],
-            [
-              -3.205,
-              54.9571
-            ],
-            [
-              -3.6032,
-              54.9571
-            ],
-            [
-              -3.6032,
-              54.5621
-            ]
-          ]
-        ]
-      },
-      "id": "bounding-box-of-line-of-fortifications",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "precise",
-        "title": "Bounding box of line of fortifications",
-        "link": "http://pleiades.stoa.org/places/579047271/bounding-box-of-line-of-fortifications"
       }
     }
   ]

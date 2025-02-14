@@ -3,10 +3,10 @@
   "title": "Falerii Novi amphitheater",
   "id": "827074678",
   "bbox": [
-    12.3609851,
-    42.3029195,
-    12.3609851,
-    42.3029195
+    12.36098,
+    42.302656,
+    12.36098,
+    42.302656
   ],
   "description": "The Falerii Novi amphitheater is located north of the city walls.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3609851,
-          42.3029195
+          12.36098,
+          42.302656
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3609851,
-          42.3029195
+          12.36098,
+          42.302656
         ]
       },
-      "id": "location-of-roman-amphitheater",
+      "id": "imagery-location-amphitheater",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": null,
         "location_precision": "precise",
-        "title": "OSM location of Roman amphitheater",
-        "link": "http://pleiades.stoa.org/places/827074678/location-of-roman-amphitheater"
+        "title": "Imagery Location: amphitheater",
+        "link": "http://pleiades.stoa.org/places/827074678/imagery-location-amphitheater"
       }
     }
   ]

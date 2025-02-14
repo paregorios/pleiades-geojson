@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Schola Praeconum",
+  "id": "582924414",
+  "bbox": [
+    12.4848403,
+    41.8875219,
+    12.4848403,
+    41.8875219
+  ],
+  "description": "The so-called Schola Praeconum is located at the foot of the Palatine Hill near the church of S. Anastasia. A black-and-white floor mosaic discovered during excavations depicts public heralds known as praecones, thus the name of the site.",
+  "connectsWith": [
+    "423025",
+    "458808506"
+  ],
+  "names": [
+    "Schola Praeconum",
+    "Scuola degli Araldi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4848403,
+          41.8875219
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4848403,
+          41.8875219
+        ]
+      },
+      "id": "osm-location-of-schola-praeconum-scuola-degli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Schola Praeconum (Scuola degli Araldi)",
+        "link": "http://pleiades.stoa.org/places/582924414/osm-location-of-schola-praeconum-scuola-degli"
+      }
+    }
+  ]
+}
