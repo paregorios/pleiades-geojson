@@ -9,6 +9,9 @@
     37.427406
   ],
   "description": "An ancient place, cited: BAtlas 66 F2 Podandus",
+  "connectsWith": [
+    "27698090"
+  ],
   "names": [
     "Podandus",
     "Paduwandas",

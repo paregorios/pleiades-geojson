@@ -9,6 +9,9 @@
     40.0
   ],
   "description": "Galatia et Cappadocia, a Roman province that results from the union of Galatia and Cappadocia.",
+  "connectsWith": [
+    "27698090"
+  ],
   "names": [
     "Galatia et Cappadocia"
   ],

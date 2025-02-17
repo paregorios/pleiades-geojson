@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Church of the Annunziatella",
+  "id": "566994603",
+  "bbox": [
+    12.5111304,
+    41.8355196,
+    12.5115729,
+    41.8357657
+  ],
+  "description": "The church of the Annunziatella is a Catholic church located in Rome's Ardeatino district. It is situated between the via Ardeatina and via di Grotta Perfetta. The church was established in the thirteenth century, as an inscription of Pope Honorius III attests.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Santa Maria Annunziata fuori le mura"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.511359792,
+          41.8356275689
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5111304,
+            41.8356122
+          ],
+          [
+            12.5113019,
+            41.8357657
+          ],
+          [
+            12.5115632,
+            41.8356038
+          ],
+          [
+            12.511546,
+            41.8355885
+          ],
+          [
+            12.5115688,
+            41.8355655
+          ],
+          [
+            12.5115729,
+            41.8355485
+          ],
+          [
+            12.5115648,
+            41.8355315
+          ],
+          [
+            12.5115447,
+            41.8355196
+          ],
+          [
+            12.5115165,
+            41.8355206
+          ],
+          [
+            12.5114857,
+            41.8355305
+          ],
+          [
+            12.5113229,
+            41.8356314
+          ],
+          [
+            12.5112312,
+            41.8355574
+          ],
+          [
+            12.5111304,
+            41.8356122
+          ]
+        ]
+      },
+      "id": "osm-location-of-chiesa-dellannunziatella",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chiesa dell'Annunziatella",
+        "link": "http://pleiades.stoa.org/places/566994603/osm-location-of-chiesa-dellannunziatella"
+      }
+    }
+  ]
+}

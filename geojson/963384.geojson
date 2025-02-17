@@ -3,10 +3,10 @@
   "title": "Kam Pirak wall",
   "id": "963384",
   "bbox": [
-    66.0,
-    37.0,
-    67.0,
-    38.0
+    66.8660223,
+    37.061619,
+    66.9637824,
+    37.0704488
   ],
   "description": "The Kam Pirak wall is a rammed earth defensive wall located near Kumsar, Afghanistan. It has been traced for ca. 60 km.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          66.5,
-          37.5
+          66.9147234865,
+          37.0652947062
         ]
       },
       "properties": {
@@ -25,39 +25,65 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              66.0,
-              37.0
-            ],
-            [
-              66.0,
-              38.0
-            ],
-            [
-              67.0,
-              38.0
-            ],
-            [
-              67.0,
-              37.0
-            ],
-            [
-              66.0,
-              37.0
-            ]
+            66.9637824,
+            37.0667201
+          ],
+          [
+            66.9286829,
+            37.0626871
+          ],
+          [
+            66.9189741,
+            37.061619
+          ],
+          [
+            66.9062088,
+            37.0649348
+          ],
+          [
+            66.9020336,
+            37.0658912
+          ],
+          [
+            66.8933236,
+            37.0667998
+          ],
+          [
+            66.8908066,
+            37.0670708
+          ],
+          [
+            66.8841342,
+            37.0666085
+          ],
+          [
+            66.8749448,
+            37.0677084
+          ],
+          [
+            66.8716087,
+            37.0688401
+          ],
+          [
+            66.8681727,
+            37.0701313
+          ],
+          [
+            66.8660223,
+            37.0704488
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-barrier-wall-ruins",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/963384/batlas-location"
+        "description": "Location based on OpenStreetMap with reference to Ball 2019. Dates after Ball 2019.",
+        "location_precision": "precise",
+        "title": "OSM Location: Barrier Wall Ruins",
+        "link": "http://pleiades.stoa.org/places/963384/osm-location-barrier-wall-ruins"
       }
     }
   ]

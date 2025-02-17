@@ -1,22 +1,26 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Bertelles",
   "id": "375256",
   "bbox": [
-    21.9999,
-    32.8511,
-    21.9999,
-    32.8511
+    21.991947,
+    32.834993,
+    21.991947,
+    32.834993
   ],
-  "description": "An ancient place, cited: BAtlas 38 D1 no. 20 (Bertelles)",
+  "description": "A \"fortified basilica\" in Cyrenaica, probably dating to the 6th century CE and associated with nearby farmsteads and tombs, the latter dating to the Roman period, but reused in late antiquity.",
+  "names": [
+    "BAtlas 38 D1 20",
+    "Berteleis"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.9999,
-          32.8511
+          21.991947,
+          32.834993
         ]
       },
       "properties": {
@@ -27,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.9999,
-          32.8511
+          21.991947,
+          32.834993
         ]
       },
-      "id": "batlas-location",
+      "id": "imagery-location",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Barrington Atlas map location",
-        "link": "http://pleiades.stoa.org/places/375256/batlas-location"
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/375256/imagery-location"
       }
     }
   ]

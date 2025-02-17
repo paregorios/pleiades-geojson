@@ -3,10 +3,10 @@
   "title": "Via Lata",
   "id": "753239987",
   "bbox": [
-    12.481647,
-    41.8985094,
+    12.4790948,
+    41.8979868,
     12.4823237,
-    41.898855
+    41.9028424
   ],
   "description": "Via Lata is a later Latin name for the portion of the ancient Via Flaminia within the walls of Rome. According to Platner and Ashby, the name first appears in the Regionary Catalogue but it is commonly attested in sources, including the liber Pontificalis.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4819941445,
-          41.8986781714
+          12.4816533184,
+          41.8983945758
         ]
       },
       "properties": {

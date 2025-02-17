@@ -3,12 +3,15 @@
   "title": "*Sidamaria",
   "id": "648777",
   "bbox": [
-    33.6303977,
+    33.6302513,
     37.4798002,
-    33.6303977,
-    37.4798002
+    33.6318025,
+    37.4812687
   ],
   "description": "An ancient place, cited: BAtlas 66 D2 *Sidamaria",
+  "connectsWith": [
+    "27698090"
+  ],
   "names": [
     "Sidamaria"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.6303977,
-          37.4798002
+          33.6310136959,
+          37.4804740568
         ]
       },
       "properties": {

@@ -4,11 +4,11 @@
   "id": "67911853",
   "bbox": [
     10.917964,
-    41.891775,
+    43.022406,
     13.857438,
     45.769631
   ],
-  "description": "The tribus Velina was one of the later rural tribes which was established in Rome in 241 B.C. ",
+  "description": "The tribus Velina was one of the later rural tribes which was established in Rome in 241 B.C.",
   "connectsWith": [
     "432900",
     "423025"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.3677735,
-          45.768945
+          13.7168264,
+          43.1610772
         ]
       },
       "properties": {

@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Krosno, Połowite, Weklice",
+  "title": "Cemetery cluster: Krosno, Połowite, Weklice",
   "id": "20514",
   "bbox": [
-    15.0,
-    50.0,
-    20.0,
-    55.0
+    19.5735957,
+    53.9163,
+    19.60656,
+    54.1160596
   ],
-  "description": "An ancient place, cited: BAtlas 2 G3 Krosno, Połowite, Weklice",
+  "description": "A cemetery cluster associated with three modern villages, treated by the Barrington Atlas as a single symbol on the map.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.5,
-          52.5
+          19.5937670333,
+          54.0323178333
         ]
       },
       "properties": {
@@ -25,39 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              15.0,
-              50.0
-            ],
-            [
-              15.0,
-              55.0
-            ],
-            [
-              20.0,
-              55.0
-            ],
-            [
-              20.0,
-              50.0
-            ],
-            [
-              15.0,
-              50.0
-            ]
-          ]
+          19.60656,
+          53.9163
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-poaowite",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/20514/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Połowite",
+        "link": "http://pleiades.stoa.org/places/20514/osm-location-modern-poaowite"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5735957,
+          54.1160596
+        ]
+      },
+      "id": "osm-location-weklice",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Weklice",
+        "link": "http://pleiades.stoa.org/places/20514/osm-location-weklice"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.6011454,
+          54.0645939
+        ]
+      },
+      "id": "osm-location-modern-krosno",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Krosno",
+        "link": "http://pleiades.stoa.org/places/20514/osm-location-modern-krosno"
       }
     }
   ]

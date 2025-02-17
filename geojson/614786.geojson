@@ -3,6 +3,9 @@
   "title": "Orkaorkoi",
   "id": "614786",
   "description": "An ancient place, cited: BAtlas 62 unlocated Orkaorkoi",
+  "connectsWith": [
+    "619269"
+  ],
   "names": [
     "Orkaorkoi"
   ],

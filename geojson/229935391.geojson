@@ -3,10 +3,10 @@
   "title": "Nuraghe Su Valsu",
   "id": "229935391",
   "bbox": [
-    8.642503,
-    40.604732,
-    8.642503,
-    40.604732
+    8.6426611,
+    40.6049315,
+    8.642809,
+    40.6050443
   ],
   "description": "A Middle Bronze Age nuraghe located southwest of Florinas in Sardinia.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.642503,
-          40.604732
+          8.64273537112,
+          40.6049878941
         ]
       },
       "properties": {
@@ -28,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.642503,
-          40.604732
+          [
+            8.642809,
+            40.6049961
+          ],
+          [
+            8.642801,
+            40.6050144
+          ],
+          [
+            8.6427854,
+            40.6050297
+          ],
+          [
+            8.6427639,
+            40.60504
+          ],
+          [
+            8.6427391,
+            40.6050443
+          ],
+          [
+            8.6427157,
+            40.6050423
+          ],
+          [
+            8.6426942,
+            40.6050349
+          ],
+          [
+            8.6426769,
+            40.6050227
+          ],
+          [
+            8.6426655,
+            40.605007
+          ],
+          [
+            8.6426611,
+            40.6049894
+          ],
+          [
+            8.6426642,
+            40.6049716
+          ],
+          [
+            8.6426746,
+            40.6049555
+          ],
+          [
+            8.642691,
+            40.6049426
+          ],
+          [
+            8.6427119,
+            40.6049343
+          ],
+          [
+            8.6427352,
+            40.6049315
+          ],
+          [
+            8.6427603,
+            40.6049347
+          ],
+          [
+            8.6427825,
+            40.6049442
+          ],
+          [
+            8.6427991,
+            40.6049588
+          ],
+          [
+            8.6428083,
+            40.6049768
+          ],
+          [
+            8.642809,
+            40.6049961
+          ]
         ]
       },
-      "id": "location-of-nuraghe-su-valsu",
+      "id": "osm-location-of-nuraghe-su-valsu",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after Wikimapia; verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Nuraghe Su Valsu",
-        "link": "http://pleiades.stoa.org/places/229935391/location-of-nuraghe-su-valsu"
+        "title": "OSM location of Nuraghe Su Valsu",
+        "link": "http://pleiades.stoa.org/places/229935391/osm-location-of-nuraghe-su-valsu"
       }
     }
   ]

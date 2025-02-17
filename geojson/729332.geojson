@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed road",
   "id": "729332",
   "bbox": [
     29.0,
@@ -8,7 +8,7 @@
     33.0,
     32.0
   ],
-  "description": "Unnamed route or road",
+  "description": "Unnamed route or road from Canopus to Pelusium.",
   "features": [
     {
       "type": "Feature",

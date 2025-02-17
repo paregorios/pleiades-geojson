@@ -3,10 +3,10 @@
   "title": "Agnou Keras Pr.",
   "id": "727069",
   "bbox": [
-    30.4181066,
-    31.4678405,
-    30.4181066,
-    31.4678405
+    30.381346,
+    31.474667,
+    30.381346,
+    31.474667
   ],
   "description": "An ancient place, cited: BAtlas 74 C2 Agnou Keras Pr.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.4181066,
-          31.4678405
+          30.381346,
+          31.474667
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.4181066,
-          31.4678405
+          30.381346,
+          31.474667
         ]
       },
-      "id": "location-of-Agnou-Keras-Pr",
+      "id": "imagery-location-modern-cape-rosetta",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap, placement based on Barrington Atlas.",
+        "description": "Location determined in Google Earth with reference to BAtlas map 74.",
         "location_precision": "precise",
-        "title": "location of Agnou Keras Pr.",
-        "link": "http://pleiades.stoa.org/places/727069/location-of-Agnou-Keras-Pr"
+        "title": "Imagery Location: modern Cape Rosetta",
+        "link": "http://pleiades.stoa.org/places/727069/imagery-location-modern-cape-rosetta"
       }
     }
   ]

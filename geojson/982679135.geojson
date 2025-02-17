@@ -3,10 +3,10 @@
   "title": "S. Passera hypogeum",
   "id": "982679135",
   "bbox": [
-    12.4603017,
-    41.8585251,
-    12.4603017,
-    41.8585251
+    12.4602864,
+    41.8584919,
+    12.4602864,
+    41.8584919
   ],
   "description": "A hypogeum connected with the S. Passera complex.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4603017,
-          41.8585251
+          12.4602864,
+          41.8584919
         ]
       },
       "properties": {

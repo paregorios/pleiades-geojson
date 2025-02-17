@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed villa",
+  "id": "429591722",
+  "bbox": [
+    12.4960243,
+    41.8972416,
+    12.4960243,
+    41.8972416
+  ],
+  "description": "Remains of an extensive urban villa were discovered in 1886 during construction work at the intersection of what is now the Via Cavour and the Via dei Quattro Cantori.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4960243,
+          41.8972416
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4960243,
+          41.8972416
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/429591722/osm-location"
+      }
+    }
+  ]
+}

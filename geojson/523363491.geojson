@@ -3,10 +3,10 @@
   "title": "Roman mausoleum at Bou Arada",
   "id": "523363491",
   "bbox": [
-    9.6267436,
-    36.3525764,
-    9.6267436,
-    36.3525764
+    9.6258502,
+    36.352725,
+    9.6259796,
+    36.3528318
   ],
   "description": "The mausoleum of Caius Iulius Augustus Felix in Bou Arada, Tunisia.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.6267436,
-          36.3525764
+          9.62591490883,
+          36.3527784185
         ]
       },
       "properties": {
@@ -25,19 +25,41 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          9.6267436,
-          36.3525764
+          [
+            9.6258931,
+            36.3528318
+          ],
+          [
+            9.6258502,
+            36.3527573
+          ],
+          [
+            9.6259367,
+            36.352725
+          ],
+          [
+            9.6259796,
+            36.3527996
+          ],
+          [
+            9.6259396,
+            36.3528145
+          ],
+          [
+            9.6258931,
+            36.3528318
+          ]
         ]
       },
-      "id": "osm-location-of-mausolee-de-caius-iulius-augustus",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Mausolée de Caïus Iulius Augustus Felix",
-        "link": "http://pleiades.stoa.org/places/523363491/osm-location-of-mausolee-de-caius-iulius-augustus"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/523363491/osm-location"
       }
     }
   ]

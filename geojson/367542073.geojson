@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Columbarium of Caius Scribonius Menophilus",
+  "id": "367542073",
+  "bbox": [
+    12.4505809,
+    41.8877051,
+    12.4521841,
+    41.8888626
+  ],
+  "description": "The Columbarium of Caius Scribonius Menophilus is located on the grounds of the Doria Pamphili in Rome. The well-preserved columbarium dates to the late republican and early imperial periods and is noted for its wall paintings.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4513677419,
+          41.8883537594
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4521841,
+            41.8888626
+          ],
+          [
+            12.4520435,
+            41.8885522
+          ],
+          [
+            12.4516574,
+            41.8877051
+          ],
+          [
+            12.4515023,
+            41.8877053
+          ],
+          [
+            12.4509805,
+            41.8877128
+          ],
+          [
+            12.4509579,
+            41.8879773
+          ],
+          [
+            12.4508285,
+            41.8881041
+          ],
+          [
+            12.45059,
+            41.8881853
+          ],
+          [
+            12.4505809,
+            41.8884068
+          ],
+          [
+            12.4506172,
+            41.8885031
+          ],
+          [
+            12.4508059,
+            41.8888091
+          ],
+          [
+            12.4515794,
+            41.8888381
+          ],
+          [
+            12.4521841,
+            41.8888626
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/367542073/osm-location"
+      }
+    }
+  ]
+}

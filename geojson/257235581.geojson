@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Cispius Mons",
   "id": "257235581",
+  "bbox": [
+    12.4939438,
+    41.893413,
+    12.496541,
+    41.8995278
+  ],
   "description": "Cispius Mons, a spur of the Esquiline Hill wedged between the Viminal and the Oppian.",
   "connectsWith": [
     "679976755",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4952424,
+          41.8964704
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

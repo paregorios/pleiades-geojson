@@ -3,10 +3,10 @@
   "title": "Hottomont tumulus",
   "id": "968039985",
   "bbox": [
-    4.8905074,
-    50.6230666,
-    4.8905074,
-    50.6230666
+    4.8906493,
+    50.6225602,
+    4.8913316,
+    50.6229925
   ],
   "description": "A Gallo-Roman tumulus near Ramillies in Belgium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8905074,
-          50.6230666
+          4.89099054083,
+          50.6227760145
         ]
       },
       "properties": {

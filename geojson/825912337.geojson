@@ -3,10 +3,10 @@
   "title": "Lateran Basilica, Palace, and Castra Nova equitum singularium",
   "id": "825912337",
   "bbox": [
-    12.506156,
-    41.885906,
-    12.506156,
-    41.885906
+    12.5046398,
+    41.8851403,
+    12.5065319,
+    41.887005
   ],
   "description": "Site of a basilica and palace from early Roman imperial times, as well as an military installation built by Septimius Severus for the Roman imperial cavalry bodyguard. Now the site of the Archbasilica of St. John Lateran (rebuilt in the 16th century): Complesso dei San Giovanni in Laterano (Basilica, Palazzo Apostolico Lateranense, edifici annessi) Holy See; listed as a UNESCO World Heritage Site in 1990.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.506156,
-          41.885906
+          12.5056867978,
+          41.8861326797
         ]
       },
       "properties": {
@@ -33,19 +33,308 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.506156,
-          41.885906
+          [
+            [
+              12.5063078,
+              41.886257
+            ],
+            [
+              12.506367,
+              41.8862667
+            ],
+            [
+              12.5064485,
+              41.8859916
+            ],
+            [
+              12.5065319,
+              41.8857071
+            ],
+            [
+              12.5064463,
+              41.8856933
+            ]
+          ],
+          [
+            [
+              12.5064463,
+              41.8856933
+            ],
+            [
+              12.5063642,
+              41.8856799
+            ],
+            [
+              12.5064166,
+              41.8855013
+            ],
+            [
+              12.5061787,
+              41.8854627
+            ],
+            [
+              12.5061716,
+              41.8854868
+            ],
+            [
+              12.5060509,
+              41.8854671
+            ],
+            [
+              12.5061062,
+              41.8852789
+            ],
+            [
+              12.5057224,
+              41.8852163
+            ],
+            [
+              12.5052715,
+              41.8851403
+            ],
+            [
+              12.5051724,
+              41.8854663
+            ],
+            [
+              12.5048186,
+              41.8854067
+            ],
+            [
+              12.5047683,
+              41.8855627
+            ],
+            [
+              12.5046398,
+              41.8860023
+            ],
+            [
+              12.5047276,
+              41.8860166
+            ],
+            [
+              12.5050156,
+              41.8860642
+            ],
+            [
+              12.5049907,
+              41.8861478
+            ],
+            [
+              12.5051827,
+              41.8861794
+            ],
+            [
+              12.5053706,
+              41.8862104
+            ],
+            [
+              12.505402,
+              41.886105
+            ],
+            [
+              12.5057398,
+              41.8861608
+            ],
+            [
+              12.5057064,
+              41.8862729
+            ],
+            [
+              12.5059265,
+              41.8863092
+            ],
+            [
+              12.5059131,
+              41.8863543
+            ],
+            [
+              12.5060882,
+              41.8863831
+            ],
+            [
+              12.5061342,
+              41.8862284
+            ],
+            [
+              12.5063078,
+              41.886257
+            ]
+          ],
+          [
+            [
+              12.5056037,
+              41.8852714
+            ],
+            [
+              12.505537,
+              41.8854848
+            ],
+            [
+              12.5052839,
+              41.8854409
+            ],
+            [
+              12.5053507,
+              41.8852275
+            ],
+            [
+              12.5056037,
+              41.8852714
+            ]
+          ],
+          [
+            [
+              12.5058819,
+              41.8853386
+            ],
+            [
+              12.5058936,
+              41.8852941
+            ],
+            [
+              12.5060021,
+              41.8853099
+            ],
+            [
+              12.5059904,
+              41.8853545
+            ],
+            [
+              12.5058819,
+              41.8853386
+            ]
+          ]
         ]
       },
-      "id": "archbasilica-of-st.-john-lateran",
+      "id": "osm-location-of-basilica-of-saint-john-lateran",
       "type": "Feature",
       "properties": {
-        "description": "Present location of the basilica of St. John Lateran. ",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Archbasilica of St. John Lateran",
-        "link": "http://pleiades.stoa.org/places/825912337/archbasilica-of-st.-john-lateran"
+        "title": "OSM location of Basilica of Saint John Lateran",
+        "link": "http://pleiades.stoa.org/places/825912337/osm-location-of-basilica-of-saint-john-lateran"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.5063078,
+              41.886257
+            ],
+            [
+              12.5061342,
+              41.8862284
+            ],
+            [
+              12.5060882,
+              41.8863831
+            ],
+            [
+              12.5059131,
+              41.8863543
+            ],
+            [
+              12.5059265,
+              41.8863092
+            ],
+            [
+              12.5057064,
+              41.8862729
+            ],
+            [
+              12.5057398,
+              41.8861608
+            ],
+            [
+              12.505402,
+              41.886105
+            ],
+            [
+              12.5053706,
+              41.8862104
+            ],
+            [
+              12.5053486,
+              41.8862841
+            ],
+            [
+              12.5052477,
+              41.8866207
+            ],
+            [
+              12.5051777,
+              41.8868575
+            ]
+          ],
+          [
+            [
+              12.5060935,
+              41.887005
+            ],
+            [
+              12.5062845,
+              41.8863353
+            ],
+            [
+              12.5063078,
+              41.886257
+            ]
+          ],
+          [
+            [
+              12.5051777,
+              41.8868575
+            ],
+            [
+              12.5055418,
+              41.8869172
+            ],
+            [
+              12.5057643,
+              41.8869529
+            ],
+            [
+              12.5060935,
+              41.887005
+            ]
+          ],
+          [
+            [
+              12.5055989,
+              41.8864246
+            ],
+            [
+              12.5060083,
+              41.8864923
+            ],
+            [
+              12.5059215,
+              41.8867831
+            ],
+            [
+              12.5055121,
+              41.8867153
+            ],
+            [
+              12.5055989,
+              41.8864246
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-lateran-palace",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Lateran Palace",
+        "link": "http://pleiades.stoa.org/places/825912337/osm-location-of-lateran-palace"
       }
     }
   ]

@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Babięta, Machary, Mojtyny",
+  "title": "Cemetery cluster: Babięta, Machary, Mojtyny",
   "id": "20405",
   "bbox": [
-    20.0,
-    50.0,
-    25.0,
-    55.0
+    21.25939,
+    53.67292,
+    21.34516,
+    53.7000488
   ],
-  "description": "An ancient place, cited: BAtlas 2 H3 Babięta, Machary, Mojtyny",
+  "description": "A group of cemeteries treated as a single entry by the Barrington Atlas.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.5,
-          52.5
+          21.2896431333,
+          53.6892162667
         ]
       },
       "properties": {
@@ -25,39 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              20.0,
-              50.0
-            ],
-            [
-              20.0,
-              55.0
-            ],
-            [
-              25.0,
-              55.0
-            ],
-            [
-              25.0,
-              50.0
-            ],
-            [
-              20.0,
-              50.0
-            ]
-          ]
+          21.25939,
+          53.67292
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-babiata",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/20405/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Babięta",
+        "link": "http://pleiades.stoa.org/places/20405/osm-location-modern-babiata"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2643794,
+          53.7000488
+        ]
+      },
+      "id": "osm-location-modern-machary",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Machary",
+        "link": "http://pleiades.stoa.org/places/20405/osm-location-modern-machary"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.34516,
+          53.69468
+        ]
+      },
+      "id": "osm-location-modern-mojtyny",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Mojtyny",
+        "link": "http://pleiades.stoa.org/places/20405/osm-location-modern-mojtyny"
       }
     }
   ]

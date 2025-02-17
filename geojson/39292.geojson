@@ -3,10 +3,10 @@
   "title": "Are",
   "id": "39292",
   "bbox": [
-    45.0,
-    15.0,
-    50.0,
-    20.0
+    48.733503111,
+    15.9414013124,
+    48.733503111,
+    15.9414013124
   ],
   "description": "An ancient place, cited: BAtlas 4 C2 Are",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          17.5
+          48.733503111,
+          15.9414013124
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              50.0,
-              20.0
-            ],
-            [
-              50.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ]
-          ]
+          48.7335031109817,
+          15.941401312396055
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39292/batlas-location"
+        "description": "Location digitized from BATlas map",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/39292/batlas-point-location"
       }
     }
   ]

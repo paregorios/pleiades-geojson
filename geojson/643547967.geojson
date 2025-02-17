@@ -2,14 +2,26 @@
   "type": "FeatureCollection",
   "title": "Domus Faustae",
   "id": "643547967",
-  "description": "The Domus Faustae refers to a part of the Latern Palace. In about 312, Constantine razed the barracks of the imperial horse-guards barracks that adjoined the palace. At that time, the palace was known as Domus Faustae. Since the equites singulares Augusti had supported Maxentius, Constantine destroys the barracks and orders the beginnings of the construction of the Basilica di San Giovanni in Laterano on the site.",
+  "bbox": [
+    12.506156,
+    41.885906,
+    12.506156,
+    41.885906
+  ],
+  "description": "The Domus Faustae refers to a part of the Lateran Palace. In about 312 CE, Constantine razed the barracks of the imperial horse-guards barracks that adjoined the palace. At that time, the palace was known as Domus Faustae. Since the equites singulares Augusti had supported Maxentius, Constantine destroys the barracks and orders the beginnings of the construction of the Basilica di San Giovanni in Laterano on the site.",
   "connectsWith": [
     "423025"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.506156,
+          41.885906
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

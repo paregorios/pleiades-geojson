@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cappadocia (Roman province)",
+  "id": "27698090",
+  "description": "A province of the Roman empire created after the annexation of the kingdom of Cappadocia in AD 17.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

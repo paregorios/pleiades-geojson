@@ -3,10 +3,10 @@
   "title": "Sep. Geta",
   "id": "423065",
   "bbox": [
-    12.505709,
-    41.866599,
-    12.505709,
-    41.866599
+    12.5028588,
+    41.8677103,
+    12.5030293,
+    41.8678281
   ],
   "description": "A Roman tomb along the Via Appia that is traditionally believed to be that of Publius Septimius Geta, the younger son of Septimius Severus.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.505709,
-          41.866599
+          12.5029461129,
+          41.8677655008
         ]
       },
       "properties": {
@@ -32,19 +32,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.505709,
-          41.866599
+          [
+            12.5029274,
+            41.8678149
+          ],
+          [
+            12.5029827,
+            41.8678281
+          ],
+          [
+            12.5030293,
+            41.8677228
+          ],
+          [
+            12.5029883,
+            41.8677103
+          ],
+          [
+            12.502981,
+            41.8677261
+          ],
+          [
+            12.5028917,
+            41.8677196
+          ],
+          [
+            12.5028588,
+            41.8677959
+          ],
+          [
+            12.5029327,
+            41.8677986
+          ],
+          [
+            12.5029274,
+            41.8678149
+          ]
         ]
       },
-      "id": "darmc-location-20655",
+      "id": "osm-location-of-sepolcro-di-geta",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20655",
-        "link": "http://pleiades.stoa.org/places/423065/darmc-location-20655"
+        "title": "OSM location of Sepolcro di Geta",
+        "link": "http://pleiades.stoa.org/places/423065/osm-location-of-sepolcro-di-geta"
       }
     }
   ]

@@ -9,6 +9,9 @@
     37.659399
   ],
   "description": "An ancient place, cited: BAtlas 66 F1 Col. Faustinopolis/Halala",
+  "connectsWith": [
+    "27698090"
+  ],
   "names": [
     "Col. Faustinopolis",
     "Halala"

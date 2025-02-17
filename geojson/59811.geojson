@@ -9,6 +9,9 @@
     36.8636905
   ],
   "description": "An ancient place, cited: BAtlas 6 C2 Euas(...) fl.",
+  "connectsWith": [
+    "59818"
+  ],
   "names": [
     "Euas(...)"
   ],

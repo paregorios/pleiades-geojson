@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Aedes Serapis",
   "id": "377055052",
+  "bbox": [
+    12.48333,
+    41.9,
+    12.48333,
+    41.9
+  ],
   "description": "Caracalla dedicated a temple to Serapis in Regio VI. Its dedication is confirmed via epigraphic elements and some of its architectural elements are also known. It was located on the Collis Latiaris, which is the southern most part of the Quirinal Hill.",
   "connectsWith": [
     "423025",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.48333,
+          41.9
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

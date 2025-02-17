@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicus Bublarius",
+  "id": "792170100",
+  "description": "Vicus Bublarius refers to the partially preserved name of a street included in a fragment of the Severan Marble Plan.",
+  "connectsWith": [
+    "423025",
+    "298699921"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

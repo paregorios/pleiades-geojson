@@ -8,8 +8,12 @@
     32.49793,
     40.217712
   ],
-  "description": "An ancient place, cited: BAtlas 86 C3 Bloukion",
+  "description": "A fortress of the Galatian Tolistobogii, the site of the palace and family tombs of the first century BC ruler Deiotarus.",
+  "connectsWith": [
+    "619273"
+  ],
   "names": [
+    "Karalar",
     "Bloukion"
   ],
   "features": [
@@ -37,7 +41,7 @@
       "id": "darmc-location-7451",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 7451",
         "link": "http://pleiades.stoa.org/places/844881/darmc-location-7451"

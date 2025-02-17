@@ -3,10 +3,10 @@
   "title": "Porta Querquetulana",
   "id": "349235208",
   "bbox": [
-    12.4820594,
-    41.880238,
-    12.5022341,
-    41.9062027
+    12.4820433,
+    41.8801881,
+    12.5024275,
+    41.9064016
   ],
   "description": "The Porta Querquetulana was a gateway of Rome's so-called Servian Walls. It derived its name from from a sacred grove of oaks that seems to have vanished by the first century BCE.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4890981632,
-          41.8930113527
+          12.492098368,
+          41.8943189077
         ]
       },
       "properties": {

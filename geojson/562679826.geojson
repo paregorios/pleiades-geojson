@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Aedes Tensarum",
   "id": "562679826",
+  "bbox": [
+    12.4822154,
+    41.8925778,
+    12.4822154,
+    41.8925778
+  ],
   "description": "A temple on Rome's Capitoline Hill where the carts that carried the exuviae in festival parades were stored.",
   "connectsWith": [
     "347036492",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4822154,
+          41.8925778
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

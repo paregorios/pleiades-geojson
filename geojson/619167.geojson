@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Gorbeus",
+  "title": "Gorbeous",
   "id": "619167",
   "bbox": [
     32.87447,
@@ -9,7 +9,12 @@
     39.69484
   ],
   "description": "A settlement south of Ankara that served as the seat of Castor the Elder, the tetrarch of the Tectosages.",
+  "connectsWith": [
+    "619269"
+  ],
   "names": [
+    "Gorbeous",
+    "Gorbeus",
     "Gorbeous"
   ],
   "features": [
@@ -37,7 +42,7 @@
       "id": "darmc-location-538",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 538",
         "link": "http://pleiades.stoa.org/places/619167/darmc-location-538"

@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica di Sant'Anastasia al Palatino",
+  "id": "267621225",
+  "bbox": [
+    12.4839291,
+    41.8878124,
+    12.4847094,
+    41.8883077
+  ],
+  "description": "The Basilica of Sant'Anastasia al Palatino was founded ca. 325 CE on the slopes of the Palatine. It is now a minor basilica of the Roman Catholic church. It is the national church for the Peruvian community of Rome and the Indian community of the Syro-Malabar rite. The original basilica was adjacent to the Circus Maximus and came to be dedicated to Saint Anastasia of Sirmium (281-304 CE.), a Roman woman martyred under Diocletian. In the acts of the synod of 499, the church is listed as the titulus Anastasiae.",
+  "connectsWith": [
+    "423025",
+    "971691208"
+  ],
+  "names": [
+    "Basilica di Sant'Anastasia al Palatino"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4843428179,
+          41.8880422506
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4841333,
+              41.8883077
+            ],
+            [
+              12.4843451,
+              41.8881971
+            ],
+            [
+              12.4843628,
+              41.8882155
+            ],
+            [
+              12.4844217,
+              41.8881826
+            ],
+            [
+              12.4844034,
+              41.8881632
+            ],
+            [
+              12.484532,
+              41.8880914
+            ],
+            [
+              12.4845081,
+              41.888068
+            ],
+            [
+              12.4846239,
+              41.8880029
+            ],
+            [
+              12.4846478,
+              41.8880266
+            ],
+            [
+              12.4847094,
+              41.8879766
+            ],
+            [
+              12.4846515,
+              41.8879226
+            ],
+            [
+              12.4846143,
+              41.8879396
+            ],
+            [
+              12.4846204,
+              41.8879244
+            ],
+            [
+              12.4846201,
+              41.8879086
+            ],
+            [
+              12.4846133,
+              41.8878936
+            ],
+            [
+              12.4846006,
+              41.8878808
+            ],
+            [
+              12.4845834,
+              41.8878716
+            ],
+            [
+              12.4845631,
+              41.8878666
+            ],
+            [
+              12.4845419,
+              41.8878665
+            ],
+            [
+              12.4845819,
+              41.8878439
+            ],
+            [
+              12.4845608,
+              41.8878255
+            ]
+          ],
+          [
+            [
+              12.4845608,
+              41.8878255
+            ],
+            [
+              12.4845352,
+              41.8878424
+            ],
+            [
+              12.4845008,
+              41.8878616
+            ],
+            [
+              12.4844512,
+              41.8878124
+            ],
+            [
+              12.4839291,
+              41.8881041
+            ]
+          ],
+          [
+            [
+              12.4841333,
+              41.8883077
+            ],
+            [
+              12.4840365,
+              41.8882093
+            ],
+            [
+              12.4839291,
+              41.8881041
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilica-di-santanastasia-al",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica di Sant'Anastasia al Palatino",
+        "link": "http://pleiades.stoa.org/places/267621225/osm-location-of-basilica-di-santanastasia-al"
+      }
+    }
+  ]
+}

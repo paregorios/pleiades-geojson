@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Horti Aciliorum",
+  "id": "204515924",
+  "description": "An urban villa in ancient Rome of the second century CE located on the Pincian Hill between what is now the Porta Pinciana and the Spanish Steps.",
+  "connectsWith": [
+    "423025",
+    "596666070"
+  ],
+  "names": [
+    "Horti Aciliorum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

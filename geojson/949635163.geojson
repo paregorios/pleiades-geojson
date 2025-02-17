@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Barnavos, Chamber Tomb C1749",
+  "id": "949635163",
+  "bbox": [
+    22.6918792,
+    37.8070268,
+    22.6918792,
+    37.8070268
+  ],
+  "description": "A chamber tomb was excavated to the west of ancient Nemea in 2002 and 2003. The robbed tomb was dated to the Late Helladic IIIA2 period (ca. 1390–1315 BC BCE).",
+  "connectsWith": [
+    "570504"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6918792,
+          37.8070268
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6918792,
+          37.8070268
+        ]
+      },
+      "id": "osm-location-of-barnavos-chamber-tomb-c1749",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Barnavos, Chamber Tomb C1749",
+        "link": "http://pleiades.stoa.org/places/949635163/osm-location-of-barnavos-chamber-tomb-c1749"
+      }
+    }
+  ]
+}

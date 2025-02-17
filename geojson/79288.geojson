@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Alauna?",
+  "title": "Alauna",
   "id": "79288",
   "bbox": [
     -1.885446,
@@ -8,11 +8,12 @@
     -1.885446,
     52.245772
   ],
-  "description": "An ancient place, cited: BAtlas 8 F2 Alauna?",
+  "description": "The ancient Roman town of Alcester, United Kingdom",
   "connectsWith": [
     "973041325"
   ],
   "names": [
+    "Alcester",
     "Alauna"
   ],
   "features": [

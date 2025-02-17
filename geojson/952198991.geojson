@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "title": "Column of Marcus Aurelius",
+  "id": "952198991",
+  "bbox": [
+    12.4799673,
+    41.900833,
+    12.4800069,
+    41.9008624
+  ],
+  "description": "The Column of Marcus Aurelius is a monumental victory column erected along the Via Lata between 176 and 193 CE. The monument celebrated victories realized against the Marcomanni and the Sarmatians (172-175 CE).",
+  "connectsWith": [
+    "423025",
+    "753239987",
+    "596666070",
+    "422863"
+  ],
+  "names": [
+    "Column of Marcus Aurelius",
+    "columna centenaria divorum Marci et Faustinae",
+    "columna Cochlis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47998707,
+          41.9008476065
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4799934,
+            41.9008616
+          ],
+          [
+            12.4799992,
+            41.9008593
+          ],
+          [
+            12.4800037,
+            41.9008557
+          ],
+          [
+            12.4800063,
+            41.9008512
+          ],
+          [
+            12.4800069,
+            41.9008464
+          ],
+          [
+            12.4800052,
+            41.9008416
+          ],
+          [
+            12.4800016,
+            41.9008375
+          ],
+          [
+            12.4799963,
+            41.9008345
+          ],
+          [
+            12.4799901,
+            41.900833
+          ],
+          [
+            12.4799835,
+            41.9008331
+          ],
+          [
+            12.4799774,
+            41.9008347
+          ],
+          [
+            12.4799723,
+            41.9008377
+          ],
+          [
+            12.4799688,
+            41.9008418
+          ],
+          [
+            12.4799673,
+            41.9008465
+          ],
+          [
+            12.4799678,
+            41.9008513
+          ],
+          [
+            12.4799705,
+            41.9008557
+          ],
+          [
+            12.4799749,
+            41.9008593
+          ],
+          [
+            12.4799806,
+            41.9008616
+          ],
+          [
+            12.479987,
+            41.9008624
+          ],
+          [
+            12.4799934,
+            41.9008616
+          ]
+        ]
+      },
+      "id": "osm-location-of-column-of-marcus-aurelius",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Column of Marcus Aurelius",
+        "link": "http://pleiades.stoa.org/places/952198991/osm-location-of-column-of-marcus-aurelius"
+      }
+    }
+  ]
+}

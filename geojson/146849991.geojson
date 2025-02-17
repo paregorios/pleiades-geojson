@@ -3,10 +3,10 @@
   "title": "Temple of Trajan at Pergamon",
   "id": "146849991",
   "bbox": [
-    27.1837067,
-    39.1330313,
-    27.1837067,
-    39.1330313
+    27.1830225,
+    39.1329149,
+    27.1830225,
+    39.1329149
   ],
   "description": "The Temple of Trajan at Pergamon, also referred to as the Traianeum, was dedicated to Trajan and Zeus Philios and completed during the reign of Hadrian.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.1837067,
-          39.1330313
+          27.1830225,
+          39.1329149
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.1837067,
-          39.1330313
+          27.1830225,
+          39.1329149
         ]
       },
-      "id": "trajan-tempel",
+      "id": "osm-location-trayan-tapa-naaa",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Trajan at Pergamum",
-        "link": "http://pleiades.stoa.org/places/146849991/trajan-tempel"
+        "title": "OSM Location: Trayan Tapınağı",
+        "link": "http://pleiades.stoa.org/places/146849991/osm-location-trayan-tapa-naaa"
       }
     }
   ]

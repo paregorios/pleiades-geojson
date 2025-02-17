@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tsoungiza (Archaia Nemea)",
+  "id": "643508013",
+  "bbox": [
+    22.7056854,
+    37.8096509,
+    22.7056854,
+    37.8096509
+  ],
+  "description": "The archaeological site of Tsoungiza shows evidence of human activity since the Early Neolithic period. Modern excavations began under Carl Blegen in 1924.",
+  "connectsWith": [
+    "570504"
+  ],
+  "names": [
+    "Tsoungiza Hill"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7056854,
+          37.8096509
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7056854,
+          37.8096509
+        ]
+      },
+      "id": "osm-location-of-tsoungiza-archaia-nemea",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tsoungiza (Archaia Nemea)",
+        "link": "http://pleiades.stoa.org/places/643508013/osm-location-of-tsoungiza-archaia-nemea"
+      }
+    }
+  ]
+}

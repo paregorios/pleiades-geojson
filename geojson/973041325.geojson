@@ -3,9 +3,9 @@
   "title": "Icknield Street",
   "id": "973041325",
   "bbox": [
-    -1.938,
+    -1.9408635,
     51.884832,
-    -1.378398,
+    -0.1809379,
     53.420254
   ],
   "description": "Icknield Street was a road of Roman Britain running from Fosse Way to Templeborough.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.7677399999,
-          52.5134711734
+          -1.05964728088,
+          52.2203515165
         ]
       },
       "properties": {

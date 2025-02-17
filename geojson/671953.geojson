@@ -4,19 +4,19 @@
   "id": "671953",
   "bbox": [
     37.6256205,
-    34.2478006,
-    37.6256205,
-    34.2478006
+    34.245007,
+    37.6291181,
+    34.2480844
   ],
-  "description": "An ancient place, cited: BAtlas 68 E5 unnamed dam (SW Harbaqa)",
+  "description": "A Roman-era dam located on the Wadi al-Barada about 70km southwest of Palmyra. It was restored in the Ummayad period. Extensive ruins of the concrete and stone structure survive.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.6256205,
-          34.2478006
+          37.6273597046,
+          34.246540065
         ]
       },
       "properties": {
@@ -25,10 +25,28 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          37.6256205,
-          34.2478006
+          [
+            37.6256205,
+            34.2478006
+          ],
+          [
+            37.6285065,
+            34.245007
+          ],
+          [
+            37.6291181,
+            34.2453617
+          ],
+          [
+            37.6260818,
+            34.2480844
+          ],
+          [
+            37.6256205,
+            34.2478006
+          ]
         ]
       },
       "id": "location-of-harbaqa-dam",

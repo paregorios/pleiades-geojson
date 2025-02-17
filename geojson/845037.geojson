@@ -9,9 +9,13 @@
     40.172344
   ],
   "description": "An ancient place, cited: BAtlas 86 C3 Peion/Peon",
+  "connectsWith": [
+    "619273"
+  ],
   "names": [
     "Peion",
-    "Peon"
+    "Peon",
+    "Tabanlıoğlu Kale"
   ],
   "features": [
     {

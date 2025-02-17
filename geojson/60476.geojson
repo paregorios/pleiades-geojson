@@ -3,10 +3,10 @@
   "title": "Cartana/Karnasa/Tetrogonis",
   "id": "60476",
   "bbox": [
-    67.0,
-    34.0,
-    68.0,
-    36.0
+    67.8368338,
+    34.8223804,
+    67.8368338,
+    34.8223804
   ],
   "description": "The site of Cartana/Karnasa/Tetrogonis remains unlocated, although scholars have advanced various theories as to its location.",
   "names": [
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          34.6428571429
+          67.8368338,
+          34.8223804
         ]
       },
       "properties": {
@@ -36,273 +36,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/60476/batlas-location"
-      }
-    },
-    {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
+          67.8368338,
+          34.8223804
         ]
       },
-      "id": "gane-location-61834",
+      "id": "oms-location-modern-bamian",
       "type": "Feature",
       "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 61834",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-61834"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-51446",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 51446",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-51446"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-51444",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 51444",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-51444"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-11942",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 11942",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-11942"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-7588",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 7588",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-7588"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              34.0
-            ],
-            [
-              67.0,
-              35.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              68.0,
-              34.0
-            ],
-            [
-              67.0,
-              34.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-7599",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 7599",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-7599"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              67.0,
-              35.0
-            ],
-            [
-              67.0,
-              36.0
-            ],
-            [
-              68.0,
-              36.0
-            ],
-            [
-              68.0,
-              35.0
-            ],
-            [
-              67.0,
-              35.0
-            ]
-          ]
-        ]
-      },
-      "id": "gane-location-68380",
-      "type": "Feature",
-      "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 68380",
-        "link": "http://pleiades.stoa.org/places/60476/gane-location-68380"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OMS Location: modern Bamian",
+        "link": "http://pleiades.stoa.org/places/60476/oms-location-modern-bamian"
       }
     }
   ]

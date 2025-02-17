@@ -2,14 +2,29 @@
   "type": "FeatureCollection",
   "title": "Cuballum",
   "id": "622129",
+  "bbox": [
+    32.6867726219,
+    39.7532018336,
+    33.034768794,
+    39.7567710251
+  ],
   "description": "An ancient place, cited: BAtlas 63 unlocated Cuballum",
+  "connectsWith": [
+    "619269"
+  ],
   "names": [
     "Cuballum"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8607707079,
+          39.7549864293
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

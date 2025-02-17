@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Telos",
+  "title": "Telos (settlement)",
   "id": "599960",
   "bbox": [
     27.338729,
@@ -9,6 +9,9 @@
     36.463938
   ],
   "description": "An ancient place, cited: BAtlas 61 E5 Telos",
+  "connectsWith": [
+    "599961"
+  ],
   "names": [
     "Telos"
   ],

@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.1874758586,
-          38.1902559659
+          22.1853879171,
+          38.1765241319
         ]
       },
       "properties": {
@@ -663,23 +663,6 @@
         "location_precision": "precise",
         "title": "OSM Location of modern Vouraikos river",
         "link": "http://pleiades.stoa.org/places/570355/osm-location-of-modern-vouraikos-river"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.1895638,
-          38.2039878
-        ]
-      },
-      "id": "osm-location-of-modern-vouraikos-river-2",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM Location of modern Vouraikos river",
-        "link": "http://pleiades.stoa.org/places/570355/osm-location-of-modern-vouraikos-river-2"
       }
     }
   ]

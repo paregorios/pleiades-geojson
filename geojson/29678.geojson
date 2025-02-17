@@ -3,13 +3,14 @@
   "title": "Nad-i Ali/Zarang?",
   "id": "29678",
   "bbox": [
-    60.0,
-    30.0,
-    65.0,
-    35.0
+    61.8435538,
+    30.9929143,
+    61.8555164,
+    31.0069664
   ],
-  "description": "An ancient place, cited: BAtlas 3 H3 Nad-i Ali/Zarang?",
+  "description": "A large site in modern Afghanistan's Nimruz province. Archaeological evidence is abundant for habitation during the third - first millennia BCE, as well as 8th - 13th centuries CE, when Nād ʿAlī was clearly a major fortified urban center.",
   "names": [
+    "Nād ʿAlī",
     "Zarang"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.5,
-          32.5
+          61.849040153,
+          30.9989100124
         ]
       },
       "properties": {
@@ -28,39 +29,74 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
+        "coordinates": [
+          61.84942498,
+          30.99788057
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location using \"revised coordinates\" from Ball 2019, verified in Google Earth. Dates also after Ball 2019.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/29678/imagery-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              60.0,
-              30.0
-            ],
-            [
-              60.0,
-              35.0
-            ],
-            [
-              65.0,
-              35.0
-            ],
-            [
-              65.0,
-              30.0
-            ],
-            [
-              60.0,
-              30.0
-            ]
+            61.8555164,
+            30.9979082
+          ],
+          [
+            61.8459463,
+            30.9929143
+          ],
+          [
+            61.8438327,
+            30.9977794
+          ],
+          [
+            61.8452071,
+            30.9987648
+          ],
+          [
+            61.8447983,
+            31.0020006
+          ],
+          [
+            61.8435538,
+            31.0045479
+          ],
+          [
+            61.8497336,
+            31.0069664
+          ],
+          [
+            61.8522978,
+            31.0017339
+          ],
+          [
+            61.8532634,
+            31.0015868
+          ],
+          [
+            61.8555164,
+            30.9979082
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-zaranj-archaeological-site",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/29678/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Zaranj archaeological site",
+        "link": "http://pleiades.stoa.org/places/29678/osm-location-zaranj-archaeological-site"
       }
     }
   ]

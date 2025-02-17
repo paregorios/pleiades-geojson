@@ -3,10 +3,10 @@
   "title": "Aq Chapar 1",
   "id": "961878",
   "bbox": [
-    66.506923,
-    37.067304,
-    66.506923,
-    37.067304
+    66.4869139,
+    37.0777666,
+    66.4889366,
+    37.0794099
   ],
   "description": "At Aq Chapur 1 there is evidence of a monumental building surrounded by two fortified enclosures. At Aq Chapur 2 was a large monument similar to that of Aq Chapar 1. This site is surrounded by a defensive wall with reinforcing towers.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          66.506923,
-          37.067304
+          66.4878459432,
+          37.0785910264
         ]
       },
       "properties": {
@@ -25,19 +25,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          66.506923,
-          37.067304
+          [
+            66.4877241,
+            37.0794099
+          ],
+          [
+            66.487108,
+            37.0791988
+          ],
+          [
+            66.4869139,
+            37.0780852
+          ],
+          [
+            66.4881034,
+            37.0777666
+          ],
+          [
+            66.4885835,
+            37.0782286
+          ],
+          [
+            66.4889366,
+            37.0788625
+          ],
+          [
+            66.4877241,
+            37.0794099
+          ]
         ]
       },
-      "id": "darmc-location-22978",
+      "id": "osm-location-of-aq-chapar-1-ball-43",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 22978",
-        "link": "http://pleiades.stoa.org/places/961878/darmc-location-22978"
+        "title": "OSM location of Aq Chapar 1 (BALL-43)",
+        "link": "http://pleiades.stoa.org/places/961878/osm-location-of-aq-chapar-1-ball-43"
       }
     }
   ]

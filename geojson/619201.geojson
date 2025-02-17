@@ -9,6 +9,9 @@
     39.8719952899
   ],
   "description": "An ancient place, cited: BAtlas 63 C1 Magaba/Mordiacus M.",
+  "connectsWith": [
+    "619269"
+  ],
   "names": [
     "Magaba",
     "Mordiacus M."

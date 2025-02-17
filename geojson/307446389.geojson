@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arcus Tiberii",
+  "id": "307446389",
+  "bbox": [
+    12.484253,
+    41.892339,
+    12.484253,
+    41.892339
+  ],
+  "description": "A single-bay triumphal arch dedicated to Tiberius in 16 CE. This arch commemorated the recovery of Varus' standards lost in 9 CE. It stood on the Sacra Via at the northwest corner of the Basilica Iulia.",
+  "connectsWith": [
+    "423025",
+    "502866838"
+  ],
+  "names": [
+    "arcus propter aedem Saturni"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484253,
+          41.892339
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484253,
+          41.892339
+        ]
+      },
+      "id": "imagery-location-of-arch-of-tiberius",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery location of Arch of Tiberius",
+        "link": "http://pleiades.stoa.org/places/307446389/imagery-location-of-arch-of-tiberius"
+      }
+    }
+  ]
+}

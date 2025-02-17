@@ -3,10 +3,10 @@
   "title": "Koryphasion Pr.",
   "id": "570375",
   "bbox": [
-    21.658,
-    36.951,
-    21.658,
-    36.951
+    21.65816,
+    36.95082,
+    21.65816,
+    36.95082
   ],
   "description": "An ancient place, cited: BAtlas 58 B4 Koryphasion Pr.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.658,
-          36.951
+          21.65816,
+          36.95082
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.658,
-          36.951
+          21.65816,
+          36.95082
         ]
       },
-      "id": "location-of-koryphasion-pr",
+      "id": "geonames-location-of-akra-korifasion",
       "type": "Feature",
       "properties": {
-        "description": "placement based on Barrington Atlas location.",
+        "description": "Coordinates following GeoNames",
         "location_precision": "precise",
-        "title": "location of Koryphasion Pr.",
-        "link": "http://pleiades.stoa.org/places/570375/location-of-koryphasion-pr"
+        "title": "GeoNames location of Ákra Korifásion",
+        "link": "http://pleiades.stoa.org/places/570375/geonames-location-of-akra-korifasion"
       }
     }
   ]

@@ -9,6 +9,9 @@
     37.176484
   ],
   "description": "A city of Cilicia with Hittite origins, Hierapolis/Kastabala later became part of the Cilician satrapy of the Achaemenid Empire and, later, part of the Roman empire.",
+  "connectsWith": [
+    "27698090"
+  ],
   "names": [
     "Hierapolis",
     "Kastabala"
