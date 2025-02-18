@@ -2,14 +2,26 @@
   "type": "FeatureCollection",
   "title": "Horrea Piperataria",
   "id": "525081443",
-  "description": "A portion of a warehouse complex dating to the Flavian period, the Horrea Piperataria, was likely destroyed in the fire of 192 CE. Its remains were later incorporated into the obstructions of the Basilica Nova (a.k.a. Basilica of Maxentius).",
+  "bbox": [
+    12.4874711,
+    41.8913824,
+    12.4891485,
+    41.8922628
+  ],
+  "description": "A portion of a warehouse complex dating to the Flavian period, the Horrea Piperataria, was likely destroyed in the fire of 192 CE. Its remains were later incorporated into the substructions of the Basilica Nova (a.k.a. Basilica of Maxentius).",
   "connectsWith": [
     "423025"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4883409534,
+          41.8918347896
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

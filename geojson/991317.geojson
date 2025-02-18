@@ -3,12 +3,12 @@
   "title": "Gallaecia",
   "id": "991317",
   "bbox": [
-    -10.0,
-    40.0,
-    -5.0,
-    45.0
+    -8.4985586881,
+    42.1047745885,
+    -7.58002725332,
+    43.3100330574
   ],
-  "description": "An ancient place, cited: BAtlas 101 E3 Gallaecia",
+  "description": "The province of Gallaecia, also known as Hispania Gallaecia, was a Roman province in the north-west of Hispania.",
   "names": [
     "Gallaecia"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.5,
-          42.5
+          -8.25359799148,
+          42.1308685419
         ]
       },
       "properties": {

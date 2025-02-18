@@ -3,10 +3,10 @@
   "title": "Cappadocia",
   "id": "991402",
   "bbox": [
-    35.0,
-    35.0,
-    40.0,
-    40.0
+    36.0827655,
+    39.9964626,
+    36.0839134,
+    39.9984393
   ],
   "description": "An ancient place, cited: BAtlas 101 P4 Cappadocia",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5,
-          37.5
+          36.0833350508,
+          39.9973854108
         ]
       },
       "properties": {
