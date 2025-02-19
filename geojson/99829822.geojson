@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Meluhha",
+  "id": "99829822",
+  "description": "A Middle Bronze Age trading partner of Sumer, perhaps located in the Indus valley.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

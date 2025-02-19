@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castle of Dokos",
+  "id": "996483532",
+  "bbox": [
+    23.3478112,
+    37.3458127,
+    23.3478112,
+    37.3458127
+  ],
+  "description": "The Castle of Dokos located on the Dokos islet was founded in the seventh century CE.",
+  "connectsWith": [
+    "570089"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3478112,
+          37.3458127
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3478112,
+          37.3458127
+        ]
+      },
+      "id": "osm-location-of-castle-of-dokos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castle of Dokos",
+        "link": "http://pleiades.stoa.org/places/996483532/osm-location-of-castle-of-dokos"
+      }
+    }
+  ]
+}

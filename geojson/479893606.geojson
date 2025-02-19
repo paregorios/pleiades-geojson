@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Caspingium",
   "id": "479893606",
+  "bbox": [
+    5.350798,
+    51.799752,
+    5.350798,
+    51.799752
+  ],
   "description": "A Roman settlement, now unlocated, of Germania Inferior. The Tabula Peutingeriana places it along the military road connecting Noviomagus and Lugdunum Batavorum.",
   "connectsWith": [
     "98967"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.350798,
+          51.799752
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
