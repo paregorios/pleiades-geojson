@@ -1,0 +1,252 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nuraghe Mannu (Doragli)",
+  "id": "283500793",
+  "bbox": [
+    9.6192656,
+    40.2591152,
+    9.6208879,
+    40.2604089
+  ],
+  "description": "A nuragic archaeological site in eastern Sardinia that overlooks the village of Cala Gonone.",
+  "connectsWith": [
+    "472014"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6202903607,
+          40.2595316286
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.620781,
+            40.2594744
+          ],
+          [
+            9.6208879,
+            40.2593036
+          ],
+          [
+            9.6205396,
+            40.2591408
+          ],
+          [
+            9.6203411,
+            40.2591152
+          ],
+          [
+            9.6202593,
+            40.2591725
+          ],
+          [
+            9.6199926,
+            40.2592809
+          ],
+          [
+            9.619939,
+            40.2594067
+          ],
+          [
+            9.6197097,
+            40.2595315
+          ],
+          [
+            9.6192656,
+            40.2597382
+          ],
+          [
+            9.619354,
+            40.2600564
+          ],
+          [
+            9.6196783,
+            40.2601162
+          ],
+          [
+            9.6196756,
+            40.2602861
+          ],
+          [
+            9.6199465,
+            40.2603536
+          ],
+          [
+            9.6205553,
+            40.2604089
+          ],
+          [
+            9.6207404,
+            40.2599177
+          ],
+          [
+            9.620781,
+            40.2594744
+          ]
+        ]
+      },
+      "id": "osm-location-of-complesso-nuragico-di-nuraghe",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Complesso nuragico di Nuraghe Mannu",
+        "link": "http://pleiades.stoa.org/places/283500793/osm-location-of-complesso-nuragico-di-nuraghe"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              9.6203805,
+              40.2592712
+            ],
+            [
+              9.6203873,
+              40.2592518
+            ],
+            [
+              9.6204033,
+              40.2592358
+            ],
+            [
+              9.6204261,
+              40.2592257
+            ],
+            [
+              9.6204522,
+              40.2592231
+            ],
+            [
+              9.6204777,
+              40.2592283
+            ],
+            [
+              9.6204986,
+              40.2592405
+            ],
+            [
+              9.6205118,
+              40.2592579
+            ],
+            [
+              9.6205153,
+              40.2592778
+            ],
+            [
+              9.6205085,
+              40.2592973
+            ],
+            [
+              9.6204925,
+              40.2593132
+            ],
+            [
+              9.6204696,
+              40.2593233
+            ],
+            [
+              9.6204435,
+              40.2593259
+            ],
+            [
+              9.6204181,
+              40.2593208
+            ],
+            [
+              9.6203971,
+              40.2593085
+            ],
+            [
+              9.620384,
+              40.2592911
+            ],
+            [
+              9.6203805,
+              40.2592712
+            ]
+          ],
+          [
+            [
+              9.6204388,
+              40.2592968
+            ],
+            [
+              9.620431,
+              40.2592913
+            ],
+            [
+              9.6204291,
+              40.2592842
+            ],
+            [
+              9.6204296,
+              40.259274
+            ],
+            [
+              9.6204341,
+              40.2592685
+            ],
+            [
+              9.6204439,
+              40.259265
+            ],
+            [
+              9.6204532,
+              40.2592645
+            ],
+            [
+              9.6204593,
+              40.2592661
+            ],
+            [
+              9.6204653,
+              40.2592735
+            ],
+            [
+              9.6204646,
+              40.2592822
+            ],
+            [
+              9.6204596,
+              40.2592914
+            ],
+            [
+              9.6204543,
+              40.2592952
+            ],
+            [
+              9.6204474,
+              40.2592979
+            ],
+            [
+              9.6204388,
+              40.2592968
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-nuraghe-mannu",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nuraghe Mannu",
+        "link": "http://pleiades.stoa.org/places/283500793/osm-location-of-nuraghe-mannu"
+      }
+    }
+  ]
+}

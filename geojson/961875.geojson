@@ -3,10 +3,10 @@
   "title": "Altin Dilyar tepe",
   "id": "961875",
   "bbox": [
-    65.399039,
-    37.110019,
-    66.103797,
-    37.524463
+    66.76552,
+    37.136111,
+    66.7671615,
+    37.1379584
   ],
   "description": "Altin Dilyar tepe is a place located in Afghanistan's Balkh Province. It lies to the north of Balkh, about 22 km south of the Oxus River (Amu Darya) and 16 kilometers north of Daulatabad, according to Ball (1982: 38). The ceramic evidence on the site belongs to the Achaemenid period, ca. sixth to fourth centuries BCE. Ball also notes that there is evidence for \"a circular walled town covering approximately 15 hectares, dominated by a central citadel, 28 meters high.\" The site remains unexcavated.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.751418,
-          37.317241
+          66.7663273685,
+          37.1370268773
         ]
       },
       "properties": {
@@ -25,36 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          65.399039,
-          37.524463
+          [
+            66.7655897,
+            37.1379156
+          ],
+          [
+            66.76552,
+            37.136111
+          ],
+          [
+            66.7671615,
+            37.1362136
+          ],
+          [
+            66.7670649,
+            37.1379584
+          ],
+          [
+            66.7655897,
+            37.1379156
+          ]
         ]
       },
-      "id": "darmc-location-11331",
+      "id": "osm-location-of-altin-dilyar-tepe-ball-38",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 11331",
-        "link": "http://pleiades.stoa.org/places/961875/darmc-location-11331"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          66.103797,
-          37.110019
-        ]
-      },
-      "id": "darmc-location-22977",
-      "type": "Feature",
-      "properties": {
-        "description": "Point location",
-        "location_precision": "precise",
-        "title": "DARMC location 22977",
-        "link": "http://pleiades.stoa.org/places/961875/darmc-location-22977"
+        "title": "OSM location of Altin Dilyar Tepe (BALL-38)",
+        "link": "http://pleiades.stoa.org/places/961875/osm-location-of-altin-dilyar-tepe-ball-38"
       }
     }
   ]

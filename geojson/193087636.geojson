@@ -3,14 +3,17 @@
   "title": "Bidoni",
   "id": "193087636",
   "bbox": [
-    8.9418309,
-    40.1213901,
-    8.9418309,
-    40.1213901
+    8.9417342,
+    40.1211456,
+    8.942251,
+    40.1214847
   ],
   "description": "A monumental sanctuary (26 x 20 m) dedicated to Iuppiter.",
   "connectsWith": [
     "472014"
+  ],
+  "names": [
+    "Bidoni"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.9418309,
-          40.1213901
+          8.9419926,
+          40.12131515
         ]
       },
       "properties": {

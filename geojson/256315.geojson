@@ -3,10 +3,10 @@
   "title": "Munda (river)",
   "id": "256315",
   "bbox": [
-    -5.0,
-    37.0,
-    -4.0,
-    38.0
+    -4.61936,
+    37.71006,
+    -4.61936,
+    37.71006
   ],
   "description": "An ancient place, cited: BAtlas 26 F4 Munda fl.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.5,
-          37.5
+          -4.61936,
+          37.71006
         ]
       },
       "properties": {
@@ -31,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -5.0,
-              37.0
-            ],
-            [
-              -5.0,
-              38.0
-            ],
-            [
-              -4.0,
-              38.0
-            ],
-            [
-              -4.0,
-              37.0
-            ],
-            [
-              -5.0,
-              37.0
-            ]
-          ]
+          -4.61936,
+          37.71006
         ]
       },
-      "id": "batlas-location",
+      "id": "geonames-location-of-arroyo-de-la-carchena",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/256315/batlas-location"
+        "description": "coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "Geonames location of Arroyo de la Carchena",
+        "link": "http://pleiades.stoa.org/places/256315/geonames-location-of-arroyo-de-la-carchena"
       }
     }
   ]

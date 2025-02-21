@@ -3,10 +3,10 @@
   "title": "Ravenglass Roman Bath House",
   "id": "304814760",
   "bbox": [
-    -3.4041335,
-    54.3506763,
-    -3.4041335,
-    54.3506763
+    -3.404382,
+    54.3505629,
+    -3.4037788,
+    54.3509407
   ],
   "description": "The Ravenglass Roman Bath House, also known as \"Walls Castle\", is linked to the second-century CE fort at Glannoventa. English Heritage dates the site ca. 130 and deems it one of the tallest surviving Roman ruins in Britain.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.4041335,
-          54.3506763
+          -3.40408767917,
+          54.3507492935
         ]
       },
       "properties": {
@@ -28,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.4041335,
-          54.3506763
+          [
+            -3.4039934,
+            54.3509407
+          ],
+          [
+            -3.4037788,
+            54.3506965
+          ],
+          [
+            -3.4041732,
+            54.3505726
+          ],
+          [
+            -3.4042087,
+            54.3505629
+          ],
+          [
+            -3.4043298,
+            54.350698
+          ],
+          [
+            -3.404382,
+            54.3508138
+          ],
+          [
+            -3.4039934,
+            54.3509407
+          ]
         ]
       },
-      "id": "osm-location-of-roman-bath",
+      "id": "osm-location-of-ravenglass-roman-bath-house",
       "type": "Feature",
       "properties": {
-        "description": "Known either as 'Ravenglass Roman Bath House' or 'Walls Castle'. Location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman bath",
-        "link": "http://pleiades.stoa.org/places/304814760/osm-location-of-roman-bath"
+        "title": "OSM location of Ravenglass Roman Bath House",
+        "link": "http://pleiades.stoa.org/places/304814760/osm-location-of-ravenglass-roman-bath-house"
       }
     }
   ]

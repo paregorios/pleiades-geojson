@@ -9,6 +9,10 @@
     43.0205257
   ],
   "description": "The principal archaeological remains found in the \"La Cuma, Monte Rinaldo\" site are those of a late Republican sanctuary dating to the third through first centuries B.C.",
+  "names": [
+    "Monte Rinaldo",
+    "Area archeologica La Cuma"
+  ],
   "features": [
     {
       "type": "Feature",
