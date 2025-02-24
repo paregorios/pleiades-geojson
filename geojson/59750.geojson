@@ -3,10 +3,10 @@
   "title": "Boukephala",
   "id": "59750",
   "bbox": [
-    73.393843,
-    32.520613,
-    73.393843,
-    32.520613
+    73.4473757949,
+    32.6888647598,
+    73.4473757949,
+    32.6888647598
   ],
   "description": "Boukephala or Bucephala was an ancient city founded on the right bank of the Hydaspes river by Alexander the Great following the battle with Porus. Alexander named the city after his warhorse, Bucephalus. Its precise location remains debated.",
   "names": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.393843,
-          32.520613
+          73.4473757949,
+          32.6888647598
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.393843,
-          32.520613
+          73.44737579485059,
+          32.68886475983254
         ]
       },
-      "id": "darmc-location-20000",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Digitized from BAtlas map 6 using raster image of the map georegistered by the Ancient World Mapping Center. Dates from corresponding entry in BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 20000",
-        "link": "http://pleiades.stoa.org/places/59750/darmc-location-20000"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/59750/batlas-point-location"
       }
     }
   ]

@@ -3,8 +3,8 @@
   "title": "Belginum",
   "id": "108802",
   "bbox": [
-    7.165232,
-    49.856247,
+    7.1642501,
+    49.8551958,
     7.165232,
     49.856247
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.165232,
-          49.856247
+          7.16491974084,
+          49.855818536
         ]
       },
       "properties": {
@@ -44,6 +44,69 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/108802/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.1646792,
+            49.8555879
+          ],
+          [
+            7.1648268,
+            49.8554443
+          ],
+          [
+            7.1649072,
+            49.8554789
+          ],
+          [
+            7.1649635,
+            49.8554149
+          ],
+          [
+            7.1644626,
+            49.8551958
+          ],
+          [
+            7.1644342,
+            49.855224
+          ],
+          [
+            7.1642501,
+            49.8554063
+          ],
+          [
+            7.1643715,
+            49.8554587
+          ],
+          [
+            7.1645217,
+            49.8553117
+          ],
+          [
+            7.1647121,
+            49.8553964
+          ],
+          [
+            7.1645619,
+            49.8555434
+          ],
+          [
+            7.1646792,
+            49.8555879
+          ]
+        ]
+      },
+      "id": "osm-location-of-archa-ologiepark-belginum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Archäologiepark Belginum",
+        "link": "http://pleiades.stoa.org/places/108802/osm-location-of-archa-ologiepark-belginum"
       }
     }
   ]

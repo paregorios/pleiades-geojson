@@ -3,10 +3,10 @@
   "title": "Temple of Khnum at Esna",
   "id": "617165853",
   "bbox": [
-    32.5560224,
-    25.2932288,
-    32.5564157,
-    25.2936225
+    32.5560026,
+    25.2932693,
+    32.5563959,
+    25.293663
   ],
   "description": "A temple dedicated to the god Khnum constructed during the Ptolemaic and Roman period in the city of Esna (Latopolis). ",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.55621905,
-          25.29342565
+          32.55619925,
+          25.29346615
         ]
       },
       "properties": {

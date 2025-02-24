@@ -3,10 +3,10 @@
   "title": "Bouleuterion at Ietas",
   "id": "720762964",
   "bbox": [
-    13.197883,
-    37.967525,
-    13.197883,
-    37.967525
+    13.1979554,
+    37.9671973,
+    13.1979554,
+    37.9671973
   ],
   "description": "The Bouleuterion at Ietas dates to the later second century B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.197883,
-          37.967525
+          13.1979554,
+          37.9671973
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.197883,
-          37.967525
+          13.1979554,
+          37.9671973
         ]
       },
       "id": "osm-location-of-bouleuterion",

@@ -8,7 +8,7 @@
     14.391377,
     42.233175
   ],
-  "description": "An ancient place, cited: BAtlas 42 G4 Anxanum",
+  "description": "City of the Frentani, situated on a hill about 5 miles from the Adriatic Sea, and 8 miles from the mouth of the river Sagrus or Sangro in Italy.",
   "connectsWith": [
     "432849"
   ],
@@ -40,7 +40,7 @@
       "id": "darmc-location-18196",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 18196",
         "link": "http://pleiades.stoa.org/places/413017/darmc-location-18196"

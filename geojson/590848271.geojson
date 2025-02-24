@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Augusteum, so-called Basilica at Herculaneum",
+  "id": "590848271",
+  "bbox": [
+    14.347965,
+    40.806821,
+    14.347965,
+    40.806821
+  ],
+  "description": "The Augusteum, or so-called Basilica, at Herculaneum, was partially investigated in the eighteenth century. This large complex (68 by 40 meters) had colonnades on three of its sides and faced on to the Decumanus Maximus across from the Basilica Noniana and the College of the Augustales.",
+  "connectsWith": [
+    "432873"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.347965,
+          40.806821
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.347965,
+          40.806821
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "The scant visible remains of the Auguseum complex at located at the northwestern limit of Herculaneum's archaeological area.",
+        "location_precision": "precise",
+        "title": "Imagery location",
+        "link": "http://pleiades.stoa.org/places/590848271/imagery-location"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Sidi Ahmed",
   "id": "275708",
   "bbox": [
-    -6.0,
-    34.0,
-    -5.5,
-    34.5
+    -5.97206146571,
+    34.3426452687,
+    -5.97206146571,
+    34.3426452687
   ],
   "description": "An ancient place, cited: BAtlas 28 C5 Sidi Ahmed",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.75,
-          34.25
+          -5.97206146571,
+          34.3426452687
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -6.0,
-              34.0
-            ],
-            [
-              -6.0,
-              34.5
-            ],
-            [
-              -5.5,
-              34.5
-            ],
-            [
-              -5.5,
-              34.0
-            ],
-            [
-              -6.0,
-              34.0
-            ]
-          ]
+          -5.972061465710333,
+          34.34264526869238
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/275708/batlas-location"
+        "description": "Point digitized using QGIS from raster image of BAtlas map 28, which was georegistered to the original compilation projection (ONC G-1) by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/275708/batlas-point-location"
       }
     }
   ]

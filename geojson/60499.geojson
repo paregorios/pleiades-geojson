@@ -3,12 +3,12 @@
   "title": "Daroakana",
   "id": "60499",
   "bbox": [
-    65.0,
-    30.0,
-    70.0,
-    35.0
+    65.32867854,
+    33.7268655717,
+    69.1758702976,
+    33.9350684097
   ],
-  "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "description": "An ancient settlement, listed by Ptolemy in Paropamisadai. Its precise location cannot be determined today.",
   "connectsWith": [
     "59982"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          32.5
+          67.6356309825,
+          33.8643361913
         ]
       },
       "properties": {

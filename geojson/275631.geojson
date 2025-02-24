@@ -3,20 +3,20 @@
   "title": "el Gaada",
   "id": "275631",
   "bbox": [
-    -6.0,
-    34.0,
-    -5.5,
-    34.5
+    -5.67908249656,
+    34.1166616043,
+    -5.67908249656,
+    34.1166616043
   ],
-  "description": "An ancient place, cited: BAtlas 28 C5 el Gaada",
+  "description": "A Roman-era fort located west of ancient Volubilis in the modern Moroccan municipality of el Gaada.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.75,
-          34.25
+          -5.67908249656,
+          34.1166616043
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -6.0,
-              34.0
-            ],
-            [
-              -6.0,
-              34.5
-            ],
-            [
-              -5.5,
-              34.5
-            ],
-            [
-              -5.5,
-              34.0
-            ],
-            [
-              -6.0,
-              34.0
-            ]
-          ]
+          -5.679082496563836,
+          34.116661604280054
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/275631/batlas-location"
+        "description": "Point digitized in QGIS from raster image of BAtlas Map 28, which was georegistered to the original base projection (ONC G-1) by the Ancient World Mapping Center in September 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/275631/batlas-point-location"
       }
     }
   ]

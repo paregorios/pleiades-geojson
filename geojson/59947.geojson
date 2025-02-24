@@ -3,10 +3,10 @@
   "title": "Nikaia",
   "id": "59947",
   "bbox": [
-    70.0,
-    30.0,
-    75.0,
-    35.0
+    73.4895126966,
+    32.6311722944,
+    73.4895126966,
+    32.6311722944
   ],
   "description": "According to Strabo, Alexander founded Nikaia in order to celebrate his victory over Porus.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.5,
-          32.5
+          73.4895126966,
+          32.6311722944
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              70.0,
-              30.0
-            ],
-            [
-              70.0,
-              35.0
-            ],
-            [
-              75.0,
-              35.0
-            ],
-            [
-              75.0,
-              30.0
-            ],
-            [
-              70.0,
-              30.0
-            ]
-          ]
+          73.48951269659503,
+          32.63117229444312
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59947/batlas-location"
+        "description": "Digitized from BAtlas Map 6. Dates from corresponding entry in BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/59947/batlas-point-location"
       }
     }
   ]

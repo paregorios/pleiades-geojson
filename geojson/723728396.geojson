@@ -3,10 +3,10 @@
   "title": "Torre di Mercurio",
   "id": "723728396",
   "bbox": [
-    14.4828821,
-    40.7527074,
-    14.4828821,
-    40.7527074
+    14.482799,
+    40.7527033,
+    14.4829264,
+    40.7528052
   ],
   "description": "A tower associated with Pompeii's fortification wall that is also sometimes designated as \"Tower XI\".",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4828821,
-          40.7527074
+          14.4828627059,
+          40.752754255
         ]
       },
       "properties": {

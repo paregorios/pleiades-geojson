@@ -3,12 +3,15 @@
   "title": "Thorax",
   "id": "60085",
   "bbox": [
-    70.0,
-    20.0,
-    75.0,
-    25.0
+    71.7424940058,
+    24.375838452,
+    71.7424940058,
+    24.375838452
   ],
-  "description": "An ancient place, cited: BAtlas 6 C5 Thorax",
+  "description": "Described as a \"beautiful city of the Sarabastrae\" by Pliny the Elder, this ancient settlement may be identifiable with modern Tharad in the Indian state of Gujarat.",
+  "connectsWith": [
+    "60034"
+  ],
   "names": [
     "Thorax"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.5,
-          22.5
+          71.7424940058,
+          24.375838452
         ]
       },
       "properties": {
@@ -28,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              70.0,
-              20.0
-            ],
-            [
-              70.0,
-              25.0
-            ],
-            [
-              75.0,
-              25.0
-            ],
-            [
-              75.0,
-              20.0
-            ],
-            [
-              70.0,
-              20.0
-            ]
-          ]
+          71.74249400575586,
+          24.375838451964885
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/60085/batlas-location"
+        "description": "Point digitized from raster of BAtlas map 6 that had been created and georegistered by the Ancient World Mapping Center. Dates from corresponding entry in BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/60085/batlas-point-location"
       }
     }
   ]

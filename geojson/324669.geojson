@@ -8,7 +8,7 @@
     9.022406,
     35.993286
   ],
-  "description": "An ancient place, cited: BAtlas 33 D1 Assuras",
+  "description": "Ancient Roman colony in Tunisia, today's Zanfour, Tunisia.",
   "names": [
     "Assuras"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-3406",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 3406",
         "link": "http://pleiades.stoa.org/places/324669/darmc-location-3406"
