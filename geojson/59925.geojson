@@ -3,12 +3,12 @@
   "title": "Mega Stoma",
   "id": "59925",
   "bbox": [
-    85.0,
-    20.0,
-    90.0,
-    25.0
+    88.696208,
+    22.1994549,
+    89.0706682,
+    23.4115228
   ],
-  "description": "An ancient place, cited: BAtlas 6 F5 Mega Stoma",
+  "description": "Ptolemy enumerates the ancient mouths (stomata) of the Ganges river, from west to east. He lists \"Mega Stoma\" as the second of these. Due to significant natural and constructed changes in the hydrology of the Ganges within and since antiquity, modern scholars cannot securely identify a particular channel in the Ganges delta today, but the Barrington Atlas does connect the ancient Oxymatis (modern Ichamati) river with the Mega stoma.",
   "names": [
     "Mega Stoma"
   ],
@@ -18,49 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.5,
-          22.5
+          88.859025639,
+          22.8382743343
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              85.0,
-              20.0
-            ],
-            [
-              85.0,
-              25.0
-            ],
-            [
-              90.0,
-              25.0
-            ],
-            [
-              90.0,
-              20.0
-            ],
-            [
-              85.0,
-              20.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59925/batlas-location"
       }
     }
   ]

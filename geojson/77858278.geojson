@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Argus",
+  "id": "77858278",
+  "bbox": [
+    14.345995,
+    40.8060922,
+    14.3465166,
+    40.8064212
+  ],
+  "description": "The House of Argus at Herculaneum is located on the west side of Cardo III adjacent to the House of Artistides.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "House of Argus",
+    "Casa d'Argo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3462542069,
+          40.8062714697
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              14.346054,
+              40.8062607
+            ],
+            [
+              14.3460193,
+              40.8063017
+            ],
+            [
+              14.345995,
+              40.8063368
+            ],
+            [
+              14.3463686,
+              40.8064212
+            ],
+            [
+              14.3465166,
+              40.8062445
+            ],
+            [
+              14.3461854,
+              40.8060922
+            ],
+            [
+              14.3461556,
+              40.8061304
+            ],
+            [
+              14.346131,
+              40.8061619
+            ],
+            [
+              14.3460799,
+              40.8062275
+            ],
+            [
+              14.3460644,
+              40.8062474
+            ],
+            [
+              14.346054,
+              40.8062607
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-argus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of Argus",
+        "link": "http://pleiades.stoa.org/places/77858278/osm-location-of-house-of-argus"
+      }
+    }
+  ]
+}

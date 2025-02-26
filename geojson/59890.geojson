@@ -3,12 +3,12 @@
   "title": "Kuṣāṇas",
   "id": "59890",
   "bbox": [
-    60.0,
-    35.0,
-    65.0,
-    40.0
+    64.2882699668,
+    28.7489308534,
+    76.0965690853,
+    37.6955860458
   ],
-  "description": "An ancient place, cited: BAtlas 6 A2 Kuṣāṇas",
+  "description": "An imperial dynasty roughly contemporary with the early Roman empire that controlled an area stretching from Margiana in the northwest through the Punjab in the southeast.",
   "names": [
     "Kuṣāṇas"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.5,
-          37.5
+          70.1692217192,
+          33.1911413089
         ]
       },
       "properties": {
@@ -28,39 +28,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              60.0,
-              35.0
-            ],
-            [
-              60.0,
-              40.0
-            ],
-            [
-              65.0,
-              40.0
-            ],
-            [
-              65.0,
-              35.0
-            ],
-            [
-              60.0,
-              35.0
-            ]
+            64.28826996684887,
+            37.695586045835086
+          ],
+          [
+            66.31884115368221,
+            36.132134294880125
+          ],
+          [
+            68.28324016253283,
+            34.634860928162475
+          ],
+          [
+            70.17111708656404,
+            33.1581374596087
+          ],
+          [
+            72.17421663697773,
+            31.647140550186354
+          ],
+          [
+            74.13221674367111,
+            30.15672398253738
+          ],
+          [
+            76.09656908532105,
+            28.748930853448133
+          ],
+          [
+            76.09656908532105,
+            28.748930853448133
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59890/batlas-location"
+        "description": "Label location digitized from raster image of BAtlas 6 that was georegistered to the original compilation base projection (GNC 12) by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/59890/batlas-label-location"
       }
     }
   ]

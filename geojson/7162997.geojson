@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Knag Burn Gateway",
+  "id": "7162997",
+  "bbox": [
+    -2.3286831,
+    55.0146008,
+    -2.3285328,
+    55.0147068
+  ],
+  "description": "Roman Gateway through Hadrian's Wall",
+  "connectsWith": [
+    "89311",
+    "91358"
+  ],
+  "names": [
+    "Knag Burn Gateway"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.32860794205,
+          55.0146537936
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.3286156,
+            55.0147068
+          ],
+          [
+            -2.3285328,
+            55.0146849
+          ],
+          [
+            -2.3286003,
+            55.0146008
+          ],
+          [
+            -2.3286831,
+            55.0146227
+          ],
+          [
+            -2.3286566,
+            55.0146556
+          ],
+          [
+            -2.3286156,
+            55.0147068
+          ]
+        ]
+      },
+      "id": "osm-location-knag-burn-gateway",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Knag Burn Gateway",
+        "link": "http://pleiades.stoa.org/places/7162997/osm-location-knag-burn-gateway"
+      }
+    }
+  ]
+}

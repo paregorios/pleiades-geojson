@@ -3,10 +3,10 @@
   "title": "The Temple of Athena Polias at Priene",
   "id": "298577312",
   "bbox": [
-    27.2964992523,
-    37.6593017578,
-    27.2964992523,
-    37.6593017578
+    27.2961854,
+    37.659059,
+    27.2970443,
+    37.6594239
   ],
   "description": "The temple of Athena at Priene, designed by the architect Pytheos, is an especially good example of the Late Classical form of the Ionic order.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.2964992523,
-          37.6593017578
+          27.2966148676,
+          37.659241425
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.29649925231934,
-          37.6593017578125
+          [
+            27.2961854,
+            37.6594224
+          ],
+          [
+            27.2970433,
+            37.6594239
+          ],
+          [
+            27.2970443,
+            37.6590604
+          ],
+          [
+            27.2961864,
+            37.659059
+          ],
+          [
+            27.2961854,
+            37.6594224
+          ]
         ]
       },
-      "id": "the-temple-of-athena-polias-at-priene",
+      "id": "osm-location-of-temple-of-athena",
       "type": "Feature",
       "properties": {
-        "description": "The temple of Athena at Priene, built by the architect Pytheos, is an especially good example of the Late Classical form of the Ionic order.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "The Temple of Athena Polias at Priene",
-        "link": "http://pleiades.stoa.org/places/298577312/the-temple-of-athena-polias-at-priene"
+        "title": "OSM location of Temple of Athena",
+        "link": "http://pleiades.stoa.org/places/298577312/osm-location-of-temple-of-athena"
       }
     }
   ]

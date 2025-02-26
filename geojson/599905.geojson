@@ -3,10 +3,10 @@
   "title": "Priene/‘Lince’?",
   "id": "599905",
   "bbox": [
-    27.298333,
-    37.66,
-    27.298333,
-    37.66
+    27.2917983,
+    37.6563935,
+    27.3019808,
+    37.6657441
   ],
   "description": "Priene/‘Lince’? was an ancient Greek city of Ionia on an escarpment of Mycale Mons.",
   "connectsWith": [
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.298333,
-          37.66
+          27.2965836687,
+          37.6607802765
         ]
       },
       "properties": {
@@ -37,19 +37,101 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.298333,
-          37.66
+          [
+            27.2923127,
+            37.6606868
+          ],
+          [
+            27.2938666,
+            37.6587068
+          ],
+          [
+            27.2942392,
+            37.658388
+          ],
+          [
+            27.2946846,
+            37.6583264
+          ],
+          [
+            27.2963837,
+            37.6569129
+          ],
+          [
+            27.2972392,
+            37.6563935
+          ],
+          [
+            27.2980326,
+            37.6565901
+          ],
+          [
+            27.3007792,
+            37.6575414
+          ],
+          [
+            27.3011244,
+            37.6579729
+          ],
+          [
+            27.3013839,
+            37.6582972
+          ],
+          [
+            27.3018759,
+            37.6594381
+          ],
+          [
+            27.3019808,
+            37.6602593
+          ],
+          [
+            27.3009893,
+            37.660159
+          ],
+          [
+            27.297754,
+            37.6630146
+          ],
+          [
+            27.2965746,
+            37.6640698
+          ],
+          [
+            27.2949167,
+            37.665077
+          ],
+          [
+            27.2936117,
+            37.6657441
+          ],
+          [
+            27.2930018,
+            37.6645181
+          ],
+          [
+            27.2917983,
+            37.6634698
+          ],
+          [
+            27.2922372,
+            37.6619496
+          ],
+          [
+            27.2923127,
+            37.6606868
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-priene",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/599905/dare-location"
+        "title": "OSM location of Priene",
+        "link": "http://pleiades.stoa.org/places/599905/osm-location-of-priene"
       }
     }
   ]

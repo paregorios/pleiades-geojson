@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pachyammos sanctuary",
+  "id": "656052375",
+  "bbox": [
+    32.4344292,
+    34.7353801,
+    32.4366005,
+    34.7370471
+  ],
+  "description": "The remains of a robbed-out Hellenistic temple complex were excavated at Pachyammos to the south of Paphos, Cyprus, between 2015 and 2019. The site included a peripteral temple in antis.",
+  "connectsWith": [
+    "991392"
+  ],
+  "names": [
+    "Pachyammos sanctuary"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.435529616,
+          34.7360216001
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.4355375,
+            34.7370471
+          ],
+          [
+            32.4350186,
+            34.73644
+          ],
+          [
+            32.4344292,
+            34.7360114
+          ],
+          [
+            32.4347782,
+            34.7355843
+          ],
+          [
+            32.435153,
+            34.7354464
+          ],
+          [
+            32.4359917,
+            34.7353801
+          ],
+          [
+            32.4366005,
+            34.7355
+          ],
+          [
+            32.4359378,
+            34.7364645
+          ],
+          [
+            32.4355375,
+            34.7370471
+          ]
+        ]
+      },
+      "id": "osm-location-of-pachyammos-sanctuary",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pachyammos sanctuary",
+        "link": "http://pleiades.stoa.org/places/656052375/osm-location-of-pachyammos-sanctuary"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     23.9587015
   ],
   "description": "Arrian (quoting Megasthenes) lists the Agoranis among a large number of tributaries of the Ganges river. Some modern scholarship (e.g., Tomaschek in RE) has therefore identified it with the modern Gogra (Ghaghara); however, Erdosy in BAtlas silently rejects this view, preferring to identify it as a distributary of the Ganges, the modern Garai (Gorai) in Bangladesh.",
+  "connectsWith": [
+    "59858"
+  ],
   "names": [
     "Agoranis"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          89.3040735804,
-          23.7568013554
+          89.304107677,
+          23.7567635577
         ]
       },
       "properties": {

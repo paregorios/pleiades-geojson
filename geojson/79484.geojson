@@ -8,8 +8,10 @@
     -3.018,
     51.824841
   ],
-  "description": "An ancient place, cited: BAtlas 8 D3 ‘Gobannio’",
+  "description": "Roman fort and civil settlement or castrum established by the Roman legions invading Wales and now located at Abergavenny.",
   "names": [
+    "Gobannium",
+    "Abergavenny",
     "Gobannio"
   ],
   "features": [
@@ -37,7 +39,7 @@
       "id": "darmc-location-19048",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19048",
         "link": "http://pleiades.stoa.org/places/79484/darmc-location-19048"

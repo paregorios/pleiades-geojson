@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Gem",
+  "id": "757666490",
+  "bbox": [
+    14.3468191,
+    40.8051536,
+    14.3472647,
+    40.8054429
+  ],
+  "description": "The so-called House of the Gem at Herculaneum was once linked to the House of the Relief of Telephus when Marcus Nonius Balbus owned the complex. After the Augustan period, the two domus were separated and the House of the Gem was restored following the earthquake of A.D. 62.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Casa della Gemma"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3470577414,
+          40.8053044621
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3471069,
+            40.8054429
+          ],
+          [
+            14.3472647,
+            40.8052667
+          ],
+          [
+            14.3472299,
+            40.8052465
+          ],
+          [
+            14.3472513,
+            40.8052343
+          ],
+          [
+            14.3471596,
+            40.8051536
+          ],
+          [
+            14.3471287,
+            40.805178
+          ],
+          [
+            14.3470978,
+            40.8051681
+          ],
+          [
+            14.3468941,
+            40.8053339
+          ],
+          [
+            14.3468423,
+            40.8053087
+          ],
+          [
+            14.3468275,
+            40.805323
+          ],
+          [
+            14.3468191,
+            40.8053311
+          ],
+          [
+            14.3469518,
+            40.8053995
+          ],
+          [
+            14.3469616,
+            40.8053909
+          ],
+          [
+            14.3469732,
+            40.8053785
+          ],
+          [
+            14.3471069,
+            40.8054429
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-the-gem",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Gem",
+        "link": "http://pleiades.stoa.org/places/757666490/osm-location-of-house-of-the-gem"
+      }
+    }
+  ]
+}

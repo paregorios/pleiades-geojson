@@ -3,12 +3,12 @@
   "title": "Alexandria/Rhambakia",
   "id": "59675",
   "bbox": [
-    65.0,
-    25.0,
-    70.0,
-    30.0
+    66.4596675625,
+    26.1307298982,
+    66.4596675625,
+    26.1307298982
   ],
-  "description": "While on the march in 325 BC, Alexander arrived in Rhambakia, the chief village of the Oreitai. He ordered Hesphaistion to remain there and see to establishing a city.",
+  "description": "While on the march in 325 BC, Alexander arrived in Rhambakia, the chief village of the Oreitai. He ordered Hesphaistion to remain there and see to establishing a city. The location of this city cannot be determined today.",
   "names": [
     "Alexandria",
     "Rhambakia",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          27.5
+          66.4596675625,
+          26.1307298982
         ]
       },
       "properties": {
@@ -31,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              65.0,
-              25.0
-            ],
-            [
-              65.0,
-              30.0
-            ],
-            [
-              70.0,
-              30.0
-            ],
-            [
-              70.0,
-              25.0
-            ],
-            [
-              65.0,
-              25.0
-            ]
-          ]
+          66.45966756250053,
+          26.130729898182246
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59675/batlas-location"
+        "description": "Digitized in QGIS using a raster image of BAtlas Map 6, which was georegistered to original projection by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/59675/batlas-point-location"
       }
     }
   ]

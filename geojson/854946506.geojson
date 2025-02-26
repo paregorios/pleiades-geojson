@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "title": "Saepta Iulia",
+  "id": "854946506",
+  "bbox": [
+    12.4768464,
+    41.8988147,
+    12.4768464,
+    41.8988147
+  ],
+  "description": "An enclosure in the Campus Martius surrounded by porticoes built by Marcus Agrippa before ca. 26 BCE.",
+  "connectsWith": [
+    "423025",
+    "422863",
+    "128044615",
+    "921692078"
+  ],
+  "names": [
+    "Saepta",
+    "Septa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4768464,
+          41.8988147
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

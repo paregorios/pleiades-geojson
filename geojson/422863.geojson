@@ -3,9 +3,9 @@
   "title": "Campus Martius",
   "id": "422863",
   "bbox": [
-    12.4758843,
+    12.4736477,
     41.8940225,
-    12.4796415,
+    12.4800069,
     41.9064166
   ],
   "description": "The Campus Martius or \"field of Mars\" is the name given to the level ground between the slopes of the Capitoline, the Quirinal, and Pincian hills, and the Tiber river.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4773120443,
-          41.8975890236
+          12.4773597027,
+          41.8982026797
         ]
       },
       "properties": {

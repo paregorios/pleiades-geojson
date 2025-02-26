@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa di Faonte a Vigne Nuove",
+  "id": "706597506",
+  "bbox": [
+    12.5376846,
+    41.9540702,
+    12.5379776,
+    41.9541968
+  ],
+  "description": "The so-called the Villa of Faonte was a Roman villa in Rome located between Via delle Vigne Nuove and Via Passo del Turchino. There are remains of a cistern (approx. 29.5 by 14 meters) now set in a garden area.",
+  "connectsWith": [
+    "699256589"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5378322763,
+          41.95413106
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5379609,
+            41.9541968
+          ],
+          [
+            12.5379749,
+            41.9541954
+          ],
+          [
+            12.5379776,
+            41.9541886
+          ],
+          [
+            12.5379763,
+            41.9541796
+          ],
+          [
+            12.5377501,
+            41.9540858
+          ],
+          [
+            12.5377335,
+            41.9540778
+          ],
+          [
+            12.5377318,
+            41.9540827
+          ],
+          [
+            12.5377028,
+            41.9540707
+          ],
+          [
+            12.5376919,
+            41.9540702
+          ],
+          [
+            12.5376846,
+            41.9540808
+          ],
+          [
+            12.5377311,
+            41.9540979
+          ],
+          [
+            12.5379609,
+            41.9541968
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/706597506/osm-location"
+      }
+    }
+  ]
+}

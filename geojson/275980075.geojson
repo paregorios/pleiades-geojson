@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica Noniana",
+  "id": "275980075",
+  "bbox": [
+    14.348058,
+    40.805843,
+    14.348058,
+    40.805843
+  ],
+  "description": "An architectural complex at Herculaneum that was renovated following the earthquake of A.D. 62 thanks to the patronage of Marcus Nonius Balbus. The site is only partly excavated. It faced onto the Decumaus Maximus, and lies directly across Cardo III from the College of the Augustales.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Basilica Noniana"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.348058,
+          40.805843
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -5,8 +5,8 @@
   "bbox": [
     -2.525607,
     54.987596,
-    -2.525607,
-    54.987596
+    -2.5255841,
+    54.9876441
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
   "connectsWith": [
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.525607,
-          54.987596
+          -2.52559555,
+          54.98762005
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5255841,
+          54.9876441
+        ]
+      },
+      "id": "osm-location-milecastle-46",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: Milecastle 46",
+        "link": "http://pleiades.stoa.org/places/967060342/osm-location-milecastle-46"
       }
     },
     {

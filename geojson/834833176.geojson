@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Hotel",
+  "id": "834833176",
+  "bbox": [
+    14.3458613,
+    40.805684,
+    14.3468627,
+    40.8062228
+  ],
+  "description": "The so-called House of the Hotel (Casa dell'Albergo) is an opulent Augustan-period domus that occupies the bulk of the southern end of Insula III at Herculaneum.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Casa dell'Albergo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3464123397,
+          40.8059081287
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              14.346526,
+              40.8057615
+            ],
+            [
+              14.3463542,
+              40.805684
+            ],
+            [
+              14.3462265,
+              40.8057972
+            ],
+            [
+              14.3461973,
+              40.8058231
+            ],
+            [
+              14.3460363,
+              40.8057119
+            ],
+            [
+              14.3460209,
+              40.8057012
+            ],
+            [
+              14.3458613,
+              40.805889
+            ],
+            [
+              14.3462248,
+              40.8060475
+            ],
+            [
+              14.3463902,
+              40.8058334
+            ],
+            [
+              14.3464498,
+              40.8058614
+            ],
+            [
+              14.3464941,
+              40.8058061
+            ],
+            [
+              14.346526,
+              40.8057615
+            ]
+          ],
+          [
+            [
+              14.3465705,
+              40.8062032
+            ],
+            [
+              14.3466167,
+              40.8062228
+            ],
+            [
+              14.3466812,
+              40.8061369
+            ],
+            [
+              14.3467355,
+              40.8060705
+            ],
+            [
+              14.3467918,
+              40.806
+            ],
+            [
+              14.3468627,
+              40.8059118
+            ],
+            [
+              14.3465941,
+              40.8057839
+            ],
+            [
+              14.3465123,
+              40.8058925
+            ],
+            [
+              14.3467376,
+              40.805991
+            ],
+            [
+              14.3465705,
+              40.8062032
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-the-hotel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Hotel",
+        "link": "http://pleiades.stoa.org/places/834833176/osm-location-of-house-of-the-hotel"
+      }
+    }
+  ]
+}

@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Adel",
-  "id": "285857973",
+  "title": "Doune",
+  "id": "745417441",
   "bbox": [
-    -1.579512,
-    53.865843,
-    -1.579512,
-    53.865843
+    -4.051828,
+    56.186779,
+    -4.051828,
+    56.186779
   ],
-  "description": "Site of a Roman fort that developed in a small Romano-British settlement",
+  "description": "Roman Fort near Stirling, Scotland",
+  "names": [
+    "Doune"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.579512,
-          53.865843
+          -4.051828,
+          56.186779
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.579512,
-          53.865843
+          -4.051828,
+          56.186779
         ]
       },
-      "id": "centerpoint-of-settlement-approx",
+      "id": "canmore",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Centerpoint of settlement (approx)",
-        "link": "http://pleiades.stoa.org/places/285857973/centerpoint-of-settlement-approx"
+        "title": "Canmore localisation",
+        "link": "http://pleiades.stoa.org/places/745417441/canmore"
       }
     }
   ]

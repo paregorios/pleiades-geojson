@@ -2,65 +2,22 @@
   "type": "FeatureCollection",
   "title": "Kamberichon Stoma",
   "id": "59858",
-  "bbox": [
-    90.0,
-    20.0,
-    95.0,
-    25.0
+  "description": "Ptolemy enumerates the ancient mouths (stomata) of the Ganges river, from west to east. He lists \"Kamberichon Stoma\" as the third of these. Cognizant of significant natural and constructed changes in the hydrology of the Ganges within and since antiquity, modern scholars tentatively identify the Kamberichon stoma with the modern Garai/Gorai-Madhumati river in Bangladesh.",
+  "connectsWith": [
+    "50178"
   ],
-  "description": "An ancient place, cited: BAtlas 6 G5 Kamberichon Stoma",
   "names": [
+    "gaṛāi-madhumati",
+    "Gorai-Madhumati",
+    "Garai",
     "Kamberichon Stoma"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.5,
-          22.5
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              90.0,
-              20.0
-            ],
-            [
-              90.0,
-              25.0
-            ],
-            [
-              95.0,
-              25.0
-            ],
-            [
-              95.0,
-              20.0
-            ],
-            [
-              90.0,
-              20.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59858/batlas-location"
       }
     }
   ]
