@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Medamud",
+  "id": "748292753",
+  "bbox": [
+    32.7071762115,
+    25.7318434351,
+    32.710787932,
+    25.7353325225
+  ],
+  "description": "Egyptian village located 8 km north-east of Louqsor, home to a temple dedicated to the god Montou.",
+  "connectsWith": [
+    "727172"
+  ],
+  "names": [
+    "Medamud",
+    "Médamoud",
+    "Medamud"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7086953375,
+          25.7336445345
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.70825340712258,
+              25.73533252248793
+            ],
+            [
+              32.70920186028826,
+              25.73469889726832
+            ],
+            [
+              32.70957446934982,
+              25.7345882984781
+            ],
+            [
+              32.71059909676046,
+              25.73444071481279
+            ],
+            [
+              32.71078793200586,
+              25.73424503520233
+            ],
+            [
+              32.71070798459541,
+              25.73388785757363
+            ],
+            [
+              32.71042329691974,
+              25.73342003745099
+            ],
+            [
+              32.71026368671797,
+              25.73353473505506
+            ],
+            [
+              32.70960274150654,
+              25.73298286642734
+            ],
+            [
+              32.70915992572937,
+              25.73225319174045
+            ],
+            [
+              32.70807438135392,
+              25.73184343506646
+            ],
+            [
+              32.70755001297672,
+              25.73239119141275
+            ],
+            [
+              32.70717621147803,
+              25.7337643666336
+            ],
+            [
+              32.70734240206121,
+              25.73451668208325
+            ],
+            [
+              32.707751748969,
+              25.73502777971824
+            ],
+            [
+              32.70825340712258,
+              25.73533252248793
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-medamud",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of Medamud",
+        "location_precision": "precise",
+        "title": "Imagery Location: Medamud",
+        "link": "http://pleiades.stoa.org/places/748292753/imagery-location-medamud"
+      }
+    }
+  ]
+}

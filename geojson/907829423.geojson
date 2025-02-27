@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Montu",
+  "id": "907829423",
+  "bbox": [
+    32.707740475,
+    25.7338852989,
+    32.7107492179,
+    25.7350914402
+  ],
+  "description": "Egyptian temple dedicated to the god Montou in Medamud, built and enlarged from the Middle Kingdom to the Roman period.",
+  "connectsWith": [
+    "748292753"
+  ],
+  "names": [
+    "Temple of Montu",
+    "Temple de Montou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7092636638,
+          25.734485142
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.70789401009881,
+              25.73509144017918
+            ],
+            [
+              32.7092905031344,
+              25.73466385126077
+            ],
+            [
+              32.70961182675725,
+              25.7345782100885
+            ],
+            [
+              32.70998519842868,
+              25.73448889686081
+            ],
+            [
+              32.7103735650693,
+              25.73437639878432
+            ],
+            [
+              32.71074921785999,
+              25.73426796805239
+            ],
+            [
+              32.71061962242947,
+              25.73388529893641
+            ],
+            [
+              32.70774047496009,
+              25.73473080913366
+            ],
+            [
+              32.70789401009881,
+              25.73509144017918
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-temple-of-montu",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of Medamud temple",
+        "location_precision": "precise",
+        "title": "Imagery Location: Temple of Montu",
+        "link": "http://pleiades.stoa.org/places/907829423/imagery-location-temple-of-montu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "title": "Qasr el-Aguz",
+  "id": "7162996",
+  "bbox": [
+    32.600499017,
+    25.7168978856,
+    32.600779033,
+    25.7171486204
+  ],
+  "description": "Site in Luxor (Egypt) associated with a Ptolemaic temple dedicated to the god Thoth.",
+  "connectsWith": [
+    "786017"
+  ],
+  "names": [
+    "Qasr el-Aguz",
+    "Qasr el-Aguz",
+    "Qasr el-Aguz"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6006385153,
+          25.7170215745
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60064690704311,
+              25.71689788562048
+            ],
+            [
+              32.6004990170266,
+              25.71703696778628
+            ],
+            [
+              32.60062878043618,
+              25.71714862035089
+            ],
+            [
+              32.60077903300645,
+              25.71699968905437
+            ],
+            [
+              32.60064690704311,
+              25.71689788562048
+            ]
+          ]
+        ]
+      },
+      "id": "qasr-el-aguz",
+      "type": "Feature",
+      "properties": {
+        "description": "Surveyed by eye in Google Earth on February 23, 2025. Dates after Porter 1972 II, pp. 527-530.",
+        "location_precision": "precise",
+        "title": "Imagery Location: visible remains of Qasr el-Aguz temple",
+        "link": "http://pleiades.stoa.org/places/7162996/qasr-el-aguz"
+      }
+    }
+  ]
+}

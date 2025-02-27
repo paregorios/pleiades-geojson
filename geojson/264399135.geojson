@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Loudoun Hill",
+  "id": "264399135",
+  "bbox": [
+    -4.21613,
+    55.60925,
+    -4.21613,
+    55.60925
+  ],
+  "description": "Loudoun Hill was the site of a Flavian Auxiliary Fort (ca. A.D. 69–96) that had four occupational phases.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.21613,
+          55.60925
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.21613,
+          55.60925
+        ]
+      },
+      "id": "dare-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location",
+        "link": "http://pleiades.stoa.org/places/264399135/dare-location"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Gasr Doga",
   "id": "344364",
   "bbox": [
-    13.699995,
-    32.483315,
-    13.699995,
-    32.483315
+    13.6985189,
+    32.4876394,
+    13.6992374,
+    32.4883887
   ],
   "description": "The mausoleum of Gasr Doga is a monumental, elite Libico-Punic tomb built in the Tarhuna area.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.699995,
-          32.483315
+          13.6989126153,
+          32.4880247652
         ]
       },
       "properties": {
@@ -25,19 +25,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.699995,
-          32.483315
+          [
+            13.6991702,
+            32.4883887
+          ],
+          [
+            13.699202,
+            32.4882395
+          ],
+          [
+            13.6992374,
+            32.487923
+          ],
+          [
+            13.6989932,
+            32.4876812
+          ],
+          [
+            13.6987773,
+            32.4876394
+          ],
+          [
+            13.6985189,
+            32.4880185
+          ],
+          [
+            13.6987171,
+            32.4882783
+          ],
+          [
+            13.6991702,
+            32.4883887
+          ]
         ]
       },
-      "id": "darmc-location-15969",
+      "id": "osm-location-of-qasr-doga",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15969",
-        "link": "http://pleiades.stoa.org/places/344364/darmc-location-15969"
+        "title": "OSM location of Qasr Doga",
+        "link": "http://pleiades.stoa.org/places/344364/osm-location-of-qasr-doga"
       }
     }
   ]
