@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mollins",
+  "id": "484422068",
+  "bbox": [
+    -4.0597,
+    55.92284,
+    -4.0597,
+    55.92284
+  ],
+  "description": "A small Roman fortlet south of the Antonine Wall and probably built by Agricola circa 80 CE.",
+  "names": [
+    "Mollins"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0597,
+          55.92284
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0597,
+          55.92284
+        ]
+      },
+      "id": "dare-location-mollins",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: Mollins",
+        "link": "http://pleiades.stoa.org/places/484422068/dare-location-mollins"
+      }
+    }
+  ]
+}

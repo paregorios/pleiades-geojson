@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Inverquharity",
+  "id": "25339216",
+  "bbox": [
+    -2.9733812,
+    56.711182,
+    -2.9733812,
+    56.711182
+  ],
+  "description": "A small Roman fortlet near Inverquharity, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9733812,
+          56.711182
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9733812,
+          56.711182
+        ]
+      },
+      "id": "canmore-location-inverquharity",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Inverquharity",
+        "link": "http://pleiades.stoa.org/places/25339216/canmore-location-inverquharity"
+      }
+    }
+  ]
+}

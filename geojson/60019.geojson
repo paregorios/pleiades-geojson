@@ -3,13 +3,14 @@
   "title": "Rhodopha",
   "id": "60019",
   "bbox": [
-    75.0,
-    25.0,
-    80.0,
-    30.0
+    78.3109032144,
+    28.1271436877,
+    78.3109032144,
+    28.1271436877
   ],
-  "description": "An ancient place, cited: BAtlas 6 D4 Rhodopha",
+  "description": "Rhodopha was an ancient settlement listed in an itinerary in Megasthenes' Indika as transmitted by the Elder Pliny. As a tentative identification, BAtlas silently followed Rawlinson, who writes \"Said to be Dabhai near Anupshahr\" (p. 42 n. 3).",
   "names": [
+    "Dabhai",
     "Rhodopha"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5,
-          27.5
+          78.3109032144,
+          28.1271436877
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              75.0,
-              25.0
-            ],
-            [
-              75.0,
-              30.0
-            ],
-            [
-              80.0,
-              30.0
-            ],
-            [
-              80.0,
-              25.0
-            ],
-            [
-              75.0,
-              25.0
-            ]
-          ]
+          78.31090321440459,
+          28.127143687718334
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/60019/batlas-location"
+        "description": "Point digitized from a raster of BAtlas Map 6, which was georegistered to the original compilation projection by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/60019/batlas-point-location"
       }
     }
   ]

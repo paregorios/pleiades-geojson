@@ -3,12 +3,12 @@
   "title": "‘Nido’",
   "id": "79616",
   "bbox": [
-    -3.814,
-    51.661094,
-    -3.803765,
-    51.665
+    -3.8133213,
+    51.6638524,
+    -3.8114687,
+    51.6641532
   ],
-  "description": "An ancient place, cited: BAtlas 8 D3 ‘Nido’",
+  "description": "‘Nido’ or Nidum was the site of a Flavian Auxiliary fort and milestone; now Neath, Glamorgan, Wales.",
   "names": [
     "Nido"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.8088825,
-          51.663047
+          -3.8124108466,
+          51.6639645623
         ]
       },
       "properties": {
@@ -28,36 +28,88 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.803765,
-          51.661094
+          [
+            -3.8118456,
+            51.6640073
+          ],
+          [
+            -3.8116386,
+            51.6641532
+          ],
+          [
+            -3.8114988,
+            51.6640676
+          ],
+          [
+            -3.811474,
+            51.6640424
+          ],
+          [
+            -3.8114687,
+            51.6640149
+          ],
+          [
+            -3.8114882,
+            51.6639776
+          ],
+          [
+            -3.8115183,
+            51.6639458
+          ],
+          [
+            -3.8115873,
+            51.6638909
+          ],
+          [
+            -3.8118456,
+            51.6640073
+          ]
         ]
       },
-      "id": "darmc-location-19170",
+      "id": "osm-location-of-nidum-roman-fort-south-east",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19170",
-        "link": "http://pleiades.stoa.org/places/79616/darmc-location-19170"
+        "title": "OSM location of Nidum Roman Fort South-east Gatehouse",
+        "link": "http://pleiades.stoa.org/places/79616/osm-location-of-nidum-roman-fort-south-east"
       }
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -3.814,
-          51.665
+          [
+            -3.8130316,
+            51.663905
+          ],
+          [
+            -3.8131773,
+            51.6639662
+          ],
+          [
+            -3.8133213,
+            51.6639175
+          ],
+          [
+            -3.8131664,
+            51.6638524
+          ],
+          [
+            -3.8130316,
+            51.663905
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-nidum-roman-fort-south-west",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/79616/dare-location"
+        "title": "OSM location of Nidum Roman Fort South-west Gatehouse",
+        "link": "http://pleiades.stoa.org/places/79616/osm-location-of-nidum-roman-fort-south-west"
       }
     }
   ]

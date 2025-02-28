@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "House M7-W",
+  "id": "928161013",
+  "bbox": [
+    40.7274468941,
+    34.7463546953,
+    40.7274468941,
+    34.7463546953
+  ],
+  "description": "Private house located in Block M7 of Dura-Europos.",
+  "connectsWith": [
+    "893990",
+    "451190386"
+  ],
+  "names": [
+    "House M7-W",
+    "House of the Banquet"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7274468941,
+          34.7463546953
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.727446894108915,
+          34.74635469525076
+        ]
+      },
+      "id": "totalstation-location-house-m7-w",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Totalstation Location: House M7-W",
+        "link": "http://pleiades.stoa.org/places/928161013/totalstation-location-house-m7-w"
+      }
+    }
+  ]
+}

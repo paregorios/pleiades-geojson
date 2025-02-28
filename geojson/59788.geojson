@@ -1,15 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Dargamanes? (river)",
+  "title": "Dargamanes (river)",
   "id": "59788",
   "bbox": [
-    65.0,
-    35.0,
-    70.0,
-    40.0
+    65.63422,
+    36.73466,
+    65.63422,
+    36.73466
   ],
-  "description": "The Dargamanes was a river in Bactria that supposedly joined the Ochus to the west of the Zariaspes.",
+  "description": "Ancient Greek and Roman accounts of this and other Bactrian rivers are confused. The Barrington Atlas tentatively identifies this ancient river with the modern Ab-e-Safed (Daryā-ye Safēd) in Afghanistan's Jowzjan province.",
   "names": [
+    "Dargomanes",
     "Dargamanes"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.5,
-          37.5
+          65.63422,
+          36.73466
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              65.0,
-              35.0
-            ],
-            [
-              65.0,
-              40.0
-            ],
-            [
-              70.0,
-              40.0
-            ],
-            [
-              70.0,
-              35.0
-            ],
-            [
-              65.0,
-              35.0
-            ]
-          ]
+          65.63422,
+          36.73466
         ]
       },
-      "id": "batlas-location",
+      "id": "geonames-location-darya-ye-safed",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59788/batlas-location"
+        "location_precision": "precise",
+        "title": "Geonames Location: Daryā-ye Safēd",
+        "link": "http://pleiades.stoa.org/places/59788/geonames-location-darya-ye-safed"
       }
     }
   ]

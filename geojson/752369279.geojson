@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Broomholm",
+  "id": "752369279",
+  "bbox": [
+    -2.97594,
+    55.12352,
+    -2.97594,
+    55.12352
+  ],
+  "description": "A smal Roman fort built in the first century in Scotland",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97594,
+          55.12352
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97594,
+          55.12352
+        ]
+      },
+      "id": "canmore-location-broomholm",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Broomholm",
+        "link": "http://pleiades.stoa.org/places/752369279/canmore-location-broomholm"
+      }
+    }
+  ]
+}

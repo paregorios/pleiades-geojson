@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Glenbank",
+  "id": "343256472",
+  "bbox": [
+    -3.91768,
+    56.22897,
+    -3.91768,
+    56.22897
+  ],
+  "description": "Roman fortlet situated beside the Roman road leading between the forts at Ardoch and Doune in Scotland",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91768,
+          56.22897
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91768,
+          56.22897
+        ]
+      },
+      "id": "canmore-location-glenbank",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Glenbank",
+        "link": "http://pleiades.stoa.org/places/343256472/canmore-location-glenbank"
+      }
+    }
+  ]
+}
