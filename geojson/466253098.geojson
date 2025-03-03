@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Glasgow Bridge",
+  "id": "466253098",
+  "bbox": [
+    -4.1838834,
+    55.931546,
+    -4.1838834,
+    55.931546
+  ],
+  "description": "A Roman fortlet on the Antonine Wall, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1838834,
+          55.931546
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1838834,
+          55.931546
+        ]
+      },
+      "id": "glasgow-bridge-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Glasgow Bridge",
+        "link": "http://pleiades.stoa.org/places/466253098/glasgow-bridge-location"
+      }
+    }
+  ]
+}

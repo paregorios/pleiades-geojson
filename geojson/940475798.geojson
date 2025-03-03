@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Boclair",
+  "id": "940475798",
+  "bbox": [
+    -4.3170498,
+    55.919702,
+    -4.3170498,
+    55.919702
+  ],
+  "description": "A Roman fortlet on the Antonine Wall, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3170498,
+          55.919702
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3170498,
+          55.919702
+        ]
+      },
+      "id": "boclair-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Boclair",
+        "link": "http://pleiades.stoa.org/places/940475798/boclair-location"
+      }
+    }
+  ]
+}

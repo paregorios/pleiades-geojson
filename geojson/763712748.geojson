@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Victoria Church",
+  "id": "763712748",
+  "bbox": [
+    9.2209924,
+    36.4250159,
+    9.2211897,
+    36.4252125
+  ],
+  "description": "A paleochristian church located at Thugga.",
+  "connectsWith": [
+    "315223"
+  ],
+  "names": [
+    "Eglise de Victoria"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22108995643,
+          36.4251081494
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2209969,
+            36.4250848
+          ],
+          [
+            9.2210367,
+            36.4251742
+          ],
+          [
+            9.2210848,
+            36.4251603
+          ],
+          [
+            9.2211081,
+            36.4252125
+          ],
+          [
+            9.2211534,
+            36.4251994
+          ],
+          [
+            9.2211273,
+            36.4251408
+          ],
+          [
+            9.2211897,
+            36.4251227
+          ],
+          [
+            9.2211494,
+            36.4250324
+          ],
+          [
+            9.2210778,
+            36.425053
+          ],
+          [
+            9.2210612,
+            36.4250159
+          ],
+          [
+            9.2209924,
+            36.4250358
+          ],
+          [
+            9.2210122,
+            36.4250804
+          ],
+          [
+            9.2209969,
+            36.4250848
+          ]
+        ]
+      },
+      "id": "osm-location-of-victoria-church",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Victoria Church",
+        "link": "http://pleiades.stoa.org/places/763712748/osm-location-of-victoria-church"
+      }
+    }
+  ]
+}

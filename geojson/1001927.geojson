@@ -3,10 +3,10 @@
   "title": "Armenia II",
   "id": "1001927",
   "bbox": [
-    35.0,
-    35.0,
-    40.0,
-    40.0
+    36.391,
+    38.722,
+    36.393668,
+    38.725014
   ],
   "description": "An ancient place, cited: BAtlas 102 G4 no. 41 (Armenia II)",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.5,
-          37.5
+          36.392334,
+          38.723507
         ]
       },
       "properties": {

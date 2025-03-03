@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Zindan Bridge",
   "id": "640247",
   "bbox": [
-    31.125695,
-    37.809375,
-    31.125695,
-    37.809375
+    31.084683,
+    37.81166,
+    31.084683,
+    37.81166
   ],
-  "description": "An ancient place, cited: BAtlas 65 F2 unnamed bridge (near Eurymedon, T.)",
+  "description": "A Roman-era bridge associated with the Zindan Mağarası sanctuary in Turkey's Isparta province. It spans the modern Aksu river.",
+  "connectsWith": [
+    "638837"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.125695,
-          37.809375
+          31.084683,
+          37.81166
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.125695,
-          37.809375
+          31.084683,
+          37.81166
         ]
       },
-      "id": "darmc-location-14714",
+      "id": "imagery-location-center-of-bridge-span",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location determined in Google Earth with reference to published plans and photographs.",
         "location_precision": "precise",
-        "title": "DARMC location 14714",
-        "link": "http://pleiades.stoa.org/places/640247/darmc-location-14714"
+        "title": "Imagery Location: center of bridge span",
+        "link": "http://pleiades.stoa.org/places/640247/imagery-location-center-of-bridge-span"
       }
     }
   ]

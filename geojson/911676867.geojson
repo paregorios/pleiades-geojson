@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "title": "Rocca della Verruca",
+  "id": "911676867",
+  "bbox": [
+    10.5333165,
+    43.7069297,
+    10.5342721,
+    43.7074682
+  ],
+  "description": "The castle known as \"Rocca della Verruca\" was built in a location that had been fortified previously, beginning at least as early as the eighth century.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5338318693,
+          43.7072041956
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.5333396,
+            43.7072802
+          ],
+          [
+            10.5337398,
+            43.7073798
+          ],
+          [
+            10.5339754,
+            43.7074374
+          ],
+          [
+            10.534008,
+            43.7074651
+          ],
+          [
+            10.5340565,
+            43.7074682
+          ],
+          [
+            10.5341257,
+            43.7074614
+          ],
+          [
+            10.5341728,
+            43.7074304
+          ],
+          [
+            10.5341661,
+            43.7073993
+          ],
+          [
+            10.5341279,
+            43.7073795
+          ],
+          [
+            10.5341846,
+            43.7072688
+          ],
+          [
+            10.5341937,
+            43.7072149
+          ],
+          [
+            10.5341858,
+            43.7071776
+          ],
+          [
+            10.5341894,
+            43.7071433
+          ],
+          [
+            10.5342204,
+            43.70714
+          ],
+          [
+            10.5342507,
+            43.7071275
+          ],
+          [
+            10.5342721,
+            43.7070961
+          ],
+          [
+            10.5342622,
+            43.7070582
+          ],
+          [
+            10.5341929,
+            43.7070441
+          ],
+          [
+            10.5341599,
+            43.7070579
+          ],
+          [
+            10.5339046,
+            43.706992
+          ],
+          [
+            10.5336245,
+            43.7069297
+          ],
+          [
+            10.5336503,
+            43.7070343
+          ],
+          [
+            10.5336277,
+            43.707096
+          ],
+          [
+            10.5335914,
+            43.7071248
+          ],
+          [
+            10.5335419,
+            43.7071541
+          ],
+          [
+            10.5334133,
+            43.7071993
+          ],
+          [
+            10.5333207,
+            43.7072421
+          ],
+          [
+            10.5333165,
+            43.7072632
+          ],
+          [
+            10.5333396,
+            43.7072802
+          ]
+        ]
+      },
+      "id": "osm-location-of-rocca-della-verruca",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Rocca della Verruca",
+        "link": "http://pleiades.stoa.org/places/911676867/osm-location-of-rocca-della-verruca"
+      }
+    }
+  ]
+}

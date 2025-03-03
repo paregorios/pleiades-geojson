@@ -3,10 +3,10 @@
   "title": "Garm-Kerman",
   "id": "29569",
   "bbox": [
-    55.0,
-    25.0,
-    60.0,
-    30.0
+    56.1899409092,
+    27.6023120664,
+    58.3996342774,
+    27.7582501447
   ],
   "description": "An ancient place, cited: BAtlas 3 G4 Garm-Kerman",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.5,
-          27.5
+          57.2947875933,
+          27.6802811055
         ]
       },
       "properties": {
@@ -28,39 +28,25 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              55.0,
-              25.0
-            ],
-            [
-              55.0,
-              30.0
-            ],
-            [
-              60.0,
-              30.0
-            ],
-            [
-              60.0,
-              25.0
-            ],
-            [
-              55.0,
-              25.0
-            ]
+            56.18994090918777,
+            27.758250144702455
+          ],
+          [
+            58.39963427740616,
+            27.602312066365613
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/29569/batlas-location"
+        "description": "Center throughline of label \"GARM-KERMAN\" extracted using QGIS from a raster image of Barrington Atlas map 3 that was georeferenced to original projection by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/29569/batlas-label-location"
       }
     }
   ]

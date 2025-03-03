@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": " Murder Loch",
+  "id": "465554585",
+  "bbox": [
+    -3.5219996,
+    55.153435,
+    -3.5219996,
+    55.153435
+  ],
+  "description": "A Roman fortlet of Antonine date in Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5219996,
+          55.153435
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5219996,
+          55.153435
+        ]
+      },
+      "id": "canmore-location-murder-loch",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Murder Loch",
+        "link": "http://pleiades.stoa.org/places/465554585/canmore-location-murder-loch"
+      }
+    }
+  ]
+}

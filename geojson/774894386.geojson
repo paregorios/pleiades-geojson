@@ -3,10 +3,10 @@
   "title": "Nuraghe S'Urachi",
   "id": "774894386",
   "bbox": [
-    8.5825356,
-    40.0154319,
-    8.5825356,
-    40.0154319
+    8.5817063,
+    40.0148073,
+    8.5838199,
+    40.0163644
   ],
   "description": "A nuragic site near San Vero Milis in west central Sardinia, occupied from the Late Bronze Age into the Roman period.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5825356,
-          40.0154319
+          8.58279987189,
+          40.0156080323
         ]
       },
       "properties": {
@@ -32,19 +32,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.5825356,
-          40.0154319
+          [
+            8.5822106,
+            40.0163644
+          ],
+          [
+            8.581878,
+            40.0162823
+          ],
+          [
+            8.5817063,
+            40.0155715
+          ],
+          [
+            8.5818887,
+            40.01544
+          ],
+          [
+            8.5822964,
+            40.0152346
+          ],
+          [
+            8.5828972,
+            40.0150374
+          ],
+          [
+            8.5833693,
+            40.0149059
+          ],
+          [
+            8.5837985,
+            40.0148073
+          ],
+          [
+            8.5838199,
+            40.014947
+          ],
+          [
+            8.5835785,
+            40.015325
+          ],
+          [
+            8.5835571,
+            40.015551
+          ],
+          [
+            8.5835839,
+            40.015781
+          ],
+          [
+            8.5835624,
+            40.0158838
+          ],
+          [
+            8.5833479,
+            40.0160727
+          ],
+          [
+            8.5829133,
+            40.0163069
+          ],
+          [
+            8.5827739,
+            40.0163603
+          ],
+          [
+            8.5822106,
+            40.0163644
+          ]
         ]
       },
-      "id": "location-of-nuraghe-surachi",
+      "id": "osm-location-of-nuraghe-surachi",
       "type": "Feature",
       "properties": {
-        "description": "Location of Nuraghe S'Urachi, based on Google Earth.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Nuraghe S'Urachi",
-        "link": "http://pleiades.stoa.org/places/774894386/location-of-nuraghe-surachi"
+        "title": "OSM location of Nuraghe S'Urachi",
+        "link": "http://pleiades.stoa.org/places/774894386/osm-location-of-nuraghe-surachi"
       }
     }
   ]

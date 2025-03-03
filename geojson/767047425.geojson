@@ -3,10 +3,10 @@
   "title": "Cancho Roano",
   "id": "767047425",
   "bbox": [
-    -5.686259,
+    -5.6864293,
     38.7007859,
-    -5.686259,
-    38.7007859
+    -5.6856504,
+    38.7013713
   ],
   "description": "A pre-Roman sanctuary of the Iberian peninsula.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.686259,
-          38.7007859
+          -5.68603984603,
+          38.7010786015
         ]
       },
       "properties": {

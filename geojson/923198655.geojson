@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tocherknowe",
+  "id": "923198655",
+  "bbox": [
+    -3.36928,
+    55.759383,
+    -3.36928,
+    55.759383
+  ],
+  "description": "A Roman fortlet in Scotland confirmed by aerial photography.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.36928,
+          55.759383
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.36928,
+          55.759383
+        ]
+      },
+      "id": "canmore-location-tocherknowe",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Tocherknowe",
+        "link": "http://pleiades.stoa.org/places/923198655/canmore-location-tocherknowe"
+      }
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "title": "Mura Greche",
   "id": "72612822",
   "bbox": [
-    14.2520542,
+    14.2520498,
     40.8497821,
-    14.2520542,
-    40.8497821
+    14.2522069,
+    40.8499275
   ],
-  "description": "The so-called \"Mura Greche\" are remains of the later third century B.C. fortifications of Neapolis.",
+  "description": "The so-called \"Mura Greche\" are remains of the later third-century B.C. fortifications of Neapolis.",
   "connectsWith": [
     "433014"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2520542,
-          40.8497821
+          14.2521312166,
+          40.8498528465
         ]
       },
       "properties": {

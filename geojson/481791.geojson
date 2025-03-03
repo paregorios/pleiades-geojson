@@ -3,13 +3,16 @@
   "title": "Claudanon",
   "id": "481791",
   "bbox": [
-    20.573469,
-    41.073543,
-    20.573469,
-    41.073543
+    20.5824245,
+    41.0652857,
+    20.6331544,
+    41.1045491
   ],
-  "description": "An ancient place, cited: BAtlas 49 C2 Claudanon",
+  "description": "A mansio listed in the ItBurd. BAtlas follows Hammond 1974 in placing it in the vicinity of modern Urakë in Albania. Bitrakova-Grozdanova 1994 would place it at modern Radožda in Macedonia.",
   "names": [
+    "Radozhda",
+    "Urakë",
+    "Orakë",
     "Claudanon"
   ],
   "features": [
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.573469,
-          41.073543
+          20.60778945,
+          41.0849174
         ]
       },
       "properties": {
@@ -30,17 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.573469,
-          41.073543
+          20.5824245,
+          41.0652857
         ]
       },
-      "id": "darmc-location-8016",
+      "id": "osm-location-modern-uraka",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8016",
-        "link": "http://pleiades.stoa.org/places/481791/darmc-location-8016"
+        "title": "OSM Location: modern Urakë",
+        "link": "http://pleiades.stoa.org/places/481791/osm-location-modern-uraka"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6331544,
+          41.1045491
+        ]
+      },
+      "id": "osm-location-modern-radoa3-4da",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Radožda",
+        "link": "http://pleiades.stoa.org/places/481791/osm-location-modern-radoa3-4da"
       }
     }
   ]

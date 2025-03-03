@@ -3,10 +3,10 @@
   "title": "Nuraghe Maiori",
   "id": "767681019",
   "bbox": [
-    9.0967717,
+    9.0966841,
     40.9193863,
-    9.0967717,
-    40.9193863
+    9.0969007,
+    40.9195471
   ],
   "description": "A single-tower nuraghe with a central corridor.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0967717,
-          40.9193863
+          9.09679293987,
+          40.9194690389
         ]
       },
       "properties": {

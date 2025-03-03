@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Watling Lodge",
+  "id": "77301056",
+  "bbox": [
+    -3.8253812,
+    55.997528,
+    -3.8253812,
+    55.997528
+  ],
+  "description": "A Roman fortlet on the Antonine Wall, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8253812,
+          55.997528
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8253812,
+          55.997528
+        ]
+      },
+      "id": "canmore-location-watling-lodge",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Watling Lodge",
+        "link": "http://pleiades.stoa.org/places/77301056/canmore-location-watling-lodge"
+      }
+    }
+  ]
+}

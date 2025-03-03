@@ -4,9 +4,9 @@
   "id": "311930179",
   "bbox": [
     8.1229867,
-    35.4006908,
-    8.1229867,
-    35.4006908
+    35.4003323,
+    8.1244244,
+    35.4018764
   ],
   "description": "The Roman amphitheater at Theveste dates to the fourth century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.1229867,
-          35.4006908
+          8.12382624271,
+          35.4010667993
         ]
       },
       "properties": {

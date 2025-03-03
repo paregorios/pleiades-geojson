@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Carleith",
+  "id": "940475797",
+  "bbox": [
+    -4.4333035,
+    55.925935,
+    -4.4333035,
+    55.925935
+  ],
+  "description": "A Roman fortlet located on the Antonine Wall in Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4333035,
+          55.925935
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4333035,
+          55.925935
+        ]
+      },
+      "id": "carleith-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Carleith",
+        "link": "http://pleiades.stoa.org/places/940475797/carleith-location"
+      }
+    }
+  ]
+}

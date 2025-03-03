@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Oxton",
+  "id": "37433207",
+  "bbox": [
+    -2.8131998,
+    55.782086,
+    -2.8131998,
+    55.782086
+  ],
+  "description": " A Roman fortlet in Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8131998,
+          55.782086
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8131998,
+          55.782086
+        ]
+      },
+      "id": "canmore-location-oxton",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Oxton",
+        "link": "http://pleiades.stoa.org/places/37433207/canmore-location-oxton"
+      }
+    }
+  ]
+}

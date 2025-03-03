@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lamington",
+  "id": "747767219",
+  "bbox": [
+    -3.6234468,
+    55.559214,
+    -3.6234468,
+    55.559214
+  ],
+  "description": "Roman fortlet on the Antonine Wall, Scotland",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6234468,
+          55.559214
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6234468,
+          55.559214
+        ]
+      },
+      "id": "canmore-location-lamington",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Lamington",
+        "link": "http://pleiades.stoa.org/places/747767219/canmore-location-lamington"
+      }
+    }
+  ]
+}

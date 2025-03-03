@@ -5,8 +5,8 @@
   "bbox": [
     36.309102,
     33.511612,
-    38.2695,
-    34.5522
+    38.2735842,
+    34.5573429
   ],
   "description": "A Roman road built in the third century A.D. under the emperor Diocletian that ran along the limes Arabicus of the eastern Roman empire.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.216613238,
-          33.950417325
+          37.2148985479,
+          33.9506648268
         ]
       },
       "properties": {

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Brownhart Law",
+  "id": "949375107",
+  "bbox": [
+    -2.332338,
+    55.380283,
+    -2.332338,
+    55.380283
+  ],
+  "description": "A Roman fortlet in Scotland was previously interpreted as a signal station.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.332338,
+          55.380283
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.332338,
+          55.380283
+        ]
+      },
+      "id": "canmore-location-brownhart-law",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Brownhart Law",
+        "link": "http://pleiades.stoa.org/places/949375107/canmore-location-brownhart-law"
+      }
+    }
+  ]
+}

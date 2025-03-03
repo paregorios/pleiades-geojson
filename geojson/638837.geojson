@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Eurymedon, T.",
+  "title": "Aksu - Zindan Mağarası Sanctuary",
   "id": "638837",
   "bbox": [
-    31.127989,
-    37.823352,
-    31.127989,
-    37.823352
+    31.0845675,
+    37.8119089,
+    31.0845675,
+    37.8119089
   ],
-  "description": "An ancient place, cited: BAtlas 65 F2 Eurymedon, T.",
+  "description": "An ancient sanctuary complex, incorporating a cave known today as Zindan Mağarası, which overlooks a bend in the river Aksu (locally Zindan Deresi; a tributary of the Eurymedon) in Turkey's Isparta province. Archaeological and epigraphic evidence demonstrate human activity from the Hellenistic to the Seljuk period, with the dedication of a temple to the Vigenon Mother of the Gods during the reign of Marcus Aurelius. A Roman-era bridge and road section has also been identified as part of the complex, which was probably associated with the nearby city of Timbriada. The sanctuary also honored the god Eurymedon. A Christian monastery succeeded the sanctuary, spoliating its buildings for construction material.",
   "names": [
-    "Eurymedon, T."
+    "Zindan Mağarası",
+    "Eurymedon"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.127989,
-          37.823352
+          31.0845675,
+          37.8119089
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.127989,
-          37.823352
+          31.0845675,
+          37.8119089
         ]
       },
-      "id": "darmc-location-15698",
+      "id": "osm-location-zindan-maaarasa-cave-mouth",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15698",
-        "link": "http://pleiades.stoa.org/places/638837/darmc-location-15698"
+        "title": "OSM Location: Zindan Mağarası (cave mouth)",
+        "link": "http://pleiades.stoa.org/places/638837/osm-location-zindan-maaarasa-cave-mouth"
       }
     }
   ]

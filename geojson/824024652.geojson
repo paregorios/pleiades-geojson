@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kirkland",
+  "id": "824024652",
+  "bbox": [
+    -3.8799922,
+    55.190778,
+    -3.8799922,
+    55.190778
+  ],
+  "description": "A Roman fortlet in Scotland discovered from the air by the RCAHMS in 1989.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8799922,
+          55.190778
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8799922,
+          55.190778
+        ]
+      },
+      "id": "canmore-location-kirkland",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Kirkland",
+        "link": "http://pleiades.stoa.org/places/824024652/canmore-location-kirkland"
+      }
+    }
+  ]
+}

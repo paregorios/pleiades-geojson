@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanquhar",
+  "id": "466253099",
+  "bbox": [
+    -3.9339675,
+    55.373953,
+    -3.9339675,
+    55.373953
+  ],
+  "description": "Roman fortlet on the Antonine Wall, Scotland",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9339675,
+          55.373953
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9339675,
+          55.373953
+        ]
+      },
+      "id": "canmore-location-sanquhar",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Sanquhar",
+        "link": "http://pleiades.stoa.org/places/466253099/canmore-location-sanquhar"
+      }
+    }
+  ]
+}

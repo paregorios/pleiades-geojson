@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wandel",
+  "id": "606033360",
+  "bbox": [
+    -3.6737803,
+    55.523578,
+    -3.6737803,
+    55.523578
+  ],
+  "description": "A Roman fortlet on the Antonine Wall, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6737803,
+          55.523578
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6737803,
+          55.523578
+        ]
+      },
+      "id": "canmore-location-wandel",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Wandel",
+        "link": "http://pleiades.stoa.org/places/606033360/canmore-location-wandel"
+      }
+    }
+  ]
+}

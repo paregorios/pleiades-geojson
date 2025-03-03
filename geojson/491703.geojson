@@ -3,12 +3,12 @@
   "title": "Pydna",
   "id": "491703",
   "bbox": [
-    22.6158167,
-    40.3968397,
-    22.6176762,
-    40.397888
+    22.60375,
+    40.384466,
+    22.620567,
+    40.409828
   ],
-  "description": "An ancient settlement and seaport in Macedonia, located south of modern Makrigialos.",
+  "description": "An ancient settlement and seaport in Macedonia, located south of modern Makrigialos. According to Apollodorus, the population was relocated to a new, inland site by Archelaos (see Pydna/Kitron), but it is clear that this original, coastal site was reoccupied.",
   "connectsWith": [
     "196789404",
     "668537581",
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.6167701197,
-          40.3973652855
+          22.6149909099,
+          40.3975687841
         ]
       },
       "properties": {
@@ -99,6 +99,55 @@
         "location_precision": "precise",
         "title": "OSM location of Ancient Pydna",
         "link": "http://pleiades.stoa.org/places/491703/osm-location-of-ancient-pydna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              22.607354,
+              40.409828
+            ],
+            [
+              22.60375,
+              40.408782
+            ],
+            [
+              22.603922,
+              40.406429
+            ],
+            [
+              22.61439,
+              40.384466
+            ],
+            [
+              22.620052,
+              40.385381
+            ],
+            [
+              22.620567,
+              40.398194
+            ],
+            [
+              22.611129,
+              40.409436
+            ],
+            [
+              22.607354,
+              40.409828
+            ]
+          ]
+        ]
+      },
+      "id": "cfl-ago-location-archaia-pydna",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CFL/AGO Location: Archaia Pydna",
+        "link": "http://pleiades.stoa.org/places/491703/cfl-ago-location-archaia-pydna"
       }
     }
   ]

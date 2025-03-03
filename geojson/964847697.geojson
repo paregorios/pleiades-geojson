@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Moat of Lochrutton",
+  "id": "964847697",
+  "bbox": [
+    -3.726964,
+    55.047599,
+    -3.726964,
+    55.047599
+  ],
+  "description": "An earthwork that strongly suggests the remains of a Roman fortlet near Lochrutton, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.726964,
+          55.047599
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.726964,
+          55.047599
+        ]
+      },
+      "id": "canmore-location-moat-of-lochrutton",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location:  Moat Of Lochrutton",
+        "link": "http://pleiades.stoa.org/places/964847697/canmore-location-moat-of-lochrutton"
+      }
+    }
+  ]
+}

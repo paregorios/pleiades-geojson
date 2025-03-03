@@ -3,10 +3,10 @@
   "title": "Khirbet el-Kithara",
   "id": "746761",
   "bbox": [
-    35.1449,
-    29.554087,
-    35.1449,
-    29.554087
+    35.1333881,
+    29.5435886,
+    35.1339491,
+    29.543969
   ],
   "description": "An ancient place, cited: BAtlas 76 G2 Khirbet el-Kithara",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.1449,
-          29.554087
+          35.1336773259,
+          29.543777053
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.1449,
-          29.554087
+          [
+            35.1333881,
+            29.543969
+          ],
+          [
+            35.1335636,
+            29.5436061
+          ],
+          [
+            35.1339491,
+            29.5435886
+          ],
+          [
+            35.1338715,
+            29.5438964
+          ],
+          [
+            35.1333881,
+            29.543969
+          ]
         ]
       },
-      "id": "darmc-location-17101",
+      "id": "osm-location-of-castrum-khirbet-el-kithara",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17101",
-        "link": "http://pleiades.stoa.org/places/746761/darmc-location-17101"
+        "title": "OSM location of Castrum Khirbet el-Kithara",
+        "link": "http://pleiades.stoa.org/places/746761/osm-location-of-castrum-khirbet-el-kithara"
       }
     }
   ]

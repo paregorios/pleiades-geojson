@@ -3,9 +3,9 @@
   "title": "Via Valeria",
   "id": "770901484",
   "bbox": [
-    12.896194,
-    42.018193,
-    13.703,
+    12.79818,
+    41.963602,
+    13.7058243,
     42.099531
   ],
   "description": "An ancient road from Rome to Corfinium.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6257,
-          42.05903
+          13.25127115,
+          42.02924455
         ]
       },
       "properties": {

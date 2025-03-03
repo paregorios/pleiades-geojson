@@ -3,29 +3,21 @@
   "title": "İstanbul",
   "id": "77402394",
   "bbox": [
-    28.5,
-    41.0,
-    29.0,
-    41.5
+    28.9758715,
+    41.006381,
+    28.9758715,
+    41.006381
   ],
-  "description": "A place from the TAVO Index",
+  "description": "Istanbul is Turkey's largest city, straddling the boundary between Europe and Asia.",
+  "connectsWith": [
+    "520998"
+  ],
   "names": [
     "İstanbul",
     "İstanbul",
     "İslambol",
     "Istanbūl",
-    "Byzantion",
-    "bznt",
-    "Ḳusṭanṭiniye",
-    "Istanbul",
-    "Quṣtanṭīnīya",
-    "al-Qustantīnīya",
-    "Quṣṭanṭīnīya",
-    "Kōnstantinoupolis",
-    "Konstantinoúpolis",
-    "Qosṭanṭiniye",
-    "Konstantinoupolis",
-    "Konstantinopel"
+    "Istanbul"
   ],
   "features": [
     {
@@ -33,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.75,
-          41.25
+          28.9758715,
+          41.006381
         ]
       },
       "properties": {
@@ -43,39 +35,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              28.5,
-              41.0
-            ],
-            [
-              28.5,
-              41.5
-            ],
-            [
-              29.0,
-              41.5
-            ],
-            [
-              29.0,
-              41.0
-            ],
-            [
-              28.5,
-              41.0
-            ]
-          ]
+          28.9758715,
+          41.006381
         ]
       },
-      "id": "gane-location-30033",
+      "id": "osm-location-of-istanbul",
       "type": "Feature",
       "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 30033",
-        "link": "http://pleiades.stoa.org/places/77402394/gane-location-30033"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Istanbul",
+        "link": "http://pleiades.stoa.org/places/77402394/osm-location-of-istanbul"
       }
     }
   ]

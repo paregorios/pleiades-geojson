@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lantonside",
+  "id": "586023943",
+  "bbox": [
+    -3.5474115,
+    54.97986,
+    -3.5474115,
+    54.97986
+  ],
+  "description": "A Roman fortlet of Antonine period in Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5474115,
+          54.97986
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5474115,
+          54.97986
+        ]
+      },
+      "id": "canmore-location-lantonside",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Lantonside",
+        "link": "http://pleiades.stoa.org/places/586023943/canmore-location-lantonside"
+      }
+    }
+  ]
+}

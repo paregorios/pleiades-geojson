@@ -3,10 +3,10 @@
   "title": "Monterfil II at Corseul ",
   "id": "76617563",
   "bbox": [
-    -2.1658756,
-    48.4811028,
-    -2.1658756,
-    48.4811028
+    -2.1670734,
+    48.4810699,
+    -2.1657388,
+    48.481622
   ],
   "description": "Remains of the commercial quarter of the Gallo-Roman settlement.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1658756,
-          48.4811028
+          -2.16643093273,
+          48.4813053526
         ]
       },
       "properties": {

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Trapeza/Koumari temple (Achaia)",
+  "id": "741077609",
+  "bbox": [
+    22.0299425,
+    38.2197076,
+    22.0299425,
+    38.2197076
+  ],
+  "description": "A temple in the Doric order that begins in the sixth century BCE and continues in use until the Hellenistic period. The temple may be associated with ancient Rhypai, at Trapeza near Koumari, Aigio, Achaia.",
+  "connectsWith": [
+    "570647"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0299425,
+          38.2197076
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0299425,
+          38.2197076
+        ]
+      },
+      "id": "osm-location-of-trapeza-koumari-temple-achaia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Trapeza/Koumari temple (Achaia)",
+        "link": "http://pleiades.stoa.org/places/741077609/osm-location-of-trapeza-koumari-temple-achaia"
+      }
+    }
+  ]
+}

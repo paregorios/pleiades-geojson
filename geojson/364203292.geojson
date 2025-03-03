@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bankhead",
+  "id": "364203292",
+  "bbox": [
+    -3.9794349,
+    55.385916,
+    -3.9794349,
+    55.385916
+  ],
+  "description": "Roman fortlet on the Antonine Wall, Scotland",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9794349,
+          55.385916
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9794349,
+          55.385916
+        ]
+      },
+      "id": "canmore-location-bankhead",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Bankhead",
+        "link": "http://pleiades.stoa.org/places/364203292/canmore-location-bankhead"
+      }
+    }
+  ]
+}

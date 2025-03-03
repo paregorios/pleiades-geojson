@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Redshaw Burn",
+  "id": "187731642",
+  "bbox": [
+    -3.5336077,
+    55.410116,
+    -3.5336077,
+    55.410116
+  ],
+  "description": "A Roman fortlet on the Antonine Wall, Scotland.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5336077,
+          55.410116
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5336077,
+          55.410116
+        ]
+      },
+      "id": "canmore-location-redshaw-burn",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Canmore Location: Redshaw Burn",
+        "link": "http://pleiades.stoa.org/places/187731642/canmore-location-redshaw-burn"
+      }
+    }
+  ]
+}

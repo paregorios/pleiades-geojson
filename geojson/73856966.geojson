@@ -3,10 +3,10 @@
   "title": "\"The Great Basilica\" at Butrint ",
   "id": "73856966",
   "bbox": [
-    20.023088,
-    39.746482,
-    20.023088,
-    39.746482
+    20.0228872,
+    39.7463347,
+    20.0232651,
+    39.74654
   ],
   "description": "The so-called \"Great Basilica\" is an early Christian basilica dating to the sixth century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.023088,
-          39.746482
+          20.0230857831,
+          39.7464493317
         ]
       },
       "properties": {
@@ -28,19 +28,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.023088,
-          39.746482
+          [
+            20.0229091,
+            39.7465375
+          ],
+          [
+            20.0228872,
+            39.7464023
+          ],
+          [
+            20.0231371,
+            39.7463784
+          ],
+          [
+            20.0231312,
+            39.746342
+          ],
+          [
+            20.0232074,
+            39.7463347
+          ],
+          [
+            20.0232165,
+            39.7463994
+          ],
+          [
+            20.0232322,
+            39.7463999
+          ],
+          [
+            20.0232508,
+            39.7464077
+          ],
+          [
+            20.0232612,
+            39.7464218
+          ],
+          [
+            20.0232651,
+            39.7464332
+          ],
+          [
+            20.0232631,
+            39.7464478
+          ],
+          [
+            20.0232507,
+            39.7464591
+          ],
+          [
+            20.0232329,
+            39.7464672
+          ],
+          [
+            20.0232444,
+            39.7465318
+          ],
+          [
+            20.0231663,
+            39.74654
+          ],
+          [
+            20.023162,
+            39.7465133
+          ],
+          [
+            20.0229091,
+            39.7465375
+          ]
         ]
       },
-      "id": "approximate-centerpoint-visible-remains-of-the-great-basilica-at-butrint",
+      "id": "osm-location-of-great-basilica",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates obtained by eye in Google Earth in September 2012 at an eye altitude of 94m. Dates follow www.butrint.org",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Approximate Centerpoint: Visible Remains of \"The Great Basilica\" at Butrint ",
-        "link": "http://pleiades.stoa.org/places/73856966/approximate-centerpoint-visible-remains-of-the-great-basilica-at-butrint"
+        "title": "OSM location of Great Basilica",
+        "link": "http://pleiades.stoa.org/places/73856966/osm-location-of-great-basilica"
       }
     }
   ]

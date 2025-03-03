@@ -3,8 +3,8 @@
   "title": "Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
   "id": "781303640",
   "bbox": [
-    56.745,
-    23.26986,
+    56.744707,
+    23.2693571,
     56.745,
     23.26986
   ],
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.745,
-          23.26986
+          56.7448535,
+          23.26960855
         ]
       },
       "properties": {
@@ -27,17 +27,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          56.744707,
+          23.2693571
+        ]
+      },
+      "id": "osm-location-of-bat-archaeological-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bat Archaeological Site",
+        "link": "http://pleiades.stoa.org/places/781303640/osm-location-of-bat-archaeological-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           56.745,
           23.26986
         ]
       },
-      "id": "location-of-archaeological-sites-of-bat-al-khutm-and-al-ayn",
+      "id": "imagery-location-of-archaeological-sites-of-bat-al-khutm-and-al-ayn",
       "type": "Feature",
       "properties": {
         "description": "coordinates and chronology after UNESCO.",
         "location_precision": "precise",
-        "title": "location of Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
-        "link": "http://pleiades.stoa.org/places/781303640/location-of-archaeological-sites-of-bat-al-khutm-and-al-ayn"
+        "title": "Imagery location of Archaeological Sites of Bat, Al-Khutm and Al-Ayn",
+        "link": "http://pleiades.stoa.org/places/781303640/imagery-location-of-archaeological-sites-of-bat-al-khutm-and-al-ayn"
       }
     }
   ]

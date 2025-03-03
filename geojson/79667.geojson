@@ -3,10 +3,10 @@
   "title": "Salinae",
   "id": "79667",
   "bbox": [
-    -2.447117,
-    53.198794,
-    -2.447117,
-    53.198794
+    -2.4495507,
+    53.1977828,
+    -2.4458815,
+    53.2000708
   ],
   "description": "Salinae is a Romano-British site of ca. 20 ha located at the confluence of the Dane and Croco rivers, some 30 km east of Chester. The site was occupied by the late first century A.D. and remained in use until the fourth century. The Roman road from Lancaster to Littlechester formed the main north-south street axis of the site.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.447117,
-          53.198794
+          -2.44732814259,
+          53.1988894089
         ]
       },
       "properties": {
@@ -41,6 +41,153 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/79667/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.4495507,
+            53.1987645
+          ],
+          [
+            -2.448272,
+            53.1978101
+          ],
+          [
+            -2.4482103,
+            53.1977828
+          ],
+          [
+            -2.4481563,
+            53.1977931
+          ],
+          [
+            -2.4480916,
+            53.1978054
+          ],
+          [
+            -2.4478683,
+            53.1978479
+          ],
+          [
+            -2.4473292,
+            53.1980102
+          ],
+          [
+            -2.4458815,
+            53.1985693
+          ],
+          [
+            -2.4459016,
+            53.1986545
+          ],
+          [
+            -2.4460813,
+            53.1987549
+          ],
+          [
+            -2.4466989,
+            53.1994578
+          ],
+          [
+            -2.4466882,
+            53.1995518
+          ],
+          [
+            -2.4463247,
+            53.1996756
+          ],
+          [
+            -2.4461021,
+            53.1999302
+          ],
+          [
+            -2.4460912,
+            53.2000042
+          ],
+          [
+            -2.4461919,
+            53.2000572
+          ],
+          [
+            -2.4462617,
+            53.2000708
+          ],
+          [
+            -2.4463985,
+            53.2000475
+          ],
+          [
+            -2.446491,
+            53.2000387
+          ],
+          [
+            -2.4468008,
+            53.2000475
+          ],
+          [
+            -2.4470047,
+            53.2000146
+          ],
+          [
+            -2.4471093,
+            53.1999688
+          ],
+          [
+            -2.4472018,
+            53.1999077
+          ],
+          [
+            -2.4472541,
+            53.1998282
+          ],
+          [
+            -2.4472525,
+            53.1997153
+          ],
+          [
+            -2.4476489,
+            53.1995966
+          ],
+          [
+            -2.4483992,
+            53.1996602
+          ],
+          [
+            -2.4486115,
+            53.199622
+          ],
+          [
+            -2.44893,
+            53.1994397
+          ],
+          [
+            -2.4491919,
+            53.1992659
+          ],
+          [
+            -2.4492161,
+            53.1990377
+          ],
+          [
+            -2.4494307,
+            53.1989156
+          ],
+          [
+            -2.4495507,
+            53.1987645
+          ]
+        ]
+      },
+      "id": "osm-location-of-king-street-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of King Street Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79667/osm-location-of-king-street-roman-fort"
       }
     }
   ]
