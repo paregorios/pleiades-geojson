@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khirbat al-Mudayna",
+  "id": "751681994",
+  "bbox": [
+    35.9077486,
+    31.5888011,
+    35.9082463,
+    31.5892238
+  ],
+  "description": "A small Moabite sanctuary within a walled-in enclosure was discovered on the Wadi ath-Thamad in Jordan.",
+  "names": [
+    "Khirbat al-Mudayna"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.90799745,
+          31.58901245
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9078957,
+            31.5892238
+          ],
+          [
+            35.9077486,
+            31.5889274
+          ],
+          [
+            35.9080992,
+            31.5888011
+          ],
+          [
+            35.9082463,
+            31.5890975
+          ],
+          [
+            35.9078957,
+            31.5892238
+          ]
+        ]
+      },
+      "id": "osm-location-of-khirbat-al-mudayna-building-149",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Khirbat al-Mudayna, Building 149",
+        "link": "http://pleiades.stoa.org/places/751681994/osm-location-of-khirbat-al-mudayna-building-149"
+      }
+    }
+  ]
+}

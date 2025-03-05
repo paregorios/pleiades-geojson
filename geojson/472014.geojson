@@ -4,11 +4,11 @@
   "id": "472014",
   "bbox": [
     8.196389,
-    38.8643516,
+    38.8590846,
     9.747191,
     41.2411793
   ],
-  "description": "The second largest island in the Mediterranean Sea",
+  "description": "Sardinia is the second-largest island in the Mediterranean Sea.",
   "connectsWith": [
     "981548",
     "472127",
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.03289309468,
-          39.9660308588
+          9.01186060523,
+          39.9720338205
         ]
       },
       "properties": {

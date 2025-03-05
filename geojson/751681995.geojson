@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "title": "Prosymna tholos",
+  "id": "751681995",
+  "bbox": [
+    22.7697182,
+    37.6959006,
+    22.770003,
+    37.6960392
+  ],
+  "description": "A Mycenaean tholos tomb.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7698652654,
+          37.6959680906
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.7699952,
+            37.6959772
+          ],
+          [
+            22.7700018,
+            37.6959896
+          ],
+          [
+            22.770003,
+            37.6960029
+          ],
+          [
+            22.7699986,
+            37.6960159
+          ],
+          [
+            22.7699892,
+            37.696027
+          ],
+          [
+            22.7699756,
+            37.6960351
+          ],
+          [
+            22.7699596,
+            37.6960392
+          ],
+          [
+            22.7699428,
+            37.696039
+          ],
+          [
+            22.7699269,
+            37.6960345
+          ],
+          [
+            22.7699138,
+            37.6960262
+          ],
+          [
+            22.7699047,
+            37.6960149
+          ],
+          [
+            22.7699008,
+            37.696002
+          ],
+          [
+            22.7698015,
+            37.6959669
+          ],
+          [
+            22.7697182,
+            37.6959397
+          ],
+          [
+            22.7697443,
+            37.6959006
+          ],
+          [
+            22.7699207,
+            37.6959668
+          ],
+          [
+            22.7699356,
+            37.6959606
+          ],
+          [
+            22.7699523,
+            37.6959584
+          ],
+          [
+            22.769969,
+            37.6959608
+          ],
+          [
+            22.7699839,
+            37.6959672
+          ],
+          [
+            22.7699952,
+            37.6959772
+          ]
+        ]
+      },
+      "id": "osm-location-of-prosymna-tholos-tomb",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Prosymna Tholos Tomb",
+        "link": "http://pleiades.stoa.org/places/751681995/osm-location-of-prosymna-tholos-tomb"
+      }
+    }
+  ]
+}

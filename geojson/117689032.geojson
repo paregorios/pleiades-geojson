@@ -3,12 +3,12 @@
   "title": "Library of Pergamum",
   "id": "117689032",
   "bbox": [
-    27.1838138889,
-    39.1321361111,
-    27.1838138889,
-    39.1321361111
+    27.1839723,
+    39.1322192,
+    27.1839723,
+    39.1322192
   ],
-  "description": "The Library of Pergamum was constructed by the Attalid ruler Eumenes ll on the acropolis of the city of Pergamon between 197 and 159 BCE to house a vast collection of literary and philosophical works. ",
+  "description": "The Attalid ruler Eumenes ll built the Library of Pergamum on the acropolis of the city of Pergamon between 197 and 159 BCE to house a vast collection of literary and philosophical works.",
   "connectsWith": [
     "550812"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.1838138889,
-          39.1321361111
+          27.1839723,
+          39.1322192
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.18381388888889,
-          39.13213611111111
+          27.1839723,
+          39.1322192
         ]
       },
-      "id": "library-of-pergamum",
+      "id": "osm-location-of-library-of-pergamon",
       "type": "Feature",
       "properties": {
-        "description": "Representative location of the Library of Pergamum, derived from Google Earth satellite imagery compared with published architectural plans.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Library of Pergamum",
-        "link": "http://pleiades.stoa.org/places/117689032/library-of-pergamum"
+        "title": "OSM location of Library of Pergamon",
+        "link": "http://pleiades.stoa.org/places/117689032/osm-location-of-library-of-pergamon"
       }
     }
   ]

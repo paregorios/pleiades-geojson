@@ -3,10 +3,10 @@
   "title": "Cadmea",
   "id": "239936126",
   "bbox": [
-    23.3167,
-    38.3194,
-    23.3167,
-    38.3194
+    23.3175549,
+    38.3204325,
+    23.3178986,
+    38.3210263
   ],
   "description": "The acropolis / fortress of Thebes. The fortress was destroyed by Alexander the Great in 335 B.C. and later rebuilt by Cassander in 316 B.C.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.3167,
-          38.3194
+          23.3177300277,
+          38.3207252122
         ]
       },
       "properties": {
@@ -31,19 +31,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.3167,
-          38.3194
+          [
+            23.3175566,
+            38.3209647
+          ],
+          [
+            23.3175549,
+            38.3204332
+          ],
+          [
+            23.317893,
+            38.3204325
+          ],
+          [
+            23.3178986,
+            38.3204609
+          ],
+          [
+            23.3178948,
+            38.3210259
+          ],
+          [
+            23.3176844,
+            38.3210263
+          ],
+          [
+            23.3176843,
+            38.3209644
+          ],
+          [
+            23.3175566,
+            38.3209647
+          ]
         ]
       },
-      "id": "geohack-location-of-cadmea",
+      "id": "osm-location-of-ii-ii1-4iui1i-i1-2",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on GeoHack",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "GeoHack location of Cadmea",
-        "link": "http://pleiades.stoa.org/places/239936126/geohack-location-of-cadmea"
+        "title": "OSM location of Κάδμειον",
+        "link": "http://pleiades.stoa.org/places/239936126/osm-location-of-ii-ii1-4iui1i-i1-2"
       }
     }
   ]

@@ -3,20 +3,20 @@
   "title": "Akra",
   "id": "59666",
   "bbox": [
-    70.0,
-    30.0,
-    75.0,
-    35.0
+    70.632381,
+    32.876347,
+    70.636867,
+    32.878238
   ],
-  "description": "An ancient place, cited: BAtlas 6 C3 Akra",
+  "description": "A significant ancient settlement located in the modern Bannu district of Pakistan's Khyber Pakhtunkhwa province. The site, comprising several settlement mounds, is divided by a stream known as the Lohra nullah.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.5,
-          32.5
+          70.634624,
+          32.8772925
         ]
       },
       "properties": {
@@ -25,39 +25,36 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              70.0,
-              30.0
-            ],
-            [
-              70.0,
-              35.0
-            ],
-            [
-              75.0,
-              35.0
-            ],
-            [
-              75.0,
-              30.0
-            ],
-            [
-              70.0,
-              30.0
-            ]
-          ]
+          70.636867,
+          32.876347
         ]
       },
-      "id": "batlas-location",
+      "id": "approximate-location-akra-area-a",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59666/batlas-location"
+        "description": "Centerpoint of visible mounded area to east of Lohra nullah, found with reference to Magee 2005, Figure 5, page 722. General dates after Magee 2005, page 727.",
+        "location_precision": "precise",
+        "title": "Approximate Location: Akra Area A",
+        "link": "http://pleiades.stoa.org/places/59666/approximate-location-akra-area-a"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.632381,
+          32.878238
+        ]
+      },
+      "id": "approximate-location-akra-area-b",
+      "type": "Feature",
+      "properties": {
+        "description": "Centerpoint of visible mounded area to west of Lohra nullah, found with reference to Magee 2005, Figure 5, page 722. General dates after Magee 2005, page 727.",
+        "location_precision": "precise",
+        "title": "Approximate Location: Akra Area B",
+        "link": "http://pleiades.stoa.org/places/59666/approximate-location-akra-area-b"
       }
     }
   ]
