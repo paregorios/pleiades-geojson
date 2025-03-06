@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Theater of Jableh",
+  "id": "158138406",
+  "bbox": [
+    35.92386,
+    35.3613035,
+    35.9250133,
+    35.3620311
+  ],
+  "description": "A Roman theater located at Gabala (Syria).",
+  "connectsWith": [
+    "668250"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9244252403,
+          35.3616886617
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.9250133,
+            35.3618285
+          ],
+          [
+            35.9249811,
+            35.361671
+          ],
+          [
+            35.9248792,
+            35.3615748
+          ],
+          [
+            35.924847,
+            35.3614566
+          ],
+          [
+            35.9242677,
+            35.3613035
+          ],
+          [
+            35.9240799,
+            35.361356
+          ],
+          [
+            35.9240156,
+            35.3615223
+          ],
+          [
+            35.9238975,
+            35.3617585
+          ],
+          [
+            35.92386,
+            35.3618897
+          ],
+          [
+            35.9241067,
+            35.3619072
+          ],
+          [
+            35.9242514,
+            35.3620311
+          ],
+          [
+            35.9249651,
+            35.3618854
+          ],
+          [
+            35.9250133,
+            35.3618285
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-theatre-of-jableh",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Theatre of Jableh",
+        "link": "http://pleiades.stoa.org/places/158138406/osm-location-of-roman-theatre-of-jableh"
+      }
+    }
+  ]
+}

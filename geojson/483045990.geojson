@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Principalis Dextra, Tulln",
+  "id": "483045990",
+  "bbox": [
+    16.0573356,
+    48.3330934,
+    16.0575399,
+    48.3333198
+  ],
+  "description": "The Porta Principalis Dextra of the Roman fortification at Tulln, known in antiquity as Comagena.",
+  "connectsWith": [
+    "128385"
+  ],
+  "names": [
+    "Porta Principalis Dextra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0574377297,
+          48.3332065863
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.0573356,
+            48.3333058
+          ],
+          [
+            16.0574987,
+            48.3333198
+          ],
+          [
+            16.0575399,
+            48.3331074
+          ],
+          [
+            16.0573767,
+            48.3330934
+          ],
+          [
+            16.0573356,
+            48.3333058
+          ]
+        ]
+      },
+      "id": "osm-location-of-porta-principalis-dextra",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Porta principalis dextra",
+        "link": "http://pleiades.stoa.org/places/483045990/osm-location-of-porta-principalis-dextra"
+      }
+    }
+  ]
+}

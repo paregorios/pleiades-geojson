@@ -4,40 +4,27 @@
   "id": "177667",
   "bbox": [
     8.5420294,
-    47.492486,
-    8.554194,
+    47.4939072,
+    8.542497,
     47.494021
   ],
-  "description": "An ancient place, cited: BAtlas 18 F2 Winkel-Seeb",
+  "description": "A \"villa rustica\" located at Seeb is situated near the village of Winkel, canton of Zurich, Switzerland. By the first century CE, the villa included a thermal bath.",
+  "names": [
+    "Römischer Gutshof Seeb",
+    "Winkel-Seeb"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.54624013333,
-          47.4934714
+          8.5422632,
+          47.4939641
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.554194,
-          47.492486
-        ]
-      },
-      "id": "darmc-location-27671",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 27671",
-        "link": "http://pleiades.stoa.org/places/177667/darmc-location-27671"
       }
     },
     {

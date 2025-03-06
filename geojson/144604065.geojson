@@ -3,10 +3,10 @@
   "title": "Nuraghe Nuraddeo",
   "id": "144604065",
   "bbox": [
-    8.579722,
-    40.324166,
-    8.579722,
-    40.324166
+    8.5794918,
+    40.3239141,
+    8.5804161,
+    40.3247257
   ],
   "description": "A Middle Bronze Age nuragic site with a central tower standing ca. 14 m. tall near Suni, Sardinia.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.579722,
-          40.324166
+          8.5799671413,
+          40.3242835419
         ]
       },
       "properties": {
@@ -28,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.579722,
-          40.324166
+          [
+            8.5803863,
+            40.3239916
+          ],
+          [
+            8.5804161,
+            40.3245352
+          ],
+          [
+            8.5798003,
+            40.3247257
+          ],
+          [
+            8.5796608,
+            40.3246234
+          ],
+          [
+            8.5796394,
+            40.3245253
+          ],
+          [
+            8.579575,
+            40.3243576
+          ],
+          [
+            8.5794918,
+            40.3241838
+          ],
+          [
+            8.5794999,
+            40.3240713
+          ],
+          [
+            8.579524,
+            40.3239957
+          ],
+          [
+            8.5795589,
+            40.3239466
+          ],
+          [
+            8.5797493,
+            40.323965
+          ],
+          [
+            8.5797802,
+            40.323924
+          ],
+          [
+            8.5797922,
+            40.3239171
+          ],
+          [
+            8.579808,
+            40.3239141
+          ],
+          [
+            8.5798428,
+            40.3239179
+          ],
+          [
+            8.579869,
+            40.3239317
+          ],
+          [
+            8.5801168,
+            40.3240284
+          ],
+          [
+            8.5802536,
+            40.3240161
+          ],
+          [
+            8.5803072,
+            40.3239629
+          ],
+          [
+            8.5803863,
+            40.3239916
+          ]
         ]
       },
-      "id": "location-of-nuraghe-nuraddeo",
+      "id": "osm-location-of-suni-area-del-nuraddeo",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after Wikimapia; verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Nuraghe Nuraddeo",
-        "link": "http://pleiades.stoa.org/places/144604065/location-of-nuraghe-nuraddeo"
+        "title": "OSM location of Suni, area del Nuraddeo",
+        "link": "http://pleiades.stoa.org/places/144604065/osm-location-of-suni-area-del-nuraddeo"
       }
     }
   ]

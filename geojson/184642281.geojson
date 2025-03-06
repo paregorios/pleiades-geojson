@@ -3,10 +3,10 @@
   "title": "Theater at Pausilipum",
   "id": "184642281",
   "bbox": [
-    14.1844491,
-    40.7945743,
-    14.1844491,
-    40.7945743
+    14.1840554,
+    40.7929259,
+    14.1866609,
+    40.7948851
   ],
   "description": "A small Roman theater with a capacity of approximately 2,000 spectators.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.1844491,
-          40.7945743
+          14.1853504968,
+          40.7939494697
         ]
       },
       "properties": {
