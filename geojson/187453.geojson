@@ -9,6 +9,9 @@
     48.0
   ],
   "description": "An ancient place, cited: BAtlas 19 A2 Lentienses",
+  "connectsWith": [
+    "187324"
+  ],
   "names": [
     "Lentienses"
   ],

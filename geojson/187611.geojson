@@ -9,6 +9,9 @@
     48.0
   ],
   "description": "An ancient place, cited: BAtlas 19 B2 Vennon(et)es",
+  "connectsWith": [
+    "187324"
+  ],
   "names": [
     "Vennonetes",
     "Vennones"
