@@ -4,8 +4,8 @@
   "id": "524616090",
   "bbox": [
     12.48333,
-    41.891775,
-    12.486137,
+    41.9,
+    12.48333,
     41.9
   ],
   "description": "The Temple of Quirinus was located near the Capitolium Vetus. The temple was built ex manubiis by Lucius Papirius Cursor in 293 B.C., fulfilling the vow made by his father in 325 B.C. Tradition holds that the republican-period temple was sited on an even earlier altar dedicated by the Sabines. The topography and location of the temple are both matters of significant debate.",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4847335,
-          41.8958875
+          12.48333,
+          41.9
         ]
       },
       "properties": {

@@ -3,9 +3,9 @@
   "title": "Roman theater, Tipasa",
   "id": "20698830",
   "bbox": [
-    2.4420599,
-    36.5929343,
-    2.4420599,
+    2.4411641,
+    36.5923679,
+    2.4421404,
     36.5929343
   ],
   "description": "The Roman theater at Tipasa.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4420599,
-          36.5929343
+          2.44168600108,
+          36.5926527833
         ]
       },
       "properties": {

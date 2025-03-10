@@ -3,10 +3,10 @@
   "title": "Aedes Salus",
   "id": "377055053",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.48333,
+    41.9,
+    12.48333,
+    41.9
   ],
   "description": "While consul in 311 BCE, Caius Iunius Bubulcus Brutus vowed the temple of Salus; he would later dedicate it as dictator in 302 BCE. While no physical remains of the temple are known, textual and epigraphic testimony suggest that it would have been located near the present-day Piazza del Quirinale.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.48333,
+          41.9
         ]
       },
       "properties": {

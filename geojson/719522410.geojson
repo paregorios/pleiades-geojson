@@ -3,10 +3,10 @@
   "title": "Roman theater at Tusculum",
   "id": "719522410",
   "bbox": [
-    12.7104449,
-    41.7984393,
-    12.7104449,
-    41.7984393
+    12.7104494,
+    41.7981928,
+    12.7106357,
+    41.7984626
   ],
   "description": "The Roman theater at Tusculum was first excavated in 1839.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7104449,
-          41.7984393
+          12.7105315712,
+          41.798331215
         ]
       },
       "properties": {

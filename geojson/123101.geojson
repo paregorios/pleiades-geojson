@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Menosgada",
   "id": "123101",
+  "bbox": [
+    11.0235663,
+    50.0927625,
+    11.0235663,
+    50.0927625
+  ],
   "description": "An ancient place, cited: BAtlas 12 unlocated Menosgada",
   "names": [
     "Menosgada"
@@ -9,20 +15,32 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0235663,
+          50.0927625
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0235663,
+          50.0927625
+        ]
+      },
+      "id": "osm-location-of-staffelberg",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/123101/batlas-location"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Staffelberg",
+        "link": "http://pleiades.stoa.org/places/123101/osm-location-of-staffelberg"
       }
     }
   ]

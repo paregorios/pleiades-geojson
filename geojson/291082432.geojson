@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "title": "Église Saint-Vincent de Marimbault",
+  "id": "291082432",
+  "bbox": [
+    -0.268815,
+    44.4108612,
+    -0.268533,
+    44.4110349
+  ],
+  "description": "A 12th-century CE church thought to have been built on the site of a Gallo-Roman villa. It is located in the modern French commune of Marimbault (Gironde).",
+  "connectsWith": [
+    "140577"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.268667019323,
+          44.4109525951
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2686602,
+            44.4109038
+          ],
+          [
+            -0.2686478,
+            44.4109007
+          ],
+          [
+            -0.2686585,
+            44.4108736
+          ],
+          [
+            -0.2686095,
+            44.4108612
+          ],
+          [
+            -0.2685899,
+            44.4109029
+          ],
+          [
+            -0.2685763,
+            44.4109012
+          ],
+          [
+            -0.2685614,
+            44.4109031
+          ],
+          [
+            -0.2685483,
+            44.4109083
+          ],
+          [
+            -0.2685384,
+            44.4109167
+          ],
+          [
+            -0.2685331,
+            44.4109268
+          ],
+          [
+            -0.268533,
+            44.4109378
+          ],
+          [
+            -0.268538,
+            44.4109479
+          ],
+          [
+            -0.2685476,
+            44.4109564
+          ],
+          [
+            -0.2685608,
+            44.410962
+          ],
+          [
+            -0.2686019,
+            44.4109717
+          ],
+          [
+            -0.2685857,
+            44.4110147
+          ],
+          [
+            -0.2686625,
+            44.4110349
+          ],
+          [
+            -0.2686862,
+            44.4109906
+          ],
+          [
+            -0.2687593,
+            44.411008
+          ],
+          [
+            -0.26877,
+            44.4109887
+          ],
+          [
+            -0.2688,
+            44.4109942
+          ],
+          [
+            -0.268815,
+            44.4109567
+          ],
+          [
+            -0.2687861,
+            44.4109471
+          ],
+          [
+            -0.2687898,
+            44.410936
+          ],
+          [
+            -0.2686602,
+            44.4109038
+          ]
+        ]
+      },
+      "id": "osm-location-aglise-saint-vincent",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Église Saint-Vincent",
+        "link": "http://pleiades.stoa.org/places/291082432/osm-location-aglise-saint-vincent"
+      }
+    }
+  ]
+}

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Lupercal",
   "id": "565793497",
+  "bbox": [
+    12.4871093,
+    41.8893064,
+    12.4871093,
+    41.8893064
+  ],
   "description": "A cave located at the foot of the Palatine Hill in Rome in which the she-wolf was said to have been found suckling the twins, Romulus and Remus.",
   "connectsWith": [
     "298699921",
@@ -14,7 +20,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4871093,
+          41.8893064
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

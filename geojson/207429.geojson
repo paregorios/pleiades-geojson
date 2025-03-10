@@ -9,6 +9,9 @@
     46.3446047
   ],
   "description": "A river of Central Europe and a right tributary of the Danube.",
+  "connectsWith": [
+    "226577"
+  ],
   "names": [
     "Savus"
   ],

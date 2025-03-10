@@ -3,12 +3,12 @@
   "title": "Mostene",
   "id": "550752",
   "bbox": [
-    27.5,
-    38.0,
-    28.0,
-    38.5
+    27.5437397,
+    38.510416,
+    27.550919,
+    38.560451
   ],
-  "description": "An ancient place, cited: BAtlas 56 F5 Mostene",
+  "description": "An ancient city of Lydia in Asia Minor is attested in literature and by coinage and inscriptions found at multiple locations. Its precise location is not known. BAtlas tentatively placed it (with a hollow symbol) \"near [modern] Sancaklıbozköy\". NPauly summarizes suggestions more broadly: \"the eastern foot of Mount Sipylus near modern Çobanisa or Sancaklıboz or to the south of Thyateira or c. 40 km to the east of Magnesia [3] (modern Asartepe near Urganlı)\"",
   "names": [
     "Mostene"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.75,
-          38.25
+          27.54732935,
+          38.5354335
         ]
       },
       "properties": {
@@ -28,39 +28,36 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              27.5,
-              38.0
-            ],
-            [
-              27.5,
-              38.5
-            ],
-            [
-              28.0,
-              38.5
-            ],
-            [
-              28.0,
-              38.0
-            ],
-            [
-              27.5,
-              38.0
-            ]
-          ]
+          27.5437397,
+          38.510416
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-modern-sancakla-bozkapy",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/550752/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Sancaklı Bozköy",
+        "link": "http://pleiades.stoa.org/places/550752/osm-location-modern-sancakla-bozkapy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.550919,
+          38.560451
+        ]
+      },
+      "id": "osm-location-modern-yukara-aobanisa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Yukarı Çobanisa",
+        "link": "http://pleiades.stoa.org/places/550752/osm-location-modern-yukara-aobanisa"
       }
     }
   ]
