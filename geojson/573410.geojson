@@ -3,6 +3,9 @@
   "title": "Onkeion",
   "id": "573410",
   "description": "An ancient place, cited: BAtlas 58 unlocated Onkeion (1)",
+  "connectsWith": [
+    "573396"
+  ],
   "names": [
     "Onkeion"
   ],

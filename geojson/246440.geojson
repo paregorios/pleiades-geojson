@@ -3,10 +3,10 @@
   "title": "Indigetes",
   "id": "246440",
   "bbox": [
-    2.9395425,
-    42.3085422,
-    2.9395425,
-    42.3085422
+    2.4457855,
+    42.0934892,
+    3.1247146,
+    42.3565425
   ],
   "description": "A pre-Roman, Iberian people known primarily through their coinage, which bears the inscription \"UNTIKESKEN\" (q.v.). They seem to have occupied an area in the northeast of the Iberian peninsula, included the coastal area between the Muga and Fluvià rivers.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9395425,
-          42.3085422
+          2.78403818515,
+          42.2372814066
         ]
       },
       "properties": {
