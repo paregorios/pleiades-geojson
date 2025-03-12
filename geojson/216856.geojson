@@ -3,10 +3,10 @@
   "title": "Jidava",
   "id": "216856",
   "bbox": [
-    25.028506,
-    45.263762,
-    25.028506,
-    45.263762
+    25.0116399,
+    45.2200577,
+    25.0133043,
+    45.2214688
   ],
   "description": "An ancient place, cited: BAtlas 22 C3 Jidava",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.028506,
-          45.263762
+          25.0124720889,
+          45.2207632289
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          25.028506,
-          45.263762
+          [
+            25.0116399,
+            45.220269
+          ],
+          [
+            25.0120462,
+            45.2214688
+          ],
+          [
+            25.0133043,
+            45.2212574
+          ],
+          [
+            25.012898,
+            45.2200577
+          ],
+          [
+            25.0116399,
+            45.220269
+          ]
         ]
       },
-      "id": "darmc-location-7844",
+      "id": "osm-location-of-castra-jidava",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7844",
-        "link": "http://pleiades.stoa.org/places/216856/darmc-location-7844"
+        "title": "OSM location of Castra Jidava",
+        "link": "http://pleiades.stoa.org/places/216856/osm-location-of-castra-jidava"
       }
     }
   ]

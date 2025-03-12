@@ -5,10 +5,13 @@
   "bbox": [
     25.128306,
     43.64822,
-    25.128908,
-    43.6519
+    25.1319292,
+    43.6528466
   ],
   "description": "An ancient place, cited: BAtlas 22 C5 Dimum",
+  "connectsWith": [
+    "226577"
+  ],
   "names": [
     "Dimum",
     "Dimenses"
@@ -19,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.128607,
-          43.65006
+          25.129414575,
+          43.6508176273
         ]
       },
       "properties": {
@@ -38,7 +41,7 @@
       "id": "darmc-location-24331",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 24331",
         "link": "http://pleiades.stoa.org/places/216790/darmc-location-24331"
@@ -59,6 +62,57 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/216790/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.1299439,
+            43.6522021
+          ],
+          [
+            25.1300827,
+            43.6528466
+          ],
+          [
+            25.1319292,
+            43.6526384
+          ],
+          [
+            25.1317381,
+            43.6517516
+          ],
+          [
+            25.1313835,
+            43.6516866
+          ],
+          [
+            25.1315009,
+            43.6522313
+          ],
+          [
+            25.1313321,
+            43.6522503
+          ],
+          [
+            25.131289,
+            43.6520504
+          ],
+          [
+            25.1299439,
+            43.6522021
+          ]
+        ]
+      },
+      "id": "osm-location-of-dimum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Dimum",
+        "link": "http://pleiades.stoa.org/places/216790/osm-location-of-dimum"
       }
     }
   ]

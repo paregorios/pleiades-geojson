@@ -3,10 +3,10 @@
   "title": "Limes Transalutanus",
   "id": "221217",
   "bbox": [
-    24.0,
-    44.0,
-    25.0,
-    45.0
+    24.848115,
+    43.701274,
+    25.040112,
+    44.781459
   ],
   "description": "The Limes Transalutanus was a frontier system of the Roman empire located in the province of Dacia.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.5,
-          44.5
+          24.9441135,
+          44.2413665
         ]
       },
       "properties": {

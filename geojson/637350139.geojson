@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Colle Oliva",
+  "id": "637350139",
+  "bbox": [
+    12.626873,
+    41.7954396,
+    12.6279952,
+    41.7966122
+  ],
+  "description": "A Roman villa rustica in use from the middle Republican period until the 4th century A.D.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6274873976,
+          41.7960055501
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6278064,
+            41.795622
+          ],
+          [
+            12.6275983,
+            41.7954396
+          ],
+          [
+            12.626873,
+            41.7958699
+          ],
+          [
+            12.6274373,
+            41.7962971
+          ],
+          [
+            12.6277892,
+            41.7966122
+          ],
+          [
+            12.6279952,
+            41.7964826
+          ],
+          [
+            12.6273923,
+            41.7958859
+          ],
+          [
+            12.6278064,
+            41.795622
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-di-marco-valerio-messalla",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of villa di Marco Valerio Messalla Corvino",
+        "link": "http://pleiades.stoa.org/places/637350139/osm-location-of-villa-di-marco-valerio-messalla"
+      }
+    }
+  ]
+}

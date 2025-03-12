@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chalcidicum",
+  "id": "809771016",
+  "description": "Augustus uses the generic term Chalcidicum to describe a porch he built as an approach to the Curia Iulia.",
+  "connectsWith": [
+    "423025",
+    "837078212",
+    "502866838"
+  ],
+  "names": [
+    "Chalcidicum",
+    "Athenaion",
+    "Chalkidikon"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

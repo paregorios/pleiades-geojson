@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman theater of Philippopolis",
+  "id": "229714163",
+  "bbox": [
+    24.7507357,
+    42.1467242,
+    24.7517055,
+    42.1471922
+  ],
+  "description": "The Roman theater in Plovdiv, Bulgaria.",
+  "connectsWith": [
+    "216927"
+  ],
+  "names": [
+    "Plovdiv Roman theatre"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7512225563,
+          42.1469356368
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7507357,
+            42.1468673
+          ],
+          [
+            24.7507591,
+            42.1469347
+          ],
+          [
+            24.7507936,
+            42.1470111
+          ],
+          [
+            24.7508442,
+            42.1470776
+          ],
+          [
+            24.7509024,
+            42.1471217
+          ],
+          [
+            24.7509453,
+            42.1471496
+          ],
+          [
+            24.7510149,
+            42.1471681
+          ],
+          [
+            24.7511256,
+            42.147189
+          ],
+          [
+            24.7512426,
+            42.1471922
+          ],
+          [
+            24.7513273,
+            42.1471786
+          ],
+          [
+            24.7513796,
+            42.1471694
+          ],
+          [
+            24.7515001,
+            42.1471183
+          ],
+          [
+            24.7515748,
+            42.1470643
+          ],
+          [
+            24.7516282,
+            42.1470084
+          ],
+          [
+            24.7516716,
+            42.1469427
+          ],
+          [
+            24.7517055,
+            42.1467697
+          ],
+          [
+            24.7515332,
+            42.1467975
+          ],
+          [
+            24.7513479,
+            42.1468124
+          ],
+          [
+            24.75134,
+            42.146765
+          ],
+          [
+            24.7513106,
+            42.1467699
+          ],
+          [
+            24.7512935,
+            42.1467242
+          ],
+          [
+            24.7509414,
+            42.1467396
+          ],
+          [
+            24.750923,
+            42.1467927
+          ],
+          [
+            24.7508683,
+            42.1467952
+          ],
+          [
+            24.7508692,
+            42.1468662
+          ],
+          [
+            24.7507357,
+            42.1468673
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-theatre-of-philippopolis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman theatre of Philippopolis",
+        "link": "http://pleiades.stoa.org/places/229714163/osm-location-of-roman-theatre-of-philippopolis"
+      }
+    }
+  ]
+}

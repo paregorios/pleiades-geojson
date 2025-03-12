@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ayn-Manawir Temple",
+  "id": "556470727",
+  "bbox": [
+    30.676117952,
+    24.574305383,
+    30.6767881487,
+    24.5746695339
+  ],
+  "description": "Temple dedicated to Osiris located 3km west of the modern village of Dush.",
+  "names": [
+    "Temple d'Ayn Manawir",
+    "Ayn-Manawir Temple"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6764522318,
+          24.5744890697
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.67617712345433,
+              24.57430538304177
+            ],
+            [
+              30.67611795199228,
+              24.57458025814564
+            ],
+            [
+              30.67673119784036,
+              24.57466953391087
+            ],
+            [
+              30.67678814874671,
+              24.57440183607308
+            ],
+            [
+              30.67617712345433,
+              24.57430538304177
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-ayn-manawir-temple",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of Ayn-Manawir Temple",
+        "location_precision": "precise",
+        "title": "Imagery Location: Ayn-Manawir Temple",
+        "link": "http://pleiades.stoa.org/places/556470727/imagery-location-ayn-manawir-temple"
+      }
+    }
+  ]
+}

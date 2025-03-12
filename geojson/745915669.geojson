@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Velletri-Stimmate",
+  "id": "745915669",
+  "bbox": [
+    12.773991,
+    41.6853383,
+    12.7743692,
+    41.6854944
+  ],
+  "description": "At Velletri the remains of a Late Archaic sanctuary (ca. 530 BCE) were discovered beneath the church of the SS. Stimmate di S. Francesco. The site is often referred to as \"Tempio delle Stimmate\"; Cardinal Stefano Borgia discovered it in 1784. The architectural terracottas from the sanctuary are part of the so-called \"Veio-Roma-Velletri\" decorative system.",
+  "connectsWith": [
+    "423117"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7741729899,
+          41.6854245724
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7739937,
+            41.6854645
+          ],
+          [
+            12.7742159,
+            41.6854944
+          ],
+          [
+            12.7742347,
+            41.6854723
+          ],
+          [
+            12.7743312,
+            41.6854944
+          ],
+          [
+            12.7743692,
+            41.6854044
+          ],
+          [
+            12.7740473,
+            41.6853383
+          ],
+          [
+            12.773991,
+            41.6853804
+          ],
+          [
+            12.7739937,
+            41.6854645
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-tempio-delle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area Archeologica Tempio delle Stimmate",
+        "link": "http://pleiades.stoa.org/places/745915669/osm-location-of-area-archeologica-tempio-delle"
+      }
+    }
+  ]
+}

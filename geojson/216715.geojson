@@ -3,12 +3,15 @@
   "title": "Asamus",
   "id": "216715",
   "bbox": [
-    24.852159,
-    43.632956,
-    24.852159,
-    43.632956
+    24.8500698,
+    43.6931232,
+    24.852561,
+    43.6959281
   ],
   "description": "An ancient place, cited: BAtlas 22 B5 Asamus",
+  "connectsWith": [
+    "216716"
+  ],
   "names": [
     "Asamus"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.852159,
-          43.632956
+          24.8513067929,
+          43.6945466138
         ]
       },
       "properties": {
@@ -28,19 +31,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          24.852159,
-          43.632956
+          [
+            24.8500925,
+            43.6943513
+          ],
+          [
+            24.8504422,
+            43.6940744
+          ],
+          [
+            24.8509918,
+            43.6934965
+          ],
+          [
+            24.8514247,
+            43.6931232
+          ],
+          [
+            24.8517735,
+            43.6934644
+          ],
+          [
+            24.852561,
+            43.6937523
+          ],
+          [
+            24.8522933,
+            43.6942405
+          ],
+          [
+            24.852206,
+            43.6947497
+          ],
+          [
+            24.8520721,
+            43.6953683
+          ],
+          [
+            24.8516123,
+            43.6959281
+          ],
+          [
+            24.8510942,
+            43.6957345
+          ],
+          [
+            24.8503608,
+            43.6955325
+          ],
+          [
+            24.8500931,
+            43.6951453
+          ],
+          [
+            24.8500698,
+            43.6950064
+          ],
+          [
+            24.8500925,
+            43.6943513
+          ]
         ]
       },
-      "id": "darmc-location-24211",
+      "id": "osm-location-of-asamus-fortress",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24211",
-        "link": "http://pleiades.stoa.org/places/216715/darmc-location-24211"
+        "title": "OSM location of Asamus fortress",
+        "link": "http://pleiades.stoa.org/places/216715/osm-location-of-asamus-fortress"
       }
     }
   ]

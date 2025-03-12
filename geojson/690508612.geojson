@@ -5,7 +5,7 @@
   "bbox": [
     12.3384718,
     42.021338,
-    12.413467,
+    12.416853,
     42.557237
   ],
   "description": "A Roman road begun ca. 241 B.C. that connected Veii and Ameria.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3692775733,
-          42.2678992667
+          12.3605890451,
+          42.2771438431
         ]
       },
       "properties": {

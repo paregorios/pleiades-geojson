@@ -4,9 +4,9 @@
   "id": "321318358",
   "bbox": [
     32.599093,
-    25.7198222222,
-    32.6006719574,
-    25.7202066
+    25.7181191,
+    32.6028751,
+    25.7213516
   ],
   "description": "The New Kingdom mortuary temple of Ramesses III at Medinet Habu, on the West bank of the Nile near Luxor.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5998824787,
-          25.7200144111
+          32.6010440034,
+          25.7196500569
         ]
       },
       "properties": {
@@ -33,37 +33,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          32.599093,
-          25.7202066
+          [
+            32.599093,
+            25.7202066
+          ],
+          [
+            32.601163,
+            25.7181191
+          ],
+          [
+            32.6015682,
+            25.7184307
+          ],
+          [
+            32.6017005,
+            25.7183189
+          ],
+          [
+            32.6020291,
+            25.7185797
+          ],
+          [
+            32.602068,
+            25.7186106
+          ],
+          [
+            32.6022731,
+            25.7183587
+          ],
+          [
+            32.6025892,
+            25.7185868
+          ],
+          [
+            32.602349,
+            25.718872
+          ],
+          [
+            32.6028751,
+            25.7193031
+          ],
+          [
+            32.6024162,
+            25.7197257
+          ],
+          [
+            32.600534,
+            25.7213516
+          ],
+          [
+            32.6000205,
+            25.7209526
+          ],
+          [
+            32.599937,
+            25.7210162
+          ],
+          [
+            32.5995969,
+            25.7207618
+          ],
+          [
+            32.5996675,
+            25.7206866
+          ],
+          [
+            32.599093,
+            25.7202066
+          ]
         ]
       },
-      "id": "northwest-corner-of-mortuary-temple-of-ramesses-iii",
+      "id": "osm-location-of-medinet-habu",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Northwest Corner of Mortuary Temple of Ramesses III",
-        "link": "http://pleiades.stoa.org/places/321318358/northwest-corner-of-mortuary-temple-of-ramesses-iii"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.60067195737604,
-          25.71982222222222,
-          80.80506411125747
-        ]
-      },
-      "id": "location_of_medinet-habu",
-      "type": "Feature",
-      "properties": {
-        "description": "The mortuary temple of Ramesses III at Medinet Habu.",
-        "location_precision": "precise",
-        "title": "Location of Medinet Habu",
-        "link": "http://pleiades.stoa.org/places/321318358/location_of_medinet-habu"
+        "title": "OSM location of Medinet Habu",
+        "link": "http://pleiades.stoa.org/places/321318358/osm-location-of-medinet-habu"
       }
     }
   ]

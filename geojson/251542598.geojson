@@ -3,10 +3,10 @@
   "title": "Monastery of Saint John the Theologian",
   "id": "251542598",
   "bbox": [
-    26.5472911,
-    37.3091209,
-    26.5472911,
-    37.3091209
+    26.5471958,
+    37.3087592,
+    26.5479847,
+    37.3093538
   ],
   "description": "The Monastery of Saint John the Theologian (also known as the Monastery of Saint John the Divine) is a Greek Orthodox monastery dating to AD 1088 on the island of Patmos.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.5472911,
-          37.3091209
+          26.5476093429,
+          37.3090580578
         ]
       },
       "properties": {

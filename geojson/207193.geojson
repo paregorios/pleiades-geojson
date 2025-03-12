@@ -3,10 +3,10 @@
   "title": "Iustiniana Prima",
   "id": "207193",
   "bbox": [
-    21.660388,
-    42.960472,
-    21.660388,
-    42.960472
+    21.6702513,
+    42.9521504,
+    21.6702513,
+    42.9521504
   ],
   "description": "An ancient place, cited: BAtlas 21 D7 Iustiniana Prima",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.660388,
-          42.960472
+          21.6702513,
+          42.9521504
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.660388,
-          42.960472
+          21.6702513,
+          42.9521504
         ]
       },
-      "id": "darmc-location-12907",
+      "id": "osm-location-of-justiniana-prima",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12907",
-        "link": "http://pleiades.stoa.org/places/207193/darmc-location-12907"
+        "title": "OSM location of Justiniana Prima",
+        "link": "http://pleiades.stoa.org/places/207193/osm-location-of-justiniana-prima"
       }
     }
   ]

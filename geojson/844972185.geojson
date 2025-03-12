@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Montu",
+  "id": "844972185",
+  "bbox": [
+    32.5437603484,
+    25.6214515123,
+    32.5450720448,
+    25.6228934457
+  ],
+  "description": "Egyptian temple dedicated to the god Montou in Armant, built and enlarged from the Middle Kingdom to the Roman period.",
+  "connectsWith": [
+    "786036"
+  ],
+  "names": [
+    "Temple of Montu",
+    "Temple de Montou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5444072754,
+          25.6221647026
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.5444737790822,
+              25.62145151226449
+            ],
+            [
+              32.54376034840536,
+              25.62264188388941
+            ],
+            [
+              32.54429954433551,
+              25.62289344570199
+            ],
+            [
+              32.54507204479896,
+              25.62170267987189
+            ],
+            [
+              32.5444737790822,
+              25.62145151226449
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-temple-of-montu",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of Armant temple",
+        "location_precision": "precise",
+        "title": " Imagery Location: Temple of Montu",
+        "link": "http://pleiades.stoa.org/places/844972185/imagery-location-temple-of-montu"
+      }
+    }
+  ]
+}

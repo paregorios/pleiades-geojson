@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Skeleton",
+  "id": "67912717",
+  "bbox": [
+    14.3466167,
+    40.8060705,
+    14.3469315,
+    40.8063326
+  ],
+  "description": "The so-called \"The House of the Skeleton\" at Herculaneum is a Roman domus that owes its name to the discovery of a human skeleton during excavations. Carlo Bonucci initially explored it between 1830 and 1831. Amedeo Maiuri completed the excavation in 1927.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Casa dello Scheletro"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3467852612,
+          40.8062023852
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3468454,
+            40.8063326
+          ],
+          [
+            14.3466167,
+            40.8062228
+          ],
+          [
+            14.3466812,
+            40.8061369
+          ],
+          [
+            14.3467355,
+            40.8060705
+          ],
+          [
+            14.3467909,
+            40.8060953
+          ],
+          [
+            14.3468792,
+            40.8061338
+          ],
+          [
+            14.3469014,
+            40.8061439
+          ],
+          [
+            14.3468608,
+            40.8061956
+          ],
+          [
+            14.3469315,
+            40.806226
+          ],
+          [
+            14.3468454,
+            40.8063326
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-the-skeleton",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Skeleton",
+        "link": "http://pleiades.stoa.org/places/67912717/osm-location-of-house-of-the-skeleton"
+      }
+    }
+  ]
+}

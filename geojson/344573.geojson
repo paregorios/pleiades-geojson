@@ -3,10 +3,10 @@
   "title": "Zliten",
   "id": "344573",
   "bbox": [
-    14.571072,
-    32.473033,
-    14.571072,
-    32.473033
+    14.5579002,
+    32.4980578,
+    14.5586283,
+    32.4985818
   ],
   "description": "A coastal villa known especially for its polychrome gladiatorial mosaics was excavated at Dar Buk-Ammarah, located on the coast some 4.5 km to the north of Zliten, Libya.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.571072,
-          32.473033
+          14.558264247,
+          32.4983198244
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.571072,
-          32.473033
+          [
+            14.5586283,
+            32.4983977
+          ],
+          [
+            14.5584753,
+            32.4980578
+          ],
+          [
+            14.5579002,
+            32.498242
+          ],
+          [
+            14.5580531,
+            32.4985818
+          ],
+          [
+            14.5586283,
+            32.4983977
+          ]
         ]
       },
-      "id": "darmc-location-17678",
+      "id": "osm-location-of-villa-dar-buc-ammera",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17678",
-        "link": "http://pleiades.stoa.org/places/344573/darmc-location-17678"
+        "title": "OSM location of Villa Dar Buc Ammera",
+        "link": "http://pleiades.stoa.org/places/344573/osm-location-of-villa-dar-buc-ammera"
       }
     }
   ]

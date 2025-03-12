@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Odeon of Philippopolis",
+  "id": "229782807",
+  "bbox": [
+    24.7498046,
+    42.1432163,
+    24.7508853,
+    42.1438623
+  ],
+  "description": "The ancient Roman odeon in Plovdiv, Bulgaria.",
+  "connectsWith": [
+    "216927"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7502979976,
+          42.1435005033
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.750376,
+            42.1438623
+          ],
+          [
+            24.7501219,
+            42.1438431
+          ],
+          [
+            24.7501273,
+            42.143669
+          ],
+          [
+            24.7499784,
+            42.143666
+          ],
+          [
+            24.7500044,
+            42.1433667
+          ],
+          [
+            24.7498046,
+            42.1433498
+          ],
+          [
+            24.7498179,
+            42.1432683
+          ],
+          [
+            24.7500173,
+            42.1432821
+          ],
+          [
+            24.7500251,
+            42.1432163
+          ],
+          [
+            24.7506363,
+            42.1433139
+          ],
+          [
+            24.7508853,
+            42.1434524
+          ],
+          [
+            24.7505382,
+            42.1437864
+          ],
+          [
+            24.7504779,
+            42.1437549
+          ],
+          [
+            24.750376,
+            42.1438623
+          ]
+        ]
+      },
+      "id": "osm-location-of-forum-odeon",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Forum Odeon",
+        "link": "http://pleiades.stoa.org/places/229782807/osm-location-of-forum-odeon"
+      }
+    }
+  ]
+}

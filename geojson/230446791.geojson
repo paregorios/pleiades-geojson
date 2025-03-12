@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Tiles",
+  "id": "230446791",
+  "bbox": [
+    22.7181253,
+    37.5510594,
+    22.7185079,
+    37.5512836
+  ],
+  "description": "The so-called \"House of the Tiles\" at Lerna belongs to the Korakou culture in the Early Helladic II period (ca. 2500–2300 BCE). It was a monumental two-story building (12 x 25 meters) and has been interpreted as either a \"proto-palace\" or administrative center.",
+  "connectsWith": [
+    "570424"
+  ],
+  "names": [
+    "House of the Tiles"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7183166331,
+          37.5511715137
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.7181742,
+            37.5512836
+          ],
+          [
+            22.7181253,
+            37.5511233
+          ],
+          [
+            22.7184591,
+            37.5510594
+          ],
+          [
+            22.7185079,
+            37.5512198
+          ],
+          [
+            22.7181742,
+            37.5512836
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-the-tiles",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Tiles",
+        "link": "http://pleiades.stoa.org/places/230446791/osm-location-of-house-of-the-tiles"
+      }
+    }
+  ]
+}

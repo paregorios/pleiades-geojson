@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ad Malum Punicum",
+  "id": "4672323",
+  "bbox": [
+    12.4881602,
+    41.9019686,
+    12.4907386,
+    41.9034322
+  ],
+  "description": "Ad Malum Punicum describes a street on the Alta Semita in ancient Rome, likely corresponding to the modern Via delle Quattro Fontane. Vespasian owned a domus in this street and it was here that the future emperor Domitian was born.",
+  "connectsWith": [
+    "208084576",
+    "75632296",
+    "423025",
+    "125119394"
+  ],
+  "names": [
+    "ad Malum Punicum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4894412361,
+          41.9026882813
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4881602,
+            41.9034322
+          ],
+          [
+            12.4883491,
+            41.9033273
+          ],
+          [
+            12.4884178,
+            41.903262
+          ],
+          [
+            12.4893182,
+            41.9027474
+          ],
+          [
+            12.4894378,
+            41.9026818
+          ],
+          [
+            12.4896658,
+            41.9025568
+          ],
+          [
+            12.490633,
+            41.9020265
+          ],
+          [
+            12.4907386,
+            41.9019686
+          ]
+        ]
+      },
+      "id": "osm-location-of-via-delle-quattro-fontane",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Via delle Quattro Fontane",
+        "link": "http://pleiades.stoa.org/places/4672323/osm-location-of-via-delle-quattro-fontane"
+      }
+    }
+  ]
+}
