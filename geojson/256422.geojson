@@ -3,10 +3,10 @@
   "title": "S. Cucufate",
   "id": "256422",
   "bbox": [
-    -7.8461047,
-    38.223806,
-    -7.8458,
-    38.2238358
+    -7.8461735,
+    38.2224239,
+    -7.8442358,
+    38.2243095
   ],
   "description": "An ancient place, cited: BAtlas 26 C3 S. Cucufate",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.84595235,
-          38.2238209
+          -7.84550996371,
+          38.2236239788
         ]
       },
       "properties": {

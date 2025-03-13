@@ -3,10 +3,10 @@
   "title": "Knocknakilla megaliths",
   "id": "275434851",
   "bbox": [
-    -9.0240733,
-    52.0061632,
-    -9.0240733,
-    52.0061632
+    -9.0241322,
+    52.0061316,
+    -9.0241322,
+    52.0061316
   ],
   "description": "A megalithic complex located between Macroom and Millstreet, in County Cork, Ireland, and thought to have been constructed ca. 3,500 years ago.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0240733,
-          52.0061632
+          -9.0241322,
+          52.0061316
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0240733,
-          52.0061632
+          -9.0241322,
+          52.0061316
         ]
       },
       "id": "location-of-stone-circle",

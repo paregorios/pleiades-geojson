@@ -3,10 +3,10 @@
   "title": "Vigna Parrocchiale archaeological area",
   "id": "284997408",
   "bbox": [
-    12.1071587,
-    42.00412,
-    12.1071587,
-    42.00412
+    12.1060155,
+    42.0010205,
+    12.1097104,
+    42.004124
   ],
   "description": "A complex of civic and sacred buildings in the urban area of ancient Caere, including the so-called \"elliptical building\". ",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1071587,
-          42.00412
+          12.107775509,
+          42.0024847417
         ]
       },
       "properties": {

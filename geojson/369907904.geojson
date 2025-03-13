@@ -3,10 +3,10 @@
   "title": "Roman arch at Capera",
   "id": "369907904",
   "bbox": [
-    -6.1009805,
-    40.166577,
-    -6.1009805,
-    40.166577
+    -6.1009759,
+    40.1665487,
+    -6.1009759,
+    40.1665487
   ],
   "description": "A quadrifons arch at Capera.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.1009805,
-          40.166577
+          -6.1009759,
+          40.1665487
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.1009805,
-          40.166577
+          -6.1009759,
+          40.1665487
         ]
       },
       "id": "location-of-roman-arch",

@@ -3,10 +3,10 @@
   "title": "Alcántara",
   "id": "255966",
   "bbox": [
-    -6.8915053,
+    -6.8915585,
     39.7216254,
-    -6.8915053,
-    39.7216254
+    -6.8914686,
+    39.7216942
   ],
   "description": "The Roman temple of Alcántara is a well-preserved structure located at one side of the Alcántara Bridge in Extremadura (Spain). The building, dating to A.D. 103, is the work of Caius Iulius Lacer. The lintel inscription indicates the structure was dedicated to Trajan.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.8915053,
-          39.7216254
+          -6.8915135593,
+          39.7216597982
         ]
       },
       "properties": {

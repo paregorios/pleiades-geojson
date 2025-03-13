@@ -4,9 +4,9 @@
   "id": "256519",
   "bbox": [
     -4.9446568,
-    36.4958034,
-    -4.9446568,
-    36.4958034
+    36.4955511,
+    -4.9442518,
+    36.4958594
   ],
   "description": "A Roman villa with mosaic pavements located in the modern Spanish province of Malaga.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.9446568,
-          36.4958034
+          -4.94444875235,
+          36.4957176513
         ]
       },
       "properties": {

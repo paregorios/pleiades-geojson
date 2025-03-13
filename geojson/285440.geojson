@@ -3,10 +3,10 @@
   "title": "Error? (island)",
   "id": "285440",
   "bbox": [
-    10.3257769,
-    37.1813894,
-    10.3257769,
-    37.1813894
+    10.3238181,
+    37.1803573,
+    10.330927,
+    37.1829043
   ],
   "description": "An island mentioned in an Roman itinerary. It is possibly to be identified with the modern Île Plane, which is located a few kilometers off Cape Farina, Tunisia.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3257769,
-          37.1813894
+          10.3275070025,
+          37.1814368085
         ]
       },
       "properties": {

@@ -3,9 +3,9 @@
   "title": "Nuraghe Biunisi",
   "id": "260731661",
   "bbox": [
-    8.329559,
-    40.8121101,
-    8.329559,
+    8.3290756,
+    40.8114143,
+    8.3299929,
     40.8121101
   ],
   "description": "A single-tower nuraghe with a likely associated village.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.329559,
-          40.8121101
+          8.32953360281,
+          40.8117620591
         ]
       },
       "properties": {

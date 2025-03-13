@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Tema/Thema",
   "id": "260648",
+  "bbox": [
+    -5.996293,
+    37.382668,
+    -5.996293,
+    37.382668
+  ],
   "description": "An ancient place, cited: BAtlas 26 unlocated Tema/Thema",
   "connectsWith": [
     "256210"
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.996293,
+          37.382668
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
