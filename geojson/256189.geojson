@@ -3,10 +3,10 @@
   "title": "Hacienda de Manguarra y S. José",
   "id": "256189",
   "bbox": [
-    -4.643601,
-    36.73473,
-    -4.643601,
-    36.73473
+    -4.6634954,
+    36.7214472,
+    -4.6627467,
+    36.7224523
   ],
   "description": "An ancient place, cited: BAtlas 26 F5 Hacienda de Manguarra y S. José",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.643601,
-          36.73473
+          -4.66313494393,
+          36.7218940382
         ]
       },
       "properties": {
@@ -25,19 +25,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.643601,
-          36.73473
+          [
+            -4.6631953,
+            36.7224523
+          ],
+          [
+            -4.6633023,
+            36.722069
+          ],
+          [
+            -4.6634954,
+            36.7215976
+          ],
+          [
+            -4.6632279,
+            36.7215079
+          ],
+          [
+            -4.6632047,
+            36.7215406
+          ],
+          [
+            -4.6631137,
+            36.7215229
+          ],
+          [
+            -4.6630489,
+            36.7214472
+          ],
+          [
+            -4.6629683,
+            36.7215493
+          ],
+          [
+            -4.6628743,
+            36.7216802
+          ],
+          [
+            -4.6627467,
+            36.7218575
+          ],
+          [
+            -4.6631953,
+            36.7224523
+          ]
         ]
       },
-      "id": "darmc-location-20900",
+      "id": "osm-location-of-villa-de-manguarra-y-san-josa-c",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20900",
-        "link": "http://pleiades.stoa.org/places/256189/darmc-location-20900"
+        "title": "OSM location of Villa de Manguarra y San José",
+        "link": "http://pleiades.stoa.org/places/256189/osm-location-of-villa-de-manguarra-y-san-josa-c"
       }
     }
   ]

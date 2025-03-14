@@ -3,10 +3,10 @@
   "title": "Puente Mayor del Tormes",
   "id": "237851",
   "bbox": [
-    -5.67,
-    40.958,
-    -5.67,
-    40.958
+    -5.6712508,
+    40.9562921,
+    -5.6692342,
+    40.9590866
   ],
   "description": "A Roman bridge over Rio Tormes in Salamanca, Spain.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.67,
-          40.958
+          -5.6702425,
+          40.95768935
         ]
       },
       "properties": {
@@ -25,19 +25,25 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -5.67,
-          40.958
+          [
+            -5.6712508,
+            40.9562921
+          ],
+          [
+            -5.6692342,
+            40.9590866
+          ]
         ]
       },
-      "id": "location-if-bridge-at-salamantica-over-r.-tormes",
+      "id": "osm-location-of-puente-romano",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Location of bridge over R. Tormes at Salmantica",
-        "link": "http://pleiades.stoa.org/places/237851/location-if-bridge-at-salamantica-over-r.-tormes"
+        "title": "OSM location of Puente Romano",
+        "link": "http://pleiades.stoa.org/places/237851/osm-location-of-puente-romano"
       }
     }
   ]
