@@ -4,11 +4,14 @@
   "id": "256302",
   "bbox": [
     -5.084293,
-    38.82045,
-    -5.0842511,
-    38.8206658
+    38.8202856,
+    -5.0840713,
+    38.82045
   ],
   "description": "Mirobriga was a settlement located west of Almadén mentioned by Pliny the Elder.",
+  "connectsWith": [
+    "256489"
+  ],
   "names": [
     "Mirobriga",
     "Mirobriga Turdulorum"
@@ -19,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0842511,
-          38.8206658
+          -5.08418215,
+          38.8203678
         ]
       },
       "properties": {
@@ -48,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.0842511,
-          38.8206658
+          -5.0840713,
+          38.8202856
         ]
       },
       "id": "osm-location-of-capilla",

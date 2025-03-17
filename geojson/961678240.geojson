@@ -2,11 +2,26 @@
   "type": "FeatureCollection",
   "title": "Lydia/Sparda (satrapy)",
   "id": "961678240",
+  "bbox": [
+    27.184167,
+    39.1325,
+    27.184167,
+    39.1325
+  ],
   "description": "Lydia (called Sparda by the Achaemenids) was a satrapy of the Persian Empire with Sardis as its capital.",
+  "connectsWith": [
+    "753898782"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.184167,
+          39.1325
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

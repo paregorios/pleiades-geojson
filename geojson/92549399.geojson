@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Seti I",
+  "id": "92549399",
+  "bbox": [
+    32.6274717281,
+    25.7315292,
+    32.6296133126,
+    25.7334310609
+  ],
+  "description": "Temple dedicated to the cult of King Seti I located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Funerary temple of Seti I",
+    "Temple of a million years of Seti I",
+    "Temple funéraire de Séthi I",
+    "Temple des millions d'années de Séthi Ier"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6285428936,
+          25.7324944878
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.62878803389234,
+              25.73159979440757
+            ],
+            [
+              32.62747172811869,
+              25.73246694545075
+            ],
+            [
+              32.62826346487066,
+              25.73343106085813
+            ],
+            [
+              32.62961331256189,
+              25.73259808413109
+            ],
+            [
+              32.62878803389234,
+              25.73159979440757
+            ]
+          ]
+        ]
+      },
+      "id": "funerary-temple-of-seti-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Seti I",
+        "location_precision": "precise",
+        "title": "Imagery location of Funerary temple of Seti I",
+        "link": "http://pleiades.stoa.org/places/92549399/funerary-temple-of-seti-i"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6274978,
+            25.7324487
+          ],
+          [
+            32.628742,
+            25.7315292
+          ],
+          [
+            32.6293343,
+            25.7322685
+          ],
+          [
+            32.6296032,
+            25.7326041
+          ],
+          [
+            32.6289773,
+            25.7329513
+          ],
+          [
+            32.6282571,
+            25.7333492
+          ],
+          [
+            32.6274978,
+            25.7324487
+          ]
+        ]
+      },
+      "id": "osm-location-of-mortuary-temple-of-seti-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mortuary Temple of Seti I",
+        "link": "http://pleiades.stoa.org/places/92549399/osm-location-of-mortuary-temple-of-seti-i"
+      }
+    }
+  ]
+}

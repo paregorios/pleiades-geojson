@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chapel of Wadjmose",
+  "id": "336140750",
+  "bbox": [
+    32.6092048895,
+    25.7271219,
+    32.609574701,
+    25.727432791
+  ],
+  "description": "Chapel dedicated to the prince Wadjmose, son of Pharaoh Thutmose I.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Chapel of Wadjmose",
+    "Chapelle d'Ouadjmès"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.609385265,
+          25.727275666
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60946705807373,
+              25.72713066435725
+            ],
+            [
+              32.60920488947959,
+              25.72733438982882
+            ],
+            [
+              32.60930703749085,
+              25.72743279097979
+            ],
+            [
+              32.60957470103324,
+              25.72721519254874
+            ],
+            [
+              32.60946705807373,
+              25.72713066435725
+            ]
+          ]
+        ]
+      },
+      "id": "chapel-of-wadjmose-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the chapel of Wadjmose",
+        "location_precision": "precise",
+        "title": "Chapel of Wadjmose",
+        "link": "http://pleiades.stoa.org/places/336140750/chapel-of-wadjmose-1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6093153,
+            25.7274217
+          ],
+          [
+            32.6092117,
+            25.7273206
+          ],
+          [
+            32.6094505,
+            25.7271219
+          ],
+          [
+            32.6095542,
+            25.727223
+          ],
+          [
+            32.6093153,
+            25.7274217
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-of-wadjmose",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Temple of Wadjmose",
+        "link": "http://pleiades.stoa.org/places/336140750/osm-location-of-temple-of-wadjmose"
+      }
+    }
+  ]
+}

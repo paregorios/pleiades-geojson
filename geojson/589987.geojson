@@ -3,10 +3,10 @@
   "title": "Phaistos",
   "id": "589987",
   "bbox": [
-    24.814575,
-    35.051127,
-    24.814575,
-    35.051127
+    24.8131814,
+    35.0504005,
+    24.8156634,
+    35.0519011
   ],
   "description": "An ancient settlement on Crete where occupation began ca. 3000 B.C., Phaistos was a major center of the Minoan civilization and continued to be a Greek city of the first millennium B.C.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.814575,
-          35.051127
+          24.814437994,
+          35.0511892238
         ]
       },
       "properties": {
@@ -45,6 +45,133 @@
         "location_precision": "precise",
         "title": "Imagery Location: Central Court of the Palace at Phaistos",
         "link": "http://pleiades.stoa.org/places/589987/imagery-location-central-court-at-the-palace-at-phaistos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.8137904,
+            35.0518508
+          ],
+          [
+            24.8137896,
+            35.0518722
+          ],
+          [
+            24.8138484,
+            35.051863
+          ],
+          [
+            24.8138857,
+            35.0518507
+          ],
+          [
+            24.8140958,
+            35.0518074
+          ],
+          [
+            24.8145607,
+            35.0519011
+          ],
+          [
+            24.81516,
+            35.0517992
+          ],
+          [
+            24.8156634,
+            35.0515787
+          ],
+          [
+            24.8154384,
+            35.0514323
+          ],
+          [
+            24.8153284,
+            35.0513991
+          ],
+          [
+            24.8150349,
+            35.0510889
+          ],
+          [
+            24.8149638,
+            35.0510461
+          ],
+          [
+            24.8148498,
+            35.0510241
+          ],
+          [
+            24.8147814,
+            35.050967
+          ],
+          [
+            24.8147009,
+            35.0508342
+          ],
+          [
+            24.8145936,
+            35.0507793
+          ],
+          [
+            24.8143496,
+            35.0505872
+          ],
+          [
+            24.814283,
+            35.0504623
+          ],
+          [
+            24.8141846,
+            35.0504005
+          ],
+          [
+            24.8134826,
+            35.0505896
+          ],
+          [
+            24.8135441,
+            35.0507031
+          ],
+          [
+            24.8131814,
+            35.0507605
+          ],
+          [
+            24.8133904,
+            35.0515055
+          ],
+          [
+            24.8136524,
+            35.0515713
+          ],
+          [
+            24.8138247,
+            35.0516999
+          ],
+          [
+            24.813878,
+            35.051828
+          ],
+          [
+            24.8138386,
+            35.0518422
+          ],
+          [
+            24.8137904,
+            35.0518508
+          ]
+        ]
+      },
+      "id": "osm-location-of-archeological-site-of-phaistos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Archeological site of Phaistos",
+        "link": "http://pleiades.stoa.org/places/589987/osm-location-of-archeological-site-of-phaistos"
       }
     }
   ]

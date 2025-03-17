@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Ad Pirum Filumeni/Ad Pirum",
   "id": "416767",
-  "description": "An ancient place, cited: BAtlas 42 unlocated Ad Pirum (Filumeni)",
+  "description": "Ad Pirum (Filumeni) was a Roman road station located between between Metaurus fl. and Sena fl.",
+  "connectsWith": [
+    "754349602"
+  ],
   "names": [
     "Ad Pirum Filumeni",
     "Ad Pirum"

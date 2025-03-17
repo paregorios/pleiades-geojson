@@ -8,7 +8,13 @@
     23.153172,
     37.758142
   ],
-  "description": " Late Helladic III coastal settlement on the Saronic Gulf in the southeastern Corinthia",
+  "description": "Late Helladic III coastal settlement on the Saronic Gulf in the southeastern Corinthia",
+  "connectsWith": [
+    "570654"
+  ],
+  "names": [
+    "Kalamianos"
+  ],
   "features": [
     {
       "type": "Feature",

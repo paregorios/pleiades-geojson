@@ -2,11 +2,23 @@
   "type": "FeatureCollection",
   "title": "Unnamed road",
   "id": "605455781",
+  "bbox": [
+    12.73839,
+    42.745301,
+    13.096435,
+    42.794246
+  ],
   "description": "An unnamed road included in Barrington Atlas map 42",
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9174125,
+          42.7697735
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

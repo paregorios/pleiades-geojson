@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Ptah and Mertesger",
+  "id": "177256694",
+  "bbox": [
+    32.5978017,
+    25.7272664,
+    32.5988275,
+    25.7277226753
+  ],
+  "description": "Sanctuary dedicated to the god Ptah and the goddess Meretseger, located on the road linking the village of Deir el-Medina to the Valley of the Queens.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Sanctuary of Ptah and Mertesger",
+    "Sanctuaire de Ptah et Meretseger"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5984363694,
+          25.7275048449
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.59839521992438,
+              25.72735671525646
+            ],
+            [
+              32.59828084613478,
+              25.72759462004312
+            ],
+            [
+              32.59872595298499,
+              25.72772267529649
+            ],
+            [
+              32.59882392500379,
+              25.72749916357976
+            ],
+            [
+              32.59839521992438,
+              25.72735671525646
+            ]
+          ]
+        ]
+      },
+      "id": "sanctuary-of-ptah-and-mertesger-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the sanctuary of Ptah and Mertesger",
+        "location_precision": "precise",
+        "title": "Sanctuary of Ptah and Mertesger",
+        "link": "http://pleiades.stoa.org/places/177256694/sanctuary-of-ptah-and-mertesger-1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.5987498,
+            25.7277089
+          ],
+          [
+            32.5988275,
+            25.7274601
+          ],
+          [
+            32.5985833,
+            25.7273633
+          ],
+          [
+            32.5982185,
+            25.7272782
+          ],
+          [
+            32.5980296,
+            25.7272664
+          ],
+          [
+            32.5978342,
+            25.7273104
+          ],
+          [
+            32.5978017,
+            25.7274073
+          ],
+          [
+            32.5978189,
+            25.7275251
+          ],
+          [
+            32.5979157,
+            25.7275291
+          ],
+          [
+            32.5981123,
+            25.7275546
+          ],
+          [
+            32.5982985,
+            25.7275989
+          ],
+          [
+            32.5984728,
+            25.7276056
+          ],
+          [
+            32.5985547,
+            25.7276405
+          ],
+          [
+            32.5987498,
+            25.7277089
+          ]
+        ]
+      },
+      "id": "osm-location-of-shrine-of-ptah-meretzeger",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Shrine of Ptah Meretzeger",
+        "link": "http://pleiades.stoa.org/places/177256694/osm-location-of-shrine-of-ptah-meretzeger"
+      }
+    }
+  ]
+}

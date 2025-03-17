@@ -4,9 +4,9 @@
   "id": "416770",
   "bbox": [
     11.330502,
-    43.015733,
-    11.949059,
-    43.318695
+    43.016515,
+    11.9477359,
+    43.471274
   ],
   "description": "An unlocated Roman road station in Italy. As represented on the Peutinger Map, it was at least a minor hub in the road network, connected to Ad Grecos (unlocated), Arretium, Clusium, and Manliana. The Barrington Atlas Directory describes its likely general localization as \"between Saena and Clusium\".",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.7716466,
-          43.1667601
+          11.8173473,
+          43.31901705
         ]
       },
       "properties": {

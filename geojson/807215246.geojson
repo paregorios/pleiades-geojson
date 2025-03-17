@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ancient Stadium of Sikyon",
+  "id": "807215246",
+  "bbox": [
+    22.7086343,
+    37.9839123,
+    22.7102018,
+    37.9851259
+  ],
+  "description": "The ancient stadium of Sikyon.",
+  "connectsWith": [
+    "570668"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7094057052,
+          37.984491648
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.7097223,
+            37.9851259
+          ],
+          [
+            22.7102018,
+            37.9847055
+          ],
+          [
+            22.7091829,
+            37.9839732
+          ],
+          [
+            22.709073,
+            37.9839123
+          ],
+          [
+            22.7089082,
+            37.983936
+          ],
+          [
+            22.7087624,
+            37.9840056
+          ],
+          [
+            22.7086851,
+            37.984084
+          ],
+          [
+            22.7086343,
+            37.9841867
+          ],
+          [
+            22.7086873,
+            37.9843051
+          ],
+          [
+            22.7089877,
+            37.9845297
+          ],
+          [
+            22.7097223,
+            37.9851259
+          ]
+        ]
+      },
+      "id": "osm-location-of-ancient-stadium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ancient Stadium of Sikyon",
+        "link": "http://pleiades.stoa.org/places/807215246/osm-location-of-ancient-stadium"
+      }
+    }
+  ]
+}

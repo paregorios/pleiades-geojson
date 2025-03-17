@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ad Nonas",
   "id": "416769",
+  "bbox": [
+    11.288555,
+    42.407284,
+    11.288555,
+    42.407284
+  ],
   "description": "Ad Nonas is the name of a now unlocated road station near Cosa; the name is attested in the Peutinger Table.",
   "connectsWith": [
     "737328394",
@@ -14,7 +20,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.288555,
+          42.407284
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

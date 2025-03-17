@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Redones",
   "id": "283851546",
+  "bbox": [
+    -1.683395,
+    48.110829,
+    -1.680388,
+    48.111582
+  ],
   "description": "A Celtic tribe living in the area of modern Brittany counted among the civitates maritimae or Aremorica.",
   "names": [
     "Redones"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6818915,
+          48.1112055
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

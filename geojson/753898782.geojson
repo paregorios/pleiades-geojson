@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Achaemenid empire",
+  "id": "753898782",
+  "description": "The Persian or Achaemenid empire based in ancient Iran dominated West Asia and Egypt from 559 to 331 BC.",
+  "names": [
+    "Achaemenid empire",
+    "Persian Empire"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

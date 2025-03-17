@@ -9,6 +9,9 @@
     42.21667
   ],
   "description": "An ancient place, cited: BAtlas 42 D4 Farfarus fl.",
+  "connectsWith": [
+    "423080"
+  ],
   "names": [
     "Farfarus",
     "Fabaris"
