@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Great pit",
+  "id": "746584647",
+  "bbox": [
+    32.6026702583,
+    25.7288035409,
+    32.6035833206,
+    25.7295261071
+  ],
+  "description": "A great pit dug to the north-east of the village of Deir el-Medina, where hundreds of objects, particularly ostraca, were found.",
+  "connectsWith": [
+    "864388873"
+  ],
+  "names": [
+    "Great Pit",
+    "Grands puits"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6031212289,
+          25.7291640778
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60316311473809,
+              25.7288035408599
+            ],
+            [
+              32.60267025831325,
+              25.72915317405525
+            ],
+            [
+              32.60305793659016,
+              25.7295261070635
+            ],
+            [
+              32.60358332057998,
+              25.7291713656997
+            ],
+            [
+              32.60316311473809,
+              25.7288035408599
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-great-pit-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the great pit",
+        "location_precision": "precise",
+        "title": "Imagery Location: Great pit",
+        "link": "http://pleiades.stoa.org/places/746584647/imagery-location-great-pit-1"
+      }
+    }
+  ]
+}

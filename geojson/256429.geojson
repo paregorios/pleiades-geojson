@@ -3,10 +3,10 @@
   "title": "São Miguel de Mota",
   "id": "256429",
   "bbox": [
-    -7.403794,
-    38.70223,
-    -7.403794,
-    38.70223
+    -7.4435431,
+    38.6431134,
+    -7.4427478,
+    38.6437377
   ],
   "description": "Site of a temple dedicated to the Celtiberian/Lusitanian god Endovelicus.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.403794,
-          38.70223
+          -7.44314554878,
+          38.6434286586
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -7.403794,
-          38.70223
+          [
+            -7.4435431,
+            38.6435962
+          ],
+          [
+            -7.4429718,
+            38.6437377
+          ],
+          [
+            -7.4427478,
+            38.6432673
+          ],
+          [
+            -7.4433111,
+            38.6431134
+          ],
+          [
+            -7.4435431,
+            38.6435962
+          ]
         ]
       },
-      "id": "darmc-location-20646",
+      "id": "osm-location-of-santua-rio-de-endova-c-lico-de",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20646",
-        "link": "http://pleiades.stoa.org/places/256429/darmc-location-20646"
+        "title": "OSM location of Santuário de Endovélico de São Miguel da Mota",
+        "link": "http://pleiades.stoa.org/places/256429/osm-location-of-santua-rio-de-endova-c-lico-de"
       }
     }
   ]

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Amenhotep II",
+  "id": "949519860",
+  "bbox": [
+    32.6107717774,
+    25.7280769834,
+    32.612199571,
+    25.729354813
+  ],
+  "description": "Temple dedicated to the cult of King Amenhotep II located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Temple of a million years of Amenhotep II",
+    "Funerary temple of Amenhotep II",
+    "Temple funéraire d'Amenhotep II",
+    "Temple des millions d'années d'Amenhotep II"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6114802317,
+          25.7287191309
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.61153111551975,
+              25.72807698342519
+            ],
+            [
+              32.61077177735423,
+              25.72882233401924
+            ],
+            [
+              32.6114046528712,
+              25.72935481302141
+            ],
+            [
+              32.61219957097211,
+              25.72863393903966
+            ],
+            [
+              32.61153111551975,
+              25.72807698342519
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-temple-of-amenhotep-ii-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Amenhotep II",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary temple of Amenhotep II",
+        "link": "http://pleiades.stoa.org/places/949519860/imagery-location-funerary-temple-of-amenhotep-ii-1"
+      }
+    }
+  ]
+}

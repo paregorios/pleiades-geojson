@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Workmen's rest-houses",
+  "id": "711142365",
+  "bbox": [
+    32.6003848096,
+    25.7358507892,
+    32.6014364993,
+    25.7366833059
+  ],
+  "description": "Facilities built by the workers of the village of Deir el-Medina to serve as a place of rest and worship on the road linking the village of Deir el-Medina to the Valley of the Kings.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Workmen's rest-houses",
+    "Station du col",
+    "Station de repos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6009309158,
+          25.7362886067
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60050379554129,
+              25.736425800413
+            ],
+            [
+              32.60092866597049,
+              25.73668330586089
+            ],
+            [
+              32.60143649929734,
+              25.73642338905826
+            ],
+            [
+              32.60110718822864,
+              25.73585078918962
+            ],
+            [
+              32.60038480957697,
+              25.73621762920855
+            ],
+            [
+              32.60050379554129,
+              25.736425800413
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-workmens-rest-houses-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the workmen's rest-houses",
+        "location_precision": "precise",
+        "title": "Imagery Location: Workmen's rest-houses",
+        "link": "http://pleiades.stoa.org/places/711142365/imagery-location-workmens-rest-houses-1"
+      }
+    }
+  ]
+}

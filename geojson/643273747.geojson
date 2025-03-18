@@ -3,9 +3,9 @@
   "title": "Sanctuary at San Casciano dei Bagni",
   "id": "643273747",
   "bbox": [
-    11.8719733,
-    42.8711056,
-    11.8720501,
+    11.8717612,
+    42.8708705,
+    11.8722804,
     42.871179
   ],
   "description": "An ancient sanctuary located near the village of San Casciano dei Bagni, located south of Siena, Italy, has produced, following archaeological excavation, a large cache of metallic votive offerings - coins, figurines, statues, anatomical votives - dating to the late republican and early imperial periods. These votives were recovered from waterlogged mud deposits associated with the thermal springs at the site that have been frequented since at least the first millennium BCE.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8720177435,
-          42.8711347573
+          11.8720134929,
+          42.8710660715
         ]
       },
       "properties": {
@@ -63,6 +63,65 @@
         "location_precision": "precise",
         "title": "OSM location of Bagno Grande",
         "link": "http://pleiades.stoa.org/places/643273747/osm-location-of-roman-thermal-pool"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.8717643,
+            42.8711075
+          ],
+          [
+            11.8717612,
+            42.8709076
+          ],
+          [
+            11.8721471,
+            42.8708705
+          ],
+          [
+            11.8722804,
+            42.8709372
+          ],
+          [
+            11.8722708,
+            42.8710687
+          ],
+          [
+            11.8721816,
+            42.8711065
+          ],
+          [
+            11.87208,
+            42.8710722
+          ],
+          [
+            11.8719737,
+            42.8710778
+          ],
+          [
+            11.8719244,
+            42.8711181
+          ],
+          [
+            11.8718096,
+            42.8711239
+          ],
+          [
+            11.8717643,
+            42.8711075
+          ]
+        ]
+      },
+      "id": "osm-location-of-scavi-archeologici-di-san-casciano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Scavi archeologici di San Casciano dei Bagni",
+        "link": "http://pleiades.stoa.org/places/643273747/osm-location-of-scavi-archeologici-di-san-casciano"
       }
     }
   ]

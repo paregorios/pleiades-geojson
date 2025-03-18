@@ -3,10 +3,10 @@
   "title": "Dar bel Amri",
   "id": "275617",
   "bbox": [
-    -5.961523,
-    34.182659,
-    -5.961523,
-    34.182659
+    -5.9617101,
+    34.1838892,
+    -5.9599205,
+    34.1850062
   ],
   "description": "South of modern Dar bel Amri, a settlement on the east side of the upper Beht river in Morocco, there are remnants of watch tower dating to the Roman imperial period. The fort's ancient name is not known.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.961523,
-          34.182659
+          -5.9608679578,
+          34.1843559816
         ]
       },
       "properties": {
@@ -25,19 +25,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -5.961523,
-          34.182659
+          [
+            -5.9611849,
+            34.1850062
+          ],
+          [
+            -5.9615833,
+            34.1849967
+          ],
+          [
+            -5.9617101,
+            34.1839339
+          ],
+          [
+            -5.9599534,
+            34.1838892
+          ],
+          [
+            -5.9599205,
+            34.1845892
+          ],
+          [
+            -5.9611032,
+            34.1846371
+          ],
+          [
+            -5.9610907,
+            34.1848146
+          ],
+          [
+            -5.9611849,
+            34.1850062
+          ]
         ]
       },
-      "id": "akerraz-1995-location-of-qn2-dar-bel-hamri",
+      "id": "osm-location-of-dar-bel-amri",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Akerraz 1995 location of QN2 Dar bel Hamri",
-        "link": "http://pleiades.stoa.org/places/275617/akerraz-1995-location-of-qn2-dar-bel-hamri"
+        "title": "OSM location of Dar bel Amri",
+        "link": "http://pleiades.stoa.org/places/275617/osm-location-of-dar-bel-amri"
       }
     }
   ]

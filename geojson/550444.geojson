@@ -3,10 +3,10 @@
   "title": "Apollonis",
   "id": "550444",
   "bbox": [
-    27.684641,
-    38.898866,
-    27.684641,
-    38.898866
+    27.67,
+    38.913,
+    27.67,
+    38.913
   ],
   "description": "An ancient place, cited: BAtlas 56 F4 Apollonis",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.684641,
-          38.898866
+          27.67,
+          38.913
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.684641,
-          38.898866
+          27.67,
+          38.913
         ]
       },
-      "id": "darmc-location-11433",
+      "id": "imagery-location-apollonis",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 11433",
-        "link": "http://pleiades.stoa.org/places/550444/darmc-location-11433"
+        "title": "Imagery Location: Apollonis",
+        "link": "http://pleiades.stoa.org/places/550444/imagery-location-apollonis"
       }
     }
   ]

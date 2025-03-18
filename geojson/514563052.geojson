@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Thutmose IV",
+  "id": "514563052",
+  "bbox": [
+    32.6078455741,
+    25.726491028,
+    32.609303745,
+    25.7276731679
+  ],
+  "description": "Temple dedicated to the cult of King Thutmose IV located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Funerary temple of Thutmose IV",
+    "Temple of a million years of Thutmose IV",
+    "Temple funéraire de Touthmosis IV",
+    "Temple des millions d'années de Thoutmosis IV"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6085688991,
+          25.7270838427
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60874388994094,
+              25.7264910280257
+            ],
+            [
+              32.60784557409774,
+              25.72715220189793
+            ],
+            [
+              32.60836494537689,
+              25.72767316786937
+            ],
+            [
+              32.60930374495371,
+              25.72702646378448
+            ],
+            [
+              32.60874388994094,
+              25.7264910280257
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-temple-of-thutmose-iv-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Thutmose IV",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary temple of Thutmose IV",
+        "link": "http://pleiades.stoa.org/places/514563052/imagery-location-funerary-temple-of-thutmose-iv-1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Siptah and Twosret",
+  "id": "514563053",
+  "bbox": [
+    32.606875503,
+    25.7258319645,
+    32.6078456086,
+    25.72664656
+  ],
+  "description": "Temple dedicated to the cult of King Siptah and the Queen Twosret located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Funerary temple of Siptah and Twosret",
+    "Temple of a million years of Siptah and Twosret",
+    "Temple funéraire de Siptah et Taousert",
+    "Temple des millions d'années de Siptah et Taousert"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6073658197,
+          25.7262374238
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60752872405516,
+              25.72583196447763
+            ],
+            [
+              32.60687550299001,
+              25.72620666923111
+            ],
+            [
+              32.60722648729938,
+              25.72664656002223
+            ],
+            [
+              32.60784560855584,
+              25.72626294888293
+            ],
+            [
+              32.60752872405516,
+              25.72583196447763
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-temple-of-siptah-and-twosret-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Siptah and Twosret",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary temple of Siptah and Twosret",
+        "link": "http://pleiades.stoa.org/places/514563053/imagery-location-funerary-temple-of-siptah-and-twosret-1"
+      }
+    }
+  ]
+}

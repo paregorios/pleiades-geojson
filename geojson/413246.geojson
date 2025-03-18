@@ -3,10 +3,10 @@
   "title": "Pausulae",
   "id": "413246",
   "bbox": [
-    13.502355,
-    43.275392,
-    13.502355,
-    43.275392
+    13.5001341,
+    43.2743549,
+    13.5001341,
+    43.2743549
   ],
   "description": "Pausulae was a town of Picenum mentioned by Pliny the Elder. It was a Municipium of Regio V.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.502355,
-          43.275392
+          13.5001341,
+          43.2743549
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.502355,
-          43.275392
+          13.5001341,
+          43.2743549
         ]
       },
-      "id": "darmc-location-18737",
+      "id": "osm-location-of-san-claudio",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18737",
-        "link": "http://pleiades.stoa.org/places/413246/darmc-location-18737"
+        "title": "OSM location of San Claudio",
+        "link": "http://pleiades.stoa.org/places/413246/osm-location-of-san-claudio"
       }
     }
   ]

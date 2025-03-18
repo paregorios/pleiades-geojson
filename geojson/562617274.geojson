@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Ay and Horemheb",
+  "id": "562617274",
+  "bbox": [
+    32.6004569822,
+    25.720630722,
+    32.6025296648,
+    25.7222552941
+  ],
+  "description": "Temple dedicated to the cult of Kings Ay and Horemheb located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Funerary temple of Ay and Horemheb",
+    "Temple of a million years of Ay and Horemheb",
+    "Temple funéraire de Aÿ et Horemheb",
+    "Temple des millions d'années de Aÿ et Horemheb"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6015016002,
+          25.7214498185
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60203779632876,
+              25.72063072195557
+            ],
+            [
+              32.60045698218911,
+              25.72179590238036
+            ],
+            [
+              32.60095879749414,
+              25.72225529406335
+            ],
+            [
+              32.60175640679309,
+              25.72168859843312
+            ],
+            [
+              32.60252966477449,
+              25.72114198325363
+            ],
+            [
+              32.60203779632876,
+              25.72063072195557
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-temple-of-ay-and-horemheb-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Ay and Horemheb",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary temple of Ay and Horemheb",
+        "link": "http://pleiades.stoa.org/places/562617274/imagery-location-funerary-temple-of-ay-and-horemheb-1"
+      }
+    }
+  ]
+}

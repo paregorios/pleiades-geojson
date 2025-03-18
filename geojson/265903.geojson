@@ -3,10 +3,10 @@
   "title": "Fuente de las Piedras",
   "id": "265903",
   "bbox": [
-    -4.425933,
-    37.474391,
-    -4.425933,
-    37.474391
+    -4.4592281,
+    37.4882182,
+    -4.4588906,
+    37.48854
   ],
   "description": "An ancient place, cited: BAtlas 27 A4 Fuente de las Piedras",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.425933,
-          37.474391
+          -4.45906001186,
+          37.4883786695
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.425933,
-          37.474391
+          [
+            -4.4592281,
+            37.4883716
+          ],
+          [
+            -4.4589843,
+            37.48854
+          ],
+          [
+            -4.4588906,
+            37.4883843
+          ],
+          [
+            -4.4591403,
+            37.4882182
+          ],
+          [
+            -4.4592281,
+            37.4883716
+          ]
         ]
       },
-      "id": "darmc-location-20878",
+      "id": "osm-location-of-villa-del-mitra",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20878",
-        "link": "http://pleiades.stoa.org/places/265903/darmc-location-20878"
+        "title": "OSM location of Villa del Mitra",
+        "link": "http://pleiades.stoa.org/places/265903/osm-location-of-villa-del-mitra"
       }
     }
   ]

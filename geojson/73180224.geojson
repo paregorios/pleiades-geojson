@@ -3,10 +3,10 @@
   "title": "Ekklesiasterion at Poseidonia/Paestum",
   "id": "73180224",
   "bbox": [
-    15.0061875,
-    40.423345,
-    15.0061875,
-    40.423345
+    15.0061019,
+    40.4230918,
+    15.0063535,
+    40.4232823
   ],
   "description": "The seat of the popular assembly of Poseidonia/Paestum, the Ekklesiasterion was built ca. 480-470 B.C. and could accommodate, at most, 1,700 persons. The structure retained its function after the Lucanian conquest but was abandoned, buried, and built over after the Roman conquest.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0061875,
-          40.423345
+          15.0062277381,
+          40.4231870938
         ]
       },
       "properties": {
@@ -28,19 +28,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.0061875,
-          40.423345
+          [
+            15.0061046,
+            40.4232069
+          ],
+          [
+            15.0061019,
+            40.4231845
+          ],
+          [
+            15.0061061,
+            40.4231623
+          ],
+          [
+            15.0061171,
+            40.4231414
+          ],
+          [
+            15.0061341,
+            40.423123
+          ],
+          [
+            15.0061563,
+            40.4231082
+          ],
+          [
+            15.0061824,
+            40.4230977
+          ],
+          [
+            15.0062043,
+            40.4230934
+          ],
+          [
+            15.0062111,
+            40.4230921
+          ],
+          [
+            15.0062406,
+            40.4230918
+          ],
+          [
+            15.0062694,
+            40.4230967
+          ],
+          [
+            15.0062959,
+            40.4231065
+          ],
+          [
+            15.0063187,
+            40.4231209
+          ],
+          [
+            15.0063365,
+            40.4231388
+          ],
+          [
+            15.0063483,
+            40.4231594
+          ],
+          [
+            15.0063535,
+            40.4231828
+          ],
+          [
+            15.0063511,
+            40.4232065
+          ],
+          [
+            15.006341,
+            40.4232289
+          ],
+          [
+            15.0063241,
+            40.4232488
+          ],
+          [
+            15.0063012,
+            40.423265
+          ],
+          [
+            15.0062738,
+            40.4232763
+          ],
+          [
+            15.0062436,
+            40.4232822
+          ],
+          [
+            15.0062124,
+            40.4232823
+          ],
+          [
+            15.0061822,
+            40.4232765
+          ],
+          [
+            15.0061548,
+            40.4232652
+          ],
+          [
+            15.0061318,
+            40.4232492
+          ],
+          [
+            15.0061147,
+            40.4232293
+          ],
+          [
+            15.0061046,
+            40.4232069
+          ]
         ]
       },
-      "id": "location-of-ekklesiasterion",
+      "id": "osm-location-ekklesiasterion",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of ekklesiasterion",
-        "link": "http://pleiades.stoa.org/places/73180224/location-of-ekklesiasterion"
+        "title": "OSM location: Ekklesiasterion",
+        "link": "http://pleiades.stoa.org/places/73180224/osm-location-ekklesiasterion"
       }
     }
   ]

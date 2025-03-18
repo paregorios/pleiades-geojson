@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary temple of Thutmose III",
+  "id": "4316625",
+  "bbox": [
+    32.6123408624,
+    25.7293108626,
+    32.6142068596,
+    25.7308158592
+  ],
+  "description": "Temple dedicated to the cult of King Thutmose III located on the west bank of Thebes.",
+  "connectsWith": [
+    "836839127"
+  ],
+  "names": [
+    "Funerary temple of Thutmose III",
+    "Temple of a million years of Thutmose III",
+    "Temple funéraire de Touthmosis III",
+    "Temple des millions d'années de Thoutmosis III"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6132715108,
+          25.7300614426
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.61363284371462,
+              25.72931086263777
+            ],
+            [
+              32.61234086242224,
+              25.73019053976034
+            ],
+            [
+              32.61290577292798,
+              25.73081585917551
+            ],
+            [
+              32.61420685957881,
+              25.72992525666839
+            ],
+            [
+              32.61363284371462,
+              25.72931086263777
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-temple-of-thutmose-iii",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the funerary temple of Thutmose III",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary temple of Thutmose III",
+        "link": "http://pleiades.stoa.org/places/4316625/imagery-location-funerary-temple-of-thutmose-iii"
+      }
+    }
+  ]
+}
