@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chega Sofla",
+  "id": "774922245",
+  "bbox": [
+    50.1424312,
+    30.3247264,
+    50.1427695,
+    30.325062
+  ],
+  "description": "An archaeological site located in the Zeydun plain south of the provincial city of Behbahan, Iran.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.142612409,
+          30.3248930974
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            50.1426074,
+            30.325062
+          ],
+          [
+            50.1424312,
+            30.3248508
+          ],
+          [
+            50.1426312,
+            30.3247264
+          ],
+          [
+            50.1427695,
+            30.3248922
+          ],
+          [
+            50.1427017,
+            30.3249344
+          ],
+          [
+            50.1427396,
+            30.3249798
+          ],
+          [
+            50.1426074,
+            30.325062
+          ]
+        ]
+      },
+      "id": "osm-location-of-chega-sofla",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chega Sofla",
+        "link": "http://pleiades.stoa.org/places/774922245/osm-location-of-chega-sofla"
+      }
+    }
+  ]
+}

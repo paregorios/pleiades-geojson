@@ -3,10 +3,10 @@
   "title": "Castellum aquae",
   "id": "419672523",
   "bbox": [
-    14.4841098,
-    40.7532166,
-    14.4841098,
-    40.7532166
+    14.4841021,
+    40.7531713,
+    14.4842225,
+    40.7532662
   ],
   "description": "A building in Pompeii serving as the distribution point of water originating from the Acquedotto Serino, Claudio or Augusteo. The structure is also referred to as Castellum Divisorium.",
   "connectsWith": [
@@ -29,8 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4841098,
-          40.7532166
+          14.4841617643,
+          40.7532186893
         ]
       },
       "properties": {
@@ -42,28 +42,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            14.4841414,
-            40.7531752
+            14.4841409,
+            40.7531713
           ],
           [
-            14.4841071,
-            40.7532186
+            14.4841076,
+            40.7532164
           ],
           [
-            14.4841037,
-            40.7532246
+            14.4841021,
+            40.7532239
           ],
           [
-            14.4841731,
-            40.7532642
+            14.4841744,
+            40.7532662
           ],
           [
-            14.4842169,
-            40.753209
+            14.4841891,
+            40.7532563
           ],
           [
-            14.4841414,
-            40.7531752
+            14.4842225,
+            40.7532125
+          ],
+          [
+            14.4841409,
+            40.7531713
           ]
         ]
       },
