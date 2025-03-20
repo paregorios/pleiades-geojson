@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Hermes, Aphrodite, T.",
+  "title": "Hermes and Aphrodite Sanctuary",
   "id": "589805",
   "bbox": [
     25.4995166,
@@ -8,10 +8,12 @@
     25.5004973,
     35.0563503
   ],
-  "description": "The Sanctuary of Hermes and Aphrodite at Syme Viannou, Crete.",
+  "description": "This large, open-air sanctuary near Syme Viannou in southern Crete was in use from 2000 BCE until at least the sixth century CE. It attracted pilgrims who are assumed to have camped at the site, which is far from any contemporary settlement. Monumental construction began in the early second millennium BCE and multiple phases and changes are evident, including the construction of Christian chapels in late antiquity. Although the identities of the deities worshiped here at the earliest periods are uncertain (as are the saints venerated in the Christian period), the association with Hermes and Aphrodite seems to have begun as early as the 10th century BCE.",
   "names": [
-    "Hermes",
-    "Sanctuary of Hermes and Aphrodite at Syme Viannou"
+    "Sanctuary of Hermes and Aphrodite at Syme Viannou",
+    "Hermes Aphrodite",
+    "Kato Simi",
+    "Krya Vrysi"
   ],
   "features": [
     {
@@ -92,7 +94,7 @@
       "id": "osm-location-of-iiuii-iii1-4i-r-ioi-i1-iiii-ii-ii",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap. Dates after BAtlDir and EncAncHist.",
         "location_precision": "precise",
         "title": "OSM location of Ιερό Ερμή και Αφροδίτης Κάτω Σύμη",
         "link": "http://pleiades.stoa.org/places/589805/osm-location-of-iiuii-iii1-4i-r-ioi-i1-iiii-ii-ii"
