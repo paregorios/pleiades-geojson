@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus dei Ritratti",
+  "id": "624604511",
+  "bbox": [
+    12.5171855,
+    41.889525,
+    12.5176121,
+    41.8898121
+  ],
+  "description": "The so-called \"Domus dei Ritratti\" is located in the archaeological area surrounding Santa Croce in Gerusalemme in Rome. The domus dates to the later Roman Empire.",
+  "connectsWith": [
+    "423025",
+    "18528486"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5173930276,
+          41.8896704363
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.5172529,
+              41.8898121
+            ],
+            [
+              12.5171964,
+              41.8897402
+            ]
+          ],
+          [
+            [
+              12.5176121,
+              41.8896488
+            ],
+            [
+              12.5172529,
+              41.8898121
+            ]
+          ],
+          [
+            [
+              12.5171964,
+              41.8897402
+            ],
+            [
+              12.517209,
+              41.8897344
+            ],
+            [
+              12.5171855,
+              41.8897017
+            ],
+            [
+              12.5173995,
+              41.8896023
+            ],
+            [
+              12.5173827,
+              41.8895799
+            ],
+            [
+              12.5175074,
+              41.889525
+            ],
+            [
+              12.5176121,
+              41.8896488
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-romana-detta-dei-ritratti",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus Romana detta dei Ritratti",
+        "link": "http://pleiades.stoa.org/places/624604511/osm-location-of-domus-romana-detta-dei-ritratti"
+      }
+    }
+  ]
+}

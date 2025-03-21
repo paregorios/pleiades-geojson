@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chervony Mayak",
+  "id": "365471344",
+  "bbox": [
+    33.5998028,
+    46.9525451,
+    33.5998028,
+    46.9525451
+  ],
+  "description": "Chervony Mayak (Kherson Oblast, Ukraine) is the site of a necropolis associated with the Late Scythian culture (second and mid-third centuries CE).",
+  "connectsWith": [
+    "226544"
+  ],
+  "names": [
+    "Chervony Mayak"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5998028,
+          46.9525451
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.5998028,
+          46.9525451
+        ]
+      },
+      "id": "osm-location-of-chervonyi-maiak",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chervonyi Maiak",
+        "link": "http://pleiades.stoa.org/places/365471344/osm-location-of-chervonyi-maiak"
+      }
+    }
+  ]
+}

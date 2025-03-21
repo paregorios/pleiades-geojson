@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gre Fılla",
+  "id": "139157615",
+  "bbox": [
+    40.4576421,
+    38.2626716,
+    40.4586239,
+    38.2635466
+  ],
+  "description": "Gre Fılla is a Pre-Pottery Neolithic B (PPNB) period site located in Turkey's Diyarbakır Province. The site has been compared to Göbekli Tepe in some respects. Gre Fılla has produced evidence of very early copper working.",
+  "names": [
+    "Gre Fılla"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.4580828204,
+          38.2631323305
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.4585092,
+            38.2635189
+          ],
+          [
+            40.4584028,
+            38.2635307
+          ],
+          [
+            40.4576813,
+            38.2635466
+          ],
+          [
+            40.4576421,
+            38.2626819
+          ],
+          [
+            40.4582158,
+            38.2626716
+          ],
+          [
+            40.4583218,
+            38.26275
+          ],
+          [
+            40.4584536,
+            38.2628852
+          ],
+          [
+            40.4585682,
+            38.2630402
+          ],
+          [
+            40.4586069,
+            38.2631746
+          ],
+          [
+            40.4586136,
+            38.2632975
+          ],
+          [
+            40.4586239,
+            38.2633972
+          ],
+          [
+            40.4585603,
+            38.263412
+          ],
+          [
+            40.4585211,
+            38.2634503
+          ],
+          [
+            40.4585092,
+            38.2635189
+          ]
+        ]
+      },
+      "id": "osm-location-of-ambar-gre-filla",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ambar (Gre Filla)",
+        "link": "http://pleiades.stoa.org/places/139157615/osm-location-of-ambar-gre-filla"
+      }
+    }
+  ]
+}

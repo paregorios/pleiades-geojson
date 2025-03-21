@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Carmarthen",
+  "id": "780447856",
+  "bbox": [
+    -4.3036461,
+    51.856364,
+    -4.3036461,
+    51.856364
+  ],
+  "description": "Roman fort occupied from about 75 AD to at least 100 AD in Wales",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3036461,
+          51.856364
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3036461,
+          51.856364
+        ]
+      },
+      "id": "coflein-location-carmarthen",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Carmarthen",
+        "link": "http://pleiades.stoa.org/places/780447856/coflein-location-carmarthen"
+      }
+    }
+  ]
+}

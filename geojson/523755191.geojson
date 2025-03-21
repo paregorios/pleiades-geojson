@@ -3,10 +3,10 @@
   "title": "Villa in via Casone Grotta",
   "id": "523755191",
   "bbox": [
-    14.471389,
-    40.761389,
-    14.47517,
-    40.775431
+    14.479286,
+    40.761322,
+    14.479286,
+    40.761322
   ],
   "description": "A Roman villa at Boscoreale discovered in 1986 and only partially excavated.",
   "connectsWith": [
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4732795,
-          40.76841
+          14.479286,
+          40.761322
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.479286,
+          40.761322
+        ]
+      },
+      "id": "vici-org-location-of-villa-in-via-casone-grotta",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Villa in via Casone Grotta",
+        "link": "http://pleiades.stoa.org/places/523755191/vici-org-location-of-villa-in-via-casone-grotta"
       }
     }
   ]
