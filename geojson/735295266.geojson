@@ -3,12 +3,12 @@
   "title": "Ionian League",
   "id": "735295266",
   "bbox": [
-    26.129334,
-    37.507952,
+    26.132979,
+    37.5276204,
     27.4258624,
-    38.670353
+    38.6703
   ],
-  "description": "An Ancient Greek confederation originally formed in the sixth century BCE by twelve Ionian cities, with religious festivals celebrated at Panionia. ",
+  "description": "An Ancient Greek confederation originally formed in the sixth century BCE by twelve Ionian cities, with religious festivals celebrated at Panionia.",
   "names": [
     "The Koinon of the Ionians"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.9395326111,
-          38.1262407444
+          26.5884385998,
+          38.3951739832
         ]
       },
       "properties": {

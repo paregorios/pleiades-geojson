@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Aqueduct at Vicus Augustanus",
   "id": "424312",
   "bbox": [
-    12.3928913,
-    41.6790626,
-    12.3935699,
-    41.6796155
+    12.392483,
+    41.683231,
+    12.392483,
+    41.683231
   ],
   "description": "An ancient place, cited: BAtlas 43 B3 unnamed aqueduct (Vicus Augustanus)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3932217792,
-          41.6793408935
+          12.392483,
+          41.683231
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              12.25,
-              41.5
-            ],
-            [
-              12.25,
-              41.75
-            ],
-            [
-              12.5,
-              41.75
-            ],
-            [
-              12.5,
-              41.5
-            ],
-            [
-              12.25,
-              41.5
-            ]
-          ]
+          12.392483,
+          41.683231
         ]
       },
-      "id": "batlas-location",
+      "id": "vici-org-location-of-aqueducto-laurentino",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/424312/batlas-location"
+        "description": "Coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Aqueducto Laurentino",
+        "link": "http://pleiades.stoa.org/places/424312/vici-org-location-of-aqueducto-laurentino"
       }
     }
   ]

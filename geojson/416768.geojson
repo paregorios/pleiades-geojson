@@ -3,6 +3,9 @@
   "title": "Ad Mensulas",
   "id": "416768",
   "description": "Now unlocated, Ad Mensulas was a Roman road station located between Saena and Clusium.",
+  "connectsWith": [
+    "699782783"
+  ],
   "names": [
     "Ad Mensulas"
   ],

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pietrarossa di Trevi",
+  "id": "547514740",
+  "bbox": [
+    12.7258503,
+    42.8881256,
+    12.7269176,
+    42.8888288
+  ],
+  "description": "Excavations at the archaeological site of Pietrarossa (Trebiae) revealed materials pertaining to a Roman domus in the territory of the ancient municipium. The site shows a long occupational history.",
+  "connectsWith": [
+    "413349"
+  ],
+  "names": [
+    "Pietrarossa di Trevi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7264072599,
+          42.8884399257
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7266919,
+            42.8888288
+          ],
+          [
+            12.7269176,
+            42.8881374
+          ],
+          [
+            12.7260865,
+            42.8881256
+          ],
+          [
+            12.7258503,
+            42.8886455
+          ],
+          [
+            12.7266919,
+            42.8888288
+          ]
+        ]
+      },
+      "id": "osm-location-of-archaeological-site-of-pietrarossa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Archaeological Site of Pietrarossa (Trebiae)",
+        "link": "http://pleiades.stoa.org/places/547514740/osm-location-of-archaeological-site-of-pietrarossa"
+      }
+    }
+  ]
+}

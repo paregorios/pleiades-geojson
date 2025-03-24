@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "San Trifone in Posterula",
+  "id": "683842488",
+  "bbox": [
+    12.4740455,
+    41.9007798,
+    12.474495,
+    41.9013467
+  ],
+  "description": "San Trifone in Posterula is a no-longer-extant titular church of Rome. It was located at the corner of Via dei Portoghesi and Via della Scrofa in the Campus Martius. The church likely originates in the eighth century; it appears in documentary records beginning in 1006. The ancient church was destroyed in 1746 when the Basilica of Sant'Agostino was enlarged.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "San Trifone in Posterula"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4742653002,
+          41.9010692914
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

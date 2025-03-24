@@ -3,10 +3,10 @@
   "title": "Borgellusa di Avola",
   "id": "462115",
   "bbox": [
-    15.156047,
-    36.9189213,
-    15.156047,
-    36.9189213
+    15.1561499,
+    36.9182233,
+    15.1566232,
+    36.9186545
   ],
   "description": "An ancient place, cited: BAtlas 47 G5 Borgellusa di Avola",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.156047,
-          36.9189213
+          15.1563860143,
+          36.9184170927
         ]
       },
       "properties": {

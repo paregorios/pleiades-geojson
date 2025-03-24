@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tarpeian Rock",
+  "id": "928849659",
+  "bbox": [
+    12.4819793,
+    41.891427,
+    12.4825646,
+    41.8916353
+  ],
+  "description": "The Tarpeian Rock (Tarpeius mons) is a steep rocky cliff on the south side of the Capitoline Hill in Rome. Certain adjudicated criminals were tossed from the Tarpeian Rock to their deaths in antiquity. According to Varro, Tarpeius mons may be the earliest name of the Capitoline Hill.",
+  "connectsWith": [
+    "347036492",
+    "423025"
+  ],
+  "names": [
+    "Tarpeian Rock",
+    "rupes Tarpeia",
+    "mons Tarpeius"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4823043191,
+          41.8915038204
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4819793,
+            41.891427
+          ],
+          [
+            12.481982,
+            41.8914485
+          ],
+          [
+            12.481996,
+            41.8914588
+          ],
+          [
+            12.4820175,
+            41.891464
+          ],
+          [
+            12.4820629,
+            41.8914721
+          ],
+          [
+            12.4820936,
+            41.8914706
+          ],
+          [
+            12.4821079,
+            41.8914691
+          ],
+          [
+            12.4821206,
+            41.8914688
+          ],
+          [
+            12.4821335,
+            41.8914729
+          ],
+          [
+            12.4821658,
+            41.8914837
+          ],
+          [
+            12.4822052,
+            41.8914889
+          ],
+          [
+            12.4822485,
+            41.8914906
+          ],
+          [
+            12.4822811,
+            41.8914912
+          ],
+          [
+            12.4822974,
+            41.8914844
+          ],
+          [
+            12.4823329,
+            41.8914866
+          ],
+          [
+            12.4823556,
+            41.89149
+          ],
+          [
+            12.4823811,
+            41.8914993
+          ],
+          [
+            12.4824059,
+            41.8914996
+          ],
+          [
+            12.4824243,
+            41.8915002
+          ],
+          [
+            12.4824451,
+            41.8915121
+          ],
+          [
+            12.4824642,
+            41.8915136
+          ],
+          [
+            12.4824873,
+            41.8915083
+          ],
+          [
+            12.482508,
+            41.8915135
+          ],
+          [
+            12.4825223,
+            41.8915235
+          ],
+          [
+            12.4825329,
+            41.8915338
+          ],
+          [
+            12.4825594,
+            41.8915478
+          ],
+          [
+            12.4825646,
+            41.8915598
+          ],
+          [
+            12.4825597,
+            41.8915815
+          ],
+          [
+            12.48254,
+            41.8916126
+          ],
+          [
+            12.4825188,
+            41.8916353
+          ]
+        ]
+      },
+      "id": "osm-location-of-tarpeian-rock",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tarpeian Rock",
+        "link": "http://pleiades.stoa.org/places/928849659/osm-location-of-tarpeian-rock"
+      }
+    }
+  ]
+}

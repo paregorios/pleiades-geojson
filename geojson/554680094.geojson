@@ -1,0 +1,166 @@
+{
+  "type": "FeatureCollection",
+  "title": "Regia",
+  "id": "554680094",
+  "bbox": [
+    12.4862411,
+    41.8917769,
+    12.48662,
+    41.8920412
+  ],
+  "description": "The Regia is an ancient complex along the Sacra Via in Rome at the margin of the Forum Romanum, adjacent to the Temple of Vesta. It is understood as a sort of ritual headquarters of Rome's early kings and, later, as a structure connected with the office of the pontifex maximus.",
+  "connectsWith": [
+    "423025",
+    "337325364",
+    "502866838",
+    "434423626",
+    "55302071"
+  ],
+  "names": [
+    "Regia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4864169226,
+          41.8918813644
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4865739,
+              41.8917851
+            ],
+            [
+              12.4863209,
+              41.8917769
+            ],
+            [
+              12.4862637,
+              41.8917808
+            ],
+            [
+              12.4862411,
+              41.8917856
+            ],
+            [
+              12.4862533,
+              41.8918631
+            ],
+            [
+              12.4862714,
+              41.8919399
+            ]
+          ],
+          [
+            [
+              12.4865912,
+              41.8919104
+            ],
+            [
+              12.48662,
+              41.8918921
+            ],
+            [
+              12.4865739,
+              41.8917851
+            ]
+          ],
+          [
+            [
+              12.4863978,
+              41.8920228
+            ],
+            [
+              12.4864985,
+              41.8919652
+            ],
+            [
+              12.4865912,
+              41.8919104
+            ]
+          ],
+          [
+            [
+              12.4863721,
+              41.8920358
+            ],
+            [
+              12.4863978,
+              41.8920228
+            ]
+          ],
+          [
+            [
+              12.4863721,
+              41.8920358
+            ],
+            [
+              12.4863621,
+              41.8920412
+            ],
+            [
+              12.4863337,
+              41.8920119
+            ]
+          ],
+          [
+            [
+              12.4863274,
+              41.8919854
+            ],
+            [
+              12.4863231,
+              41.8919995
+            ],
+            [
+              12.4863337,
+              41.8920119
+            ]
+          ],
+          [
+            [
+              12.4862714,
+              41.8919399
+            ],
+            [
+              12.4862912,
+              41.8919402
+            ],
+            [
+              12.4863126,
+              41.8919635
+            ],
+            [
+              12.4863278,
+              41.8919805
+            ],
+            [
+              12.4863274,
+              41.8919854
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-regia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regia",
+        "link": "http://pleiades.stoa.org/places/554680094/osm-location-of-regia"
+      }
+    }
+  ]
+}

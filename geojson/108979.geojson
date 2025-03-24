@@ -3,41 +3,24 @@
   "title": "Feldberg",
   "id": "108979",
   "bbox": [
-    8.4447606,
-    50.227157,
-    8.456629,
-    50.231985
+    8.4439081,
+    50.226638,
+    8.4454836,
+    50.2276323
   ],
-  "description": "An ancient place, cited: BAtlas 11 I2 Feldberg",
+  "description": "A Roman fort occupied ca. 150-260 CE.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4506948,
-          50.229571
+          8.44472520885,
+          50.2271429057
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.456629,
-          50.231985
-        ]
-      },
-      "id": "darmc-location-7751",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 7751",
-        "link": "http://pleiades.stoa.org/places/108979/darmc-location-7751"
       }
     },
     {
@@ -55,6 +38,97 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/108979/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4439081,
+            50.2271541
+          ],
+          [
+            8.4441889,
+            50.2274055
+          ],
+          [
+            8.4442257,
+            50.2274303
+          ],
+          [
+            8.4442673,
+            50.2274574
+          ],
+          [
+            8.4445795,
+            50.2276306
+          ],
+          [
+            8.4446096,
+            50.2276323
+          ],
+          [
+            8.4446393,
+            50.227626
+          ],
+          [
+            8.4450056,
+            50.2274316
+          ],
+          [
+            8.4450404,
+            50.2274084
+          ],
+          [
+            8.4454836,
+            50.2270771
+          ],
+          [
+            8.4454765,
+            50.2270462
+          ],
+          [
+            8.4451714,
+            50.2268658
+          ],
+          [
+            8.4451274,
+            50.2268399
+          ],
+          [
+            8.4447695,
+            50.226638
+          ],
+          [
+            8.4446785,
+            50.2266397
+          ],
+          [
+            8.4442646,
+            50.2269107
+          ],
+          [
+            8.4442235,
+            50.2269321
+          ],
+          [
+            8.4439194,
+            50.2271071
+          ],
+          [
+            8.4439081,
+            50.2271541
+          ]
+        ]
+      },
+      "id": "osm-location-of-kastell-kleiner-feldberg",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kastell Kleiner Feldberg",
+        "link": "http://pleiades.stoa.org/places/108979/osm-location-of-kastell-kleiner-feldberg"
       }
     }
   ]

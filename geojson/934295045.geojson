@@ -8,7 +8,7 @@
     45.9157,
     35.7528
   ],
-  "description": "Tall multiperiod settlement mound in Kurdistan Iraq.",
+  "description": "Tall multiperiod settlement mound in Kurdistan Iraq. Preliminary excavations have yielded evidence for occupation and construction ranging from the Chalcolithic to the Iron Age.",
   "names": [
     "Gird-i Rustam"
   ],
@@ -37,7 +37,7 @@
       "id": "cigs-location-of-gird-i-rustam",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Dates after Gird-i Rostam Excavations.",
         "location_precision": "precise",
         "title": "CIGS location of Gird-i Rustam",
         "link": "http://pleiades.stoa.org/places/934295045/cigs-location-of-gird-i-rustam"

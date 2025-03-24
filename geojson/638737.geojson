@@ -3,14 +3,15 @@
   "title": "Akroterion Pr.",
   "id": "638737",
   "bbox": [
-    29.5,
-    36.0,
-    30.0,
-    36.5
+    29.68275,
+    36.13268,
+    29.68275,
+    36.13268
   ],
-  "description": "An ancient place, cited: BAtlas 65 C5 Akroterion Pr.",
+  "description": "The modern Ulu Burun on the southern coast of Turkey.",
   "names": [
-    "Akroterion Pr."
+    "Akroterion Pr.",
+    "Ulu Burun"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.75,
-          36.25
+          29.68275,
+          36.13268
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              29.5,
-              36.0
-            ],
-            [
-              29.5,
-              36.5
-            ],
-            [
-              30.0,
-              36.5
-            ],
-            [
-              30.0,
-              36.0
-            ],
-            [
-              29.5,
-              36.0
-            ]
-          ]
+          29.68275,
+          36.13268
         ]
       },
-      "id": "batlas-location",
+      "id": "location-of-ulu-burun",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/638737/batlas-location"
+        "description": "coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "GeoNames location of Ulu Burun",
+        "link": "http://pleiades.stoa.org/places/638737/location-of-ulu-burun"
       }
     }
   ]

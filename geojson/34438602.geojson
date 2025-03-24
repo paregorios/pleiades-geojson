@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica of Saint Augustine in Campo Marzio",
+  "id": "34438602",
+  "bbox": [
+    12.4740455,
+    41.9007798,
+    12.474495,
+    41.9013467
+  ],
+  "description": "The Basilica of Saint Augustine of Hippo in Camp Martius is a titular minor basilica of the Roman Catholic church located in the Campus Martius of Rome. The basilica was conceived in 1286 and the current basilica was completed in 1483.",
+  "connectsWith": [
+    "423025",
+    "683842488"
+  ],
+  "names": [
+    "Basilica of Saint Augustine in Campo Marzio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4742700415,
+          41.9010709633
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4740781,
+            41.9008037
+          ],
+          [
+            12.4744297,
+            41.9007798
+          ],
+          [
+            12.4744674,
+            41.9010948
+          ],
+          [
+            12.474495,
+            41.9013258
+          ],
+          [
+            12.4741794,
+            41.9013467
+          ],
+          [
+            12.4741693,
+            41.9012623
+          ],
+          [
+            12.4740647,
+            41.9012692
+          ],
+          [
+            12.4740455,
+            41.9011087
+          ],
+          [
+            12.474071,
+            41.9010818
+          ],
+          [
+            12.4741099,
+            41.9010702
+          ],
+          [
+            12.4740781,
+            41.9008037
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilica-of-saint-augustine-in",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica of Saint Augustine in Campo Marzio",
+        "link": "http://pleiades.stoa.org/places/34438602/osm-location-of-basilica-of-saint-augustine-in"
+      }
+    }
+  ]
+}
