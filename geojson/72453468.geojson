@@ -3,10 +3,10 @@
   "title": "Temple of Juno Caelestis",
   "id": "72453468",
   "bbox": [
-    9.2154855,
+    9.2154465,
     36.422568,
-    9.2154855,
-    36.422568
+    9.2160615,
+    36.423031
   ],
   "description": "Juno Caelestis, a successor divinity of the Punic Tanit, is celebrated by a sanctuary built at Dougga ca. 222-235 CE, and sponsored by Q. Gabinius Rufus Felix.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2154855,
-          36.422568
+          9.21573128487,
+          36.4227910912
         ]
       },
       "properties": {
@@ -28,19 +28,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          9.2154855,
-          36.422568
+          [
+            9.2154855,
+            36.422568
+          ],
+          [
+            9.2160615,
+            36.4226712
+          ],
+          [
+            9.2160089,
+            36.422868
+          ],
+          [
+            9.2159555,
+            36.4229385
+          ],
+          [
+            9.2158734,
+            36.4229951
+          ],
+          [
+            9.2158077,
+            36.4230253
+          ],
+          [
+            9.215735,
+            36.423031
+          ],
+          [
+            9.2156623,
+            36.4230291
+          ],
+          [
+            9.2155896,
+            36.4230102
+          ],
+          [
+            9.2155192,
+            36.4229687
+          ],
+          [
+            9.2154817,
+            36.4229272
+          ],
+          [
+            9.2154465,
+            36.4228498
+          ],
+          [
+            9.2154465,
+            36.4227611
+          ],
+          [
+            9.2154855,
+            36.422568
+          ]
         ]
       },
-      "id": "location-of-temple-of-juno-caelestis",
+      "id": "osm-location-temple-of-juno-caelestis",
       "type": "Feature",
       "properties": {
-        "description": "Juno Caelestis, a successor divinity of the Punic Tanit, is celebrated by a sanctuary built at Dougga ca. 222-235 CE,and sponsored by Q. Gabinius Rufus Felix. Location based on OpenStreetMap",
+        "description": "Location based on OpenStreetMap. Dates after BAtlas.",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Juno Caelestis",
-        "link": "http://pleiades.stoa.org/places/72453468/location-of-temple-of-juno-caelestis"
+        "title": "OSM Location: Temple of Juno Caelestis",
+        "link": "http://pleiades.stoa.org/places/72453468/osm-location-temple-of-juno-caelestis"
       }
     }
   ]
