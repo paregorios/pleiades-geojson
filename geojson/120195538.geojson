@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Carmarthen",
-  "id": "780447856",
+  "title": "Colwyn",
+  "id": "120195538",
   "bbox": [
-    -4.3036461,
-    51.856364,
-    -4.3036461,
-    51.856364
+    -3.3064746,
+    52.176922,
+    -3.3064746,
+    52.176922
   ],
-  "description": "A Roman fort in Wales occupied from about 75 CE to at least 100 CE.",
+  "description": "A Roman fort at Colwyn Castle, Wales.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3036461,
-          51.856364
+          -3.3064746,
+          52.176922
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3036461,
-          51.856364
+          -3.3064746,
+          52.176922
         ]
       },
-      "id": "coflein-location-carmarthen",
+      "id": "coflein-location-colwyn",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Coflein Location: Carmarthen",
-        "link": "http://pleiades.stoa.org/places/780447856/coflein-location-carmarthen"
+        "title": "Coflein Location: Colwyn",
+        "link": "http://pleiades.stoa.org/places/120195538/coflein-location-colwyn"
       }
     }
   ]

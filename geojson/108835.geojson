@@ -8,7 +8,7 @@
     8.344365,
     49.871456
   ],
-  "description": "An ancient place, cited: BAtlas 11 I3 Buconica",
+  "description": "Roman fort in Germany",
   "names": [
     "Buconica"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-9643",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 9643",
         "link": "http://pleiades.stoa.org/places/108835/darmc-location-9643"

@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Carmarthen",
-  "id": "780447856",
+  "title": "Caerau",
+  "id": "882133969",
   "bbox": [
-    -4.3036461,
-    51.856364,
-    -4.3036461,
-    51.856364
+    -3.5738108,
+    52.1394,
+    -3.5738108,
+    52.1394
   ],
-  "description": "A Roman fort in Wales occupied from about 75 CE to at least 100 CE.",
+  "description": "Caerau is the site of a Roman fort and camps in Wales that were occupied from about 75 CE to the mid-second century.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3036461,
-          51.856364
+          -3.5738108,
+          52.1394
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3036461,
-          51.856364
+          -3.5738108,
+          52.1394
         ]
       },
-      "id": "coflein-location-carmarthen",
+      "id": "coflein-location-caerau",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Coflein Location: Carmarthen",
-        "link": "http://pleiades.stoa.org/places/780447856/coflein-location-carmarthen"
+        "title": "Coflein Location: Caerau",
+        "link": "http://pleiades.stoa.org/places/882133969/coflein-location-caerau"
       }
     }
   ]

@@ -4,9 +4,9 @@
   "id": "422885",
   "bbox": [
     12.6529198,
-    41.7284473,
-    12.6653828,
-    41.7322354
+    41.722411,
+    12.6656297,
+    41.7329403
   ],
   "description": "Castra Albana was a permanent, fortified camp of the Legio II Parthica constructed during the Severan period.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.65971042,
-          41.73025396
+          12.6602125859,
+          41.7290233612
         ]
       },
       "properties": {

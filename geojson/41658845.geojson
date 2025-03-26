@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pieve di San Pietro ad Mensulas",
+  "id": "41658845",
+  "bbox": [
+    11.7436998,
+    43.2137254,
+    11.7440459,
+    43.2138893
+  ],
+  "description": "A Romanesque church located in the Italian comune of Sinalunga (Siena). Saint Donatus of Arezzo may have founded the church in the fourth century.",
+  "names": [
+    "San Pietro ad Mensulas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7438697445,
+          43.2138065178
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7436998,
+            43.2138606
+          ],
+          [
+            11.7439561,
+            43.2138893
+          ],
+          [
+            11.7439589,
+            43.2138758
+          ],
+          [
+            11.743968,
+            43.2138324
+          ],
+          [
+            11.7440296,
+            43.2138393
+          ],
+          [
+            11.7440356,
+            43.2138102
+          ],
+          [
+            11.7440459,
+            43.213761
+          ],
+          [
+            11.7440009,
+            43.2137559
+          ],
+          [
+            11.7438925,
+            43.2137439
+          ],
+          [
+            11.743728,
+            43.2137254
+          ],
+          [
+            11.7436998,
+            43.2138606
+          ]
+        ]
+      },
+      "id": "osm-location-of-pieve-di-san-pietro-ad-mensulas",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pieve di San Pietro ad Mensulas",
+        "link": "http://pleiades.stoa.org/places/41658845/osm-location-of-pieve-di-san-pietro-ad-mensulas"
+      }
+    }
+  ]
+}

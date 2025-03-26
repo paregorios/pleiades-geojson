@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grotta della Vipera",
+  "id": "378833154",
+  "bbox": [
+    9.0998905,
+    39.2278681,
+    9.0998905,
+    39.2278681
+  ],
+  "description": "The so-called \"Grotta della Vipera\" is the hypogeum tomb of a Roman woman named Atilia Pomptilla. It dates to the first century CE.",
+  "connectsWith": [
+    "471899",
+    "89759493"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0998905,
+          39.2278681
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0998905,
+          39.2278681
+        ]
+      },
+      "id": "osm-location-of-grotta-della-vipera",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta della Vipera",
+        "link": "http://pleiades.stoa.org/places/378833154/osm-location-of-grotta-della-vipera"
+      }
+    }
+  ]
+}

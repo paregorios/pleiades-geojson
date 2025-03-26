@@ -8,7 +8,7 @@
     -2.712896,
     51.814232
   ],
-  "description": "An ancient place, cited: BAtlas 8 E3 Blestium",
+  "description": "Roman fort of mid-first century date and possible later vicus associated near Monmouth, UK",
   "names": [
     "Blestium"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-20057",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20057",
         "link": "http://pleiades.stoa.org/places/79333/darmc-location-20057"
