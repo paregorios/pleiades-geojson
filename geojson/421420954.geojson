@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Butehamon",
+  "id": "421420954",
+  "bbox": [
+    32.5995481907,
+    25.7202175857,
+    32.5997081533,
+    25.7203585267
+  ],
+  "description": "House of the scribe Butehamon in the enclosure of the funerary temple of Ramses III at Medinet Habu, near the western fortified gate.",
+  "connectsWith": [
+    "321318358"
+  ],
+  "names": [
+    "House of Butehamon",
+    "Maison de Boutéhamon"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5996286757,
+          25.720287447
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.59964551686675,
+              25.72021758574236
+            ],
+            [
+              32.59954819070726,
+              25.72030782669066
+            ],
+            [
+              32.59961535650842,
+              25.72035852670899
+            ],
+            [
+              32.59970815331624,
+              25.72026293633233
+            ],
+            [
+              32.59964551686675,
+              25.72021758574236
+            ]
+          ]
+        ]
+      },
+      "id": "imagey-location-house-of-butehamon",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the house of Butehamon",
+        "location_precision": "precise",
+        "title": "Imagery Location: House of Butehamon",
+        "link": "http://pleiades.stoa.org/places/421420954/imagey-location-house-of-butehamon"
+      }
+    }
+  ]
+}

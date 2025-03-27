@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Llanfor",
+  "id": "975153391",
+  "bbox": [
+    -3.5830213,
+    52.914156,
+    -3.5830213,
+    52.914156
+  ],
+  "description": "A Roman fort in Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5830213,
+          52.914156
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5830213,
+          52.914156
+        ]
+      },
+      "id": "coflein-location-llanfor",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Llanfor",
+        "link": "http://pleiades.stoa.org/places/975153391/coflein-location-llanfor"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Arake",
   "id": "662141",
   "description": "An ancient place, cited: BAtlas 67 unlocated Arake",
+  "connectsWith": [
+    "658443"
+  ],
   "names": [
     "Arake"
   ],

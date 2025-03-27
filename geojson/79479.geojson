@@ -8,7 +8,10 @@
     -3.253729,
     51.6656533
   ],
-  "description": "First Roman fort in present day Gelligaer, Wales",
+  "description": "The earliest Roman fort in present-day Gelligaer, Wales.",
+  "names": [
+    "Gelligaer Roman Fort I"
+  ],
   "features": [
     {
       "type": "Feature",

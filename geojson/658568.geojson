@@ -9,6 +9,9 @@
     37.79677
   ],
   "description": "An ancient place, cited: BAtlas 67 G1 Perre",
+  "connectsWith": [
+    "658443"
+  ],
   "names": [
     "Perre"
   ],

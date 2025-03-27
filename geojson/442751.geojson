@@ -9,6 +9,9 @@
     41.1171985
   ],
   "description": "Rubi was a statio in Apulia, located along the Via Minucia.",
+  "connectsWith": [
+    "395708592"
+  ],
   "names": [
     "Rubi",
     "Ruvo di Puglia"

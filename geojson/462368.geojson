@@ -3,10 +3,10 @@
   "title": "Monte Turcisi",
   "id": "462368",
   "bbox": [
-    14.7497625,
-    37.4970811,
-    14.7497625,
-    37.4970811
+    14.7497638,
+    37.4971141,
+    14.7497638,
+    37.4971141
   ],
   "description": "Monte Turcisi is the site of Greek fortifications located in the province of Catania, Sicily. This military outpost was likely of Syracusan dependence.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7497625,
-          37.4970811
+          14.7497638,
+          37.4971141
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7497625,
-          37.4970811
+          14.7497638,
+          37.4971141
         ]
       },
       "id": "osm-location",
