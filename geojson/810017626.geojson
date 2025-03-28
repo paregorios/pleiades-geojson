@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hindwell Farm",
+  "id": "810017626",
+  "bbox": [
+    -3.0881656,
+    52.238297,
+    -3.0881656,
+    52.238297
+  ],
+  "description": "A Roman fort built in the mid-first century CE in Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0881656,
+          52.238297
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0881656,
+          52.238297
+        ]
+      },
+      "id": "coflein-location-hindwell-farm",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Hindwell Farm",
+        "link": "http://pleiades.stoa.org/places/810017626/coflein-location-hindwell-farm"
+      }
+    }
+  ]
+}

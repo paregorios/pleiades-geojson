@@ -9,6 +9,9 @@
     24.5746695339
   ],
   "description": "Temple dedicated to Osiris located 3km west of the modern village of Dush.",
+  "connectsWith": [
+    "776196"
+  ],
   "names": [
     "Temple d'Ayn Manawir",
     "Ayn-Manawir Temple"

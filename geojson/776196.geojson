@@ -3,41 +3,32 @@
   "title": "Manawir el-Biyut",
   "id": "776196",
   "bbox": [
-    30.672824,
-    24.550981,
-    30.672824,
-    24.550981
+    30.676117952,
+    24.574305383,
+    30.6767881487,
+    24.5746695339
   ],
-  "description": "An ancient place, cited: BAtlas 79 D4 Manawir el-Biyut",
+  "description": "Remains of a ruined village with mud brick structures, qanat, and an associated necropolis of Roman date all located 3-5 km west of ancient Dush (Egypt).",
+  "connectsWith": [
+    "776210"
+  ],
+  "names": [
+    "Pmounousire",
+    "Manawir el-Biyut",
+    "Ain Manawir"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.672824,
-          24.550981
+          30.6764522318,
+          24.5744890697
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.672824,
-          24.550981
-        ]
-      },
-      "id": "darmc-location-23614",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 23614",
-        "link": "http://pleiades.stoa.org/places/776196/darmc-location-23614"
       }
     }
   ]

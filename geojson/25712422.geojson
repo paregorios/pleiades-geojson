@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gelligaer Roman Fort II",
+  "id": "25712422",
+  "bbox": [
+    -3.2533958,
+    51.66572,
+    -3.2533958,
+    51.66572
+  ],
+  "description": "Second Roman fort in Gelligaer, Wales",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2533958,
+          51.66572
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2533958,
+          51.66572
+        ]
+      },
+      "id": "coflein-location-gelligaer-ii",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Gelligaer II",
+        "link": "http://pleiades.stoa.org/places/25712422/coflein-location-gelligaer-ii"
+      }
+    }
+  ]
+}
