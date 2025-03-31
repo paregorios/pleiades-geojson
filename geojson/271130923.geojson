@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte sul Fosso di Biserano",
+  "id": "271130923",
+  "bbox": [
+    12.7745863,
+    41.8646571,
+    12.7751255,
+    41.8649168
+  ],
+  "description": "The Ponte sul Fosso di Biserano is a Roman aqueduct bridge of the Aqua Anio Vetus.",
+  "connectsWith": [
+    "423560",
+    "486617495"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7748559,
+          41.86478695
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7751255,
+            41.8649168
+          ],
+          [
+            12.7745863,
+            41.8646571
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-sul-fosso-di-biserano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte sul Fosso di Biserano",
+        "link": "http://pleiades.stoa.org/places/271130923/osm-location-of-ponte-sul-fosso-di-biserano"
+      }
+    }
+  ]
+}

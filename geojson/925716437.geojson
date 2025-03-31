@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tugunbulak",
+  "id": "925716437",
+  "bbox": [
+    68.2609193,
+    39.7010749,
+    68.2735791,
+    39.7045843
+  ],
+  "description": "Tugunbulak was a Medieval city on the Silk Route covering an area of ca. 120 hectares (300 acres).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.2673881506,
+          39.702795875
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.2609193,
+            39.7019757
+          ],
+          [
+            68.2614152,
+            39.7017067
+          ],
+          [
+            68.2623178,
+            39.7016442
+          ],
+          [
+            68.2629195,
+            39.7019257
+          ],
+          [
+            68.2633667,
+            39.7021134
+          ],
+          [
+            68.2643993,
+            39.7020383
+          ],
+          [
+            68.2652368,
+            39.7018631
+          ],
+          [
+            68.2665296,
+            39.7021009
+          ],
+          [
+            68.2675134,
+            39.7017631
+          ],
+          [
+            68.2682778,
+            39.7015879
+          ],
+          [
+            68.2691315,
+            39.7010749
+          ],
+          [
+            68.2695787,
+            39.7010999
+          ],
+          [
+            68.2698795,
+            39.7015754
+          ],
+          [
+            68.2704243,
+            39.7021009
+          ],
+          [
+            68.2722782,
+            39.7023261
+          ],
+          [
+            68.2730994,
+            39.7025388
+          ],
+          [
+            68.2735791,
+            39.7032269
+          ],
+          [
+            68.2730506,
+            39.7039463
+          ],
+          [
+            68.2705544,
+            39.7042153
+          ],
+          [
+            68.2699365,
+            39.7045843
+          ],
+          [
+            68.2693022,
+            39.7045531
+          ],
+          [
+            68.2684322,
+            39.7043154
+          ],
+          [
+            68.2679581,
+            39.7042062
+          ],
+          [
+            68.2654157,
+            39.703621
+          ],
+          [
+            68.2644887,
+            39.7034271
+          ],
+          [
+            68.2631553,
+            39.7030517
+          ],
+          [
+            68.2622527,
+            39.7026764
+          ],
+          [
+            68.2609762,
+            39.7020758
+          ],
+          [
+            68.2609193,
+            39.7019757
+          ]
+        ]
+      },
+      "id": "osm-location-of-marsmand-tugunbulak-ruins-of",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Marsmand (Tugunbulak) ruins of Karakhanid city",
+        "link": "http://pleiades.stoa.org/places/925716437/osm-location-of-marsmand-tugunbulak-ruins-of"
+      }
+    }
+  ]
+}

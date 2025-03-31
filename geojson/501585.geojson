@@ -3,10 +3,10 @@
   "title": "Pyrgoi",
   "id": "501585",
   "bbox": [
-    24.0,
-    41.0,
-    24.5,
-    41.5
+    24.0246468,
+    41.2523755,
+    24.0246468,
+    41.2523755
   ],
   "description": "An ancient place, cited: BAtlas 51 C2 Pyrgoi",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.25,
-          41.25
+          24.0246468,
+          41.2523755
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              24.0,
-              41.0
-            ],
-            [
-              24.0,
-              41.5
-            ],
-            [
-              24.5,
-              41.5
-            ],
-            [
-              24.5,
-              41.0
-            ],
-            [
-              24.0,
-              41.0
-            ]
-          ]
+          24.0246468,
+          41.2523755
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-pyrgoi",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/501585/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Πύργοι",
+        "link": "http://pleiades.stoa.org/places/501585/osm-location-modern-pyrgoi"
       }
     }
   ]

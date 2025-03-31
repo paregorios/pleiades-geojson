@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of the Blaesii",
+  "id": "176138363",
+  "bbox": [
+    14.4966979,
+    40.7499907,
+    14.4967473,
+    40.7500216
+  ],
+  "description": "North Tomb H in the Fondo Pacifico necropolis at Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "names": [
+    "Tomb of the Blaesii"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4967224105,
+          40.7500060705
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4966979,
+            40.7500151
+          ],
+          [
+            14.4967072,
+            40.7499907
+          ],
+          [
+            14.4967473,
+            40.7499978
+          ],
+          [
+            14.4967423,
+            40.7500129
+          ],
+          [
+            14.4967337,
+            40.7500119
+          ],
+          [
+            14.4967309,
+            40.7500216
+          ],
+          [
+            14.4966979,
+            40.7500151
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-the-blaesii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of the Blaesii",
+        "link": "http://pleiades.stoa.org/places/176138363/osm-location-of-tomb-of-the-blaesii"
+      }
+    }
+  ]
+}

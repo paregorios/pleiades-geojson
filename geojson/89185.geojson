@@ -9,6 +9,9 @@
     54.210167
   ],
   "description": "A Roman signal station/fortlet of the Yorkshire coast, England.",
+  "names": [
+    "Filey Roman Signal Station"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -21,6 +24,43 @@
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.0,
+              54.0
+            ],
+            [
+              -1.0,
+              55.0
+            ],
+            [
+              0.0,
+              55.0
+            ],
+            [
+              0.0,
+              54.0
+            ],
+            [
+              -1.0,
+              54.0
+            ]
+          ]
+        ]
+      },
+      "id": "undetermined",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "rough",
+        "title": "Undetermined location",
+        "link": "http://pleiades.stoa.org/places/89185/undetermined"
       }
     },
     {

@@ -3,20 +3,20 @@
   "title": "Arriana",
   "id": "501362",
   "bbox": [
-    25.5,
-    41.0,
-    26.0,
-    41.5
+    25.70613085,
+    41.1140031213,
+    25.70613085,
+    41.1140031213
   ],
-  "description": "An ancient place, cited: BAtlas 51 F2 Arriana",
+  "description": "A Roman-era bathing establishment was identified at modern Arriana in Greece during the 1970s. The facility dates to the second century CE and was destroyed in the third century. Subsequently, the site served as a cemetery through the fourth century.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.75,
-          41.25
+          25.70613085,
+          41.1140031213
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              25.5,
-              41.0
-            ],
-            [
-              25.5,
-              41.5
-            ],
-            [
-              26.0,
-              41.5
-            ],
-            [
-              26.0,
-              41.0
-            ],
-            [
-              25.5,
-              41.0
-            ]
-          ]
+          25.7061308500441,
+          41.11400312133659
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/501362/batlas-location"
+        "description": "Point digitized using QGIS from raster of BAtlas Map 51, georegistered to original projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/501362/batlas-point-location"
       }
     }
   ]

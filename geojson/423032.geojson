@@ -3,20 +3,23 @@
   "title": "Salone",
   "id": "423032",
   "bbox": [
-    12.635238,
+    12.6304981,
     41.913806,
     12.635238,
-    41.913806
+    41.9253848
   ],
   "description": "An ancient place, cited: BAtlas 43 C2 Salone",
+  "connectsWith": [
+    "422834"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.635238,
-          41.913806
+          12.632981568,
+          41.9194208746
         ]
       },
       "properties": {
@@ -38,6 +41,41 @@
         "location_precision": "precise",
         "title": "DARMC location 19578",
         "link": "http://pleiades.stoa.org/places/423032/darmc-location-19578"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.630842,
+            41.9253848
+          ],
+          [
+            12.6304981,
+            41.9247181
+          ],
+          [
+            12.6306082,
+            41.9246867
+          ],
+          [
+            12.6309522,
+            41.9253533
+          ],
+          [
+            12.630842,
+            41.9253848
+          ]
+        ]
+      },
+      "id": "osm-location-of-antiche-cave-di-tufo-di-salone",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Antiche Cave Di Tufo Di Salone",
+        "link": "http://pleiades.stoa.org/places/423032/osm-location-of-antiche-cave-di-tufo-di-salone"
       }
     }
   ]

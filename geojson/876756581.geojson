@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Selvasecca di Blera",
   "id": "876756581",
+  "bbox": [
+    12.027539,
+    42.272684,
+    12.027539,
+    42.272684
+  ],
   "description": "A Republican period villa located near Blera.",
   "connectsWith": [
     "413054"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.027539,
+          42.272684
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

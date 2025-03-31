@@ -3,20 +3,23 @@
   "title": "Untitled",
   "id": "89849",
   "bbox": [
-    -2.0,
-    54.0,
-    -1.0,
-    55.0
+    -1.75498,
+    54.815724,
+    -1.751748,
+    54.817452
   ],
   "description": "An ancient place, cited: BAtlas 9 F6 unnamed aqueduct (Longovicium)",
+  "connectsWith": [
+    "89230"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.5,
-          54.5
+          -1.75338011619,
+          54.8165904926
         ]
       },
       "properties": {

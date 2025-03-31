@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Belmonte Piceno",
+  "id": "652994900",
+  "bbox": [
+    13.5396519,
+    43.0914408,
+    13.5396519,
+    43.0914408
+  ],
+  "description": "The Italian comune of Belmonte Piceno is located in the province of Ascoli Piceno. The environs of this modern settlement have produced a range of archaeological evidence of Iron Age populations, including Latin inscriptions.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5396519,
+          43.0914408
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5396519,
+          43.0914408
+        ]
+      },
+      "id": "osm-location-of-belmonte-piceno",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Belmonte Piceno",
+        "link": "http://pleiades.stoa.org/places/652994900/osm-location-of-belmonte-piceno"
+      }
+    }
+  ]
+}

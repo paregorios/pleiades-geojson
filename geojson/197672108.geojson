@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Novia Amoena",
+  "id": "197672108",
+  "bbox": [
+    14.4964903,
+    40.7499538,
+    14.496564,
+    40.7499978
+  ],
+  "description": "The Tomb of Novia Amoena C. L., Lucius Iacellius Virillio, Caius Novius Lupercus G.L., Cnaeus Turranius Primus, and Cornelia Quieta in the Fondo Pacifico necropolis at Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "names": [
+    "Tomb of Novia Amoena"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4965271912,
+          40.7499755186
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4965032,
+            40.7499538
+          ],
+          [
+            14.496564,
+            40.7499641
+          ],
+          [
+            14.4965504,
+            40.7499978
+          ],
+          [
+            14.4964903,
+            40.7499864
+          ],
+          [
+            14.4965032,
+            40.7499538
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-novia-amoena",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Novia Amoena",
+        "link": "http://pleiades.stoa.org/places/197672108/osm-location-of-tomb-of-novia-amoena"
+      }
+    }
+  ]
+}

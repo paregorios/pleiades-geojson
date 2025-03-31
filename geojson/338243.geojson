@@ -3,6 +3,9 @@
   "title": "Ad Capsum Iuliani/Ad Capsu Iuliani",
   "id": "338243",
   "description": "An ancient place, cited: BAtlas 34 unlocated Ad Capsu(m) Iuliani",
+  "connectsWith": [
+    "334669"
+  ],
   "names": [
     "Ad Capsum Iuliani",
     "Ad Capsu Iuliani"

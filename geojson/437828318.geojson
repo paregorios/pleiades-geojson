@@ -1,16 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Aqueduct at Vorgium",
-  "id": "70217",
+  "title": "Fondo Pacifico necropolis",
+  "id": "437828318",
   "bbox": [
-    -3.571121,
-    48.276532,
-    -3.571121,
-    48.276532
+    14.4964502,
+    40.7499451,
+    14.4967791,
+    40.7500181
   ],
-  "description": "An ancient place, cited: BAtlas 7 C3 unnamed aqueduct (Vorgium)",
+  "description": "A necropolis of Pompeii. The eastern sector was excavated in 1886-7 and is now reinterred.",
   "connectsWith": [
-    "69585"
+    "433032"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.571121,
-          48.276532
+          14.496588871,
+          40.7499818752
         ]
       },
       "properties": {

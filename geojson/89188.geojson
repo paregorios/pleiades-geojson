@@ -3,10 +3,10 @@
   "title": "Gabrantouikon Kolpos",
   "id": "89188",
   "bbox": [
-    -1.0,
-    54.0,
-    0.0,
-    55.0
+    -0.142913,
+    54.064878,
+    -0.142913,
+    54.064878
   ],
   "description": "An ancient place, cited: BAtlas 9 G6 Gabrantouikon Kolpos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5,
-          54.5
+          -0.142913,
+          54.064878
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -1.0,
-              54.0
-            ],
-            [
-              -1.0,
-              55.0
-            ],
-            [
-              0.0,
-              55.0
-            ],
-            [
-              0.0,
-              54.0
-            ],
-            [
-              -1.0,
-              54.0
-            ]
-          ]
+          -0.142913,
+          54.064878
         ]
       },
-      "id": "undetermined",
+      "id": "imagery-location-after-batlas",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/89188/undetermined"
+        "description": "Location determined in Google Earth with reference to label placement in Barrington Atlas.",
+        "location_precision": "precise",
+        "title": "Imagery Location after BAtlas",
+        "link": "http://pleiades.stoa.org/places/89188/imagery-location-after-batlas"
       }
     }
   ]

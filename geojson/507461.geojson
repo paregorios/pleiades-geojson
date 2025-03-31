@@ -3,10 +3,10 @@
   "title": "Serreion",
   "id": "507461",
   "bbox": [
-    25.5,
-    41.5,
-    26.0,
-    42.0
+    25.5219105655,
+    41.2312059042,
+    28.3811456853,
+    41.6517744447
   ],
   "description": "An ancient place, cited: BAtlas 51 unlocated Serreion",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.75,
-          41.75
+          26.9099553718,
+          41.4856931307
         ]
       },
       "properties": {

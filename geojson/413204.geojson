@@ -5,8 +5,8 @@
   "bbox": [
     12.9227026,
     43.4676998,
-    13.21983,
-    43.7176349
+    13.2224138,
+    43.7229311
   ],
   "description": "A river that flows from just south of Arcevia to the Adriatic Sea. The Nevola river joined the Misa before it drains into the sea near Senigallia.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0758637423,
-          43.589318438
+          13.0757290309,
+          43.5894081185
         ]
       },
       "properties": {

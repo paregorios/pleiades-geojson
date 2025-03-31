@@ -3,10 +3,10 @@
   "title": "Petrovo",
   "id": "501558",
   "bbox": [
-    23.5,
-    41.0,
-    24.0,
-    41.5
+    23.5046338,
+    41.43792,
+    23.5046338,
+    41.43792
   ],
   "description": "An ancient place, cited: BAtlas 51 B2 Petrovo",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.75,
-          41.25
+          23.5046338,
+          41.43792
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              23.5,
-              41.0
-            ],
-            [
-              23.5,
-              41.5
-            ],
-            [
-              24.0,
-              41.5
-            ],
-            [
-              24.0,
-              41.0
-            ],
-            [
-              23.5,
-              41.0
-            ]
-          ]
+          23.5046338,
+          41.43792
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-petrovo",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/501558/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Петрово",
+        "link": "http://pleiades.stoa.org/places/501558/osm-location-modern-petrovo"
       }
     }
   ]

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of C. Veranius Rufus",
+  "id": "533715937",
+  "bbox": [
+    14.4965619,
+    40.7499641,
+    14.4966285,
+    40.7499983
+  ],
+  "description": "The tomb of the freedman of Caius Veranius Rufus and freedman Verania Clara in the Fondo Pacifico necropolis at Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "names": [
+    "Tomb of C. Veranius Rufus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4965950488,
+          40.7499810065
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4965619,
+            40.749988
+          ],
+          [
+            14.4965719,
+            40.7499641
+          ],
+          [
+            14.4966285,
+            40.7499739
+          ],
+          [
+            14.496617,
+            40.7499983
+          ],
+          [
+            14.4965619,
+            40.749988
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-g-veranius-rufus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of C. Veranius Rufus",
+        "link": "http://pleiades.stoa.org/places/533715937/osm-location-of-tomb-of-g-veranius-rufus"
+      }
+    }
+  ]
+}

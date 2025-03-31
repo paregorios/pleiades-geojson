@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Capalbiaccio Tricosto",
+  "id": "117215971",
+  "bbox": [
+    11.3539866,
+    42.4382213,
+    11.3552633,
+    42.4394188
+  ],
+  "description": "The fortified site of Tricosto di Capalbiaccio is located in southern Tuscany, some 6 km inland from the ancient Latin colony of Cosa (Ansedonia). The archaeological site was initially identified by means of a field survey led by Stephen L. Dyson (1976-1980). Beginning in 2009 the site was again investigated. The site had a long occupational life, beginning as a minor Etruscan center (ca. seventh century BCE) and continuing in use through the Middle Ages (tenth century CE).",
+  "connectsWith": [
+    "375818871"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3546438426,
+          42.4388037991
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.3540938,
+            42.4383796
+          ],
+          [
+            11.3543406,
+            42.4382905
+          ],
+          [
+            11.354869,
+            42.4382213
+          ],
+          [
+            11.3551533,
+            42.4382312
+          ],
+          [
+            11.3552606,
+            42.4384291
+          ],
+          [
+            11.3552633,
+            42.4389259
+          ],
+          [
+            11.3551614,
+            42.4392545
+          ],
+          [
+            11.35481,
+            42.4393773
+          ],
+          [
+            11.3544908,
+            42.4394188
+          ],
+          [
+            11.3542441,
+            42.4393832
+          ],
+          [
+            11.3540348,
+            42.4391952
+          ],
+          [
+            11.3539866,
+            42.4388389
+          ],
+          [
+            11.3540348,
+            42.4385241
+          ],
+          [
+            11.3540938,
+            42.4383796
+          ]
+        ]
+      },
+      "id": "osm-location-of-castello-di-capalbiaccio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello di Capalbiaccio",
+        "link": "http://pleiades.stoa.org/places/117215971/osm-location-of-castello-di-capalbiaccio"
+      }
+    }
+  ]
+}

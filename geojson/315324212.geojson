@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of P. Mancius Diogenes",
+  "id": "315324212",
+  "description": "The Tomb of Publius Mancius Diogenes in the Fondo Pacifico necropolis of Pompeii (FP5) was excavated in 1886-7. The site is now reinterred.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa of Furius Octavianus",
+  "id": "786809029",
+  "bbox": [
+    12.363232,
+    41.884525,
+    12.363232,
+    41.884525
+  ],
+  "description": "A Roman villa associated with a Caius Furius Octavianus who was a member of the Senatorial order during the Severan period. The villa was identified along the via Aurelia in the locality of Massimina - Casal Lumbroso. Excavations were carried out between 2011 and 2017.",
+  "connectsWith": [
+    "174900201"
+  ],
+  "names": [
+    "Villa of Furius Octavianus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.363232,
+          41.884525
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.363232,
+          41.884525
+        ]
+      },
+      "id": "vici-org-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "vici.org location",
+        "link": "http://pleiades.stoa.org/places/786809029/vici-org-location"
+      }
+    }
+  ]
+}

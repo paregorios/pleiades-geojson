@@ -3,12 +3,12 @@
   "title": "Leuci",
   "id": "109106",
   "bbox": [
-    5.0,
-    48.0,
-    6.0,
-    49.0
+    5.53429740761,
+    48.5363480553,
+    6.14548888243,
+    48.548489822
   ],
-  "description": "An ancient place, cited: BAtlas 11 F4 Leuci",
+  "description": "The Leuci were an Iron Age Belgic tribe centered in the southern part of the modern Lorraine region.",
   "names": [
     "Leuci"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.5,
-          48.5
+          5.83989314502,
+          48.5424189387
         ]
       },
       "properties": {
@@ -28,39 +28,25 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              5.0,
-              48.0
-            ],
-            [
-              5.0,
-              49.0
-            ],
-            [
-              6.0,
-              49.0
-            ],
-            [
-              6.0,
-              48.0
-            ],
-            [
-              5.0,
-              48.0
-            ]
+            5.534297407607037,
+            48.5484898220069
+          ],
+          [
+            6.145488882431716,
+            48.536348055346735
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/109106/undetermined"
+        "description": "Centerline of label digitized using QGIS from BAtlas map 11 as georegistered to original projection by the Ancient World Mapping Center in 2006. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/109106/batlas-label-location"
       }
     }
   ]

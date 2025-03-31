@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte della Mola di San Gregorio da Sassola",
+  "id": "132472924",
+  "bbox": [
+    12.8238024,
+    41.8944,
+    12.8249125,
+    41.8952293
+  ],
+  "description": "A Roman aqueduct bridge that was part of the Aqua Anio Vetus. The remains of the bridge preserve a series of 22 arches stretching approximately 155 meters.",
+  "connectsWith": [
+    "423560"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8243590832,
+          41.8948124479
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8249125,
+            41.8952293
+          ],
+          [
+            12.8241517,
+            41.8946541
+          ],
+          [
+            12.8238024,
+            41.8944
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-della-mola-di-san-gregorio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte della Mola di San Gregorio da Sassola",
+        "link": "http://pleiades.stoa.org/places/132472924/osm-location-of-ponte-della-mola-di-san-gregorio"
+      }
+    }
+  ]
+}

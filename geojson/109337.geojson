@@ -3,12 +3,12 @@
   "title": "Senones",
   "id": "109337",
   "bbox": [
-    2.0,
-    48.0,
-    3.0,
-    49.0
+    2.34292314027,
+    48.443611099,
+    2.84533653487,
+    48.4517247955
   ],
-  "description": "An ancient place, cited: BAtlas 11 C4 Senones",
+  "description": "The Senones were an ancient Gallic tribe of the Seine River basin.",
   "names": [
     "Senones"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5,
-          48.5
+          2.59412983757,
+          48.4476679473
         ]
       },
       "properties": {
@@ -28,39 +28,25 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              2.0,
-              48.0
-            ],
-            [
-              2.0,
-              49.0
-            ],
-            [
-              3.0,
-              49.0
-            ],
-            [
-              3.0,
-              48.0
-            ],
-            [
-              2.0,
-              48.0
-            ]
+            2.342923140272334,
+            48.4436110989964
+          ],
+          [
+            2.845336534868871,
+            48.45172479554623
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/109337/undetermined"
+        "description": "Label centerline digitized using QGIS from Barrington Atlas map 11 as georegistered by the Ancient World Mapping Center in 2006. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/109337/batlas-label-location"
       }
     }
   ]

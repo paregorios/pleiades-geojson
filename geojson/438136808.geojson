@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Ponte di Apollo, Punicum",
-  "id": "306780756",
+  "title": "Roman Temple at Maarab",
+  "id": "438136808",
   "bbox": [
-    11.8812405,
-    42.0387821,
-    11.8812405,
-    42.0387821
+    35.6809836,
+    34.000522,
+    35.6809836,
+    34.000522
   ],
-  "description": "A Roman bridge.",
-  "connectsWith": [
-    "433010"
-  ],
+  "description": "Site of a Roman temple overlooking Jounieh Bay",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8812405,
-          42.0387821
+          35.6809836,
+          34.000522
         ]
       },
       "properties": {
@@ -30,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8812405,
-          42.0387821
+          35.6809836,
+          34.000522
         ]
       },
-      "id": "osm-location-of-ponte-romano-di-apollo",
+      "id": "osm-location-of-roman-temple-site",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ponte Romano di Apollo",
-        "link": "http://pleiades.stoa.org/places/306780756/osm-location-of-ponte-romano-di-apollo"
+        "title": "OSM location of Roman Temple site",
+        "link": "http://pleiades.stoa.org/places/438136808/osm-location-of-roman-temple-site"
       }
     }
   ]

@@ -3,12 +3,12 @@
   "title": "Bucinobantes",
   "id": "108834",
   "bbox": [
-    8.0,
-    50.0,
-    9.0,
-    51.0
+    8.13081304632,
+    50.2241477683,
+    8.46754679451,
+    50.2742101284
   ],
-  "description": "An ancient place, cited: BAtlas 11 I2 Bucinobantes",
+  "description": "The Bucinobantes were an Alemannic tribe living in the region of the modern city of Mainz (Germany) on the river Main.",
   "names": [
     "Bucinobantes"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5,
-          50.5
+          8.29854713451,
+          50.2533701742
         ]
       },
       "properties": {
@@ -28,39 +28,65 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              8.0,
-              50.0
-            ],
-            [
-              8.0,
-              51.0
-            ],
-            [
-              9.0,
-              51.0
-            ],
-            [
-              9.0,
-              50.0
-            ],
-            [
-              8.0,
-              50.0
-            ]
+            8.1308130463159,
+            50.22414776833848
+          ],
+          [
+            8.16941161749516,
+            50.232409726562125
+          ],
+          [
+            8.200717098653294,
+            50.23907199442962
+          ],
+          [
+            8.224696918558237,
+            50.243142356892605
+          ],
+          [
+            8.251830178470902,
+            50.24850430392315
+          ],
+          [
+            8.283112411763353,
+            50.25348009406727
+          ],
+          [
+            8.315958421999438,
+            50.258429194007746
+          ],
+          [
+            8.344101236596007,
+            50.262093293098246
+          ],
+          [
+            8.37692043855957,
+            50.26569376817409
+          ],
+          [
+            8.40504231156189,
+            50.26834452412679
+          ],
+          [
+            8.433686538535898,
+            50.270981744753364
+          ],
+          [
+            8.467546794508072,
+            50.27421012842953
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/108834/undetermined"
+        "description": "Centerline of map label digitized using QGIS from BAtlas Map 11 as georegistered to original projection by the Ancient World Mapping Center in 2006. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/108834/batlas-label-location"
       }
     }
   ]

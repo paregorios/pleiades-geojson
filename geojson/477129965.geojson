@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of the Lollii",
+  "id": "477129965",
+  "bbox": [
+    14.49675,
+    40.7499989,
+    14.4967791,
+    40.7500181
+  ],
+  "description": "The Tomb of the freedman Marcus Lollius Lucrio and his familia at Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "names": [
+    "Tomb of the Lollii"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4967645337,
+          40.7500084921
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4967736,
+            40.7500181
+          ],
+          [
+            14.4967791,
+            40.7500037
+          ],
+          [
+            14.4967554,
+            40.7499989
+          ],
+          [
+            14.49675,
+            40.7500133
+          ],
+          [
+            14.4967736,
+            40.7500181
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-the-lollii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of the Lollii",
+        "link": "http://pleiades.stoa.org/places/477129965/osm-location-of-tomb-of-the-lollii"
+      }
+    }
+  ]
+}

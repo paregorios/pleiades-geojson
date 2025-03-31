@@ -3,12 +3,12 @@
   "title": "Mauretania Sitifensis",
   "id": "991334",
   "bbox": [
-    0.0,
-    30.0,
-    5.0,
-    35.0
+    5.057834,
+    36.74021,
+    5.058096,
+    36.741492
   ],
-  "description": "A late Roman province within the diocese of Africa.",
+  "description": "A late Roman province within the diocese of Africa. Mauretania Sitifensis was included on Map 101 of the Barrington Atlas (\"Dioceses and Provinces of the Roman Empire\") that follows the Verona List (ca. A.D. 303–324). Diocletian created the province and Constantine assigned it to the administrative Diocese of Africa. The Vandals conquered Mauretania Sitifensis and following the collapse of the Western Roman Empire, the province was ruled mainly by Berber kings until 578 CE.",
   "connectsWith": [
     "154459219"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5,
-          32.5
+          5.057965,
+          36.740851
         ]
       },
       "properties": {

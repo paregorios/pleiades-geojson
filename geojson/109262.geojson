@@ -3,10 +3,10 @@
   "title": "Prata Aureliana",
   "id": "109262",
   "bbox": [
-    7.0,
-    50.0,
-    8.0,
-    51.0
+    7.05584044391,
+    50.782097889,
+    7.28316781078,
+    50.8166742921
   ],
   "description": "An ancient place, cited: BAtlas 11 H2 Prata Aureliana",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5,
-          50.5
+          7.16003654987,
+          50.7966878771
         ]
       },
       "properties": {
@@ -28,39 +28,33 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              7.0,
-              50.0
-            ],
-            [
-              7.0,
-              51.0
-            ],
-            [
-              8.0,
-              51.0
-            ],
-            [
-              8.0,
-              50.0
-            ],
-            [
-              7.0,
-              50.0
-            ]
+            7.114196797285976,
+            50.816674292125946
+          ],
+          [
+            7.22609455763402,
+            50.81351267623211
+          ],
+          [
+            7.055840443914475,
+            50.787426726220076
+          ],
+          [
+            7.283167810781954,
+            50.78209788895239
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/109262/undetermined"
+        "description": "Coverage of label digitized using QGIS from BAtlas Map 11 as georegistered to original projection by the Ancient World Mapping Center in 2006. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/109262/batlas-label-location"
       }
     }
   ]

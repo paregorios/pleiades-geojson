@@ -8,16 +8,18 @@
     13.21799,
     43.714978
   ],
-  "description": "Located at the mouth of the river Misa, Sena Gallica was founded by the Senonian Gauls in the fourth century B.C. and became the site of Rome's earliest Adriatic colony before 280 B.C. Pompeius Magnus destroyed the city in 82 B.C.",
+  "description": "Senonian Gauls founded Sena Gallica at the mouth of the Misa River in the fourth century B.C. This place became the site of Rome's earliest colony on the Adriatic seaboard before 280 B.C. Pompeius Magnus destroyed the city in 82 B.C.",
   "connectsWith": [
-    "1004"
+    "1004",
+    "413204"
   ],
   "names": [
     "Sena Gallica",
     "Senigallia",
     "Senas",
     "Sena",
-    "Senagallika"
+    "Senagallika",
+    "Sena Galli"
   ],
   "features": [
     {

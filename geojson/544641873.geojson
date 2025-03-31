@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Villa della Colonne",
+  "title": "Villa delle Colonne",
   "id": "544641873",
   "bbox": [
     11.3102418,
-    42.4220525,
-    11.3102418,
-    42.4220525
+    42.4211417,
+    11.3118511,
+    42.4223772
   ],
   "description": "A late Republican and early Imperial villa in the ager Cosanus noted for its turreted enclosure wall.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3102418,
-          42.4220525
+          11.3110416902,
+          42.4217540289
         ]
       },
       "properties": {

@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "title": "Toshbuloq",
+  "id": "578536990",
+  "bbox": [
+    68.318857,
+    39.694491,
+    68.3238421,
+    39.698431
+  ],
+  "description": "Toshbuloq or Tashbulak was a high-altitude urban center located along the medieval Silk Route (6th–11th century CE).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3214807592,
+          39.6963975127
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.3190665,
+            39.6958612
+          ],
+          [
+            68.3192205,
+            39.6952733
+          ],
+          [
+            68.3201818,
+            39.6947612
+          ],
+          [
+            68.3212109,
+            39.6946379
+          ],
+          [
+            68.32224,
+            39.694491
+          ],
+          [
+            68.3231828,
+            39.6947422
+          ],
+          [
+            68.3234231,
+            39.6962216
+          ],
+          [
+            68.3238421,
+            39.6973026
+          ],
+          [
+            68.3236757,
+            39.6977672
+          ],
+          [
+            68.3225974,
+            39.6983125
+          ],
+          [
+            68.3220243,
+            39.698431
+          ],
+          [
+            68.321026,
+            39.6981513
+          ],
+          [
+            68.3200894,
+            39.6978004
+          ],
+          [
+            68.3194917,
+            39.696928
+          ],
+          [
+            68.318857,
+            39.6964966
+          ],
+          [
+            68.3190665,
+            39.6958612
+          ]
+        ]
+      },
+      "id": "osm-location-of-mink-toshbuloq-ruins-of-karakhanid",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mink (Toshbuloq) ruins of Karakhanid city",
+        "link": "http://pleiades.stoa.org/places/578536990/osm-location-of-mink-toshbuloq-ruins-of-karakhanid"
+      }
+    }
+  ]
+}

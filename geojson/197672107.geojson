@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Caecilia Agathia",
+  "id": "197672107",
+  "bbox": [
+    14.4964502,
+    40.7499451,
+    14.4964874,
+    40.7499799
+  ],
+  "description": "The Tomb of Caecilia Agathia in the Fondo Pacifico necropolis of Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4964688413,
+          40.749962397
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4964638,
+            40.7499451
+          ],
+          [
+            14.4964874,
+            40.7499495
+          ],
+          [
+            14.4964738,
+            40.7499799
+          ],
+          [
+            14.4964502,
+            40.749975
+          ],
+          [
+            14.4964638,
+            40.7499451
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-caecilia-agathia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Caecilia Agathia",
+        "link": "http://pleiades.stoa.org/places/197672107/osm-location-of-tomb-of-caecilia-agathia"
+      }
+    }
+  ]
+}

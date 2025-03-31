@@ -3,20 +3,23 @@
   "title": "Untitled",
   "id": "89848",
   "bbox": [
-    -3.0,
-    55.0,
-    -2.0,
-    56.0
+    -2.46558,
+    54.994358,
+    -2.46344,
+    54.995389
   ],
   "description": "An ancient place, cited: BAtlas 9 E5 unnamed aqueduct ((A)Esica)",
+  "connectsWith": [
+    "89095"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5,
-          55.5
+          -2.46451059151,
+          54.9948850519
         ]
       },
       "properties": {

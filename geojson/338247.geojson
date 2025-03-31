@@ -3,6 +3,9 @@
   "title": "Ad Oculum Marinum",
   "id": "338247",
   "description": "An ancient place, cited: BAtlas 34 unlocated Ad Oculum Marinum",
+  "connectsWith": [
+    "334669"
+  ],
   "names": [
     "Ad Oculum Marinum"
   ],
