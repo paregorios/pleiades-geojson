@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Three Cocks Roman fort",
+  "id": "963064754",
+  "bbox": [
+    -3.2091068,
+    52.027001,
+    -3.2091068,
+    52.027001
+  ],
+  "description": "A Roman fort in Wales discovered with aerial photography in June 2018",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2091068,
+          52.027001
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2091068,
+          52.027001
+        ]
+      },
+      "id": "coflein-location-three-cocks",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Three Cocks",
+        "link": "http://pleiades.stoa.org/places/963064754/coflein-location-three-cocks"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Temple of Venus Genetrix",
   "id": "898745908",
   "bbox": [
-    12.4847317,
-    41.8940361,
-    12.4848152,
-    41.8941045
+    12.4846299,
+    41.8939513,
+    12.4850939,
+    41.8943272
   ],
   "description": "The Temple of Venus Genetrix located in the Forum Iulium was dedicated ca. 46 BCE.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4847839342,
-          41.8940555535
+          12.4848438453,
+          41.8941432734
         ]
       },
       "properties": {
@@ -28,69 +28,127 @@
     },
     {
       "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [
-            12.4848025,
-            41.8940361
+            [
+              12.4850303,
+              41.8940635
+            ],
+            [
+              12.4850939,
+              41.8941053
+            ]
           ],
           [
-            12.4847887,
-            41.894038
+            [
+              12.4850104,
+              41.8940495
+            ],
+            [
+              12.4850303,
+              41.8940635
+            ]
           ],
           [
-            12.4848101,
-            41.894038
+            [
+              12.4848076,
+              41.8940348
+            ],
+            [
+              12.4847767,
+              41.894014
+            ],
+            [
+              12.4848146,
+              41.8939773
+            ],
+            [
+              12.4848216,
+              41.8939825
+            ],
+            [
+              12.4848602,
+              41.8939513
+            ],
+            [
+              12.4850104,
+              41.8940495
+            ]
           ],
           [
-            12.4847826,
-            41.8940425
+            [
+              12.4847392,
+              41.8940931
+            ],
+            [
+              12.4848076,
+              41.8940348
+            ]
           ],
           [
-            12.4848152,
-            41.8940429
+            [
+              12.4847444,
+              41.8942996
+            ],
+            [
+              12.4846443,
+              41.8942383
+            ],
+            [
+              12.4846832,
+              41.8942019
+            ],
+            [
+              12.4846299,
+              41.8941677
+            ],
+            [
+              12.4847264,
+              41.8940853
+            ],
+            [
+              12.4847392,
+              41.8940931
+            ]
           ],
           [
-            12.4847815,
-            41.8940498
+            [
+              12.4847444,
+              41.8942996
+            ],
+            [
+              12.4847689,
+              41.8942789
+            ],
+            [
+              12.4848426,
+              41.8943272
+            ],
+            [
+              12.4850313,
+              41.8941605
+            ]
           ],
           [
-            12.4848132,
-            41.8940498
-          ],
-          [
-            12.4847729,
-            41.8940604
-          ],
-          [
-            12.4847606,
-            41.894065
-          ],
-          [
-            12.4847514,
-            41.8940729
-          ],
-          [
-            12.4847504,
-            41.894082
-          ],
-          [
-            12.4847317,
-            41.8940962
-          ],
-          [
-            12.4847463,
-            41.8941045
+            [
+              12.4850313,
+              41.8941605
+            ],
+            [
+              12.4850939,
+              41.8941053
+            ]
           ]
         ]
       },
-      "id": "osm-location-of-temple-of-venus-genetrix",
+      "id": "osm-location-temple-of-venus-genetrix",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Venus Genetrix",
-        "link": "http://pleiades.stoa.org/places/898745908/osm-location-of-temple-of-venus-genetrix"
+        "title": "OSM location: Temple of Venus Genetrix",
+        "link": "http://pleiades.stoa.org/places/898745908/osm-location-temple-of-venus-genetrix"
       }
     }
   ]

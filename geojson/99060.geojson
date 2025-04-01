@@ -9,6 +9,9 @@
     53.6755254
   ],
   "description": "The Weser river in northwestern Germany.",
+  "connectsWith": [
+    "20469"
+  ],
   "names": [
     "Visurgis"
   ],

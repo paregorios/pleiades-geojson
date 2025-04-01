@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cae Gaer Roman fort",
+  "id": "8861236",
+  "bbox": [
+    -3.7313048,
+    52.422396,
+    -3.7313048,
+    52.422396
+  ],
+  "description": "A Roman fort in Wales",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7313048,
+          52.422396
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7313048,
+          52.422396
+        ]
+      },
+      "id": "coflein-location-cae-gaer",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Cae Gaer",
+        "link": "http://pleiades.stoa.org/places/8861236/coflein-location-cae-gaer"
+      }
+    }
+  ]
+}

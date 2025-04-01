@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Idistaviso",
   "id": "101201",
-  "description": "An ancient place, cited: BAtlas 10 unlocated Idistaviso",
+  "description": "Now unlocated, Idistaviso was an ancient place on the Weser River. It was the location of a battle in 16 CE between Roman forces commanded by Tiberius and Germanicus and an alliance of Germanic forces commanded by Ariminus.",
+  "connectsWith": [
+    "99060"
+  ],
   "names": [
     "Idistaviso"
   ],

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Carrow Hill Roman fort",
+  "id": "792788520",
+  "bbox": [
+    -2.8245182,
+    51.608993,
+    -2.8245182,
+    51.608993
+  ],
+  "description": "A Roman fort in Wales discovered on aerial photography on June 2018",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8245182,
+          51.608993
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8245182,
+          51.608993
+        ]
+      },
+      "id": "coflein-location-carrow-hill",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Carrow Hill",
+        "link": "http://pleiades.stoa.org/places/792788520/coflein-location-carrow-hill"
+      }
+    }
+  ]
+}

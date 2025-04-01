@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Akropolis",
+  "title": "Retracted: Akropolis",
   "id": "582866",
   "bbox": [
     23.5,
@@ -8,10 +8,7 @@
     23.75,
     38.0
   ],
-  "description": "An ancient place, cited: BAtlas 59 B3 Akropolis",
-  "names": [
-    "Akropolis"
-  ],
+  "description": "Doublet for https://pleiades.stoa.org/places/582866/",
   "features": [
     {
       "type": "Feature",
@@ -60,7 +57,7 @@
         "description": null,
         "location_precision": "rough",
         "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/582866/batlas-location"
+        "link": "http://pleiades.stoa.org/errata/582866/batlas-location"
       }
     }
   ]
