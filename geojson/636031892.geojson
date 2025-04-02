@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pen-Llwyn fort",
+  "id": "636031892",
+  "bbox": [
+    -3.985632,
+    52.407041,
+    -3.985632,
+    52.407041
+  ],
+  "description": "A Roman fort established in the Flavian period and occupied until at least AD 125 and possibly AD 140",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985632,
+          52.407041
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985632,
+          52.407041
+        ]
+      },
+      "id": "coflein-location-pen-llwyn-fort",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Pen-Llwyn fort",
+        "link": "http://pleiades.stoa.org/places/636031892/coflein-location-pen-llwyn-fort"
+      }
+    }
+  ]
+}

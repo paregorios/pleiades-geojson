@@ -2,14 +2,29 @@
   "type": "FeatureCollection",
   "title": "Akakesion",
   "id": "573061",
-  "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "bbox": [
+    22.0298445,
+    37.3890361,
+    22.030087,
+    37.389509
+  ],
+  "description": "An ancient settlement near Lykosoura, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "connectsWith": [
+    "570444"
+  ],
   "names": [
     "Akakesion"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.02996575,
+          37.38927255
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

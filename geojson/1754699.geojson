@@ -1,26 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "‘Leucaro’",
-  "id": "79561",
+  "title": "Wiston fort",
+  "id": "1754699",
   "bbox": [
-    -4.077,
-    51.662,
-    -4.077,
-    51.662
+    -4.8661625,
+    51.831763,
+    -4.8661625,
+    51.831763
   ],
-  "description": "A Roman auxiliary fort in Wales.",
-  "names": [
-    "Loughor",
-    "Leucaro"
-  ],
+  "description": "A Roman fort excavated in 2013-2014 in Wales",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.077,
-          51.662
+          -4.8661625,
+          51.831763
         ]
       },
       "properties": {
@@ -31,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.077,
-          51.662
+          -4.8661625,
+          51.831763
         ]
       },
-      "id": "dare-location",
+      "id": "coflein-location-wiston-fort",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/79561/dare-location"
+        "title": "Coflein Location: Wiston fort",
+        "link": "http://pleiades.stoa.org/places/1754699/coflein-location-wiston-fort"
       }
     }
   ]

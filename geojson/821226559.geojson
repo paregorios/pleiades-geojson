@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bush Farm fort",
+  "id": "821226559",
+  "bbox": [
+    -4.2055012,
+    53.180734,
+    -4.2055012,
+    53.180734
+  ],
+  "description": "A Roman fort identified in 2024 with aerial photography and inspected in February 2025.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2055012,
+          53.180734
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2055012,
+          53.180734
+        ]
+      },
+      "id": "coflein-location-bush-farm",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Bush Farm",
+        "link": "http://pleiades.stoa.org/places/821226559/coflein-location-bush-farm"
+      }
+    }
+  ]
+}
