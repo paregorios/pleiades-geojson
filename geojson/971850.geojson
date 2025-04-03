@@ -4,8 +4,8 @@
   "id": "971850",
   "bbox": [
     68.920832,
-    37.227253,
-    68.920832,
+    37.2162011,
+    68.9302899,
     37.227253
   ],
   "description": "Identified by W. Ball as \"Qurghan tepe, Imām Ṣāhib\" and distinct from other similar toponyms.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          68.920832,
-          37.227253
+          68.9249829572,
+          37.2221740464
         ]
       },
       "properties": {
@@ -38,6 +38,93 @@
         "location_precision": "precise",
         "title": "DARMC location 21781",
         "link": "http://pleiades.stoa.org/places/971850/darmc-location-21781"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.9283502,
+            37.2180045
+          ],
+          [
+            68.9282961,
+            37.2177243
+          ],
+          [
+            68.9281156,
+            37.2169555
+          ],
+          [
+            68.9280886,
+            37.2165676
+          ],
+          [
+            68.9282329,
+            37.2163592
+          ],
+          [
+            68.9285667,
+            37.2162586
+          ],
+          [
+            68.9289005,
+            37.2162442
+          ],
+          [
+            68.9291712,
+            37.2162371
+          ],
+          [
+            68.9294599,
+            37.2162011
+          ],
+          [
+            68.9298569,
+            37.2162586
+          ],
+          [
+            68.9300012,
+            37.2164095
+          ],
+          [
+            68.9302899,
+            37.2174225
+          ],
+          [
+            68.9301816,
+            37.2176237
+          ],
+          [
+            68.9299471,
+            37.217753
+          ],
+          [
+            68.9293607,
+            37.2179111
+          ],
+          [
+            68.9288284,
+            37.2180045
+          ],
+          [
+            68.9285758,
+            37.2180296
+          ],
+          [
+            68.9283502,
+            37.2180045
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap. Extensive remains at this location visible in satellite imagery are consistent with diagram and description in Ball's gazetteer (revised), where no coordinates are offered other than the original 1982 coordinates, which do not correspond to any visible remains.",
+        "location_precision": "precise",
+        "title": "OSM Location",
+        "link": "http://pleiades.stoa.org/places/971850/osm-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Olympos (mountain on Cyprus)",
   "id": "707592",
   "bbox": [
-    34.5,
-    35.5,
-    35.0,
-    36.0
+    34.54206,
+    35.67187,
+    34.54206,
+    35.67187
   ],
   "description": "A mountain located on the northeast tip of the island of Cyprus and mentioned by Strabo. One of several mountains scattered throughout the Greek world known by this name. Not to be confused with the main peak of the Trogodos mountains, which is today called \"Mount Olympus\" and lies in the center of the island.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.75,
-          35.75
+          34.54206,
+          35.67187
         ]
       },
       "properties": {
@@ -31,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              34.5,
-              35.5
-            ],
-            [
-              34.5,
-              36.0
-            ],
-            [
-              35.0,
-              36.0
-            ],
-            [
-              35.0,
-              35.5
-            ],
-            [
-              34.5,
-              35.5
-            ]
-          ]
+          34.54206,
+          35.67187
         ]
       },
-      "id": "undetermined",
+      "id": "geonames-location-of-kinanero",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/707592/undetermined"
+        "description": "coordinates after GeoNames",
+        "location_precision": "precise",
+        "title": "GeoNames location of Kinanero",
+        "link": "http://pleiades.stoa.org/places/707592/geonames-location-of-kinanero"
       }
     }
   ]
