@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Tritonos",
   "id": "494631",
+  "bbox": [
+    21.4597626681,
+    40.7885770322,
+    23.5394115872,
+    41.0360409768
+  ],
   "description": "A town (polichnion) in ancient Macedonia, mentioned by Stephanus. Its precise location is unlocated today.",
   "connectsWith": [
     "491656"
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.497799234,
+          40.9290460686
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

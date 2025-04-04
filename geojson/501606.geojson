@@ -1,16 +1,18 @@
 {
   "type": "FeatureCollection",
-  "title": "Serreion Pr.",
+  "title": "Serreion (promontory)",
   "id": "501606",
   "bbox": [
-    25.5,
-    40.5,
-    26.0,
-    41.0
+    25.73137,
+    40.84537,
+    25.73137,
+    40.84537
   ],
-  "description": "An ancient place, cited: BAtlas 51 F3 Serreion Pr.",
+  "description": "A cape on the Thracian coast, identified by modern scholars with Cape Mákri, which is located approximately 12 kilometers west of modern Alexandroupoli.",
   "names": [
-    "Serreion Pr."
+    "Serreion Pr.",
+    "Akra Makris",
+    "Cape Makri"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.75,
-          40.75
+          25.73137,
+          40.84537
         ]
       },
       "properties": {
@@ -28,39 +30,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              25.5,
-              40.5
-            ],
-            [
-              25.5,
-              41.0
-            ],
-            [
-              26.0,
-              41.0
-            ],
-            [
-              26.0,
-              40.5
-            ],
-            [
-              25.5,
-              40.5
-            ]
-          ]
+          25.73137,
+          40.84537
         ]
       },
-      "id": "batlas-location",
+      "id": "geonames-location-akra-makris",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/501606/batlas-location"
+        "description": "Verified in Geonames and Google Earth with reference to BAtlas map 51 label placement.",
+        "location_precision": "precise",
+        "title": "Geonames Location: Ákra Mákris",
+        "link": "http://pleiades.stoa.org/places/501606/geonames-location-akra-makris"
       }
     }
   ]

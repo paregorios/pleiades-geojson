@@ -3,10 +3,10 @@
   "title": "Salinarum L./Tritonis Palus",
   "id": "334616",
   "bbox": [
-    8.531639,
-    33.4375217,
-    8.531639,
-    33.4375217
+    8.3045375,
+    33.8899226,
+    8.8410522,
+    34.0251297
   ],
   "description": "Salinarum L./Tritonis Palus (modern Chott el Djerid) is a large endorheic salt lake in southern Tunisia.",
   "names": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.531639,
-          33.4375217
+          8.58582924491,
+          33.9713494422
         ]
       },
       "properties": {

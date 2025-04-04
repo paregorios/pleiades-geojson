@@ -3,6 +3,9 @@
   "title": "Atalante",
   "id": "585890",
   "description": "An ancient place, cited: BAtlas 59 unlocated Atalante Ins.",
+  "connectsWith": [
+    "540675"
+  ],
   "names": [
     "Atalante"
   ],

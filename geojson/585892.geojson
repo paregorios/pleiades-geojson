@@ -3,6 +3,10 @@
   "title": "Auridai",
   "id": "585892",
   "description": "An ancient place, cited: BAtlas 59 unlocated Auridai",
+  "connectsWith": [
+    "580122",
+    "579888"
+  ],
   "names": [
     "Auridai"
   ],

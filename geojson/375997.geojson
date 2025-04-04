@@ -4,9 +4,9 @@
   "id": "375997",
   "bbox": [
     20.06425,
-    32.103291,
-    20.950756,
-    32.70947
+    32.12452,
+    20.9630556,
+    32.7134747
   ],
   "description": "Coast road Berenice → Ptolemais",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.510368,
-          32.41135625
+          20.5090683872,
+          32.4158459654
         ]
       },
       "properties": {
