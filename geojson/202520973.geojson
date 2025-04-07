@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary chapel of Amenirdis I",
+  "id": "202520973",
+  "bbox": [
+    32.6014444223,
+    25.718719304,
+    32.6016660373,
+    25.7189143908
+  ],
+  "description": "Funerary chapel of the Divine Adoratrice of Amun Amenirdis I, daughter of King Kashta.",
+  "connectsWith": [
+    "321318358"
+  ],
+  "names": [
+    "Funerary chapel of Amenirdis I",
+    "Chapelle funéraire d'Aménirdis I"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6015548307,
+          25.718817142
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60151517234257,
+              25.71871930397977
+            ],
+            [
+              32.6014444223313,
+              25.71879369817034
+            ],
+            [
+              32.6015933430296,
+              25.71891439081067
+            ],
+            [
+              32.60166603734946,
+              25.71884144249382
+            ],
+            [
+              32.60151517234257,
+              25.71871930397977
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-chapel-of-amenirdis-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of funerary chapel of Amenirdis I",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary chapel of Amenirdis I",
+        "link": "http://pleiades.stoa.org/places/202520973/imagery-location-funerary-chapel-of-amenirdis-i"
+      }
+    }
+  ]
+}

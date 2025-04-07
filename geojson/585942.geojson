@@ -3,6 +3,9 @@
   "title": "Perrhidai",
   "id": "585942",
   "description": "An ancient place, cited: BAtlas 59 unlocated Perrhidai",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Perrhidai"
   ],

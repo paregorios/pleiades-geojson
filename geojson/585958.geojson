@@ -3,6 +3,9 @@
   "title": "Sidertos",
   "id": "585958",
   "description": "An ancient place, cited: BAtlas 59 unlocated Sidertos",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Sidertos"
   ],

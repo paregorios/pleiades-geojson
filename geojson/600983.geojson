@@ -9,6 +9,9 @@
     36.693055
   ],
   "description": "An ancient place, cited: BAtlas 61 E4 unnamed bridge (near Triopion)",
+  "connectsWith": [
+    "599610"
+  ],
   "features": [
     {
       "type": "Feature",

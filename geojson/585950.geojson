@@ -3,6 +3,9 @@
   "title": "Poikilon (mountain)",
   "id": "585950",
   "description": "An ancient place, cited: BAtlas 59 unlocated Poikilon M.",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Poikilon M."
   ],

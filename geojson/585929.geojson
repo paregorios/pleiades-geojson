@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Leukopyra",
   "id": "585929",
-  "description": "An ancient place, cited: BAtlas 59 unlocated Leukopyra",
+  "description": "According to Traill (1975), Leukopyra was a deme of Antiochis as described by Hesychios. It is known as a demotic form from the Antiochid prytany list.",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Leukopyra"
   ],

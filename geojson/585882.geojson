@@ -3,6 +3,9 @@
   "title": "Acherdous",
   "id": "585882",
   "description": "An ancient place, cited: BAtlas 59 unlocated Acherdous",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Acherdous"
   ],

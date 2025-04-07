@@ -9,6 +9,10 @@
     38.152063
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Azenia?",
+  "connectsWith": [
+    "579888",
+    "908290183"
+  ],
   "names": [
     "Azenia"
   ],

@@ -3,6 +3,9 @@
   "title": "Hamaxanteia",
   "id": "585916",
   "description": "A deme of ancient Attica, of the phyle of Hippothontis.",
+  "connectsWith": [
+    "908290183"
+  ],
   "names": [
     "Hamaxanteia"
   ],

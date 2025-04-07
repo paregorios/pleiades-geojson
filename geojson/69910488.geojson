@@ -3,14 +3,15 @@
   "title": "Antro delle Sorti",
   "id": "69910488",
   "bbox": [
-    12.8917156,
-    41.839275,
-    12.8917156,
-    41.839275
+    12.8917232,
+    41.8392773,
+    12.8917232,
+    41.8392773
   ],
   "description": "The \"Cave of the Fates\" at Praeneste is a sanctuary at the base of the city's terraced sanctuary of Fortuna. It was said to contain wooden oracular tablets.",
   "connectsWith": [
-    "423013"
+    "423013",
+    "678434580"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8917156,
-          41.839275
+          12.8917232,
+          41.8392773
         ]
       },
       "properties": {

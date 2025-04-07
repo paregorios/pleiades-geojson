@@ -3,6 +3,9 @@
   "title": "Eunostidai",
   "id": "585910",
   "description": "An ancient place, cited: BAtlas 59 unlocated Eunostidai",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Eunostidai"
   ],

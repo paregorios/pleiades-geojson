@@ -9,6 +9,10 @@
     37.937309
   ],
   "description": "Phalerum was a port of ancient Athens, located approximately 5 km southwest of the Acropolis of Athens, on the Saronic Gulf.",
+  "connectsWith": [
+    "330976685",
+    "579888"
+  ],
   "names": [
     "Phaleron"
   ],

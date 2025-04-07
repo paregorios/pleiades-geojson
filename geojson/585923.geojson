@@ -3,6 +3,9 @@
   "title": "Krioa",
   "id": "585923",
   "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Krioa"
   ],

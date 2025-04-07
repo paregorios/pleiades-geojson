@@ -9,6 +9,9 @@
     38.014602
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Eroiadai",
+  "connectsWith": [
+    "908290183"
+  ],
   "names": [
     "Eroiadai"
   ],

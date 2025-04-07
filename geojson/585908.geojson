@@ -3,6 +3,9 @@
   "title": "Ergadeis",
   "id": "585908",
   "description": "An ancient place, cited: BAtlas 59 unlocated Ergadeis",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Ergadeis"
   ],

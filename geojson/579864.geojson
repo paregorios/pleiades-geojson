@@ -9,6 +9,10 @@
     38.142702
   ],
   "description": "An ancient place, cited: BAtlas 59 C2 Anakaia?",
+  "connectsWith": [
+    "579888",
+    "908290183"
+  ],
   "names": [
     "Anakaia"
   ],

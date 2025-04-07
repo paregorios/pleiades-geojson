@@ -3,6 +3,9 @@
   "title": "Phoron Limen",
   "id": "585946",
   "description": "An ancient place, cited: BAtlas 59 unlocated Phoron Limen",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Phoron Limen"
   ],

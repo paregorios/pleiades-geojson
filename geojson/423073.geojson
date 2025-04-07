@@ -3,10 +3,10 @@
   "title": "Simbruina Stagna",
   "id": "423073",
   "bbox": [
-    13.101729,
-    41.922059,
-    13.106062,
-    41.922622
+    12.5003489,
+    41.8557308,
+    13.3098376,
+    42.0375531
   ],
   "description": "A series of three artificial lakes created along the river Anio.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.1038955,
-          41.9223405
+          13.0475383488,
+          41.9276628764
         ]
       },
       "properties": {

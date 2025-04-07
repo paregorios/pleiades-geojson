@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary chapel of Ankhnesneferibre",
+  "id": "489301610",
+  "bbox": [
+    32.6013243038,
+    25.7188701374,
+    32.6015140002,
+    25.7190329736
+  ],
+  "description": "Presumed remains of the funerary chapel of the Divine Adoratrice of Amun Ankhnesneferibre.",
+  "connectsWith": [
+    "321318358"
+  ],
+  "names": [
+    "Funerary chapel of Ankhnesneferibre",
+    "Chapelle funéraire d'Ânkhnesnéferibrê"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6014185939,
+          25.7189522781
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60144846789915,
+              25.71903297363496
+            ],
+            [
+              32.60151400024461,
+              25.7189703090762
+            ],
+            [
+              32.60138807211753,
+              25.7188701373971
+            ],
+            [
+              32.60132430378929,
+              25.71893710622535
+            ],
+            [
+              32.60144846789915,
+              25.71903297363496
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-chapel-of-ankhnesneferibre",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: approximate location of the remains of funerary chapel of Ankhnesneferibre",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary chapel of Ankhnesneferibre",
+        "link": "http://pleiades.stoa.org/places/489301610/imagery-location-funerary-chapel-of-ankhnesneferibre"
+      }
+    }
+  ]
+}

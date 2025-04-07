@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary chapel of Shepenupet I",
+  "id": "974950163",
+  "bbox": [
+    32.6015412952,
+    25.718685075,
+    32.6017060258,
+    25.7188280167
+  ],
+  "description": "Funerary chapel of the Divine Adoratrice of Amun Shepenupet I, daughter of King Osorkon III.",
+  "connectsWith": [
+    "321318358"
+  ],
+  "names": [
+    "Funerary chapel of Shepenupet I",
+    "Chapelle funéraire de Chépénoupet I"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6016235893,
+          25.718756405
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              32.60159413796035,
+              25.71868507495894
+            ],
+            [
+              32.60154129517543,
+              25.71873909477931
+            ],
+            [
+              32.6016521361808,
+              25.71882801673278
+            ],
+            [
+              32.6017060258391,
+              25.7187728110271
+            ],
+            [
+              32.60159413796035,
+              25.71868507495894
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-funerary-chapel-of-shepenupet-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of funerary chapel of Shepenupet I",
+        "location_precision": "precise",
+        "title": "Imagery Location: Funerary chapel of Shepenupet I",
+        "link": "http://pleiades.stoa.org/places/974950163/imagery-location-funerary-chapel-of-shepenupet-i"
+      }
+    }
+  ]
+}

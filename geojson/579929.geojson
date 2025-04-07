@@ -9,6 +9,10 @@
     38.005234
   ],
   "description": "An ancient place, cited: BAtlas 59 C2 Etosi",
+  "connectsWith": [
+    "580115",
+    "579888"
+  ],
   "features": [
     {
       "type": "Feature",

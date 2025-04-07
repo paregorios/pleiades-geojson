@@ -3,6 +3,9 @@
   "title": "Titakidai",
   "id": "585970",
   "description": "An ancient place, cited: BAtlas 59 unlocated Titakidai",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Titakidai"
   ],

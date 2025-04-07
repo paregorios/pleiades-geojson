@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Limiko",
+  "title": "Limiko (Attica)",
   "id": "580014",
   "bbox": [
     23.69338,
@@ -9,6 +9,9 @@
     38.199727
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Limiko",
+  "connectsWith": [
+    "580097"
+  ],
   "features": [
     {
       "type": "Feature",

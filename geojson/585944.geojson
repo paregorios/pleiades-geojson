@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Phegaia B",
   "id": "585944",
-  "description": "An ancient place, cited: BAtlas 59 unlocated Phegaia B",
+  "description": "Now unlocated, Phegaia B was a deme of ancient Attica in the phyle of Pandionis.",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Phegaia B"
   ],

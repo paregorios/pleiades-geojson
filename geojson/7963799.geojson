@@ -3,10 +3,10 @@
   "title": "Sanctuary of Fortuna Primigenia ",
   "id": "7963799",
   "bbox": [
-    12.8931357,
-    41.8395691,
-    12.8931357,
-    41.8395691
+    12.8909457,
+    41.8395768,
+    12.893282,
+    41.8403623
   ],
   "description": "The Sanctuary of Fortuna Primigenia at Praeneste is a terraced sanctuary of monumental proportions. The phase visible today dates to the late second century B.C.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8931357,
-          41.8395691
+          12.8921715535,
+          41.8399581801
         ]
       },
       "properties": {

@@ -3,6 +3,9 @@
   "title": "Kykala",
   "id": "585924",
   "description": "An ancient place, cited: BAtlas 59 unlocated Kykala",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Kykala"
   ],

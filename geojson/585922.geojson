@@ -3,6 +3,9 @@
   "title": "Klopidai",
   "id": "585922",
   "description": "An ancient place, cited: BAtlas 59 unlocated Klopidai",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Klopidai"
   ],

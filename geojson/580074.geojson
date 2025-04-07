@@ -9,6 +9,9 @@
     38.0698
   ],
   "description": "An ancient place, cited: BAtlas 59 C2 Phegaia",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Phegaia"
   ],
