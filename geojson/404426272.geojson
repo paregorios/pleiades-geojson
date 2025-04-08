@@ -3,10 +3,10 @@
   "title": "House of Aulus Umbricius Scaurus",
   "id": "404426272",
   "bbox": [
-    14.485429,
-    40.74941,
-    14.485429,
-    40.74941
+    14.4820854,
+    40.7484097,
+    14.4880741,
+    40.7515982
   ],
   "description": "The House of Aulus Umbricius Scaurus (Regio VII, Insula 16, entrances 12-15) is considered to be the residence and trading center of the gens Umbricia, a Pompeian family involved in producing and selling garum. The house itself is described as a \"Samnite-type\" house and in the first century B.C. it was most likely owned by the Samnite military commander Maras Spurnius who resisted the invasion of Sulla.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.485429,
-          40.74941
+          14.4852311799,
+          40.7496711742
         ]
       },
       "properties": {

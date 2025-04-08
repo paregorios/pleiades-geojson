@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Trebula Mutuesca",
   "id": "271347289",
   "bbox": [
-    12.868149,
-    42.2283927,
-    12.868149,
-    42.2283927
+    12.8669152,
+    42.2280578,
+    12.8683105,
+    42.2287905
   ],
   "description": "The archaeological remains of the Roman amphitheater at Trebula Mutuesca are located at Monteleone Sabino in the Province of Rieti, Italy.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.868149,
-          42.2283927
+          12.867594003,
+          42.2284516911
         ]
       },
       "properties": {
