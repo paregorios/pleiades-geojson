@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Miskin",
+  "id": "333113314",
+  "bbox": [
+    -3.3793325,
+    51.517821,
+    -3.3793325,
+    51.517821
+  ],
+  "description": "A Roman fort occupied ca. 70-85 CE in Wales.",
+  "names": [
+    "Caergwanaf"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3793325,
+          51.517821
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3793325,
+          51.517821
+        ]
+      },
+      "id": "coflein-location-miskin",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Miskin",
+        "link": "http://pleiades.stoa.org/places/333113314/coflein-location-miskin"
+      }
+    }
+  ]
+}

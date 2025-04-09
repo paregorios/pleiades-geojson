@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Limiko blockhouse (Argolid)",
+  "id": "500721867",
+  "bbox": [
+    22.7205824,
+    37.7441915,
+    22.720733,
+    37.7443146
+  ],
+  "description": "A well-preserved Classical-period blockhouse, located northeast of Fichti in the Argolid.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7206577,
+          37.74425305
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.7205824,
+            37.7442975
+          ],
+          [
+            22.7206051,
+            37.7441915
+          ],
+          [
+            22.720733,
+            37.7442086
+          ],
+          [
+            22.7207103,
+            37.7443146
+          ],
+          [
+            22.7205824,
+            37.7442975
+          ]
+        ]
+      },
+      "id": "osm-location-of-fichtia-blockhouse",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Fichtia Blockhouse",
+        "link": "http://pleiades.stoa.org/places/500721867/osm-location-of-fichtia-blockhouse"
+      }
+    }
+  ]
+}

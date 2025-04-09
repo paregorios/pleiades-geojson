@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lio Piccolo Roman Villa",
+  "id": "199996184",
+  "bbox": [
+    12.4896583,
+    45.4902415,
+    12.4896583,
+    45.4902415
+  ],
+  "description": "A probable Roman villa site at Lio Piccolo in the Venice lagoon, with a well-preserved, first-century oyster tank made of brick and wood.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4896583,
+          45.4902415
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4896583,
+          45.4902415
+        ]
+      },
+      "id": "osm-location-modern-lio-piccolo",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Lio Piccolo",
+        "link": "http://pleiades.stoa.org/places/199996184/osm-location-modern-lio-piccolo"
+      }
+    }
+  ]
+}

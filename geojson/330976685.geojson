@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aiantis",
+  "id": "330976685",
+  "bbox": [
+    23.944366,
+    38.166994,
+    23.944366,
+    38.166994
+  ],
+  "description": "A phyle of ancient Attica that included six demes: Aphidna, Marathon, Oenoe, Rhamnous, Tricorythus, and Phalerum.",
+  "connectsWith": [
+    "579888",
+    "579885"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.944366,
+          38.166994
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

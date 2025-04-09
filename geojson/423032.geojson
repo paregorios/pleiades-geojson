@@ -3,10 +3,10 @@
   "title": "Salone",
   "id": "423032",
   "bbox": [
-    12.6304981,
-    41.913806,
-    12.635238,
-    41.9253848
+    12.6235814,
+    41.9239275,
+    12.6309522,
+    41.9254091
   ],
   "description": "Ancient tuff quarries and a bridge at Salone on the Anio River.",
   "connectsWith": [
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.632981568,
-          41.9194208746
+          12.6278903895,
+          41.924828555
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.635238,
-          41.913806
-        ]
-      },
-      "id": "darmc-location-19578",
-      "type": "Feature",
-      "properties": {
-        "description": "150K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 19578",
-        "link": "http://pleiades.stoa.org/places/423032/darmc-location-19578"
       }
     },
     {
@@ -76,6 +59,109 @@
         "location_precision": "precise",
         "title": "OSM location of Antiche Cave Di Tufo Di Salone",
         "link": "http://pleiades.stoa.org/places/423032/osm-location-of-antiche-cave-di-tufo-di-salone"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6235814,
+            41.924432
+          ],
+          [
+            12.6238561,
+            41.9248024
+          ],
+          [
+            12.6243282,
+            41.9248344
+          ],
+          [
+            12.6243196,
+            41.9254091
+          ],
+          [
+            12.6259418,
+            41.9253899
+          ],
+          [
+            12.6260362,
+            41.924911
+          ],
+          [
+            12.6263538,
+            41.9248982
+          ],
+          [
+            12.6265855,
+            41.9244831
+          ],
+          [
+            12.6264997,
+            41.9240169
+          ],
+          [
+            12.6257787,
+            41.9239467
+          ],
+          [
+            12.6250405,
+            41.9239275
+          ],
+          [
+            12.6250148,
+            41.9243554
+          ],
+          [
+            12.6248088,
+            41.924432
+          ],
+          [
+            12.6245513,
+            41.924432
+          ],
+          [
+            12.6243625,
+            41.9245917
+          ],
+          [
+            12.6242337,
+            41.9245598
+          ],
+          [
+            12.6243625,
+            41.9244193
+          ],
+          [
+            12.6239677,
+            41.923985
+          ],
+          [
+            12.6238561,
+            41.9240169
+          ],
+          [
+            12.6238389,
+            41.9241702
+          ],
+          [
+            12.6237445,
+            41.9242979
+          ],
+          [
+            12.6235814,
+            41.924432
+          ]
+        ]
+      },
+      "id": "osm-location-of-laghetto-di-via-salone",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Laghetto di Via Salone",
+        "link": "http://pleiades.stoa.org/places/423032/osm-location-of-laghetto-di-via-salone"
       }
     }
   ]

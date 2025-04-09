@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Dynevor Park",
+  "id": "522959909",
+  "bbox": [
+    -4.0037423,
+    51.884283,
+    -4.0037423,
+    51.884283
+  ],
+  "description": "Roman forts at Dynevor Park, Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0037423,
+          51.884283
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0037423,
+          51.884283
+        ]
+      },
+      "id": "coflein-location-dynevor-park",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Dynevor Park",
+        "link": "http://pleiades.stoa.org/places/522959909/coflein-location-dynevor-park"
+      }
+    }
+  ]
+}
