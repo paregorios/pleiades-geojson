@@ -4,8 +4,8 @@
   "id": "897519353",
   "bbox": [
     12.8,
-    42.06667,
-    12.8,
+    42.0605735,
+    12.8067436,
     42.06667
   ],
   "description": "A mountain in the ager Sabinus.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8,
-          42.06667
+          12.8033718,
+          42.06362175
         ]
       },
       "properties": {
@@ -41,6 +41,23 @@
         "location_precision": "precise",
         "title": "Imagery location of Monte Gennaro",
         "link": "http://pleiades.stoa.org/places/897519353/imagery-location-of-monte-gennaro"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8067436,
+          42.0605735
+        ]
+      },
+      "id": "osm-location-of-monte-gennaro",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Monte Gennaro",
+        "link": "http://pleiades.stoa.org/places/897519353/osm-location-of-monte-gennaro"
       }
     }
   ]

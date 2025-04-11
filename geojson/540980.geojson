@@ -9,6 +9,9 @@
     38.541841
   ],
   "description": "An ancient village (kome) of Boeotia, mentioned by Pausanias and Stephanus of Byzantium. It is generally identified with a paliokastro located 1km north-northeast of modern Pavlon (1.75km south-southwest of the site of Hyettos); however, the ToposText editors note a recent proposal that it be identified with \"unexcavated remains at Monachou-Paliochori 4.3 km E of Hyettos.\"",
+  "connectsWith": [
+    "775947099"
+  ],
   "names": [
     "Pavlon",
     "Pavlos",

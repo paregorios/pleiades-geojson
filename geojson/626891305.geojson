@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hamamkarahisar Höyüğü",
+  "id": "626891305",
+  "bbox": [
+    31.7239433,
+    39.442378,
+    31.7239433,
+    39.442378
+  ],
+  "description": "An Early Bronze Age settlement located in Central Anatolia to the southwest of Hamam Karahisar Village.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7239433,
+          39.442378
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.7239433,
+          39.442378
+        ]
+      },
+      "id": "osm-location-of-hamamkarahisar-hapya1-4aa1-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hamamkarahisar Höyüğü",
+        "link": "http://pleiades.stoa.org/places/626891305/osm-location-of-hamamkarahisar-hapya1-4aa1-4"
+      }
+    }
+  ]
+}

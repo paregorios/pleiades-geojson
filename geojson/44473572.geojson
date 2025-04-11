@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ruthin",
+  "id": "44473572",
+  "bbox": [
+    -3.3101469,
+    53.111964,
+    -3.3101469,
+    53.111964
+  ],
+  "description": "A Roman fort in Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3101469,
+          53.111964
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3101469,
+          53.111964
+        ]
+      },
+      "id": "coflein-location-ruthin",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Ruthin",
+        "link": "http://pleiades.stoa.org/places/44473572/coflein-location-ruthin"
+      }
+    }
+  ]
+}

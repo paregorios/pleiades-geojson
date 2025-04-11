@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hippothontis",
+  "id": "908290183",
+  "bbox": [
+    23.523682,
+    38.143451,
+    23.524963,
+    38.152063
+  ],
+  "description": "Hippothontis was one of the tribes (phylai) of classical Athens created during the reforms of Cleisthenes.",
+  "connectsWith": [
+    "579888"
+  ],
+  "names": [
+    "Hippothontis",
+    "Hippothontis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5243225,
+          38.147757
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

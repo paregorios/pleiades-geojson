@@ -3,12 +3,12 @@
   "title": "S. Agapito",
   "id": "423033",
   "bbox": [
-    12.892074,
-    41.838965,
-    12.892074,
-    41.838965
+    12.8918714,
+    41.8388515,
+    12.8922785,
+    41.8392959
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 S. Agapito",
+  "description": "S. Agapito, the Palestrina Cathedral also known as the Cattedrale di Sant'Agapito martire, was built atop the ruins of Praeneste's civic forum and its temple. The relics of Saint Agapitus were transferred to this location in 898. The present basilica was consecrated on 16 December 1117 by Pope Pasquale I.",
   "connectsWith": [
     "678434580"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.892074,
-          41.838965
+          12.8920836362,
+          41.8390735689
         ]
       },
       "properties": {
@@ -28,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.892074,
-          41.838965
+          [
+            12.8922559,
+            41.8391094
+          ],
+          [
+            12.8922117,
+            41.8389815
+          ],
+          [
+            12.8921686,
+            41.8388515
+          ],
+          [
+            12.8921559,
+            41.8388538
+          ],
+          [
+            12.8920782,
+            41.8388698
+          ],
+          [
+            12.8920276,
+            41.8388792
+          ],
+          [
+            12.8919627,
+            41.8388913
+          ],
+          [
+            12.8918714,
+            41.8389088
+          ],
+          [
+            12.8919393,
+            41.839109
+          ],
+          [
+            12.8919833,
+            41.8392352
+          ],
+          [
+            12.8919974,
+            41.8392758
+          ],
+          [
+            12.8920547,
+            41.839267
+          ],
+          [
+            12.8920828,
+            41.8392631
+          ],
+          [
+            12.8920851,
+            41.8392714
+          ],
+          [
+            12.8921204,
+            41.8392959
+          ],
+          [
+            12.892206,
+            41.8392849
+          ],
+          [
+            12.892229,
+            41.8392519
+          ],
+          [
+            12.8922155,
+            41.8392074
+          ],
+          [
+            12.8922785,
+            41.8391942
+          ],
+          [
+            12.8922559,
+            41.8391094
+          ]
         ]
       },
-      "id": "darmc-location-23164",
+      "id": "osm-location-of-cattedrale-di-santagapito-martire",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23164",
-        "link": "http://pleiades.stoa.org/places/423033/darmc-location-23164"
+        "title": "OSM location of Cattedrale di Sant'Agapito martire",
+        "link": "http://pleiades.stoa.org/places/423033/osm-location-of-cattedrale-di-santagapito-martire"
       }
     }
   ]

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monachou/Palio Chorio",
+  "id": "775947099",
+  "bbox": [
+    23.153158,
+    38.557429,
+    23.153158,
+    38.557429
+  ],
+  "description": "An unexcavated ancient fortified settlement of eastern Opuntian Lokris that lies about 5km west southwest of modern Martino (6km by road). It has variously been proposed to correspond to ancient Kyrtones or Olmones.",
+  "names": [
+    "Monachou",
+    "Palio Chorio",
+    "Palaiokatound"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.153158,
+          38.557429
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.153158,
+          38.557429
+        ]
+      },
+      "id": "imagery-location-after-katsonopoulou-1990",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery location determined in Google Earth with reference to description and map in Katsonopoulou 1990.",
+        "location_precision": "precise",
+        "title": "Imagery Location after Katsonopoulou 1990",
+        "link": "http://pleiades.stoa.org/places/775947099/imagery-location-after-katsonopoulou-1990"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hamamkarahisar Mosque",
+  "id": "162200478",
+  "bbox": [
+    31.7214507,
+    39.4417135,
+    31.7229554,
+    39.4425814
+  ],
+  "description": "A mosque in Sivrihisar, Eskişehir (Turkey) founded in 1259.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.722237301,
+          39.442097949
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.7229554,
+            39.4418357
+          ],
+          [
+            31.7224297,
+            39.4417135
+          ],
+          [
+            31.7224029,
+            39.4417798
+          ],
+          [
+            31.7215124,
+            39.4417881
+          ],
+          [
+            31.7214507,
+            39.442018
+          ],
+          [
+            31.7215258,
+            39.442165
+          ],
+          [
+            31.7216545,
+            39.4423266
+          ],
+          [
+            31.7222151,
+            39.4424364
+          ],
+          [
+            31.7224672,
+            39.4425793
+          ],
+          [
+            31.7227355,
+            39.4425814
+          ],
+          [
+            31.7229554,
+            39.4418357
+          ]
+        ]
+      },
+      "id": "osm-location-of-hamamkarahisar-mosque",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hamamkarahisar Mosque",
+        "link": "http://pleiades.stoa.org/places/162200478/osm-location-of-hamamkarahisar-mosque"
+      }
+    }
+  ]
+}

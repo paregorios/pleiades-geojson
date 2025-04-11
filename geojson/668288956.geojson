@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "To-Bener",
+  "id": "668288956",
+  "bbox": [
+    31.0416250777,
+    31.0921268383,
+    31.0416250777,
+    31.0921268383
+  ],
+  "description": "To-Bener was an ancient site in Lower Egypt, located east of ancient Xois. It is thought to have been near modern Kafr Matbul.",
+  "names": [
+    "Kafr Matbul",
+    "Matbul",
+    "Kafr Matbùl",
+    "Matbùl"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0416250777,
+          31.0921268383
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0416250776806,
+          31.09212683826523
+        ]
+      },
+      "id": "to-bener",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: modern Kafr Matbul",
+        "location_precision": "precise",
+        "title": "Imagery Location: modern Kafr Matbul",
+        "link": "http://pleiades.stoa.org/places/668288956/to-bener"
+      }
+    }
+  ]
+}

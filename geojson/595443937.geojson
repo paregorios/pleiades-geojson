@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kyrtones tower (Phthiotis)",
+  "id": "595443937",
+  "bbox": [
+    23.0690573,
+    38.6073547,
+    23.0692575,
+    38.6074867
+  ],
+  "description": "The remains of a Hellenistic masonry tower at Pyrgos to the northeast of modern Kyrtones/ex-Kolaka, Phthiotida, Greece.",
+  "connectsWith": [
+    "540898"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0691574,
+          38.6074207
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.0692199,
+            38.6074867
+          ],
+          [
+            23.0690573,
+            38.6074456
+          ],
+          [
+            23.0690949,
+            38.6073547
+          ],
+          [
+            23.0692575,
+            38.6073958
+          ],
+          [
+            23.0692199,
+            38.6074867
+          ]
+        ]
+      },
+      "id": "osm-location-of-kyrtones-tower-phthiotis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kyrtones tower (Phthiotis)",
+        "link": "http://pleiades.stoa.org/places/595443937/osm-location-of-kyrtones-tower-phthiotis"
+      }
+    }
+  ]
+}

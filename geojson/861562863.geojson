@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Rocca Abbaziale",
+  "id": "861562863",
+  "bbox": [
+    13.0944889,
+    41.925949,
+    13.0951279,
+    41.9261895
+  ],
+  "description": "The Rocca Abbaziale at Subiaco was built by Giovanni V in the eleventh century.",
+  "connectsWith": [
+    "423078"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.094811163,
+          41.9260738059
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0945697,
+            41.9260019
+          ],
+          [
+            13.0944889,
+            41.9260382
+          ],
+          [
+            13.0945243,
+            41.9260798
+          ],
+          [
+            13.0945603,
+            41.9260604
+          ],
+          [
+            13.0946001,
+            41.9260938
+          ],
+          [
+            13.0946839,
+            41.9261357
+          ],
+          [
+            13.0948048,
+            41.9261787
+          ],
+          [
+            13.0949356,
+            41.9261895
+          ],
+          [
+            13.094941,
+            41.9261435
+          ],
+          [
+            13.0950554,
+            41.9261517
+          ],
+          [
+            13.0951279,
+            41.9261183
+          ],
+          [
+            13.0951191,
+            41.9260716
+          ],
+          [
+            13.0950635,
+            41.9260835
+          ],
+          [
+            13.0949416,
+            41.9260641
+          ],
+          [
+            13.0948321,
+            41.926049
+          ],
+          [
+            13.094844,
+            41.9259574
+          ],
+          [
+            13.0947322,
+            41.925949
+          ],
+          [
+            13.0946323,
+            41.9259572
+          ],
+          [
+            13.0945706,
+            41.9259855
+          ],
+          [
+            13.0945697,
+            41.9260019
+          ]
+        ]
+      },
+      "id": "osm-location-of-rocca-abbaziale",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Rocca Abbaziale",
+        "link": "http://pleiades.stoa.org/places/861562863/osm-location-of-rocca-abbaziale"
+      }
+    }
+  ]
+}

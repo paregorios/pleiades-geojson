@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge",
   "id": "610798",
   "bbox": [
     28.5,
@@ -8,7 +8,10 @@
     29.0,
     39.0
   ],
-  "description": "An ancient place, cited: BAtlas 62 A4 unnamed bridge (over Hermos fl., SW Thermai Theseos near Hamamlar)",
+  "description": "An unnamed bridge that crosses the Hermos River to the southwest of Thermai Theseos near Hamamlar.",
+  "connectsWith": [
+    "609555"
+  ],
   "features": [
     {
       "type": "Feature",

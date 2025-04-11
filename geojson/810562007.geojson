@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cwmcarfan",
+  "id": "810562007",
+  "bbox": [
+    -2.7677667,
+    51.762951,
+    -2.7677667,
+    51.762951
+  ],
+  "description": "A Roman fort identified with aerial photography in Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7677667,
+          51.762951
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7677667,
+          51.762951
+        ]
+      },
+      "id": "coflein-location-cwmcarfan",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Cwmcarfan",
+        "link": "http://pleiades.stoa.org/places/810562007/coflein-location-cwmcarfan"
+      }
+    }
+  ]
+}

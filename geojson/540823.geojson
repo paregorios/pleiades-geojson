@@ -3,10 +3,10 @@
   "title": "Hyettos",
   "id": "540823",
   "bbox": [
-    23.103147,
-    38.555375,
-    23.103147,
-    38.555375
+    23.1031,
+    38.558,
+    23.1031,
+    38.558
   ],
   "description": "An ancient settlement of Boeotia. The site is located about 2 km east of modern Loutsi in Greece.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.103147,
-          38.555375
+          23.1031,
+          38.558
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.103147,
-          38.555375
+          23.1031,
+          38.558
         ]
       },
-      "id": "darmc-location-12816",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 12816",
-        "link": "http://pleiades.stoa.org/places/540823/darmc-location-12816"
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/540823/topostext-location"
       }
     }
   ]

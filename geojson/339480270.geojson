@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wonastow",
+  "id": "339480270",
+  "bbox": [
+    -2.7493319,
+    51.795978,
+    -2.7493319,
+    51.795978
+  ],
+  "description": "A Roman fort partially excavated in the early 2000s in Wales.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7493319,
+          51.795978
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7493319,
+          51.795978
+        ]
+      },
+      "id": "coflein-location-wonastow",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Wonastow",
+        "link": "http://pleiades.stoa.org/places/339480270/coflein-location-wonastow"
+      }
+    }
+  ]
+}

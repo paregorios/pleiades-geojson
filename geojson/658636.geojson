@@ -4,8 +4,8 @@
   "id": "658636",
   "bbox": [
     37.86983,
-    37.058156,
-    37.86983,
+    37.0570096,
+    37.8708832,
     37.058156
   ],
   "description": "An ancient settlement whose site is located in the Gaziantep province of modern Turkey, at the modern village of Belkis (a.k.a. Kavunlu). The majority of the ancient remains were covered by water in the year 2000, due to the construction of the Birecik Dam.",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.86983,
-          37.058156
+          37.8702201109,
+          37.0577331987
         ]
       },
       "properties": {
@@ -48,6 +48,57 @@
         "location_precision": "precise",
         "title": "DARMC location 3729",
         "link": "http://pleiades.stoa.org/places/658636/darmc-location-3729"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.8703634,
+            37.0574977
+          ],
+          [
+            37.8703362,
+            37.0573011
+          ],
+          [
+            37.8703829,
+            37.0572154
+          ],
+          [
+            37.8703599,
+            37.0570488
+          ],
+          [
+            37.8708058,
+            37.0570096
+          ],
+          [
+            37.8708832,
+            37.0575704
+          ],
+          [
+            37.8705115,
+            37.0576031
+          ],
+          [
+            37.8704954,
+            37.0574861
+          ],
+          [
+            37.8703634,
+            37.0574977
+          ]
+        ]
+      },
+      "id": "osm-location-of-zeugma",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Zeugma",
+        "link": "http://pleiades.stoa.org/places/658636/osm-location-of-zeugma"
       }
     }
   ]
