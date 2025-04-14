@@ -3,8 +3,8 @@
   "title": "Aeclanum",
   "id": "442451",
   "bbox": [
-    14.99419,
-    41.042508,
+    15.0087807,
+    41.0526796,
     15.0126591,
     41.055711
   ],
@@ -28,29 +28,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0050311632,
-          41.0503025547
+          15.0104517447,
+          41.054199832
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.99419,
-          41.042508
-        ]
-      },
-      "id": "darmc-location-18157",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 18157",
-        "link": "http://pleiades.stoa.org/places/442451/darmc-location-18157"
       }
     },
     {

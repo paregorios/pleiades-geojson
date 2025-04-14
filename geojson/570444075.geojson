@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Roman amphitheater at Aeclanum",
+  "title": "Roman macellum at Aeclanum",
   "id": "570444075",
   "bbox": [
-    15.0117076,
-    41.0539492,
-    15.0117076,
-    41.0539492
+    15.0116808,
+    41.0537581,
+    15.0119329,
+    41.0539644
   ],
-  "description": "A Roman amphitheater located at Aeclanum.",
+  "description": "Once hypothetically identified by some scholars as an amphitheater, this structure at Aeclanum is now understood to be a Roman macellum.",
   "connectsWith": [
     "442451"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0117076,
-          41.0539492
+          15.0118048021,
+          41.0538642564
         ]
       },
       "properties": {

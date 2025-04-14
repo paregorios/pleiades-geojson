@@ -3,6 +3,9 @@
   "title": "Perseis",
   "id": "484002",
   "description": "Now unlocated, Perseis was a city founded by Philip V of Macedon ca. 168 B.C. that he named for his son, Perseus.",
+  "connectsWith": [
+    "965485210"
+  ],
   "names": [
     "Perseis"
   ],

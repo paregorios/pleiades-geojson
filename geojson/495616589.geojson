@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Llwyn-y-Brain",
+  "id": "495616589",
+  "bbox": [
+    -3.4141181,
+    52.522008,
+    -3.4141181,
+    52.522008
+  ],
+  "description": "Roman fort in Wales",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4141181,
+          52.522008
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.4141181,
+          52.522008
+        ]
+      },
+      "id": "coflein-location-llwyn-y-brain",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coflein Location: Llwyn-y-Brain",
+        "link": "http://pleiades.stoa.org/places/495616589/coflein-location-llwyn-y-brain"
+      }
+    }
+  ]
+}
