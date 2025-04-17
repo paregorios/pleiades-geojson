@@ -3,10 +3,10 @@
   "title": "Torretarrancho",
   "id": "246702",
   "bbox": [
-    -2.233931,
-    41.955451,
-    -2.233931,
-    41.955451
+    -2.2041453,
+    41.9575179,
+    -2.2041453,
+    41.9575179
   ],
   "description": "An ancient place, cited: BAtlas 25 C4 Torretarrancho",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.233931,
-          41.955451
+          -2.2041453,
+          41.9575179
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.233931,
-          41.955451
+          -2.2041453,
+          41.9575179
         ]
       },
-      "id": "darmc-location-264",
+      "id": "osm-location-of-torretarrancho",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 264",
-        "link": "http://pleiades.stoa.org/places/246702/darmc-location-264"
+        "title": "OSM location of Torretarrancho",
+        "link": "http://pleiades.stoa.org/places/246702/osm-location-of-torretarrancho"
       }
     }
   ]

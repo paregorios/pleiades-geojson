@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ourkesa",
   "id": "270358",
+  "bbox": [
+    -4.0,
+    41.0,
+    -3.0,
+    42.0
+  ],
   "description": "An ancient place, cited: BAtlas 27 unlocated Ourkesa",
   "connectsWith": [
     "246322"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5,
+          41.5
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/270358/batlas-location"
       }
     }
   ]

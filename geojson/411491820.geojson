@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Marialba Paleochristian Basilica",
+  "id": "411491820",
+  "bbox": [
+    -5.5440238,
+    42.5351758,
+    -5.5433326,
+    42.5357378
+  ],
+  "description": "Marialba Paleochristian Basilica dates to the fourth and fifth centuries.",
+  "connectsWith": [
+    "236512"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54367821076,
+          42.5354567927
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.5433326,
+            42.5353362
+          ],
+          [
+            -5.5437068,
+            42.5351758
+          ],
+          [
+            -5.5440238,
+            42.5355774
+          ],
+          [
+            -5.5436497,
+            42.5357378
+          ],
+          [
+            -5.5433326,
+            42.5353362
+          ]
+        ]
+      },
+      "id": "osm-location-of-basalica-paleocristiana-de",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basílica Paleocristiana De Marialba",
+        "link": "http://pleiades.stoa.org/places/411491820/osm-location-of-basalica-paleocristiana-de"
+      }
+    }
+  ]
+}

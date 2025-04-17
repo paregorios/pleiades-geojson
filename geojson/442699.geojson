@@ -9,6 +9,9 @@
     40.762849
   ],
   "description": "An ancient place, cited: BAtlas 45 C3 Oppido Lucano",
+  "connectsWith": [
+    "356966898"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Nisa(ia)/Parthaunisa/Mithradatkert/Shahr-ram-Peroz",
   "id": "952093",
   "bbox": [
-    58.388934,
-    37.937804,
-    58.388934,
-    37.937804
+    58.1947137,
+    37.948712,
+    58.2131726,
+    37.9687925
   ],
   "description": "An ancient Parthian fortress containing two settlement mounds, the tells of Old and New Nisa.",
   "names": [
@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          58.388934,
-          37.937804
+          58.2050432399,
+          37.9590582481
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.388934,
-          37.937804
-        ]
-      },
-      "id": "darmc-location-7644",
-      "type": "Feature",
-      "properties": {
-        "description": "5M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 7644",
-        "link": "http://pleiades.stoa.org/places/952093/darmc-location-7644"
       }
     }
   ]

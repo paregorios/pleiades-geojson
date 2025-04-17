@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "title": "Minor baths of Itálica",
+  "id": "217660370",
+  "bbox": [
+    -6.0420043,
+    37.4379417,
+    -6.0414487,
+    37.4384842
+  ],
+  "description": "The Minor baths of Itálica date to the reign of Trajan. Under Hadrian, the bath complex was expanded to an area of some 1,500 m².",
+  "connectsWith": [
+    "256231"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04172471637,
+          37.4382140666
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0416603,
+            37.4384842
+          ],
+          [
+            -6.0417737,
+            37.4384385
+          ],
+          [
+            -6.04191,
+            37.4383932
+          ],
+          [
+            -6.0419614,
+            37.4383761
+          ],
+          [
+            -6.0420043,
+            37.4383186
+          ],
+          [
+            -6.0418327,
+            37.4379417
+          ],
+          [
+            -6.0415725,
+            37.4380311
+          ],
+          [
+            -6.041602,
+            37.4380971
+          ],
+          [
+            -6.0414487,
+            37.4381289
+          ],
+          [
+            -6.0414682,
+            37.4381721
+          ],
+          [
+            -6.0414822,
+            37.4382028
+          ],
+          [
+            -6.0415008,
+            37.4382438
+          ],
+          [
+            -6.0415837,
+            37.4384265
+          ],
+          [
+            -6.0415937,
+            37.438442
+          ],
+          [
+            -6.0416327,
+            37.4384437
+          ],
+          [
+            -6.0416603,
+            37.4384842
+          ]
+        ]
+      },
+      "id": "osm-location-of-termas-menores",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Termas menores",
+        "link": "http://pleiades.stoa.org/places/217660370/osm-location-of-termas-menores"
+      }
+    }
+  ]
+}

@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Cefn-Brynich",
-  "id": "891506482",
+  "title": "Cefn Caer",
+  "id": "865964169",
   "bbox": [
-    -3.3496751,
-    51.936909,
-    -3.3496751,
-    51.936909
+    -3.913022,
+    52.583199,
+    -3.913022,
+    52.583199
   ],
-  "description": "A Pre-Flavian Roman fort in Wales.",
+  "description": "Roman fort in Wales",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3496751,
-          51.936909
+          -3.913022,
+          52.583199
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.3496751,
-          51.936909
+          -3.913022,
+          52.583199
         ]
       },
-      "id": "coflein-location-cefn-brynich",
+      "id": "coflein-location-cefn-caer",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Coflein Location: Cefn-Brynich",
-        "link": "http://pleiades.stoa.org/places/891506482/coflein-location-cefn-brynich"
+        "title": "Coflein Location: Cefn Caer",
+        "link": "http://pleiades.stoa.org/places/865964169/coflein-location-cefn-caer"
       }
     }
   ]

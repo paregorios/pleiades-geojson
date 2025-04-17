@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Kissynioi",
   "id": "494582",
+  "bbox": [
+    22.589114348,
+    40.7186208786,
+    22.7233159487,
+    41.1197980042
+  ],
   "description": "An ancient place, cited: BAtlas 50 unlocated Kissynioi",
   "connectsWith": [
     "491520"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6586254473,
+          40.9298346167
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/494582/batlas-location"
       }
     }
   ]

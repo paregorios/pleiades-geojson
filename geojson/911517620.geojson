@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monte Mario",
+  "id": "911517620",
+  "bbox": [
+    12.4521318,
+    41.9244045,
+    12.4521318,
+    41.9244045
+  ],
+  "description": "Monte Mario is a hill located on the right bank of the Tiber River.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Monte Mario"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4521318,
+          41.9244045
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4521318,
+          41.9244045
+        ]
+      },
+      "id": "osm-location-of-monte-mario",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Monte Mario",
+        "link": "http://pleiades.stoa.org/places/911517620/osm-location-of-monte-mario"
+      }
+    }
+  ]
+}

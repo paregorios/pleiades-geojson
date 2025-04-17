@@ -9,6 +9,9 @@
     41.214072
   ],
   "description": "Caieta was a town of ancient Latium located on the Tyrrhenian Sea coast between Tarracina and Formiae.",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Caieta",
     "Kaiete"

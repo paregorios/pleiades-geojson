@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Larissa",
   "id": "631221",
+  "bbox": [
+    35.872169,
+    38.617427,
+    35.881251,
+    38.630532
+  ],
   "description": "An ancient place in Cappadocia, lying on a Peutinger map route between \"Arasaxa\" and \"Incilissa\" (the latter possibly a false toponym resulting from scribal error). Modern attempts to identify a precise location are inconclusive.",
   "connectsWith": [
     "631938"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.87671,
+          38.6239795
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

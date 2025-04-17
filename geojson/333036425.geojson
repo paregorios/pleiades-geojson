@@ -3,14 +3,17 @@
   "title": "The Siphnian Treasury",
   "id": "333036425",
   "bbox": [
+    22.5014481,
+    38.4815899,
     22.501642,
-    38.48162,
-    22.501642,
-    38.48162
+    38.4816506
   ],
   "description": "Treasury building erected by the citizens of the island city of Siphnos at Delphi in the late Archaic period, famous for its caryatid columns.",
   "connectsWith": [
     "540726"
+  ],
+  "names": [
+    "Siphnian Treasury"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.501642,
-          38.48162
+          22.5015696,
+          38.481620125
         ]
       },
       "properties": {
@@ -41,6 +44,41 @@
         "location_precision": "precise",
         "title": "Imagery Location of the Siphnian Treasury",
         "link": "http://pleiades.stoa.org/places/333036425/the-siphnian-treasury"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5014638,
+            38.4815899
+          ],
+          [
+            22.5015463,
+            38.4816089
+          ],
+          [
+            22.5015306,
+            38.4816506
+          ],
+          [
+            22.5014481,
+            38.4816316
+          ],
+          [
+            22.5014638,
+            38.4815899
+          ]
+        ]
+      },
+      "id": "osm-location-of-siphnian-treasury",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Siphnian Treasury",
+        "link": "http://pleiades.stoa.org/places/333036425/osm-location-of-siphnian-treasury"
       }
     }
   ]

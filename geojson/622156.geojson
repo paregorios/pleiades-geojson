@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Mithridation",
   "id": "622156",
+  "bbox": [
+    34.2126019919,
+    39.9066770685,
+    34.7426269309,
+    39.9138154515
+  ],
   "description": "Described by Strabo as a \"walled fortress\" \"which Pompey gave to Bogodiatarus\".",
   "connectsWith": [
     "619275"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4776144614,
+          39.91024626
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

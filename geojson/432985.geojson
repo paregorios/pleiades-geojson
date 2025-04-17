@@ -9,6 +9,9 @@
     40.743128
   ],
   "description": "Nuceria (Alfaterna) (modern Nocera Inferiore) is an ancient settlement in Campania. In pre-Roman times this was the chief settlement of the Sarnus river valley.",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Nuceria Alfaterna",
     "Nuceria"

@@ -3,10 +3,10 @@
   "title": "Castel Fiorentino",
   "id": "471828779",
   "bbox": [
-    15.2630447,
-    41.6063643,
-    15.2630447,
-    41.6063643
+    15.2613375,
+    41.605692,
+    15.2646956,
+    41.6068331
   ],
   "description": "The castle was the site of the Holy Emperor Frederick II's death in 1250.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2630447,
-          41.6063643
+          15.2629958512,
+          41.6062780253
         ]
       },
       "properties": {
@@ -28,19 +28,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.2630447,
-          41.6063643
+          [
+            15.2645239,
+            41.6062736
+          ],
+          [
+            15.2642745,
+            41.6061552
+          ],
+          [
+            15.2631238,
+            41.6057963
+          ],
+          [
+            15.2626061,
+            41.605692
+          ],
+          [
+            15.2618095,
+            41.6057882
+          ],
+          [
+            15.2614716,
+            41.6059768
+          ],
+          [
+            15.2613375,
+            41.6061753
+          ],
+          [
+            15.2614528,
+            41.6063819
+          ],
+          [
+            15.2616969,
+            41.6065544
+          ],
+          [
+            15.2620643,
+            41.6066566
+          ],
+          [
+            15.2626544,
+            41.6066506
+          ],
+          [
+            15.2633196,
+            41.6066245
+          ],
+          [
+            15.2635396,
+            41.6066466
+          ],
+          [
+            15.2638453,
+            41.606791
+          ],
+          [
+            15.2640706,
+            41.6068331
+          ],
+          [
+            15.2643281,
+            41.6067148
+          ],
+          [
+            15.2644891,
+            41.6066185
+          ],
+          [
+            15.2646956,
+            41.6064581
+          ],
+          [
+            15.2645239,
+            41.6062736
+          ]
         ]
       },
-      "id": "osm-location-of-castel-fiorentino",
+      "id": "osm-location-castel-fiorentino",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Castel Fiorentino",
-        "link": "http://pleiades.stoa.org/places/471828779/osm-location-of-castel-fiorentino"
+        "title": "OSM location: Castel Fiorentino",
+        "link": "http://pleiades.stoa.org/places/471828779/osm-location-castel-fiorentino"
       }
     }
   ]

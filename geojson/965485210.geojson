@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Crnobuki",
+  "id": "965485210",
+  "bbox": [
+    21.325454,
+    41.128072,
+    21.325454,
+    41.128072
+  ],
+  "description": "An ancient site, known locally as \"Gradishte\", located near the modern North Macedonian village of Crnobuki has so far yielded evidence for occupation from the Bronze Age at least through the Hellenistic period. BAtlDir repeated conjecture that it might be identifiable with the Macedonian-era \"Perseis\" attested in literature.",
+  "names": [
+    "Crnobuki",
+    "Gradishte"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.325454,
+          41.128072
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.325454,
+          41.128072
+        ]
+      },
+      "id": "imagery-location-excavated-area",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: excavated area",
+        "link": "http://pleiades.stoa.org/places/965485210/imagery-location-excavated-area"
+      }
+    }
+  ]
+}

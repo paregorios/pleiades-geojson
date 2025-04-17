@@ -4,14 +4,18 @@
   "id": "820369856",
   "bbox": [
     12.4766288,
-    41.8952077,
-    12.4766288,
-    41.8952077
+    41.8950676,
+    12.4769145,
+    41.8952257
   ],
   "description": "The so-called \"Temple C\" of the Largo Argentina sacred area may be dedicated to the Italic goddess Feronia.",
   "connectsWith": [
     "967215409",
     "422863"
+  ],
+  "names": [
+    "Temple of Feronia",
+    "Aedes Feroniae"
   ],
   "features": [
     {
@@ -19,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4766288,
-          41.8952077
+          12.476771672,
+          41.8951466584
         ]
       },
       "properties": {

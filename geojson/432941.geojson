@@ -9,6 +9,9 @@
     40.786279
   ],
   "description": "An ancient place, cited: BAtlas 44 F4 Misenum",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Misenum",
     "Misenon"

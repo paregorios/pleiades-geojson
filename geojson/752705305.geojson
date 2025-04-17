@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hypogeum at Torre del Giudizio",
+  "id": "752705305",
+  "bbox": [
+    12.4597807,
+    41.8529489,
+    12.4597807,
+    41.8529489
+  ],
+  "description": "A Roman hypogeum-type tomb in the via Teodora was reused in the construction of the tower known as Torre del Giudizio.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4597807,
+          41.8529489
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4597807,
+          41.8529489
+        ]
+      },
+      "id": "osm-location-of-tomba-alla-torre-del-giudizio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomba alla Torre del Giudizio (Sepolcro romano di via Teodora sotto la Torre del Giudizio)",
+        "link": "http://pleiades.stoa.org/places/752705305/osm-location-of-tomba-alla-torre-del-giudizio"
+      }
+    }
+  ]
+}

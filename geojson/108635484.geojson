@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tabernae Veteres",
+  "id": "108635484",
+  "bbox": [
+    12.4832952,
+    41.8902165,
+    12.4908629,
+    41.8931509
+  ],
+  "description": "The so-called Tabernae Veteres were shops built in the valley of the Forum Romanum. The textual tradition assigns responsibility for this project to Lucius Tarquinius Priscus. The state owned the shops and leased them to tenants.",
+  "connectsWith": [
+    "423025",
+    "502866838"
+  ],
+  "names": [
+    "Tabernae veteres"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4869077538,
+          41.891643636
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

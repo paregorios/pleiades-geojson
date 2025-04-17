@@ -10,7 +10,8 @@
   ],
   "description": "An ancient settlement of likely Greek origin along the Via Appia. Cicero was assassinated near Formiae (now Formia) in 43 B.C.",
   "connectsWith": [
-    "356966898"
+    "356966898",
+    "441075550"
   ],
   "names": [
     "Formiae",
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.601067,
-          41.255655
+          13.6035325,
+          41.2560395
         ]
       },
       "properties": {

@@ -8,7 +8,10 @@
     23.891947,
     38.047374
   ],
-  "description": "An ancient place, cited: BAtlas 59 C2 Kydantidai",
+  "description": "Kydantidai, an ancient deme of Attica that is now unlocated, but was possibly located near Pentele.",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Kydantidai"
   ],

@@ -3,12 +3,12 @@
   "title": "Untitled",
   "id": "512653",
   "bbox": [
-    29.974286,
-    40.370988,
-    29.974286,
-    40.370988
+    29.9657647,
+    40.37777,
+    29.9657647,
+    40.37777
   ],
-  "description": "An ancient place, cited: BAtlas 52 F4 unnamed bridge (N Mygdum)",
+  "description": "An unnamed Roman bridge to the north of Mygdum crosses the Göksu Brook that feeds into the Sangarius River.",
   "connectsWith": [
     "511406"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.974286,
-          40.370988
+          29.9657647,
+          40.37777
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.974286,
-          40.370988
+          29.9657647,
+          40.37777
         ]
       },
-      "id": "darmc-location-14767",
+      "id": "osm-location-of-roman-bridge-on-gapksu-brook",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14767",
-        "link": "http://pleiades.stoa.org/places/512653/darmc-location-14767"
+        "title": "OSM location of Roman Bridge on Göksu Brook - Tasköprü",
+        "link": "http://pleiades.stoa.org/places/512653/osm-location-of-roman-bridge-on-gapksu-brook"
       }
     }
   ]

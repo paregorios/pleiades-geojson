@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman baths at Is Bangius",
+  "id": "869750648",
+  "bbox": [
+    8.6641231,
+    39.7850837,
+    8.6670885,
+    39.7866303
+  ],
+  "description": "Terme Romane di Is Bangius",
+  "connectsWith": [
+    "471954"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66502640812,
+          39.7859559599
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6645775,
+            39.7861775
+          ],
+          [
+            8.6645228,
+            39.7861059
+          ],
+          [
+            8.6644425,
+            39.7861421
+          ],
+          [
+            8.6644088,
+            39.7860979
+          ],
+          [
+            8.6644702,
+            39.7860702
+          ],
+          [
+            8.6644609,
+            39.786058
+          ],
+          [
+            8.6643872,
+            39.7860912
+          ],
+          [
+            8.6643378,
+            39.7860264
+          ],
+          [
+            8.6641963,
+            39.7860902
+          ],
+          [
+            8.6641266,
+            39.7859989
+          ],
+          [
+            8.6645409,
+            39.7858122
+          ],
+          [
+            8.6647577,
+            39.7860963
+          ],
+          [
+            8.6645775,
+            39.7861775
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-baths",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of terme romane",
+        "link": "http://pleiades.stoa.org/places/869750648/osm-location-of-roman-baths"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6641231,
+            39.786172
+          ],
+          [
+            8.6642518,
+            39.7851826
+          ],
+          [
+            8.6645093,
+            39.7850837
+          ],
+          [
+            8.6669555,
+            39.7856443
+          ],
+          [
+            8.6670885,
+            39.7866303
+          ],
+          [
+            8.6641231,
+            39.786172
+          ]
+        ]
+      },
+      "id": "osm-location-of-praetorium-e-terme-romane",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Praetorium e terme romane",
+        "link": "http://pleiades.stoa.org/places/869750648/osm-location-of-praetorium-e-terme-romane"
+      }
+    }
+  ]
+}

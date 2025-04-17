@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Bolskan",
   "id": "252941",
+  "bbox": [
+    -0.684245129526,
+    42.1600444758,
+    -0.398709808827,
+    42.1600444758
+  ],
   "description": "An ancient place, cited: BAtlas 25 unlocated Bolskan",
   "connectsWith": [
     "246669"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541477469176,
+          42.1600444758
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/252941/batlas-location"
       }
     }
   ]

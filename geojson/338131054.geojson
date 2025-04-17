@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus della Fortuna Annonaria",
+  "id": "338131054",
+  "bbox": [
+    12.2905171,
+    41.7539998,
+    12.2905171,
+    41.7539998
+  ],
+  "description": "The so-called \"Domus della Fortuna Annonaria\" (V,II,8) is an ancient peristyle house with a nymphaeum located in Ostia. Its initial construction likely dates to the reign of Antoninus Pius.",
+  "connectsWith": [
+    "535208378",
+    "422995"
+  ],
+  "names": [
+    "Domus della Fortuna Annonaria"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2905171,
+          41.7539998
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2905171,
+          41.7539998
+        ]
+      },
+      "id": "osm-location-of-domus-della-fortuna-annonaria-v-ii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus della Fortuna Annonaria (V,II,8)",
+        "link": "http://pleiades.stoa.org/places/338131054/osm-location-of-domus-della-fortuna-annonaria-v-ii"
+      }
+    }
+  ]
+}

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Perseis",
   "id": "484002",
+  "bbox": [
+    21.325454,
+    41.128072,
+    21.325454,
+    41.128072
+  ],
   "description": "Now unlocated, Perseis was a city founded by Philip V of Macedon ca. 168 B.C. that he named for his son, Perseus.",
   "connectsWith": [
     "965485210"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.325454,
+          41.128072
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/484002/batlas-location"
       }
     }
   ]

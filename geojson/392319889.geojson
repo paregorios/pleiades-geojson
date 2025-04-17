@@ -1,13 +1,10 @@
 {
   "type": "FeatureCollection",
-  "title": "Okelon",
-  "id": "240973",
-  "description": "An ancient place, cited: BAtlas 24 unlocated Okelon",
-  "connectsWith": [
-    "165997333"
-  ],
+  "title": "Catara",
+  "id": "392319889",
+  "description": "An ancient place in Cappadocia included on the Peutinger map.",
   "names": [
-    "Okelon"
+    "Catara"
   ],
   "features": [
     {

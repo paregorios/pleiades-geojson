@@ -3,10 +3,10 @@
   "title": "Khirbet ez-Zona",
   "id": "697688",
   "bbox": [
-    35.973295,
-    31.578662,
-    35.973295,
-    31.578662
+    35.9360219,
+    31.5848227,
+    35.9366625,
+    31.58537
   ],
   "description": "An ancient place, cited: BAtlas 71 B2 Khirbet ez-Zona",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.973295,
-          31.578662
+          35.9363422,
+          31.58509635
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.973295,
-          31.578662
+          [
+            35.9360219,
+            31.5850461
+          ],
+          [
+            35.936289,
+            31.58537
+          ],
+          [
+            35.9366625,
+            31.5851466
+          ],
+          [
+            35.9363954,
+            31.5848227
+          ],
+          [
+            35.9360219,
+            31.5850461
+          ]
         ]
       },
-      "id": "darmc-location-17092",
+      "id": "osm-location-of-khirbat-az-zuna",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17092",
-        "link": "http://pleiades.stoa.org/places/697688/darmc-location-17092"
+        "title": "OSM location of Khirbat az-Zuna",
+        "link": "http://pleiades.stoa.org/places/697688/osm-location-of-khirbat-az-zuna"
       }
     }
   ]

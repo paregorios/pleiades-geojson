@@ -8,7 +8,7 @@
     -5.566656,
     42.599864
   ],
-  "description": "An ancient place, cited: BAtlas 24 F2 Legio VII Gemina",
+  "description": "The Roman Legio VII Gemina was based in Tarraconensis and gave its name to the settlement. This ancient place is now León, Spain, which is built atop the ancient settlement.",
   "connectsWith": [
     "240106"
   ],
@@ -41,7 +41,7 @@
       "id": "darmc-location-19149",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19149",
         "link": "http://pleiades.stoa.org/places/236512/darmc-location-19149"

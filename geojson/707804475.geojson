@@ -3,10 +3,10 @@
   "title": "Athenian Treasury at Delphi",
   "id": "707804475",
   "bbox": [
-    22.501279,
-    38.481828,
-    22.501279,
-    38.481828
+    22.5012024,
+    38.4817762,
+    22.5013233,
+    38.4818603
   ],
   "description": "The Athenian Treasury at Delphi, built between 510 and 480 BC, is a building intended to house offerings made to Apollo by the citizens of Athens.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.501279,
-          38.481828
+          22.501270925,
+          38.481823125
         ]
       },
       "properties": {
@@ -44,6 +44,41 @@
         "location_precision": "precise",
         "title": "Imagery location of the Athenian Treasury at Delphi",
         "link": "http://pleiades.stoa.org/places/707804475/athenian-treasury"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5012024,
+            38.4818279
+          ],
+          [
+            22.5012932,
+            38.4818603
+          ],
+          [
+            22.5013233,
+            38.4818086
+          ],
+          [
+            22.5012325,
+            38.4817762
+          ],
+          [
+            22.5012024,
+            38.4818279
+          ]
+        ]
+      },
+      "id": "osm-location-of-athenian-treasury",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Athenian Treasury",
+        "link": "http://pleiades.stoa.org/places/707804475/osm-location-of-athenian-treasury"
       }
     }
   ]
