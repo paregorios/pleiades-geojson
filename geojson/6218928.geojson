@@ -3,10 +3,10 @@
   "title": "Forum of Cosa",
   "id": "6218928",
   "bbox": [
-    11.288333,
-    42.412778,
-    11.288333,
-    42.412778
+    11.2875791,
+    42.4122294,
+    11.2889958,
+    42.4132113
   ],
   "description": "The forum of Cosa functioned as the administrative center of the town and was the site of key administrative and ritual structures.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.288333,
-          42.412778
+          11.288287457,
+          42.4127203667
         ]
       },
       "properties": {
@@ -31,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.288333,
-          42.412778
+          [
+            11.2880432,
+            42.4132113
+          ],
+          [
+            11.2889958,
+            42.4127272
+          ],
+          [
+            11.2885317,
+            42.4122294
+          ],
+          [
+            11.2875791,
+            42.4127136
+          ],
+          [
+            11.2880432,
+            42.4132113
+          ]
         ]
       },
-      "id": "forum-of-cosa",
+      "id": "osm-location-of-forum-of-cosa",
       "type": "Feature",
       "properties": {
-        "description": "The forum of the city",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Forum of Cosa",
-        "link": "http://pleiades.stoa.org/places/6218928/forum-of-cosa"
+        "title": "OSM location of Forum of Cosa",
+        "link": "http://pleiades.stoa.org/places/6218928/osm-location-of-forum-of-cosa"
       }
     }
   ]
