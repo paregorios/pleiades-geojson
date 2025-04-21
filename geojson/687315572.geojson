@@ -9,6 +9,9 @@
     35.9029
   ],
   "description": "A Bronze Age settlement mound, submerged since 1974 in Lake Assad.",
+  "names": [
+    "Tell Fray"
+  ],
   "features": [
     {
       "type": "Feature",

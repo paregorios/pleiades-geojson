@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Parthian empire",
+  "id": "590282460",
+  "description": "The second imperial state of ancient Iran, ca. 247 BC to 224 AD.",
+  "names": [
+    "Parthian Empire"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

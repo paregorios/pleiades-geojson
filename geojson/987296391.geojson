@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tombs of the Calventii",
+  "id": "987296391",
+  "bbox": [
+    14.4963988,
+    40.7498221,
+    14.4964708,
+    40.7498593
+  ],
+  "description": "Burial ground of the gens Calventii in the Porta Nocera necropolis of Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4964315891,
+          40.7498407039
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4964003,
+            40.7498527
+          ],
+          [
+            14.4964561,
+            40.7498593
+          ],
+          [
+            14.4964708,
+            40.7498338
+          ],
+          [
+            14.4963988,
+            40.7498221
+          ],
+          [
+            14.4964003,
+            40.7498527
+          ]
+        ]
+      },
+      "id": "osm-location-of-tombs-of-the-calventii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tombs of the Calventii",
+        "link": "http://pleiades.stoa.org/places/987296391/osm-location-of-tombs-of-the-calventii"
+      }
+    }
+  ]
+}

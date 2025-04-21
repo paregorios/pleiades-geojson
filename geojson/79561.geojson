@@ -3,10 +3,10 @@
   "title": "‘Leucaro’",
   "id": "79561",
   "bbox": [
-    -4.077,
-    51.662,
-    -4.077,
-    51.662
+    -4.0794488,
+    51.6615744,
+    -4.0771901,
+    51.6628888
   ],
   "description": "A Roman auxiliary fort in Wales.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.077,
-          51.662
+          -4.07831397834,
+          51.6622325723
         ]
       },
       "properties": {
@@ -29,19 +29,57 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -4.077,
-          51.662
+          [
+            -4.0771901,
+            51.6621237
+          ],
+          [
+            -4.0771938,
+            51.6621423
+          ],
+          [
+            -4.0772021,
+            51.6621604
+          ],
+          [
+            -4.077832,
+            51.6628888
+          ],
+          [
+            -4.0786859,
+            51.6626047
+          ],
+          [
+            -4.0794488,
+            51.6623508
+          ],
+          [
+            -4.0787775,
+            51.6615744
+          ],
+          [
+            -4.077229,
+            51.6620896
+          ],
+          [
+            -4.0772037,
+            51.6621047
+          ],
+          [
+            -4.0771901,
+            51.6621237
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-leucarum-roman-fort",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/79561/dare-location"
+        "title": "OSM location of Leucarum Roman Fort",
+        "link": "http://pleiades.stoa.org/places/79561/osm-location-of-leucarum-roman-fort"
       }
     }
   ]

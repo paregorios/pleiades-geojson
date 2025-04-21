@@ -1,0 +1,66 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica di San Marco",
+  "id": "415768871",
+  "bbox": [
+    12.5057094,
+    41.8610426,
+    12.5061127,
+    41.8614399
+  ],
+  "description": "The ruins of a Christian basilica located near the Via Ardeatina on the grounds of the Calixtian complex have been connected with the Basilica of Saint Mark. The site was discovered accidentally in 1991 and is associated with the Catacomb of Balbina.",
+  "connectsWith": [
+    "423025",
+    "340262037"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5059129308,
+          41.8612418724
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5058583,
+            41.8614399
+          ],
+          [
+            12.5057094,
+            41.8611056
+          ],
+          [
+            12.5059718,
+            41.8610426
+          ],
+          [
+            12.5061127,
+            41.8613849
+          ],
+          [
+            12.5058583,
+            41.8614399
+          ]
+        ]
+      },
+      "id": "osm-location-of-saint-marks-basilica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Saint Mark's Basilica",
+        "link": "http://pleiades.stoa.org/places/415768871/osm-location-of-saint-marks-basilica"
+      }
+    }
+  ]
+}

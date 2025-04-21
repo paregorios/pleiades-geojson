@@ -3,12 +3,12 @@
   "title": "Pegai/Antipatris/Arethousa?",
   "id": "687996",
   "bbox": [
-    34.930717,
-    32.104811,
-    34.9311,
-    32.1053
+    34.9279677,
+    32.1019084,
+    34.9342954,
+    32.1093302
   ],
-  "description": "Pegai/Antipatris/Arethousa? was a city built by Herod the Great and named for his father-in-law, Antipater.",
+  "description": "A series of settlements and fortifications localized in and around the mound known today as Tel Afek/Râs el-'Ain in Israel. The mound itself is dominated today by the remains of an Ottoman fort, built on Crusader foundations, but an excavated Roman-era odeon can also be seen.",
   "connectsWith": [
     "690074",
     "1001939"
@@ -17,7 +17,9 @@
     "Pegai",
     "Antipatris",
     "Arethousa",
-    "Tel Afek"
+    "Tel Afek",
+    "Ras el-Ain",
+    "Rosh Ha-Ayin"
   ],
   "features": [
     {
@@ -25,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.9309085,
-          32.1050555
+          34.9309736704,
+          32.1052366667
         ]
       },
       "properties": {
@@ -65,6 +67,161 @@
         "location_precision": "precise",
         "title": "CIGS location of Tel Afek",
         "link": "http://pleiades.stoa.org/places/687996/tel-afek"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9293125,
+            32.1093302
+          ],
+          [
+            34.932119,
+            32.1087247
+          ],
+          [
+            34.9334219,
+            32.1084645
+          ],
+          [
+            34.9338213,
+            32.108286
+          ],
+          [
+            34.9340705,
+            32.108032
+          ],
+          [
+            34.9340871,
+            32.1080151
+          ],
+          [
+            34.9342278,
+            32.1077602
+          ],
+          [
+            34.9342954,
+            32.1075745
+          ],
+          [
+            34.9342948,
+            32.1069182
+          ],
+          [
+            34.9342221,
+            32.1063234
+          ],
+          [
+            34.9342163,
+            32.1062758
+          ],
+          [
+            34.934185,
+            32.1054363
+          ],
+          [
+            34.9340417,
+            32.1047095
+          ],
+          [
+            34.9336924,
+            32.1046683
+          ],
+          [
+            34.9336394,
+            32.1046653
+          ],
+          [
+            34.9335841,
+            32.1046641
+          ],
+          [
+            34.933526,
+            32.1046649
+          ],
+          [
+            34.9331712,
+            32.1039079
+          ],
+          [
+            34.9332571,
+            32.1034353
+          ],
+          [
+            34.9324631,
+            32.1022083
+          ],
+          [
+            34.9315083,
+            32.1019084
+          ],
+          [
+            34.9304247,
+            32.102072
+          ],
+          [
+            34.9302959,
+            32.1020946
+          ],
+          [
+            34.9294314,
+            32.1022547
+          ],
+          [
+            34.9285172,
+            32.1028058
+          ],
+          [
+            34.9279677,
+            32.1031165
+          ],
+          [
+            34.9284983,
+            32.1038006
+          ],
+          [
+            34.9285669,
+            32.1045146
+          ],
+          [
+            34.9287859,
+            32.1059794
+          ],
+          [
+            34.9284039,
+            32.1063221
+          ],
+          [
+            34.9286194,
+            32.106738
+          ],
+          [
+            34.9288392,
+            32.1071737
+          ],
+          [
+            34.9291624,
+            32.1086526
+          ],
+          [
+            34.9292407,
+            32.1090549
+          ],
+          [
+            34.9293125,
+            32.1093302
+          ]
+        ]
+      },
+      "id": "osm-location-modern-yarkon-national-park",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Yarkon National Park - Tel Afek Area (Antipatris)",
+        "link": "http://pleiades.stoa.org/places/687996/osm-location-modern-yarkon-national-park"
       }
     }
   ]

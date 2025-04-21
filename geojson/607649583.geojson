@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tramatza Roman bridge",
+  "id": "607649583",
+  "bbox": [
+    8.6503575,
+    39.9967009,
+    8.6513441,
+    39.997914
+  ],
+  "description": "The remains of a Roman bridge at Tramatza cross the Riu di Mare Foghe. Gosner and Nowlin assert that this bridge likely dates to the first century BCE and that its construction may have allowed for better access to the Sardinian interior in the direction of Forum Traiani (Fordongianus). The bridge was repaired in the Middle Ages and again in 1826.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Tramatza Roman bridge"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508508,
+          39.99730745
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6503575,
+            39.997914
+          ],
+          [
+            8.6513441,
+            39.9967009
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-romano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte romano",
+        "link": "http://pleiades.stoa.org/places/607649583/osm-location-of-ponte-romano"
+      }
+    }
+  ]
+}

@@ -8,9 +8,10 @@
     -1.1294709,
     54.2302526
   ],
-  "description": "The River Wharfe, located in northern England, flows from the Yorkshire Dales to join the River Ouse near Cawood. ",
+  "description": "The River Wharfe, located in northern England, flows from the Yorkshire Dales to join the River Ouse near Cawood.",
   "names": [
-    "Verbeia"
+    "Verbeia",
+    "River Wharfe"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.68844023457,
-          53.9772517314
+          -1.68842308257,
+          53.9772310136
         ]
       },
       "properties": {

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mirabel Fortress",
+  "id": "802393070",
+  "bbox": [
+    34.9571024,
+    32.0808063,
+    34.9571024,
+    32.0808063
+  ],
+  "description": "A Crusader fortress, the ruins of which were used to build a 19th-century fortified manor house. They lie over the site of ancient Aphekou Pyrgos in the modern Migdal Tzedek National Park, Israel.",
+  "connectsWith": [
+    "687828"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9571024,
+          32.0808063
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9571024,
+          32.0808063
+        ]
+      },
+      "id": "osm-location-of-migdal-afeq-mirabel-fortress-ruins",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Migdal Afeq (Mirabel Fortress) Ruins",
+        "link": "http://pleiades.stoa.org/places/802393070/osm-location-of-migdal-afeq-mirabel-fortress-ruins"
+      }
+    }
+  ]
+}

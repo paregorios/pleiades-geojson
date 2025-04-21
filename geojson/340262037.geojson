@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Catacomb of Balbina",
+  "id": "340262037",
+  "bbox": [
+    12.5062517,
+    41.8613825,
+    12.5064946,
+    41.8615368
+  ],
+  "description": "The Catacomb of Balbina in the suburbium of Rome lies between the via Appia antica and the via Ardeatina in Rome's Ardeatino district. This catacomb is part of the larger Callixtian complex that includes the catacombs of Callixtus and Santi Marco e Marcelliano. The Depositio episcoporum mentions the catacomb, indicating that Pope Mark was buried \"in Balbinae\" in 336.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Catacomb of Balbina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5063746184,
+          41.8614618654
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5062898,
+            41.8615368
+          ],
+          [
+            12.5064946,
+            41.8614912
+          ],
+          [
+            12.506451,
+            41.8613825
+          ],
+          [
+            12.506382,
+            41.8613979
+          ],
+          [
+            12.5063875,
+            41.8614114
+          ],
+          [
+            12.5062517,
+            41.8614417
+          ],
+          [
+            12.5062898,
+            41.8615368
+          ]
+        ]
+      },
+      "id": "osm-location-of-catacomba-di-balbina",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Catacomba di Balbina",
+        "link": "http://pleiades.stoa.org/places/340262037/osm-location-of-catacomba-di-balbina"
+      }
+    }
+  ]
+}
