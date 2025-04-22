@@ -2,7 +2,13 @@
   "type": "FeatureCollection",
   "title": "Poikilon (mountain)",
   "id": "585950",
-  "description": "An ancient place, cited: BAtlas 59 unlocated Poikilon M.",
+  "bbox": [
+    23.65,
+    38.033333,
+    23.65,
+    38.033333
+  ],
+  "description": "An ancient peak in Attica that BAtlas chose not to map, but commented (BAtlDir) that it was located \"near Daphni.\" Some commentators have tentatively identified it with modern Aigaleo.",
   "connectsWith": [
     "579888"
   ],
@@ -12,20 +18,32 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          38.033333
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.65,
+          38.033333
+        ]
+      },
+      "id": "geohack-location-of-mount-aigaleo",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/585950/batlas-location"
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "GeoHack location of Mount Aigaleo",
+        "link": "http://pleiades.stoa.org/places/585950/geohack-location-of-mount-aigaleo"
       }
     }
   ]

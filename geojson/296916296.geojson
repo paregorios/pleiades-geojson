@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ligar (river)",
+  "id": "296916296",
+  "description": "\"Ligar\" is provided as a name for a river in Mauretania Caesariensis by the Ravenna Cosmographer (ed. Schnetz). Gsell (AAA) views \"Ligar\" as a mistake or corruption for \"Siga\". Neither Schnetz (in his apparatus) nor BAtlDir address the issue. BAtlas/BAtlDir does not include \"Ligar\" at all.",
+  "connectsWith": [
+    "285522"
+  ],
+  "names": [
+    "Ligar"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
