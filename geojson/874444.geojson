@@ -3,10 +3,10 @@
   "title": "Dara/Anastasioupolis",
   "id": "874444",
   "bbox": [
-    40.941111,
-    37.177778,
-    40.954911,
-    37.178991
+    40.9359585,
+    37.1775032,
+    40.9539578,
+    37.1816191
   ],
   "description": "Dara/Anastasioupolis was a fortified Roman city of northern Mesopotamia located on the border with the Sassanid Empire.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.948011,
-          37.1783845
+          40.9481926822,
+          37.1798937774
         ]
       },
       "properties": {
@@ -33,36 +33,216 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          40.954911,
-          37.178991
+          [
+            40.9534142,
+            37.1816148
+          ],
+          [
+            40.9537225,
+            37.1816191
+          ],
+          [
+            40.9539578,
+            37.1815498
+          ],
+          [
+            40.9539073,
+            37.181287
+          ],
+          [
+            40.9537655,
+            37.181198
+          ],
+          [
+            40.9533057,
+            37.1812416
+          ],
+          [
+            40.9532767,
+            37.181287
+          ],
+          [
+            40.9533369,
+            37.181465
+          ],
+          [
+            40.9534142,
+            37.1816148
+          ]
         ]
       },
-      "id": "darmc-location-21457",
+      "id": "osm-location-of-dara-anastasiopolis",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21457",
-        "link": "http://pleiades.stoa.org/places/874444/darmc-location-21457"
+        "title": "OSM location of Dara-Anastasiopolis",
+        "link": "http://pleiades.stoa.org/places/874444/osm-location-of-dara-anastasiopolis"
       }
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          40.941111,
-          37.177778
+          [
+            40.944482,
+            37.1778603
+          ],
+          [
+            40.9434668,
+            37.1778341
+          ],
+          [
+            40.9420429,
+            37.1777448
+          ],
+          [
+            40.9415551,
+            37.1775294
+          ],
+          [
+            40.9402169,
+            37.1775032
+          ],
+          [
+            40.9396698,
+            37.1778656
+          ],
+          [
+            40.9380613,
+            37.1779286
+          ],
+          [
+            40.9376065,
+            37.178186
+          ],
+          [
+            40.9367891,
+            37.1777343
+          ],
+          [
+            40.9362288,
+            37.177666
+          ],
+          [
+            40.9359585,
+            37.1779811
+          ],
+          [
+            40.9371319,
+            37.1788215
+          ],
+          [
+            40.9382657,
+            37.1787007
+          ],
+          [
+            40.938971,
+            37.1786324
+          ],
+          [
+            40.9400917,
+            37.1790263
+          ],
+          [
+            40.9412453,
+            37.178769
+          ],
+          [
+            40.9419507,
+            37.1792942
+          ],
+          [
+            40.9425373,
+            37.1791524
+          ],
+          [
+            40.9431043,
+            37.1785484
+          ],
+          [
+            40.9439283,
+            37.1786744
+          ],
+          [
+            40.9445084,
+            37.1795095
+          ],
+          [
+            40.9453785,
+            37.17952
+          ],
+          [
+            40.9472243,
+            37.178748
+          ],
+          [
+            40.9483568,
+            37.1789536
+          ],
+          [
+            40.9490767,
+            37.1786114
+          ],
+          [
+            40.9493772,
+            37.1783143
+          ],
+          [
+            40.9489951,
+            37.177744
+          ],
+          [
+            40.94864,
+            37.1775958
+          ],
+          [
+            40.9485691,
+            37.1775662
+          ],
+          [
+            40.9476594,
+            37.1776187
+          ],
+          [
+            40.9472226,
+            37.1777869
+          ],
+          [
+            40.9470205,
+            37.1779273
+          ],
+          [
+            40.9467958,
+            37.1784486
+          ],
+          [
+            40.9465189,
+            37.1784276
+          ],
+          [
+            40.9450291,
+            37.1781702
+          ],
+          [
+            40.94495,
+            37.1778341
+          ],
+          [
+            40.944482,
+            37.1778603
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-dara",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/874444/dare-location"
+        "title": "OSM location of Dara",
+        "link": "http://pleiades.stoa.org/places/874444/osm-location-of-dara"
       }
     }
   ]

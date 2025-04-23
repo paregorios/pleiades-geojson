@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed place",
+  "id": "420180717",
+  "description": "An unnamed place included on the Peutinger map. R. Talbert labels it as \"unnamed stretch #51\" and posits that it represents a deadend on the route continuing from Lissos.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

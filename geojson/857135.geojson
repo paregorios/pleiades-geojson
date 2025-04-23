@@ -3,10 +3,10 @@
   "title": "Genetes Pr.",
   "id": "857135",
   "bbox": [
-    37.786,
-    41.114,
-    37.786,
-    41.114
+    37.7865432,
+    41.1164201,
+    37.7865432,
+    41.1164201
   ],
   "description": "An ancient place, cited: BAtlas 87 C3 Genetes Pr.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.786,
-          41.114
+          37.7865432,
+          41.1164201
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.786,
-          41.114
+          37.7865432,
+          41.1164201
         ]
       },
-      "id": "location-of-genetes-pr",
+      "id": "osm-location-of-aam-burnu",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013 based on Barrington Atlas location.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Genetes Pr.",
-        "link": "http://pleiades.stoa.org/places/857135/location-of-genetes-pr"
+        "title": "OSM location of Çam Burnu",
+        "link": "http://pleiades.stoa.org/places/857135/osm-location-of-aam-burnu"
       }
     }
   ]

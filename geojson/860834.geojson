@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Metropolis",
   "id": "860834",
+  "bbox": [
+    37.7482045614,
+    40.7577893686,
+    38.5387804806,
+    40.9201875823
+  ],
   "description": "An ancient place, cited: BAtlas 87 unlocated Metropolis",
   "connectsWith": [
     "857239"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1547360134,
+          40.8213187926
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -9,6 +9,9 @@
     41.002558
   ],
   "description": "An ancient place, cited: BAtlas 87 D4 Tripolis",
+  "connectsWith": [
+    "857239"
+  ],
   "names": [
     "Tripolis"
   ],
