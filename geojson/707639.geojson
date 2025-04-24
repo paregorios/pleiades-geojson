@@ -4,7 +4,7 @@
   "id": "707639",
   "bbox": [
     32.5479901409,
-    34.922149248,
+    34.91667,
     33.3391609254,
     35.0197071493
   ],
@@ -21,12 +21,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.9402863641,
-          34.9475713871
+          32.886808182,
+          34.9321206936
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.83333,
+          34.91667
+        ]
+      },
+      "id": "point-location-of-troodos-mountains",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "GeoNames location of Troodos mountains",
+        "link": "http://pleiades.stoa.org/places/707639/point-location-of-troodos-mountains"
       }
     },
     {

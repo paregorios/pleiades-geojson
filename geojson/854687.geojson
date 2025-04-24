@@ -3,10 +3,10 @@
   "title": "Hermonassa",
   "id": "854687",
   "bbox": [
-    36.711626,
-    45.209576,
-    36.714396,
-    45.218858
+    36.7133266,
+    45.2186901,
+    36.7149038,
+    45.2193287
   ],
   "description": "An Ionian colony on the Gulf of Taman.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.712664,
-          45.2152633333
+          36.714100722,
+          45.2190564375
         ]
       },
       "properties": {
@@ -30,53 +30,57 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          36.71197,
-          45.209576
+          [
+            36.7133266,
+            45.2191776
+          ],
+          [
+            36.7133266,
+            45.219
+          ],
+          [
+            36.7136431,
+            45.2189811
+          ],
+          [
+            36.7136378,
+            45.2186939
+          ],
+          [
+            36.7141527,
+            45.2186901
+          ],
+          [
+            36.7141849,
+            45.2190415
+          ],
+          [
+            36.7148769,
+            45.2190189
+          ],
+          [
+            36.7149038,
+            45.2193023
+          ],
+          [
+            36.7147589,
+            45.2193287
+          ],
+          [
+            36.7133266,
+            45.2191776
+          ]
         ]
       },
-      "id": "darmc-location-275",
+      "id": "osm-location-of-hermonassa",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 275",
-        "link": "http://pleiades.stoa.org/places/854687/darmc-location-275"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.711626,
-          45.217356
-        ]
-      },
-      "id": "darmc-location-277",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 277",
-        "link": "http://pleiades.stoa.org/places/854687/darmc-location-277"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.714396,
-          45.218858
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/854687/dare-location"
+        "title": "OSM location of Hermonassa",
+        "link": "http://pleiades.stoa.org/places/854687/osm-location-of-hermonassa"
       }
     }
   ]

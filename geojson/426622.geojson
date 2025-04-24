@@ -34,13 +34,13 @@
           41.7166154
         ]
       },
-      "id": "location-of-roman-villa-at-lago-di-nemi",
+      "id": "osm-location-of-roman-villa-at-lago-di-nemi",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Roman Villa at Lago di Nemi",
-        "link": "http://pleiades.stoa.org/places/426622/location-of-roman-villa-at-lago-di-nemi"
+        "title": "OSM location of Roman Villa at Lago di Nemi",
+        "link": "http://pleiades.stoa.org/places/426622/osm-location-of-roman-villa-at-lago-di-nemi"
       }
     }
   ]

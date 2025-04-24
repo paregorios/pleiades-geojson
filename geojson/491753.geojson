@@ -3,10 +3,10 @@
   "title": "Volustana",
   "id": "491753",
   "bbox": [
-    22.04299,
-    40.098399,
-    22.04299,
-    40.098399
+    22.05291,
+    40.09816,
+    22.05291,
+    40.09816
   ],
   "description": "An ancient place, cited: BAtlas 50 B4 Volustana",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.04299,
-          40.098399
+          22.05291,
+          40.09816
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.04299,
-          40.098399
+          22.05291,
+          40.09816
         ]
       },
-      "id": "darmc-location-24013",
+      "id": "geonames-location-of-stena-sarantaporou",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Coordinates following GeoNames",
         "location_precision": "precise",
-        "title": "DARMC location 24013",
-        "link": "http://pleiades.stoa.org/places/491753/darmc-location-24013"
+        "title": "GeoNames location of Sténa Sarantapórou ",
+        "link": "http://pleiades.stoa.org/places/491753/geonames-location-of-stena-sarantaporou"
       }
     }
   ]

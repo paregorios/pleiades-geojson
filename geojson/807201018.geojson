@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman villa at Mill End",
+  "id": "807201018",
+  "bbox": [
+    -0.8672088,
+    51.5568139,
+    -0.866547,
+    51.5573215
+  ],
+  "description": "The remains of a Romano-British villa on the Buckinghamshire bank of the River Thames just south of the village of Mill End. The remains were first observed via parchmarks in 1921.",
+  "connectsWith": [
+    "79705"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.866877881525,
+          51.5570677182
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8669085,
+            51.5573215
+          ],
+          [
+            -0.8672088,
+            51.5572176
+          ],
+          [
+            -0.8668471,
+            51.5568139
+          ],
+          [
+            -0.866547,
+            51.5569178
+          ],
+          [
+            -0.8669085,
+            51.5573215
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-villa-at-mill-end",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman villa at Mill End",
+        "link": "http://pleiades.stoa.org/places/807201018/osm-location-of-roman-villa-at-mill-end"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Granianon Akron",
   "id": "472071",
   "bbox": [
-    9.0,
-    41.0,
-    10.0,
-    42.0
+    9.365404,
+    41.595118,
+    9.3655773,
+    41.5952468
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Granianon Akron",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.5,
-          41.5
+          9.36549066404,
+          41.5951824232
         ]
       },
       "properties": {
@@ -28,39 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              9.0,
-              41.0
-            ],
-            [
-              9.0,
-              42.0
-            ],
-            [
-              10.0,
-              42.0
-            ],
-            [
-              10.0,
-              41.0
-            ],
-            [
-              9.0,
-              41.0
-            ]
+            9.3655773,
+            41.5952351
+          ],
+          [
+            9.3654196,
+            41.5952468
+          ],
+          [
+            9.365404,
+            41.5951298
+          ],
+          [
+            9.3655617,
+            41.595118
+          ],
+          [
+            9.3655773,
+            41.5952351
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/472071/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Phare de la Chiappa",
+        "link": "http://pleiades.stoa.org/places/472071/osm-location"
       }
     }
   ]

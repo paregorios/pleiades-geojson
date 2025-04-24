@@ -3,8 +3,8 @@
   "title": "Vicus Contiomagus",
   "id": "109426",
   "bbox": [
-    6.7076426,
-    49.3561421,
+    6.7075183,
+    49.3560601,
     6.7076426,
     49.3561421
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.7076426,
-          49.3561421
+          6.70758045,
+          49.3561011
         ]
       },
       "properties": {
@@ -34,17 +34,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.7075183,
+          49.3560601
+        ]
+      },
+      "id": "osm-location-of-rapmerkastell-contiomagus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Römerkastell Contiomagus",
+        "link": "http://pleiades.stoa.org/places/109426/osm-location-of-rapmerkastell-contiomagus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.7076426,
           49.3561421
         ]
       },
-      "id": "roman-fort",
+      "id": "imagery-location-roman-fort",
       "type": "Feature",
       "properties": {
         "description": "coordinates derived from Google Earth.",
         "location_precision": "precise",
-        "title": "location of Roman fort",
-        "link": "http://pleiades.stoa.org/places/109426/roman-fort"
+        "title": "Imagery location of Roman fort",
+        "link": "http://pleiades.stoa.org/places/109426/imagery-location-roman-fort"
       }
     }
   ]
