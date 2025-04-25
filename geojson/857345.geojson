@@ -8,8 +8,13 @@
     37.2537505,
     40.1702823
   ],
-  "description": "An ancient place, cited: BAtlas 87 B4 Taulara",
+  "description": "The attested Hellenistic settlement of \"Taulara\" may be identified with a now-invisible castle site at modern Horoztepe in Turkey's Tokat province (BAtlas, following Olshausen who argues for a location in the area between Tokat and Horoztepe, but does not commit to the latter).",
+  "connectsWith": [
+    "283551279"
+  ],
   "names": [
+    "Horoztepe",
+    "Bayramtepe",
     "Taulara",
     "Talaura"
   ],

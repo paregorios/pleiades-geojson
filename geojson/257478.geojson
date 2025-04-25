@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Bridge over Gibralzo Arroyo",
   "id": "257478",
   "bbox": [
     -5.9152156,
@@ -8,7 +8,7 @@
     -5.9152156,
     39.4289813
   ],
-  "description": "An ancient place, cited: BAtlas 26 E2 unnamed bridge (SW Turgalium, over Gibralzo Arroyo)",
+  "description": "An ancient bridge located southwest of Turgalium, over Gibralzo Arroyo.",
   "connectsWith": [
     "256491"
   ],

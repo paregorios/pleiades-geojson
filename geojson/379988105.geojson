@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Tellus (Thugga)",
+  "id": "379988105",
+  "bbox": [
+    9.2182378,
+    36.4221116,
+    9.2184442,
+    36.422304
+  ],
+  "description": "The Temple of Tellus (Thugga) dates to the reign of Gallienus ca. 261 CE.",
+  "connectsWith": [
+    "315223"
+  ],
+  "names": [
+    "Temple of Tellus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2183463915,
+          36.4222111128
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2183242,
+            36.4221116
+          ],
+          [
+            9.2184419,
+            36.42216
+          ],
+          [
+            9.2184248,
+            36.4221869
+          ],
+          [
+            9.2184442,
+            36.4221949
+          ],
+          [
+            9.2183748,
+            36.422304
+          ],
+          [
+            9.2183438,
+            36.4222912
+          ],
+          [
+            9.2183048,
+            36.4222928
+          ],
+          [
+            9.2182685,
+            36.4222804
+          ],
+          [
+            9.2182378,
+            36.4222476
+          ],
+          [
+            9.2183242,
+            36.4221116
+          ]
+        ]
+      },
+      "id": "osm-location-temple-of-tellus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Temple of Tellus ",
+        "link": "http://pleiades.stoa.org/places/379988105/osm-location-temple-of-tellus"
+      }
+    }
+  ]
+}

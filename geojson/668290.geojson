@@ -59,13 +59,13 @@
           35.5200185
         ]
       },
-      "id": "62764464462763064264a629",
+      "id": "osm-location-latakia",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Latakia",
-        "link": "http://pleiades.stoa.org/places/668290/62764464462763064264a629"
+        "title": "OSM Location: Latakia",
+        "link": "http://pleiades.stoa.org/places/668290/osm-location-latakia"
       }
     }
   ]
