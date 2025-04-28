@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Small Roman Theater or Odeon at Sisak",
+  "id": "471408012",
+  "bbox": [
+    16.3713229,
+    45.4902451,
+    16.3716578,
+    45.4905827
+  ],
+  "description": "Documented in media released by the Croatian Ministry of Culture and Media in 2025, remains of a small theater or odeon of Roman date have been identified and consolidated under the early 20th-century city hall of modern Sisak in Croatia (ancient Segestica/Siscia). Existence of a theater at Sisak was previously mooted on the basis of a Latin inscription mentioning a \"magister mimariorum\" (leader of a mime-troop?) discovered in the 19th century in a \"Weingarten\" there, but it is unclear if there was an ancient relationship between this inscription, its original social context, and the newly discovered monument.",
+  "connectsWith": [
+    "197504"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3714906,
+          45.4904170372
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3714515,
+            45.4905827
+          ],
+          [
+            16.3716578,
+            45.4905726
+          ],
+          [
+            16.3716502,
+            45.4904964
+          ],
+          [
+            16.3714922,
+            45.4905042
+          ],
+          [
+            16.371476,
+            45.4903412
+          ],
+          [
+            16.3716292,
+            45.4903337
+          ],
+          [
+            16.3716204,
+            45.4902451
+          ],
+          [
+            16.3714002,
+            45.4902559
+          ],
+          [
+            16.3714036,
+            45.4902904
+          ],
+          [
+            16.3713229,
+            45.4902944
+          ],
+          [
+            16.3713478,
+            45.4905427
+          ],
+          [
+            16.371447,
+            45.4905378
+          ],
+          [
+            16.3714515,
+            45.4905827
+          ]
+        ]
+      },
+      "id": "osm-locaton-modern-grad-sisak",
+      "type": "Feature",
+      "properties": {
+        "description": "Location of modern town hall beneath which the theater was found, based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Locaton: modern Grad Sisak",
+        "link": "http://pleiades.stoa.org/places/471408012/osm-locaton-modern-grad-sisak"
+      }
+    }
+  ]
+}

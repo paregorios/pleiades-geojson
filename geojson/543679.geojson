@@ -1,8 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Deukalion",
+  "title": "Deukalion (island)",
   "id": "543679",
   "description": "An ancient place, cited: BAtlas 55 unlocated Deukalion Ins.",
+  "connectsWith": [
+    "540997"
+  ],
   "names": [
     "Deukalion"
   ],

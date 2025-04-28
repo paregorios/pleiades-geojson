@@ -3,6 +3,9 @@
   "title": "Hyperia fons",
   "id": "543727",
   "description": "An ancient place, cited: BAtlas 55 unlocated Hyperia fons",
+  "connectsWith": [
+    "541044"
+  ],
   "names": [
     "Hyperia fons"
   ],
