@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bīt-Ammān (kingdom)",
+  "id": "246986521",
+  "description": "Bīt-Ammān or Ammon was an ancient Semitic-speaking kingdom located east of the Jordan River, in present-day Jordan. The people of this kingdom were known as Ammonites.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

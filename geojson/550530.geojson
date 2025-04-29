@@ -3,10 +3,10 @@
   "title": "Emporio",
   "id": "550530",
   "bbox": [
-    26.018668,
-    38.191913,
-    26.021824,
-    38.201429
+    26.0281593,
+    38.1918551,
+    26.0316614,
+    38.1960405
   ],
   "description": "An ancient place, cited: BAtlas 56 C5 Emporio",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.020246,
-          38.196671
+          26.0296845301,
+          38.1936557278
         ]
       },
       "properties": {
@@ -28,36 +28,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          26.018668,
-          38.201429
+          [
+            26.0281593,
+            38.1949522
+          ],
+          [
+            26.0281967,
+            38.1948578
+          ],
+          [
+            26.0283992,
+            38.1943453
+          ],
+          [
+            26.02863,
+            38.1938102
+          ],
+          [
+            26.0287054,
+            38.1933002
+          ],
+          [
+            26.0286848,
+            38.19281
+          ],
+          [
+            26.0286871,
+            38.192564
+          ],
+          [
+            26.0285615,
+            38.1924688
+          ],
+          [
+            26.0288356,
+            38.1921815
+          ],
+          [
+            26.0290523,
+            38.1920214
+          ],
+          [
+            26.0296129,
+            38.1918551
+          ],
+          [
+            26.0302074,
+            38.1920037
+          ],
+          [
+            26.0307551,
+            38.1919008
+          ],
+          [
+            26.0313819,
+            38.1919516
+          ],
+          [
+            26.0316017,
+            38.1924087
+          ],
+          [
+            26.0316614,
+            38.1931185
+          ],
+          [
+            26.0315548,
+            38.1934651
+          ],
+          [
+            26.0299235,
+            38.1940815
+          ],
+          [
+            26.0293889,
+            38.1950996
+          ],
+          [
+            26.0290964,
+            38.1959543
+          ],
+          [
+            26.0285275,
+            38.1960405
+          ],
+          [
+            26.0281593,
+            38.1949522
+          ]
         ]
       },
-      "id": "darmc-location-1890",
+      "id": "osm-location-of-archaeological-site-of-emporio",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 1890",
-        "link": "http://pleiades.stoa.org/places/550530/darmc-location-1890"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.021824,
-          38.191913
-        ]
-      },
-      "id": "darmc-location-3417",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 3417",
-        "link": "http://pleiades.stoa.org/places/550530/darmc-location-3417"
+        "title": "OSM location of Archaeological Site of Emporio",
+        "link": "http://pleiades.stoa.org/places/550530/osm-location-of-archaeological-site-of-emporio"
       }
     }
   ]

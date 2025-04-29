@@ -3,10 +3,10 @@
   "title": "Castellina del Marangone",
   "id": "440105873",
   "bbox": [
-    11.8359528,
-    42.0611968,
-    11.8359528,
-    42.0611968
+    11.8353236,
+    42.0604355,
+    11.8353236,
+    42.0604355
   ],
   "description": "A small fortified coastal settlement in Etruria occupied from the tenth century B.C. to the first century B.C.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8359528,
-          42.0611968
+          11.8353236,
+          42.0604355
         ]
       },
       "properties": {
@@ -33,8 +33,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8359528,
-          42.0611968
+          11.8353236,
+          42.0604355
         ]
       },
       "id": "osm-location-of-sito-archeologico-la-la-castellina",

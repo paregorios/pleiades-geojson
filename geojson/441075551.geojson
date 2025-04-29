@@ -3,10 +3,10 @@
   "title": "Italia, Regio II",
   "id": "441075551",
   "bbox": [
-    15.5,
-    40.5,
-    18.0,
-    41.5
+    15.7119040486,
+    40.1947491825,
+    18.2079507122,
+    41.4107489349
   ],
   "description": "One of the administrative regions from Augustus's division of Italy, comprising Apulia and Calabria. Described by Pliny the Elder in Book III of his Natural History.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.75,
-          41.0
+          17.0357034152,
+          40.7801635118
         ]
       },
       "properties": {

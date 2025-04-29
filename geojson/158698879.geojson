@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Ishān Abū Kumbārah",
-  "id": "153378876",
+  "title": "Kynosarges",
+  "id": "158698879",
   "bbox": [
-    46.1954,
-    31.0535,
-    46.1954,
-    31.0535
+    23.732,
+    37.966,
+    23.732,
+    37.966
   ],
-  "description": "An archaeological site and the findspot for an inscribed cylinder seal.",
+  "description": "A gymnasium and sanctuary of Herakles at Athens, located southeast of the Acropolis",
+  "connectsWith": [
+    "579885"
+  ],
   "names": [
-    "Ishān Abū Kumbārah"
+    "Kunósarges"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.1954,
-          31.0535
+          23.732,
+          37.966
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.1954,
-          31.0535
+          23.732,
+          37.966
         ]
       },
-      "id": "cigs-location-of-ishan-abu-kumbarah",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "CIGS location of Ishān Abū Kumbārah",
-        "link": "http://pleiades.stoa.org/places/153378876/cigs-location-of-ishan-abu-kumbarah"
+        "title": "ToposText location",
+        "link": "http://pleiades.stoa.org/places/158698879/topostext-location"
       }
     }
   ]

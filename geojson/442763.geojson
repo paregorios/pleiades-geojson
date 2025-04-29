@@ -3,10 +3,10 @@
   "title": "Sallentinum/Iapygia",
   "id": "442763",
   "bbox": [
-    18.368275,
-    39.796261,
-    18.368275,
-    39.796261
+    18.3689976,
+    39.7936558,
+    18.3689976,
+    39.7936558
   ],
   "description": "Cape Leuca, known as Sallentinum and Iapygia in ancient sources, is a headland that forms the extreme southeastern point of Italy and separates the Gulf of Tarentum from the Adriatic Sea.",
   "names": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.368275,
-          39.796261
+          18.3689976,
+          39.7936558
         ]
       },
       "properties": {
@@ -35,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.368275,
-          39.796261
+          18.3689976,
+          39.7936558
         ]
       },
-      "id": "location-of-capo-s.-maria-di-leuca",
+      "id": "osm-location-of-capo-santa-maria-di-leuca",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2012",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Capo S. Maria di Leuca",
-        "link": "http://pleiades.stoa.org/places/442763/location-of-capo-s.-maria-di-leuca"
+        "title": "OSM location of Capo Santa Maria di Leuca",
+        "link": "http://pleiades.stoa.org/places/442763/osm-location-of-capo-santa-maria-di-leuca"
       }
     }
   ]

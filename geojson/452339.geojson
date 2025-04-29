@@ -9,6 +9,9 @@
     39.4804075
   ],
   "description": "An ancient place, cited: BAtlas 46 E3 Hylias fl.",
+  "connectsWith": [
+    "1046"
+  ],
   "names": [
     "Hylias"
   ],

@@ -5,7 +5,7 @@
   "bbox": [
     35.617881406,
     36.8426450325,
-    35.7237674207,
+    35.75,
     36.9758948488
   ],
   "description": "An ancient place, cited: BAtlas 67 B3 Parion Oros",
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.6661718923,
-          36.9128820569
+          35.7080859461,
+          36.8897760285
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.75,
+          36.86667
+        ]
+      },
+      "id": "location-of-misis-dag131",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "Imagery location of Misis Dağı",
+        "link": "http://pleiades.stoa.org/places/658566/location-of-misis-dag131"
       }
     },
     {

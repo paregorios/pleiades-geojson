@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Herakles Hippodetos",
+  "id": "496501628",
+  "bbox": [
+    23.2958425228,
+    38.363270852,
+    23.3803133885,
+    38.3698143698
+  ],
+  "description": "Pausanias describes the Sanctuary of Herakles Hippodetos located in the Teneric plain",
+  "connectsWith": [
+    "541132"
+  ],
+  "names": [
+    "Herakleous hieron mega epikleisin Hippodetou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3353920489,
+          38.365650313
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

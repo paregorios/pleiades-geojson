@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Göllü Dağ (volcano)",
+  "id": "549436283",
+  "bbox": [
+    34.5446033,
+    38.2546612,
+    34.5446033,
+    38.2546612
+  ],
+  "description": "Göllü Dağ is an extinct volcano with a lava dome that contains rhyolite, dacite, and basalt. The formation dates to 1.33 to 0.84 million years. Obsidian at the site was exploited by humans beginning in the Lower Paleolithic period, approximately 800,000 years ago.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5446033,
+          38.2546612
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5446033,
+          38.2546612
+        ]
+      },
+      "id": "osm-location-of-gaplla1-4-daa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Göllü Dağ",
+        "link": "http://pleiades.stoa.org/places/549436283/osm-location-of-gaplla1-4-daa"
+      }
+    }
+  ]
+}

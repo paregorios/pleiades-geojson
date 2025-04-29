@@ -9,6 +9,9 @@
     39.570655
   ],
   "description": "An ancient place, cited: BAtlas 56 D2 Aspaneus",
+  "connectsWith": [
+    "550944"
+  ],
   "names": [
     "Aspaneus"
   ],

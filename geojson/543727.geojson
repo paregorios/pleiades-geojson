@@ -2,30 +2,91 @@
   "type": "FeatureCollection",
   "title": "Hyperia fons",
   "id": "543727",
+  "bbox": [
+    22.742239,
+    39.3840281,
+    22.7428541,
+    39.384648
+  ],
   "description": "An ancient place, cited: BAtlas 55 unlocated Hyperia fons",
   "connectsWith": [
     "541044"
   ],
   "names": [
-    "Hyperia fons"
+    "Hyperia fons",
+    "Hypereia Krini"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7425408742,
+          39.3843181977
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.7424926,
+            39.3840281
+          ],
+          [
+            22.742422,
+            39.3840824
+          ],
+          [
+            22.7423224,
+            39.3842584
+          ],
+          [
+            22.742239,
+            39.3844312
+          ],
+          [
+            22.7423122,
+            39.384648
+          ],
+          [
+            22.7426171,
+            39.3845192
+          ],
+          [
+            22.7427676,
+            39.3844171
+          ],
+          [
+            22.7428386,
+            39.3843127
+          ],
+          [
+            22.7428541,
+            39.3840932
+          ],
+          [
+            22.7427284,
+            39.3840533
+          ],
+          [
+            22.7424926,
+            39.3840281
+          ]
+        ]
+      },
+      "id": "osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/543727/batlas-location"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Αρχαιολογικός χώρος Υπέρειας Κρήνης",
+        "link": "http://pleiades.stoa.org/places/543727/osm-location-of-iiii-i1i-i-i-i3i1ioii-iiii-i-iy"
       }
     }
   ]
