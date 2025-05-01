@@ -3,17 +3,18 @@
   "title": "Bouthroton",
   "id": "530824",
   "bbox": [
-    20.020422,
-    39.745527,
-    20.020422,
-    39.745527
+    20.0174483,
+    39.7436873,
+    20.0238065,
+    39.7480199
   ],
   "description": "Modern Butrint (Butrinti) in Albania, ancient Bouthroton was an ancient Greek and later Roman city located in Epirus. The city became an important bishopric by the sixth century. The site was enrolled as a UNESCO World Heritage Site in 1992 because of its archaeological remains, which date from prehistoric times down through the late Middle Ages.",
   "names": [
     "Bouthrōtón",
     "Buthrotum",
     "Butrint",
-    "Butrint"
+    "Butrint",
+    "Rutharoto"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.020422,
-          39.745527
+          20.0207810013,
+          39.745825716
         ]
       },
       "properties": {
@@ -31,19 +32,223 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          20.020422,
-          39.745527
+          [
+            [
+              20.0188706,
+              39.744204
+            ],
+            [
+              20.0190507,
+              39.7438349
+            ],
+            [
+              20.0191212,
+              39.7437327
+            ],
+            [
+              20.0192962,
+              39.7438394
+            ],
+            [
+              20.0195607,
+              39.7438801
+            ],
+            [
+              20.0196475,
+              39.7438053
+            ],
+            [
+              20.0204769,
+              39.7436873
+            ],
+            [
+              20.0211776,
+              39.7437615
+            ],
+            [
+              20.0215806,
+              39.7438603
+            ],
+            [
+              20.0221049,
+              39.7439887
+            ],
+            [
+              20.0230064,
+              39.7445507
+            ],
+            [
+              20.0231995,
+              39.744621
+            ],
+            [
+              20.0232299,
+              39.744685
+            ],
+            [
+              20.0231451,
+              39.7447102
+            ],
+            [
+              20.0232527,
+              39.744735
+            ],
+            [
+              20.0232927,
+              39.7447263
+            ],
+            [
+              20.023404,
+              39.7448759
+            ],
+            [
+              20.0236443,
+              39.7452407
+            ],
+            [
+              20.0236853,
+              39.7453475
+            ],
+            [
+              20.0237825,
+              39.7454378
+            ],
+            [
+              20.0237936,
+              39.7455477
+            ],
+            [
+              20.0235518,
+              39.7456686
+            ],
+            [
+              20.0235166,
+              39.7457978
+            ],
+            [
+              20.0235101,
+              39.745949
+            ],
+            [
+              20.0235061,
+              39.7460429
+            ],
+            [
+              20.023627,
+              39.7461675
+            ],
+            [
+              20.0236226,
+              39.7463236
+            ],
+            [
+              20.0237618,
+              39.7464209
+            ],
+            [
+              20.0238065,
+              39.7464754
+            ],
+            [
+              20.0237524,
+              39.7465454
+            ],
+            [
+              20.0235641,
+              39.7466518
+            ],
+            [
+              20.0234773,
+              39.7468222
+            ],
+            [
+              20.0235267,
+              39.7471539
+            ],
+            [
+              20.0232786,
+              39.7473526
+            ],
+            [
+              20.0230727,
+              39.747731
+            ],
+            [
+              20.0228003,
+              39.7478897
+            ],
+            [
+              20.0220657,
+              39.7480199
+            ],
+            [
+              20.0213236,
+              39.7480008
+            ],
+            [
+              20.0206963,
+              39.747823
+            ],
+            [
+              20.0201176,
+              39.7474405
+            ],
+            [
+              20.0193383,
+              39.7470024
+            ],
+            [
+              20.0187081,
+              39.7463827
+            ],
+            [
+              20.0174483,
+              39.7463784
+            ],
+            [
+              20.017464,
+              39.745998
+            ],
+            [
+              20.017698,
+              39.7460189
+            ],
+            [
+              20.0181592,
+              39.7459368
+            ],
+            [
+              20.0188087,
+              39.7458003
+            ],
+            [
+              20.0185029,
+              39.7450395
+            ],
+            [
+              20.0186727,
+              39.7448847
+            ],
+            [
+              20.0187579,
+              39.74469
+            ],
+            [
+              20.0188706,
+              39.744204
+            ]
+          ]
         ]
       },
-      "id": "center-of-the-theater-at-butrint",
+      "id": "osm-location-of-buthrotum",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates obtained by eye in Google Earth in September 2012 at an eye altitude of 130m and with reference to a map on www.butrint.org. Dates follow PECS.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Center of the Theater at Butrint",
-        "link": "http://pleiades.stoa.org/places/530824/center-of-the-theater-at-butrint"
+        "title": "OSM location of Buthrotum",
+        "link": "http://pleiades.stoa.org/places/530824/osm-location-of-buthrotum"
       }
     }
   ]

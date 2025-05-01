@@ -3,10 +3,10 @@
   "title": "Ghiaccio Forte",
   "id": "413156",
   "bbox": [
-    11.392759,
-    42.6061983,
-    11.392759,
-    42.6061983
+    11.3900406,
+    42.604842,
+    11.3939714,
+    42.6074223
   ],
   "description": "Ghiaccio Forte was an Etruscan settlement, most likely founded in the fourth century B.C., that was sacked by the Romans ca. 280 B.C.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.392759,
-          42.6061983
+          11.3921086702,
+          42.6062371674
         ]
       },
       "properties": {
@@ -28,19 +28,165 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          11.392759,
-          42.6061983
+          [
+            [
+              11.3931633,
+              42.6067802
+            ],
+            [
+              11.3926517,
+              42.606759
+            ],
+            [
+              11.3922279,
+              42.6065951
+            ],
+            [
+              11.3918605,
+              42.6066346
+            ],
+            [
+              11.3916995,
+              42.6067155
+            ],
+            [
+              11.3916459,
+              42.6069149
+            ],
+            [
+              11.3914796,
+              42.6070629
+            ],
+            [
+              11.391214,
+              42.6072407
+            ],
+            [
+              11.3907474,
+              42.6074223
+            ],
+            [
+              11.3905596,
+              42.6074223
+            ],
+            [
+              11.3902149,
+              42.6072831
+            ],
+            [
+              11.3900963,
+              42.6072077
+            ],
+            [
+              11.3900406,
+              42.6071153
+            ],
+            [
+              11.3901626,
+              42.6068774
+            ],
+            [
+              11.3903557,
+              42.606372
+            ],
+            [
+              11.3906669,
+              42.605914
+            ],
+            [
+              11.39097,
+              42.6058548
+            ],
+            [
+              11.3915064,
+              42.6059969
+            ],
+            [
+              11.3922158,
+              42.6061539
+            ],
+            [
+              11.3923352,
+              42.6060937
+            ],
+            [
+              11.3925552,
+              42.6058824
+            ],
+            [
+              11.3928341,
+              42.6055981
+            ],
+            [
+              11.3929199,
+              42.6053849
+            ],
+            [
+              11.3928556,
+              42.6050454
+            ],
+            [
+              11.3929199,
+              42.604919
+            ],
+            [
+              11.3931763,
+              42.604842
+            ],
+            [
+              11.3934993,
+              42.604919
+            ],
+            [
+              11.3937782,
+              42.6051164
+            ],
+            [
+              11.3939714,
+              42.6053849
+            ],
+            [
+              11.3939392,
+              42.6056376
+            ],
+            [
+              11.3938292,
+              42.6059279
+            ],
+            [
+              11.3938171,
+              42.6061613
+            ]
+          ],
+          [
+            [
+              11.3938171,
+              42.6061613
+            ],
+            [
+              11.3935565,
+              42.6065243
+            ],
+            [
+              11.3935181,
+              42.6066183
+            ],
+            [
+              11.3931633,
+              42.6067802
+            ]
+          ]
         ]
       },
-      "id": "location-of-ghiaccio-forte",
+      "id": "osm-location-of-area-archeologica-ghiaccio-forte",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ghiaccio Forte",
-        "link": "http://pleiades.stoa.org/places/413156/location-of-ghiaccio-forte"
+        "title": "OSM location of Area archeologica Ghiaccio Forte",
+        "link": "http://pleiades.stoa.org/places/413156/osm-location-of-area-archeologica-ghiaccio-forte"
       }
     }
   ]

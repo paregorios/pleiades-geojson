@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Eetioneia Hellenistic gateway",
+  "title": "Eetioneia",
   "id": "487072545",
   "bbox": [
     23.6342183,
@@ -8,7 +8,7 @@
     23.6345464,
     37.9464565
   ],
-  "description": "A fortified gateway protecting the mouth of the Piraeus harbor.",
+  "description": "From the classical period onward, a complex of moles and fortifications at the mouth of the Piraeus harbor. Hellenistic fortifications are the most obvious component of the visible archaeological assemblage today.",
   "connectsWith": [
     "580062",
     "582868"

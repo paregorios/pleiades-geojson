@@ -5,8 +5,8 @@
   "bbox": [
     8.59403546877,
     36.683441,
-    15.6516917,
-    38.2666667
+    15.6530796,
+    38.2678505
   ],
   "description": "Sicily is the largest island in the Mediterranean Sea and has been the site of human habitation since ca. 8,000 BC. In historical terms Sicily has seen important settlement activity connected to numerous culture groups - Punic, Carthaginian, Greek, Roman, Vandalic, Ostrogothic, Byzantine, Arabic, and Norman.",
   "connectsWith": [
@@ -17,8 +17,8 @@
     "Sicilia",
     "Sicily",
     "Trinacria",
-    "Sikelía",
-    "Sizilien"
+    "Sizilien",
+    "Sikelía"
   ],
   "features": [
     {
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0369337599,
-          37.6149521706
+          14.0434790443,
+          37.6145917375
         ]
       },
       "properties": {

@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Meidios (river)",
   "id": "507425",
-  "description": "An ancient place, cited: BAtlas 51 unlocated Meidios fl.",
+  "description": "An ancient river mentioned by Thucydides that probably drained into the Hellespont. Its precise identification has not been determined.",
+  "connectsWith": [
+    "501434"
+  ],
   "names": [
     "Meidios"
   ],

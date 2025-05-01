@@ -3,10 +3,10 @@
   "title": "Unnamed villa",
   "id": "324841375",
   "bbox": [
-    13.459291,
-    32.845518,
-    13.459291,
-    32.845518
+    10.6356179715,
+    32.3333065626,
+    13.1221547226,
+    32.984684013
   ],
   "description": "An unnamed villa of Tripolitana",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.459291,
-          32.845518
+          11.8507319736,
+          32.5994297955
         ]
       },
       "properties": {
@@ -61,23 +61,6 @@
         "location_precision": "rough",
         "title": "Barrington Atlas grid location",
         "link": "http://pleiades.stoa.org/places/324841375/barrington-atlas-grid-location"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.459291,
-          32.845518
-        ]
-      },
-      "id": "darmc-location-26948",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 26948",
-        "link": "http://pleiades.stoa.org/places/324841375/darmc-location-26948"
       }
     }
   ]

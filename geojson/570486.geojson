@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.3622140372,
-          37.9697021862
+          23.3622280745,
+          37.9698043724
         ]
       },
       "properties": {
@@ -191,23 +191,6 @@
         "location_precision": "precise",
         "title": "OSM location of Pachaki",
         "link": "http://pleiades.stoa.org/places/570486/osm-location-of-pachaki"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.3622,
-          37.9696
-        ]
-      },
-      "id": "imagery-location-of-minoa-ins",
-      "type": "Feature",
-      "properties": {
-        "description": "Coordinates after BAtlas; verified in Google Earth 2013.",
-        "location_precision": "precise",
-        "title": "Imagery location of Minoa Ins.",
-        "link": "http://pleiades.stoa.org/places/570486/imagery-location-of-minoa-ins"
       }
     }
   ]
