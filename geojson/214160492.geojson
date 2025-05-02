@@ -3,10 +3,10 @@
   "title": "Urartu",
   "id": "214160492",
   "bbox": [
-    43.3353794,
-    37.429713,
-    45.2946505,
-    40.1551476
+    38.375992,
+    37.1613426,
+    47.5494616,
+    40.1552269
   ],
   "description": "An eastern Anatolian kingdom on the eastern shore of Lake Van. Originating from a regional collection of principalities first mentioned in the 13th century BCE, it had become a single political entity by the 9th century BCE. Urartu was a powerful rival to the Neo-Assyrian Empire. It ceased to exist sometime in the late 7th or early 6th century BCE.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.1764935417,
-          39.1384376833
+          44.0900369133,
+          38.473033738
         ]
       },
       "properties": {
