@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Marmos",
+  "id": "608036268",
+  "bbox": [
+    42.7025677,
+    39.231678,
+    42.7025677,
+    39.231678
+  ],
+  "description": "Marmos is a settlement in the Ağrı Province in Eastern Turkey. Here a stele with an inscription of the Urartian king Minua (9th/8th century BCE) was found which reports the construction of a canal.",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "Koçaklar"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7025677,
+          39.231678
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.7025677,
+          39.231678
+        ]
+      },
+      "id": "kocaklar",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Koçaklar",
+        "link": "http://pleiades.stoa.org/places/608036268/kocaklar"
+      }
+    }
+  ]
+}

@@ -2,17 +2,63 @@
   "type": "FeatureCollection",
   "title": "Aşağı Anzaf Fortress",
   "id": "992492638",
+  "bbox": [
+    43.4636071,
+    38.5673387,
+    43.4648129,
+    38.5683882
+  ],
   "description": "The Aşağı Anzaf Fortress (\"Lower Anzaf Fortress\") is situated in the Van region in southeast Turkey. It was built by the Urartian King Išpuini (9th / 8th century BCE) who reports about his building activity in several building inscriptions (see especially the building inscription on the fortification wall (CTU A 2-6). Another fortress at Anzaf, namely Yukarı Anzaf (Upper Anzaf) was built by Išpuini's son Minua (9th / 8th century BCE).",
   "connectsWith": [
-    "822238500",
     "214160492"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4642100043,
+          38.5678634333
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.4648129,
+            38.5676307
+          ],
+          [
+            43.4641696,
+            38.5673387
+          ],
+          [
+            43.4636071,
+            38.5680961
+          ],
+          [
+            43.4642504,
+            38.5683882
+          ],
+          [
+            43.4648129,
+            38.5676307
+          ]
+        ]
+      },
+      "id": "osm-location-aaaaa-anzaf-kalesi",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Aşağı-Anzaf Kalesi",
+        "link": "http://pleiades.stoa.org/places/992492638/osm-location-aaaaa-anzaf-kalesi"
       }
     }
   ]

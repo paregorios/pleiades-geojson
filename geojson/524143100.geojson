@@ -44,7 +44,7 @@
       "properties": {
         "description": "coordinates after GeoHack.",
         "location_precision": "precise",
-        "title": "location of Amnisos",
+        "title": "Imagery location of Amnisos",
         "link": "http://pleiades.stoa.org/places/524143100/location-of-amnisos"
       }
     }

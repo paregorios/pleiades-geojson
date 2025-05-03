@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mahmudabad",
+  "id": "252095093",
+  "bbox": [
+    45.130571,
+    37.3659163,
+    45.130571,
+    37.3659163
+  ],
+  "description": "Mahmudabad is a modern settlement in the West Azerbaijan Region in the Northeast of Iran. Here a stone slab with an inscription of the Urartian king Rusa I. (8th century BCE) was found which lists offerings for undertaking a royal campaign.",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "Mahmudabad"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.130571,
+          37.3659163
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.130571,
+          37.3659163
+        ]
+      },
+      "id": "osm-location-modern-mahmudabad",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern محمودآباد",
+        "link": "http://pleiades.stoa.org/places/252095093/osm-location-modern-mahmudabad"
+      }
+    }
+  ]
+}

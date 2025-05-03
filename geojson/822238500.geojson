@@ -2,18 +2,80 @@
   "type": "FeatureCollection",
   "title": "Yukarı Anzaf Fortress",
   "id": "822238500",
+  "bbox": [
+    43.4680134,
+    38.55867,
+    43.4716397,
+    38.5605912
+  ],
   "description": "The Yukarı Anzaf Fortress (\"Upper Anzaf Fortress\") is situated in the Van region in southeast Turkey. It was built by the Urartean King Minua (9th / 8th century BCE) who reports about his building activity in several building inscriptions. The fortress is situated close to Aşağı Anzaf Fortress (\"Lower Anzaf Fortress\") which had been built by Minua's father Išpuini.",
   "connectsWith": [
-    "214160492",
     "214160492",
     "992492638"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4697541514,
+          38.5595884203
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.4712213,
+            38.5590308
+          ],
+          [
+            43.4685659,
+            38.55867
+          ],
+          [
+            43.4680134,
+            38.5597355
+          ],
+          [
+            43.468464,
+            38.5603605
+          ],
+          [
+            43.4690756,
+            38.5605912
+          ],
+          [
+            43.4713179,
+            38.5599914
+          ],
+          [
+            43.4716397,
+            38.5595929
+          ],
+          [
+            43.4715807,
+            38.5593118
+          ],
+          [
+            43.4712213,
+            38.5590308
+          ]
+        ]
+      },
+      "id": "osm-location-of-yukara-anzaf-kalesi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Yukarı Anzaf Kalesi",
+        "link": "http://pleiades.stoa.org/places/822238500/osm-location-of-yukara-anzaf-kalesi"
       }
     }
   ]

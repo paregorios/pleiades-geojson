@@ -3,10 +3,10 @@
   "title": "Temple of Trajan at Italica",
   "id": "627230788",
   "bbox": [
-    -6.044551,
-    37.4403044,
-    -6.044551,
-    37.4403044
+    -6.044761,
+    37.440273,
+    -6.044761,
+    37.440273
   ],
   "description": "A sanctuary dedicated to Trajan in the 'urbs nova' of Italica that flourished under the patronage of Hadrian.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.044551,
-          37.4403044
+          -6.044761,
+          37.440273
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.044551,
-          37.4403044
+          -6.044761,
+          37.440273
         ]
       },
-      "id": "location-of-temple-of-trajan",
+      "id": "osm-location-of-templo-de-trajano",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Trajan",
-        "link": "http://pleiades.stoa.org/places/627230788/location-of-temple-of-trajan"
+        "title": "OSM location of Templo de Trajano",
+        "link": "http://pleiades.stoa.org/places/627230788/osm-location-of-templo-de-trajano"
       }
     }
   ]
