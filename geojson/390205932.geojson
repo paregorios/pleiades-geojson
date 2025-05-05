@@ -6,7 +6,7 @@
     12.2792485,
     41.7487005,
     12.4842532,
-    41.8766455
+    41.8766505
   ],
   "description": "An ancient road running from Rome to Ostia, exiting the city walls of Rome at the Porta Trigemina.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4160343521,
-          41.8161462807
+          12.4139368074,
+          41.8165778665
         ]
       },
       "properties": {

@@ -5,8 +5,8 @@
   "bbox": [
     12.2514705,
     41.7747038,
-    12.4794,
-    41.8893
+    12.4795475,
+    41.8894072
   ],
   "description": "The Via Portuensis is an ancient Roman road that connected Rome and Portus. It proceeded along the right bank of the Tiber river, starting from the Pons Aemilius. In the first part of its course it is identical to the Via Campana.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2560371414,
-          41.7773596512
+          12.3594625207,
+          41.8274126256
         ]
       },
       "properties": {

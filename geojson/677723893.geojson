@@ -3,10 +3,10 @@
   "title": "Ager Lunensis Survey area",
   "id": "677723893",
   "bbox": [
+    9.8217022,
+    44.0459741,
     10.1023532,
-    44.0791804,
-    10.1023532,
-    44.0791804
+    44.1033871
   ],
   "description": "An archaeological survey in the territory of Luni that tracked settlement patterns between ca. A.D. 300 and A.D. 1200.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1023532,
-          44.0791804
+          9.9814821125,
+          44.0730677125
         ]
       },
       "properties": {
