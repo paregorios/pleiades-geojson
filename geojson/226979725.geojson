@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Hither Province (Pylos)",
   "id": "226979725",
+  "bbox": [
+    21.6918124,
+    37.024784,
+    21.6981559,
+    37.0290718
+  ],
   "description": "The Hither Province of Mycenaean Pylos, containing nine settlements as recorded in the Linear B tablets.",
   "connectsWith": [
     "156116232"
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6950737592,
+          37.0270431098
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

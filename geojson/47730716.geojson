@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Etruscan Pyramid of Bomarzo",
+  "id": "47730716",
+  "bbox": [
+    12.264187,
+    42.4813921,
+    12.264187,
+    42.4813921
+  ],
+  "description": "The so-called Etruscan Pyramid of Bomarzo is a megalithic, rock-cut monument at Bomarzo. It likely dates to the late Archaic period.",
+  "connectsWith": [
+    "413268"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264187,
+          42.4813921
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264187,
+          42.4813921
+        ]
+      },
+      "id": "osm-location-of-so-called-piramide-etrusca",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of so-called Piramide Etrusca",
+        "link": "http://pleiades.stoa.org/places/47730716/osm-location-of-so-called-piramide-etrusca"
+      }
+    }
+  ]
+}

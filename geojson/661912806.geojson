@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicus Veneris Almae",
+  "id": "661912806",
+  "description": "A street in Regio XII of ancient Rome that is also listed on the so-called Capitoline Base. It may have been located southeast of the Circus Maximus.",
+  "connectsWith": [
+    "423025",
+    "886355306"
+  ],
+  "names": [
+    "Vicus Veneris Almae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

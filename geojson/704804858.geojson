@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Dotion",
-  "id": "550518",
+  "title": "Tomb of Septimia Galla",
+  "id": "704804858",
   "bbox": [
-    26.0105196,
-    38.1787924,
-    26.0105196,
-    38.1787924
+    12.5502015,
+    41.8256353,
+    12.5502015,
+    41.8256353
   ],
-  "description": "An ancient place, cited: BAtlas 56 C5 Dotion",
+  "description": "A Roman tomb at the sixth mile of the Via Appia.",
   "connectsWith": [
-    "550497"
+    "356966898"
   ],
   "names": [
-    "Dotion"
+    "Tomb of Septimia Galla"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.0105196,
-          38.1787924
+          12.5502015,
+          41.8256353
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.0105196,
-          38.1787924
+          12.5502015,
+          41.8256353
         ]
       },
-      "id": "osm-location-of-dotia-tower",
+      "id": "osm-location-of-tomba-di-septimia-galla",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Dotia Tower",
-        "link": "http://pleiades.stoa.org/places/550518/osm-location-of-dotia-tower"
+        "title": "OSM location of Tomba di Septimia Galla",
+        "link": "http://pleiades.stoa.org/places/704804858/osm-location-of-tomba-di-septimia-galla"
       }
     }
   ]

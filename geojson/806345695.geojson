@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Maggiore Basilica",
+  "id": "806345695",
+  "bbox": [
+    12.5162844,
+    41.8916662,
+    12.5166322,
+    41.8918916
+  ],
+  "description": "The so-called underground basilica near Rome's Porta Maggiore is situated 12 meters below ground level. This vaulted space with a triple nave design is decorated with an elaborate stucco work program. The \"basilica\" was discovered accidentally in 1917. The site has been dated to the first century BCE and is likely linked to the activities of the neo-Pythagoreans.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Basilica Sotterranea di Porta Maggiore"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5164726335,
+          41.8917856878
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5162844,
+            41.8918332
+          ],
+          [
+            12.5163368,
+            41.8918916
+          ],
+          [
+            12.5166322,
+            41.8917713
+          ],
+          [
+            12.5166217,
+            41.8916662
+          ],
+          [
+            12.5162844,
+            41.8918332
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilica-sotterranea-di-porta",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica Sotterranea di Porta Maggiore",
+        "link": "http://pleiades.stoa.org/places/806345695/osm-location-of-basilica-sotterranea-di-porta"
+      }
+    }
+  ]
+}

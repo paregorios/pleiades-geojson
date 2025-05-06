@@ -3,10 +3,10 @@
   "title": "Temple of Aphrodite (Thessalonica)",
   "id": "630598189",
   "bbox": [
-    22.9406241,
-    40.6403634,
-    22.9406241,
-    40.6403634
+    22.9406719,
+    40.6403224,
+    22.9406719,
+    40.6403224
   ],
   "description": "The remains of a marble temple executed in the Ionic order.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9406241,
-          40.6403634
+          22.9406719,
+          40.6403224
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.9406241,
-          40.6403634
+          22.9406719,
+          40.6403224
         ]
       },
       "id": "osm-location-of-temple-of-aphrodite",

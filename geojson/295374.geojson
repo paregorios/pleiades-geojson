@@ -3,10 +3,10 @@
   "title": "Zucchabar",
   "id": "295374",
   "bbox": [
-    2.223758,
+    2.22619,
     36.304782,
     2.22619,
-    36.304939
+    36.304782
   ],
   "description": "Zucchabar was an ancient city of Mauretania Caesariensis with Punic origins. The modern Algerian community of Miliana lies atop and around the largely unexcavated ancient site. Epigraphic evidence indicates that the Roman emperor Augustus established a veteran colony there.",
   "connectsWith": [
@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.224974,
-          36.3048605
+          2.22619,
+          36.304782
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.223758,
-          36.304939
-        ]
-      },
-      "id": "darmc-location-15549",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 15549",
-        "link": "http://pleiades.stoa.org/places/295374/darmc-location-15549"
       }
     },
     {

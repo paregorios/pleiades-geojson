@@ -3,10 +3,10 @@
   "title": "Russi Roman Villa",
   "id": "393485",
   "bbox": [
-    12.0312746,
-    44.3815917,
-    12.0319756,
-    44.3822165
+    12.0312458,
+    44.3815456,
+    12.0321122,
+    44.38223
   ],
   "description": "The remains of an extensive Roman villa dating from the first century B.C. onward, located at modern Russi, Italy.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.031627583,
-          44.3818993146
+          12.0316726854,
+          44.3818706766
         ]
       },
       "properties": {
@@ -28,42 +28,62 @@
         "type": "LineString",
         "coordinates": [
           [
-            12.0315385,
-            44.3821978
+            12.0313719,
+            44.38223
           ],
           [
-            12.0313879,
-            44.3822165
+            12.0319941,
+            44.382136
           ],
           [
-            12.0312746,
-            44.3816962
+            12.0319727,
+            44.3819309
           ],
           [
-            12.0315927,
-            44.3816076
+            12.0321122,
+            44.3818638
           ],
           [
-            12.0318763,
-            44.3815917
+            12.0320666,
+            44.3816223
           ],
           [
-            12.0319756,
-            44.3821146
+            12.031852,
+            44.3816415
           ],
           [
-            12.0315385,
-            44.3821978
+            12.0318466,
+            44.3815456
+          ],
+          [
+            12.0312914,
+            44.3816338
+          ],
+          [
+            12.0312968,
+            44.3816664
+          ],
+          [
+            12.0312458,
+            44.3816855
+          ],
+          [
+            12.0312485,
+            44.3818677
+          ],
+          [
+            12.0313719,
+            44.38223
           ]
         ]
       },
-      "id": "location-of-roman-villa",
+      "id": "osm-location-villa-romana-di-russi",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa Romana di Russi",
-        "link": "http://pleiades.stoa.org/places/393485/location-of-roman-villa"
+        "title": "OSM location: Villa Romana di Russi",
+        "link": "http://pleiades.stoa.org/places/393485/osm-location-villa-romana-di-russi"
       }
     }
   ]

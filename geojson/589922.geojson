@@ -3,10 +3,10 @@
   "title": "Mallia",
   "id": "589922",
   "bbox": [
-    25.4905179,
-    35.2923839,
-    25.4936637,
-    35.2942588
+    25.490081,
+    35.292324,
+    25.4937187,
+    35.2946009
   ],
   "description": "Mallia is a site on the northern coast of Crete that was the location of a major Minoan palatial center of the Middle Bronze Age.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.492544379,
-          35.2931720252
+          25.4924456557,
+          35.2932736955
         ]
       },
       "properties": {

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sepolcro di via Bisignano",
+  "id": "883152117",
+  "bbox": [
+    12.5567237,
+    41.8303282,
+    12.5568102,
+    41.8304008
+  ],
+  "description": "An ancient Roman brick tomb of the second century that is located in the Via Bisignano between the fifth mile of Via Appia Antica and the seventh kilometer of Via Appia Nuova. The tomb has also been known as the Temple of Salus. Its typology is comparable to that of the tomb of Publius Aelius Callistion.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Sepolcro di via Bisignano"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5567669322,
+          41.8303644893
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5567237,
+            41.8303893
+          ],
+          [
+            12.5567423,
+            41.8303282
+          ],
+          [
+            12.5568102,
+            41.8303397
+          ],
+          [
+            12.5567915,
+            41.8304008
+          ],
+          [
+            12.5567237,
+            41.8303893
+          ]
+        ]
+      },
+      "id": "osm-location-of-sepolcro-di-via-bisignano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sepolcro di via Bisignano",
+        "link": "http://pleiades.stoa.org/places/883152117/osm-location-of-sepolcro-di-via-bisignano"
+      }
+    }
+  ]
+}

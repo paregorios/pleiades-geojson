@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica Porcia",
+  "id": "547224816",
+  "bbox": [
+    12.4832952,
+    41.8902165,
+    12.4908629,
+    41.8931509
+  ],
+  "description": "The Basilica Porcia is considered the first named civil basilica in Rome. The elder Cato is responsible for its construction in 184 BCE. It seems to have been a small structure that took the place of several earlier private atria located between the Clivus Argentarius and the Curia Hostilia. The Basilica Porcia was destroyed by fire in 52 BCE.",
+  "connectsWith": [
+    "423025",
+    "502866838"
+  ],
+  "names": [
+    "Basilica Porcia",
+    "Porkía basilikè"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4869077538,
+          41.891643636
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

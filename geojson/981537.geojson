@@ -3,10 +3,10 @@
   "title": "Narbonensis (province)",
   "id": "981537",
   "bbox": [
-    3.1766232,
-    42.4395125,
-    3.1766232,
-    42.4395125
+    3.1766797,
+    42.4395194,
+    3.1766797,
+    42.4395194
   ],
   "description": "The Roman imperial province of Gallia Narbonensis.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.1766232,
-          42.4395125
+          3.1766797,
+          42.4395194
         ]
       },
       "properties": {

@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Iuppiter?, T.",
+  "title": "Temple of Jupiter?, Via Appia",
   "id": "422950",
   "bbox": [
-    12.536854,
-    41.840026,
-    12.536854,
-    41.840026
+    12.535834,
+    41.8392364,
+    12.535834,
+    41.8392364
   ],
-  "description": "An ancient place, cited: BAtlas 43 C2 Iuppiter?, T.",
+  "description": "A temple located at the fourth mile of the Via Appia.",
   "connectsWith": [
     "356966898"
   ],
   "names": [
-    "Iuppiter, T."
+    "Iuppiter"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.536854,
-          41.840026
+          12.535834,
+          41.8392364
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.536854,
-          41.840026
+          12.535834,
+          41.8392364
         ]
       },
-      "id": "darmc-location-20583",
+      "id": "osm-location-of-resti-del-tempio-di-giove",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20583",
-        "link": "http://pleiades.stoa.org/places/422950/darmc-location-20583"
+        "title": "OSM location of Resti del Tempio di Giove",
+        "link": "http://pleiades.stoa.org/places/422950/osm-location-of-resti-del-tempio-di-giove"
       }
     }
   ]

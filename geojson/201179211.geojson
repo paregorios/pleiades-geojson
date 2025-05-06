@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sant'Andrea Catabarbara",
+  "id": "201179211",
+  "description": "Sant'Andrea Catabarbara was a church located in Rome; it was dedicated to Saint Andrew. It likely succeeds the fourth-century CE civil basilica known as the Basilica of Iunius Bassus, via the patronage of the Goth general Valila. Its remains were demolished in 1930 and its site is now occupied by the Pontifical Oriental Institute on Via Napoleone III, in the Esquilino district.",
+  "connectsWith": [
+    "691942929",
+    "423025"
+  ],
+  "names": [
+    "Sant'Andrea Catabarbara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

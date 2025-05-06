@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica of Iunius Bassus",
+  "id": "691942929",
+  "bbox": [
+    12.4998089,
+    41.8969595,
+    12.5006889,
+    41.8976758
+  ],
+  "description": "The Basilica of Junius Bassus (basilica Iunii Bassi) was a civil basilica on the Esquiline Hill in Rome. Its remains were demolished in 1930 to make way for the Seminario Pontificio di Studi Orientali, in via Napoleone III, 3. Junius Bassus held the consulship in 331 CE. The basilica is particularly known for its opus sectile decorations. In the fifth century, the basilica was remodeled into the church of Sant'Andrea Catabarbara.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Basilika des Iunius Bassus",
+    "Basilica of Junius Bassus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5002536455,
+          41.8973088876
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4998733,
+            41.8971661
+          ],
+          [
+            12.5002692,
+            41.8969772
+          ],
+          [
+            12.5003063,
+            41.8969595
+          ],
+          [
+            12.5003522,
+            41.8970119
+          ],
+          [
+            12.5002935,
+            41.8970413
+          ],
+          [
+            12.5003432,
+            41.8970969
+          ],
+          [
+            12.50028,
+            41.897124
+          ],
+          [
+            12.5002715,
+            41.8971106
+          ],
+          [
+            12.5002417,
+            41.8971217
+          ],
+          [
+            12.5002354,
+            41.8971082
+          ],
+          [
+            12.5001356,
+            41.8971667
+          ],
+          [
+            12.5001589,
+            41.8971975
+          ],
+          [
+            12.5001303,
+            41.8972165
+          ],
+          [
+            12.5002959,
+            41.8973904
+          ],
+          [
+            12.5003193,
+            41.8973825
+          ],
+          [
+            12.5003575,
+            41.8974291
+          ],
+          [
+            12.5003915,
+            41.8974125
+          ],
+          [
+            12.5004307,
+            41.8974528
+          ],
+          [
+            12.5005401,
+            41.8973983
+          ],
+          [
+            12.5005019,
+            41.8973532
+          ],
+          [
+            12.5005509,
+            41.8973373
+          ],
+          [
+            12.5006889,
+            41.8974723
+          ],
+          [
+            12.5003626,
+            41.8976758
+          ],
+          [
+            12.5002207,
+            41.8975377
+          ],
+          [
+            12.5001483,
+            41.8974647
+          ],
+          [
+            12.5001897,
+            41.8974449
+          ],
+          [
+            12.4999944,
+            41.897237
+          ],
+          [
+            12.4998973,
+            41.8972986
+          ],
+          [
+            12.4998089,
+            41.8971989
+          ],
+          [
+            12.4998436,
+            41.8971809
+          ],
+          [
+            12.4998733,
+            41.8971661
+          ]
+        ]
+      },
+      "id": "osm-location-of-pontifical-oriental-institute",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pontifical Oriental Institute",
+        "link": "http://pleiades.stoa.org/places/691942929/osm-location-of-pontifical-oriental-institute"
+      }
+    }
+  ]
+}

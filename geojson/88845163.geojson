@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Ponte Ladrone",
-  "id": "426592",
+  "title": "Bahçecik",
+  "id": "88845163",
   "bbox": [
-    12.3751754,
-    41.7896892,
-    12.3751754,
-    41.7896892
+    40.4475827,
+    37.8919521,
+    40.4475827,
+    37.8919521
   ],
-  "description": "The so-called Ponte Ladrone was a Roman bridge of the Via Ostiensis located at Acilia. According to L. Quilici, its remaining material vestiges were buried in 1982 by infrastructure works.",
+  "description": "Bahçecik is a village located in Sur, Diyarbakır Province, Turkey. Sarduri built a tower temple and the fortress “Sarduriḫinili” here in the eighth century BCE.",
   "connectsWith": [
-    "390205932"
+    "214160492"
   ],
   "names": [
-    "Ponte Ladrone"
+    "Bahçecık"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3751754,
-          41.7896892
+          40.4475827,
+          37.8919521
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3751754,
-          41.7896892
+          40.4475827,
+          37.8919521
         ]
       },
-      "id": "osm-location",
+      "id": "bahcecik",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
-        "link": "http://pleiades.stoa.org/places/426592/osm-location"
+        "title": "OSM location of Bahçecik",
+        "link": "http://pleiades.stoa.org/places/88845163/bahcecik"
       }
     }
   ]

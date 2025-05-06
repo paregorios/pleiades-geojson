@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kayalıdere Castle",
+  "id": "355216650",
+  "bbox": [
+    41.5600338,
+    39.0709673,
+    41.5612352,
+    39.0721695
+  ],
+  "description": "Kayalıdere Castle is a fortified Urartian site dating to the eighth century BCE. It is located in the Varto district of Muş.",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "Kayalıdere Castle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5606432606,
+          39.0715471581
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.5612352,
+            39.0709829
+          ],
+          [
+            41.5607947,
+            39.0709673
+          ],
+          [
+            41.5605568,
+            39.071194
+          ],
+          [
+            41.560323,
+            39.0714648
+          ],
+          [
+            41.5601139,
+            39.0718742
+          ],
+          [
+            41.5600338,
+            39.0721073
+          ],
+          [
+            41.5601873,
+            39.0721695
+          ],
+          [
+            41.5606746,
+            39.0719622
+          ],
+          [
+            41.5609482,
+            39.0716461
+          ],
+          [
+            41.5612085,
+            39.0712627
+          ],
+          [
+            41.5612352,
+            39.0709829
+          ]
+        ]
+      },
+      "id": "osm-location-of-kayala-dere-urartu-kalesi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kayalıdere Urartu Kalesi",
+        "link": "http://pleiades.stoa.org/places/355216650/osm-location-of-kayala-dere-urartu-kalesi"
+      }
+    }
+  ]
+}
