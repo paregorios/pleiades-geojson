@@ -3,10 +3,10 @@
   "title": "Arabia (region)",
   "id": "29475",
   "bbox": [
-    45.7578481,
-    14.9070032,
-    45.7601923,
-    14.9096625
+    42.6034503411,
+    21.5766421323,
+    50.623047738,
+    26.9054599088
   ],
   "description": "The Arabian peninsula.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.7590517643,
-          14.9082523955
+          46.5515359837,
+          24.1490052986
         ]
       },
       "properties": {
@@ -29,39 +29,41 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              25.0
-            ],
-            [
-              40.0,
-              30.0
-            ],
-            [
-              45.0,
-              30.0
-            ],
-            [
-              45.0,
-              25.0
-            ],
-            [
-              40.0,
-              25.0
-            ]
+            42.60345034105348,
+            26.905459908823204
+          ],
+          [
+            44.199964546520064,
+            25.719909683201717
+          ],
+          [
+            45.772082199800245,
+            24.55322717724972
+          ],
+          [
+            47.40976049730184,
+            23.53060705752076
+          ],
+          [
+            48.97667117903627,
+            22.556557346991404
+          ],
+          [
+            50.623047738035304,
+            21.576642132300055
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-map-3-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/29475/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from BAtlas raster digitized and georegistered to original base map projection by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Map 3 Label Location",
+        "link": "http://pleiades.stoa.org/places/29475/batlas-map-3-label-location"
       }
     }
   ]

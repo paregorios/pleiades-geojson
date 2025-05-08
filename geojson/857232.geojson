@@ -3,9 +3,9 @@
   "title": "Melanthios (river)",
   "id": "857232",
   "bbox": [
-    37.668749,
-    40.4153,
-    38.0936208,
+    37.6709025,
+    40.4151182,
+    38.0935698,
     40.9848003
   ],
   "description": "A river that flows into the Black Sea: the modern Melet in northern Turkey.",
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.8383180297,
-          40.638339245
+          37.8366487631,
+          40.6323150833
         ]
       },
       "properties": {

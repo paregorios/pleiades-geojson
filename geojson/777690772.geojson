@@ -2,12 +2,6 @@
   "type": "FeatureCollection",
   "title": "tribus Voltinia",
   "id": "777690772",
-  "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
-  ],
   "description": "The tribus Voltinia (or Votinia) was an older rural tribe of ancient Rome.",
   "connectsWith": [
     "423025",
@@ -19,13 +13,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486137,
-          41.891775
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
       }

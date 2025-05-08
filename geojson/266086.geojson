@@ -3,10 +3,10 @@
   "title": "Urcitanus Sinus",
   "id": "266086",
   "bbox": [
-    -3.0,
-    36.0,
-    -2.0,
-    37.0
+    -2.5,
+    36.76667,
+    -2.5,
+    36.76667
   ],
   "description": "An ancient place, cited: BAtlas 27 C5 Urcitanus Sinus",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           -2.5,
-          36.5
+          36.76667
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -3.0,
-              36.0
-            ],
-            [
-              -3.0,
-              37.0
-            ],
-            [
-              -2.0,
-              37.0
-            ],
-            [
-              -2.0,
-              36.0
-            ],
-            [
-              -3.0,
-              36.0
-            ]
-          ]
+          -2.5,
+          36.76667
         ]
       },
-      "id": "batlas-location",
+      "id": "geonames-location-of-golfo-de-almeria",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/266086/batlas-location"
+        "description": "coordinates after GeoNames.",
+        "location_precision": "precise",
+        "title": "Geonames location of  Golfo de Almería",
+        "link": "http://pleiades.stoa.org/places/266086/geonames-location-of-golfo-de-almeria"
       }
     }
   ]

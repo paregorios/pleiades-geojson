@@ -9,6 +9,9 @@
     50.826394
   ],
   "description": "An ancient place, cited: BAtlas 8 E4 Vindocladia",
+  "connectsWith": [
+    "511968274"
+  ],
   "names": [
     "Vindocladia"
   ],

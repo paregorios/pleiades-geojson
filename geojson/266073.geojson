@@ -3,10 +3,10 @@
   "title": "Tugiensis Saltus",
   "id": "266073",
   "bbox": [
-    -3.0,
-    37.0,
-    -2.0,
-    38.0
+    -2.9947499,
+    37.8537978,
+    -2.7542489,
+    38.3129524
   ],
   "description": "An ancient place, cited: BAtlas 27 C4 Tugiensis Saltus",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5,
-          37.5
+          -2.86613113277,
+          38.0816371391
         ]
       },
       "properties": {
@@ -28,39 +28,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -3.0,
-              37.0
-            ],
-            [
-              -3.0,
-              38.0
-            ],
-            [
-              -2.0,
-              38.0
-            ],
-            [
-              -2.0,
-              37.0
-            ],
-            [
-              -3.0,
-              37.0
-            ]
+            -2.9947499,
+            37.8537978
+          ],
+          [
+            -2.9595702,
+            37.9199281
+          ],
+          [
+            -2.9173546,
+            38.0051536
+          ],
+          [
+            -2.8776975,
+            38.0751762
+          ],
+          [
+            -2.8399594,
+            38.1169563
+          ],
+          [
+            -2.8143741,
+            38.1612271
+          ],
+          [
+            -2.7683208,
+            38.228588
+          ],
+          [
+            -2.7542489,
+            38.2848418
+          ],
+          [
+            -2.7548885,
+            38.3129524
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-the-sierra-de-cazorla",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/266073/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location of the Sierra de Cazorla",
+        "link": "http://pleiades.stoa.org/places/266073/osm-location-of-the-sierra-de-cazorla"
       }
     }
   ]

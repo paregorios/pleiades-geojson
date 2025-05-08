@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "La Rotta site",
+  "id": "562694299",
+  "bbox": [
+    11.486607,
+    43.606235,
+    11.486607,
+    43.606235
+  ],
+  "description": "Site in Tuscany containing a large number of ceramics dated from about 580 BCE-first century BCE, possibly used as a ceramic production site.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.486607,
+          43.606235
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.486607,
+          43.606235
+        ]
+      },
+      "id": "imagery-location-of-la-rotta-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the La Rotta site, after Giroldini 2022.",
+        "location_precision": "precise",
+        "title": "Imagery location of La Rotta site",
+        "link": "http://pleiades.stoa.org/places/562694299/imagery-location-of-la-rotta-site"
+      }
+    }
+  ]
+}
