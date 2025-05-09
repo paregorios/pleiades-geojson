@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Archaic Temple of Athena Alea at Tegea",
+  "id": "923923894",
+  "description": "An ancient temple of Athena at Tegea, thought to have been constructed in the late 7th century BCE. It seems to have been destroyed by fire in the early fourth century BCE and succeeded by a new temple on the site.",
+  "connectsWith": [
+    "570707"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

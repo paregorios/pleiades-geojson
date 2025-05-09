@@ -3,20 +3,20 @@
   "title": "Médiouna",
   "id": "295307",
   "bbox": [
-    0.751187,
-    36.116692,
-    0.751187,
-    36.116692
+    0.820656773341,
+    36.189676005,
+    0.820656773341,
+    36.189676005
   ],
-  "description": "An ancient place, cited: BAtlas 30 inset Médiouna",
+  "description": "In the area of Médiouna, Gsell (AAA, whence BAtlas) noted important Roman remains, largely destroyed, on a large plateau that commands the plain of the Oued Gri. These included column capitals judged to be of late antique date.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.751187,
-          36.116692
+          0.820656773341,
+          36.189676005
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.751187,
-          36.116692
+          0.820656773341175,
+          36.18967600503009
         ]
       },
-      "id": "darmc-location-23675",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 23675",
-        "link": "http://pleiades.stoa.org/places/295307/darmc-location-23675"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295307/batlas-point-location"
       }
     }
   ]

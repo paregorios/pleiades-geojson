@@ -3,10 +3,10 @@
   "title": "Patara (mountain)",
   "id": "639041",
   "bbox": [
-    29.3593733,
-    36.2466518,
-    29.3593733,
-    36.2466518
+    29.3538059,
+    36.2541635,
+    29.3538059,
+    36.2541635
   ],
   "description": "Eren Tepe.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.3593733,
-          36.2466518
+          29.3538059,
+          36.2541635
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.3593733,
-          36.2466518
+          29.3538059,
+          36.2541635
         ]
       },
       "id": "osm-node-310368008",
@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "location of unnamed peak of Patara Mons.",
+        "title": "OSM location of Eren Tepe",
         "link": "http://pleiades.stoa.org/places/639041/osm-node-310368008"
       }
     }

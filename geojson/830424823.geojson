@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Classical Temple at Ai Lia",
+  "id": "830424823",
+  "bbox": [
+    22.1560098,
+    38.1640738,
+    22.156264,
+    38.1642243
+  ],
+  "description": "Distyle in antis temple of the 4th c. BCE, built from the salvage of the large archaic temple, likely destroyed in the earthquake of 373 BCE. This temple remained in use until the first or second centuries CE.",
+  "connectsWith": [
+    "330217806"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1561392463,
+          38.1641492344
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.1560305,
+            38.1642243
+          ],
+          [
+            22.1560098,
+            38.1640986
+          ],
+          [
+            22.1562513,
+            38.1640738
+          ],
+          [
+            22.156264,
+            38.1642033
+          ],
+          [
+            22.1560305,
+            38.1642243
+          ]
+        ]
+      },
+      "id": "osm-location-temple",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap. Dates after Kanellopoulos 2011.",
+        "location_precision": "precise",
+        "title": "OSM Location: temple",
+        "link": "http://pleiades.stoa.org/places/830424823/osm-location-temple"
+      }
+    }
+  ]
+}

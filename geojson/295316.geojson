@@ -3,20 +3,20 @@
   "title": "Nekmaria",
   "id": "295316",
   "bbox": [
-    0.571395,
-    36.258924,
-    0.571395,
-    36.258924
+    0.613118777039,
+    36.1685336586,
+    0.613118777039,
+    36.1685336586
   ],
-  "description": "An ancient place, cited: BAtlas 30 inset Nekmaria",
+  "description": "Gsell AAA (whence BAtlas) noted remains of a Roman settlement on the plateau of Nekmaria at a place then known as Djebel Kerkour.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.571395,
-          36.258924
+          0.613118777039,
+          36.1685336586
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.571395,
-          36.258924
+          0.613118777038869,
+          36.16853365864217
         ]
       },
-      "id": "darmc-location-23901",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 23901",
-        "link": "http://pleiades.stoa.org/places/295316/darmc-location-23901"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295316/batlas-point-location"
       }
     }
   ]

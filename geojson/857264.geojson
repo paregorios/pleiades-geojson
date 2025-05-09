@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Patara",
+  "title": "Patara (Cappadocia)",
   "id": "857264",
   "bbox": [
     39.648355,
@@ -10,7 +10,8 @@
   ],
   "description": "An ancient place, cited: BAtlas 87 E4 Patara",
   "names": [
-    "Patara"
+    "Patara",
+    "Madenhanlari"
   ],
   "features": [
     {

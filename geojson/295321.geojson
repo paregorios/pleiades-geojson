@@ -3,20 +3,20 @@
   "title": "Oued Sly",
   "id": "295321",
   "bbox": [
-    1.199451,
+    1.17525451285,
     36.101681,
     1.199451,
-    36.101681
+    36.1089823608
   ],
-  "description": "An ancient place, cited: BAtlas 30 B4 Oued Sly",
+  "description": "An ancient village site, said by Gsell (AAA, whence BAtlas) to be located on the left bank of the Oued Chélif (ancient Chulimath), just east of its confluence with the Oued Sly.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.199451,
-          36.101681
+          1.18735275642,
+          36.1053316804
         ]
       },
       "properties": {
@@ -34,10 +34,27 @@
       "id": "darmc-location-14058",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 14058",
         "link": "http://pleiades.stoa.org/places/295321/darmc-location-14058"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.175254512848211,
+          36.10898236080373
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295321/batlas-point-location"
       }
     }
   ]

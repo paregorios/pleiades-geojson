@@ -3,10 +3,10 @@
   "title": "Unnamed Settlement north of Castellum Tingitanum",
   "id": "297475",
   "bbox": [
-    1.0,
-    36.0,
-    1.5,
-    36.5
+    1.30886726914,
+    36.2817433283,
+    1.30886726914,
+    36.2817433283
   ],
   "description": "An ancient place, cited: BAtlas 30 B4 no. 4 (N Castellum Tingitanum)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.25,
-          36.25
+          1.30886726914,
+          36.2817433283
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              1.0,
-              36.0
-            ],
-            [
-              1.0,
-              36.5
-            ],
-            [
-              1.5,
-              36.5
-            ],
-            [
-              1.5,
-              36.0
-            ],
-            [
-              1.0,
-              36.0
-            ]
-          ]
+          1.308867269137911,
+          36.28174332825243
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/297475/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297475/batlas-point-location"
       }
     }
   ]

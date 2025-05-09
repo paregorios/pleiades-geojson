@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Lighthouse at mouth of Oued Chélif",
   "id": "297472",
   "bbox": [
-    0.0,
-    36.0,
-    1.5,
-    37.0
+    0.136867780046,
+    36.0517009548,
+    0.136867780046,
+    36.0517009548
   ],
-  "description": "An ancient place, cited: BAtlas 30 inset no. 1 (at mouth of Oued Chélif)",
+  "description": "Noted by Gsell AAA, whence BAtlas 30 inset no. 1.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.75,
-          36.5
+          0.136867780046,
+          36.0517009548
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              0.0,
-              36.0
-            ],
-            [
-              0.0,
-              37.0
-            ],
-            [
-              1.5,
-              37.0
-            ],
-            [
-              1.5,
-              36.0
-            ],
-            [
-              0.0,
-              36.0
-            ]
-          ]
+          0.136867780046472,
+          36.05170095478247
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/297472/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297472/batlas-point-location"
       }
     }
   ]

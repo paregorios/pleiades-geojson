@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed Settlement at mouth of Oued Titinguel",
   "id": "297473",
   "bbox": [
-    0.0,
-    36.0,
-    1.5,
-    37.0
+    0.472018106452,
+    36.2257493964,
+    0.472018106452,
+    36.2257493964
   ],
-  "description": "An ancient place, cited: BAtlas 30 inset no. 2 (at mouth of Oued Titinguel)",
+  "description": "A small Roman-era settlement noted by Gsell in AAA, whence BAtlas 30 inset 2",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.75,
-          36.5
+          0.472018106452,
+          36.2257493964
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              0.0,
-              36.0
-            ],
-            [
-              0.0,
-              37.0
-            ],
-            [
-              1.5,
-              37.0
-            ],
-            [
-              1.5,
-              36.0
-            ],
-            [
-              0.0,
-              36.0
-            ]
-          ]
+          0.472018106452108,
+          36.225749396436356
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/297473/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297473/batlas-point-location"
       }
     }
   ]

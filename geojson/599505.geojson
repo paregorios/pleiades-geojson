@@ -1,19 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Apollo Lepsios, T.",
+  "title": "Temple of Apollo Lepsios",
   "id": "599505",
   "bbox": [
-    26.772758,
-    37.306356,
+    26.7660884,
+    37.2927159,
     26.772758,
     37.306356
   ],
-  "description": "An ancient place, cited: BAtlas 61 D3 Apollo Lepsios, T.",
+  "description": "A temple of Apollo on the Aegean island of Lepsia, generally thought to have been located in the vicinity of the modern church of Hagios Nikolaos. It is attested in various ancient sources, including a recently published epigraphic document demarcating the temple lands.",
   "connectsWith": [
     "599761"
   ],
   "names": [
-    "Apollo Lepsios, T."
+    "ton hieron tou Apollonos tou Lepsieos",
+    "Heiligtum des Apollon Lepsieus",
+    "Hagios Nikolaos",
+    "Apollo Lepsios"
   ],
   "features": [
     {
@@ -21,12 +24,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.772758,
-          37.306356
+          26.7694461158,
+          37.2995444626
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.7660884,
+            37.2927169
+          ],
+          [
+            26.766089,
+            37.29275
+          ],
+          [
+            26.7661801,
+            37.2927489
+          ],
+          [
+            26.7661795,
+            37.2927159
+          ],
+          [
+            26.7660884,
+            37.2927169
+          ]
+        ]
+      },
+      "id": "osm-location-agios-nikolaos",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Άγιος Νικόλαος",
+        "link": "http://pleiades.stoa.org/places/599505/osm-location-agios-nikolaos"
       }
     },
     {
@@ -40,7 +78,7 @@
       "id": "darmc-location-15875",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 15875",
         "link": "http://pleiades.stoa.org/places/599505/darmc-location-15875"

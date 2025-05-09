@@ -3,10 +3,10 @@
   "title": "Cave-Hardy",
   "id": "295248",
   "bbox": [
-    2.0,
-    36.5,
-    2.5,
-    37.0
+    2.10738445012,
+    36.5726521905,
+    2.10738445012,
+    36.5726521905
   ],
   "description": "An ancient place, cited: BAtlas 30 D3 Cave-Hardy",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25,
-          36.75
+          2.10738445012,
+          36.5726521905
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              2.0,
-              36.5
-            ],
-            [
-              2.0,
-              37.0
-            ],
-            [
-              2.5,
-              37.0
-            ],
-            [
-              2.5,
-              36.5
-            ],
-            [
-              2.0,
-              36.5
-            ]
-          ]
+          2.107384450119946,
+          36.5726521905225
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/295248/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295248/batlas-point-location"
       }
     }
   ]
