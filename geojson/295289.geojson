@@ -3,20 +3,20 @@
   "title": "el Kessour",
   "id": "295289",
   "bbox": [
-    1.568594,
-    36.530697,
-    1.568594,
-    36.530697
+    1.58750901947,
+    36.4929499629,
+    1.58750901947,
+    36.4929499629
   ],
-  "description": "An ancient place, cited: BAtlas 30 C4 el Kessour",
+  "description": "An ancient settlement site in modern Algeria, located 4 km inland on a ridge above the Oued Sebt (a tributary of the Oued Outar).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.568594,
-          36.530697
+          1.58750901947,
+          36.4929499629
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.568594,
-          36.530697
+          1.587509019466833,
+          36.492949962850176
         ]
       },
-      "id": "darmc-location-15566",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 15566",
-        "link": "http://pleiades.stoa.org/places/295289/darmc-location-15566"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295289/batlas-point-location"
       }
     }
   ]

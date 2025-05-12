@@ -3,20 +3,20 @@
   "title": "Souk el Khemis",
   "id": "295345",
   "bbox": [
-    3.989483,
-    36.019807,
-    3.998585,
-    36.035707
+    3.631778,
+    36.3912273,
+    3.631778,
+    36.3912273
   ],
-  "description": "An ancient place, cited: BAtlas 30 G4 Souk el Khemis",
+  "description": "Roman ruins noted by Gsell (AAA, whence BAtlas) in the area of modern Souk el Khemis in Algeria's Bouira province.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.994034,
-          36.027757
+          3.631778,
+          36.3912273
         ]
       },
       "properties": {
@@ -27,34 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.989483,
-          36.019807
+          3.631778,
+          36.3912273
         ]
       },
-      "id": "darmc-location-6068",
+      "id": "osm-location-modern-souk-el-khemis",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 6068",
-        "link": "http://pleiades.stoa.org/places/295345/darmc-location-6068"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.998585,
-          36.035707
-        ]
-      },
-      "id": "darmc-location-6069",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 6069",
-        "link": "http://pleiades.stoa.org/places/295345/darmc-location-6069"
+        "title": "OSM Location: modern Souk el Khemis",
+        "link": "http://pleiades.stoa.org/places/295345/osm-location-modern-souk-el-khemis"
       }
     }
   ]

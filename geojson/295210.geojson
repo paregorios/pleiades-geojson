@@ -3,20 +3,20 @@
   "title": "Ain Bessem",
   "id": "295210",
   "bbox": [
-    3.665741,
-    36.292208,
-    3.665741,
-    36.292208
+    3.65022679908,
+    36.3199184868,
+    3.65022679908,
+    36.3199184868
   ],
-  "description": "An ancient place, cited: BAtlas 30 G4 Ain Bessem",
+  "description": "Gsell (AAA, whence BAtlas) noted the remains of a hexagonal fort located about 2.5 kilometers northwest of Aïn Bessem. His description relies primarily on earlier reports, since the ruins had been almost entirely quarried out by the early 20th century.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.665741,
-          36.292208
+          3.65022679908,
+          36.3199184868
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.665741,
-          36.292208
+          3.650226799083023,
+          36.319918486785376
         ]
       },
-      "id": "darmc-location-6931",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 6931",
-        "link": "http://pleiades.stoa.org/places/295210/darmc-location-6931"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295210/batlas-point-location"
       }
     }
   ]

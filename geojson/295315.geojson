@@ -1,22 +1,27 @@
 {
   "type": "FeatureCollection",
-  "title": "Nador",
+  "title": "Villa of M. Cincius Hilarianus (Nador)",
   "id": "295315",
   "bbox": [
-    2.391278,
-    36.570401,
-    2.391278,
-    36.570401
+    2.354637,
+    36.565538,
+    2.354637,
+    36.565538
   ],
-  "description": "An ancient place, cited: BAtlas 30 D3 Nador",
+  "description": "Often inaccurately called \"the castellum of Nador\", the monumental stone facade and entry of this late Roman farmstead still stands on the south side of Algerian Route nationale 11 in the municipal territory of Nador. The site was extensively excavated in the late 20th century and, among other finds, yielded (in conditions of re-use) a partial milestone with Roman imperial titulature dateable to 312/313 CE.",
+  "names": [
+    "castellum at Nador",
+    "Nador",
+    "Nador"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.391278,
-          36.570401
+          2.354637,
+          36.565538
         ]
       },
       "properties": {
@@ -27,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.391278,
-          36.570401
+          2.354637,
+          36.565538
         ]
       },
-      "id": "darmc-location-17536",
+      "id": "imagery-location-north-monumental-entry",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "In situ monumental entry location determined in Google Earth with reference to map and photographs in Anselmino 1989. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 17536",
-        "link": "http://pleiades.stoa.org/places/295315/darmc-location-17536"
+        "title": "Imagery Location: north monumental entry",
+        "link": "http://pleiades.stoa.org/places/295315/imagery-location-north-monumental-entry"
       }
     }
   ]

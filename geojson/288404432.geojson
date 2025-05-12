@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sidi Moussa",
+  "id": "288404432",
+  "bbox": [
+    2.3355455,
+    36.5684579,
+    2.3355455,
+    36.5684579
+  ],
+  "description": "A modern village located at the western end of the municipal territory of Nador in Algeria's Tipaza province. According to Anselmino, this village, which was built to house the displaced population of Chénoua during the Algerian War of Independence in the mid-20th century, probably covers the site of an ancient settlement and associated necropolis.",
+  "names": [
+    "Sidi Moussa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3355455,
+          36.5684579
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3355455,
+          36.5684579
+        ]
+      },
+      "id": "osm-location-modern-sidi-moussa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Sidi Moussa",
+        "link": "http://pleiades.stoa.org/places/288404432/osm-location-modern-sidi-moussa"
+      }
+    }
+  ]
+}

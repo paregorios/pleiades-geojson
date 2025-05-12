@@ -3,20 +3,20 @@
   "title": "Koubba de Sidi Hamza",
   "id": "295294",
   "bbox": [
-    3.637654,
-    36.301829,
-    3.637654,
-    36.301829
+    3.62672011544,
+    36.2894083088,
+    3.62672011544,
+    36.2894083088
   ],
-  "description": "An ancient place, cited: BAtlas 30 G4 Koubba de Sidi Hamza",
+  "description": "Gsell (AAA, whence BAtlas) reported a Roman village at modern Koubba de Sidi Hamza in Algeria, covering an area of 34 hectares and including fortifications.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.637654,
-          36.301829
+          3.62672011544,
+          36.2894083088
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.637654,
-          36.301829
+          3.626720115444535,
+          36.28940830878183
         ]
       },
-      "id": "darmc-location-13287",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 13287",
-        "link": "http://pleiades.stoa.org/places/295294/darmc-location-13287"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295294/batlas-point-location"
       }
     }
   ]

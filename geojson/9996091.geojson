@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Zaouia de Sidi-Moussa",
-  "id": "295373",
+  "title": "Oued Zariel",
+  "id": "9996091",
   "bbox": [
-    2.324142,
-    36.567559,
-    2.324142,
-    36.567559
+    2.347291,
+    36.553045,
+    2.347291,
+    36.553045
   ],
-  "description": "At Zaouia de Sidi-Moussa, a stone-built terrace, ancient structures, and cisterns provide evidence for a large ancient villa.",
+  "description": "Immediately north of the Oued Zariel (Nador municipality, Algeria), remains of two ancient farms were identified, including an olive press.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.324142,
-          36.567559
+          2.347291,
+          36.553045
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.324142,
-          36.567559
+          2.347291,
+          36.553045
         ]
       },
       "id": "imagery-location",
       "type": "Feature",
       "properties": {
-        "description": "Imagery Location determined in Google Earth with reference to description and plans in Anselmino 1989.",
+        "description": "Imagery Location after Anselmino 1989.",
         "location_precision": "precise",
         "title": "Imagery Location",
-        "link": "http://pleiades.stoa.org/places/295373/imagery-location"
+        "link": "http://pleiades.stoa.org/places/9996091/imagery-location"
       }
     }
   ]

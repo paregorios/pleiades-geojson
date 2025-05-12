@@ -3,12 +3,12 @@
   "title": "Gunugu",
   "id": "295268",
   "bbox": [
-    1.90305,
-    36.570982,
-    1.90305,
-    36.570982
+    1.865316461,
+    36.5629777331,
+    1.865316461,
+    36.5629777331
   ],
-  "description": "An ancient place, cited: BAtlas 30 C3 Gunugu",
+  "description": "An ancient coastal settlement, located at modern Sidi Brahim in Algeria, about 4 kilometers west of modern Gouraya.",
   "names": [
     "Gunugu"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.90305,
-          36.570982
+          1.865316461,
+          36.5629777331
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.90305,
-          36.570982
+          1.865316461003813,
+          36.562977733055725
         ]
       },
-      "id": "darmc-location-12459",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 12459",
-        "link": "http://pleiades.stoa.org/places/295268/darmc-location-12459"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295268/batlas-point-location"
       }
     }
   ]

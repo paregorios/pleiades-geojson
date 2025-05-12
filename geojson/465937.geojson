@@ -3,6 +3,10 @@
   "title": "Kronion",
   "id": "465937",
   "description": "An ancient place, cited: BAtlas 47 unlocated Kronion",
+  "connectsWith": [
+    "462410",
+    "462492"
+  ],
   "names": [
     "Kronion"
   ],

@@ -3,10 +3,10 @@
   "title": "Ghorfa des Ouled Meriem",
   "id": "295265",
   "bbox": [
-    3.587424,
-    36.156256,
-    3.587424,
-    36.156256
+    3.57418368876,
+    36.1394979561,
+    3.57418368876,
+    36.1394979561
   ],
   "description": "Two ancient mausolea are known in the locality of Ghorfa des Ouled Meriem.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.587424,
-          36.156256
+          3.57418368876,
+          36.1394979561
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.587424,
-          36.156256
+          3.574183688758843,
+          36.139497956123684
         ]
       },
-      "id": "darmc-location-15979",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 15979",
-        "link": "http://pleiades.stoa.org/places/295265/darmc-location-15979"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295265/batlas-point-location"
       }
     }
   ]

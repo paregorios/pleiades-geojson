@@ -3,20 +3,20 @@
   "title": "Ghorfa des Ouled Selama",
   "id": "295266",
   "bbox": [
-    3.774913,
-    36.12011,
+    3.76158612135,
+    36.1023209047,
     3.774913,
     36.12011
   ],
-  "description": "An ancient place, cited: BAtlas 30 G4 Ghorfa des Ouled Selama",
+  "description": "Site of a late antique monumental tomb and other ruined structures located in the modern municipal territory of El Hakimia, Bouira province (Algeria).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.774913,
-          36.12011
+          3.76824956067,
+          36.1112154523
         ]
       },
       "properties": {
@@ -34,10 +34,27 @@
       "id": "darmc-location-15980",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 15980",
         "link": "http://pleiades.stoa.org/places/295266/darmc-location-15980"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.761586121347552,
+          36.10232090465717
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295266/batlas-point-location"
       }
     }
   ]

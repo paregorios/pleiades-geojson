@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sidi Ali Bou Arrar",
+  "id": "356547537",
+  "bbox": [
+    2.324138,
+    36.557672,
+    2.324138,
+    36.557672
+  ],
+  "description": "Remains of a villa and associated cisterns, now built over by modern structures, occupy a high point about 1200 meters south of modern Sidi Moussa in Algeria's Tipaza province and north of the marabout of Sidi Ali bou Arrar.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324138,
+          36.557672
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324138,
+          36.557672
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Determined in Google Earth with reference to plans in Anselmino 1989",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/356547537/imagery-location"
+      }
+    }
+  ]
+}

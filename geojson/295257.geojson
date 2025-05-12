@@ -5,8 +5,8 @@
   "bbox": [
     0.894896,
     36.125289,
-    0.894896,
-    36.125289
+    0.949394151271,
+    36.1799997758
   ],
   "description": "An ancient place, cited: BAtlas 30 inset Douar Mazouna",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.894896,
-          36.125289
+          0.922145075635,
+          36.1526443879
         ]
       },
       "properties": {
@@ -38,6 +38,23 @@
         "location_precision": "precise",
         "title": "DARMC location 22248",
         "link": "http://pleiades.stoa.org/places/295257/darmc-location-22248"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.949394151270745,
+          36.17999977580901
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295257/batlas-point-location"
       }
     }
   ]

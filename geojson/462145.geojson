@@ -9,6 +9,10 @@
     38.1276758
   ],
   "description": "An ancient place, cited: BAtlas 47 G2 Castroreale S. Biagio",
+  "connectsWith": [
+    "863833176",
+    "462492"
+  ],
   "features": [
     {
       "type": "Feature",

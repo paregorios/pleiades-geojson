@@ -2,11 +2,26 @@
   "type": "FeatureCollection",
   "title": "Via Valeria",
   "id": "863833176",
+  "bbox": [
+    15.1414399,
+    38.1271642,
+    15.1426257,
+    38.1276758
+  ],
   "description": "An ancient Roman road in Sicilia.",
+  "connectsWith": [
+    "462492"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.1420482674,
+          38.127425384
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

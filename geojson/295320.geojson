@@ -3,20 +3,20 @@
   "title": "Oued Krerza",
   "id": "295320",
   "bbox": [
-    3.2188635,
-    35.9947445,
-    3.2558999,
-    36.0059421
+    3.29173183162,
+    36.0256508139,
+    3.29173183162,
+    36.0256508139
   ],
-  "description": "The AAA reports significant Roman ruins on both sides of the \"Oued Krerza\", especially to the south and southeast of the \"djebbana Dra el Abiod\". These names are not readily found in modern digital gazetteers; however, comparative analysis of AAA sheet 14 with Google Earth imagery and OpenStreetMap permits localization to the area roughly between and around modern \"El Kherza\" and \"Ouled Hadhria\".",
+  "description": "The AAA reports significant Roman ruins on both sides of the \"Oued Krerza\", especially to the south and southeast of the \"djebbana Dra el Abiod\", whence BAtlas.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2373817,
-          36.0003433
+          3.29173183162,
+          36.0256508139
         ]
       },
       "properties": {
@@ -27,34 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2188635,
-          36.0059421
+          3.291731831616542,
+          36.025650813914034
         ]
       },
-      "id": "osm-location-of-modern-el-kherza",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "OSM Location of modern El Kherza",
-        "link": "http://pleiades.stoa.org/places/295320/osm-location-of-modern-el-kherza"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2558999,
-          35.9947445
-        ]
-      },
-      "id": "osm-location-of-modern-ouled-hadhria",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM Location of modern Ouled Hadhria",
-        "link": "http://pleiades.stoa.org/places/295320/osm-location-of-modern-ouled-hadhria"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295320/batlas-point-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Harmozike",
   "id": "863799",
   "bbox": [
-    44.672277,
-    41.833638,
-    44.672277,
-    41.833638
+    44.674025,
+    41.8382449,
+    44.6754734,
+    41.8391477
   ],
   "description": "Harmozike was an ancient site in Georgia and the dwelling of the royalty of Caucasian Iberia. The site is located on the Bagineti hill in modern Mccheta. Pompeius Magnus captured the site in 65 BC.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.672277,
-          41.833638
+          44.6748117857,
+          41.8387508903
         ]
       },
       "properties": {
@@ -35,19 +35,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          44.672277,
-          41.833638
+          [
+            44.674025,
+            41.8390219
+          ],
+          [
+            44.6746768,
+            41.8391477
+          ],
+          [
+            44.675372,
+            41.8390219
+          ],
+          [
+            44.6754734,
+            41.838824
+          ],
+          [
+            44.6753189,
+            41.8382809
+          ],
+          [
+            44.6747975,
+            41.8382449
+          ],
+          [
+            44.674025,
+            41.8390219
+          ]
         ]
       },
-      "id": "darmc-location-22804",
+      "id": "osm-location-of-dnd1-4ddegd-d",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap, dates following BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 22804",
-        "link": "http://pleiades.stoa.org/places/863799/darmc-location-22804"
+        "title": "OSM location of Армази",
+        "link": "http://pleiades.stoa.org/places/863799/osm-location-of-dnd1-4ddegd-d"
       }
     }
   ]

@@ -3,20 +3,20 @@
   "title": "Dar Mendil",
   "id": "295255",
   "bbox": [
-    3.688616,
-    36.835369,
-    3.688616,
-    36.835369
+    3.68003740775,
+    36.8444125266,
+    3.68003740775,
+    36.8444125266
   ],
-  "description": "An ancient place, cited: BAtlas 30 G3 Dar Mendil",
+  "description": "Remains of a Roman settlement noted by Gsell (AAA, whence BAtlas) at Dar Mendil, near the mouth of the Isser river in Algeria.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.688616,
-          36.835369
+          3.68003740775,
+          36.8444125266
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.688616,
-          36.835369
+          3.68003740774511,
+          36.844412526590425
         ]
       },
-      "id": "darmc-location-12152",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 12152",
-        "link": "http://pleiades.stoa.org/places/295255/darmc-location-12152"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295255/batlas-point-location"
       }
     }
   ]

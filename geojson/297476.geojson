@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed settlement southeast of Sidi-Ghilès",
   "id": "297476",
   "bbox": [
-    2.0,
-    36.5,
-    2.5,
-    37.0
+    2.14030820364,
+    36.5711994345,
+    2.14030820364,
+    36.5711994345
   ],
   "description": "An ancient place, cited: BAtlas 30 D3 no. 5 (SE Sidi-Ghilès)",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25,
-          36.75
+          2.14030820364,
+          36.5711994345
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              2.0,
-              36.5
-            ],
-            [
-              2.0,
-              37.0
-            ],
-            [
-              2.5,
-              37.0
-            ],
-            [
-              2.5,
-              36.5
-            ],
-            [
-              2.0,
-              36.5
-            ]
-          ]
+          2.140308203644991,
+          36.57119943447629
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/297476/batlas-location"
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297476/batlas-point-location"
       }
     }
   ]

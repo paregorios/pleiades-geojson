@@ -3,16 +3,17 @@
   "title": "Rusazus?",
   "id": "305138",
   "bbox": [
-    4.418971,
-    36.893992,
-    4.422655,
-    36.89409
+    4.4203917,
+    36.8930725,
+    4.4203917,
+    36.8930725
   ],
-  "description": "An ancient place, cited: BAtlas 31 A3 Rusazus?",
+  "description": "Ancient Rusazus is probably to be identified with the modern coastal town of Azeffoun in Algeria's Tizi Ouzou province (formerly Port-Gueydon) where some Roman remains have been discovered over the years.",
   "connectsWith": [
     "305142"
   ],
   "names": [
+    "Azeffoun",
     "Rusazus"
   ],
   "features": [
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.420813,
-          36.894041
+          4.4203917,
+          36.8930725
         ]
       },
       "properties": {
@@ -33,34 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.418971,
-          36.89409
+          4.4203917,
+          36.8930725
         ]
       },
-      "id": "darmc-location-14538",
+      "id": "osm-location-modern-azeffoun",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14538",
-        "link": "http://pleiades.stoa.org/places/305138/darmc-location-14538"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.422655,
-          36.893992
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, village precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/305138/dare-location"
+        "title": "OSM Location: modern Azeffoun",
+        "link": "http://pleiades.stoa.org/places/305138/osm-location-modern-azeffoun"
       }
     }
   ]

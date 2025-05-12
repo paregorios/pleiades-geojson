@@ -3,10 +3,10 @@
   "title": "Etchmiadzin Cathedral",
   "id": "327730568",
   "bbox": [
-    44.291164,
-    40.161769,
-    44.291164,
-    40.161769
+    44.2907695,
+    40.1616855,
+    44.2914268,
+    40.1619979
   ],
   "description": "A fourth century A.D. church located in Ejmiatsin, Armenia. This is the central cathedral of the Mother See of Holy Etchmiadzin of the Armenian Apostolic Church and was enrolled as a UNESCO World Heritage Site in 2000.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.291164,
-          40.161769
+          44.2911011436,
+          40.1618381598
         ]
       },
       "properties": {
@@ -31,19 +31,149 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          44.291164,
-          40.161769
+          [
+            44.2908918,
+            40.1617545
+          ],
+          [
+            44.2909068,
+            40.1618327
+          ],
+          [
+            44.2907695,
+            40.1618481
+          ],
+          [
+            44.2907759,
+            40.1618817
+          ],
+          [
+            44.2907824,
+            40.1619153
+          ],
+          [
+            44.2909222,
+            40.1618996
+          ],
+          [
+            44.2909347,
+            40.1619647
+          ],
+          [
+            44.2910259,
+            40.1619553
+          ],
+          [
+            44.291033,
+            40.1619876
+          ],
+          [
+            44.2910542,
+            40.1619969
+          ],
+          [
+            44.2910842,
+            40.1619979
+          ],
+          [
+            44.2911128,
+            40.1619887
+          ],
+          [
+            44.2911291,
+            40.1619749
+          ],
+          [
+            44.2911248,
+            40.1619435
+          ],
+          [
+            44.2914063,
+            40.1619115
+          ],
+          [
+            44.2913909,
+            40.1618316
+          ],
+          [
+            44.2914123,
+            40.1618292
+          ],
+          [
+            44.291423,
+            40.1618211
+          ],
+          [
+            44.2914264,
+            40.1618118
+          ],
+          [
+            44.2914268,
+            40.1618
+          ],
+          [
+            44.2914217,
+            40.1617862
+          ],
+          [
+            44.2914136,
+            40.161779
+          ],
+          [
+            44.2914016,
+            40.1617738
+          ],
+          [
+            44.2913802,
+            40.1617762
+          ],
+          [
+            44.2913657,
+            40.1617005
+          ],
+          [
+            44.2910968,
+            40.1617304
+          ],
+          [
+            44.2910907,
+            40.1616955
+          ],
+          [
+            44.2910699,
+            40.1616862
+          ],
+          [
+            44.2910394,
+            40.1616855
+          ],
+          [
+            44.291007,
+            40.1616911
+          ],
+          [
+            44.2909878,
+            40.1617073
+          ],
+          [
+            44.2909923,
+            40.1617432
+          ],
+          [
+            44.2908918,
+            40.1617545
+          ]
         ]
       },
-      "id": "location-of-etchmiadzin-cathedral",
+      "id": "osm-location-of-echmiadzin-cathedral",
       "type": "Feature",
       "properties": {
-        "description": "Coordinates after GeoHack, verified in Google Earth 2012",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Etchmiadzin Cathedral",
-        "link": "http://pleiades.stoa.org/places/327730568/location-of-etchmiadzin-cathedral"
+        "title": "OSM location of Echmiadzin Cathedral",
+        "link": "http://pleiades.stoa.org/places/327730568/osm-location-of-echmiadzin-cathedral"
       }
     }
   ]

@@ -3,12 +3,12 @@
   "title": "Castra Germanorum",
   "id": "295247",
   "bbox": [
-    1.659526,
-    36.411053,
-    1.659526,
-    36.411053
+    1.70709077436,
+    36.5316103965,
+    1.70709077436,
+    36.5316103965
   ],
-  "description": "An ancient place, cited: BAtlas 30 C3 Castra Germanorum",
+  "description": "Leveau (1977) discusses the possible location of this Roman fort on the basis of itinerary sources and prior modern scholarship, concluding only that it must have been near the Oued Damous and its mouth. Potter (BAtlDir) echoes this assertion, but ventures to place a hollow symbol on the map at a location in the vicinity of modern Sidi el Kassadi. No archaeological site corresponding to this toponym has yet been identified.",
   "names": [
     "Castra Germanorum"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.659526,
-          36.411053
+          1.70709077436,
+          36.5316103965
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.659526,
-          36.411053
+          1.707090774364463,
+          36.53161039650297
         ]
       },
-      "id": "darmc-location-17526",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 17526",
-        "link": "http://pleiades.stoa.org/places/295247/darmc-location-17526"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295247/batlas-point-location"
       }
     }
   ]

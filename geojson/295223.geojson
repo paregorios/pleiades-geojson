@@ -3,20 +3,20 @@
   "title": "el Azari",
   "id": "295223",
   "bbox": [
-    3.433601,
-    36.399637,
-    3.433601,
-    36.399637
+    3.36284354454,
+    36.4635672086,
+    3.36284354454,
+    36.4635672086
   ],
-  "description": "An ancient place, cited: BAtlas 30 F4 el Azari",
+  "description": "Ruins of a Roman era settlement noted by Gsell (AAA, whence BAtlas) at Koudiat el Azari, on a slope to the north above the Oued Kassob.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.433601,
-          36.399637
+          3.36284354454,
+          36.4635672086
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.433601,
-          36.399637
+          3.362843544536763,
+          36.463567208561216
         ]
       },
-      "id": "darmc-location-15559",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 15559",
-        "link": "http://pleiades.stoa.org/places/295223/darmc-location-15559"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295223/batlas-point-location"
       }
     }
   ]

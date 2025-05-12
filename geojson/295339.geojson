@@ -3,10 +3,10 @@
   "title": "Sidi-Abd-el-Kader",
   "id": "295339",
   "bbox": [
-    0.334747,
-    36.044786,
-    0.334747,
-    36.044786
+    0.925439105615,
+    36.2111072376,
+    0.925439105615,
+    36.2111072376
   ],
   "description": "An ancient place, cited: BAtlas 30 inset Sidi-Abd-el-Kader",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.334747,
-          36.044786
+          0.925439105615,
+          36.2111072376
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.334747,
-          36.044786
+          0.925439105615043,
+          36.2111072375917
         ]
       },
-      "id": "darmc-location-24731",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 24731",
-        "link": "http://pleiades.stoa.org/places/295339/darmc-location-24731"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/295339/batlas-point-location"
       }
     }
   ]
