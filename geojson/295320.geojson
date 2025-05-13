@@ -9,6 +9,9 @@
     36.0256508139
   ],
   "description": "The AAA reports significant Roman ruins on both sides of the \"Oued Krerza\", especially to the south and southeast of the \"djebbana Dra el Abiod\", whence BAtlas.",
+  "names": [
+    "Oued Krerza"
+  ],
   "features": [
     {
       "type": "Feature",

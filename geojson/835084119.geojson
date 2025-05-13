@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ruzai",
   "id": "835084119",
+  "bbox": [
+    4.282988,
+    36.682015,
+    5.058096,
+    36.741492
+  ],
   "description": "A Roman municipium, listed on the Peutinger map on a route between \"Syda\" (Bida, modern Djemaa Saharidj, Tunisia) and Saldae (modern Béjaïa, Algeria) whose precise location cannot be determined today.",
   "connectsWith": [
     "305142"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.285625,
+          36.6821605
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

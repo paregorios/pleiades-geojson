@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed bridge",
+  "title": "Unnamed bridges (west of Iol Caesarea)",
   "id": "296718",
   "bbox": [
-    2.0,
-    36.5,
-    2.5,
-    37.0
+    2.1830356226,
+    36.5993671012,
+    2.1830356226,
+    36.5993671012
   ],
-  "description": "An ancient place, cited: BAtlas 30 D3 unnamed bridge (W Iol Caesarea (2): Oued el Kantara and Oued Rassoul (marked with one symbol))",
+  "description": "A pair of bridges located west of Iol Caesarea, spanning the Oued el Kantara and Oued Rassoul (marked with one symbol on BAtlas).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.25,
-          36.75
+          2.1830356226,
+          36.5993671012
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              2.0,
-              36.5
-            ],
-            [
-              2.0,
-              37.0
-            ],
-            [
-              2.5,
-              37.0
-            ],
-            [
-              2.5,
-              36.5
-            ],
-            [
-              2.0,
-              36.5
-            ]
-          ]
+          2.183035622598022,
+          36.599367101229554
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/296718/batlas-location"
+        "description": "Single symbol used on BAtlas for two bridges. Feature extracted using QGIS (2025) from raster image of BAtlas Map 30 created and georegistered to the original base map projection by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/296718/batlas-point-location"
       }
     }
   ]
