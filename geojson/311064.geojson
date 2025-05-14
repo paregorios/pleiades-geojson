@@ -3,8 +3,12 @@
   "title": "Ad Basilicam",
   "id": "311064",
   "description": "An ancient place, cited: BAtlas 31 unlocated Ad Basilicam",
+  "connectsWith": [
+    "305062"
+  ],
   "names": [
-    "Ad Basilicam"
+    "Ad Basilicam",
+    "Ad Basilica"
   ],
   "features": [
     {

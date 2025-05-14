@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Metagonium Pr.",
+  "title": "Metagonium (promontory)",
   "id": "305108",
   "bbox": [
     6.4674778,
@@ -8,9 +8,10 @@
     6.4674778,
     37.0875111
   ],
-  "description": "An ancient place, cited: BAtlas 31 F2 Metagonium Pr.",
+  "description": "Metagonium Promontorium may be the modern-day Cap Bougaroûn. It is a cape that forms the western end of the Gulf of Skikda. It lies opposite the Cap de Fer and is the northernmost point of Algeria.",
   "names": [
-    "Metagonium Pr."
+    "Metagonium Pr.",
+    "Ras Bougaroun"
   ],
   "features": [
     {

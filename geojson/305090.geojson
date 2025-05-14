@@ -3,10 +3,10 @@
   "title": "Hippo Regius",
   "id": "305090",
   "bbox": [
-    7.747415,
-    36.881305,
-    7.755129,
-    36.883651
+    7.7477403,
+    36.8790042,
+    7.7525321,
+    36.8858691
   ],
   "description": "Hippo Regius (modern Annaba in Algeria) was a colony established by Phoenicians from Tyre as early as the twelfth century BC.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.751272,
-          36.882478
+          7.75014588123,
+          36.882539297
         ]
       },
       "properties": {
@@ -32,36 +32,89 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          7.755129,
-          36.883651
+          [
+            7.7510936,
+            36.8858691
+          ],
+          [
+            7.7494205,
+            36.885845
+          ],
+          [
+            7.7494205,
+            36.8856428
+          ],
+          [
+            7.748927,
+            36.885561
+          ],
+          [
+            7.7487584,
+            36.8851855
+          ],
+          [
+            7.7488908,
+            36.8843383
+          ],
+          [
+            7.7482529,
+            36.8825523
+          ],
+          [
+            7.7483222,
+            36.8819986
+          ],
+          [
+            7.7477403,
+            36.8818935
+          ],
+          [
+            7.7479129,
+            36.881152
+          ],
+          [
+            7.7480128,
+            36.8810558
+          ],
+          [
+            7.7485418,
+            36.8811177
+          ],
+          [
+            7.749601,
+            36.8790042
+          ],
+          [
+            7.7512682,
+            36.8799575
+          ],
+          [
+            7.7525321,
+            36.8809973
+          ],
+          [
+            7.75249,
+            36.8822538
+          ],
+          [
+            7.7523154,
+            36.8830048
+          ],
+          [
+            7.7510936,
+            36.8858691
+          ]
         ]
       },
-      "id": "darmc-location-12766",
+      "id": "osm-location-of-site-archa-c-ologique-dahippone",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12766",
-        "link": "http://pleiades.stoa.org/places/305090/darmc-location-12766"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.747415,
-          36.881305
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/305090/dare-location"
+        "title": "OSM location of Site archéologique d’Hippone (Annaba)",
+        "link": "http://pleiades.stoa.org/places/305090/osm-location-of-site-archa-c-ologique-dahippone"
       }
     }
   ]

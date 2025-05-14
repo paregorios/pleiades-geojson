@@ -9,6 +9,9 @@
     36.260331
   ],
   "description": "An ancient settlement and fort known in the 19th and 20th centuries as Henchir el-Ksar. It is located at the eastern foot of the Guellal-ta-Attar where lies the confluence of the Oued Safsaf and the Oued Ghriba (in the modern Algerian municipality of Beni Fouda, Sétif Province). It was on the main ancient route linking Sitifis and Cuicul.",
+  "connectsWith": [
+    "311067"
+  ],
   "names": [
     "Mopth(i?)",
     "El-Ksar",

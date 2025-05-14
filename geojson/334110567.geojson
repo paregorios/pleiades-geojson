@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Antaios (Libya)",
+  "id": "334110567",
+  "bbox": [
+    -5.810419,
+    35.787168,
+    -5.810048,
+    35.787924
+  ],
+  "description": "A hill in Libya that was said to be the tomb of the giant Antaios, son of Poseidon.",
+  "connectsWith": [
+    "275736"
+  ],
+  "names": [
+    "Antaiou mnema"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8102335,
+          35.787546
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

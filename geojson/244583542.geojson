@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Apollosa",
+  "id": "244583542",
+  "bbox": [
+    14.7129451,
+    41.0750945,
+    14.7129451,
+    41.0750945
+  ],
+  "description": "Ponte Apollosa, a bridge of the Via Appia that may have been restored by Septimius Severus in 198 CE.",
+  "connectsWith": [
+    "356966898"
+  ],
+  "names": [
+    "Ponte Apollosa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7129451,
+          41.0750945
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7129451,
+          41.0750945
+        ]
+      },
+      "id": "osm-location-of-resti-di-ponte-apollosa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Resti di Ponte Apollosa",
+        "link": "http://pleiades.stoa.org/places/244583542/osm-location-of-resti-di-ponte-apollosa"
+      }
+    }
+  ]
+}
