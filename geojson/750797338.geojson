@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Macellum of Hippo Regius",
+  "id": "750797338",
+  "bbox": [
+    7.7494514,
+    36.8825154,
+    7.7499524,
+    36.8829569
+  ],
+  "description": "The Macellum of Hippo Regius originates in the early imperial period and is then renovated in Late Antiquity.",
+  "connectsWith": [
+    "305090"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74970190657,
+          36.8827361812
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7494514,
+            36.8828809
+          ],
+          [
+            7.749563,
+            36.8825154
+          ],
+          [
+            7.7499524,
+            36.8825915
+          ],
+          [
+            7.7498409,
+            36.8829569
+          ],
+          [
+            7.7494514,
+            36.8828809
+          ]
+        ]
+      },
+      "id": "osm-location-of-macellum-of-hippo-regius",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Macellum of Hippo Regius",
+        "link": "http://pleiades.stoa.org/places/750797338/osm-location-of-macellum-of-hippo-regius"
+      }
+    }
+  ]
+}

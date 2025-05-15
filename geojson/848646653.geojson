@@ -5,7 +5,7 @@
   "bbox": [
     32.4025834,
     34.7725435,
-    32.4090476,
+    32.4089722,
     34.7793979
   ],
   "description": "The \"Tombs of the Kings\" archaeological site is a Hellenistic and Roman-period necropolis associated with the city of Nea Paphos and characterized by large, rock-cut, subterranean tomb structures.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.405489956,
-          34.7755163861
+          32.405469939,
+          34.7755298022
         ]
       },
       "properties": {
@@ -70,12 +70,12 @@
               34.7742869
             ],
             [
-              32.4090476,
-              34.7733427
+              32.4089722,
+              34.7733325
             ],
             [
-              32.4078548,
-              34.7729834
+              32.4078606,
+              34.7730213
             ],
             [
               32.4074042,
@@ -84,6 +84,10 @@
             [
               32.4065782,
               34.7735015
+            ],
+            [
+              32.406373,
+              34.7734677
             ],
             [
               32.4053158,

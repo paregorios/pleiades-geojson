@@ -3,10 +3,10 @@
   "title": "Halex? (river)",
   "id": "452331",
   "bbox": [
-    15.7942446,
-    37.9484118,
-    15.7942446,
-    37.9484118
+    15.7895681,
+    37.9164899,
+    15.8350905,
+    38.0604116
   ],
   "description": "An ancient place, cited: BAtlas 46 C5 Halex? fl.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.7942446,
-          37.9484118
+          15.8133276677,
+          37.9913560335
         ]
       },
       "properties": {

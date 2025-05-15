@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theater of Hippo Regius",
+  "id": "45412826",
+  "bbox": [
+    7.7464076,
+    36.8810953,
+    7.7470252,
+    36.8816564
+  ],
+  "description": "The Theater of Hippo Regius is perhaps the largest Roman theater in North Africa. It was built in the second century CE.",
+  "connectsWith": [
+    "305090"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74670947012,
+          36.8814077502
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7470252,
+            36.8816261
+          ],
+          [
+            7.746936,
+            36.8816564
+          ],
+          [
+            7.7468408,
+            36.8815391
+          ],
+          [
+            7.746725,
+            36.8815871
+          ],
+          [
+            7.7465758,
+            36.8815641
+          ],
+          [
+            7.7464766,
+            36.8815166
+          ],
+          [
+            7.7464356,
+            36.8814551
+          ],
+          [
+            7.7464076,
+            36.8813901
+          ],
+          [
+            7.7464309,
+            36.8812611
+          ],
+          [
+            7.7464767,
+            36.8812074
+          ],
+          [
+            7.7465434,
+            36.8811752
+          ],
+          [
+            7.7466216,
+            36.8811237
+          ],
+          [
+            7.7467064,
+            36.8810953
+          ],
+          [
+            7.7468089,
+            36.8812927
+          ],
+          [
+            7.7470252,
+            36.8816261
+          ]
+        ]
+      },
+      "id": "osm-location-of-theater-of-hippo-regius",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Theater of Hippo Regius",
+        "link": "http://pleiades.stoa.org/places/45412826/osm-location-of-theater-of-hippo-regius"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Thermae of Hippo Regius",
+  "id": "915458713",
+  "bbox": [
+    7.7494878,
+    36.8841872,
+    7.7508545,
+    36.8853176
+  ],
+  "description": "The northern bath complex of Hippo Regius.",
+  "connectsWith": [
+    "305090"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75017110944,
+          36.8847524008
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.7494878,
+            36.8850351
+          ],
+          [
+            7.7504752,
+            36.8853176
+          ],
+          [
+            7.7508545,
+            36.8844698
+          ],
+          [
+            7.7498669,
+            36.8841872
+          ],
+          [
+            7.7494878,
+            36.8850351
+          ]
+        ]
+      },
+      "id": "osm-location-hippo-regius-thermae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: Hippo Regius, Thermae",
+        "link": "http://pleiades.stoa.org/places/915458713/osm-location-hippo-regius-thermae"
+      }
+    }
+  ]
+}
