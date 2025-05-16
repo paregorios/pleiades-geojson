@@ -4,8 +4,8 @@
   "id": "550652",
   "bbox": [
     26.241591,
-    39.74127,
-    26.241591,
+    39.7411998,
+    26.2417328,
     39.74127
   ],
   "description": "An ancient granite quarry known today as \"Yedi Taşlar\" (Seven Stones), located near the modern Turkish village of Koçalı (Ezine District, Çanakkale Province). Several partially quarried monolithic columns remain on site today.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.241591,
-          39.74127
+          26.2416619,
+          39.7412349
         ]
       },
       "properties": {
@@ -27,17 +27,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          26.2417328,
+          39.7411998
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/550652/osm-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           26.241591,
           39.74127
         ]
       },
-      "id": "visible-monolithic-granite-columns-at-yedi-taslar",
+      "id": "imagery-location-visible-monolithic-granite-columns-at-yedi-taslar",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Visible monolithic granite columns at Yedi Taşlar",
-        "link": "http://pleiades.stoa.org/places/550652/visible-monolithic-granite-columns-at-yedi-taslar"
+        "title": "Imagery Location: Visible monolithic granite columns at Yedi Taşlar",
+        "link": "http://pleiades.stoa.org/places/550652/imagery-location-visible-monolithic-granite-columns-at-yedi-taslar"
       }
     }
   ]

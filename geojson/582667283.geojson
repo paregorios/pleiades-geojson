@@ -3,10 +3,10 @@
   "title": "Palaestra at Olympia",
   "id": "582667283",
   "bbox": [
-    21.628625,
-    37.6385,
-    21.628625,
-    37.6385
+    21.6282522,
+    37.6382058,
+    21.6290596,
+    37.6388629
   ],
   "description": "Palaestra in the sanctuary of Zeus at Olympia",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.628625,
-          37.6385
+          21.6286558922,
+          37.6385343166
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          21.628625,
-          37.6385
+          [
+            21.6289651,
+            37.6388629
+          ],
+          [
+            21.6282522,
+            37.6387906
+          ],
+          [
+            21.6283466,
+            37.6382058
+          ],
+          [
+            21.6290596,
+            37.638278
+          ],
+          [
+            21.6289651,
+            37.6388629
+          ]
         ]
       },
-      "id": "palaestra-at-olympia",
+      "id": "osm-location-of-palaestra",
       "type": "Feature",
       "properties": {
-        "description": "Palaestra in the sanctuary of Zeus at Olympia",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Palaestra at Olympia",
-        "link": "http://pleiades.stoa.org/places/582667283/palaestra-at-olympia"
+        "title": "OSM location of Palaestra",
+        "link": "http://pleiades.stoa.org/places/582667283/osm-location-of-palaestra"
       }
     }
   ]

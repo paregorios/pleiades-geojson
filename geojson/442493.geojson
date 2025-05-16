@@ -3,10 +3,10 @@
   "title": "Balabo (mountain)",
   "id": "442493",
   "bbox": [
-    15.2793903,
+    15.2802915,
     40.7607632,
     15.3446977,
-    40.762369
+    40.7617189
   ],
   "description": "A mountain, probably Monte Marzano.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.312044,
-          40.7615661
+          15.3124946,
+          40.76124105
         ]
       },
       "properties": {
@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Monte Eremita",
+        "title": "OSM location of Monte Eremita",
         "link": "http://pleiades.stoa.org/places/442493/location-of-monte-eremita"
       }
     },
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.2793903,
-          40.762369
+          15.2802915,
+          40.7617189
         ]
       },
       "id": "location-of-monte-valva",
@@ -56,7 +56,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Monte Valva",
+        "title": "OSM location of Monte Valva",
         "link": "http://pleiades.stoa.org/places/442493/location-of-monte-valva"
       }
     }

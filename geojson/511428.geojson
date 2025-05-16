@@ -9,6 +9,9 @@
     41.846659
   ],
   "description": "An ancient place, cited: BAtlas 52 A1 ‘Tarpodizo’",
+  "connectsWith": [
+    "514157"
+  ],
   "names": [
     "Tarpodizo",
     "Pudizo"

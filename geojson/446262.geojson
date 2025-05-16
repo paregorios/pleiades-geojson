@@ -2,7 +2,11 @@
   "type": "FeatureCollection",
   "title": "Lucos",
   "id": "446262",
-  "description": "An ancient place, cited: BAtlas 45 unlocated Lucos",
+  "description": "Now unlocated, Lucos was a statio located on the Via Herculia near Potentia in south Italy.",
+  "connectsWith": [
+    "469059303",
+    "442735"
+  ],
   "names": [
     "Lucos"
   ],

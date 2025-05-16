@@ -3,9 +3,9 @@
   "title": "Roman theater at Cuicul",
   "id": "697765430",
   "bbox": [
-    5.7373999,
-    36.320874,
-    5.7373999,
+    5.7373802,
+    36.3205201,
+    5.7380575,
     36.320874
   ],
   "description": "The Roman theater at Cuicul was built during the reign of Antoninus Pius.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.7373999,
-          36.320874
+          5.73767984713,
+          36.3206774862
         ]
       },
       "properties": {

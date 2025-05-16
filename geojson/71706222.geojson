@@ -3,10 +3,10 @@
   "title": "Temple F at Selinus",
   "id": "71706222",
   "bbox": [
-    12.8344107,
-    37.5874936,
-    12.8344107,
-    37.5874936
+    12.8345413,
+    37.5870905,
+    12.8353293,
+    37.5874571
   ],
   "description": "Temple F at Selinus is a Doric temple located on the site's so-called \"East Hill\". Dedicated either to Athena or Dionysus, the temple dates to the middle of the sixth century B.C. The non-canonical ground plan of 6 x 14 columns gives the temple an elongated aspect.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8344107,
-          37.5874936
+          12.8349353221,
+          37.5872737929
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.8344107,
-          37.5874936
+          [
+            12.8345413,
+            37.5871456
+          ],
+          [
+            12.835293,
+            37.5870905
+          ],
+          [
+            12.8353293,
+            37.587402
+          ],
+          [
+            12.8345777,
+            37.5874571
+          ],
+          [
+            12.8345413,
+            37.5871456
+          ]
         ]
       },
-      "id": "location-of-temple-f",
+      "id": "osm-location-of-tempio-f",
       "type": "Feature",
       "properties": {
-        "description": "a late Archaic Doric temple. Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple F",
-        "link": "http://pleiades.stoa.org/places/71706222/location-of-temple-f"
+        "title": "OSM location of Tempio F",
+        "link": "http://pleiades.stoa.org/places/71706222/osm-location-of-tempio-f"
       }
     }
   ]
