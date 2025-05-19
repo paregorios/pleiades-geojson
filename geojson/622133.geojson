@@ -3,6 +3,9 @@
   "title": "Doudousa/Doudoua",
   "id": "622133",
   "description": "An ancient place, cited: BAtlas 63 unlocated Doudou(s)a",
+  "connectsWith": [
+    "619275"
+  ],
   "names": [
     "Doudousa",
     "Doudoua"

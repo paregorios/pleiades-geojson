@@ -3,10 +3,10 @@
   "title": "Gymnasium at Olympia",
   "id": "728329643",
   "bbox": [
-    21.628457,
-    37.639293,
-    21.628457,
-    37.639293
+    21.6284548,
+    37.6389928,
+    21.628916,
+    37.6399972
   ],
   "description": "The Gymnasium of Olympia was a practice and training field constructed in 250 BC for male Hellenic athletes competing in the Olympic Games.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.628457,
-          37.639293
+          21.6286854,
+          37.639495
         ]
       },
       "properties": {
@@ -32,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          21.628457,
-          37.639293
+          [
+            21.6284548,
+            37.6399631
+          ],
+          [
+            21.6286667,
+            37.6399972
+          ],
+          [
+            21.628916,
+            37.6390269
+          ],
+          [
+            21.6287041,
+            37.6389928
+          ],
+          [
+            21.6284548,
+            37.6399631
+          ]
         ]
       },
-      "id": "gymnasium-at-olympia",
+      "id": "osm-location-of-gymnasium",
       "type": "Feature",
       "properties": {
-        "description": "Representative point for Gymnasium at Olympia derived from Google Earth satellite imagery.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Gymnasium at Olympia",
-        "link": "http://pleiades.stoa.org/places/728329643/gymnasium-at-olympia"
+        "title": "OSM location of Gymnasium",
+        "link": "http://pleiades.stoa.org/places/728329643/osm-location-of-gymnasium"
       }
     }
   ]

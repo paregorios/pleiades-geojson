@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica of Iomnium",
+  "id": "725032190",
+  "bbox": [
+    4.1245302,
+    36.8942233,
+    4.1249868,
+    36.8944525
+  ],
+  "description": "The basilica of Iomnium (Tigzirt) likely dates to the fifth and sixth centuries CE.",
+  "connectsWith": [
+    "295280"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.12475286459,
+          36.8943421585
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.1245302,
+            36.8944072
+          ],
+          [
+            4.1245603,
+            36.8942233
+          ],
+          [
+            4.1249302,
+            36.8942728
+          ],
+          [
+            4.1249284,
+            36.8943209
+          ],
+          [
+            4.1249797,
+            36.8943336
+          ],
+          [
+            4.1249868,
+            36.8943605
+          ],
+          [
+            4.1249868,
+            36.894386
+          ],
+          [
+            4.124985,
+            36.8944044
+          ],
+          [
+            4.1249461,
+            36.8944171
+          ],
+          [
+            4.1249178,
+            36.8944171
+          ],
+          [
+            4.1248983,
+            36.8944525
+          ],
+          [
+            4.1245302,
+            36.8944072
+          ]
+        ]
+      },
+      "id": "osm-location-of-great-basilica-of-iomnium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of great basilica of Iomnium",
+        "link": "http://pleiades.stoa.org/places/725032190/osm-location-of-great-basilica-of-iomnium"
+      }
+    }
+  ]
+}

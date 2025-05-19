@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Via Clodia",
-  "id": "737328394",
+  "title": "Tracias",
+  "id": "208412998",
   "bbox": [
-    11.256929,
-    42.002408,
-    12.38216,
-    43.768755
+    34.126748,
+    38.043402,
+    34.126748,
+    38.043402
   ],
-  "description": "An ancient Roman road.",
+  "description": "A place included on the Peutinger map.",
+  "connectsWith": [
+    "648801"
+  ],
   "names": [
-    "Via Clodia"
+    "Tracias"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9798619658,
-          42.314827615
+          34.126748,
+          38.043402
         ]
       },
       "properties": {

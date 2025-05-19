@@ -3,10 +3,10 @@
   "title": "Kouloupene (region)",
   "id": "629019",
   "bbox": [
-    36.081414,
-    39.747662,
-    37.017879,
-    40.007795
+    36.0827655,
+    39.1696252724,
+    38.6591123542,
+    39.9984393
   ],
   "description": "An ancient region of eastern Asia Minor, lying on the border of Armenia Minor and encompassing the cities of Sebasteia and Sebastopolis.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.5510511,
-          39.8751519833
+          36.5499710254,
+          39.8732024554
         ]
       },
       "properties": {

@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sorpara",
+  "id": "208412997",
+  "description": "A place in Cappadocia included on the Peutinger map.",
+  "connectsWith": [
+    "629079"
+  ],
+  "names": [
+    "Sorpara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

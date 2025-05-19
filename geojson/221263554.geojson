@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Via Clodia",
-  "id": "737328394",
+  "title": "Salandona",
+  "id": "221263554",
   "bbox": [
-    11.256929,
-    42.002408,
-    12.38216,
-    43.768755
+    37.427339,
+    37.965585,
+    37.427339,
+    37.965585
   ],
-  "description": "An ancient Roman road.",
+  "description": "A place included on the Peutinger map.",
+  "connectsWith": [
+    "658439"
+  ],
   "names": [
-    "Via Clodia"
+    "Salandona"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9798619658,
-          42.314827615
+          37.427339,
+          37.965585
         ]
       },
       "properties": {

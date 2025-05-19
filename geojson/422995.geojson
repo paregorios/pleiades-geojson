@@ -6,7 +6,7 @@
     12.2792485,
     41.7487005,
     12.2978648,
-    41.7582474
+    41.7582387
   ],
   "description": "The port city of ancient Rome located at the mouth of the river Tiber.",
   "connectsWith": [
@@ -20,7 +20,8 @@
   "names": [
     "Ostia",
     "Ostia",
-    "Ostia Antica"
+    "Ostia Antica",
+    "Hostis"
   ],
   "features": [
     {
@@ -28,8 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2893589702,
-          41.7535767346
+          12.2893574183,
+          41.7535757522
         ]
       },
       "properties": {

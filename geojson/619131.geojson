@@ -9,6 +9,9 @@
     38.043402
   ],
   "description": "An ancient place, cited: BAtlas 63 E4 Caena",
+  "connectsWith": [
+    "208412998"
+  ],
   "names": [
     "Caena"
   ],
