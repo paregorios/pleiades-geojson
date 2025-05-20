@@ -3,10 +3,10 @@
   "title": "Tyana/Col. Aurelia Antoniniana",
   "id": "648801",
   "bbox": [
-    34.572513,
-    37.82365,
-    34.572513,
-    37.82365
+    34.5736203,
+    37.8260608,
+    34.5736203,
+    37.8260608
   ],
   "description": "An ancient city of Cappadocia that was the capital of the Neo-Hittite kingdom in the first millennium B.C.",
   "connectsWith": [
@@ -42,8 +42,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.572513,
-          37.82365
+          34.5736203,
+          37.8260608
         ]
       },
       "properties": {
@@ -54,17 +54,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.572513,
-          37.82365
+          34.5736203,
+          37.8260608
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, village precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/648801/dare-location"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/648801/osm-location"
       }
     }
   ]
