@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge (north of Niniba)",
   "id": "306534",
   "bbox": [
-    7.5,
-    36.5,
-    8.0,
-    37.0
+    7.71402809666,
+    36.5364964237,
+    7.71402809666,
+    36.5364964237
   ],
-  "description": "An ancient place, cited: BAtlas 31 H3 unnamed bridge (N Niniba)",
+  "description": "Gsell (whence BAtlas) noted remains of a Roman bridge over the Seybouse (ancient Ubus), about 500 meters upstream from its confluence with the Frarah.",
+  "connectsWith": [
+    "315240"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.75,
-          36.75
+          7.71402809666,
+          36.5364964237
         ]
       },
       "properties": {
@@ -25,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              7.5,
-              36.5
-            ],
-            [
-              7.5,
-              37.0
-            ],
-            [
-              8.0,
-              37.0
-            ],
-            [
-              8.0,
-              36.5
-            ],
-            [
-              7.5,
-              36.5
-            ]
-          ]
+          7.71402809665693,
+          36.53649642366446
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/306534/batlas-location"
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/306534/batlas-point-location"
       }
     }
   ]

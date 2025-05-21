@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Withdrawn: Untitled",
   "id": "208942867",
   "bbox": [
     7.754548,
@@ -8,7 +8,7 @@
     7.754548,
     36.441205
   ],
-  "description": "An ancient place, cited: BAtlas 31 H4 unnamed unlabeled (settlements)",
+  "description": "Duplicate for https://pleiades.stoa.org/places/208942891",
   "features": [
     {
       "type": "Feature",
@@ -34,10 +34,10 @@
       "id": "darmc-location-21054",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 21054",
-        "link": "http://pleiades.stoa.org/places/208942867/darmc-location-21054"
+        "link": "http://pleiades.stoa.org/errata/208942867/darmc-location-21054"
       }
     }
   ]

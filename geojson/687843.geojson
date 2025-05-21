@@ -3,12 +3,12 @@
   "title": "Azotos Paralios",
   "id": "687843",
   "bbox": [
-    34.621637,
-    31.780417,
-    34.622372,
-    31.786516
+    34.6213234,
+    31.7801213,
+    34.6219891,
+    31.7807504
   ],
-  "description": "An ancient place, cited: BAtlas 70 F2 Azotos Paralios",
+  "description": "Azotos Paralios, also referred to as Ashdod-Yam is a multi-period archaeological site located on the Mediterranean coast of Israel. It exists as early as the time of the Assyrian empire. The toponym \"Azotos Paralios\" belongs to its Hellenistic phase.",
   "connectsWith": [
     "1001939",
     "660988416",
@@ -24,29 +24,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.6220045,
-          31.7834665
+          34.621646964,
+          31.7804263153
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.622372,
-          31.786516
-        ]
-      },
-      "id": "darmc-location-6329",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 6329",
-        "link": "http://pleiades.stoa.org/places/687843/darmc-location-6329"
       }
     },
     {
@@ -64,6 +47,49 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/687843/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.6215888,
+            31.7807504
+          ],
+          [
+            34.6213234,
+            31.7802885
+          ],
+          [
+            34.6216304,
+            31.780161
+          ],
+          [
+            34.6217282,
+            31.7801213
+          ],
+          [
+            34.6219891,
+            31.7805851
+          ],
+          [
+            34.6218864,
+            31.7806268
+          ],
+          [
+            34.6215888,
+            31.7807504
+          ]
+        ]
+      },
+      "id": "osm-location-of-ashdod-yam-citadel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ashdod-Yam Citadel",
+        "link": "http://pleiades.stoa.org/places/687843/osm-location-of-ashdod-yam-citadel"
       }
     }
   ]

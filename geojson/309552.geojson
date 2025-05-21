@@ -9,6 +9,9 @@
     36.754913
   ],
   "description": "An aqueduct tunnel, near Saldae, sometimes referred to as the Nonius Datus tunnel.",
+  "connectsWith": [
+    "305778"
+  ],
   "features": [
     {
       "type": "Feature",

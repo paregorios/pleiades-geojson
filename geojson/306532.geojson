@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge (south of Rusicade)",
   "id": "306532",
   "bbox": [
-    6.5,
-    36.5,
-    7.0,
-    37.0
+    6.86307701388,
+    36.7377763052,
+    6.86307701388,
+    36.7377763052
   ],
-  "description": "An ancient place, cited: BAtlas 31 F3 unnamed bridge (S Rusicade)",
+  "description": "Gsell (whence BAtlas) repeats an earlier report of a well-preserved Roman bridge over the \"Oued Ameur\" upstream from its confluence with the Safsaf (ancient Thapsus).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.75,
-          36.75
+          6.86307701388,
+          36.7377763052
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              6.5,
-              36.5
-            ],
-            [
-              6.5,
-              37.0
-            ],
-            [
-              7.0,
-              37.0
-            ],
-            [
-              7.0,
-              36.5
-            ],
-            [
-              6.5,
-              36.5
-            ]
-          ]
+          6.863077013877826,
+          36.737776305184575
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/306532/batlas-location"
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/306532/batlas-point-location"
       }
     }
   ]

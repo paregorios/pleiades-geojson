@@ -3,12 +3,12 @@
   "title": "Caput Amsagae",
   "id": "305041",
   "bbox": [
-    6.5,
-    36.0,
-    7.0,
-    36.5
+    6.68149066266,
+    36.1094816469,
+    6.68149066266,
+    36.1094816469
   ],
-  "description": "An ancient place, cited: BAtlas 31 F4 Caput Amsagae",
+  "description": "Epigraphic testimony indicates that the \"Genius Numen\" of the Caput Amsagae was worshipped at a spring near ancient *Sila (modern Bordj el Ksar in Algeria's Oum El Bouaghi province).",
   "names": [
     "Caput Amsagae"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.75,
-          36.25
+          6.68149066266,
+          36.1094816469
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              6.5,
-              36.0
-            ],
-            [
-              6.5,
-              36.5
-            ],
-            [
-              7.0,
-              36.5
-            ],
-            [
-              7.0,
-              36.0
-            ],
-            [
-              6.5,
-              36.0
-            ]
-          ]
+          6.681490662656548,
+          36.10948164691002
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/305041/batlas-location"
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/305041/batlas-point-location"
       }
     }
   ]

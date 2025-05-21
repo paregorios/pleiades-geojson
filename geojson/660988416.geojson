@@ -5,8 +5,8 @@
   "bbox": [
     34.445392,
     31.4519221,
-    35.521306,
-    33.899285
+    35.9878486,
+    34.7097612
   ],
   "description": "A region in the southern Levant inhabited by the Philistines in the Iron Age. The Philistine Pentapolis comprised Ashdod, Ashkelon, Gaza, Ekron, and Gath.",
   "names": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8513371501,
-          32.1972103928
+          34.9495853991,
+          32.4299818164
         ]
       },
       "properties": {
