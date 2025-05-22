@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Floga Sculpture Workshop (Paros)",
+  "id": "306693502",
+  "bbox": [
+    25.1516399,
+    37.0815617,
+    25.1518954,
+    37.0817553
+  ],
+  "description": "Located at modern Floga in the town of Paros, this residential structure, dating to the 5th/4th centuries BCE, underwent a number of subsequent modifications and took on the additional role of a sculpture workshop in the Hellenistic period.",
+  "connectsWith": [
+    "599868",
+    "599867"
+  ],
+  "names": [
+    "Floga stin paroikia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1517647744,
+          37.0816626277
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.1518954,
+            37.0816596
+          ],
+          [
+            25.1517651,
+            37.0817248
+          ],
+          [
+            25.1516859,
+            37.0817553
+          ],
+          [
+            25.1516399,
+            37.0816759
+          ],
+          [
+            25.1517089,
+            37.081629
+          ],
+          [
+            25.1518085,
+            37.0815617
+          ],
+          [
+            25.1518954,
+            37.0816596
+          ]
+        ]
+      },
+      "id": "osm-location-excavated-workshop-area",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: excavated workshop area",
+        "link": "http://pleiades.stoa.org/places/306693502/osm-location-excavated-workshop-area"
+      }
+    }
+  ]
+}

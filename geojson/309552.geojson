@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed tunnel on the aqueduct supplying Saldae",
+  "title": "El Habel tunnel (Saldae aqueduct)",
   "id": "309552",
   "bbox": [
-    5.084042,
-    36.754913,
-    5.084042,
-    36.754913
+    4.97230813803,
+    36.7545903411,
+    4.97648732953,
+    36.7573380003
   ],
-  "description": "An aqueduct tunnel, near Saldae, sometimes referred to as the Nonius Datus tunnel.",
+  "description": "An aqueduct tunnel, near Saldae, sometimes referred to as the Nonius Datus tunnel. It was a component of a Roman aqueduct that delivered water from the area of modern Toudja to Saldae (modern Bejaia in Algeria's Kabylia province). The tunnel's modern name derives from the nearby village of El Habel, which is located just north of Meccuc in the municipal district of Bejaia.",
   "connectsWith": [
     "305778"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.084042,
-          36.754913
+          4.9743696513,
+          36.7558597898
         ]
       },
       "properties": {
@@ -28,19 +28,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          5.084042,
-          36.754913
+          [
+            [
+              4.972308138026033,
+              36.75733800030206,
+              0.0
+            ],
+            [
+              4.973265198419929,
+              36.7566940221359,
+              0.0
+            ],
+            [
+              4.973426203728096,
+              36.7566346722304,
+              0.0
+            ],
+            [
+              4.973760387883843,
+              36.75608111887596,
+              0.0
+            ],
+            [
+              4.974347283855545,
+              36.75611421215502,
+              0.0
+            ],
+            [
+              4.97436124276885,
+              36.75599076917716,
+              0.0
+            ],
+            [
+              4.974557733349556,
+              36.75572563431169,
+              0.0
+            ],
+            [
+              4.974513630160895,
+              36.75570816955619,
+              0.0
+            ],
+            [
+              4.974425693923823,
+              36.75572024534512,
+              0.0
+            ],
+            [
+              4.974388755856278,
+              36.75567337521134,
+              0.0
+            ],
+            [
+              4.974402782211595,
+              36.75556168346563,
+              0.0
+            ],
+            [
+              4.974402107592855,
+              36.75544417009029,
+              0.0
+            ],
+            [
+              4.974335599090489,
+              36.75535627833256,
+              0.0
+            ],
+            [
+              4.974298593841723,
+              36.75529765679094,
+              0.0
+            ],
+            [
+              4.974401061998543,
+              36.75526202424169,
+              0.0
+            ],
+            [
+              4.974628977484228,
+              36.75536107231629,
+              0.0
+            ],
+            [
+              4.97486419366666,
+              36.75545421713247,
+              0.0
+            ],
+            [
+              4.975025871642806,
+              36.75551237830465,
+              0.0
+            ],
+            [
+              4.97519424157878,
+              36.75545887430098,
+              0.0
+            ],
+            [
+              4.975325470156504,
+              36.75532324594495,
+              0.0
+            ],
+            [
+              4.975464336538897,
+              36.75524047128629,
+              0.0
+            ],
+            [
+              4.976487329526098,
+              36.75459034108457,
+              0.0
+            ]
+          ]
         ]
       },
-      "id": "vici-org-location-of-nonius-datus-tunnel",
+      "id": "imagery-location-reconstructed-route-of-tunnel",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Coordinates determined in Google Earth using 2022 imagery matching Laoues 2024 figure 24.",
         "location_precision": "precise",
-        "title": "vici.org location of Nonius Datus Tunnel",
-        "link": "http://pleiades.stoa.org/places/309552/vici-org-location-of-nonius-datus-tunnel"
+        "title": "Imagery Location: reconstructed route of tunnel",
+        "link": "http://pleiades.stoa.org/places/309552/imagery-location-reconstructed-route-of-tunnel"
       }
     }
   ]

@@ -1,28 +1,47 @@
 {
   "type": "FeatureCollection",
-  "title": "Tharais",
+  "title": "El-‘Iraq",
   "id": "699913",
-  "description": "An ancient place, cited: BAtlas 71 unlocated Tharais",
+  "bbox": [
+    35.634276,
+    31.091385,
+    35.634276,
+    31.091385
+  ],
+  "description": "At modern El-‘Iraq in Jordan's Karak region, archaeologists have identified Byzantine pottery, architecture (including a church), and inscriptions. They argue, based on the archaeology and on the relative placement of other contemporary settlements on the Madaba map, that this site should be identified as ancient Tharais.",
   "names": [
+    "Al Iraq",
     "Tharais"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.634276,
+          31.091385
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "undetermined",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.634276,
+          31.091385
+        ]
+      },
+      "id": "imagery-location-of-ancient-site-west-of-al-iraq",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/699913/undetermined"
+        "description": "Location determined in Google Earth with reference to descriptive information and maps provided by Al-Rawahneh 2025 (NB: coordinates provided therein, page 194, are demonstrably incorrect). Dates after Al-Rawahneh 2025 page 194.",
+        "location_precision": "precise",
+        "title": "Imagery Location of ancient site west of Al Iraq",
+        "link": "http://pleiades.stoa.org/places/699913/imagery-location-of-ancient-site-west-of-al-iraq"
       }
     }
   ]

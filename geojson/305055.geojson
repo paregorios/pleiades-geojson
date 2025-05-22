@@ -1,15 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "*Castellum Turrense",
+  "title": "Kastellum Turrensium/Matidianum",
   "id": "305055",
   "bbox": [
-    4.649841,
-    35.766378,
-    4.649841,
-    35.766378
+    4.70346891178,
+    36.0806101929,
+    4.70346891178,
+    36.0806101929
   ],
-  "description": "An ancient place, cited: BAtlas 31 B4 *Castellum Turrense",
+  "description": "Gsell (AAA, whence BAtlas) reports as \"El Mehiriss\" the findspot of a Roman inscription marking the boundaries of fields assigned to the \"coloni Kasturrenses\" by Matidia Minor (Trajan's grand-niece). In 2025, this locale was labeled \"Mechtat Mekhiris\" in Google Earth. Another inscription, found in the area of Equizeto (approximately 12 kilometers to the south) addresses another demarcation between various castelli, including one named \"[M]atidianum\", thus providing possibly another name for Castellum T.",
   "names": [
+    "Kastellum Turrensi(um)",
+    "Kastel(lum) [M]atidianum",
     "Castellum Turrense",
     "Kastellum Matidiae"
   ],
@@ -19,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.649841,
-          35.766378
+          4.70346891178,
+          36.0806101929
         ]
       },
       "properties": {
@@ -31,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.649841,
-          35.766378
+          4.70346891178357,
+          36.08061019290231
         ]
       },
-      "id": "darmc-location-21929",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
         "location_precision": "precise",
-        "title": "DARMC location 21929",
-        "link": "http://pleiades.stoa.org/places/305055/darmc-location-21929"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/305055/batlas-point-location"
       }
     }
   ]

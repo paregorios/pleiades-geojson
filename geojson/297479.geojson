@@ -5,18 +5,18 @@
   "bbox": [
     4.25694759909,
     36.0100237335,
-    4.39592293048,
+    4.45380569515,
     36.1411940145
   ],
-  "description": "Tombs identified in AAA to the southeast of modern Haraza (حرازة) in Algeria's Kabylia province as mapped on BAtlas 30 H4.",
+  "description": "Tombs identified in AAA to the southeast of modern Haraza (حرازة) in Algeria's Kabylia province as mapped on BAtlas 30 H4 and 31 A4.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.32780547226,
-          36.086719753
+          4.34215989283,
+          36.0906943858
         ]
       },
       "properties": {
@@ -242,6 +242,40 @@
         "location_precision": "precise",
         "title": "BAtlas Point Location",
         "link": "http://pleiades.stoa.org/places/297479/batlas-point-location-12"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.41712155783502,
+          36.12972169456499
+        ]
+      },
+      "id": "batlas-point-location-13",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297479/batlas-point-location-13"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.453805695150948,
+          36.103337303971124
+        ]
+      },
+      "id": "batlas-point-location-14",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/297479/batlas-point-location-14"
       }
     }
   ]

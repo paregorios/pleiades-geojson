@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Ad Portum?",
+  "title": "Ad Portum",
   "id": "305022",
   "bbox": [
     5.71067109113,
@@ -10,7 +10,8 @@
   ],
   "description": "Possibly to be associated with modern Zebacha (BAltDir). The BAtlas point is coincident with the modern Algerian town of El Eulma.",
   "names": [
-    "Ad Portum"
+    "Ad Portum",
+    "Ad portu"
   ],
   "features": [
     {
