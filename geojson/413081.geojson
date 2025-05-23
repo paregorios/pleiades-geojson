@@ -3,10 +3,10 @@
   "title": "Ciminius (mountain)",
   "id": "413081",
   "bbox": [
-    12.1777,
-    42.3582,
-    12.1777,
-    42.3582
+    12.1412377,
+    42.3288572,
+    12.1980116,
+    42.4101863
   ],
   "description": "A volcanic massif rising 1053 meters above sea level; the modern Monte Cimino.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1777,
-          42.3582
+          12.1666428288,
+          42.3746173787
         ]
       },
       "properties": {
@@ -28,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.1777,
-          42.3582
+          [
+            12.1465828,
+            42.3288572
+          ],
+          [
+            12.1423934,
+            42.3407109
+          ],
+          [
+            12.1412377,
+            42.3470106
+          ],
+          [
+            12.143838,
+            42.3516015
+          ],
+          [
+            12.1539504,
+            42.3542705
+          ],
+          [
+            12.1633405,
+            42.3533097
+          ],
+          [
+            12.1730195,
+            42.3521353
+          ],
+          [
+            12.1798092,
+            42.3528826
+          ],
+          [
+            12.1832764,
+            42.3559786
+          ],
+          [
+            12.1829874,
+            42.3620633
+          ],
+          [
+            12.1783646,
+            42.3695349
+          ],
+          [
+            12.1735973,
+            42.3770056
+          ],
+          [
+            12.1665187,
+            42.3844755
+          ],
+          [
+            12.1611735,
+            42.3923712
+          ],
+          [
+            12.1582843,
+            42.3991992
+          ],
+          [
+            12.1585732,
+            42.4033596
+          ],
+          [
+            12.1604512,
+            42.406773
+          ],
+          [
+            12.1644962,
+            42.4079464
+          ],
+          [
+            12.1773534,
+            42.4101863
+          ],
+          [
+            12.1980116,
+            42.4095463
+          ]
         ]
       },
-      "id": "imagery-location-of-ciminius-m",
+      "id": "osm-location-of-monti-cimini",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Ciminius M.",
-        "link": "http://pleiades.stoa.org/places/413081/imagery-location-of-ciminius-m"
+        "title": "OSM location of Monti Cimini",
+        "link": "http://pleiades.stoa.org/places/413081/osm-location-of-monti-cimini"
       }
     }
   ]

@@ -3,13 +3,15 @@
   "title": "Tubusuctu",
   "id": "305171",
   "bbox": [
-    4.836816,
-    36.661737,
-    4.855629,
-    36.673393
+    4.8379012,
+    36.6554077,
+    4.8394554,
+    36.6563223
   ],
-  "description": "An ancient place, cited: BAtlas 31 B3 Tubusuctu",
+  "description": "An ancient settlement located in the modern Soummam river valley at a place called Tiklat, which is near modern El Kseur in Algeria's Kabylia province. Here the Roman emperor Augustus established a veteran colony. Bishops of Tubusuctu are attested in the fifth century CE.",
   "names": [
+    "Tiklat",
+    "El Kseur",
     "Tubusuctu",
     "Tubusuptu",
     "Tupusuctu"
@@ -20,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8462225,
-          36.667565
+          4.83854673629,
+          36.6558112698
         ]
       },
       "properties": {
@@ -30,36 +32,110 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.836816,
-          36.661737
+          [
+            4.8394554,
+            36.6556002
+          ],
+          [
+            4.8389952,
+            36.6560808
+          ],
+          [
+            4.8388472,
+            36.6562221
+          ],
+          [
+            4.8387561,
+            36.6563223
+          ],
+          [
+            4.8384417,
+            36.6562927
+          ],
+          [
+            4.8382025,
+            36.6562107
+          ],
+          [
+            4.8380499,
+            36.6561059
+          ],
+          [
+            4.8379012,
+            36.6558656
+          ],
+          [
+            4.8380721,
+            36.6557232
+          ],
+          [
+            4.83826,
+            36.6555125
+          ],
+          [
+            4.8383272,
+            36.6554362
+          ],
+          [
+            4.8383842,
+            36.6554077
+          ],
+          [
+            4.8384457,
+            36.6554088
+          ],
+          [
+            4.8385003,
+            36.6554293
+          ],
+          [
+            4.8386177,
+            36.6554863
+          ],
+          [
+            4.8388079,
+            36.6555341
+          ],
+          [
+            4.8389992,
+            36.6555717
+          ],
+          [
+            4.839235,
+            36.6555888
+          ],
+          [
+            4.8394554,
+            36.6556002
+          ]
         ]
       },
-      "id": "darmc-location-15281",
+      "id": "osm-location-tiklat-ruins",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 15281",
-        "link": "http://pleiades.stoa.org/places/305171/darmc-location-15281"
+        "title": "OSM Location: Tiklat ruins",
+        "link": "http://pleiades.stoa.org/places/305171/osm-location-tiklat-ruins"
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.855629,
-          36.673393
+          4.8384377,
+          36.6557824
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-tiklat",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, village precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/305171/dare-location"
+        "title": "OSM location of Tiklat",
+        "link": "http://pleiades.stoa.org/places/305171/osm-location-of-tiklat"
       }
     }
   ]

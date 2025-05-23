@@ -3,10 +3,10 @@
   "title": "Leukai (islands)",
   "id": "550698",
   "bbox": [
-    26.433319,
-    39.304273,
-    26.448796,
-    39.311795
+    26.4319144,
+    39.3041471,
+    26.4493257,
+    39.3162509
   ],
   "description": "An ancient place, cited: BAtlas 56 C3 Leukai Inss.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.4410575,
-          39.308034
+          26.4413859202,
+          39.3116648327
         ]
       },
       "properties": {

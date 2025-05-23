@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "title": "El Ar(i)ouia cisterns (Tubusuctu)",
+  "id": "84277965",
+  "bbox": [
+    4.8322184,
+    36.6611676,
+    4.8329499,
+    36.6619748
+  ],
+  "description": "A barrel-vaulted cistern complex located to the immediate north of Tubusuctu that could hold nearly 12,000 cubic meters of water. It was fed by the so-called \"Western Aqueduct\" of Tubusuctu.",
+  "connectsWith": [
+    "305171"
+  ],
+  "names": [
+    "El Arouia",
+    "El Ariouia",
+    "Citernes Supérieures"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83257946545,
+          36.6615735306
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8326148,
+            36.6619748
+          ],
+          [
+            4.8329499,
+            36.6612906
+          ],
+          [
+            4.8325326,
+            36.6611676
+          ],
+          [
+            4.8322184,
+            36.6618784
+          ],
+          [
+            4.8326148,
+            36.6619748
+          ]
+        ]
+      },
+      "id": "osm-location-visible-ruins-of-cistern",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: visible ruins of cistern",
+        "link": "http://pleiades.stoa.org/places/84277965/osm-location-visible-ruins-of-cistern"
+      }
+    }
+  ]
+}

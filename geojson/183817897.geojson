@@ -1,16 +1,20 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed spring supplying Tubusuctu via aqueduct",
+  "title": "Aqueduct source at Thala Itchouren",
   "id": "183817897",
   "bbox": [
-    4.783022,
-    36.669705,
-    4.783022,
-    36.669705
+    4.781417,
+    36.668528,
+    4.781417,
+    36.668528
   ],
-  "description": "Unlabeled feature captured from the Barrington Atlas",
+  "description": "Laoues 2015 identifies this location as the source of the aqueduct that supplied Tubusuctu from the northwest. It is located between modern Tighilt Messaoud and Takhlicht in the municipal territory of Fenaia Ilmaten in Algeria's Kabylia province.",
   "connectsWith": [
+    "305777",
     "305777"
+  ],
+  "names": [
+    "Thala Itchouren"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.783022,
-          36.669705
+          4.781417,
+          36.668528
         ]
       },
       "properties": {
@@ -30,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.783022,
-          36.669705
+          4.781417,
+          36.668528
         ]
       },
-      "id": "darmc-location-33268",
+      "id": "gps-location-of-first-spring-capture",
       "type": "Feature",
       "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Coordinates copied from Laoues 2015, Tableau 4.3, number 1.",
         "location_precision": "precise",
-        "title": "DARMC location 33268",
-        "link": "http://pleiades.stoa.org/places/183817897/darmc-location-33268"
+        "title": "GPS Location of first spring capture",
+        "link": "http://pleiades.stoa.org/places/183817897/gps-location-of-first-spring-capture"
       }
     }
   ]

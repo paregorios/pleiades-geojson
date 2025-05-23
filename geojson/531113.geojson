@@ -3,10 +3,10 @@
   "title": "Taphiae? (islands)",
   "id": "531113",
   "bbox": [
-    20.9067516,
-    38.5600538,
-    20.9067516,
-    38.5600538
+    20.7346957,
+    38.5407294,
+    20.9613028,
+    38.6790949
   ],
   "description": "A group of small islands in the Ionian Sea located between Leucas and the Acarnanian coast. The main island of this group can probably be identified with the modern island of Meganisi, which in the ancient sources is called Táphos.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.9067516,
-          38.5600538
+          20.867580315,
+          38.6107663131
         ]
       },
       "properties": {

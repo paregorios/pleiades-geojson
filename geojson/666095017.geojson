@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Clatchard Craig",
+  "id": "666095017",
+  "bbox": [
+    -3.2252,
+    56.3463,
+    -3.2252,
+    56.3463
+  ],
+  "description": "Clatchard Craig was the site of an Iron Age and Medieval hillfort. The site was destroyed by quarrying in the twentieth century.",
+  "names": [
+    "Clatchard Craig"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2252,
+          56.3463
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2252,
+          56.3463
+        ]
+      },
+      "id": "imagery-location-of-clatchard-craig",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location of  Clatchard Craig",
+        "link": "http://pleiades.stoa.org/places/666095017/imagery-location-of-clatchard-craig"
+      }
+    }
+  ]
+}

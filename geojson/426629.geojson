@@ -3,10 +3,10 @@
   "title": "Ponte Loreto",
   "id": "426629",
   "bbox": [
-    12.6943207,
-    41.6446824,
-    12.6943207,
-    41.6446824
+    12.6940103,
+    41.6439348,
+    12.6943858,
+    41.6469413
   ],
   "description": "A Roman bridge at Lanuvium.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6943207,
-          41.6446824
+          12.6941709413,
+          41.6454443453
         ]
       },
       "properties": {
@@ -25,19 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.6943207,
-          41.6446824
+          [
+            12.6940103,
+            41.6469373
+          ],
+          [
+            12.6940961,
+            41.6469413
+          ],
+          [
+            12.6943858,
+            41.6439348
+          ],
+          [
+            12.6941176,
+            41.644452
+          ],
+          [
+            12.6940819,
+            41.6445808
+          ],
+          [
+            12.6940598,
+            41.6446981
+          ],
+          [
+            12.694052,
+            41.6448059
+          ],
+          [
+            12.6941122,
+            41.6457628
+          ],
+          [
+            12.6940103,
+            41.6469373
+          ]
         ]
       },
-      "id": "location-of-ponte-loreto",
+      "id": "osm-location-ponte-loreto",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Ponte Loreto",
-        "link": "http://pleiades.stoa.org/places/426629/location-of-ponte-loreto"
+        "title": "OSM location: Ponte Loreto",
+        "link": "http://pleiades.stoa.org/places/426629/osm-location-ponte-loreto"
       }
     }
   ]
