@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte dei Saraceni, Adrano",
+  "id": "636310449",
+  "bbox": [
+    14.7994773,
+    37.7008223,
+    14.8001446,
+    37.7010322
+  ],
+  "description": "A bridge over the Simeto River with ancient origins, the so-called Ponte dei Saraceni has been rebuilt several times, including after the 1693 Sicily earthquake.",
+  "connectsWith": [
+    "462502",
+    "462492"
+  ],
+  "names": [
+    "Ponte dei Saraceni"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7998109298,
+          37.7009272696
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.8001446,
+            37.7009852
+          ],
+          [
+            14.7994962,
+            37.7008223
+          ],
+          [
+            14.7994865,
+            37.7008464
+          ],
+          [
+            14.7994773,
+            37.7008694
+          ],
+          [
+            14.8001257,
+            37.7010322
+          ],
+          [
+            14.8001359,
+            37.701007
+          ],
+          [
+            14.8001446,
+            37.7009852
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-dei-saraceni",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte dei Saraceni",
+        "link": "http://pleiades.stoa.org/places/636310449/osm-location-of-ponte-dei-saraceni"
+      }
+    }
+  ]
+}

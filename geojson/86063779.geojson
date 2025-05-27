@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Akbou mausoleum",
+  "id": "86063779",
+  "bbox": [
+    4.52919,
+    36.446241,
+    4.52919,
+    36.446241
+  ],
+  "description": "An ancient mausoleum located at modern Akbou on the north slope of a prominent hill in the southwestern neighborhood of Bouzeroual (Béjaïa Province, Algeria).",
+  "names": [
+    "Roman mausoleum of Akbou",
+    "Mausolée romain d'Ausium",
+    "Piton d'Akbou",
+    "Bouzeroual",
+    "Akbou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.52919,
+          36.446241
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.52919,
+          36.446241
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to coordinates digitized from the Barrington Atlas and descriptive information in AAA and Wikipedia.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/86063779/imagery-location"
+      }
+    }
+  ]
+}

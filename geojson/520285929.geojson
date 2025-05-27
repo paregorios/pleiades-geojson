@@ -9,6 +9,9 @@
     30.0327194
   ],
   "description": "The Pyramid of Djedefre, a Fourth Dynasty pharaoh, at Abu Rawash.",
+  "connectsWith": [
+    "243245493"
+  ],
   "features": [
     {
       "type": "Feature",

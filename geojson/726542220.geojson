@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pons Aurelius",
+  "id": "726542220",
+  "bbox": [
+    12.0248296,
+    41.7451532,
+    12.6387405,
+    43.7892424
+  ],
+  "description": "The Pons Aurelius is known only from late Roman documents (fourth and fifth centuries CE) and is most likely the same bridge known as pons Antoninus in the early Middle Ages. The present-day Ponte Sisto (built in the fifteenth century) reused some of the ancient Roman bridge piers.",
+  "connectsWith": [
+    "423025",
+    "423080"
+  ],
+  "names": [
+    "Pons Aurelius"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3991425867,
+          42.2853232058
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

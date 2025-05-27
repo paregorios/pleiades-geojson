@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte della Concordia, Fossombrone",
+  "id": "865293111",
+  "bbox": [
+    12.803212,
+    43.6881062,
+    12.8033668,
+    43.6885237
+  ],
+  "description": "A bridge over the Metauro River built initially in the thirteenth century. The original bridge was destroyed in 1765 and rebuilt in 1782. The bridge was again destroyed in 1944 and was rebuilt in 1946.",
+  "connectsWith": [
+    "413199"
+  ],
+  "names": [
+    "Ponte della Concordia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8032894208,
+          43.6883149286
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8032558,
+            43.6881099
+          ],
+          [
+            12.803212,
+            43.6881137
+          ],
+          [
+            12.8032801,
+            43.6885237
+          ],
+          [
+            12.8033239,
+            43.6885199
+          ],
+          [
+            12.8033668,
+            43.6885162
+          ],
+          [
+            12.8032988,
+            43.6881062
+          ],
+          [
+            12.8032558,
+            43.6881099
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-della-concordia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte della Concordia",
+        "link": "http://pleiades.stoa.org/places/865293111/osm-location-of-ponte-della-concordia"
+      }
+    }
+  ]
+}

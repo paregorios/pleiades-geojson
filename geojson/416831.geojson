@@ -3,8 +3,12 @@
   "title": "Misius (river)",
   "id": "416831",
   "description": "An ancient place, cited: BAtlas 42 unlocated Misius fl.",
+  "connectsWith": [
+    "1004"
+  ],
   "names": [
-    "Misius"
+    "Misius",
+    "Fl. Misiu"
   ],
   "features": [
     {

@@ -9,6 +9,9 @@
     42.832222
   ],
   "description": "A Roman bridge across the Torrente Gran Caso located south of Ascoli Piceno.",
+  "names": [
+    "Ponte del Gran Caso"
+  ],
   "features": [
     {
       "type": "Feature",

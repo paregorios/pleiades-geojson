@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte de Nossa Senhora da Guia",
+  "id": "381893540",
+  "bbox": [
+    -8.5876671,
+    41.7688456,
+    -8.5846951,
+    41.7694321
+  ],
+  "description": "A first-century Roman bridge across the Rio Lima at Ponte de Lima that was rebuilt in part in the fourteenth century.",
+  "connectsWith": [
+    "236517"
+  ],
+  "names": [
+    "Ponte de Ponte de Lima"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.58618091692,
+          41.7691397784
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5846951,
+            41.7688456
+          ],
+          [
+            -8.5863312,
+            41.7691704
+          ],
+          [
+            -8.5876671,
+            41.7694321
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-de-nossa-senhora-da-guia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte de Nossa Senhora da Guia",
+        "link": "http://pleiades.stoa.org/places/381893540/osm-location-of-ponte-de-nossa-senhora-da-guia"
+      }
+    }
+  ]
+}

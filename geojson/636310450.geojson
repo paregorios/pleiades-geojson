@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hannibal's Bridge (Rapallo)",
+  "id": "636310450",
+  "bbox": [
+    9.2268021,
+    44.3468368,
+    9.2274538,
+    44.3469849
+  ],
+  "description": "A ruined bridge at Rapallo, Italy, that the local toponymastic tradition links to the third-century BCE military operations of the Carthaginian commander Hannibal.",
+  "names": [
+    "Hannibal's Bridge"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2271279543,
+          44.346910831
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2274538,
+            44.3469849
+          ],
+          [
+            9.2274419,
+            44.3469822
+          ],
+          [
+            9.2268243,
+            44.3468418
+          ],
+          [
+            9.2268021,
+            44.3468368
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-annibale",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Annibale",
+        "link": "http://pleiades.stoa.org/places/636310450/osm-location-of-ponte-annibale"
+      }
+    }
+  ]
+}

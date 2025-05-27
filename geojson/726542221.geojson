@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Sisto",
+  "id": "726542221",
+  "bbox": [
+    12.4702776,
+    41.8920205,
+    12.4712146,
+    41.8926597
+  ],
+  "description": "The Ponte Sisto is a bridge that spans the Tiber River at Rome. In the present-day city, it links the Via dei Pettinari (Rione of Regola) to the Piazza Trilussa in Trastevere. The bridge was commissioned by Pope Sixtus IV and was built between 1473 and 1479. Its architect, Baccio Pontelli, reused the piers of the ancient Roman Pons Aurelius, which had come to be known as the Pons Antoninus in Late Antiquity. That bridge was at least partially destroyed in the 770s.",
+  "connectsWith": [
+    "423025",
+    "423080",
+    "726542220"
+  ],
+  "names": [
+    "Ponte Sisto"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4707460763,
+          41.892340237
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4711575,
+              41.8926597
+            ],
+            [
+              12.4712146,
+              41.8926175
+            ]
+          ],
+          [
+            [
+              12.4711575,
+              41.8926597
+            ],
+            [
+              12.4702776,
+              41.8920654
+            ]
+          ],
+          [
+            [
+              12.4702776,
+              41.8920654
+            ],
+            [
+              12.4703145,
+              41.8920379
+            ],
+            [
+              12.4703379,
+              41.8920205
+            ]
+          ],
+          [
+            [
+              12.4703379,
+              41.8920205
+            ],
+            [
+              12.4712146,
+              41.8926175
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-sisto",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Sisto",
+        "link": "http://pleiades.stoa.org/places/726542221/osm-location-of-ponte-sisto"
+      }
+    }
+  ]
+}

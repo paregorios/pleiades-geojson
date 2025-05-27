@@ -3,14 +3,15 @@
   "title": "Ausum",
   "id": "334498",
   "bbox": [
-    4.53549,
-    36.461712,
-    4.53549,
-    36.461712
+    4.9238986,
+    34.8607124,
+    4.9251845,
+    34.8620381
   ],
   "description": "An ancient place, cited: BAtlas 34 C3 Ausum",
   "names": [
-    "Ausum"
+    "Ausum",
+    "Bir Sadouri"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.53549,
-          36.461712
+          4.9245244762,
+          34.861382089
         ]
       },
       "properties": {
@@ -28,19 +29,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.53549,
-          36.461712
+          [
+            4.9248652,
+            34.8620381
+          ],
+          [
+            4.9238986,
+            34.8619032
+          ],
+          [
+            4.9240906,
+            34.8608121
+          ],
+          [
+            4.924346,
+            34.8607124
+          ],
+          [
+            4.92467,
+            34.8607682
+          ],
+          [
+            4.9249168,
+            34.8608244
+          ],
+          [
+            4.9251845,
+            34.8609383
+          ],
+          [
+            4.925069,
+            34.8614674
+          ],
+          [
+            4.9248652,
+            34.8620381
+          ]
         ]
       },
-      "id": "darmc-location-7164",
+      "id": "osm-location-of-ausum",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 7164",
-        "link": "http://pleiades.stoa.org/places/334498/darmc-location-7164"
+        "title": "OSM location of Ausum",
+        "link": "http://pleiades.stoa.org/places/334498/osm-location-of-ausum"
       }
     }
   ]

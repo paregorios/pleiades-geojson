@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed fortification near Bousâada, Algeria",
-  "id": "310310",
+  "title": "Unnamed settlement between Meğana and Makhamra, Algeria",
+  "id": "780905574",
   "bbox": [
-    4.93533291799,
-    36.5111720091,
-    4.93533291799,
-    36.5111720091
+    4.65275124325,
+    36.0999288483,
+    4.65275124325,
+    36.0999288483
   ],
-  "description": "Remains of an ancient fortification recorded by Gsell (AAA, whence BAtlas). The location should lie within 2 km of the BAtlas coordinates: a point east-northeast of modern Bousâada in the municipal territory of modern At Muḥli/Beni Mouhli in Algeria's Setif province.",
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within 2 km of the BAtlas coordinates: a point west of the modern CW 24 highway between Megana and Makhamra in the Algerian wilaya of Bordj Bou Arreridj.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.93533291799,
-          36.5111720091
+          4.65275124325,
+          36.0999288483
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.935332917989137,
-          36.51117200906261
+          4.652751243245802,
+          36.099928848257655
         ]
       },
       "id": "batlas-point-location",
@@ -37,7 +37,7 @@
         "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
         "location_precision": "precise",
         "title": "BAtlas Point Location",
-        "link": "http://pleiades.stoa.org/places/310310/batlas-point-location"
+        "link": "http://pleiades.stoa.org/places/780905574/batlas-point-location"
       }
     }
   ]

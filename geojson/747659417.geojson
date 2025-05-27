@@ -3,10 +3,10 @@
   "title": "Ponte Tufaro",
   "id": "747659417",
   "bbox": [
-    14.7014189,
-    41.0549275,
-    14.7014189,
-    41.0549275
+    14.7014331,
+    41.0549468,
+    14.7014331,
+    41.0549468
   ],
   "description": "A bridge of Roman origins located near Montesarchio.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7014189,
-          41.0549275
+          14.7014331,
+          41.0549468
         ]
       },
       "properties": {

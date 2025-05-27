@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "title": "Abu Rawash",
+  "id": "243245493",
+  "bbox": [
+    31.0619067366,
+    30.0219866129,
+    31.0957129804,
+    30.047361793
+  ],
+  "description": "Pharaonic archaeological site located 8 km north of Giza, including the pyramid of King Djedefre and several necropolises.",
+  "names": [
+    "Abu Rawash",
+    "Abu Roach",
+    "Abu Roash",
+    "Abu Roash",
+    "Abu Roash",
+    "Abou Rawach",
+    "Abou Rawash",
+    "Abou Roash"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0794498643,
+          30.0341969932
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.09349174486858,
+              30.02563298747513
+            ],
+            [
+              31.08855179772062,
+              30.02534533089807
+            ],
+            [
+              31.07252776951363,
+              30.02198661286959
+            ],
+            [
+              31.06749243906296,
+              30.02369349137422
+            ],
+            [
+              31.06352395108192,
+              30.02763331134452
+            ],
+            [
+              31.06190673656274,
+              30.03305592067809
+            ],
+            [
+              31.06798465037632,
+              30.03787111704021
+            ],
+            [
+              31.06725336084511,
+              30.03990100372852
+            ],
+            [
+              31.06775071482301,
+              30.04214520065814
+            ],
+            [
+              31.07085944125739,
+              30.04364910498249
+            ],
+            [
+              31.07958741244553,
+              30.04601049650303
+            ],
+            [
+              31.08833669861386,
+              30.04736179295295
+            ],
+            [
+              31.09079352663622,
+              30.04294386443565
+            ],
+            [
+              31.09571298036292,
+              30.04081493370943
+            ],
+            [
+              31.09361364290551,
+              30.03475385644833
+            ],
+            [
+              31.09453683518803,
+              30.03000803220959
+            ],
+            [
+              31.09349174486858,
+              30.02563298747513
+            ]
+          ]
+        ]
+      },
+      "id": "abu-rawash-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: approximate size of the archaeological site",
+        "location_precision": "precise",
+        "title": "Abu Rawash",
+        "link": "http://pleiades.stoa.org/places/243245493/abu-rawash-1"
+      }
+    }
+  ]
+}

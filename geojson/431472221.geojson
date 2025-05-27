@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte delle Voze",
+  "id": "431472221",
+  "bbox": [
+    8.3675933,
+    44.2057411,
+    8.3675933,
+    44.2057411
+  ],
+  "description": "A Roman bridge with Augustan origins, known either as Ponte Muto or Ponte delle Vozze, associated with the Via Iulia Augusta and located in the Val Ponci in Liguria.",
+  "connectsWith": [
+    "507729266"
+  ],
+  "names": [
+    "Ponte Muto",
+    "Ponte delle Voze"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3675933,
+          44.2057411
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3675933,
+          44.2057411
+        ]
+      },
+      "id": "osm-location-of-ponte-delle-voze",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte delle Voze",
+        "link": "http://pleiades.stoa.org/places/431472221/osm-location-of-ponte-delle-voze"
+      }
+    }
+  ]
+}
