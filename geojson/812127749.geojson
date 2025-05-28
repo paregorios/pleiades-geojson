@@ -64,7 +64,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Roman aqueduct",
+        "title": "OSM location of Roman aqueduct",
         "link": "http://pleiades.stoa.org/places/812127749/location-of-roman-aqueduct"
       }
     }

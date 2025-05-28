@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ödes Schloss bridgehead fort",
+  "id": "929186736",
+  "bbox": [
+    15.7541353,
+    48.1926406,
+    15.7541353,
+    48.1926406
+  ],
+  "description": "A Roman bridgehead fort, located near Carnuntum (modern Bad Deutsch-Altenburg in Austria).",
+  "connectsWith": [
+    "128376"
+  ],
+  "names": [
+    "Ödes Schloss"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7541353,
+          48.1926406
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7541353,
+          48.1926406
+        ]
+      },
+      "id": "osm-location-of-ades-schloss",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ödes Schloss",
+        "link": "http://pleiades.stoa.org/places/929186736/osm-location-of-ades-schloss"
+      }
+    }
+  ]
+}

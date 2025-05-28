@@ -8,7 +8,10 @@
     0.195361,
     52.069004
   ],
-  "description": "Site of a first century A.D. Roman fort and later Roman town.",
+  "description": "Site of a first-century A.D. Roman fort and later Roman town.",
+  "names": [
+    "Great Chesterford"
+  ],
   "features": [
     {
       "type": "Feature",

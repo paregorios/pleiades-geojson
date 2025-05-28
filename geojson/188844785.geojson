@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed settlement near Sidi Embarek, Algeria",
+  "id": "188844785",
+  "bbox": [
+    4.92118805201,
+    36.106382132,
+    4.92118805201,
+    36.106382132
+  ],
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within 2 km of the BAtlas coordinates: a point near modern Sidi Embarek.",
+  "names": [
+    "Sidi Embarek"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92118805201,
+          36.106382132
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.921188052006412,
+          36.10638213200568
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/188844785/batlas-point-location"
+      }
+    }
+  ]
+}

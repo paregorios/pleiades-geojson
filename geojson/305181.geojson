@@ -5,12 +5,17 @@
   "bbox": [
     4.786161,
     36.194285,
-    4.786161,
-    36.194285
+    4.79751114688,
+    36.2012648827
   ],
-  "description": "An ancient place, cited: BAtlas 31 B4 *Vanisnesi",
+  "description": "Extensive Roman ruins identified by Gsell (AAA, whence BAtlas) at a site he called Oum Sekak in the Hassenaoua district of modern Algeria. He estimates the site extent at 13 hectares and reports the remains of a church. An inscription that seems to provide the name of the \"genius loci\" (Genius Vanisnesi) was found in the vicinity. The site is not clearly visible in twenty-first century aerial/satellite imagery and most of the modern toponymy Gsell provides does not appear in the open-source, digital gazetteers and map tools. The site may now lie under modern development in the area.",
   "names": [
-    "Vanisnesi"
+    "Vanisnesi",
+    "Oum Sekak",
+    "Ouled Aziz",
+    "Oued Dahlia",
+    "Hasnaoua",
+    "Hassenaoua"
   ],
   "features": [
     {
@@ -18,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.786161,
-          36.194285
+          4.79183607344,
+          36.1977749414
         ]
       },
       "properties": {
@@ -37,10 +42,27 @@
       "id": "darmc-location-15350",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 15350",
         "link": "http://pleiades.stoa.org/places/305181/darmc-location-15350"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.797511146875398,
+          36.20126488274037
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/305181/batlas-point-location"
       }
     }
   ]

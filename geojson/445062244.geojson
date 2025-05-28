@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Belstead",
+  "id": "445062244",
+  "bbox": [
+    1.1063746,
+    52.0278868,
+    1.1063746,
+    52.0278868
+  ],
+  "description": "Belstead, a village and civil parish in the Babergh district of the English county of Suffolk, is the findspot of the second of the two so-called Ipswich Hoards. This hoard was discovered in 1968 and 1969 and consisted of six Gallo-Roman torqs.",
+  "names": [
+    "Belstead"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1063746,
+          52.0278868
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1063746,
+          52.0278868
+        ]
+      },
+      "id": "osm-location-of-belstead",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Belstead",
+        "link": "http://pleiades.stoa.org/places/445062244/osm-location-of-belstead"
+      }
+    }
+  ]
+}
