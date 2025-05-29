@@ -3,14 +3,18 @@
   "title": "White Pyramid",
   "id": "853958465",
   "bbox": [
-    31.2235558,
-    29.8059214,
-    31.2235558,
-    29.8059214
+    31.2225070602,
+    29.8052003822,
+    31.2257482669,
+    29.8063702977
   ],
   "description": "A pyramid built by Pharaoh Amenemhat II.",
   "connectsWith": [
     "737063"
+  ],
+  "names": [
+    "Pyramid of Amenemhat II (Dahshur)",
+    "Pyramide d'Amenemhat II (Dahchour)"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.2235558,
-          29.8059214
+          31.2238459406,
+          29.805854985
         ]
       },
       "properties": {
@@ -41,6 +45,43 @@
         "location_precision": "precise",
         "title": "OSM location of White Pyramid",
         "link": "http://pleiades.stoa.org/places/853958465/location-of-white-pyramid"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.2257482669076,
+              29.80623408943291
+            ],
+            [
+              31.22570240179817,
+              29.80520038220097
+            ],
+            [
+              31.22250706016682,
+              29.80535226923149
+            ],
+            [
+              31.22257137598022,
+              29.80637029774133
+            ],
+            [
+              31.2257482669076,
+              29.80623408943291
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-white-pyramid",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the pyramid of king Amenemhat II.",
+        "location_precision": "precise",
+        "title": "Imagery Location: White Pyramid",
+        "link": "http://pleiades.stoa.org/places/853958465/imagery-location-white-pyramid"
       }
     }
   ]

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pyramid-complex of Senusret III",
+  "id": "2367889",
+  "bbox": [
+    31.2246542065,
+    29.8171540275,
+    31.2267860667,
+    29.8200067587
+  ],
+  "description": "Funerary complex of King Senusret III at Dahshur including a pyramid.",
+  "connectsWith": [
+    "737063"
+  ],
+  "names": [
+    "Pyramid-complex of Senusret III",
+    "Complexe funéraire de Sésostris III"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2257073725,
+          29.8185716356
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.22466497944867,
+              29.81715533497201
+            ],
+            [
+              31.22465420651028,
+              29.82000675866835
+            ],
+            [
+              31.22672727252539,
+              29.81999219769698
+            ],
+            [
+              31.22678606669167,
+              29.81715402748076
+            ],
+            [
+              31.22466497944867,
+              29.81715533497201
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-pyramid-complex-of-senusret-iii",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the pyramid-complex of king Senusret III.",
+        "location_precision": "precise",
+        "title": "Imagery Location: Pyramid-complex of Senusret III",
+        "link": "http://pleiades.stoa.org/places/2367889/imagery-location-pyramid-complex-of-senusret-iii"
+      }
+    }
+  ]
+}

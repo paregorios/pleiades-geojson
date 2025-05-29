@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Upton-by-Chester",
+  "id": "2297027",
+  "bbox": [
+    -2.868815,
+    53.2200003,
+    -2.868815,
+    53.2200003
+  ],
+  "description": "A Roman camp was identified via crop marks in 1989 and confirmed thereafter. It covers an area of approximately 1.2 hectares. The site is located in two fields to the west of the lane from Acres Lane to Upton Grange.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.868815,
+          53.2200003
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.868815,
+          53.2200003
+        ]
+      },
+      "id": "osm-location-of-roman-marching-camp",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman marching camp",
+        "link": "http://pleiades.stoa.org/places/2297027/osm-location-of-roman-marching-camp"
+      }
+    }
+  ]
+}

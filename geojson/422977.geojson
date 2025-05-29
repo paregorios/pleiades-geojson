@@ -9,6 +9,9 @@
     42.0040992
   ],
   "description": "An Etruscan and Roman site lying 4 km to the west of Caere along the monumental road leading to Pyrgi. Until the early 1960s, the site was known for the monumental tumulus that Mengarelli had excavated in the 1920s. Subsequent excavation revealed other evidence, including an elite compound that served as a sanctuary.",
+  "connectsWith": [
+    "422859"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pyramid of Ameny Qemau",
+  "id": "245762763",
+  "bbox": [
+    31.2212319136,
+    29.7815028915,
+    31.2220198534,
+    29.7821841377
+  ],
+  "description": "Pyramid of King Ameny Qemau located in Dahshur.",
+  "connectsWith": [
+    "737063"
+  ],
+  "names": [
+    "Pyramid of Ameny Qemau",
+    "Pyramide d'Amény-Qémaou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2216294924,
+          29.7818440739
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.22123191356979,
+              29.78153309672333
+            ],
+            [
+              31.22124602406076,
+              29.78218413767735
+            ],
+            [
+              31.22201985340418,
+              29.78215971401307
+            ],
+            [
+              31.22201809494185,
+              29.78150289146278
+            ],
+            [
+              31.22123191356979,
+              29.78153309672333
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-pyramid-of-ameny-qemau",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: visible remains of the pyramid of king Ameny Qemau.",
+        "location_precision": "precise",
+        "title": " Imagery Location: Pyramid of Ameny Qemau",
+        "link": "http://pleiades.stoa.org/places/245762763/imagery-location-pyramid-of-ameny-qemau"
+      }
+    }
+  ]
+}

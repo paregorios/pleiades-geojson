@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Via Pompeia?",
   "id": "499882358",
+  "bbox": [
+    15.556634,
+    38.192251,
+    15.556634,
+    38.192251
+  ],
   "description": "An ancient road of Sicily linking Syracuse and Messina.",
   "names": [
     "via Pompeia"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556634,
+          38.192251
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

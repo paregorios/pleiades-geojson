@@ -1,22 +1,27 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed settlement near Tixter, Algeria",
   "id": "208943654",
   "bbox": [
-    5.069789,
-    36.000983,
-    5.069789,
-    36.000983
+    5.07968308879,
+    36.0102111115,
+    5.07968308879,
+    36.0102111115
   ],
-  "description": "An ancient place, cited: BAtlas 31 C4 unnamed unlabeled (settlements)",
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within 2 km of the BAtlas coordinates: a point in the municipal territory of modern Tixter, Algeria (wilaya of Bordj Bou Arreridj), in the vicinity of the modern villages of El Frafria and Chnadra.",
+  "names": [
+    "Tixter",
+    "El Frafria",
+    "Chnadra"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.069789,
-          36.000983
+          5.07968308879,
+          36.0102111115
         ]
       },
       "properties": {
@@ -27,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.069789,
-          36.000983
+          5.079683088787212,
+          36.0102111115077
         ]
       },
-      "id": "darmc-location-20437",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
         "location_precision": "precise",
-        "title": "DARMC location 20437",
-        "link": "http://pleiades.stoa.org/places/208943654/darmc-location-20437"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/208943654/batlas-point-location"
       }
     }
   ]

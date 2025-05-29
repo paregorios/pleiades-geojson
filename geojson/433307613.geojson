@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Helsby Hillfort",
+  "id": "433307613",
+  "bbox": [
+    -2.7640685,
+    53.2721938,
+    -2.7608191,
+    53.2743937
+  ],
+  "description": "Helsby Hillfort is an Iron Age hillfort located in Cheshire, northwest England. Helsby Hill has an elevation of 141 meters above sea level.",
+  "names": [
+    "Helsby Hillfort"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76238215586,
+          53.2732178963
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.7634588,
+            53.2722091
+          ],
+          [
+            -2.7629009,
+            53.2721938
+          ],
+          [
+            -2.7624371,
+            53.27222
+          ],
+          [
+            -2.7620198,
+            53.2722669
+          ],
+          [
+            -2.7618254,
+            53.2723231
+          ],
+          [
+            -2.7614133,
+            53.2724658
+          ],
+          [
+            -2.7609403,
+            53.2727916
+          ],
+          [
+            -2.7608191,
+            53.2731639
+          ],
+          [
+            -2.7608435,
+            53.2734313
+          ],
+          [
+            -2.760865,
+            53.2736958
+          ],
+          [
+            -2.7609592,
+            53.2738811
+          ],
+          [
+            -2.7612486,
+            53.274223
+          ],
+          [
+            -2.7614152,
+            53.2743802
+          ],
+          [
+            -2.7617625,
+            53.2743937
+          ],
+          [
+            -2.7631863,
+            53.2740569
+          ],
+          [
+            -2.763593,
+            53.2736069
+          ],
+          [
+            -2.7640194,
+            53.2729275
+          ],
+          [
+            -2.7640685,
+            53.272635
+          ],
+          [
+            -2.7634588,
+            53.2722091
+          ]
+        ]
+      },
+      "id": "osm-location-helsby-hillfort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: Helsby Hillfort",
+        "link": "http://pleiades.stoa.org/places/433307613/osm-location-helsby-hillfort"
+      }
+    }
+  ]
+}
