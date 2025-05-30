@@ -1,22 +1,27 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed settlement near Timechtaouine, Algeria",
-  "id": "858342567",
+  "title": "Unnamed settlement near Bordj Zemoura, Algeria",
+  "id": "167064235",
   "bbox": [
-    4.99517658176,
-    36.4195844324,
-    4.99517658176,
-    36.4195844324
+    4.8794788318,
+    36.2296488017,
+    4.8794788318,
+    36.2296488017
   ],
-  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within a kilometer of the BAtlas coordinates: a point in the immediate vicinity of modern Timechtaouine (Draa Kebila municipal territory, Setif province, Algeria).",
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within a kilometer of the BAtlas coordinates: a point in the modern municipal territory of Bordj Zemoura, near the villages of Takouda and Tala Aouzer in Algeria's Bordj Bou Arreridj wilaya.",
+  "names": [
+    "Tala Aouzer",
+    "Takouda",
+    "Bordj Zemoura"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.99517658176,
-          36.4195844324
+          4.8794788318,
+          36.2296488017
         ]
       },
       "properties": {
@@ -27,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.995176581762208,
-          36.41958443236579
+          4.879478831800937,
+          36.22964880167822
         ]
       },
       "id": "batlas-point-location",
@@ -37,7 +42,7 @@
         "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
         "location_precision": "precise",
         "title": "BAtlas Point Location",
-        "link": "http://pleiades.stoa.org/places/858342567/batlas-point-location"
+        "link": "http://pleiades.stoa.org/places/167064235/batlas-point-location"
       }
     }
   ]

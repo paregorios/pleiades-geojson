@@ -3,18 +3,19 @@
   "title": "Castellum Vartan(...)",
   "id": "305056",
   "bbox": [
-    5.13009684191,
-    36.0128515185,
-    5.13009684191,
-    36.0128515185
+    5.20698688263,
+    36.0146117406,
+    5.20698688263,
+    36.0146117406
   ],
-  "description": "An ancient Roman settlement noted by Gsell (AAA, whence BAtlas) in the vicinity of contemporary \"Koudiat Adjela\". The fragmentary ancient name was provided by an inscription discovered in 1930 at \"Mechta Sidi-Hassem,\" which has also been reported as \"Douar Boutara\". The location should lie within 2 km of the BAtlas coordinates: a point just over a kilometer northeast of modern Bir el Kerma.",
+  "description": "A fortified ancient Roman settlement noted by Gsell (AAA, whence BAtlas) in the vicinity of contemporary \"Koudiat Adjela\". The fragmentary ancient name was provided by an inscription discovered in 1930 at \"Mechta Sidi-Hassem,\" which has also been reported as \"Douar Boutara\". The location should lie within a kilometer of the BAtlas coordinates: a point to the northwest of modern Ksar El Abtal and immediately north of Douar Nouaoura in Algeria's Setif Wilaya.",
   "names": [
     "Koudiat Adjela",
-    "Bir el Kerma",
     "Mechta Sidi-Hassem",
     "Douar Boutara",
-    "Castellum Vartan(...)"
+    "Castellum Vartan(...)",
+    "Douar Nouaoura",
+    "Ksar El Abtal"
   ],
   "features": [
     {
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.13009684191,
-          36.0128515185
+          5.20698688263,
+          36.0146117406
         ]
       },
       "properties": {
@@ -34,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.130096841905132,
-          36.01285151845301
+          5.206986882631743,
+          36.014611740614264
         ]
       },
       "id": "batlas-point-location",

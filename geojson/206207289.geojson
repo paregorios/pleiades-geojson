@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Martini-Marescotti Tomb",
+  "id": "206207289",
+  "bbox": [
+    12.1210791,
+    41.990901,
+    12.1210791,
+    41.990901
+  ],
+  "description": "The so-called Martini-Marescotti Tomb is an Etruscan tomb located in the Monte Abatone necropolis of ancient Caere. The tomb was built in the late sixth or early fifth century BCE and is composed of a dromos and three funereal chambers covered by a tumulus. The tomb contained a substantial funereal deposit that included painted Attic wares.",
+  "connectsWith": [
+    "955903121"
+  ],
+  "names": [
+    "Tomba Martini Marescotti"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1210791,
+          41.990901
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1210791,
+          41.990901
+        ]
+      },
+      "id": "osm-location-of-martini-marescotti-tomb",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Martini-Marescotti Tomb",
+        "link": "http://pleiades.stoa.org/places/206207289/osm-location-of-martini-marescotti-tomb"
+      }
+    }
+  ]
+}

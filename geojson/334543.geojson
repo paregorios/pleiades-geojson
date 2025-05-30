@@ -1,18 +1,20 @@
 {
   "type": "FeatureCollection",
-  "title": "Equizeto",
+  "title": "Ouled Agla",
   "id": "334543",
   "bbox": [
     4.7014318,
-    35.96502,
-    4.705389,
+    35.9652057,
+    4.7014318,
     35.9652057
   ],
-  "description": "An ancient settlement, probably to be identified with modern Ouled Agla in Algeria.",
+  "description": "Modern Ouled Agla in Algeria (French colonial Lecourbe) was the site of a major Roman settlement, covering an area possibly as large as 30 hectares, although little remains today. Gsell (AAA, whence BAtlas) argued that it should be identified with ancient Equizeto, firmly rejecting earlier attempts to identify it with Mansourah, Bordj Medjana, and El Guerria (the latter still repeated in many epigraphic databases and gazetteers).",
   "names": [
     "Equizeto",
     "Equezeto",
-    "Ouled Agla"
+    "Ouled Agla",
+    "Lecourbe",
+    "municip(ium) Equiz(eto)"
   ],
   "features": [
     {
@@ -20,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.7034104,
-          35.96511285
+          4.7014318,
+          35.9652057
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.705389,
-          35.96502
-        ]
-      },
-      "id": "darmc-location-12361",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12361",
-        "link": "http://pleiades.stoa.org/places/334543/darmc-location-12361"
       }
     },
     {

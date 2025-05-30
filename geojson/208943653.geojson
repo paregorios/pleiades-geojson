@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed settlement near Bir el Kerma, Algeria",
   "id": "208943653",
   "bbox": [
-    5.199549,
-    36.004536,
-    5.199549,
-    36.004536
+    5.13009684191,
+    36.0128515185,
+    5.13009684191,
+    36.0128515185
   ],
-  "description": "An ancient place, cited: BAtlas 31 C4 unnamed unlabeled (settlements)",
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within a kilometer of the BAtlas coordinates: a point near modern Bir el Kerma, which is located in the modern municipal territory of Tixter (Bordj Bou Arreridj willaya).",
+  "names": [
+    "Bir el Kerma"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.199549,
-          36.004536
+          5.13009684191,
+          36.0128515185
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.199549,
-          36.004536
+          5.130096841905132,
+          36.01285151845301
         ]
       },
-      "id": "darmc-location-16213",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
         "location_precision": "precise",
-        "title": "DARMC location 16213",
-        "link": "http://pleiades.stoa.org/places/208943653/darmc-location-16213"
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/208943653/batlas-point-location"
       }
     }
   ]

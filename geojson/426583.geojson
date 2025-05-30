@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "426583",
   "bbox": [
-    12.5,
-    41.75,
-    12.75,
-    42.0
+    12.515431,
+    41.982053,
+    12.515431,
+    41.982053
   ],
   "description": "An ancient place, cited: BAtlas 43 C2 no. 7 (villa N Fidenae)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.625,
-          41.875
+          12.515431,
+          41.982053
         ]
       },
       "properties": {

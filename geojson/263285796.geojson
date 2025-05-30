@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed settlement north of Khelil, Algeria",
+  "id": "263285796",
+  "bbox": [
+    4.95818231688,
+    36.2676729547,
+    4.95818231688,
+    36.2676729547
+  ],
+  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within 1 km of the BAtlas coordinates: a point in the territory of modern Khelil, north of the modern road connecting Khelil and Bordj Zemoura and just east of the tertiary modern road that leaves it going north to Ouled Rabeh. Bordj Bou Arreridj wilaya.",
+  "names": [
+    "Khelil",
+    "Bordj Zemoura",
+    "Ouled Rabeh"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95818231688,
+          36.2676729547
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.95818231688431,
+          36.26767295466607
+        ]
+      },
+      "id": "batlas-point-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates extracted using QGIS from a raster image of Barrington Atlas Map 31 that was georegistered to OpenStreetMap using prominent, stable landscape features. Dates after BAltDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/263285796/batlas-point-location"
+      }
+    }
+  ]
+}

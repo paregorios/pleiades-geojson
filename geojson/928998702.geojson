@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Unnamed settlement between Guerria and Meğana",
+  "title": "El-Guerria",
   "id": "928998702",
   "bbox": [
     4.65029355887,
@@ -8,7 +8,12 @@
     4.65029355887,
     36.124115607
   ],
-  "description": "Remains of an ancient settlement of Roman date, recorded by Gsell (AAA, whence BAtlas). The location should lie within 2 km of the BAtlas coordinates: a point near modern Guerria and the modern road from Guerria to Meğana in the Algerian wilaya of Bordj Bou Arreridj.",
+  "description": "Remains of superimposed Arab and Roman settlements recorded by Gsell (AAA, whence BAtlas) on and around a hill about three kilometers to the southwest of the village of \"Medjana\" at \"El Guerria\" on the \"Oued Lechbour\". The location should lie within a kilometer of the BAtlas coordinates: a point near modern Guerria and the modern road from Guerria to Meğana in the Algerian wilaya of Bordj Bou Arreridj. A nineteenth century identification of El-Guerria with attested ancient Equizito was soundly rejected by Gsell (AAA 15.91), but it is still reflected in some modern epigraphic databases.",
+  "names": [
+    "El Guerria",
+    "El Guerria",
+    "El Gerria"
+  ],
   "features": [
     {
       "type": "Feature",

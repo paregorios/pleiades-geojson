@@ -3,10 +3,10 @@
   "title": "Unnamed temple",
   "id": "426588",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.25,
+    41.75,
+    12.5,
+    42.0
   ],
   "description": "An ancient place, cited: BAtlas 43 B2 no. 12 (temple at EUR)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.375,
+          41.875
         ]
       },
       "properties": {

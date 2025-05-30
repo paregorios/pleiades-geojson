@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "426587",
   "bbox": [
-    12.505709,
-    41.866599,
-    12.505709,
-    41.866599
+    12.5028588,
+    41.8677103,
+    12.5030293,
+    41.8678281
   ],
   "description": "An ancient place, cited: BAtlas 43 C2 no. 11 (bridge near so-called Tomb of Geta)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.505709,
-          41.866599
+          12.5029455442,
+          41.8677643441
         ]
       },
       "properties": {

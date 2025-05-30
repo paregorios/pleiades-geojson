@@ -3,10 +3,10 @@
   "title": "Grottarossa",
   "id": "422941",
   "bbox": [
-    12.4907754,
-    41.9629816,
-    12.4907754,
-    41.9629816
+    12.4888895,
+    41.9612864,
+    12.4912662,
+    41.9636478
   ],
   "description": "Grottarossa is located at the intersection of key roadways in northern suburbium of Rome, lying along the Via Flaminia as well as at the point where the Via Veientana separated from the Via Cassia and thereby connected Rome with Veii. There is archaeological evidence for tombs, both built tombs and rock-cut tombs in the exposed tuff escarpments, as well as villas.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4907754,
-          41.9629816
+          12.4900915196,
+          41.962626751
         ]
       },
       "properties": {

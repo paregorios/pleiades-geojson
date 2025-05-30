@@ -4,9 +4,9 @@
   "id": "605339917",
   "bbox": [
     11.6276877,
-    42.4192456,
-    11.6276877,
-    42.4192456
+    42.4190267,
+    11.6285463,
+    42.4195071
   ],
   "description": "The forum of the ancient town, dating to the Roman period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6276877,
-          42.4192456
+          11.6281361014,
+          42.419280929
         ]
       },
       "properties": {
