@@ -3,20 +3,23 @@
   "title": "Rofalco",
   "id": "421074111",
   "bbox": [
-    11.7138066,
-    42.5707756,
-    11.7138066,
-    42.5707756
+    11.7118174,
+    42.5699399,
+    11.7149019,
+    42.571291
   ],
   "description": "A fortified Etruscan site located in the territory of Vulci.",
+  "names": [
+    "Rofalco"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.7138066,
-          42.5707756
+          11.7132845691,
+          42.5706839057
         ]
       },
       "properties": {
@@ -25,19 +28,109 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.7138066,
-          42.5707756
+          [
+            11.7118656,
+            42.5700229
+          ],
+          [
+            11.7118174,
+            42.5702204
+          ],
+          [
+            11.7119086,
+            42.5703824
+          ],
+          [
+            11.71215,
+            42.570655
+          ],
+          [
+            11.7122948,
+            42.570813
+          ],
+          [
+            11.7126381,
+            42.5710303
+          ],
+          [
+            11.7129493,
+            42.5712002
+          ],
+          [
+            11.7132497,
+            42.5712792
+          ],
+          [
+            11.7135769,
+            42.571291
+          ],
+          [
+            11.7139953,
+            42.5712515
+          ],
+          [
+            11.7143655,
+            42.5711686
+          ],
+          [
+            11.7146176,
+            42.5710935
+          ],
+          [
+            11.7148,
+            42.5710184
+          ],
+          [
+            11.7149019,
+            42.5709157
+          ],
+          [
+            11.7148375,
+            42.5708249
+          ],
+          [
+            11.7146069,
+            42.5707261
+          ],
+          [
+            11.7142421,
+            42.5705878
+          ],
+          [
+            11.7135983,
+            42.5704061
+          ],
+          [
+            11.7130995,
+            42.5702639
+          ],
+          [
+            11.7125255,
+            42.5700822
+          ],
+          [
+            11.7120856,
+            42.5699399
+          ],
+          [
+            11.7119461,
+            42.5699676
+          ],
+          [
+            11.7118656,
+            42.5700229
+          ]
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-rofalco",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Sito archeologico etrusco Rofalco",
-        "link": "http://pleiades.stoa.org/places/421074111/osm-location"
+        "title": "OSM location: Rofalco",
+        "link": "http://pleiades.stoa.org/places/421074111/osm-location-rofalco"
       }
     }
   ]

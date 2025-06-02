@@ -3,10 +3,10 @@
   "title": "*Grinario",
   "id": "118706",
   "bbox": [
-    9.3589266,
-    48.6763232,
-    9.3616302,
-    48.6781311
+    9.3588147,
+    48.6763328,
+    9.3617202,
+    48.6781203
   ],
   "description": "An ancient place, cited: BAtlas 12 C4 *Grinario",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.36016673003,
-          48.6772677602
+          9.36016177291,
+          48.6772631242
         ]
       },
       "properties": {

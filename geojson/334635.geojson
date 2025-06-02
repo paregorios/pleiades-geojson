@@ -9,6 +9,9 @@
     35.991366
   ],
   "description": "An ancient place, cited: BAtlas 34 C2 T(h)amascani",
+  "connectsWith": [
+    "334634"
+  ],
   "names": [
     "Thamascani",
     "Tamascani"

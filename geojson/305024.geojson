@@ -9,6 +9,9 @@
     36.328261
   ],
   "description": "An ancient place, cited: BAtlas 31 C4 Ad Sava Municipium",
+  "connectsWith": [
+    "311069"
+  ],
   "names": [
     "Ad Sava Municipium"
   ],
