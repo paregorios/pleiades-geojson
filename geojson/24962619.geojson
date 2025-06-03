@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khamissa Roman Theater",
+  "id": "24962619",
+  "bbox": [
+    7.6555072,
+    36.1934338,
+    7.6563357,
+    36.1939758
+  ],
+  "description": "A Roman theater at Thubursicum Numidarum (modern Khamissa in Algeria), first published by European scholars in the mid-19th century.",
+  "connectsWith": [
+    "305166"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.65595190149,
+          36.1936706446
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.6561649,
+            36.1939758
+          ],
+          [
+            7.6555072,
+            36.1936283
+          ],
+          [
+            7.6556363,
+            36.1934566
+          ],
+          [
+            7.6557212,
+            36.1935046
+          ],
+          [
+            7.6557863,
+            36.1934705
+          ],
+          [
+            7.6558252,
+            36.1934539
+          ],
+          [
+            7.6558704,
+            36.1934409
+          ],
+          [
+            7.6559255,
+            36.1934338
+          ],
+          [
+            7.6559971,
+            36.1934348
+          ],
+          [
+            7.656041,
+            36.1934467
+          ],
+          [
+            7.6560939,
+            36.1934647
+          ],
+          [
+            7.6561326,
+            36.1934793
+          ],
+          [
+            7.6561669,
+            36.1934978
+          ],
+          [
+            7.6562124,
+            36.1935342
+          ],
+          [
+            7.6562418,
+            36.1935626
+          ],
+          [
+            7.6562556,
+            36.1935873
+          ],
+          [
+            7.6562758,
+            36.1936262
+          ],
+          [
+            7.656287,
+            36.1936667
+          ],
+          [
+            7.6562888,
+            36.1937123
+          ],
+          [
+            7.6562719,
+            36.1937483
+          ],
+          [
+            7.6562574,
+            36.1937678
+          ],
+          [
+            7.6563357,
+            36.1938174
+          ],
+          [
+            7.6561649,
+            36.1939758
+          ]
+        ]
+      },
+      "id": "osm-location-of-ancient-roman-theater-in-khamissa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ancient Roman theater in Khamissa",
+        "link": "http://pleiades.stoa.org/places/24962619/osm-location-of-ancient-roman-theater-in-khamissa"
+      }
+    }
+  ]
+}

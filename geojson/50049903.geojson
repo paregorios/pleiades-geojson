@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Portus Boeotorum",
+  "id": "50049903",
+  "description": "Portus Boeotorum is a place included on the Peutinger map. It would have been located near Kallatis in the Roman province of Moesia Inferior.",
+  "names": [
+    "Portus Boeotorum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed place",
+  "id": "161974153",
+  "bbox": [
+    4.898028,
+    35.88253,
+    4.901546,
+    35.901195
+  ],
+  "description": "An unnamed place of an uncertain identification included on the Peutinger map. The distance figure \"C\" is legible and the next named place is Lemelli presidium.",
+  "connectsWith": [
+    "334576"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899787,
+          35.8918625
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
