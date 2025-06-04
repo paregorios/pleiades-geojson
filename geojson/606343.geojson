@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Nysa",
   "id": "606343",
+  "bbox": [
+    25.33292,
+    36.9163849,
+    25.6064953,
+    37.203626
+  ],
   "description": "An ancient place, cited: BAtlas 61 unlocated Nysa",
   "connectsWith": [
     "599822"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4794353809,
+          37.0595599418
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

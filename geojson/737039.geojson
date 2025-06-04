@@ -9,6 +9,9 @@
     29.205646
   ],
   "description": "An ancient place, cited: BAtlas 75 E2 Schmonthis",
+  "connectsWith": [
+    "736921"
+  ],
   "names": [
     "Schmonthis"
   ],
