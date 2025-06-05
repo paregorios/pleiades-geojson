@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Insula M1 (Ephesus)",
+  "id": "956927192",
+  "bbox": [
+    27.3414776,
+    37.938981,
+    27.3419552,
+    37.9394982
+  ],
+  "description": "A richly appointed insula in Ephesus includes a latrine, which has previously been referred to in scholarship as a brothel.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Insula M1 (Ephesus)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3417201527,
+          37.9392124853
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3416161,
+            37.9394982
+          ],
+          [
+            27.3414776,
+            37.9390591
+          ],
+          [
+            27.3419185,
+            37.938981
+          ],
+          [
+            27.3419552,
+            37.9391148
+          ],
+          [
+            27.3418422,
+            37.9391371
+          ],
+          [
+            27.3418874,
+            37.939282
+          ],
+          [
+            27.3417348,
+            37.9393109
+          ],
+          [
+            27.3417828,
+            37.9394714
+          ],
+          [
+            27.3416161,
+            37.9394982
+          ]
+        ]
+      },
+      "id": "osm-location-of-insula-m1-ephesus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Insula M1 (Ephesus)",
+        "link": "http://pleiades.stoa.org/places/956927192/osm-location-of-insula-m1-ephesus"
+      }
+    }
+  ]
+}

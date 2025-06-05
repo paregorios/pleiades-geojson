@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Hadrian (Ephesus)",
+  "id": "956927190",
+  "bbox": [
+    27.3417964,
+    37.9384583,
+    27.3420409,
+    37.9386405
+  ],
+  "description": "A small, prostyle Roman temple located on Curetes Street in ancient Ephesus, the Temple of Hadrian was dedicated to the emperor Hadrian in 138 CE by Publius Quintilius.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Hadrianstempel (Ephesos)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3419186571,
+          37.9385494155
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3417964,
+            37.9385855
+          ],
+          [
+            27.3419795,
+            37.9384583
+          ],
+          [
+            27.3420409,
+            37.9385134
+          ],
+          [
+            27.3418578,
+            37.9386405
+          ],
+          [
+            27.3417964,
+            37.9385855
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-of-hadrian",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Temple of Hadrian",
+        "link": "http://pleiades.stoa.org/places/956927190/osm-location-of-temple-of-hadrian"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     41.943165
   ],
   "description": "An ancient place, cited: BAtlas 43 B2 S. Agata",
+  "connectsWith": [
+    "839719167"
+  ],
   "features": [
     {
       "type": "Feature",

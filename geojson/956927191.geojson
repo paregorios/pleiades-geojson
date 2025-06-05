@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Heroon of Trysa",
+  "id": "956927191",
+  "bbox": [
+    29.9005302,
+    36.2684468,
+    29.9008848,
+    36.2687293
+  ],
+  "description": "The Heroon of Trysa is a scholarly appellation applied to an ancient tomb (ca. 380 BCE) found at Trysa in ancient Lycia. Julius August Schönborn discovered the site in 1841. The shrine is noted for its cycle of relief sculpture.",
+  "connectsWith": [
+    "639155"
+  ],
+  "names": [
+    "Heroon of Trysa",
+    "Heroon von Trysa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9007400534,
+          36.2686081888
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.9005302,
+            36.2686173
+          ],
+          [
+            29.9007148,
+            36.2687293
+          ],
+          [
+            29.9008848,
+            36.2685618
+          ],
+          [
+            29.9006959,
+            36.2684468
+          ]
+        ]
+      },
+      "id": "osm-location-of-heroon-of-trysa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Heroon of Trysa",
+        "link": "http://pleiades.stoa.org/places/956927191/osm-location-of-heroon-of-trysa"
+      }
+    }
+  ]
+}

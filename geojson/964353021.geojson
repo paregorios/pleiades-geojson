@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "title": "Harbour Thermae, Ephesos",
+  "id": "964353021",
+  "bbox": [
+    27.3370676,
+    37.9429536,
+    27.3383033,
+    37.9444718
+  ],
+  "description": "A large bath complex adjacent to the ancient harbor of Ephesus that measures ca. 160 by 170 meters and was originally built in the late first century CE.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Harbor Baths (Ephesus)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3376803299,
+          37.9437349567
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3372291,
+            37.9440575
+          ],
+          [
+            27.3370676,
+            37.9436408
+          ],
+          [
+            27.3374404,
+            37.9435483
+          ],
+          [
+            27.3372668,
+            37.9430841
+          ],
+          [
+            27.3377855,
+            37.9429536
+          ],
+          [
+            27.3378309,
+            37.9430763
+          ],
+          [
+            27.3382573,
+            37.9442292
+          ],
+          [
+            27.3383033,
+            37.9443538
+          ],
+          [
+            27.3378102,
+            37.9444718
+          ],
+          [
+            27.3375989,
+            37.943958
+          ],
+          [
+            27.3372291,
+            37.9440575
+          ]
+        ]
+      },
+      "id": "osm-location-of-harbour-thermae-ephesos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Harbour Thermae, Ephesos",
+        "link": "http://pleiades.stoa.org/places/964353021/osm-location-of-harbour-thermae-ephesos"
+      }
+    }
+  ]
+}

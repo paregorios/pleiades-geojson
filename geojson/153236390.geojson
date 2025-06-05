@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "title": "Commercial Market (Tetragonos Agora)",
+  "id": "153236390",
+  "bbox": [
+    27.3396257,
+    37.9392515,
+    27.3416526,
+    37.9407935
+  ],
+  "description": "The Commercial Market or Tetragonos Agora was one of the main squares of ancient Ephesus.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Tetragonos Agora"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3406397834,
+          37.940024889
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3416526,
+            37.9404633
+          ],
+          [
+            27.3412595,
+            37.9392515
+          ],
+          [
+            27.3411452,
+            37.9392764
+          ],
+          [
+            27.3410887,
+            37.9392887
+          ],
+          [
+            27.3410463,
+            37.9392978
+          ],
+          [
+            27.3409998,
+            37.9393077
+          ],
+          [
+            27.340955,
+            37.939317
+          ],
+          [
+            27.3407497,
+            37.9393592
+          ],
+          [
+            27.3396257,
+            37.9395905
+          ],
+          [
+            27.3400157,
+            37.9407935
+          ],
+          [
+            27.3416526,
+            37.9404633
+          ]
+        ]
+      },
+      "id": "osm-location-of-commercial-market-tetragonos-agora",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Commercial Market (Tetragonos Agora)",
+        "link": "http://pleiades.stoa.org/places/153236390/osm-location-of-commercial-market-tetragonos-agora"
+      }
+    }
+  ]
+}

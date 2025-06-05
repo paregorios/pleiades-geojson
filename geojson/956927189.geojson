@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stadium (Ephesus)",
+  "id": "956927189",
+  "bbox": [
+    27.3443469,
+    37.9456222,
+    27.3473916,
+    37.9468437
+  ],
+  "description": "The stadium of ancient Ephesus originally dates from the Hellenistic period. It is expanded during the reign of Nero thanks to patronage from the freedman C. Stertinius Orpex.",
+  "connectsWith": [
+    "599612"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3458537373,
+          37.9462132466
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3470088,
+            37.9456222
+          ],
+          [
+            27.3443469,
+            37.9461888
+          ],
+          [
+            27.3445648,
+            37.9468437
+          ],
+          [
+            27.3471325,
+            37.9462956
+          ],
+          [
+            27.3472974,
+            37.9461842
+          ],
+          [
+            27.3473916,
+            37.9459984
+          ],
+          [
+            27.3473681,
+            37.9457987
+          ],
+          [
+            27.3472326,
+            37.9456594
+          ],
+          [
+            27.3470088,
+            37.9456222
+          ]
+        ]
+      },
+      "id": "osm-location-of-stadium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Stadium",
+        "link": "http://pleiades.stoa.org/places/956927189/osm-location-of-stadium"
+      }
+    }
+  ]
+}

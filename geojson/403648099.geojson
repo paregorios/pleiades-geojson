@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vedius Gymnasium",
+  "id": "403648099",
+  "bbox": [
+    27.3447208,
+    37.9470411,
+    27.3463258,
+    37.9479488
+  ],
+  "description": "A bath-gymnasium complex at Ephesus dating to the middle of the second century CE.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Vediusgymnasium"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3455233,
+          37.94749495
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3461555,
+            37.9470411
+          ],
+          [
+            27.3447208,
+            37.9472625
+          ],
+          [
+            27.3448911,
+            37.9479488
+          ],
+          [
+            27.3463258,
+            37.9477274
+          ],
+          [
+            27.3461555,
+            37.9470411
+          ]
+        ]
+      },
+      "id": "osm-location-of-vedius-gymnasium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vedius Gymnasium",
+        "link": "http://pleiades.stoa.org/places/403648099/osm-location-of-vedius-gymnasium"
+      }
+    }
+  ]
+}

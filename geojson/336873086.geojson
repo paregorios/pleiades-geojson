@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ayasuluk Hill",
+  "id": "336873086",
+  "bbox": [
+    27.3680819,
+    37.9554869,
+    27.3680819,
+    37.9554869
+  ],
+  "description": "Ayasuluk Hill is part of the archaeological site of Ephesus. It became the primary settlement area following the ancient city's decline in the seventh century CE. The hill was the site of a Byzantine fortress and a Basilica of St John. Local tradition also claimed it was the site of the tomb of John the Apostle.",
+  "connectsWith": [
+    "599612"
+  ],
+  "names": [
+    "Ayasuluk Hill"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3680819,
+          37.9554869
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3680819,
+          37.9554869
+        ]
+      },
+      "id": "osm-location-of-ayasuluk-hill",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ayasuluk Hill",
+        "link": "http://pleiades.stoa.org/places/336873086/osm-location-of-ayasuluk-hill"
+      }
+    }
+  ]
+}

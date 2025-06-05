@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica of St. John",
+  "id": "153236391",
+  "bbox": [
+    27.3667494,
+    37.9512716,
+    27.3687366,
+    37.9529838
+  ],
+  "description": "The Basilica of St. John the Evangelist is located in Ephesus on the Ayasuluk Hill. It was built between 548 and 565 CE.",
+  "connectsWith": [
+    "336873086"
+  ],
+  "names": [
+    "Basilica of St. John"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3678155175,
+          37.9521786691
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3679873,
+            37.9512837
+          ],
+          [
+            27.3681681,
+            37.9513219
+          ],
+          [
+            27.3684671,
+            37.9513316
+          ],
+          [
+            27.3687366,
+            37.9512716
+          ],
+          [
+            27.3687039,
+            37.9518009
+          ],
+          [
+            27.3684246,
+            37.9529838
+          ],
+          [
+            27.3667494,
+            37.9528877
+          ],
+          [
+            27.3668312,
+            37.9521875
+          ],
+          [
+            27.3669488,
+            37.9519685
+          ],
+          [
+            27.3673982,
+            37.951595
+          ],
+          [
+            27.3677239,
+            37.9513418
+          ],
+          [
+            27.3679873,
+            37.9512837
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilica-of-st-john",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica of St. John",
+        "link": "http://pleiades.stoa.org/places/153236391/osm-location-of-basilica-of-st-john"
+      }
+    }
+  ]
+}

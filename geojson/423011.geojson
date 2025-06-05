@@ -9,6 +9,9 @@
     41.9397351
   ],
   "description": "The Ponte Salario is a Medieval bridge with Roman origins. It is located at the point where the Via Salaria crosses the Anio, about 3 km north of the Colline Gate.",
+  "connectsWith": [
+    "18271457"
+  ],
   "features": [
     {
       "type": "Feature",

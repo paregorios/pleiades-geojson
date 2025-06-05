@@ -9,6 +9,9 @@
     41.5
   ],
   "description": "An ancient place, cited: BAtlas 43 D4 unnamed bridge (near Forum Appii)",
+  "connectsWith": [
+    "422927"
+  ],
   "features": [
     {
       "type": "Feature",
