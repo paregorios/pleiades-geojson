@@ -9,6 +9,9 @@
     41.5
   ],
   "description": "An ancient place, cited: BAtlas 43 D4 no. 59 (bridge (Ponte S. Felicità))",
+  "names": [
+    "Ponte S. Felicita"
+  ],
   "features": [
     {
       "type": "Feature",

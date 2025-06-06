@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge (Cessati Spiriti)",
   "id": "425070",
   "bbox": [
-    12.5,
-    41.75,
-    12.75,
-    42.0
+    12.533184,
+    41.862522,
+    12.533184,
+    41.862522
   ],
   "description": "An ancient place, cited: BAtlas 43 C2 unnamed bridge (Cessati Spiriti)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.625,
-          41.875
+          12.533184,
+          41.862522
         ]
       },
       "properties": {

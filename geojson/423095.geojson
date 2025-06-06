@@ -9,6 +9,9 @@
     41.486976
   ],
   "description": "An ancient place, cited: BAtlas 43 C4 Torre Caldara",
+  "names": [
+    "Torre Caldara"
+  ],
   "features": [
     {
       "type": "Feature",

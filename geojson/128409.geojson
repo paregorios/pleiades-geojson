@@ -9,6 +9,9 @@
     48.068468
   ],
   "description": "An ancient place, cited: BAtlas 13 B4 Höflein",
+  "connectsWith": [
+    "129111"
+  ],
   "features": [
     {
       "type": "Feature",

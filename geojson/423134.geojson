@@ -8,7 +8,13 @@
     12.6808517,
     41.805311
   ],
-  "description": "The extant Villa Torlonia occupies the site of an ancient Roman villa.",
+  "description": "The extant Villa Torlonia occupies the site of an ancient Roman villa, although, as Marzano notes, the interpretation of this villa and its Roman antecedents has been (and continues) to be confused in scholarship, particularly with reference to villas associated with Lucullus.",
+  "connectsWith": [
+    "423108"
+  ],
+  "names": [
+    "Villa Torlonia"
+  ],
   "features": [
     {
       "type": "Feature",

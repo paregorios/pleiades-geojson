@@ -3,10 +3,10 @@
   "title": "Magnesia ad Maeandrum/Leukophrys",
   "id": "599778",
   "bbox": [
-    27.518987,
-    37.848006,
-    27.533091,
-    37.853091
+    27.5146782,
+    37.8453351,
+    27.5311125,
+    37.8542885
   ],
   "description": "Magnesia ad Maeandrum was an ancient city on the Maeander River in Ionia, site of an important sanctuary of Artemis Leukophryene (\"of the white eyebrow\").",
   "connectsWith": [
@@ -20,7 +20,10 @@
     "Magnēsía hē Asianḗ",
     "Magnēsía epì Maiándrō",
     "Magnesia ad Maeandrum",
-    "Leukophrys"
+    "Leukophrys",
+    "Magnesia",
+    "Tekke",
+    "Tekin"
   ],
   "features": [
     {
@@ -28,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.526039,
-          37.8505485
+          27.5231784408,
+          37.8498623435
         ]
       },
       "properties": {
@@ -38,36 +41,113 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.533091,
-          37.853091
+          [
+            27.5304369,
+            37.8474651
+          ],
+          [
+            27.5250568,
+            37.8457118
+          ],
+          [
+            27.5231943,
+            37.8453351
+          ],
+          [
+            27.5211772,
+            37.8457248
+          ],
+          [
+            27.5203833,
+            37.8454452
+          ],
+          [
+            27.5183234,
+            37.8455554
+          ],
+          [
+            27.5171526,
+            37.8460915
+          ],
+          [
+            27.5155681,
+            37.8481525
+          ],
+          [
+            27.5146782,
+            37.8525892
+          ],
+          [
+            27.5226795,
+            37.8521526
+          ],
+          [
+            27.5227799,
+            37.852875
+          ],
+          [
+            27.5245057,
+            37.8528765
+          ],
+          [
+            27.5255118,
+            37.8533893
+          ],
+          [
+            27.5256766,
+            37.8535137
+          ],
+          [
+            27.5257366,
+            37.8538599
+          ],
+          [
+            27.5259944,
+            37.8542455
+          ],
+          [
+            27.5269928,
+            37.8538245
+          ],
+          [
+            27.528993,
+            37.8542885
+          ],
+          [
+            27.5293052,
+            37.8538435
+          ],
+          [
+            27.5300761,
+            37.8530863
+          ],
+          [
+            27.5305291,
+            37.8526884
+          ],
+          [
+            27.5311125,
+            37.8508437
+          ],
+          [
+            27.5294415,
+            37.8504625
+          ],
+          [
+            27.5304369,
+            37.8474651
+          ]
         ]
       },
-      "id": "darmc-location-13587",
+      "id": "osm-location-archaeological-site-of-magnesia",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 13587",
-        "link": "http://pleiades.stoa.org/places/599778/darmc-location-13587"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.518987,
-          37.848006
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/599778/dare-location"
+        "title": "OSM Location: archaeological site of Magnesia",
+        "link": "http://pleiades.stoa.org/places/599778/osm-location-archaeological-site-of-magnesia"
       }
     }
   ]

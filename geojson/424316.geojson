@@ -1,7 +1,13 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed aqueduct (Torre del Monumento)",
   "id": "424316",
+  "bbox": [
+    12.657221,
+    41.4933986,
+    12.6578056,
+    41.4940154
+  ],
   "description": "An ancient place, cited: BAtlas 43 C4 unnamed aqueduct (Torre del Monumento)",
   "connectsWith": [
     "422985",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6574991274,
+          41.4937523639
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -1,22 +1,25 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
-  "id": "426611",
+  "title": "Ponte San Stefano",
+  "id": "513101019",
   "bbox": [
-    12.7829924,
-    41.9231093,
-    12.7831078,
-    41.9233738
+    12.7829989,
+    41.923108,
+    12.7831094,
+    41.9233731
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 no. 35 (bridge (Ponte Terra))",
+  "description": "A bridge that leads to the villa of Vibius Varius.",
+  "connectsWith": [
+    "423124"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7830527028,
-          41.9232373451
+          12.7830541324,
+          41.9232405711
         ]
       },
       "properties": {
@@ -49,13 +52,13 @@
           ]
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-of-ponte-placido",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
-        "link": "http://pleiades.stoa.org/places/426611/osm-location"
+        "title": "OSM location of Ponte Placido",
+        "link": "http://pleiades.stoa.org/places/513101019/osm-location-of-ponte-placido"
       }
     }
   ]
