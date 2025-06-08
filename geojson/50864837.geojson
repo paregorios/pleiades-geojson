@@ -9,6 +9,9 @@
     41.8889808
   ],
   "description": "A Roman villa located near Castel di Guido.",
+  "connectsWith": [
+    "422963"
+  ],
   "names": [
     "Villa romana delle colonnacce"
   ],

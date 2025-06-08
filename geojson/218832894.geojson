@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Osteria Cessati Spiriti",
+  "id": "218832894",
+  "bbox": [
+    12.5292748,
+    41.8676256,
+    12.5295335,
+    41.8677858
+  ],
+  "description": "In the Notizie degli Scavi di Antichità for 1884, R. Lanciani reports the find of a monolithic, anepigraphic Roman sarcophagus at the Osteria Cessati Spiriti. The sarcophagus had been discovered in a pozzolana quarry and relocated to the grounds of the osteria. Brickstamps dating to 123 CE were reportedly observed at its reputed findspot.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5294054501,
+          41.8677065757
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5295335,
+            41.8676437
+          ],
+          [
+            12.5295226,
+            41.8677858
+          ],
+          [
+            12.5292748,
+            41.8677689
+          ],
+          [
+            12.5292923,
+            41.8676256
+          ],
+          [
+            12.5295335,
+            41.8676437
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/218832894/osm-location"
+      }
+    }
+  ]
+}

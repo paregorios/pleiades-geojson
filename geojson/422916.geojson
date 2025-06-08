@@ -8,7 +8,10 @@
     12.4321449,
     41.8346522
   ],
-  "description": "The Arval Brethren cultivated the cult of the Dea Dia. Remains of this Augustan era temple, located at La Tavernaccia restaurant in the Magliana vecchia neighborhood of Rome, are subterranean and not open to the public.",
+  "description": "The Arval Brethren cultivated the cult of the Dea Dia. The remains of this Augustan era temple, located at La Tavernaccia restaurant in the Magliana Vecchia neighborhood of Rome, are subterranean and not open to the public.",
+  "connectsWith": [
+    "422968"
+  ],
   "names": [
     "Dea Dia T(emplum)"
   ],

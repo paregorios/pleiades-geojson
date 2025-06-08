@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed road",
   "id": "129111",
   "bbox": [
-    15.0,
-    47.0,
-    25.0,
-    52.0
+    16.785948,
+    48.065278,
+    16.867891,
+    48.113346
   ],
   "description": "Carnuntum → Höflein → Map 21",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0,
-          49.5
+          16.82770325,
+          48.0901095
         ]
       },
       "properties": {

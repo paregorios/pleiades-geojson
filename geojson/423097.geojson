@@ -9,6 +9,9 @@
     41.575214
   ],
   "description": "An ancient place, cited: BAtlas 43 C3 Torre del Padiglione",
+  "names": [
+    "Torre del Padiglione"
+  ],
   "features": [
     {
       "type": "Feature",

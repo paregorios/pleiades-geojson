@@ -3,14 +3,15 @@
   "title": "Hypogeum of Clepsina",
   "id": "226222204",
   "bbox": [
-    12.098479,
-    42.005431,
-    12.098479,
-    42.005431
+    12.1060056,
+    42.001036,
+    12.1097498,
+    42.00412
   ],
   "description": "A late eighth to early seventh century B.C. hypogeum tomb on the main plateau of ancient Caere.",
   "connectsWith": [
-    "422859"
+    "422859",
+    "426577"
   ],
   "names": [
     "Hypogeum of Clepsina",
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.098479,
-          42.005431
+          12.107753955,
+          42.0024525718
         ]
       },
       "properties": {

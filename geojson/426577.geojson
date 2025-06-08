@@ -3,12 +3,12 @@
   "title": "Cemeteries around Caere",
   "id": "426577",
   "bbox": [
-    12.098479,
-    42.005431,
-    12.098479,
-    42.005431
+    12.1060056,
+    42.001036,
+    12.1097498,
+    42.00412
   ],
-  "description": "An ancient place, cited: BAtlas 43 A2 no. 1 (cemeteries around Caere)",
+  "description": "This place was created for Barrington Atlas map 43 (A2 no. 1) as a collective place representing ancient Etruscan necropoleis associated with the ancient city of Caere. While the Banditaccia necropolis is the largest and perhaps most well-known, this collective place should also include the Sorbo necropolis, the Monte Abatone necropolis, and the Greppe S. Angelo necropolis.",
   "connectsWith": [
     "422859"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.098479,
-          42.005431
+          12.107753955,
+          42.0024525718
         ]
       },
       "properties": {

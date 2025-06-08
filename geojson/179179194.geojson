@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "title": "Römische Villa",
+  "id": "179179194",
+  "bbox": [
+    16.7695284,
+    48.0758408,
+    16.7698504,
+    48.0760756
+  ],
+  "description": "A 'villa rustica' located to the west of Höflein, Austria, on the Danube frontier.",
+  "connectsWith": [
+    "128409"
+  ],
+  "names": [
+    "Villa rustica (Höflein)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7696758304,
+          48.0759519556
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.7697099,
+            48.0760756
+          ],
+          [
+            16.7698504,
+            48.0759231
+          ],
+          [
+            16.7696917,
+            48.0758579
+          ],
+          [
+            16.7696859,
+            48.0758642
+          ],
+          [
+            16.7696296,
+            48.0758408
+          ],
+          [
+            16.7695899,
+            48.0758838
+          ],
+          [
+            16.7696463,
+            48.0759072
+          ],
+          [
+            16.7696071,
+            48.0759498
+          ],
+          [
+            16.7695848,
+            48.0759398
+          ],
+          [
+            16.769558,
+            48.0759398
+          ],
+          [
+            16.7695342,
+            48.0759533
+          ],
+          [
+            16.7695284,
+            48.0759736
+          ],
+          [
+            16.7695407,
+            48.0759895
+          ],
+          [
+            16.7695621,
+            48.0759986
+          ],
+          [
+            16.7695513,
+            48.0760103
+          ],
+          [
+            16.7697099,
+            48.0760756
+          ]
+        ]
+      },
+      "id": "osm-location-of-rapmische-villa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Römische Villa",
+        "link": "http://pleiades.stoa.org/places/179179194/osm-location-of-rapmische-villa"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Quarries at Aquae Albulae",
   "id": "200179583",
   "bbox": [
-    12.7377516,
-    41.948926,
-    12.7494944,
-    41.9555642
+    12.737352,
+    41.9457306,
+    12.7560492,
+    41.9600405
   ],
   "description": "Travertine quarries in the vicinity of Tibur and Aquae Albulae.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7494944,
-          41.948926
+          12.7466758565,
+          41.9538233379
         ]
       },
       "properties": {

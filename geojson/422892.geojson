@@ -3,20 +3,26 @@
   "title": "Cessati Spiriti",
   "id": "422892",
   "bbox": [
-    12.533184,
-    41.862522,
-    12.533184,
-    41.862522
+    12.5286847,
+    41.8653075,
+    12.5288438,
+    41.8654279
   ],
-  "description": "An ancient place, cited: BAtlas 43 C2 Cessati Spiriti",
+  "description": "A ruined Roman mausoleum on the grounds of the Caffarella regional park. The so-called Cessati Spiriti mausoleum was once clad in travertine.",
+  "connectsWith": [
+    "93042695"
+  ],
+  "names": [
+    "Cessati Spiriti"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.533184,
-          41.862522
+          12.528764248,
+          41.8653676837
         ]
       },
       "properties": {
@@ -25,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.533184,
-          41.862522
+          [
+            12.5287616,
+            41.8654279
+          ],
+          [
+            12.5286847,
+            41.8653568
+          ],
+          [
+            12.5287669,
+            41.8653075
+          ],
+          [
+            12.5288438,
+            41.8653785
+          ],
+          [
+            12.5287616,
+            41.8654279
+          ]
         ]
       },
-      "id": "darmc-location-3789",
+      "id": "osm-location-of-mausoleo-dei-cessati-spiriti",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 3789",
-        "link": "http://pleiades.stoa.org/places/422892/darmc-location-3789"
+        "title": "OSM location of Mausoleo dei Cessati Spiriti",
+        "link": "http://pleiades.stoa.org/places/422892/osm-location-of-mausoleo-dei-cessati-spiriti"
       }
     }
   ]

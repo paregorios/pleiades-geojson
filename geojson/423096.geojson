@@ -9,6 +9,9 @@
     41.4940154
   ],
   "description": "An ancient place, cited: BAtlas 43 C4 Torre del Monumento",
+  "names": [
+    "Torre del Monumento"
+  ],
   "features": [
     {
       "type": "Feature",
