@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Agrifanus Pagus",
   "id": "438666",
-  "description": "An ancient place, cited: BAtlas 44 unlocated Agrifanus Pagus",
+  "description": "Now unlocated, Agrifanus Pagus was once a part of the territory of Nola.",
+  "connectsWith": [
+    "432981"
+  ],
   "names": [
     "Agrifanus Pagus"
   ],

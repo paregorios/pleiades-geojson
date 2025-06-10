@@ -9,6 +9,9 @@
     41.934132
   ],
   "description": "Ashby describes a rich archaeological landscape that once included the remains of Roman-period tombs and villas, the latter appointed with mosaics. The modern toponym \"Case Rosse\" is said to derive from a well-preserved Roman tomb executed in brick that was purposefully destroyed in 1824.",
+  "names": [
+    "Case Rosse"
+  ],
   "features": [
     {
       "type": "Feature",

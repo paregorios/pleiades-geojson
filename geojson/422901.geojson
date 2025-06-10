@@ -3,20 +3,23 @@
   "title": "Colle Monitola",
   "id": "422901",
   "bbox": [
-    12.828621,
-    41.953118,
-    12.828621,
-    41.953118
+    12.8369746,
+    41.9604962,
+    12.8372358,
+    41.9607008
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Colle Monitola",
+  "names": [
+    "Colle Monitola"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.828621,
-          41.953118
+          12.8371052,
+          41.9605985
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.828621,
-          41.953118
+          [
+            12.8369746,
+            41.9605632
+          ],
+          [
+            12.8371248,
+            41.9607008
+          ],
+          [
+            12.8372358,
+            41.9606338
+          ],
+          [
+            12.8370856,
+            41.9604962
+          ],
+          [
+            12.8369746,
+            41.9605632
+          ]
         ]
       },
-      "id": "darmc-location-18362",
+      "id": "osm-location-of-zisterne-am-colle-monitola",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18362",
-        "link": "http://pleiades.stoa.org/places/422901/darmc-location-18362"
+        "title": "OSM location of Zisterne am Colle Monitola",
+        "link": "http://pleiades.stoa.org/places/422901/osm-location-of-zisterne-am-colle-monitola"
       }
     }
   ]

@@ -3,6 +3,9 @@
   "title": "Ad Pyrum/Ad Pyr",
   "id": "438662",
   "description": "An ancient place, cited: BAtlas 44 unlocated Ad Pyr(um)",
+  "connectsWith": [
+    "438659"
+  ],
   "names": [
     "Ad Pyrum",
     "Ad Pyr"

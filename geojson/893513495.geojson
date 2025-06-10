@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sorbo Necropolis - Regolini-Galassi tomb",
+  "id": "893513495",
+  "bbox": [
+    12.0976247,
+    41.9925872,
+    12.0976247,
+    41.9925872
+  ],
+  "description": "The \"Regolini-Galassi tomb\" at Caere was discovered in 1836. The well-preserved tomb and its super-elite grave assemblage dates the tomb ca. 680/676-650 BCE. The objects in the assemblage are indicative of the so-called \"Orientalizing\" phenomenon in Etruria.",
+  "connectsWith": [
+    "426577",
+    "893513494"
+  ],
+  "names": [
+    "Regolini-Galassi tomb"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0976247,
+          41.9925872
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0976247,
+          41.9925872
+        ]
+      },
+      "id": "osm-location-of-sorbo-necropolis-regolini-galassi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sorbo Necropolis - Regolini-Galassi tomb",
+        "link": "http://pleiades.stoa.org/places/893513495/osm-location-of-sorbo-necropolis-regolini-galassi"
+      }
+    }
+  ]
+}

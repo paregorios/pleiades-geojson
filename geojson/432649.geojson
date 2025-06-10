@@ -3,10 +3,10 @@
   "title": "Aequana",
   "id": "432649",
   "bbox": [
-    14.426381,
-    40.662354,
-    14.426381,
-    40.662354
+    14.4264683,
+    40.6623446,
+    14.4264683,
+    40.6623446
   ],
   "description": "An ancient place, cited: BAtlas 44 F4 Aequana",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.426381,
-          40.662354
+          14.4264683,
+          40.6623446
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.426381,
-          40.662354
+          14.4264683,
+          40.6623446
         ]
       },
-      "id": "darmc-location-18158",
+      "id": "osm-location-of-vico-equense",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18158",
-        "link": "http://pleiades.stoa.org/places/432649/darmc-location-18158"
+        "title": "OSM location of Vico Equense",
+        "link": "http://pleiades.stoa.org/places/432649/osm-location-of-vico-equense"
       }
     }
   ]

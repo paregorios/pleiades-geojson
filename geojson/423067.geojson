@@ -3,10 +3,10 @@
   "title": "Serrone di Bove",
   "id": "423067",
   "bbox": [
-    12.954614,
-    41.582188,
-    12.954614,
-    41.582188
+    12.9526113,
+    41.5955075,
+    12.9526113,
+    41.5955075
   ],
   "description": "The small hill that is known as \"Il Poggio di Serrone di Bove\" is located in the hinterland of ancient Norba and was the site of ancient settlement activity. Architectural remains on the site include those of a polygonal masonry sub-struction or platform as well as an ancient roadway that may be part of the road tract from Norba to Cora.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.954614,
-          41.582188
+          12.9526113,
+          41.5955075
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.954614,
-          41.582188
+          12.9526113,
+          41.5955075
         ]
       },
-      "id": "darmc-location-18880",
+      "id": "osm-location-of-serrone-di-bove",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18880",
-        "link": "http://pleiades.stoa.org/places/423067/darmc-location-18880"
+        "title": "OSM location of Serrone di Bove",
+        "link": "http://pleiades.stoa.org/places/423067/osm-location-of-serrone-di-bove"
       }
     }
   ]

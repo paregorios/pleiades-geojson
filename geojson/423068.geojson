@@ -3,10 +3,10 @@
   "title": "Setia",
   "id": "423068",
   "bbox": [
-    13.058914,
-    41.498686,
-    13.058914,
-    41.498686
+    13.0592171,
+    41.4984145,
+    13.0592171,
+    41.4984145
   ],
   "description": "A Volscian settlement of the fifth century B.C. that became a Latin colony in 382 B.C.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.058914,
-          41.498686
+          13.0592171,
+          41.4984145
         ]
       },
       "properties": {
@@ -35,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.058914,
-          41.498686
+          13.0592171,
+          41.4984145
         ]
       },
-      "id": "darmc-location-18882",
+      "id": "osm-location-of-sezze",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18882",
-        "link": "http://pleiades.stoa.org/places/423068/darmc-location-18882"
+        "title": "OSM location of Sezze",
+        "link": "http://pleiades.stoa.org/places/423068/osm-location-of-sezze"
       }
     }
   ]

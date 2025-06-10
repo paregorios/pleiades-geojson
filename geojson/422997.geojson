@@ -3,12 +3,12 @@
   "title": "Pedum?",
   "id": "422997",
   "bbox": [
-    12.736281,
-    41.910022,
-    12.736281,
-    41.910022
+    12.7361671,
+    41.9078779,
+    12.7361671,
+    41.9078779
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 Pedum?",
+  "description": "The Barrington Atlas Directory indicates that this place called Pedum? should correspond to the modern Corcolle in Lazio, Italy.",
   "names": [
     "Pedum"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.736281,
-          41.910022
+          12.7361671,
+          41.9078779
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.736281,
-          41.910022
+          12.7361671,
+          41.9078779
         ]
       },
-      "id": "darmc-location-18738",
+      "id": "osm-location-of-corcolle",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18738",
-        "link": "http://pleiades.stoa.org/places/422997/darmc-location-18738"
+        "title": "OSM location of Corcolle",
+        "link": "http://pleiades.stoa.org/places/422997/osm-location-of-corcolle"
       }
     }
   ]

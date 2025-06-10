@@ -9,6 +9,9 @@
     41.972985
   ],
   "description": "A plaform villa at Colle Nocello.",
+  "names": [
+    "Colle Nocello"
+  ],
   "features": [
     {
       "type": "Feature",

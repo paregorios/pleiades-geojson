@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tratturo Caniò",
+  "id": "977694002",
+  "bbox": [
+    12.9938393,
+    41.4893514,
+    12.9938393,
+    41.4893514
+  ],
+  "description": "Tratturo Caniò is an archaeological site located in the territory of the ancient city of Setia in the Pontine Plain of Lazio, Italy. An archaic temple sacred to Iuno is known at the site, and archaeological prospective in 2009 revealed that there are also earlier Bronze and Iron Age remains at the site.",
+  "names": [
+    "Tratturo Caniò"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9938393,
+          41.4893514
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9938393,
+          41.4893514
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-tratturo-cania2",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area archeologica Tratturo Caniò",
+        "link": "http://pleiades.stoa.org/places/977694002/osm-location-of-area-archeologica-tratturo-cania2"
+      }
+    }
+  ]
+}

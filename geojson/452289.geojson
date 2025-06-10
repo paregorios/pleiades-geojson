@@ -9,6 +9,9 @@
     38.909729
   ],
   "description": "An ancient place, cited: BAtlas 46 F4 Le Castella",
+  "names": [
+    "Le Castella"
+  ],
   "features": [
     {
       "type": "Feature",

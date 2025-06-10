@@ -9,6 +9,9 @@
     41.7071715
   ],
   "description": "The so-called Villa di Grotte di Piastra, ruins of a Roman villa at Castelporziano.",
+  "names": [
+    "Villa di Grotte di Piastra"
+  ],
   "features": [
     {
       "type": "Feature",

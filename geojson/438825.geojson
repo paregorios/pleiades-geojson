@@ -2,9 +2,16 @@
   "type": "FeatureCollection",
   "title": "Salutaris Pagus",
   "id": "438825",
+  "bbox": [
+    14.781161,
+    41.130437,
+    14.781161,
+    41.130437
+  ],
   "description": "The Salutaris Pagus was located near Beneventum and Ligures Baebiani (Circello).",
   "connectsWith": [
-    "432721"
+    "432721",
+    "432907"
   ],
   "names": [
     "Salutaris Pagus"
@@ -12,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.781161,
+          41.130437
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

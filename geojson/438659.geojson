@@ -2,9 +2,13 @@
   "type": "FeatureCollection",
   "title": "Ad Canales",
   "id": "438659",
-  "description": "An ancient place, cited: BAtlas 44 unlocated *Ad Canales",
+  "description": "Now unlocated, *Ad Canales is a place included on the Peutinger map. This place was located between Bovianum and Teanum, placing it on the border of Samnium and Apulia.",
+  "connectsWith": [
+    "432725"
+  ],
   "names": [
-    "Ad Canales"
+    "Ad Canales",
+    "Ad eanales"
   ],
   "features": [
     {

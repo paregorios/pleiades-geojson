@@ -9,6 +9,9 @@
     41.798165
   ],
   "description": "An ancient place, cited: BAtlas 43 C2 Ponte di Tuscolo",
+  "names": [
+    "Ponte di Tuscolo"
+  ],
   "features": [
     {
       "type": "Feature",
