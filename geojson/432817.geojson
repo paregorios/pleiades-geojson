@@ -3,20 +3,23 @@
   "title": "Duronia",
   "id": "432817",
   "bbox": [
-    14.459388,
-    41.660021,
-    14.459388,
-    41.660021
+    14.4590313,
+    41.6538203,
+    14.4590313,
+    41.6538203
   ],
-  "description": "An ancient place, cited: BAtlas 44 F2 Duronia",
+  "description": "The compilers of the Barrington Atlas include two ancient places called \"Duronia\" on map 44. This instance of Duronia corresponds to a fortified Samnite settlement that S.P. Oakley refers to as \"Civita di Duronia\". This place corresponds to a present-day Italian comune located in the province of Campobasso. As is often true with the observable settlement pattern, the ancient fortified center occupies an elevated position while its post-ancient successor (in this case, the source of the toponym) eschews the high ground for more level terrain. The difference in elevation between the ancient fortified center and the present-day Duronia is more than 120 meters.",
+  "names": [
+    "Civita di Duronia"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.459388,
-          41.660021
+          14.4590313,
+          41.6538203
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.459388,
-          41.660021
+          14.4590313,
+          41.6538203
         ]
       },
-      "id": "darmc-location-18409",
+      "id": "osm-location-of-monte-la-civita",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18409",
-        "link": "http://pleiades.stoa.org/places/432817/darmc-location-18409"
+        "title": "OSM location of Monte La Civita",
+        "link": "http://pleiades.stoa.org/places/432817/osm-location-of-monte-la-civita"
       }
     }
   ]

@@ -9,6 +9,9 @@
     41.5
   ],
   "description": "An ancient place, cited: BAtlas 44 F3 unnamed aqueduct (Caiatia)",
+  "connectsWith": [
+    "432733"
+  ],
   "features": [
     {
       "type": "Feature",

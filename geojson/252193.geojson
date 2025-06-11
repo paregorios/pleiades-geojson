@@ -2,14 +2,29 @@
   "type": "FeatureCollection",
   "title": "Corbio",
   "id": "252193",
-  "description": "An ancient place, cited: BAtlas 25 unlocated Corbio",
+  "bbox": [
+    -0.684245129526,
+    42.1600444758,
+    -0.398709808827,
+    42.1600444758
+  ],
+  "description": "Now unlocated, Corbio was the chief settlement of the Suessetani. Livy discusses Corbio in the course of describing the campaigns of Aulus Ternentius Varro and Publius Sempronius Longo in 184 BCE. Varro captured Corbio, lying north of the River Ebro, in Hispania Citerior. Livy uses the Latin term \"oppidum\" to describe Corbio.",
+  "connectsWith": [
+    "246669"
+  ],
   "names": [
     "Corbio"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541477469176,
+          42.1600444758
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

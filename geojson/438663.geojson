@@ -2,27 +2,31 @@
   "type": "FeatureCollection",
   "title": "Aequanus Pagus",
   "id": "438663",
-  "description": "An ancient place, cited: BAtlas 44 unlocated *Aequanus Pagus",
+  "bbox": [
+    15.3715773,
+    40.6318039,
+    15.3768344,
+    40.6338938
+  ],
+  "description": "Now unlocated, *Aequanus Pagus was a place in ancient Italy. It was included on map 44 of the Barrington Atlas. Based on the entry in Pauly-Wissowa, N. Purcell includes this place and indicates it as belonging to the territory of Volcei. This corresponds with the RE contention that is based upon a Latin inscription (CIL 10, 407) that dates to 323 CE. Ferrua (1957) comments on the homonymous places called Aequanus Pagus that nonetheless seem to be distinct.",
+  "connectsWith": [
+    "442855"
+  ],
   "names": [
     "Aequanus Pagus"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3745052305,
+          40.6328214266
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/438663/batlas-location"
       }
     }
   ]

@@ -3,20 +3,27 @@
   "title": "Civitanova",
   "id": "432784",
   "bbox": [
-    14.404873,
-    41.66871,
-    14.404873,
-    41.66871
+    14.3903263,
+    41.6709297,
+    14.3903263,
+    41.6709297
   ],
-  "description": "An ancient place, cited: BAtlas 44 F2 Civitanova",
+  "description": "Civitanova del Sannio is an Italian comune located in the present-day province of Isernia. In antiquity, Civitanova was the site of multiple fortifications connected with the Samnites.",
+  "connectsWith": [
+    "433170"
+  ],
+  "names": [
+    "Civitanova",
+    "Civitanova del Sannio"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.404873,
-          41.66871
+          14.3903263,
+          41.6709297
         ]
       },
       "properties": {
@@ -27,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.404873,
-          41.66871
+          14.3903263,
+          41.6709297
         ]
       },
-      "id": "darmc-location-18347",
+      "id": "osm-location-of-la-civita",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18347",
-        "link": "http://pleiades.stoa.org/places/432784/darmc-location-18347"
+        "title": "OSM location of La Civita",
+        "link": "http://pleiades.stoa.org/places/432784/osm-location-of-la-civita"
       }
     }
   ]

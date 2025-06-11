@@ -3,12 +3,12 @@
   "title": "Sekia",
   "id": "252981",
   "bbox": [
-    -1.0,
-    42.0,
-    0.0,
-    43.0
+    -0.684245129526,
+    42.1600444758,
+    -0.398709808827,
+    42.1600444758
   ],
-  "description": "A settlement or people within the territory of the Suessetani, known only from coins they issued. The precise location is not known",
+  "description": "A settlement or people within the territory of the Suessetani, known only from coins they issued. The precise location is not known.",
   "connectsWith": [
     "246669"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5,
-          42.5
+          -0.541477469176,
+          42.1600444758
         ]
       },
       "properties": {

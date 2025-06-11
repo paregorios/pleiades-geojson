@@ -10,11 +10,14 @@
   ],
   "description": "A Samnite town that eventually became a Roman municipium of the tribus Falerna ca. 89 B.C.",
   "connectsWith": [
-    "45806447"
+    "45806447",
+    "534380454"
   ],
   "names": [
     "Caiatia",
-    "Caiazzo"
+    "Caiazzo",
+    "Gazatie",
+    "Gazatiae"
   ],
   "features": [
     {

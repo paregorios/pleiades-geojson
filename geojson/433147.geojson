@@ -9,6 +9,9 @@
     41.2260406
   ],
   "description": "An ancient Samnite city located in the valley of the Calor river.",
+  "connectsWith": [
+    "45806447"
+  ],
   "names": [
     "Telesia"
   ],

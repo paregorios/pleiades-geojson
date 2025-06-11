@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Sesars",
   "id": "252984",
+  "bbox": [
+    -0.684245129526,
+    42.1600444758,
+    -0.398709808827,
+    42.1600444758
+  ],
   "description": "An ancient place, cited: BAtlas 25 unlocated Sesars",
   "connectsWith": [
     "246669"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541477469176,
+          42.1600444758
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

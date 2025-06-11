@@ -3,10 +3,10 @@
   "title": "Regio XII (Piscina Publica)",
   "id": "886355306",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.4894248,
+    41.8769443,
+    12.4948861,
+    41.8808698
   ],
   "description": "The twelfth administrative region of ancient Rome was created in 7 BCE by Augustan reforms.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.4910410716,
+          41.8797261699
         ]
       },
       "properties": {
