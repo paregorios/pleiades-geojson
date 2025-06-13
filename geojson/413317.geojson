@@ -3,10 +3,10 @@
   "title": "Soracte (mountain)",
   "id": "413317",
   "bbox": [
-    12.5,
-    42.25,
-    12.5,
-    42.25
+    12.501944,
+    42.2456168,
+    12.501944,
+    42.2456168
   ],
   "description": "Soracte M. (Monte Soratte) is a mountain near Rome, Italy, the highest peak of which rises to 691 meters above sea level (2,267 ft). A site of ritual activity in antiquity, the mountain was sacred to Dis Pater.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5,
-          42.25
+          12.501944,
+          42.2456168
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5,
-          42.25
+          12.501944,
+          42.2456168
         ]
       },
-      "id": "imagery-location-of-soracte-m",
+      "id": "osm-location-of-mount-soratte",
       "type": "Feature",
       "properties": {
-        "description": "coordinates after GeoHack, verified in Google Earth.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Soracte M.",
-        "link": "http://pleiades.stoa.org/places/413317/imagery-location-of-soracte-m"
+        "title": "OSM location of Mount Soratte",
+        "link": "http://pleiades.stoa.org/places/413317/osm-location-of-mount-soratte"
       }
     }
   ]

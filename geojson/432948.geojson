@@ -3,20 +3,20 @@
   "title": "Monte Cavallerizzo",
   "id": "432948",
   "bbox": [
-    14.271298,
-    41.798967,
-    14.271298,
-    41.798967
+    14.2742471,
+    41.8020514,
+    14.2742471,
+    41.8020514
   ],
-  "description": "Monte Cavallerizzo is a fortified Samnite center - perhaps dating to the fourth century B.C. - located in close proximity to the sanctuary at Vastogirardi.",
+  "description": "Monte Cavallerizzo is a fortified Samnite center - perhaps dating to the fourth century B.C. - located in close proximity to the sanctuary at Vastogirardi. According to S.P. Oakley, Monte Cavallerizzo (1,524 meters a.s.l.) is the site of the highest Samnite hillfort. An area of 2.7 hectares is defended by polygonal walling on the mountain top.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.271298,
-          41.798967
+          14.2742471,
+          41.8020514
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.271298,
-          41.798967
+          14.2742471,
+          41.8020514
         ]
       },
-      "id": "darmc-location-18639",
+      "id": "osm-location-of-monte-cavallerizzo",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18639",
-        "link": "http://pleiades.stoa.org/places/432948/darmc-location-18639"
+        "title": "OSM location of Monte Cavallerizzo",
+        "link": "http://pleiades.stoa.org/places/432948/osm-location-of-monte-cavallerizzo"
       }
     }
   ]

@@ -1,0 +1,132 @@
+{
+  "type": "FeatureCollection",
+  "title": "Montefalcone nel Sannio",
+  "id": "42423874",
+  "bbox": [
+    14.6454294,
+    41.8576464,
+    14.6465452,
+    41.8587616
+  ],
+  "description": "Two peaks rise in the vicinity of the Italian comune of Montefalcone nel Sannio in the valley of the Trigno River. These are Colle Prima Croce (787 meters a.s.l.) and Colle Seconda Croce (908 meters a.s.l.). S.P. Oakley discusses a fortified area between these two peaks. This is a relatively small hillfort, measuring 200 by 50 meters and covering an area of 6,500 square meters. There are tracts of polygonal masonry walling extant on the site.",
+  "connectsWith": [
+    "433170"
+  ],
+  "names": [
+    "Montefalcone nel Sannio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6458917457,
+          41.8581494468
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.6465452,
+            41.8576464
+          ],
+          [
+            14.6465213,
+            41.857666
+          ],
+          [
+            14.6464069,
+            41.8577565
+          ],
+          [
+            14.6463616,
+            41.8577725
+          ],
+          [
+            14.6463044,
+            41.8577938
+          ],
+          [
+            14.6462734,
+            41.8578329
+          ],
+          [
+            14.6461446,
+            41.8579163
+          ],
+          [
+            14.6461041,
+            41.8579376
+          ],
+          [
+            14.6460564,
+            41.8579607
+          ],
+          [
+            14.6459944,
+            41.8580122
+          ],
+          [
+            14.6459157,
+            41.8580655
+          ],
+          [
+            14.645849,
+            41.8581063
+          ],
+          [
+            14.6458037,
+            41.8581632
+          ],
+          [
+            14.645694,
+            41.8582413
+          ],
+          [
+            14.6456272,
+            41.8583052
+          ],
+          [
+            14.6455557,
+            41.8583958
+          ],
+          [
+            14.6454937,
+            41.8584881
+          ],
+          [
+            14.6454413,
+            41.8585858
+          ],
+          [
+            14.6454294,
+            41.8586515
+          ],
+          [
+            14.6454723,
+            41.8587207
+          ],
+          [
+            14.64552,
+            41.8587616
+          ]
+        ]
+      },
+      "id": "osm-location-of-mura-ciclopiche-sannite-di-maronea",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mura Ciclopiche Sannite di Maronea",
+        "link": "http://pleiades.stoa.org/places/42423874/osm-location-of-mura-ciclopiche-sannite-di-maronea"
+      }
+    }
+  ]
+}

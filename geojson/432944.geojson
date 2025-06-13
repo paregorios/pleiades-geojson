@@ -9,6 +9,9 @@
     41.258879
   ],
   "description": "An ancient place, cited: BAtlas 44 F3 Monte Acero",
+  "names": [
+    "Monte Acero"
+  ],
   "features": [
     {
       "type": "Feature",

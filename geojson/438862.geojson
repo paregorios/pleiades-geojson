@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ulmanus Pagus",
   "id": "438862",
+  "bbox": [
+    12.619129,
+    41.996708,
+    12.619129,
+    41.996708
+  ],
   "description": "An ancient place, cited: BAtlas 44 unlocated Ulmanus Pagus",
   "connectsWith": [
     "422922"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.619129,
+          41.996708
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

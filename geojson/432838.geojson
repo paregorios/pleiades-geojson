@@ -9,6 +9,13 @@
     41.839559
   ],
   "description": "A pre-Roman and Roman settlement of Samnium.",
+  "connectsWith": [
+    "432656",
+    "985731496"
+  ],
+  "names": [
+    "Fonte Romito"
+  ],
   "features": [
     {
       "type": "Feature",

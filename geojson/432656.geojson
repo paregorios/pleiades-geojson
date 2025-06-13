@@ -8,7 +8,10 @@
     14.383245,
     41.8106527
   ],
-  "description": "An ancient place, cited: BAtlas 44 F2 Agnone",
+  "description": "Agnone is a comune in the Italian province of Isernia, in the Molise region. It lies about 53 km (33 miles) northwest of Campobasso. An ancient center of Oscan-Samnite culture, Agnone is known particularly as the namesake of the third-century BCE \"Agnone tablet\" that was discovered at Fonte di Romito.",
+  "names": [
+    "Agnone"
+  ],
   "features": [
     {
       "type": "Feature",

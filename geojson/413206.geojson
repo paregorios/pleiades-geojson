@@ -9,6 +9,10 @@
     42.192936
   ],
   "description": "The tumulus of Montariolo originally measured some 4 meters in height and 50 meters in diameter. It included more than 350 tombs. It was used during several phases, stretching from the ninth to the fifth centuries BCE.",
+  "names": [
+    "Montariolo",
+    "Tumulo di Corvaro"
+  ],
   "features": [
     {
       "type": "Feature",

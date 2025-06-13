@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Odeum of Tauromenium",
+  "id": "83060897",
+  "bbox": [
+    15.2878706,
+    37.8537494,
+    15.2882675,
+    37.8540239
+  ],
+  "description": "The Roman Odeum of Tauromenium dates to the reign of the Roman emperor Hadrian.",
+  "connectsWith": [
+    "462506"
+  ],
+  "names": [
+    "Roman Odeum of Taormina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2880692948,
+          37.8538772435
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2881467,
+            37.8539833
+          ],
+          [
+            15.2880575,
+            37.8538891
+          ],
+          [
+            15.2882675,
+            37.8537658
+          ],
+          [
+            15.2882552,
+            37.8537494
+          ],
+          [
+            15.2882484,
+            37.853753
+          ],
+          [
+            15.2881799,
+            37.8537895
+          ],
+          [
+            15.2881737,
+            37.8537712
+          ],
+          [
+            15.2880383,
+            37.8538211
+          ],
+          [
+            15.2878706,
+            37.8538551
+          ],
+          [
+            15.2879476,
+            37.8539972
+          ],
+          [
+            15.2879753,
+            37.8540227
+          ],
+          [
+            15.288026,
+            37.8540239
+          ],
+          [
+            15.2881467,
+            37.8539833
+          ]
+        ]
+      },
+      "id": "osm-location-roman-odeon-of-tauromenium",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Roman Odeon of Tauromenium",
+        "link": "http://pleiades.stoa.org/places/83060897/osm-location-roman-odeon-of-tauromenium"
+      }
+    }
+  ]
+}

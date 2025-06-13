@@ -9,6 +9,9 @@
     42.147065
   ],
   "description": "An ancient place, cited: BAtlas 42 E4 S. Anatolia",
+  "names": [
+    "S. Anatolia"
+  ],
   "features": [
     {
       "type": "Feature",
