@@ -9,6 +9,10 @@
     42.2088946
   ],
   "description": "Referred to by Virgil, Nersa was a vicus of the Aequiculi. Its precise location is not known, but some 19th century scholars identified it with the modern village of Civitella di Nesce in Italy.",
+  "connectsWith": [
+    "182931392",
+    "865942280"
+  ],
   "names": [
     "Nersa"
   ],

@@ -6,11 +6,12 @@
     11.5736509,
     42.3278832,
     11.6470164,
-    42.8265756
+    42.8308817
   ],
   "description": "An ancient place, cited: BAtlas 42 B4 Armenta fl.",
   "names": [
-    "Armenta"
+    "Armenta",
+    "Armenita Fluvius"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.6073740732,
-          42.5550163806
+          11.6074065544,
+          42.5546771793
         ]
       },
       "properties": {

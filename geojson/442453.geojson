@@ -3,10 +3,10 @@
   "title": "Agnuli",
   "id": "442453",
   "bbox": [
-    16.0777216,
-    41.711207,
-    16.0777216,
-    41.711207
+    16.0775674,
+    41.7109107,
+    16.0778886,
+    41.7112142
   ],
   "description": "An ancient place, cited: BAtlas 45 D1 Agnuli",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0777216,
-          41.711207
+          16.0777454241,
+          41.7110639212
         ]
       },
       "properties": {

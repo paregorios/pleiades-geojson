@@ -3,10 +3,10 @@
   "title": "Vicus Anninus",
   "id": "433196",
   "bbox": [
-    13.6974161,
+    13.695662,
     41.892217,
-    13.6974161,
-    41.892217
+    13.6977547,
+    41.894585
   ],
   "description": "An ancient place, cited: BAtlas 44 E2 Vicus Anninus",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6974161,
-          41.892217
+          13.696841727,
+          41.8934848101
         ]
       },
       "properties": {

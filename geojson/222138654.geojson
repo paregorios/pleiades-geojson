@@ -4,9 +4,9 @@
   "id": "222138654",
   "bbox": [
     14.485429,
-    40.74941,
-    14.4898822,
-    40.7497382
+    40.748373,
+    14.492978,
+    40.7509033
   ],
   "description": "The so-called Regio I, an archaeological subdivision located in the southeastern section of Pompeii, contains a mixture of residences and commercial structures.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4898822,
-          40.7497382
+          14.4902280319,
+          40.7499542865
         ]
       },
       "properties": {

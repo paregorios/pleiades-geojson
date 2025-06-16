@@ -4,9 +4,9 @@
   "id": "432895",
   "bbox": [
     13.0386036,
-    41.2684151,
-    13.0386036,
-    41.2684151
+    41.2676414,
+    13.0404374,
+    41.2689551
   ],
   "description": "A villa of the emperor Domitian located in the area of Circeii.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0386036,
-          41.2684151
+          13.0395205097,
+          41.2682982343
         ]
       },
       "properties": {

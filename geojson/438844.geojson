@@ -2,27 +2,46 @@
   "type": "FeatureCollection",
   "title": "Syllae",
   "id": "438844",
+  "bbox": [
+    14.4327989,
+    41.1558165,
+    14.4327989,
+    41.1558165
+  ],
   "description": "An ancient place, cited: BAtlas 44 unlocated Syllae",
   "names": [
-    "Syllae"
+    "Syllae",
+    "Syllas"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4327989,
+          41.1558165
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4327989,
+          41.1558165
+        ]
+      },
+      "id": "osm-location-of-squille",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/438844/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Squille",
+        "link": "http://pleiades.stoa.org/places/438844/osm-location-of-squille"
       }
     }
   ]

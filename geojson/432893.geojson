@@ -9,6 +9,9 @@
     41.938843
   ],
   "description": "An ancient place, cited: BAtlas 44 E2 La Giostra",
+  "connectsWith": [
+    "432853"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -9,6 +9,9 @@
     42.08083
   ],
   "description": "An ancient place, cited: BAtlas 44 E1 Agellum",
+  "connectsWith": [
+    "432853"
+  ],
   "names": [
     "Agellum"
   ],

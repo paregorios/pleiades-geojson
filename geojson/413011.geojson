@@ -8,7 +8,13 @@
     12.295407,
     42.587968
   ],
-  "description": "An ancient place, cited: BAtlas 42 C3 Alviano Scalo",
+  "description": "Occupation of the Roman villa at Alviano Scalo begins in the first century BCE and continues until the fourth century CE.",
+  "connectsWith": [
+    "423080"
+  ],
+  "names": [
+    "Alviano Scalo"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regio III, Pompeii",
   "id": "762217869",
+  "bbox": [
+    14.485429,
+    40.74941,
+    14.4920839,
+    40.7520574
+  ],
   "description": "The so-called Regio III, a largely unexcavated archaeological subdivision located in the northeastern section of Pompeii, contains a mix of residential and commercial structures.",
   "connectsWith": [
     "433032"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4915016187,
+          40.7517464336
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -9,6 +9,9 @@
     41.99175
   ],
   "description": "An ancient place, cited: BAtlas 44 D2 Pitonia?",
+  "connectsWith": [
+    "432853"
+  ],
   "names": [
     "Pitonia"
   ],

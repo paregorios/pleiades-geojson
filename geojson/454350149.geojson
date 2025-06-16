@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grotta del Tasso di Sofignano",
+  "id": "454350149",
+  "bbox": [
+    11.1568445,
+    43.975853,
+    11.1568445,
+    43.975853
+  ],
+  "description": "The Grotta del Tasso di Sofignano (also referred to as Buca del Tasso) is a cave located near Camaiore in the province of Lucca in Italy. The cave is an archaeological site where the presence of Homo neanderthalensis is attested ca. 40,000 years ago.",
+  "names": [
+    "Buca del Tasso"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1568445,
+          43.975853
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1568445,
+          43.975853
+        ]
+      },
+      "id": "osm-location-of-grotta-del-tasso-di-sofignano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta del Tasso di Sofignano",
+        "link": "http://pleiades.stoa.org/places/454350149/osm-location-of-grotta-del-tasso-di-sofignano"
+      }
+    }
+  ]
+}

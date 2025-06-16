@@ -9,6 +9,9 @@
     42.086584
   ],
   "description": "An ancient place, cited: BAtlas 42 F4 Caelanum",
+  "connectsWith": [
+    "432853"
+  ],
   "names": [
     "Caelanum"
   ],

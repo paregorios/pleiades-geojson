@@ -3,10 +3,10 @@
   "title": "*Argentomagus",
   "id": "138192",
   "bbox": [
-    1.515499,
-    46.599368,
-    1.515499,
-    46.599368
+    1.5147307,
+    46.5987712,
+    1.5177674,
+    46.6002228
   ],
   "description": "*Argentomagus was a pre-Roman and later Roman settlement in the territory of the Bituriges tribe.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.515499,
-          46.599368
+          1.51619572491,
+          46.5994751714
         ]
       },
       "properties": {
@@ -33,19 +33,133 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          1.515499,
-          46.599368
+          [
+            1.5148979,
+            46.6001994
+          ],
+          [
+            1.5151089,
+            46.6002228
+          ],
+          [
+            1.5165957,
+            46.599898
+          ],
+          [
+            1.5166291,
+            46.5999947
+          ],
+          [
+            1.5168748,
+            46.5999782
+          ],
+          [
+            1.5169409,
+            46.5999642
+          ],
+          [
+            1.51701,
+            46.5999403
+          ],
+          [
+            1.5171968,
+            46.5998376
+          ],
+          [
+            1.5173337,
+            46.5997992
+          ],
+          [
+            1.5177318,
+            46.5996313
+          ],
+          [
+            1.5177517,
+            46.5995953
+          ],
+          [
+            1.5177674,
+            46.5995548
+          ],
+          [
+            1.5177448,
+            46.5995047
+          ],
+          [
+            1.5176363,
+            46.5993207
+          ],
+          [
+            1.5175111,
+            46.5990885
+          ],
+          [
+            1.5174961,
+            46.5990222
+          ],
+          [
+            1.5174973,
+            46.5989713
+          ],
+          [
+            1.5175287,
+            46.5988794
+          ],
+          [
+            1.5175395,
+            46.5988166
+          ],
+          [
+            1.5175264,
+            46.5987712
+          ],
+          [
+            1.5162363,
+            46.5989702
+          ],
+          [
+            1.5158039,
+            46.5990016
+          ],
+          [
+            1.5154181,
+            46.5990307
+          ],
+          [
+            1.5147307,
+            46.5990934
+          ],
+          [
+            1.5148292,
+            46.599246
+          ],
+          [
+            1.5147816,
+            46.5994501
+          ],
+          [
+            1.5148411,
+            46.5999214
+          ],
+          [
+            1.5148436,
+            46.599933
+          ],
+          [
+            1.5148979,
+            46.6001994
+          ]
         ]
       },
-      "id": "imagery-location-center-point-of-the-archeological-site-argentomagus-commune-saint-marcel",
+      "id": "osm-location-of-terrains-contenant-des-vestiges",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location: Center point of the archeological site Argentomagus, commune Saint-Marcel",
-        "link": "http://pleiades.stoa.org/places/138192/imagery-location-center-point-of-the-archeological-site-argentomagus-commune-saint-marcel"
+        "title": "OSM location of Terrains contenant des vestiges archéologiques",
+        "link": "http://pleiades.stoa.org/places/138192/osm-location-of-terrains-contenant-des-vestiges"
       }
     }
   ]

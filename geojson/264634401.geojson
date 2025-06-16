@@ -4,9 +4,9 @@
   "id": "264634401",
   "bbox": [
     14.4915617,
-    40.7518997,
-    14.4915617,
-    40.7518997
+    40.7518385,
+    14.4917202,
+    40.7519532
   ],
   "description": "The House of Pinarius Cerialis and Cassia or Casa dell’orefice or Casa di Ifigenia (III, 4, b).",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4915617,
-          40.7518997
+          14.4916409492,
+          40.7518958493
         ]
       },
       "properties": {

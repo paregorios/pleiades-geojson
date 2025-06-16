@@ -3,10 +3,10 @@
   "title": "Necropolis of Campovalano",
   "id": "775271064",
   "bbox": [
-    13.6715413,
+    13.6698682,
     42.7233204,
-    13.6715413,
-    42.7233204
+    13.6726391,
+    42.7250008
   ],
   "description": "A Picene necropolis located near Campovalano (Campli) in the province of Teramo. While more than 600 tombs were identified, there may have been as many as 20,000 originally.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6715413,
-          42.7233204
+          13.6712646681,
+          42.7242072915
         ]
       },
       "properties": {

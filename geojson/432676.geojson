@@ -9,6 +9,9 @@
     41.9711257
   ],
   "description": "Angitiae Lucus refers to the grave of Angitia, a divine figure of the Marsi tribe.",
+  "connectsWith": [
+    "432853"
+  ],
   "names": [
     "Angitiae Lucus",
     "nemus Angitiae",

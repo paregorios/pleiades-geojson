@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Capo Graziano",
+  "id": "946423790",
+  "bbox": [
+    14.5879734,
+    38.5564209,
+    14.5885993,
+    38.5573849
+  ],
+  "description": "The prehistoric village of Capo Graziano dates to the Middle Bronze Age and is located on the island of Filicudi. The site was excavated between 1952 and 1969. It is situated on a terrace some 100 m above sea level. At least 27 agglomerative huts were identified at the site.",
+  "connectsWith": [
+    "462425"
+  ],
+  "names": [
+    "Capo Graziano"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5882977129,
+          38.5569085752
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5883988,
+            38.5573751
+          ],
+          [
+            14.5883129,
+            38.5572761
+          ],
+          [
+            14.588264,
+            38.5570233
+          ],
+          [
+            14.5881332,
+            38.5568644
+          ],
+          [
+            14.5880961,
+            38.5567193
+          ],
+          [
+            14.5879994,
+            38.5566275
+          ],
+          [
+            14.5879734,
+            38.5564443
+          ],
+          [
+            14.5880038,
+            38.5564209
+          ],
+          [
+            14.5880972,
+            38.5565771
+          ],
+          [
+            14.5881994,
+            38.556553
+          ],
+          [
+            14.5883578,
+            38.5566643
+          ],
+          [
+            14.5884911,
+            38.556838
+          ],
+          [
+            14.5885522,
+            38.5569543
+          ],
+          [
+            14.5884997,
+            38.5569794
+          ],
+          [
+            14.58852,
+            38.5572315
+          ],
+          [
+            14.5885993,
+            38.5573849
+          ],
+          [
+            14.5883988,
+            38.5573751
+          ]
+        ]
+      },
+      "id": "osm-location-of-capo-graziano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Capo Graziano",
+        "link": "http://pleiades.stoa.org/places/946423790/osm-location-of-capo-graziano"
+      }
+    }
+  ]
+}

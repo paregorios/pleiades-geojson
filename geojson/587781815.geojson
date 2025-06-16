@@ -3,20 +3,23 @@
   "title": "Ponte di Annibale",
   "id": "587781815",
   "bbox": [
-    14.5491107,
-    41.2919812,
-    14.5491107,
-    41.2919812
+    14.5492247,
+    41.2920097,
+    14.5494136,
+    41.2920551
   ],
   "description": "An arched Roman bridge across the Titerno near Cerreto Sannita in Campania.",
+  "names": [
+    "Ponte di Annibale"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5491107,
-          41.2919812
+          14.5493204671,
+          41.2920250028
         ]
       },
       "properties": {

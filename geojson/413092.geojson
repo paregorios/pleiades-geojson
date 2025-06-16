@@ -9,6 +9,9 @@
     42.3290037
   ],
   "description": "An ancient place, cited: BAtlas 42 G4 Clocoris fl.",
+  "connectsWith": [
+    "1004"
+  ],
   "names": [
     "Clocoris"
   ],
