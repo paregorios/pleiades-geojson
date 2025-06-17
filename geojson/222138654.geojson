@@ -3,10 +3,10 @@
   "title": "Regio I, Pompeii",
   "id": "222138654",
   "bbox": [
-    14.485429,
-    40.748373,
-    14.492978,
-    40.7509033
+    14.4881203,
+    40.7483471,
+    14.4934537,
+    40.7515867
   ],
   "description": "The so-called Regio I, an archaeological subdivision located in the southeastern section of Pompeii, contains a mixture of residences and commercial structures.",
   "connectsWith": [
@@ -21,12 +21,127 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4902280319,
-          40.7499542865
+          14.4908421195,
+          40.749857388
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4917445,
+            40.7515867
+          ],
+          [
+            14.4902388,
+            40.7509033
+          ],
+          [
+            14.4901379,
+            40.7508575
+          ],
+          [
+            14.49012,
+            40.7508493
+          ],
+          [
+            14.4900968,
+            40.7508388
+          ],
+          [
+            14.490085,
+            40.7508351
+          ],
+          [
+            14.4900669,
+            40.7508246
+          ],
+          [
+            14.4899976,
+            40.7507934
+          ],
+          [
+            14.4899765,
+            40.7507839
+          ],
+          [
+            14.4899108,
+            40.7507539
+          ],
+          [
+            14.4886523,
+            40.7501872
+          ],
+          [
+            14.4885191,
+            40.7501268
+          ],
+          [
+            14.4881203,
+            40.7499451
+          ],
+          [
+            14.4885081,
+            40.749606
+          ],
+          [
+            14.4885335,
+            40.7495838
+          ],
+          [
+            14.4888192,
+            40.749334
+          ],
+          [
+            14.4890819,
+            40.7491043
+          ],
+          [
+            14.4896088,
+            40.748639
+          ],
+          [
+            14.489953,
+            40.7483471
+          ],
+          [
+            14.4917642,
+            40.7488024
+          ],
+          [
+            14.4934537,
+            40.7494735
+          ],
+          [
+            14.4928988,
+            40.7501484
+          ],
+          [
+            14.4926024,
+            40.7505239
+          ],
+          [
+            14.4921891,
+            40.7510328
+          ],
+          [
+            14.4917445,
+            40.7515867
+          ]
+        ]
+      },
+      "id": "osm-location-of-regio-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regio I",
+        "link": "http://pleiades.stoa.org/places/222138654/osm-location-of-regio-i"
       }
     }
   ]

@@ -3,8 +3,8 @@
   "title": "Pallanum",
   "id": "413242",
   "bbox": [
-    14.3947157,
-    42.0313208,
+    14.3945209,
+    42.0253418,
     14.3959683,
     42.0331487
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3953504609,
-          42.0322020306
+          14.3952017984,
+          42.0289861678
         ]
       },
       "properties": {
@@ -167,6 +167,45 @@
         "location_precision": "precise",
         "title": "OSM location of Mura Megalitiche di Pallanum",
         "link": "http://pleiades.stoa.org/places/413242/osm-location-of-mura-megalitiche-di-pallanum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3945209,
+            42.0256563
+          ],
+          [
+            14.3950408,
+            42.0253418
+          ],
+          [
+            14.39546,
+            42.0257871
+          ],
+          [
+            14.3955816,
+            42.0259148
+          ],
+          [
+            14.3950743,
+            42.0261858
+          ],
+          [
+            14.3945209,
+            42.0256563
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-di-pallanum",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area Archeologica di Pallanum",
+        "link": "http://pleiades.stoa.org/places/413242/osm-location-of-area-archeologica-di-pallanum"
       }
     }
   ]

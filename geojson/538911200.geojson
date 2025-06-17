@@ -3,10 +3,10 @@
   "title": "Regio VIII, Pompeii",
   "id": "538911200",
   "bbox": [
-    14.4837195,
-    40.7480807,
-    14.4892393,
-    40.74941
+    14.4834197,
+    40.7476526,
+    14.4899119,
+    40.7499187
   ],
   "description": "The so-called Regio VIII, an archaeological subdivision located in the southwestern section of Pompeii, contains a theatre, a sanctuary dedicated to Venus, and a mix of residential, administrative, and commercial structures.",
   "connectsWith": [
@@ -21,12 +21,123 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4866050706,
-          40.7487605329
+          14.4866726986,
+          40.7485423902
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4880928,
+            40.7499187
+          ],
+          [
+            14.4879666,
+            40.7498338
+          ],
+          [
+            14.4875964,
+            40.7496766
+          ],
+          [
+            14.4870225,
+            40.7495147
+          ],
+          [
+            14.4864103,
+            40.74936
+          ],
+          [
+            14.4856548,
+            40.7491887
+          ],
+          [
+            14.4851021,
+            40.7490562
+          ],
+          [
+            14.4847328,
+            40.7489536
+          ],
+          [
+            14.484073,
+            40.74876
+          ],
+          [
+            14.4834197,
+            40.7485431
+          ],
+          [
+            14.4837496,
+            40.7479109
+          ],
+          [
+            14.48382,
+            40.7478065
+          ],
+          [
+            14.4842371,
+            40.7477303
+          ],
+          [
+            14.4846869,
+            40.747747
+          ],
+          [
+            14.4852681,
+            40.7476526
+          ],
+          [
+            14.4877697,
+            40.7478744
+          ],
+          [
+            14.4883072,
+            40.7478496
+          ],
+          [
+            14.4888534,
+            40.7479258
+          ],
+          [
+            14.4899119,
+            40.7483262
+          ],
+          [
+            14.4894745,
+            40.7487091
+          ],
+          [
+            14.4893894,
+            40.7487836
+          ],
+          [
+            14.4893604,
+            40.748809
+          ],
+          [
+            14.4893466,
+            40.7488211
+          ],
+          [
+            14.4880928,
+            40.7499187
+          ]
+        ]
+      },
+      "id": "osm-location-of-regio-viii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regio VIII",
+        "link": "http://pleiades.stoa.org/places/538911200/osm-location-of-regio-viii"
       }
     }
   ]

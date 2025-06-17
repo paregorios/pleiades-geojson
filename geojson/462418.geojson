@@ -9,6 +9,9 @@
     37.259543
   ],
   "description": "An ancient place, cited: BAtlas 47 D4 Petiliana",
+  "connectsWith": [
+    "462492"
+  ],
   "names": [
     "Petiliana"
   ],

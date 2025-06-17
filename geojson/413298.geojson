@@ -3,20 +3,24 @@
   "title": "San Giovenale",
   "id": "413298",
   "bbox": [
-    12.000081,
-    42.224544,
-    12.0014047,
-    42.225078
+    11.9963998,
+    42.2230792,
+    12.0023127,
+    42.2255991
   ],
   "description": "The archaeological remains of an Etruscan settlement were discovered at San Giovenale, close to Blera, Italy, by the Swedish Institute at Rome in the 1950s and 1960s. The ancient name of the site is unknown.",
+  "names": [
+    "S. Giovenale",
+    "San Giovenale"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.00074285,
-          42.224811
+          11.9993370324,
+          42.2243731824
         ]
       },
       "properties": {
@@ -25,36 +29,259 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.000081,
-          42.224544
+          [
+            [
+              12.0016087,
+              42.2255468
+            ],
+            [
+              12.001614,
+              42.2254408
+            ],
+            [
+              12.0016462,
+              42.2253733
+            ],
+            [
+              12.0017949,
+              42.2252127
+            ]
+          ],
+          [
+            [
+              12.0023127,
+              42.2247672
+            ],
+            [
+              12.0022573,
+              42.2248516
+            ],
+            [
+              12.002271,
+              42.2249541
+            ],
+            [
+              12.0022778,
+              42.2250202
+            ],
+            [
+              12.0021138,
+              42.2251227
+            ],
+            [
+              12.0017949,
+              42.2252127
+            ]
+          ],
+          [
+            [
+              12.0003726,
+              42.2241338
+            ],
+            [
+              12.0006195,
+              42.2241918
+            ],
+            [
+              12.0008988,
+              42.2242897
+            ],
+            [
+              12.0010076,
+              42.2242832
+            ],
+            [
+              12.0011016,
+              42.2241939
+            ],
+            [
+              12.0014485,
+              42.2243746
+            ],
+            [
+              12.0019835,
+              42.2245183
+            ],
+            [
+              12.0020937,
+              42.224626
+            ],
+            [
+              12.0023127,
+              42.2247672
+            ]
+          ],
+          [
+            [
+              12.0002766,
+              42.224683
+            ],
+            [
+              11.9997729,
+              42.2247708
+            ],
+            [
+              11.9992519,
+              42.2247663
+            ]
+          ],
+          [
+            [
+              12.0016087,
+              42.2255468
+            ],
+            [
+              12.0013765,
+              42.2255991
+            ],
+            [
+              12.0010237,
+              42.2253291
+            ],
+            [
+              12.0006974,
+              42.225057
+            ],
+            [
+              12.0005975,
+              42.2248698
+            ],
+            [
+              12.0006225,
+              42.2246228
+            ],
+            [
+              12.0002766,
+              42.224683
+            ]
+          ],
+          [
+            [
+              11.9983454,
+              42.224751
+            ],
+            [
+              11.9978681,
+              42.2246228
+            ],
+            [
+              11.9971471,
+              42.224214
+            ],
+            [
+              11.9970703,
+              42.2241637
+            ],
+            [
+              11.9968504,
+              42.224116
+            ],
+            [
+              11.9967645,
+              42.2239929
+            ],
+            [
+              11.9965017,
+              42.223683
+            ],
+            [
+              11.9963998,
+              42.2234526
+            ],
+            [
+              11.9964158,
+              42.2231944
+            ],
+            [
+              11.9964749,
+              42.2230832
+            ],
+            [
+              11.9966572,
+              42.2230792
+            ],
+            [
+              11.9969898,
+              42.22325
+            ],
+            [
+              11.9970542,
+              42.2233493
+            ],
+            [
+              11.9970596,
+              42.2234328
+            ],
+            [
+              11.9970864,
+              42.2234844
+            ],
+            [
+              11.9972902,
+              42.2236155
+            ],
+            [
+              11.9976497,
+              42.2238221
+            ],
+            [
+              11.998119,
+              42.2240471
+            ],
+            [
+              11.9983766,
+              42.2240764
+            ],
+            [
+              11.9990998,
+              42.2240176
+            ],
+            [
+              11.999476,
+              42.2241047
+            ],
+            [
+              11.9999581,
+              42.223985
+            ],
+            [
+              12.0000316,
+              42.2241347
+            ],
+            [
+              12.0001521,
+              42.22417
+            ],
+            [
+              12.0003726,
+              42.2241338
+            ]
+          ],
+          [
+            [
+              11.9992519,
+              42.2247663
+            ],
+            [
+              11.9986706,
+              42.2248383
+            ],
+            [
+              11.9983454,
+              42.224751
+            ]
+          ]
         ]
       },
-      "id": "darmc-location-18577",
+      "id": "osm-location-of-san-giovenale",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18577",
-        "link": "http://pleiades.stoa.org/places/413298/darmc-location-18577"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.0014047,
-          42.225078
-        ]
-      },
-      "id": "location-of-acropolis-of-san-giovenale",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap.",
-        "location_precision": "precise",
-        "title": "OSM location of acropolis of San Giovenale",
-        "link": "http://pleiades.stoa.org/places/413298/location-of-acropolis-of-san-giovenale"
+        "title": "OSM location of San Giovenale",
+        "link": "http://pleiades.stoa.org/places/413298/osm-location-of-san-giovenale"
       }
     }
   ]

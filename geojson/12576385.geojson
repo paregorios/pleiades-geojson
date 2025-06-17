@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus di Faustus",
+  "id": "12576385",
+  "bbox": [
+    14.4857614,
+    40.751996,
+    14.4861241,
+    40.7522927
+  ],
+  "description": "The so-called House of Faustus at Pompeii was excavated in 1844 and 1875. It is linked to V.1.24 and VI.1.26.",
+  "connectsWith": [
+    "984330150"
+  ],
+  "names": [
+    "V.1.23",
+    "House of Faustus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.485938868,
+          40.7521409292
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.485817,
+            40.7520458
+          ],
+          [
+            14.4857614,
+            40.7520096
+          ],
+          [
+            14.4857761,
+            40.751996
+          ],
+          [
+            14.4858297,
+            40.7520305
+          ],
+          [
+            14.4858371,
+            40.7520235
+          ],
+          [
+            14.4858793,
+            40.7520529
+          ],
+          [
+            14.4859036,
+            40.7520333
+          ],
+          [
+            14.4859662,
+            40.7520731
+          ],
+          [
+            14.486029,
+            40.7521149
+          ],
+          [
+            14.485998,
+            40.7521438
+          ],
+          [
+            14.4860195,
+            40.7521591
+          ],
+          [
+            14.4859873,
+            40.7521885
+          ],
+          [
+            14.4860463,
+            40.7522292
+          ],
+          [
+            14.4860785,
+            40.7522048
+          ],
+          [
+            14.4861241,
+            40.7522383
+          ],
+          [
+            14.4860522,
+            40.7522927
+          ],
+          [
+            14.4859027,
+            40.7521913
+          ],
+          [
+            14.4858355,
+            40.7521454
+          ],
+          [
+            14.4858679,
+            40.7521174
+          ],
+          [
+            14.4857932,
+            40.7520674
+          ],
+          [
+            14.485817,
+            40.7520458
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-di-faustus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus di Faustus",
+        "link": "http://pleiades.stoa.org/places/12576385/osm-location-of-domus-di-faustus"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     42.011101
   ],
   "description": "An ancient place, cited: BAtlas 44 E1 Colle Tassito",
+  "names": [
+    "Colle Tassito"
+  ],
   "features": [
     {
       "type": "Feature",

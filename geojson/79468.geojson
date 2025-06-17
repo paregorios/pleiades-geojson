@@ -8,7 +8,11 @@
     -2.530599,
     50.752913
   ],
-  "description": "An ancient place, cited: BAtlas 8 E4 Frampton",
+  "description": "Samuel Lysons excavated a Roman villa at Frampton (Dorset) in 1796. Its unusual mosaics were a subject of keen interest, even attracting the attention of George III. The villa was thought to have been demolished, but Bournemouth University demonstrated that remains of the villa can still be identified in situ in 2019.",
+  "names": [
+    "Frampton",
+    "Frampton Roman villa"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +38,7 @@
       "id": "darmc-location-20871",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20871",
         "link": "http://pleiades.stoa.org/places/79468/darmc-location-20871"

@@ -10,13 +10,15 @@
   ],
   "description": "An ancient place, cited: BAtlas 47 D4 Phintias",
   "connectsWith": [
-    "462492"
+    "462492",
+    "462246"
   ],
   "names": [
     "Phintias",
     "Plintis",
     "Licata",
-    "Phintias"
+    "Phintias",
+    "Finziade"
   ],
   "features": [
     {

@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "title": "Casa di Bacco",
+  "id": "476710423",
+  "bbox": [
+    14.484521,
+    40.7502672,
+    14.4850269,
+    40.7505768
+  ],
+  "description": "The House of Bacchus at Pompeii takes its name from a wall painting featuring the god Bacchus. Excavations were carried out in 1824 and 1826. The site was bombed during World War II in 1943.",
+  "connectsWith": [
+    "599902893"
+  ],
+  "names": [
+    "Casa di Bacco",
+    "House of Bacchus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4847785209,
+          40.7504233114
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4846606,
+            40.7502672
+          ],
+          [
+            14.4846315,
+            40.7503233
+          ],
+          [
+            14.4845973,
+            40.7503142
+          ],
+          [
+            14.4845725,
+            40.750366
+          ],
+          [
+            14.4845653,
+            40.7503649
+          ],
+          [
+            14.4845536,
+            40.7503923
+          ],
+          [
+            14.484591,
+            40.7504021
+          ],
+          [
+            14.4845758,
+            40.7504321
+          ],
+          [
+            14.4845396,
+            40.7504242
+          ],
+          [
+            14.484521,
+            40.7504622
+          ],
+          [
+            14.4847845,
+            40.7505279
+          ],
+          [
+            14.4847685,
+            40.7505561
+          ],
+          [
+            14.4848491,
+            40.7505768
+          ],
+          [
+            14.484858,
+            40.7505578
+          ],
+          [
+            14.4848694,
+            40.7505333
+          ],
+          [
+            14.4849614,
+            40.7505601
+          ],
+          [
+            14.4850012,
+            40.7504897
+          ],
+          [
+            14.4849738,
+            40.7504817
+          ],
+          [
+            14.4850269,
+            40.750357
+          ],
+          [
+            14.4850182,
+            40.7503546
+          ],
+          [
+            14.4849531,
+            40.750339
+          ],
+          [
+            14.4849455,
+            40.7503355
+          ],
+          [
+            14.4849331,
+            40.7503563
+          ],
+          [
+            14.4848367,
+            40.7503342
+          ],
+          [
+            14.4848482,
+            40.7503121
+          ],
+          [
+            14.4847375,
+            40.7502856
+          ],
+          [
+            14.4846606,
+            40.7502672
+          ]
+        ]
+      },
+      "id": "osm-location-of-casa-di-bacco",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Casa di Bacco",
+        "link": "http://pleiades.stoa.org/places/476710423/osm-location-of-casa-di-bacco"
+      }
+    }
+  ]
+}

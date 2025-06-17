@@ -3,10 +3,10 @@
   "title": "House of Caecilius Jucundus",
   "id": "495398788",
   "bbox": [
-    14.4861533,
-    40.7519878,
-    14.4861533,
-    40.7519878
+    14.4858579,
+    40.7519036,
+    14.4862998,
+    40.7522383
   ],
   "description": "The House of Lucius Caecilius Jucundus in Pompeii takes its name from one of its latter-day owners, the banker Lucius Caecilius Iucundus who may have perished in the earthquake of A.D. 62.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4861533,
-          40.7519878
+          14.4860543124,
+          40.7520663855
         ]
       },
       "properties": {
@@ -34,19 +34,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.4861533,
-          40.7519878
+          [
+            14.4859662,
+            40.7520731
+          ],
+          [
+            14.486029,
+            40.7521149
+          ],
+          [
+            14.485998,
+            40.7521438
+          ],
+          [
+            14.4860195,
+            40.7521591
+          ],
+          [
+            14.4859873,
+            40.7521885
+          ],
+          [
+            14.4860463,
+            40.7522292
+          ],
+          [
+            14.4860785,
+            40.7522048
+          ],
+          [
+            14.4861241,
+            40.7522383
+          ],
+          [
+            14.4861911,
+            40.7521845
+          ],
+          [
+            14.4862998,
+            40.7520991
+          ],
+          [
+            14.4861503,
+            40.7520083
+          ],
+          [
+            14.4860835,
+            40.7519702
+          ],
+          [
+            14.4860518,
+            40.7519528
+          ],
+          [
+            14.486009,
+            40.7519294
+          ],
+          [
+            14.4859687,
+            40.7519036
+          ],
+          [
+            14.4859323,
+            40.7519356
+          ],
+          [
+            14.4858938,
+            40.7519103
+          ],
+          [
+            14.4858587,
+            40.7519368
+          ],
+          [
+            14.4859025,
+            40.7519652
+          ],
+          [
+            14.4858579,
+            40.7520046
+          ],
+          [
+            14.4859036,
+            40.7520333
+          ],
+          [
+            14.4859662,
+            40.7520731
+          ]
         ]
       },
-      "id": "osm-location-of-casa-di-cecilio-giocondo",
+      "id": "osm-location-of-v-1-26",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Casa di Cecilio Giocondo",
-        "link": "http://pleiades.stoa.org/places/495398788/osm-location-of-casa-di-cecilio-giocondo"
+        "title": "OSM location of V.1.26",
+        "link": "http://pleiades.stoa.org/places/495398788/osm-location-of-v-1-26"
       }
     }
   ]

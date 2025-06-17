@@ -4,13 +4,16 @@
   "id": "432893",
   "bbox": [
     13.581665,
-    41.938843,
-    13.581665,
+    41.9142069,
+    13.6093383,
     41.938843
   ],
   "description": "An ancient place, cited: BAtlas 44 E2 La Giostra",
   "connectsWith": [
     "432853"
+  ],
+  "names": [
+    "La Giostra"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.581665,
-          41.938843
+          13.5923927808,
+          41.9290157399
         ]
       },
       "properties": {
@@ -41,6 +44,41 @@
         "location_precision": "precise",
         "title": "DARMC location 7058",
         "link": "http://pleiades.stoa.org/places/432893/darmc-location-7058"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.6005658,
+            41.9237868
+          ],
+          [
+            13.6093383,
+            41.9227193
+          ],
+          [
+            13.6054786,
+            41.9142069
+          ],
+          [
+            13.5967268,
+            41.91617
+          ],
+          [
+            13.6005658,
+            41.9237868
+          ]
+        ]
+      },
+      "id": "osm-location-of-sito-archeologico-amplero-la",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sito Archeologico Amplero/La Giostra",
+        "link": "http://pleiades.stoa.org/places/432893/osm-location-of-sito-archeologico-amplero-la"
       }
     }
   ]

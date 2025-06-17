@@ -9,6 +9,9 @@
     42.128128
   ],
   "description": "An ancient place, cited: BAtlas 42 F4 Vittorito",
+  "names": [
+    "Vittorito"
+  ],
   "features": [
     {
       "type": "Feature",

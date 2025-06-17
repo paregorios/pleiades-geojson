@@ -9,6 +9,9 @@
     42.169726
   ],
   "description": "An ancient place, cited: BAtlas 42 F4 Pescara",
+  "names": [
+    "Pescara"
+  ],
   "features": [
     {
       "type": "Feature",

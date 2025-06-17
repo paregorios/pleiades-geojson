@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Silver Wedding",
+  "id": "679464306",
+  "bbox": [
+    14.4862116,
+    40.7522084,
+    14.4868819,
+    40.7527849
+  ],
+  "description": "The so-called House of the Silver Wedding was built in the second century BCE and remodeled in the first century CE. It is noted for its particularly elegant tetrastyle atrium executed in the Corinthian order. Excavated between 1891 and 1893, it earned its modern moniker due to the celebration of the 'silver wedding' of Umberto and Margherita of Savoy in 1893. The domus was extensively reconstructed in the late nineteenth century using then-current methods. These reconstructions weathered poorly, and a modern restoration project to stabilize and conserve the domus, in effect removing the harmful earlier restorations, was completed in 2023.",
+  "connectsWith": [
+    "984330150"
+  ],
+  "names": [
+    "House of the Silver Wedding",
+    "Casa delle Nozze d’Argento"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.486523466,
+          40.7524786603
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4863964,
+            40.752347
+          ],
+          [
+            14.4862116,
+            40.7522257
+          ],
+          [
+            14.4862313,
+            40.7522084
+          ],
+          [
+            14.4864023,
+            40.7523207
+          ],
+          [
+            14.4864703,
+            40.7522612
+          ],
+          [
+            14.4865179,
+            40.7522925
+          ],
+          [
+            14.4865416,
+            40.7522718
+          ],
+          [
+            14.486607,
+            40.7523147
+          ],
+          [
+            14.4866206,
+            40.7523245
+          ],
+          [
+            14.4866629,
+            40.752353
+          ],
+          [
+            14.4866908,
+            40.7523291
+          ],
+          [
+            14.4867754,
+            40.7523663
+          ],
+          [
+            14.4867328,
+            40.7524018
+          ],
+          [
+            14.4867668,
+            40.7524246
+          ],
+          [
+            14.4868657,
+            40.7524943
+          ],
+          [
+            14.4867918,
+            40.7525534
+          ],
+          [
+            14.4868819,
+            40.75261
+          ],
+          [
+            14.4865787,
+            40.7527849
+          ],
+          [
+            14.4864231,
+            40.7527133
+          ],
+          [
+            14.486224,
+            40.7526162
+          ],
+          [
+            14.4862501,
+            40.7525934
+          ],
+          [
+            14.4863077,
+            40.7525434
+          ],
+          [
+            14.4863899,
+            40.7524712
+          ],
+          [
+            14.486419,
+            40.7524463
+          ],
+          [
+            14.486441,
+            40.7524275
+          ],
+          [
+            14.4863639,
+            40.7523765
+          ],
+          [
+            14.4863964,
+            40.752347
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-the-silver-wedding",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Silver Wedding",
+        "link": "http://pleiades.stoa.org/places/679464306/osm-location-of-house-of-the-silver-wedding"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus of A. Octavius Primus",
+  "id": "242335383",
+  "bbox": [
+    14.4837142,
+    40.7495105,
+    14.4837142,
+    40.7495105
+  ],
+  "description": "The so-called House of A. Octavius Primus was excavated in 1859 and again in 1872.",
+  "connectsWith": [
+    "599902893"
+  ],
+  "names": [
+    "House of A. Octavius Primus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4837142,
+          40.7495105
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4837142,
+          40.7495105
+        ]
+      },
+      "id": "osm-location-of-domus-of-a-octavius-primus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus of A. Octavius Primus",
+        "link": "http://pleiades.stoa.org/places/242335383/osm-location-of-domus-of-a-octavius-primus"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Monte Saraceno di Ravanusa (Kakyron?)",
   "id": "462266",
   "bbox": [
-    13.9834905,
-    37.2580769,
-    13.9834905,
-    37.2580769
+    13.9826796,
+    37.252032,
+    13.9870432,
+    37.2586924
   ],
   "description": "The ancient city of Kakyron, said to have been founded by the Sicani in the eighth century B.C., is probably to be identified with the remains of a fortified city, north of Licata, located on the western side of Sicily.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9834905,
-          37.2580769
+          13.9847189761,
+          37.2555812277
         ]
       },
       "properties": {

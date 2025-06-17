@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Scotonico",
+  "id": "214128051",
+  "bbox": [
+    13.0096564,
+    42.0239897,
+    13.0101874,
+    42.0240176
+  ],
+  "description": "An ancient Roman bridge located along the Via Valeria near Roviano, Italy.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0099219,
+          42.02400365
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.0096564,
+            42.0240176
+          ],
+          [
+            13.0101874,
+            42.0239897
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-scotonico",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Scotonico",
+        "link": "http://pleiades.stoa.org/places/214128051/osm-location-of-ponte-scotonico"
+      }
+    }
+  ]
+}

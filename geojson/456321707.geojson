@@ -3,10 +3,10 @@
   "title": "Regio II, Pompeii",
   "id": "456321707",
   "bbox": [
-    14.485429,
-    40.74941,
-    14.4959332,
-    40.7524359
+    14.491762,
+    40.7494338,
+    14.4961857,
+    40.7528931
   ],
   "description": "The so-called Regio II, an archaeological subdivision located in the eastern section of Pompeii, includes the Amphitheater and the Large Palaestra, as well as a number of residences and commercial structures.",
   "connectsWith": [
@@ -21,12 +21,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4931930087,
-          40.7514015275
+          14.4939906746,
+          40.7512144099
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4946407,
+            40.7528931
+          ],
+          [
+            14.4938656,
+            40.7525498
+          ],
+          [
+            14.492849,
+            40.7520906
+          ],
+          [
+            14.491762,
+            40.751608
+          ],
+          [
+            14.4935263,
+            40.7494338
+          ],
+          [
+            14.4948975,
+            40.7502077
+          ],
+          [
+            14.4961468,
+            40.7509303
+          ],
+          [
+            14.4961857,
+            40.7510015
+          ],
+          [
+            14.4960274,
+            40.7512798
+          ],
+          [
+            14.494968,
+            40.7524847
+          ],
+          [
+            14.4947789,
+            40.7527357
+          ],
+          [
+            14.4946407,
+            40.7528931
+          ]
+        ]
+      },
+      "id": "osm-location-of-regio-ii",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regio II",
+        "link": "http://pleiades.stoa.org/places/456321707/osm-location-of-regio-ii"
       }
     }
   ]

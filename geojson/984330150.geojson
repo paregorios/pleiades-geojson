@@ -4,9 +4,9 @@
   "id": "984330150",
   "bbox": [
     14.4843337,
-    40.752279,
+    40.7516443,
     14.4905323,
-    40.7537123
+    40.7541095
   ],
   "description": "The so-called Regio V, a largely unexcavated archaeological subdivision located in the northern section of Pompeii, contains a mixture of commercial and domestic structures, including a gladiators' barracks.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4872965081,
-          40.7529333058
+          14.486947783,
+          40.7529950923
         ]
       },
       "properties": {
@@ -278,6 +278,69 @@
         "location_precision": "precise",
         "title": "OSM location of Regio V excavations",
         "link": "http://pleiades.stoa.org/places/984330150/osm-location-of-regio-v-excavations"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4879452,
+            40.7524624
+          ],
+          [
+            14.4872144,
+            40.7521332
+          ],
+          [
+            14.486572,
+            40.751835
+          ],
+          [
+            14.4861667,
+            40.7516443
+          ],
+          [
+            14.4843748,
+            40.7532162
+          ],
+          [
+            14.4843427,
+            40.7534113
+          ],
+          [
+            14.4861183,
+            40.7539274
+          ],
+          [
+            14.4874269,
+            40.7541095
+          ],
+          [
+            14.4883338,
+            40.7540212
+          ],
+          [
+            14.4884063,
+            40.7532084
+          ],
+          [
+            14.4887008,
+            40.7528052
+          ],
+          [
+            14.4879452,
+            40.7524624
+          ]
+        ]
+      },
+      "id": "osm-location-of-regio-v",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regio V",
+        "link": "http://pleiades.stoa.org/places/984330150/osm-location-of-regio-v"
       }
     }
   ]

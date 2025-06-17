@@ -9,6 +9,9 @@
     42.1245264
   ],
   "description": "An ancient place, cited: BAtlas 42 F4 Colle delle Fate",
+  "names": [
+    "Colle delle Fate"
+  ],
   "features": [
     {
       "type": "Feature",

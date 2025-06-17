@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Romulus and Remus",
+  "id": "690145557",
+  "bbox": [
+    14.4838464,
+    40.748829,
+    14.4838464,
+    40.748829
+  ],
+  "description": "The so-called House of Romulus and Remus in Pompeii is a domus located at VII.7.10. The site was originally linked to VII.7.13 and was excavated in 1859 and again in 1864. During World War II, the site was bombed and significantly damaged on August 24, 1943, and September 13, 1943. Many of the extant wall paintings in the house were destroyed.",
+  "connectsWith": [
+    "599902893"
+  ],
+  "names": [
+    "House of Romulus and Remus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4838464,
+          40.748829
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4838464,
+          40.748829
+        ]
+      },
+      "id": "osm-location-of-house-of-romulus-and-remus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of Romulus and Remus",
+        "link": "http://pleiades.stoa.org/places/690145557/osm-location-of-house-of-romulus-and-remus"
+      }
+    }
+  ]
+}

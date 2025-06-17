@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "School of Homer Ag. Athanasios excavations (Ithaca)",
+  "id": "308594948",
+  "bbox": [
+    20.6377586,
+    38.460536,
+    20.6377586,
+    38.460536
+  ],
+  "description": "A site on Ithaca that local tradition links to both Homer and Odysseus. Excavations in 1998 near the Church of St. Athanasius documented a series of walls including both Bronze Age and Iron Age phases, as well as a Hellenistic building constructed using orthostates, and a circular structure with a diameter of more than 7 meters.",
+  "connectsWith": [
+    "530906"
+  ],
+  "names": [
+    "Anaktoro tou Odyssea",
+    "School of Homer",
+    "Ecole d'Homere"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6377586,
+          38.460536
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6377586,
+          38.460536
+        ]
+      },
+      "id": "osm-location-of-school-of-homer",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of School of Homer",
+        "link": "http://pleiades.stoa.org/places/308594948/osm-location-of-school-of-homer"
+      }
+    }
+  ]
+}

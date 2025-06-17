@@ -3,14 +3,17 @@
   "title": "Villa Regina, Boscoreale",
   "id": "523755190",
   "bbox": [
-    14.4713824,
-    40.7614835,
-    14.4713824,
-    40.7614835
+    14.4709334,
+    40.7612151,
+    14.4718107,
+    40.7617846
   ],
   "description": "A villa rustica at Boscoreale discovered in 1977. This is the only villa site currently visible and has been subjected to more modern excavation and analysis.",
   "connectsWith": [
     "432723"
+  ],
+  "names": [
+    "Villa Regina"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4713824,
-          40.7614835
+          14.4713730639,
+          40.7614716656
         ]
       },
       "properties": {
@@ -28,19 +31,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.4713824,
-          40.7614835
+          [
+            14.4717859,
+            40.7614824
+          ],
+          [
+            14.4717727,
+            40.7614699
+          ],
+          [
+            14.4718107,
+            40.7614474
+          ],
+          [
+            14.4716363,
+            40.7612901
+          ],
+          [
+            14.4715124,
+            40.761227
+          ],
+          [
+            14.4713062,
+            40.7612151
+          ],
+          [
+            14.4709334,
+            40.7614573
+          ],
+          [
+            14.4712885,
+            40.7617846
+          ],
+          [
+            14.4717859,
+            40.7614824
+          ]
         ]
       },
-      "id": "osm-location-of-villa-rustica-di-boscoreale",
+      "id": "osm-location-of-scavi-archeologici-di-boscoreale",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa Rustica di Boscoreale",
-        "link": "http://pleiades.stoa.org/places/523755190/osm-location-of-villa-rustica-di-boscoreale"
+        "title": "OSM location of Scavi Archeologici di Boscoreale",
+        "link": "http://pleiades.stoa.org/places/523755190/osm-location-of-scavi-archeologici-di-boscoreale"
       }
     }
   ]

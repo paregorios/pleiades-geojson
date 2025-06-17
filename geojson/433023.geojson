@@ -9,6 +9,9 @@
     42.003875
   ],
   "description": "An ancient place, cited: BAtlas 44 E1 Piano della Civitella",
+  "names": [
+    "Piano della Civitella"
+  ],
   "features": [
     {
       "type": "Feature",
