@@ -3,10 +3,10 @@
   "title": "Circus Gaii et Neronis",
   "id": "395487201",
   "bbox": [
-    12.4540217,
-    41.9017131,
-    12.4540217,
-    41.9017131
+    12.4540108,
+    41.9016831,
+    12.4540108,
+    41.9016831
   ],
   "description": "Circus Gaii et Neronis was originally built as a private racecourse for the emperor Caius. In the fourth century A.D., the north side of the circus was destroyed in order to make room for the first basilica of St. Peter.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4540217,
-          41.9017131
+          12.4540108,
+          41.9016831
         ]
       },
       "properties": {

@@ -4,11 +4,11 @@
   "id": "530791",
   "bbox": [
     20.677332,
-    38.357242,
-    20.677332,
+    38.3554311,
+    20.6835725,
     38.357242
   ],
-  "description": "An ancient place, cited: BAtlas 54 C5 Al(al)komenai",
+  "description": "At Al(al)komenai (near Palaiokastro, Ithaca, Ionian Islands) are the remains of a multi-period settlement, in use from at least the Archaic period to Roman times. There is also a tract of Cyclopean walling associated with the site.",
   "names": [
     "Alalkomenai",
     "Alkomenai"
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.677332,
-          38.357242
+          20.6808343,
+          38.3563825
         ]
       },
       "properties": {
@@ -42,6 +42,40 @@
         "location_precision": "precise",
         "title": "DARMC location 11317",
         "link": "http://pleiades.stoa.org/places/530791/darmc-location-11317"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6815984,
+          38.3564744
+        ]
+      },
+      "id": "osm-location-of-cyclopean-wall",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cyclopean wall",
+        "link": "http://pleiades.stoa.org/places/530791/osm-location-of-cyclopean-wall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6835725,
+          38.3554311
+        ]
+      },
+      "id": "osm-location-of-alalkomena-c-s",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Alalkomenés",
+        "link": "http://pleiades.stoa.org/places/530791/osm-location-of-alalkomena-c-s"
       }
     }
   ]

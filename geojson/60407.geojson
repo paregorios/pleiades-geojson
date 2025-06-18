@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Alexandreia",
   "id": "60407",
+  "bbox": [
+    66.4596675625,
+    26.1307298982,
+    66.4596675625,
+    26.1307298982
+  ],
   "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
   "connectsWith": [
     "59675"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.4596675625,
+          26.1307298982
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/60407/batlas-location"
       }
     }
   ]

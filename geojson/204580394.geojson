@@ -1,0 +1,87 @@
+{
+  "type": "FeatureCollection",
+  "title": "Room W9 in the Temple of Artemis Azzanathkona",
+  "id": "204580394",
+  "bbox": [
+    40.7270185091,
+    34.7509938973,
+    40.7271110073,
+    34.7510908286
+  ],
+  "description": "Pronaos in the Temple of Artemis Azzanathkona, Dura-Europos, also known as the salle aux gradins or stepped room. The steps of Room W9 carry inscriptions on them.",
+  "connectsWith": [
+    "462038222",
+    "451190317"
+  ],
+  "names": [
+    "Room W9"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7270656077,
+          34.7510422683
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.72707407634666,
+              34.75109082864129
+            ],
+            [
+              40.72701850913907,
+              34.75107114950212
+            ],
+            [
+              40.727034259111996,
+              34.75103955814648
+            ],
+            [
+              40.72704132731328,
+              34.75102751119604
+            ],
+            [
+              40.7270585535834,
+              34.75099389726208
+            ],
+            [
+              40.727111007328304,
+              34.751011059656925
+            ],
+            [
+              40.72709796085297,
+              34.75104237824461
+            ],
+            [
+              40.727089801659226,
+              34.75105816443384
+            ],
+            [
+              40.72707407634666,
+              34.75109082864129
+            ]
+          ]
+        ]
+      },
+      "id": "room-w9-in-the-temple-of-artemis-azzanathkona",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Coordinates of Room W9 in the Temple of Artemis Azzanathkona",
+        "link": "http://pleiades.stoa.org/places/204580394/room-w9-in-the-temple-of-artemis-azzanathkona"
+      }
+    }
+  ]
+}

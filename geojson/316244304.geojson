@@ -1,21 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Il Tondo",
-  "id": "423086",
+  "title": "Sa Torreta",
+  "id": "316244304",
   "bbox": [
-    12.8192165,
-    41.8584397,
-    12.8192165,
-    41.8584397
+    4.2422595,
+    39.9664773,
+    4.2422595,
+    39.9664773
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 Il Tondo",
+  "description": "The Talayotic settlement of Sa Torreta is located at Es Grau, in the north-eastern part of Menorca.",
   "connectsWith": [
-    "622606468"
-  ],
-  "names": [
-    "Il Tondo",
-    "tondo gladiatorio di Zagarolo",
-    "Zagarolo amphitheatre"
+    "572631626"
   ],
   "features": [
     {
@@ -23,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8192165,
-          41.8584397
+          4.2422595,
+          39.9664773
         ]
       },
       "properties": {
@@ -35,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8192165,
-          41.8584397
+          4.2422595,
+          39.9664773
         ]
       },
-      "id": "osm-location-of-il-tondo",
+      "id": "osm-location-of-sa-torreta-talayotic-settlement",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Il Tondo",
-        "link": "http://pleiades.stoa.org/places/423086/osm-location-of-il-tondo"
+        "title": "OSM location of Sa Torreta talayotic settlement",
+        "link": "http://pleiades.stoa.org/places/316244304/osm-location-of-sa-torreta-talayotic-settlement"
       }
     }
   ]

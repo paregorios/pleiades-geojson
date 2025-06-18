@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "title": "Regio IX, Pompeii",
+  "id": "680072866",
+  "bbox": [
+    14.4861975,
+    40.7499689,
+    14.490599,
+    40.7529325
+  ],
+  "description": "The so-called Regio IX, an archaeological subdivision located in the central section of Pompeii, contains a mix of residential and commercial structures.",
+  "connectsWith": [
+    "433032"
+  ],
+  "names": [
+    "Regio IX degli scavi archeologici di Pompei"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4884474397,
+          40.7514343053
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4861975,
+            40.7516158
+          ],
+          [
+            14.4891161,
+            40.7529236
+          ],
+          [
+            14.4891359,
+            40.7529325
+          ],
+          [
+            14.4895208,
+            40.7524601
+          ],
+          [
+            14.4898762,
+            40.752008
+          ],
+          [
+            14.490599,
+            40.7511139
+          ],
+          [
+            14.4880925,
+            40.7499689
+          ],
+          [
+            14.48708,
+            40.7508467
+          ],
+          [
+            14.4866294,
+            40.7512247
+          ],
+          [
+            14.4861975,
+            40.7516158
+          ]
+        ]
+      },
+      "id": "osm-location-of-regio-ix",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Regio IX",
+        "link": "http://pleiades.stoa.org/places/680072866/osm-location-of-regio-ix"
+      }
+    }
+  ]
+}

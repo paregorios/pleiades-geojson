@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "ville d’Auxerre",
+  "id": "835076166",
+  "bbox": [
+    3.6071447,
+    47.7845727,
+    3.6071447,
+    47.7845727
+  ],
+  "description": "Located 3 km south of the town of Auxerre, France, on the right bank of the Yonne River, archaeologists excavated the remains of an extensive Gallo-Roman villa covering an area of approximately 1.6 hectares. The villa site includes a bath complex. The site has been noted for its archaeological potential since the nineteenth century. While some excavations took place in the 1960s, the open-area excavation of the villa was announced in 2025.",
+  "connectsWith": [
+    "138206"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6071447,
+          47.7845727
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6071447,
+          47.7845727
+        ]
+      },
+      "id": "osm-location-of-ville-daauxerre",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of ville d’Auxerre",
+        "link": "http://pleiades.stoa.org/places/835076166/osm-location-of-ville-daauxerre"
+      }
+    }
+  ]
+}

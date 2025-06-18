@@ -1,21 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Il Tondo",
-  "id": "423086",
+  "title": "Naveta of Sa Torreta",
+  "id": "835076165",
   "bbox": [
-    12.8192165,
-    41.8584397,
-    12.8192165,
-    41.8584397
+    4.244716,
+    39.964556,
+    4.244716,
+    39.964556
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 Il Tondo",
+  "description": "The Naveta of Sa Torreta located on Menorca.",
   "connectsWith": [
-    "622606468"
-  ],
-  "names": [
-    "Il Tondo",
-    "tondo gladiatorio di Zagarolo",
-    "Zagarolo amphitheatre"
+    "316244304"
   ],
   "features": [
     {
@@ -23,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8192165,
-          41.8584397
+          4.244716,
+          39.964556
         ]
       },
       "properties": {
@@ -35,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8192165,
-          41.8584397
+          4.244716,
+          39.964556
         ]
       },
-      "id": "osm-location-of-il-tondo",
+      "id": "osm-location-of-naveta-of-sa-torreta",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Il Tondo",
-        "link": "http://pleiades.stoa.org/places/423086/osm-location-of-il-tondo"
+        "title": "OSM location of Naveta of Sa Torreta",
+        "link": "http://pleiades.stoa.org/places/835076165/osm-location-of-naveta-of-sa-torreta"
       }
     }
   ]
