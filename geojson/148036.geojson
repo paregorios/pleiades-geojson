@@ -9,6 +9,9 @@
     44.052059
   ],
   "description": "An ancient place, cited: BAtlas 15 E1 Carpentorate/*Forum Neronis",
+  "connectsWith": [
+    "148132"
+  ],
   "names": [
     "Carpentorate",
     "Forum Neronis",

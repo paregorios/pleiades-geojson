@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Iol Caesarea",
   "id": "471134383",
   "bbox": [
-    2.1987087,
-    36.6090576,
-    2.1987087,
-    36.6090576
+    2.1981135,
+    36.6080759,
+    2.1996634,
+    36.6091187
   ],
   "description": "The Roman amphitheater at Iol Caesarea was of moderate size, with room for about 16,000 spectators.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1987087,
-          36.6090576
+          2.1988877059,
+          36.6086518239
         ]
       },
       "properties": {

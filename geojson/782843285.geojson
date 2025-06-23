@@ -9,6 +9,9 @@
     41.8695687
   ],
   "description": "The remains of an Archaic period structure at Mira Lanza, located in Via Luigi Pierantoni.",
+  "connectsWith": [
+    "423025"
+  ],
   "features": [
     {
       "type": "Feature",

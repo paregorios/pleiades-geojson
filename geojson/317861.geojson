@@ -9,6 +9,9 @@
     36.5
   ],
   "description": "An ancient place, cited: BAtlas 32 D4 unnamed bridge (E Thubursicu Bure, near Civitas Mizigitanorum)",
+  "connectsWith": [
+    "314936"
+  ],
   "features": [
     {
       "type": "Feature",

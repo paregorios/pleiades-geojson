@@ -9,6 +9,9 @@
     32.466721
   ],
   "description": "An ancient place, cited: BAtlas 35 G2 Sugolin",
+  "connectsWith": [
+    "344451"
+  ],
   "names": [
     "Sugolin",
     "Seggera"

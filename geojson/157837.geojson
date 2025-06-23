@@ -5,8 +5,8 @@
   "bbox": [
     7.862982,
     43.833884,
-    7.8676571,
-    43.8356046
+    7.8684133,
+    43.8356808
   ],
   "description": "A Roman mansio on the via Iulia Augusta. An Early Christian complex (basilica, baptistery, cemetery) developed nearby and lasted until the Middle Ages.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.86531955,
-          43.8347443
+          7.86550498665,
+          43.8347168819
         ]
       },
       "properties": {

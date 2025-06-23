@@ -9,6 +9,9 @@
     44.1046474533
   ],
   "description": "An ancient place, cited: BAtlas 15 D1 Memini",
+  "connectsWith": [
+    "148043"
+  ],
   "names": [
     "Memini"
   ],

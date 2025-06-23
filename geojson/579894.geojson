@@ -9,6 +9,9 @@
     37.748938
   ],
   "description": "An ancient place, cited: BAtlas 59 D4 Besa",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Besa"
   ],

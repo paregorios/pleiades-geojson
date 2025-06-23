@@ -9,6 +9,9 @@
     32.708352
   ],
   "description": "An ancient place, cited: BAtlas 35 F2 Quintiliana",
+  "connectsWith": [
+    "344373"
+  ],
   "names": [
     "Quintiliana",
     "Villa Quintiliana"

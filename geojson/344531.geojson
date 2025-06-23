@@ -9,6 +9,9 @@
     32.760753
   ],
   "description": "An ancient place, cited: BAtlas 35 E2 Vax/Villa Repentina",
+  "connectsWith": [
+    "344456"
+  ],
   "names": [
     "Vax",
     "Villa Repentina"

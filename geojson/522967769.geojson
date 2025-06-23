@@ -3,10 +3,10 @@
   "title": "Tigurini",
   "id": "522967769",
   "bbox": [
-    6.0,
-    46.0,
-    7.0,
-    47.0
+    6.34210250087,
+    46.7385744596,
+    7.518151103,
+    47.106201185
   ],
   "description": "A sub-tribe of the Helvetii.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.5,
-          46.5
+          6.90623254902,
+          46.9392811634
         ]
       },
       "properties": {

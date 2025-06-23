@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Conventus Bracaraugustanus",
   "id": "927078047",
+  "bbox": [
+    -8.3117052,
+    41.1458867,
+    -8.3098785,
+    41.14731
+  ],
   "description": "The Conventus Bracaraugustanus or Conventus Bracarus was a sub-provincial administrative district of the Roman empire located in the northwestern part of the Iberian Peninsula, in Gallaecia. Its capital was located at Bracara Augusta.",
   "names": [
     "conventus Bracaraugustanus",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3107822952,
+          41.1465894398
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

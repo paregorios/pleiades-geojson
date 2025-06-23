@@ -2,7 +2,13 @@
   "type": "FeatureCollection",
   "title": "Auridai",
   "id": "585892",
-  "description": "An ancient place, cited: BAtlas 59 unlocated Auridai",
+  "bbox": [
+    23.5,
+    38.0,
+    23.75,
+    38.25
+  ],
+  "description": "Auridai was a deme of ancient Attica. It originally belonged to the phyle of Hippothontis, but later to Antigonis.",
   "connectsWith": [
     "580122",
     "579888"
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.625,
+          38.125
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

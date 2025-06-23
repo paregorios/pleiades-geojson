@@ -9,6 +9,9 @@
     43.911292
   ],
   "description": "A Roman settlement on the coast of Liguria.",
+  "connectsWith": [
+    "507729266"
+  ],
   "names": [
     "Lucus Bormani"
   ],

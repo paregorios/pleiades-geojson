@@ -9,6 +9,9 @@
     32.649407
   ],
   "description": "An ancient place, cited: BAtlas 35 G2 Ad Palmam",
+  "connectsWith": [
+    "344448"
+  ],
   "names": [
     "Ad Palmam"
   ],

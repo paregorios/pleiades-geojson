@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Necropoli Cappella",
+  "id": "612646272",
+  "bbox": [
+    14.0622874,
+    40.7987898,
+    14.0625397,
+    40.7989891
+  ],
+  "description": "The Cappella necropolis preserves a complex of underground tombs arranged along the ancient road connecting Misenum and Cumae. The earliest tombs date to the late first century BCE.",
+  "connectsWith": [
+    "432744"
+  ],
+  "names": [
+    "Necropoli di Cappella"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0624106189,
+          40.798881579
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.0623982,
+            40.7989891
+          ],
+          [
+            14.0622874,
+            40.7989074
+          ],
+          [
+            14.0623448,
+            40.7987898
+          ],
+          [
+            14.0625397,
+            40.7988345
+          ],
+          [
+            14.0625036,
+            40.7989158
+          ],
+          [
+            14.0624537,
+            40.7989602
+          ],
+          [
+            14.0623982,
+            40.7989891
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-cappella",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli Cappella",
+        "link": "http://pleiades.stoa.org/places/612646272/osm-location-of-necropoli-cappella"
+      }
+    }
+  ]
+}

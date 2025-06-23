@@ -3,10 +3,10 @@
   "title": "Tanarus (river)",
   "id": "383790",
   "bbox": [
-    7.8147288,
+    7.7124369,
     44.1172978,
-    8.7801087,
-    45.0108751
+    8.7805915,
+    45.0111633
   ],
   "description": "Tanarus fl. (Tanaro river) is a 276 km-long river in northern Italy that flows from the Ligurian Alps to the Padus fl. (Po river).",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.14632301077,
-          44.6254409974
+          8.12973484255,
+          44.6039159935
         ]
       },
       "properties": {

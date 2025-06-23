@@ -9,6 +9,9 @@
     43.482079
   ],
   "description": "An ancient place, cited: BAtlas 15 F3 Tegulata",
+  "connectsWith": [
+    "540718544"
+  ],
   "names": [
     "Tegulata"
   ],

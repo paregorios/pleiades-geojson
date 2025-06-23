@@ -8,7 +8,10 @@
     5.44541,
     43.526232
   ],
-  "description": "Col. Aquae Sextiae (modern Aix-en-Provence) was founded by Caius Sextius Calvinus who placed the colony on the territory of the indigenous confederation of the Salluvii in 122 B.C.",
+  "description": "Col. Aquae Sextiae (modern Aix-en-Provence) was founded by Caius Sextius Calvinus, who placed the colony on the territory of the indigenous confederation of the Salluvii in 122 B.C.",
+  "connectsWith": [
+    "540718544"
+  ],
   "names": [
     "Col. Aquae Sextiae",
     "Col. Iulia Augusta Aquae Sextiae",

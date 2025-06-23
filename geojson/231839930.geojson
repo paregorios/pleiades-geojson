@@ -9,6 +9,9 @@
     41.8367291
   ],
   "description": "A road located on the right bank of the Tiber River leading to the Campus Salinarum romanarum and sharing the first part of its course with the Via Portuensis.",
+  "names": [
+    "Via Campana"
+  ],
   "features": [
     {
       "type": "Feature",

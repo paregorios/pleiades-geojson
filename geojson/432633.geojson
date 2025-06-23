@@ -9,6 +9,9 @@
     40.877822
   ],
   "description": "An ancient place, cited: BAtlas 44 F4 Ad Quartum",
+  "connectsWith": [
+    "432744"
+  ],
   "names": [
     "Ad Quartum"
   ],

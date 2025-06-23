@@ -9,6 +9,9 @@
     44.9885189302
   ],
   "description": "The Segovellauni were a Celtic tribe in Gallia Narbonensis whose territory lay between the Rhodanus and the Druna.",
+  "connectsWith": [
+    "148043"
+  ],
   "names": [
     "Segovellauni"
   ],

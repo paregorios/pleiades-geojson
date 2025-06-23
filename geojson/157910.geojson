@@ -9,6 +9,10 @@
     44.169972
   ],
   "description": "An ancient place, cited: BAtlas 16 F1 Pullopice",
+  "connectsWith": [
+    "507729266",
+    "577229426"
+  ],
   "names": [
     "Pullopice"
   ],
