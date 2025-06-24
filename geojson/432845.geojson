@@ -8,9 +8,13 @@
     14.7784245,
     40.6990356
   ],
-  "description": "An ancient place, cited: BAtlas 44 G4 Fratte",
+  "description": "The ancient settlement of Fratte is located near Salerno, Italy. The settlement is situated in the valley of the Irno River and was likely first settled by Etruscans in the sixth century BCE. Material remains ascribed to both Etruscan and Samnite cultures have been identified at the site.",
   "connectsWith": [
     "789856352"
+  ],
+  "names": [
+    "Fratte",
+    "Area archeologica etrusco-sannitica di Fratte"
   ],
   "features": [
     {

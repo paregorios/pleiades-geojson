@@ -5,12 +5,15 @@
   "bbox": [
     -3.5269108,
     50.725562,
-    -0.538425,
+    1.033588,
     53.234856
   ],
   "description": "Fosse Way was a Roman road connecting Isca Dumnoniorum and Lindum Colonia.",
   "connectsWith": [
     "651820395"
+  ],
+  "names": [
+    "Fosse Way"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.52977555352,
-          51.1905415663
+          -1.63893466514,
+          51.3939771747
         ]
       },
       "properties": {

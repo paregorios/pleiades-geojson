@@ -9,6 +9,9 @@
     43.473063
   ],
   "description": "An ancient place, cited: BAtlas 15 F3 Les Eyssalettes",
+  "names": [
+    "Les Eyssalettes"
+  ],
   "features": [
     {
       "type": "Feature",

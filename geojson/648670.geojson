@@ -3,10 +3,10 @@
   "title": "Kilikiai Pylai",
   "id": "648670",
   "bbox": [
-    34.83333,
-    37.28333,
-    34.83333,
-    37.28333
+    34.7862498,
+    37.2851391,
+    34.7862498,
+    37.2851391
   ],
   "description": "The Cilician Gates, a pass through the Taurus Mountains connecting Cilicia to the Anatolian Plateau, by way of the gorge of the Gökoluk River.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.83333,
-          37.28333
+          34.7862498,
+          37.2851391
         ]
       },
       "properties": {
@@ -32,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.83333,
-          37.28333
+          34.7862498,
+          37.2851391
         ]
       },
-      "id": "geonames-location-of-gulek-bogazi",
+      "id": "gps-location-cilician-gates-certain-location",
       "type": "Feature",
       "properties": {
-        "description": "coordinates after GeoNames",
+        "description": "Cilician Gates location (now filled by modern highway) as determined by: 1) still extant inscription just N of tightest point of pass, SRTM (Shuttle Radar Topography Mission) data (GIS processed), and GPS track of personal autopsy, Dec 2024; Added reference to inscription that is still extant.",
         "location_precision": "precise",
-        "title": "GeoNames location of Gülek Bogazi",
-        "link": "http://pleiades.stoa.org/places/648670/geonames-location-of-gulek-bogazi"
+        "title": "GPS Location: Cilician Gates - certain location",
+        "link": "http://pleiades.stoa.org/places/648670/gps-location-cilician-gates-certain-location"
       }
     }
   ]

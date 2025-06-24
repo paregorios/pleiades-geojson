@@ -10,7 +10,11 @@
   ],
   "description": "An Etruscan tomb at Caere dated ca. 625-600 B.C.",
   "connectsWith": [
-    "422859"
+    "422859",
+    "717880824"
+  ],
+  "names": [
+    "Tomba delle Cinque Sedie"
   ],
   "features": [
     {

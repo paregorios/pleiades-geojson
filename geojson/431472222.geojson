@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "funeral monuments of the Via Iulia Augusta",
+  "id": "431472222",
+  "bbox": [
+    8.2050153,
+    44.0396849,
+    8.2055766,
+    44.0403275
+  ],
+  "description": "A Roman necropolis located along the course of the Via Iulia Augusta in modern Albenga, Italy. The archaeological area includes the remains of at least nine tombs dating to the first and second centuries CE. These family tombs faced the ancient roadway. Nino Lamboglia carried out the first archaeological fieldwork here in the 1930s.",
+  "connectsWith": [
+    "157803",
+    "507729266"
+  ],
+  "names": [
+    "funeral monuments of the via Giulia Augusta"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20529374779,
+          44.0400055297
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.2050153,
+            44.0402846
+          ],
+          [
+            8.2051783,
+            44.0403275
+          ],
+          [
+            8.2053017,
+            44.040193
+          ],
+          [
+            8.2054164,
+            44.0400306
+          ],
+          [
+            8.2055116,
+            44.0398797
+          ],
+          [
+            8.2055766,
+            44.0397568
+          ],
+          [
+            8.2054713,
+            44.0397081
+          ],
+          [
+            8.2053453,
+            44.0396849
+          ],
+          [
+            8.2051709,
+            44.040032
+          ],
+          [
+            8.205018,
+            44.0402499
+          ],
+          [
+            8.2050153,
+            44.0402846
+          ]
+        ]
+      },
+      "id": "osm-location-of-funeral-monuments-of-the-via",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of funeral monuments of the via Giulia Augusta",
+        "link": "http://pleiades.stoa.org/places/431472222/osm-location-of-funeral-monuments-of-the-via"
+      }
+    }
+  ]
+}

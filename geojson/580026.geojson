@@ -3,20 +3,20 @@
   "title": "Merenda",
   "id": "580026",
   "bbox": [
-    23.966666,
-    37.85,
-    23.966666,
-    37.85
+    23.9474383,
+    37.8543022,
+    23.9492987,
+    37.8554831
   ],
-  "description": "An ancient place, cited: BAtlas 59 C3 Merenda",
+  "description": "A fortified area of indeterminate chronology located on Mount Merenda in Attica.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.966666,
-          37.85
+          23.9483773191,
+          37.8549039025
         ]
       },
       "properties": {
@@ -25,19 +25,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.966666,
-          37.85
+          [
+            23.9488073,
+            37.8550189
+          ],
+          [
+            23.9486056,
+            37.8551494
+          ],
+          [
+            23.9484811,
+            37.855268
+          ],
+          [
+            23.9484253,
+            37.8553781
+          ],
+          [
+            23.9483116,
+            37.8553798
+          ],
+          [
+            23.9481035,
+            37.8554052
+          ],
+          [
+            23.9479125,
+            37.8554831
+          ],
+          [
+            23.9477344,
+            37.8554831
+          ],
+          [
+            23.9475262,
+            37.8553967
+          ],
+          [
+            23.9474383,
+            37.8553001
+          ],
+          [
+            23.9475348,
+            37.8551375
+          ],
+          [
+            23.9477172,
+            37.8550257
+          ],
+          [
+            23.9478867,
+            37.8549122
+          ],
+          [
+            23.9479962,
+            37.8547716
+          ],
+          [
+            23.9481571,
+            37.8546021
+          ],
+          [
+            23.9483116,
+            37.8544937
+          ],
+          [
+            23.9484339,
+            37.8544158
+          ],
+          [
+            23.948582,
+            37.8543531
+          ],
+          [
+            23.9487558,
+            37.8543056
+          ],
+          [
+            23.9489124,
+            37.8543022
+          ],
+          [
+            23.949054,
+            37.8543226
+          ],
+          [
+            23.9491506,
+            37.8543548
+          ],
+          [
+            23.9492343,
+            37.8544141
+          ],
+          [
+            23.9492793,
+            37.8544903
+          ],
+          [
+            23.9492987,
+            37.8545699
+          ],
+          [
+            23.9492321,
+            37.8546716
+          ],
+          [
+            23.9490841,
+            37.8547902
+          ],
+          [
+            23.9488073,
+            37.8550189
+          ]
         ]
       },
-      "id": "darmc-location-21304",
+      "id": "osm-location-of-ii-iiii-iiuiii1-2ii-i",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21304",
-        "link": "http://pleiades.stoa.org/places/580026/darmc-location-21304"
+        "title": "OSM location of Κάστρο Μερέντας",
+        "link": "http://pleiades.stoa.org/places/580026/osm-location-of-ii-iiii-iiuiii1-2ii-i"
       }
     }
   ]

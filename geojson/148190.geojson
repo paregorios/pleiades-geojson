@@ -9,6 +9,9 @@
     43.369827
   ],
   "description": "An ancient place, cited: BAtlas 15 E3 St-Pierre-les-Martigues",
+  "names": [
+    "St-Pierre-les-Martigues"
+  ],
   "features": [
     {
       "type": "Feature",

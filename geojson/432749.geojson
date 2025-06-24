@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Capo di Sorrento",
+  "title": "Villa Maritima di Capo di Sorrento",
   "id": "432749",
   "bbox": [
     14.3516337,
@@ -9,6 +9,11 @@
     40.6340423
   ],
   "description": "An ancient place, cited: BAtlas 44 F4 Capo di Sorrento",
+  "names": [
+    "Capo di Sorrento",
+    "Regina Giovanna Roman villa",
+    "Villa di Pollio Felice"
+  ],
   "features": [
     {
       "type": "Feature",

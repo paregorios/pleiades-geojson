@@ -9,6 +9,9 @@
     45.047609
   ],
   "description": "An ancient place, cited: BAtlas 17 B3 Espaly-St-Marcel",
+  "names": [
+    "Espaly-St-Marcel"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Istone (mountain)",
   "id": "530903",
   "bbox": [
-    19.8725,
-    39.7483333,
-    19.8725,
-    39.7483333
+    19.8720777,
+    39.7480584,
+    19.8720777,
+    39.7480584
   ],
   "description": "A mountain, probably Pantokrator (in the northern part of Kerkyra).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.8725,
-          39.7483333
+          19.8720777,
+          39.7480584
         ]
       },
       "properties": {
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.8725,
-          39.7483333
+          19.8720777,
+          39.7480584
         ]
       },
       "id": "osm-location-of-pantokrator-peak",

@@ -9,6 +9,9 @@
     43.128429
   ],
   "description": "The environs of Corciano were inhabited by Etruscans and, later, there is evidence for Roman villas. In 1812, a series of bronze panels from an Etruscan parade chariot was discovered at Castel San Mariano di Corciano.",
+  "names": [
+    "Corciano"
+  ],
   "features": [
     {
       "type": "Feature",

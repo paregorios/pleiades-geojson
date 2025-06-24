@@ -3,20 +3,23 @@
   "title": "Monte Bignone",
   "id": "157886",
   "bbox": [
-    7.736717,
-    43.871355,
-    7.736717,
-    43.871355
+    7.7337497,
+    43.8734276,
+    7.7340158,
+    43.8735863
   ],
-  "description": "An ancient place, cited: BAtlas 16 E2 Monte Bignone",
+  "description": "Monte Bignone in Liguria is the site of a 'castellaro', a fortified hilltop settlement of Iron Age Ligurian peoples. The fortification is generally dated to the sixth century BCE.",
+  "names": [
+    "Monte Bignone"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.736717,
-          43.871355
+          7.73388934783,
+          43.873496088
         ]
       },
       "properties": {
@@ -25,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          7.736717,
-          43.871355
+          [
+            7.7337622,
+            43.8734276
+          ],
+          [
+            7.7340046,
+            43.8734276
+          ],
+          [
+            7.7340158,
+            43.8735572
+          ],
+          [
+            7.7338514,
+            43.8735863
+          ],
+          [
+            7.7337956,
+            43.8735572
+          ],
+          [
+            7.7337497,
+            43.8734749
+          ],
+          [
+            7.7337622,
+            43.8734276
+          ]
         ]
       },
-      "id": "darmc-location-16708",
+      "id": "osm-location-of-castellaro-di-monte-bignone",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16708",
-        "link": "http://pleiades.stoa.org/places/157886/darmc-location-16708"
+        "title": "OSM location of Castellaro di Monte Bignone",
+        "link": "http://pleiades.stoa.org/places/157886/osm-location-of-castellaro-di-monte-bignone"
       }
     }
   ]

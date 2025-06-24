@@ -9,6 +9,9 @@
     43.857059
   ],
   "description": "An ancient settlement at Monte Colma in Italy, ancient name unknown (BAtlas 16 E2 Monte Colma).",
+  "names": [
+    "Monte Colma"
+  ],
   "features": [
     {
       "type": "Feature",

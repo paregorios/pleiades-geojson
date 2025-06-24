@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ruínas romanas das Carvalheiras",
+  "id": "272879822",
+  "bbox": [
+    -8.4306795,
+    41.5479548,
+    -8.4299977,
+    41.5485921
+  ],
+  "description": "An archaeological site at Braga located close to the forum of the ancient city that preserves remains of domestic architecture dating from the first century BCE until the fifth century CE.",
+  "connectsWith": [
+    "236377"
+  ],
+  "names": [
+    "Carvalheiras Roman ruins"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.43036649386,
+          41.548285434
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.430183,
+            41.548488
+          ],
+          [
+            -8.430319,
+            41.5485921
+          ],
+          [
+            -8.4303362,
+            41.5485819
+          ],
+          [
+            -8.4304619,
+            41.5484935
+          ],
+          [
+            -8.4305191,
+            41.5484593
+          ],
+          [
+            -8.4306256,
+            41.5485648
+          ],
+          [
+            -8.4306795,
+            41.5485458
+          ],
+          [
+            -8.4306426,
+            41.5482725
+          ],
+          [
+            -8.4306303,
+            41.5481508
+          ],
+          [
+            -8.4306198,
+            41.5480466
+          ],
+          [
+            -8.4305929,
+            41.5479548
+          ],
+          [
+            -8.4304655,
+            41.5479744
+          ],
+          [
+            -8.4303351,
+            41.5480232
+          ],
+          [
+            -8.4302393,
+            41.5480348
+          ],
+          [
+            -8.4302255,
+            41.5480365
+          ],
+          [
+            -8.4301773,
+            41.5480426
+          ],
+          [
+            -8.4301621,
+            41.5480445
+          ],
+          [
+            -8.4300289,
+            41.5480917
+          ],
+          [
+            -8.4300037,
+            41.5481283
+          ],
+          [
+            -8.4299977,
+            41.5481902
+          ],
+          [
+            -8.4300354,
+            41.5483542
+          ],
+          [
+            -8.4300933,
+            41.5485052
+          ],
+          [
+            -8.430112,
+            41.5484927
+          ],
+          [
+            -8.430137,
+            41.548476
+          ],
+          [
+            -8.4301532,
+            41.5484652
+          ],
+          [
+            -8.430183,
+            41.548488
+          ]
+        ]
+      },
+      "id": "osm-location-of-ruanas-romanas-das-carvalheiras",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ruínas romanas das Carvalheiras",
+        "link": "http://pleiades.stoa.org/places/272879822/osm-location-of-ruanas-romanas-das-carvalheiras"
+      }
+    }
+  ]
+}

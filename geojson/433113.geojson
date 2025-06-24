@@ -2,68 +2,20 @@
   "type": "FeatureCollection",
   "title": "Sebethus (river)",
   "id": "433113",
-  "bbox": [
-    14.0,
-    40.5,
-    14.5,
-    41.0
-  ],
-  "description": "An ancient place, cited: BAtlas 44 F4 Sebethus fl.",
+  "description": "Sebethus fl., a one-time river of the Bay of Naples region that is now channelized.",
   "connectsWith": [
     "1356"
   ],
   "names": [
+    "Sebethos",
     "Sebethus"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.25,
-          40.75
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14.0,
-              40.5
-            ],
-            [
-              14.0,
-              41.0
-            ],
-            [
-              14.5,
-              41.0
-            ],
-            [
-              14.5,
-              40.5
-            ],
-            [
-              14.0,
-              40.5
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/433113/batlas-location"
       }
     }
   ]

@@ -9,6 +9,9 @@
     43.941769
   ],
   "description": "A pre-Roman and Gallo-Roman sanctuary at the locality called l'Ermitage de Notre-Dame-de-Laval.",
+  "names": [
+    "Notre-Dame-de-Laval"
+  ],
   "features": [
     {
       "type": "Feature",

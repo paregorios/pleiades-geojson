@@ -9,6 +9,9 @@
     43.95287
   ],
   "description": "An ancient necropolis documented during rescue excavation in the early 1970s at a location known as Font-du-Buis or La Fontaine du Buis between Saze and Avingon in Gard, France.",
+  "names": [
+    "Font-du-Buis"
+  ],
   "features": [
     {
       "type": "Feature",

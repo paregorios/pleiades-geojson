@@ -8,14 +8,15 @@
     -2.6761583,
     51.0038398
   ],
-  "description": "An ancient place, cited: BAtlas 8 E4 Lindinis",
+  "description": "A Roman fort is thought to have been established at Lindinis (modern Ilchester) ca. 60 CE. The site protected the crossing of the Fosse Way over the River Yeo. The settlement developed in phases from the first to the fourth centuries CE. It was eventually one of only two known settlements with a stone wall in the territory of the Durotriges. The inhabitants of the town seem to have been reasonably wealthy, as a number of domestic complexes have fine mosaic pavements.",
   "connectsWith": [
     "656280677",
     "79438",
     "651820395"
   ],
   "names": [
-    "Lindinis"
+    "Lindinis",
+    "Ilchester"
   ],
   "features": [
     {

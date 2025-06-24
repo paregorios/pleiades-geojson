@@ -3,13 +3,14 @@
   "title": "Panetelle",
   "id": "433012",
   "bbox": [
-    13.915227,
-    41.093134,
-    13.915227,
-    41.093134
+    13.9039572,
+    41.0971926,
+    13.9044033,
+    41.0974987
   ],
-  "description": "An ancient place, cited: BAtlas 44 E3 Panetelle",
+  "description": "A sanctuary with votive deposits dating to the Hellenistic period at Panetelle di Mondragone.",
   "names": [
+    "Santuario di Panetelle (Mondragone",
     "Panetelle"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.915227,
-          41.093134
+          13.9041686217,
+          41.0973369406
         ]
       },
       "properties": {
@@ -28,19 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.915227,
-          41.093134
+          [
+            13.9042041,
+            41.0974987
+          ],
+          [
+            13.9044033,
+            41.0973607
+          ],
+          [
+            13.9039572,
+            41.0971926
+          ],
+          [
+            13.9040687,
+            41.0973667
+          ],
+          [
+            13.9042041,
+            41.0974987
+          ]
         ]
       },
-      "id": "darmc-location-20619",
+      "id": "osm-location-of-tempio-di-panetelle-mondragone",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20619",
-        "link": "http://pleiades.stoa.org/places/433012/darmc-location-20619"
+        "title": "OSM location of Tempio di Panetelle-Mondragone",
+        "link": "http://pleiades.stoa.org/places/433012/osm-location-of-tempio-di-panetelle-mondragone"
       }
     }
   ]

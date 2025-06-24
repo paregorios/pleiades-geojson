@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa romana del Torchio",
+  "id": "217816181",
+  "bbox": [
+    14.1090061,
+    40.8779036,
+    14.1095727,
+    40.8784489
+  ],
+  "description": "A Roman \"villa rustica\" with an olive-oil press (torcularium, hence \"Torchio\") was discovered in 2006.",
+  "connectsWith": [
+    "432633"
+  ],
+  "names": [
+    "Villa romana del Torchio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1093088382,
+          40.8781633668
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1090061,
+            40.8780817
+          ],
+          [
+            14.1093299,
+            40.8784489
+          ],
+          [
+            14.1094439,
+            40.8783988
+          ],
+          [
+            14.1095727,
+            40.8781429
+          ],
+          [
+            14.1093704,
+            40.8779036
+          ],
+          [
+            14.1090061,
+            40.8780817
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romana-del-torchio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa romana del Torchio",
+        "link": "http://pleiades.stoa.org/places/217816181/osm-location-of-villa-romana-del-torchio"
+      }
+    }
+  ]
+}

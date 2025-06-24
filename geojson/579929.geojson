@@ -8,10 +8,13 @@
     23.958426,
     38.005234
   ],
-  "description": "An ancient place, cited: BAtlas 59 C2 Etosi",
+  "description": "Remains of a Hellenistic fortification located on the Etosi hill southeast of Pikermi in Attica.",
   "connectsWith": [
     "580115",
     "579888"
+  ],
+  "names": [
+    "Etosi"
   ],
   "features": [
     {
@@ -38,7 +41,7 @@
       "id": "darmc-location-22732",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22732",
         "link": "http://pleiades.stoa.org/places/579929/darmc-location-22732"

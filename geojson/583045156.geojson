@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basílica de Santa Eulalia",
+  "id": "583045156",
+  "bbox": [
+    -6.3423673,
+    38.920538,
+    -6.3415946,
+    38.9209373
+  ],
+  "description": "The Basílica de Santa Eulalia is a paleochristian site that is included as part of the UNESCO World Heritage Site \"Archaeological Ensemble of Mérida\". The early Christian features were superimposed upon previous, preexisting Roman features.",
+  "connectsWith": [
+    "256155"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34192858078,
+          38.9207910411
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.342342,
+            38.9205513
+          ],
+          [
+            -6.3420826,
+            38.9205618
+          ],
+          [
+            -6.341844,
+            38.9205715
+          ],
+          [
+            -6.3418418,
+            38.920538
+          ],
+          [
+            -6.3416388,
+            38.9205463
+          ],
+          [
+            -6.3416445,
+            38.9206319
+          ],
+          [
+            -6.3415946,
+            38.9206353
+          ],
+          [
+            -6.3416069,
+            38.9207277
+          ],
+          [
+            -6.3416901,
+            38.9207275
+          ],
+          [
+            -6.3417029,
+            38.9207516
+          ],
+          [
+            -6.3417046,
+            38.9207917
+          ],
+          [
+            -6.3417831,
+            38.9207897
+          ],
+          [
+            -6.3418095,
+            38.9207891
+          ],
+          [
+            -6.3418118,
+            38.9208454
+          ],
+          [
+            -6.341848,
+            38.9208445
+          ],
+          [
+            -6.3418508,
+            38.9209127
+          ],
+          [
+            -6.341818,
+            38.9209135
+          ],
+          [
+            -6.341819,
+            38.9209373
+          ],
+          [
+            -6.3419083,
+            38.920935
+          ],
+          [
+            -6.3421385,
+            38.9209258
+          ],
+          [
+            -6.3421311,
+            38.9208136
+          ],
+          [
+            -6.3422705,
+            38.920808
+          ],
+          [
+            -6.3422788,
+            38.9209338
+          ],
+          [
+            -6.3423673,
+            38.9209302
+          ],
+          [
+            -6.342342,
+            38.9205513
+          ]
+        ]
+      },
+      "id": "basalica-de-santa-eulalia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basílica de Santa Eulalia",
+        "link": "http://pleiades.stoa.org/places/583045156/basalica-de-santa-eulalia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.341848,
+          38.9208445
+        ]
+      },
+      "id": "osm-location-of-cripta-de-santa-eulalia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cripta de Santa Eulalia",
+        "link": "http://pleiades.stoa.org/places/583045156/osm-location-of-cripta-de-santa-eulalia"
+      }
+    }
+  ]
+}

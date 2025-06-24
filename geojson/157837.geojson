@@ -92,13 +92,13 @@
           ]
         ]
       },
-      "id": "costa-balenae-archaeological-area",
+      "id": "osm-location-costa-balenae-archaeological-area",
       "type": "Feature",
       "properties": {
         "description": "Remains of Early Christian baptistery and church. Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Costa Balenae archaeological area",
-        "link": "http://pleiades.stoa.org/places/157837/costa-balenae-archaeological-area"
+        "title": "OSM Location: Costa Balenae archaeological area",
+        "link": "http://pleiades.stoa.org/places/157837/osm-location-costa-balenae-archaeological-area"
       }
     }
   ]

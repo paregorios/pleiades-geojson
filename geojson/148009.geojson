@@ -9,6 +9,9 @@
     43.299119
   ],
   "description": "An ancient place, cited: BAtlas 15 E3 Baou-de-St-Marcel",
+  "names": [
+    "Baou-de-St-Marcel"
+  ],
   "features": [
     {
       "type": "Feature",

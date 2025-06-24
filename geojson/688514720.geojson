@@ -3,20 +3,20 @@
   "title": "Via Claudia Augusta",
   "id": "688514720",
   "bbox": [
-    10.894765,
+    10.5102433,
     45.070242,
     12.2206508,
     48.365463
   ],
-  "description": "The Via Claudia Augusta was a Roman road that traversed the Alps, connecting the Po river valley to Rhaetia. It was begun by Claudius in AD 46/7.",
+  "description": "The Via Claudia Augusta was a Roman road that traversed the Alps, connecting the Po River valley to Rhaetia. It was begun by Claudius in AD 46/7.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.2466331143,
-          46.7479236571
+          11.11698197,
+          46.812605525
         ]
       },
       "properties": {

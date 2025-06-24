@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "title": "Termas Romanas do Alto da Cividade",
+  "id": "500039989",
+  "bbox": [
+    -8.4298216,
+    41.5460255,
+    -8.4290443,
+    41.5464375
+  ],
+  "description": "A monumental public bath (thermae) at Braga, dating from the first to third centuries CE.",
+  "connectsWith": [
+    "236377"
+  ],
+  "names": [
+    "Roman Thermae of Maximinus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.42951197325,
+          41.54622505
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              -8.4298216,
+              41.5463734
+            ],
+            [
+              -8.4297783,
+              41.5463832
+            ],
+            [
+              -8.4295388,
+              41.5464375
+            ],
+            [
+              -8.4294327,
+              41.5461751
+            ],
+            [
+              -8.4297155,
+              41.5461111
+            ],
+            [
+              -8.4297534,
+              41.5462049
+            ],
+            [
+              -8.4297907,
+              41.5461964
+            ],
+            [
+              -8.429808,
+              41.5462391
+            ],
+            [
+              -8.4297707,
+              41.5462476
+            ],
+            [
+              -8.4298216,
+              41.5463734
+            ]
+          ],
+          [
+            [
+              -8.4290795,
+              41.5461338
+            ],
+            [
+              -8.4290443,
+              41.5460467
+            ],
+            [
+              -8.4291383,
+              41.5460255
+            ],
+            [
+              -8.4291643,
+              41.5460897
+            ],
+            [
+              -8.4291391,
+              41.5460954
+            ],
+            [
+              -8.4291483,
+              41.5461182
+            ],
+            [
+              -8.4290795,
+              41.5461338
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-termas-romanas-do-alto-da-cividade",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Termas Romanas do Alto da Cividade",
+        "link": "http://pleiades.stoa.org/places/500039989/osm-location-of-termas-romanas-do-alto-da-cividade"
+      }
+    }
+  ]
+}

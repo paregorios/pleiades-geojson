@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Windmill Hill",
+  "id": "491494714",
+  "bbox": [
+    1.033588,
+    52.004284,
+    1.033588,
+    52.004284
+  ],
+  "description": "There are remains of a Roman villa at Windmill Hill. Artifact evidence indicates human activity from the second century until the late fourth century CE. The site was also likely occupied earlier in the Iron Age.",
+  "connectsWith": [
+    "656280677"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.033588,
+          52.004284
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.033588,
+          52.004284
+        ]
+      },
+      "id": "vici-org-location-of-windmill-hill-roman-villa",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Windmill Hill Roman Villa",
+        "link": "http://pleiades.stoa.org/places/491494714/vici-org-location-of-windmill-hill-roman-villa"
+      }
+    }
+  ]
+}
