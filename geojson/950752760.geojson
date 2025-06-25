@@ -1,13 +1,13 @@
 {
   "type": "FeatureCollection",
-  "title": "tribus Esquilina",
-  "id": "134485260",
-  "description": "The tribus Esquilina was one of the four urban tribes of Rome, which were reportedly created under the reign of Servius Tullius.",
+  "title": "Teleda",
+  "id": "950752760",
+  "description": "A place in Asia included on the Peutinger map that is located east of the Maiotis (Sea of Azov).",
   "connectsWith": [
-    "423025"
+    "392731205"
   ],
   "names": [
-    "Esquilina"
+    "Teleda"
   ],
   "features": [
     {

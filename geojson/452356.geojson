@@ -3,14 +3,15 @@
   "title": "Lacinium (promontory)",
   "id": "452356",
   "bbox": [
-    17.2025534,
-    39.0242001,
-    17.2025534,
-    39.0242001
+    17.2010063,
+    39.0251669,
+    17.2010063,
+    39.0251669
   ],
   "description": "The Capo Colonna, the ancient Promunturium Lacinium, is a cape of Calabria located near Crotone.",
   "connectsWith": [
-    "455286"
+    "455286",
+    "452293"
   ],
   "names": [
     "Promunturium Lacinium",
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.2025534,
-          39.0242001
+          17.2010063,
+          39.0251669
         ]
       },
       "properties": {
@@ -34,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.2025534,
-          39.0242001
+          17.2010063,
+          39.0251669
         ]
       },
       "id": "location-of-Lacinium-Pr",

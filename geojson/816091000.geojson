@@ -14,6 +14,9 @@
     "422863",
     "753239987"
   ],
+  "names": [
+    "Ara Pacis Augustae"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -36,13 +39,13 @@
           41.9028424
         ]
       },
-      "id": "original-position-of-the-ara-pacis",
+      "id": "imagery-location-original-position-of-the-ara-pacis",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Original position of the Ara Pacis",
-        "link": "http://pleiades.stoa.org/places/816091000/original-position-of-the-ara-pacis"
+        "title": "Imagery Location: Original position of the Ara Pacis",
+        "link": "http://pleiades.stoa.org/places/816091000/imagery-location-original-position-of-the-ara-pacis"
       }
     }
   ]

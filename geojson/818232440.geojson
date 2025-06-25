@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lezela?",
+  "id": "818232440",
+  "description": "A place on the Peutinger map whose name can now be read as [..]ezela; Miller reconstructed \"Lezela\", about which Talbert expresses doubts.",
+  "connectsWith": [
+    "884889"
+  ],
+  "names": [
+    "[..]ezela",
+    "Lezela"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

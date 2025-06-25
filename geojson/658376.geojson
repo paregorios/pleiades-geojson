@@ -10,7 +10,8 @@
   ],
   "description": "A mountain range located along the Cilician-Syrian border. Today known as the Nur Daǧları.",
   "connectsWith": [
-    "930907033"
+    "930907033",
+    "981514"
   ],
   "names": [
     "mons Amanus",
@@ -39,13 +40,13 @@
           36.75
         ]
       },
-      "id": "location-of-amanus-m",
+      "id": "imagery-location-of-amanus-m",
       "type": "Feature",
       "properties": {
         "description": "verified in Google Earth 2013.",
         "location_precision": "precise",
-        "title": "location of Amanus M.",
-        "link": "http://pleiades.stoa.org/places/658376/location-of-amanus-m"
+        "title": "Imagery location of Amanus M.",
+        "link": "http://pleiades.stoa.org/places/658376/imagery-location-of-amanus-m"
       }
     }
   ]

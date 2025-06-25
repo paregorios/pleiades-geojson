@@ -9,7 +9,12 @@
     33.982327
   ],
   "description": "An ancient place, cited: BAtlas 69 C2 Palaibyblos",
+  "connectsWith": [
+    "668180"
+  ],
   "names": [
+    "Palaibyblos",
+    "Balbyblos",
     "Palaibyblos"
   ],
   "features": [

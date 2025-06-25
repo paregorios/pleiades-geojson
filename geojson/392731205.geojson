@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Philado",
+  "id": "392731205",
+  "description": "Philado is a place included on the Peutinger map. It should be near Kyropolis (Rasht), which in modern geographical terms places it in Azerbaijan (Albania).",
+  "connectsWith": [
+    "884889"
+  ],
+  "names": [
+    "Philado"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

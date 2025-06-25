@@ -8,7 +8,10 @@
     -2.259594,
     51.504169
   ],
-  "description": "An ancient place, cited: BAtlas 8 E3 Nettleton",
+  "description": "A significant cult center at Nettleton Shrub in Wiltshire was dedicated to Apollo Cunomaglus.",
+  "names": [
+    "Nettleton"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -10,7 +10,8 @@
   ],
   "description": "The North Sea.",
   "names": [
-    "Germanicum Mare"
+    "Germanicum Mare",
+    "Germanikos Okeanos"
   ],
   "features": [
     {
@@ -34,13 +35,13 @@
           56
         ]
       },
-      "id": "location-of-germanicum-mare",
+      "id": "geohack-location-of-germanicum-mare",
       "type": "Feature",
       "properties": {
         "description": "coordinates after GeoHack.",
         "location_precision": "precise",
-        "title": "location of Germanicum Mare",
-        "link": "http://pleiades.stoa.org/places/20469/location-of-germanicum-mare"
+        "title": "Geohack location of Germanicum Mare",
+        "link": "http://pleiades.stoa.org/places/20469/geohack-location-of-germanicum-mare"
       }
     }
   ]

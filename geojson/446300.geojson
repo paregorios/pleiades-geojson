@@ -3,6 +3,9 @@
   "title": "Turiostu",
   "id": "446300",
   "description": "An ancient place, cited: BAtlas 45 unlocated Turiostu",
+  "connectsWith": [
+    "452333"
+  ],
   "names": [
     "Turiostu"
   ],
