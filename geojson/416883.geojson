@@ -2,12 +2,6 @@
   "type": "FeatureCollection",
   "title": "Via Quinctia",
   "id": "416883",
-  "bbox": [
-    10.546805,
-    43.676629,
-    10.546805,
-    43.676629
-  ],
   "description": "An ancient place, cited: BAtlas 42 unlocated Via Quinctia",
   "names": [
     "Via Quinctia"
@@ -15,13 +9,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.546805,
-          43.676629
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
       }

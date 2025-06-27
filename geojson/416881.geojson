@@ -3,6 +3,9 @@
   "title": "Vesidia (river)",
   "id": "416881",
   "description": "An ancient place, cited: BAtlas 42 unlocated Vesidia fl.",
+  "connectsWith": [
+    "409244"
+  ],
   "names": [
     "Vesidia"
   ],

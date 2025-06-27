@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Magnesia Theater 2",
+  "id": "797121904",
+  "bbox": [
+    27.5242847,
+    37.8472997,
+    27.5251991,
+    37.847772
+  ],
+  "description": "One of two theaters found at Magnesia on the Maeander, this so-called \"theatron\" was built in the late Hellenistic or early Imperial period and was destroyed by a landslide in antiquity.",
+  "connectsWith": [
+    "599778"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5247408041,
+          37.8475715828
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.5247318,
+            37.8477202
+          ],
+          [
+            27.5251929,
+            37.847772
+          ],
+          [
+            27.5251991,
+            37.8476636
+          ],
+          [
+            27.5251798,
+            37.8475425
+          ],
+          [
+            27.5250905,
+            37.8474178
+          ],
+          [
+            27.5249461,
+            37.8473419
+          ],
+          [
+            27.5247318,
+            37.8472997
+          ],
+          [
+            27.5245032,
+            37.8473422
+          ],
+          [
+            27.5243808,
+            37.8474278
+          ],
+          [
+            27.524303,
+            37.8475495
+          ],
+          [
+            27.5242847,
+            37.8476609
+          ],
+          [
+            27.5242887,
+            37.8477714
+          ],
+          [
+            27.5247318,
+            37.8477202
+          ]
+        ]
+      },
+      "id": "osm-location-magnesia-theater-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Magnesia Theater 2",
+        "link": "http://pleiades.stoa.org/places/797121904/osm-location-magnesia-theater-2"
+      }
+    }
+  ]
+}

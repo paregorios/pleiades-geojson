@@ -9,6 +9,9 @@
     43.926494
   ],
   "description": "An ancient place, cited: BAtlas 42 A1 S. Pier Maggiore",
+  "connectsWith": [
+    "413215"
+  ],
   "features": [
     {
       "type": "Feature",

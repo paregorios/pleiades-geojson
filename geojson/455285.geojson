@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed road segment",
   "id": "455285",
   "bbox": [
-    14.5,
-    37.0,
-    17.5,
-    40.5
+    16.5888393,
+    38.804575,
+    17.128852,
+    39.081572
   ],
-  "description": "Croto(n) → Scylletium",
+  "description": "An unnamed road running from Croto(n) to Scylletium.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0,
-          38.75
+          16.8606992158,
+          38.9446432253
         ]
       },
       "properties": {

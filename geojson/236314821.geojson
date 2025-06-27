@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agora of Magnesia",
+  "id": "236314821",
+  "bbox": [
+    27.5255023,
+    37.8526209,
+    27.5255023,
+    37.8526209
+  ],
+  "description": "Agora of Magnesia on the Maeander",
+  "connectsWith": [
+    "599778"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5255023,
+          37.8526209
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5255023,
+          37.8526209
+        ]
+      },
+      "id": "osm-location-agora-of-magnesia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Agora of Magnesia",
+        "link": "http://pleiades.stoa.org/places/236314821/osm-location-agora-of-magnesia"
+      }
+    }
+  ]
+}

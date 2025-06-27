@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Strozzacapponi necropolis",
+  "id": "337356735",
+  "bbox": [
+    12.3160626,
+    43.0712172,
+    12.3164394,
+    43.0714464
+  ],
+  "description": "The Strozzacapponi necropolis is an assemblage of Etruscan tombs dating from the third to the first centuries BCE. The chamber tomb is the predominant typology. The necropolis is located near Perugia in Umbria.",
+  "connectsWith": [
+    "413248"
+  ],
+  "names": [
+    "necropoli di Strozzacapponi (Perugia - Corciano)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.316248563,
+          43.071334082
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3160626,
+            43.0713328
+          ],
+          [
+            12.3163603,
+            43.0714464
+          ],
+          [
+            12.3164394,
+            43.0713446
+          ],
+          [
+            12.316135,
+            43.0712172
+          ],
+          [
+            12.3160626,
+            43.0713328
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-di-strozzacapponi",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of necropoli di Strozzacapponi (Perugia - Corciano)",
+        "link": "http://pleiades.stoa.org/places/337356735/osm-location-of-necropoli-di-strozzacapponi"
+      }
+    }
+  ]
+}

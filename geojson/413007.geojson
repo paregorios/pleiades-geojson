@@ -3,10 +3,10 @@
   "title": "Albula (river)",
   "id": "413007",
   "bbox": [
-    13.8864067,
-    42.949507,
-    13.8864067,
-    42.949507
+    13.8577398,
+    42.9485521,
+    13.8765084,
+    42.9529255
   ],
   "description": "An ancient place, cited: BAtlas 42 F3 Albula fl.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.8864067,
-          42.949507
+          13.8669277987,
+          42.9500305971
         ]
       },
       "properties": {
@@ -217,7 +217,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Torrente Albula",
+        "title": "OSM location of Torrente Albula",
         "link": "http://pleiades.stoa.org/places/413007/location-of-torrente-albula"
       }
     }

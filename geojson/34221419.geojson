@@ -9,6 +9,9 @@
     43.924167
   ],
   "description": "An Etruscan settlement located in the Mugello valley.",
+  "connectsWith": [
+    "413215"
+  ],
   "features": [
     {
       "type": "Feature",

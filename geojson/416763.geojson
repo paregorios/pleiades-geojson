@@ -3,6 +3,9 @@
   "title": "Ad Aquilam",
   "id": "416763",
   "description": "Ad Aquilam was a Roman road station in North Etruria.",
+  "connectsWith": [
+    "416780"
+  ],
   "names": [
     "Ad Aquilam",
     "Ad Aquileia"

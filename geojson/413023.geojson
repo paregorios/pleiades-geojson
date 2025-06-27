@@ -3,10 +3,10 @@
   "title": "Aquae Apollinares Novae",
   "id": "413023",
   "bbox": [
-    12.2066836,
+    12.2067131,
     42.160443,
     12.208372,
-    42.1645018
+    42.1645396
   ],
   "description": "An ancient place, cited: BAtlas 42 C4 Aquae Apollinares Novae",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2076785965,
-          42.162351812
+          12.2076933465,
+          42.162370712
         ]
       },
       "properties": {

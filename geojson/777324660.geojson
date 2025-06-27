@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Magnesia Theater 1",
+  "id": "777324660",
+  "bbox": [
+    27.525428,
+    37.84997,
+    27.525428,
+    37.84997
+  ],
+  "description": "Renovated during the early Roman imperial period, this theater at Magnesia on the Maeander was located close to the city's agora.",
+  "connectsWith": [
+    "599778"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.525428,
+          37.84997
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.525428,
+          37.84997
+        ]
+      },
+      "id": "imagery-location-magnesia-theater-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to plan published in Theatrum.",
+        "location_precision": "precise",
+        "title": "Imagery Location: Magnesia Theater 1",
+        "link": "http://pleiades.stoa.org/places/777324660/imagery-location-magnesia-theater-1"
+      }
+    }
+  ]
+}
