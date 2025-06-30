@@ -1740,7 +1740,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Chiascio (river)",
+        "title": "OSM location of Chiascio (river)",
         "link": "http://pleiades.stoa.org/places/413089/location-of-chiascio-river"
       }
     }

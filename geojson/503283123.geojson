@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Prata Quinctia",
+  "id": "503283123",
+  "description": "Livy mentions the Prata Quinctia, an area of four iugera believed to have belonged to L. Quinctius Cincinnatus. This area was opposite the Navalia.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "prata Quinctia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

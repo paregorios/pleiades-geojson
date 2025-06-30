@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Via *Quinctia",
+  "id": "43608945",
+  "description": "A road named Via *Quinctia linked Florentia (Firenze) to Pisae (Pisa) in northern Etruria. Its construction is ascribed to the consul Titus Quinctius Flamininus starting in 123 BCE.",
+  "names": [
+    "Via *Quinctia",
+    "Via Quinctia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

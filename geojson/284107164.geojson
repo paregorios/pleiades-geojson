@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Abara",
+  "id": "284107164",
+  "description": "A place included in the Peutinger map.",
+  "connectsWith": [
+    "101900238"
+  ],
+  "names": [
+    "Abara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -9,6 +9,10 @@
     41.414938
   ],
   "description": "An ancient place, cited: BAtlas 44 C3 Clostra (Romana)",
+  "connectsWith": [
+    "835948519",
+    "441075550"
+  ],
   "names": [
     "Clostra Romana",
     "Clostra"

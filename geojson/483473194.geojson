@@ -3,12 +3,12 @@
   "title": "Çatalhöyük",
   "id": "483473194",
   "bbox": [
-    32.8264177,
-    37.6642633,
+    32.8203938,
+    37.6633856,
     32.8300671,
-    37.6687953
+    37.6701458
   ],
-  "description": "A Neolithic and Chalcolithic settlement of southern Anatolia, inabited ca. 7500 B.C. to 5700 B.C. In July 2012, it was inscribed as a UNESCO World Heritage Site.",
+  "description": "A Neolithic and Chalcolithic settlement of southern Anatolia, inhabited ca. 7500 B.C. to 5700 B.C. In July 2012, it was inscribed as a UNESCO World Heritage Site.",
   "names": [
     "Çatal Höyük",
     "Çatal Hüyük"
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.8282892929,
-          37.6670465865
+          32.8268855987,
+          37.6671023262
         ]
       },
       "properties": {

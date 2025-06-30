@@ -9,6 +9,9 @@
     41.5
   ],
   "description": "An ancient place, cited: BAtlas 44 D3 Fossa Neronis",
+  "connectsWith": [
+    "432783"
+  ],
   "names": [
     "Fossa Neronis"
   ],

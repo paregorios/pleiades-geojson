@@ -9,8 +9,12 @@
     42.120528
   ],
   "description": "An ancient place, cited: BAtlas 42 B4 Algae",
+  "connectsWith": [
+    "413282"
+  ],
   "names": [
-    "Algae"
+    "Algae",
+    "Torre Valdaliga"
   ],
   "features": [
     {

@@ -3,6 +3,9 @@
   "title": "Cutiliensis L.",
   "id": "416798",
   "description": "An ancient place, cited: BAtlas 42 unlocated Cutiliensis L.",
+  "connectsWith": [
+    "413115"
+  ],
   "names": [
     "Cutiliensis L."
   ],

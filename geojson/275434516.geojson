@@ -9,6 +9,9 @@
     41.9332402
   ],
   "description": "Remains of a Roman imperial villa incorporated into a post office that later became a hotel.",
+  "connectsWith": [
+    "422831"
+  ],
   "features": [
     {
       "type": "Feature",
