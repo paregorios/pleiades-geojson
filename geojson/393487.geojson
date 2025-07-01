@@ -9,6 +9,9 @@
     44.261368
   ],
   "description": "An ancient place, cited: BAtlas 40 C4 Sabis",
+  "connectsWith": [
+    "393490"
+  ],
   "names": [
     "Sabis"
   ],

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Paquius Proculus",
+  "id": "979105048",
+  "bbox": [
+    14.4894783,
+    40.750161,
+    14.4900171,
+    40.7505409
+  ],
+  "description": "The House of Paquius Proculus at Pompeii, also known as the House of C. Cuspius Pansa, is a domus which was excavated in 1911 and then from 1923 to 1926.",
+  "connectsWith": [
+    "222138654",
+    "433032"
+  ],
+  "names": [
+    "Casa di Paquius Proculus",
+    "I 7.1",
+    "House of Cuspius Pansa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4897562242,
+          40.7503692675
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4895457,
+            40.7505409
+          ],
+          [
+            14.4894783,
+            40.7504975
+          ],
+          [
+            14.4898838,
+            40.750161
+          ],
+          [
+            14.4900171,
+            40.7502496
+          ],
+          [
+            14.4899253,
+            40.7503235
+          ],
+          [
+            14.4898904,
+            40.750354
+          ],
+          [
+            14.4899212,
+            40.7503763
+          ],
+          [
+            14.4898086,
+            40.7505043
+          ],
+          [
+            14.4897326,
+            40.7504622
+          ],
+          [
+            14.4896638,
+            40.7504241
+          ],
+          [
+            14.4895457,
+            40.7505409
+          ]
+        ]
+      },
+      "id": "osm-location-of-house-of-paquius-proculus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of Paquius Proculus",
+        "link": "http://pleiades.stoa.org/places/979105048/osm-location-of-house-of-paquius-proculus"
+      }
+    }
+  ]
+}

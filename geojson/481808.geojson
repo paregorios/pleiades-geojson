@@ -3,10 +3,10 @@
   "title": "Doclea",
   "id": "481808",
   "bbox": [
-    19.264972,
-    42.46828,
-    19.265623,
-    42.468398
+    19.2611873,
+    42.4646753,
+    19.2715383,
+    42.4700806
   ],
   "description": "An ancient place, cited: BAtlas 49 B1 Doclea",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.2652975,
-          42.468339
+          19.2658293087,
+          42.4676925896
         ]
       },
       "properties": {
@@ -28,36 +28,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          19.264972,
-          42.46828
+          [
+            19.2611873,
+            42.4676993
+          ],
+          [
+            19.2613296,
+            42.4655458
+          ],
+          [
+            19.2614557,
+            42.4647814
+          ],
+          [
+            19.2615802,
+            42.4646753
+          ],
+          [
+            19.2618564,
+            42.4647138
+          ],
+          [
+            19.2624841,
+            42.4651141
+          ],
+          [
+            19.2641092,
+            42.4658011
+          ],
+          [
+            19.2650821,
+            42.4659967
+          ],
+          [
+            19.2664106,
+            42.4664302
+          ],
+          [
+            19.2669641,
+            42.4667217
+          ],
+          [
+            19.2695383,
+            42.4675363
+          ],
+          [
+            19.2710033,
+            42.4680659
+          ],
+          [
+            19.2715383,
+            42.4683571
+          ],
+          [
+            19.2708594,
+            42.4689382
+          ],
+          [
+            19.2702078,
+            42.4687545
+          ],
+          [
+            19.2696874,
+            42.4691274
+          ],
+          [
+            19.2693583,
+            42.4696239
+          ],
+          [
+            19.2689017,
+            42.4699322
+          ],
+          [
+            19.2685538,
+            42.4700764
+          ],
+          [
+            19.2681056,
+            42.4700806
+          ],
+          [
+            19.2672257,
+            42.4696877
+          ],
+          [
+            19.2666403,
+            42.4693582
+          ],
+          [
+            19.2649608,
+            42.4691837
+          ],
+          [
+            19.264527,
+            42.4688744
+          ],
+          [
+            19.2627647,
+            42.4690208
+          ],
+          [
+            19.2621378,
+            42.4688585
+          ],
+          [
+            19.2615317,
+            42.4682222
+          ],
+          [
+            19.2611873,
+            42.4676993
+          ]
         ]
       },
-      "id": "darmc-location-12223",
+      "id": "osm-location-of-doclea",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12223",
-        "link": "http://pleiades.stoa.org/places/481808/darmc-location-12223"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.265623,
-          42.468398
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/481808/dare-location"
+        "title": "OSM location of Doclea",
+        "link": "http://pleiades.stoa.org/places/481808/osm-location-of-doclea"
       }
     }
   ]

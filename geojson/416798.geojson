@@ -1,11 +1,8 @@
 {
   "type": "FeatureCollection",
-  "title": "Cutiliensis L.",
+  "title": "Withdrawn: Cutiliensis L.",
   "id": "416798",
-  "description": "An ancient place, cited: BAtlas 42 unlocated Cutiliensis L.",
-  "connectsWith": [
-    "413115"
-  ],
+  "description": "Duplicate inherited from BAtlas/BAtlDir for https://pleiades.stoa.org/places/413115",
   "names": [
     "Cutiliensis L."
   ],
@@ -25,7 +22,7 @@
         "description": null,
         "location_precision": "unlocated",
         "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/416798/batlas-location"
+        "link": "http://pleiades.stoa.org/errata/416798/batlas-location"
       }
     }
   ]

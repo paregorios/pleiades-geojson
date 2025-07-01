@@ -9,14 +9,17 @@
     41.7799369
   ],
   "description": "The Via Severiana was a coastal route running from Ostia to Terracina, a distance of ca. 80 Roman miles.",
+  "names": [
+    "Via Severiana"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4785520425,
-          41.6148285809
+          12.542098465,
+          41.5821679265
         ]
       },
       "properties": {

@@ -3,20 +3,23 @@
   "title": "Desenzano",
   "id": "383634",
   "bbox": [
-    10.5381924,
-    45.4732041,
-    10.5381924,
-    45.4732041
+    10.5382608,
+    45.472984,
+    10.5382608,
+    45.472984
   ],
   "description": "At Desenzano, in the province of Lombardia, the remains of a Roman villa dating to the mid-fourth century A.D. were here. The structure is axial and palatial in its nature. Its decorative program includes polychrome mosaic pavements. It is noted for mosaic scenes featuring the Good Shepherd.",
+  "connectsWith": [
+    "383587"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5381924,
-          45.4732041
+          10.5382608,
+          45.472984
         ]
       },
       "properties": {

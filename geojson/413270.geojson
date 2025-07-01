@@ -9,6 +9,9 @@
     42.466552
   ],
   "description": "An ancient place, cited: BAtlas 42 D4 Ponte Capo d’Acqua",
+  "names": [
+    "Ponte Capo d’Acqua"
+  ],
   "features": [
     {
       "type": "Feature",

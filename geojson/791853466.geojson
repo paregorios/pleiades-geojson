@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman forum of Sarsina",
+  "id": "791853466",
+  "bbox": [
+    12.1425487,
+    43.9193512,
+    12.1428474,
+    43.9195599
+  ],
+  "description": "The Roman forum of Sarsina has been excavated in its northern reaches.",
+  "connectsWith": [
+    "413306"
+  ],
+  "names": [
+    "Roman forum of Sarsina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1426983446,
+          43.9194557695
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1426596,
+            43.9193512
+          ],
+          [
+            12.1428474,
+            43.9194434
+          ],
+          [
+            12.14274,
+            43.9195599
+          ],
+          [
+            12.1425487,
+            43.9194684
+          ],
+          [
+            12.1426596,
+            43.9193512
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-settentrionale-del-foro",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area settentrionale del foro romano",
+        "link": "http://pleiades.stoa.org/places/791853466/osm-location-of-area-settentrionale-del-foro"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Fossa Philistina",
   "id": "397893",
   "description": "An ancient place, cited: BAtlas 40 unlocated Fossa Philistina",
+  "connectsWith": [
+    "393436"
+  ],
   "names": [
     "Fossa Philistina"
   ],

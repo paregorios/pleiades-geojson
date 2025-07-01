@@ -9,6 +9,9 @@
     43.9186355686
   ],
   "description": "An ancient place, cited: BAtlas 42 B1 Sappinates?",
+  "connectsWith": [
+    "393490"
+  ],
   "names": [
     "Sappinates",
     "Sapinia Tribus"

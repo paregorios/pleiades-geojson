@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Capitolium of Sarsina",
+  "id": "791853467",
+  "bbox": [
+    12.1428303,
+    43.9199571,
+    12.1428303,
+    43.9199571
+  ],
+  "description": "The remains of a first-century BCE temple podium discovered at Sarsina have been identified as the Roman settlement's Capitolium.",
+  "connectsWith": [
+    "413306"
+  ],
+  "names": [
+    "Tempio tripartito romano (Capitolium)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1428303,
+          43.9199571
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1428303,
+          43.9199571
+        ]
+      },
+      "id": "osm-location-of-tempio-tripartito-romano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tempio tripartito romano (Capitolium)",
+        "link": "http://pleiades.stoa.org/places/791853467/osm-location-of-tempio-tripartito-romano"
+      }
+    }
+  ]
+}
