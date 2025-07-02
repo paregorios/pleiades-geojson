@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Venetian Lagoon",
+  "id": "480318651",
+  "bbox": [
+    12.25136,
+    45.3662,
+    12.25136,
+    45.3662
+  ],
+  "description": "The Venetian Lagoon or Laguna di Venezia refers to an enclosed body of water that is linked to the northern Adriatic Sea by three inlets. This body of water is what remains of what was once a system of estuarine lagoons extending from Ravenna as far north as Trieste.",
+  "connectsWith": [
+    "1004"
+  ],
+  "names": [
+    "Venetian Lagoon",
+    "Laguna di Venezia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25136,
+          45.3662
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.25136,
+          45.3662
+        ]
+      },
+      "id": "geonames-location-of-venetian-lagoon",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point following GeoNames",
+        "location_precision": "precise",
+        "title": "GeoNames location of Venetian Lagoon",
+        "link": "http://pleiades.stoa.org/places/480318651/geonames-location-of-venetian-lagoon"
+      }
+    }
+  ]
+}

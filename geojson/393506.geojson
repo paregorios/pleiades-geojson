@@ -9,6 +9,9 @@
     45.496601
   ],
   "description": "An ancient place, cited: BAtlas 40 C2 [Torcellum]",
+  "connectsWith": [
+    "883949385"
+  ],
   "names": [
     "Torcellum"
   ],

@@ -8,7 +8,10 @@
     7.8825464,
     44.6610179
   ],
-  "description": "An ancient place, cited: BAtlas 39 A5 Stura fl.",
+  "description": "Stura di Demonte is a tributary of the Tanaro River, which in turn is a tributary of the River Po. It flows from the Alps and joins the Tanaro east of Cherasco.",
+  "connectsWith": [
+    "383790"
+  ],
   "names": [
     "Stura"
   ],

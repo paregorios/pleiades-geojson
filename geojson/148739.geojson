@@ -3,10 +3,10 @@
   "title": "Unnamed aqueducts",
   "id": "148739",
   "bbox": [
-    4.5,
-    43.5,
-    5.0,
-    44.0
+    4.630799,
+    43.677616,
+    4.630799,
+    43.677616
   ],
   "description": "unnamed aqueduct group at Arelate",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.75,
-          43.75
+          4.630799,
+          43.677616
         ]
       },
       "properties": {

@@ -8,12 +8,14 @@
     12.4004935,
     45.546422
   ],
-  "description": "Altinum was the capital of the Veneti of northern Italy. The site was destroyed by Attila in AD 452.",
+  "description": "Altinum was the capital of the Veneti of northern Italy. The site was destroyed by Attila in 452 CE.",
   "connectsWith": [
-    "932949218"
+    "932949218",
+    "792893804"
   ],
   "names": [
-    "Altinum"
+    "Altinum",
+    "Altino"
   ],
   "features": [
     {

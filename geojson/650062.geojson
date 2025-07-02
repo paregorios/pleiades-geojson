@@ -3,10 +3,10 @@
   "title": "Taşköprü",
   "id": "650062",
   "bbox": [
-    35.3365823,
-    36.9864202,
-    35.3365823,
-    36.9864202
+    35.3334148,
+    36.9861126,
+    35.3366503,
+    36.9864223
   ],
   "description": "A large Roman bridge at Adana in the modern country of Turkey. It spans the Psaros/Sinarus/Koiranos river (modern Seyhan).",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.3365823,
-          36.9864202
+          35.33503255,
+          36.98626745
         ]
       },
       "properties": {

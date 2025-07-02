@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cathedral of Santa Maria Assunta",
+  "id": "994641372",
+  "bbox": [
+    12.4190171,
+    45.4981436,
+    12.4196226,
+    45.4985246
+  ],
+  "description": "The Cathedral of Santa Maria Assunta on the island of Torcello is a Roman Catholic basilica initially founded in 639. The second basilica was begun in 1008.",
+  "connectsWith": [
+    "883949385"
+  ],
+  "names": [
+    "Basilica di Santa Maria Assunta (Torcello)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4193245568,
+          45.4983329763
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4195086,
+            45.498211
+          ],
+          [
+            12.4194518,
+            45.4981436
+          ],
+          [
+            12.4190171,
+            45.4983096
+          ],
+          [
+            12.4191746,
+            45.4985246
+          ],
+          [
+            12.4196226,
+            45.4983633
+          ],
+          [
+            12.4195602,
+            45.4982814
+          ],
+          [
+            12.4195753,
+            45.4982638
+          ],
+          [
+            12.4195726,
+            45.4982507
+          ],
+          [
+            12.4195646,
+            45.4982356
+          ],
+          [
+            12.4195512,
+            45.4982243
+          ],
+          [
+            12.4195324,
+            45.4982168
+          ],
+          [
+            12.4195086,
+            45.498211
+          ]
+        ]
+      },
+      "id": "osm-location-of-cathedral-of-santa-maria-assunta",
+      "type": "Feature",
+      "properties": {
+        "description": "Representatice location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cathedral of Santa Maria Assunta",
+        "link": "http://pleiades.stoa.org/places/994641372/osm-location-of-cathedral-of-santa-maria-assunta"
+      }
+    }
+  ]
+}
