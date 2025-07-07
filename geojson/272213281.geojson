@@ -3,14 +3,15 @@
   "title": "Via Tiburtina",
   "id": "272213281",
   "bbox": [
-    12.501361,
-    41.895779,
+    12.5013266,
+    41.8957242,
     12.79818,
     41.963602
   ],
   "description": "An ancient road heading east-northeast from Rome to Tibur.",
   "names": [
-    "via Tiburtina"
+    "via Tiburtina",
+    "Via Tyburtina"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6287847722,
-          41.9387661881
+          12.6296037071,
+          41.9393598386
         ]
       },
       "properties": {

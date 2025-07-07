@@ -5,18 +5,21 @@
   "bbox": [
     -8.9313708,
     42.4775873,
-    -8.9313708,
-    42.4775873
+    -8.9305301,
+    42.4778389
   ],
   "description": "The remains of a Roman villa and necropolis.",
+  "names": [
+    "Adro Vello"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.9313708,
-          42.4775873
+          -8.93095916088,
+          42.4777138011
         ]
       },
       "properties": {

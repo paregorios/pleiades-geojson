@@ -2,12 +2,6 @@
   "type": "FeatureCollection",
   "title": "tribus Poblilia",
   "id": "964333742",
-  "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
-  ],
   "description": "Tribus Poblilia was a later rural tribe of Rome, which was established in 358 B.C.",
   "connectsWith": [
     "432900",
@@ -19,13 +13,7 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.486137,
-          41.891775
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
       }

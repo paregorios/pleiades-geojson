@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "title": "Asklepieion at Zea",
+  "id": "346004679",
+  "bbox": [
+    23.652475,
+    37.9363871,
+    23.6539347,
+    37.937454
+  ],
+  "description": "A sanctuary of Asklepios above Zea harbour in Piraeus, founded in the late 5th century BC and active through the Imperial period. Sections of the sanctuary were explored archaeologically in the 1880s and 2000s.",
+  "connectsWith": [
+    "580136",
+    "580062"
+  ],
+  "names": [
+    "Asklēpieion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6531139885,
+          37.9369820699
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.652475,
+          37.937454
+        ]
+      },
+      "id": "osm-intersection-of-siraggiou-and-clemenceau",
+      "type": "Feature",
+      "properties": {
+        "description": "Rough site of 1880s excavations, according to Lamont 2015",
+        "location_precision": "precise",
+        "title": "OSM: intersection of Siraggiou and Clemenceau",
+        "link": "http://pleiades.stoa.org/places/346004679/osm-intersection-of-siraggiou-and-clemenceau"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.6537247,
+            37.9363871
+          ],
+          [
+            23.65364,
+            37.936413
+          ],
+          [
+            23.6535661,
+            37.9365545
+          ],
+          [
+            23.653706,
+            37.9365999
+          ],
+          [
+            23.653723,
+            37.9366323
+          ],
+          [
+            23.6537572,
+            37.9366434
+          ],
+          [
+            23.6537831,
+            37.9365939
+          ],
+          [
+            23.6538494,
+            37.9366171
+          ],
+          [
+            23.6538643,
+            37.9365865
+          ],
+          [
+            23.6538859,
+            37.9365419
+          ],
+          [
+            23.6539347,
+            37.936441
+          ],
+          [
+            23.6537247,
+            37.9363871
+          ]
+        ]
+      },
+      "id": "osm-2-4-leoforos-vasileos-pavlou",
+      "type": "Feature",
+      "properties": {
+        "description": "Location of 2000s excavations, based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM: 2-4 Leoforos Vasileos Pavlou",
+        "link": "http://pleiades.stoa.org/places/346004679/osm-2-4-leoforos-vasileos-pavlou"
+      }
+    }
+  ]
+}

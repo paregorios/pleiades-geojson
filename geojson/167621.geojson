@@ -3,10 +3,10 @@
   "title": "Ad VIII",
   "id": "167621",
   "bbox": [
-    5.037314,
-    45.555218,
-    5.037314,
-    45.555218
+    5.0205,
+    45.5613,
+    5.0205,
+    45.5613
   ],
   "description": "An ancient place, cited: BAtlas 17 E2 Ad VIII",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.037314,
-          45.555218
+          5.0205,
+          45.5613
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.037314,
-          45.555218
+          5.0205,
+          45.5613
         ]
       },
-      "id": "darmc-location-2513",
+      "id": "osm-location-of-oytier-saint-oblas",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 2513",
-        "link": "http://pleiades.stoa.org/places/167621/darmc-location-2513"
+        "title": "OSM location of Oytier-Saint-Oblas",
+        "link": "http://pleiades.stoa.org/places/167621/osm-location-of-oytier-saint-oblas"
       }
     }
   ]

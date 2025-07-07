@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed quarry group",
   "id": "200093",
   "bbox": [
     14.0,
@@ -9,6 +9,9 @@
     47.0
   ],
   "description": "An ancient place, cited: BAtlas 20 B3 unnamed quarry group (NE ‘Tasinemeti’)",
+  "connectsWith": [
+    "187574"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Ad VIII",
   "id": "383557",
   "bbox": [
-    7.507533,
-    45.076064,
-    7.507533,
-    45.076064
+    7.5176764,
+    45.0697151,
+    7.5176764,
+    45.0697151
   ],
   "description": "An ancient place, cited: BAtlas 39 B3 Ad VIII",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.507533,
-          45.076064
+          7.5176764,
+          45.0697151
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.507533,
-          45.076064
+          7.5176764,
+          45.0697151
         ]
       },
-      "id": "darmc-location-2696",
+      "id": "osm-location-of-rivoli",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 2696",
-        "link": "http://pleiades.stoa.org/places/383557/darmc-location-2696"
+        "title": "OSM location of Rivoli",
+        "link": "http://pleiades.stoa.org/places/383557/osm-location-of-rivoli"
       }
     }
   ]

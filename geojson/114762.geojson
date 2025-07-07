@@ -3,15 +3,16 @@
   "title": "Ad Fines",
   "id": "114762",
   "bbox": [
-    5.3859057,
-    48.6319439,
-    5.895105,
-    48.68345
+    -1.6415472,
+    48.3290212,
+    -1.6415472,
+    48.3290212
   ],
   "description": "An ancient place, cited: BAtlas 11 unlocated Ad Fines",
   "connectsWith": [
     "109190",
-    "109396"
+    "109396",
+    "114765"
   ],
   "names": [
     "Ad Fines"
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.6406908248,
-          48.6559232084
+          -1.6415472,
+          48.3290212
         ]
       },
       "properties": {
@@ -31,14 +32,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "undetermined",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6415472,
+          48.3290212
+        ]
+      },
+      "id": "osm-location-of-feins",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/114762/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Feins",
+        "link": "http://pleiades.stoa.org/places/114762/osm-location-of-feins"
       }
     }
   ]

@@ -9,6 +9,9 @@
     48.538319
   ],
   "description": "An ancient place, cited: BAtlas 12 C4 Heidengraben",
+  "names": [
+    "Heidengraben"
+  ],
   "features": [
     {
       "type": "Feature",

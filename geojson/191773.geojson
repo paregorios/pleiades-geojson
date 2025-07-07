@@ -3,20 +3,23 @@
   "title": "Septimer Pass",
   "id": "191773",
   "bbox": [
-    9.6373825,
-    46.4191756,
-    9.6373825,
-    46.4191756
+    9.6368811,
+    46.4186754,
+    9.6368811,
+    46.4186754
   ],
   "description": "An ancient place, cited: BAtlas 19 B3 no. 2 (Septimer Pass)",
+  "names": [
+    "Septimer Pass"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.6373825,
-          46.4191756
+          9.6368811,
+          46.4186754
         ]
       },
       "properties": {
@@ -25,47 +28,10 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              9.0,
-              46.0
-            ],
-            [
-              9.0,
-              47.0
-            ],
-            [
-              10.0,
-              47.0
-            ],
-            [
-              10.0,
-              46.0
-            ],
-            [
-              9.0,
-              46.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/191773/batlas-location"
-      }
-    },
-    {
-      "geometry": {
         "type": "Point",
         "coordinates": [
-          9.6373825,
-          46.4191756
+          9.6368811,
+          46.4186754
         ]
       },
       "id": "osm-location",

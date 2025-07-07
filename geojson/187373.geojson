@@ -9,6 +9,9 @@
     48.0
   ],
   "description": "The Estiones were a sub-tribe of the Vindelici.",
+  "connectsWith": [
+    "119033"
+  ],
   "names": [
     "Estiones"
   ],

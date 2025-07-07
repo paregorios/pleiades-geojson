@@ -3,10 +3,10 @@
   "title": "tribus Horatia",
   "id": "670733375",
   "bbox": [
-    12.486137,
+    12.6726413,
     41.7211083,
-    12.674053,
-    41.891775
+    12.73839,
+    42.745301
   ],
   "description": "The tribus Horatia was a rural tribe of ancient Rome.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.67334715,
-          41.72139965
+          12.705868575,
+          42.233350325
         ]
       },
       "properties": {

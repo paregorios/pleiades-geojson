@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "Church of Santa Fosca",
+  "id": "887366324",
+  "bbox": [
+    12.4185574,
+    45.4980091,
+    12.4189319,
+    45.4982892
+  ],
+  "description": "The Church of Santa Fosca on the island of Torcello is a Romanesque church dating initially to the ninth century CE.",
+  "connectsWith": [
+    "883949385"
+  ],
+  "names": [
+    "Chiesa di Santa Fosca (Venezia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.418741498,
+          45.4981563679
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4188605,
+            45.4982403
+          ],
+          [
+            12.4189319,
+            45.4982059
+          ],
+          [
+            12.4188873,
+            45.498152
+          ],
+          [
+            12.4188927,
+            45.4981313
+          ],
+          [
+            12.4188873,
+            45.4981162
+          ],
+          [
+            12.4188739,
+            45.4981012
+          ],
+          [
+            12.418839,
+            45.4980974
+          ],
+          [
+            12.4187585,
+            45.4980091
+          ],
+          [
+            12.4186861,
+            45.4980316
+          ],
+          [
+            12.4187103,
+            45.4980598
+          ],
+          [
+            12.4185842,
+            45.4981106
+          ],
+          [
+            12.4185574,
+            45.4981726
+          ],
+          [
+            12.4186325,
+            45.4982629
+          ],
+          [
+            12.4187264,
+            45.4982892
+          ],
+          [
+            12.4188605,
+            45.4982403
+          ]
+        ]
+      },
+      "id": "osm-location-of-church-of-santa-fosca",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Church of Santa Fosca",
+        "link": "http://pleiades.stoa.org/places/887366324/osm-location-of-church-of-santa-fosca"
+      }
+    }
+  ]
+}

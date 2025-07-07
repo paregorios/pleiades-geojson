@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monte Papalucio",
+  "id": "697987396",
+  "bbox": [
+    17.6477314,
+    40.4990431,
+    17.6477314,
+    40.4990431
+  ],
+  "description": "The sanctuary of Monte Papalucio was an important Messapian sanctuary. It is located on the mountain of the same name in the territory of Oria in the province of Brindisi. The deities Demeter and Persephone were venerated in this cave sanctuary.",
+  "connectsWith": [
+    "442839"
+  ],
+  "names": [
+    "Santuario di Monte Papalucio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6477314,
+          40.4990431
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6477314,
+          40.4990431
+        ]
+      },
+      "id": "osm-location-of-monte-papalucio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Monte Papalucio",
+        "link": "http://pleiades.stoa.org/places/697987396/osm-location-of-monte-papalucio"
+      }
+    }
+  ]
+}

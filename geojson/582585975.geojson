@@ -3,10 +3,10 @@
   "title": "Krasnyĭ mai͡ak",
   "id": "582585975",
   "bbox": [
-    33.60896,
-    46.95996,
-    33.60896,
-    46.95996
+    33.60763,
+    46.9593144,
+    33.608542,
+    46.960574
   ],
   "description": "Late Scythian burial site on the Lower Dnieper River containing burials dated to the 3rd century BCE-2nd century CE.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.60896,
-          46.95996
+          33.6080988789,
+          46.9598475096
         ]
       },
       "properties": {
@@ -31,19 +31,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          33.60896,
-          46.95996
+          [
+            33.6083233,
+            46.9602428
+          ],
+          [
+            33.608502,
+            46.9601755
+          ],
+          [
+            33.6083032,
+            46.9599221
+          ],
+          [
+            33.6081923,
+            46.9596382
+          ],
+          [
+            33.6083418,
+            46.9595825
+          ],
+          [
+            33.6081985,
+            46.9593564
+          ],
+          [
+            33.6080352,
+            46.9594164
+          ],
+          [
+            33.6081245,
+            46.9596287
+          ],
+          [
+            33.607969,
+            46.9596571
+          ],
+          [
+            33.6079643,
+            46.9594605
+          ],
+          [
+            33.6078241,
+            46.9594878
+          ],
+          [
+            33.6077903,
+            46.9593144
+          ],
+          [
+            33.60763,
+            46.9593406
+          ],
+          [
+            33.6078349,
+            46.9596929
+          ],
+          [
+            33.6076809,
+            46.9597486
+          ],
+          [
+            33.6081523,
+            46.9602964
+          ],
+          [
+            33.6083957,
+            46.960574
+          ],
+          [
+            33.608542,
+            46.9605224
+          ],
+          [
+            33.6083233,
+            46.9602428
+          ]
         ]
       },
-      "id": "imagery-location-of-krasnyi-maiak",
+      "id": "osm-location-krasnyy-mayak",
       "type": "Feature",
       "properties": {
-        "description": "Point representing the location of the primary kurgan at the Krasnyĭ mai͡ak site, after Гей 2019.",
+        "description": "OSM location of Krasnyi Maiak site, derived from an OpenStreetMap Way after Gey 2023.",
         "location_precision": "precise",
-        "title": "Imagery location of Krasnyĭ mai͡ak",
-        "link": "http://pleiades.stoa.org/places/582585975/imagery-location-of-krasnyi-maiak"
+        "title": "OSM Location: Krasnyy Mayak",
+        "link": "http://pleiades.stoa.org/places/582585975/osm-location-krasnyy-mayak"
       }
     }
   ]

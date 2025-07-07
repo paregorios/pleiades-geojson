@@ -9,6 +9,9 @@
     45.0957849
   ],
   "description": "An ancient place, cited: BAtlas 39 A3 Ad Fines",
+  "connectsWith": [
+    "383580"
+  ],
   "names": [
     "Ad Fines",
     "Finibus"

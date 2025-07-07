@@ -8,8 +8,15 @@
     25.0,
     55.0
   ],
-  "description": "An ancient place, cited: BAtlas 2 H3 Venedi",
+  "description": "The Venedi were an Indo-European people of central, continental Europe inhabiting lands to the east of the Vistula River.",
+  "connectsWith": [
+    "20639",
+    "20431",
+    "20567"
+  ],
   "names": [
+    "Vistula Veneti",
+    "Venadi Sarmatae",
     "Venedi"
   ],
   "features": [

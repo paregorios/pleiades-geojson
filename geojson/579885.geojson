@@ -3,9 +3,9 @@
   "title": "Athenae",
   "id": "579885",
   "bbox": [
-    23.644609,
+    23.6172739,
     37.937222,
-    23.7439661,
+    23.7441,
     37.9943588
   ],
   "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.7246472988,
-          37.9728927941
+          23.7232969859,
+          37.9717377334
         ]
       },
       "properties": {
