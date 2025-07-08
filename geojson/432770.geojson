@@ -9,6 +9,9 @@
     41.509239
   ],
   "description": "An ancient place, cited: BAtlas 44 D3 Castro dei Volsci",
+  "names": [
+    "Castro dei Volsci"
+  ],
   "features": [
     {
       "type": "Feature",

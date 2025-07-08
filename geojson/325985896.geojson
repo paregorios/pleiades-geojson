@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus of the figurative emblem",
+  "id": "325985896",
+  "bbox": [
+    13.1848179,
+    41.4904685,
+    13.1854251,
+    41.4910539
+  ],
+  "description": "The so-called \"Domus of the figurative emblem\" is a well-appointed domus at Privernum.",
+  "connectsWith": [
+    "433052"
+  ],
+  "names": [
+    "Domus of the figurative emblem"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1851460186,
+          41.4907721414
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1854251,
+            41.4905815
+          ],
+          [
+            13.185276,
+            41.4905533
+          ],
+          [
+            13.1852887,
+            41.4905148
+          ],
+          [
+            13.1852267,
+            41.490507
+          ],
+          [
+            13.1852267,
+            41.4904879
+          ],
+          [
+            13.1850849,
+            41.4904685
+          ],
+          [
+            13.1850178,
+            41.4906768
+          ],
+          [
+            13.1849445,
+            41.4906636
+          ],
+          [
+            13.1848179,
+            41.4909833
+          ],
+          [
+            13.1851692,
+            41.4910473
+          ],
+          [
+            13.1852074,
+            41.4910539
+          ],
+          [
+            13.1854179,
+            41.4908429
+          ],
+          [
+            13.1853462,
+            41.4908335
+          ],
+          [
+            13.1853965,
+            41.4906822
+          ],
+          [
+            13.1854251,
+            41.4905815
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-dellemblema-figurato",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of domus dell'Emblema figurato",
+        "link": "http://pleiades.stoa.org/places/325985896/osm-location-of-domus-dellemblema-figurato"
+      }
+    }
+  ]
+}

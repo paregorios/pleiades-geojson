@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "fanum Quietis",
+  "id": "304914109",
+  "description": "A shrine sacred to Quies on the Via Labicana. It is mentioned by Livy in the fourth book of his history as he discusses movements of Roman forces engaged with the Volscians.",
+  "connectsWith": [
+    "74935822"
+  ],
+  "names": [
+    "fanum Quietis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

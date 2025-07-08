@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Steiriake Hodos",
+  "id": "522406512",
+  "description": "An ancient road in Attica leading to Steiria.",
+  "names": [
+    "Steiriake Hodos",
+    "Steiriake hodo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
