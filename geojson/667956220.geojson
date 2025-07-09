@@ -3,14 +3,19 @@
   "title": "Deir Abu Matta",
   "id": "667956220",
   "bbox": [
-    28.91679722,
-    25.63017222,
-    28.91679722,
-    25.63017222
+    28.9117228,
+    25.59352,
+    28.9123892,
+    25.5939434
   ],
   "description": "Late antique settlement, possibly monastic, with substantial remains of a church, mud-brick structures, and tombs.",
   "connectsWith": [
     "776172"
+  ],
+  "names": [
+    "Dayr Abu Matta",
+    "Deir Abu Metta",
+    "Deir Abu Matta"
   ],
   "features": [
     {
@@ -18,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.91679722,
-          25.63017222
+          28.9120523094,
+          25.5937431253
         ]
       },
       "properties": {
@@ -28,20 +33,57 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          28.91679722,
-          25.63017222,
-          0.0
+          [
+            28.9122595,
+            25.5939434
+          ],
+          [
+            28.9120765,
+            25.5939434
+          ],
+          [
+            28.9118681,
+            25.5938849
+          ],
+          [
+            28.9117228,
+            25.593746
+          ],
+          [
+            28.9117579,
+            25.5935737
+          ],
+          [
+            28.9119188,
+            25.59352
+          ],
+          [
+            28.9122978,
+            25.5936401
+          ],
+          [
+            28.9123892,
+            25.5937623
+          ],
+          [
+            28.9123628,
+            25.5938896
+          ],
+          [
+            28.9122595,
+            25.5939434
+          ]
         ]
       },
-      "id": "imagery-centerpoint-of-deir-abu-matta",
+      "id": "osm-location-of-deir-abu-matta",
       "type": "Feature",
       "properties": {
-        "description": "Location of the remains of the church, specifically.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Centerpoint of Deir Abu Matta",
-        "link": "http://pleiades.stoa.org/places/667956220/imagery-centerpoint-of-deir-abu-matta"
+        "title": "OSM location of Deir Abu Matta",
+        "link": "http://pleiades.stoa.org/places/667956220/osm-location-of-deir-abu-matta"
       }
     }
   ]

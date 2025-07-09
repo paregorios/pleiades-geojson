@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wadi Tumilat",
+  "id": "985180643",
+  "description": "The Wadi Tumilat was once a distributary of the Nile River. The wadi is some 50 km in length and extends from near Zagazig (ancient town of Bubastis) and to the area of modern Ismaïlia.",
+  "connectsWith": [
+    "727172"
+  ],
+  "names": [
+    "Wadi Tumilat"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

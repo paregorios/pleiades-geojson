@@ -3,7 +3,7 @@
   "title": "Esotero (Oasis)",
   "id": "776172",
   "bbox": [
-    28.813372,
+    28.8124505,
     25.483192,
     29.371007,
     25.703207
@@ -14,7 +14,7 @@
   ],
   "names": [
     "Esotero Oasis",
-    " Esotero",
+    "Esotero",
     "Dakhla Oasis"
   ],
   "features": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.0623021026,
-          25.5731820443
+          29.0622866455,
+          25.5731954422
         ]
       },
       "properties": {

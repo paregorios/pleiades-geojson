@@ -3,6 +3,9 @@
   "title": "Phagroriopolis",
   "id": "730138",
   "description": "An ancient place, cited: BAtlas 74 unlocated Phagroriopolis",
+  "connectsWith": [
+    "985180643"
+  ],
   "names": [
     "Phagroriopolis"
   ],

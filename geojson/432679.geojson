@@ -3,18 +3,19 @@
   "title": "Antinum",
   "id": "432679",
   "bbox": [
-    13.469873,
-    41.886242,
-    13.469873,
-    41.886242
+    13.4711263,
+    41.8861054,
+    13.4711263,
+    41.8861054
   ],
-  "description": "A town of the Marsi in the valley of the Liris river.",
+  "description": "A town of the Marsi in the valley of the Liris River.",
   "connectsWith": [
     "413191",
     "300044063"
   ],
   "names": [
-    "Antinum"
+    "Antinum",
+    "Civita d’Antino"
   ],
   "features": [
     {
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.469873,
-          41.886242
+          13.4711263,
+          41.8861054
         ]
       },
       "properties": {
@@ -34,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.469873,
-          41.886242
+          13.4711263,
+          41.8861054
         ]
       },
-      "id": "darmc-location-18195",
+      "id": "osm-location-of-civita-dantino",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18195",
-        "link": "http://pleiades.stoa.org/places/432679/darmc-location-18195"
+        "title": "OSM location of Civita d'Antino",
+        "link": "http://pleiades.stoa.org/places/432679/osm-location-of-civita-dantino"
       }
     }
   ]

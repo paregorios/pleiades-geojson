@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khalij al-Masri",
+  "id": "571454571",
+  "bbox": [
+    31.0,
+    30.0,
+    31.5,
+    30.5
+  ],
+  "description": "The Khalij was a canal in Cairo. It was created during the Arab conquest in the seventh century CE, when a Pharaonic, Hellenistic, and Roman canal was rebuilt in order to once again link the Nile River to the Red Sea. It remained in use until the eighth century.",
+  "connectsWith": [
+    "727212"
+  ],
+  "names": [
+    "Khalij al-Masri"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.25,
+          30.25
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

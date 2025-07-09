@@ -3,12 +3,12 @@
   "title": "Castro dei Volsci",
   "id": "432770",
   "bbox": [
-    13.407379,
-    41.509239,
-    13.407379,
-    41.509239
+    13.4065751,
+    41.5090635,
+    13.4065751,
+    41.5090635
   ],
-  "description": "An ancient place, cited: BAtlas 44 D3 Castro dei Volsci",
+  "description": "Castro dei Volsci is an Italian comune located in the province of Frosinone. Its name - Castro dei Volsci - dates only from 1816. There is evidence for pre-Roman and Roman settlement in the area, including the polygonal masonry circuit of fortifications on nearby Montenero.",
   "names": [
     "Castro dei Volsci"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.407379,
-          41.509239
+          13.4065751,
+          41.5090635
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.407379,
-          41.509239
+          13.4065751,
+          41.5090635
         ]
       },
-      "id": "darmc-location-18315",
+      "id": "osm-location-of-castro-dei-volsci",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18315",
-        "link": "http://pleiades.stoa.org/places/432770/darmc-location-18315"
+        "title": "OSM location of Castro dei Volsci",
+        "link": "http://pleiades.stoa.org/places/432770/osm-location-of-castro-dei-volsci"
       }
     }
   ]

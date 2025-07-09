@@ -8,7 +8,11 @@
     31.5,
     30.5
   ],
-  "description": "An ancient place, cited: BAtlas 74 E4 Ptolemaios/Traianos Potamos",
+  "description": "The Hellenistic and Roman continuation of work on the so-called \"Canal of the Pharaohs\". Trajan reworked the canal, shifting its mouth on the Nile River further to the south to what is now Old Cairo (a.k.a. Coptic Cairo).",
+  "connectsWith": [
+    "985180643",
+    "728577"
+  ],
   "names": [
     "Ptolemaios",
     "Traianos Potamos"

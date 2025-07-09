@@ -4,11 +4,14 @@
   "id": "785968",
   "bbox": [
     35.4737,
-    23.900278,
-    35.790278,
-    23.9103
+    19.0,
+    39.5,
+    23.9109505
   ],
-  "description": "An ancient place, cited: BAtlas 80 inset Akathartos Kolpos",
+  "description": "Akathartos Kolpos, an embayment of the Red Sea just north of the Tropic of Cancer.",
+  "connectsWith": [
+    "39290"
+  ],
   "names": [
     "Akathartos Kolpos"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.631989,
-          23.905289
+          36.92169895,
+          22.2703010833
         ]
       },
       "properties": {

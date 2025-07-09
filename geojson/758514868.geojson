@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "title": "Babylon Fortress",
+  "id": "758514868",
+  "bbox": [
+    31.2297416,
+    30.0057869,
+    31.2300399,
+    30.0060457
+  ],
+  "description": "The so-called \"Babylon Fortress\" in Coptic Cairo dates to the late third or early fourth century CE. Tradition holds that the Roman emperor Diocletian built the fortress in order to defend the canal built by Trajan that linked the Nile River to the Red Sea. Two churches - the Church of St. George and the Hanging Church - were later built within the footprint of the fortress.",
+  "connectsWith": [
+    "727082"
+  ],
+  "names": [
+    "Babylon Fortress"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2298905272,
+          30.0059161262
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2298876,
+            30.0060457
+          ],
+          [
+            31.2299157,
+            30.0060432
+          ],
+          [
+            31.2299285,
+            30.0060415
+          ],
+          [
+            31.2299562,
+            30.0060326
+          ],
+          [
+            31.229986,
+            30.006016
+          ],
+          [
+            31.2300104,
+            30.0059938
+          ],
+          [
+            31.2300281,
+            30.0059672
+          ],
+          [
+            31.2300381,
+            30.0059378
+          ],
+          [
+            31.2300399,
+            30.0059072
+          ],
+          [
+            31.2300333,
+            30.0058771
+          ],
+          [
+            31.2300187,
+            30.0058492
+          ],
+          [
+            31.2299969,
+            30.005825
+          ],
+          [
+            31.2299692,
+            30.0058059
+          ],
+          [
+            31.2299371,
+            30.0057929
+          ],
+          [
+            31.2299024,
+            30.0057869
+          ],
+          [
+            31.229867,
+            30.0057881
+          ],
+          [
+            31.229833,
+            30.0057965
+          ],
+          [
+            31.2298021,
+            30.0058115
+          ],
+          [
+            31.2297763,
+            30.0058324
+          ],
+          [
+            31.2297568,
+            30.0058579
+          ],
+          [
+            31.229748,
+            30.0058765
+          ],
+          [
+            31.2297416,
+            30.0059036
+          ],
+          [
+            31.2297421,
+            30.0059326
+          ],
+          [
+            31.2297497,
+            30.0059601
+          ],
+          [
+            31.2297641,
+            30.0059854
+          ],
+          [
+            31.229784,
+            30.0060071
+          ],
+          [
+            31.2298231,
+            30.0060318
+          ],
+          [
+            31.2298447,
+            30.0060395
+          ],
+          [
+            31.2298682,
+            30.0060443
+          ],
+          [
+            31.2298876,
+            30.0060457
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-tower",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Tower",
+        "link": "http://pleiades.stoa.org/places/758514868/osm-location-of-roman-tower"
+      }
+    }
+  ]
+}

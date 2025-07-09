@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Abu Ballas Trail",
   "id": "466778575",
+  "bbox": [
+    27.6483527,
+    24.4386362,
+    30.5019712947,
+    28.7402753481
+  ],
   "description": "Caravan route connecting the Dakhleh Oasis with Gilf Kebir in the Libyan Desert, used from the third millennium BCE through the Roman period. The site of Abu Ballas was likely a way station along the road. ",
   "connectsWith": [
     "736954"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.4726374225,
+          25.0194525247
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
