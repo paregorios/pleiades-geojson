@@ -1,19 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Apollo Korythos, T.",
+  "title": "Apollo Korythos Sanctuary",
   "id": "570096",
   "bbox": [
-    21.909984,
-    36.857944,
-    21.909984,
-    36.857944
+    21.9186273,
+    36.8640412,
+    21.9186273,
+    36.8640412
   ],
   "description": "A multi-phase sanctuary of Apollo that begins in the archaic period. Pausanias visited the sanctuary and observed two cult statues of the god. One of these, sacred to Apollo Corynthus, was of wood. The other, sacred to Apollo Argeotas, was of bronze.",
   "connectsWith": [
     "570577"
   ],
   "names": [
-    "Apollo Korythos, T."
+    "Apollo Korythos",
+    "Agios Andreas",
+    "Longa Pylias",
+    "Kandianika"
   ],
   "features": [
     {
@@ -21,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.909984,
-          36.857944
+          21.9186273,
+          36.8640412
         ]
       },
       "properties": {
@@ -33,17 +36,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.909984,
-          36.857944
+          21.9186273,
+          36.8640412
         ]
       },
-      "id": "darmc-location-15873",
+      "id": "osm-location-iero-apollonos-koruthou",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15873",
-        "link": "http://pleiades.stoa.org/places/570096/darmc-location-15873"
+        "title": "OSM Location: Sanctuary of Apollo Korythos",
+        "link": "http://pleiades.stoa.org/places/570096/osm-location-iero-apollonos-koruthou"
       }
     }
   ]

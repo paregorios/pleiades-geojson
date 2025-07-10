@@ -3,10 +3,10 @@
   "title": "Akathartos Kolpos",
   "id": "785968",
   "bbox": [
-    35.4737,
-    19.0,
-    39.5,
-    23.9109505
+    35.616667,
+    23.683333,
+    35.616667,
+    23.683333
   ],
   "description": "Akathartos Kolpos, an embayment of the Red Sea just north of the Tropic of Cancer.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.92169895,
-          22.2703010833
+          35.616667,
+          23.683333
         ]
       },
       "properties": {
@@ -30,14 +30,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "undetermined",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.616667,
+          23.683333
+        ]
+      },
+      "id": "geohack-location-of-foul-bay",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/785968/undetermined"
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "GeoHack location of Foul Bay",
+        "link": "http://pleiades.stoa.org/places/785968/geohack-location-of-foul-bay"
       }
     }
   ]

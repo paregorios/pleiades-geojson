@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Freilichtmuseum Römerbad",
+  "id": "631226455",
+  "bbox": [
+    8.6385093,
+    48.1613358,
+    8.6394779,
+    48.1621062
+  ],
+  "description": "A Roman bath complex located at Rottweil, Germany.",
+  "connectsWith": [
+    "118572"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6389936,
+          48.161721
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6394779,
+            48.1619349
+          ],
+          [
+            8.6389311,
+            48.1621062
+          ],
+          [
+            8.6385093,
+            48.1615071
+          ],
+          [
+            8.6390561,
+            48.1613358
+          ],
+          [
+            8.6394779,
+            48.1619349
+          ]
+        ]
+      },
+      "id": "osm-location-of-freilichtmuseum-rapmerbad",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Freilichtmuseum Römerbad",
+        "link": "http://pleiades.stoa.org/places/631226455/osm-location-of-freilichtmuseum-rapmerbad"
+      }
+    }
+  ]
+}

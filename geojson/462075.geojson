@@ -3,10 +3,10 @@
   "title": "Aegates (islands)",
   "id": "462075",
   "bbox": [
-    12.0737934,
+    12.0280225,
     37.9310758,
     12.3390689,
-    37.9871994
+    37.9931046
   ],
   "description": "The Egadi Islands, a small group of mountainous islands northwest of Sicily.",
   "connectsWith": [
@@ -16,7 +16,8 @@
     "Aegates",
     "Aigousai Nesoi",
     "Aegadian Islands",
-    "Isole Egadi"
+    "Isole Egadi",
+    "Aegates Insulae"
   ],
   "features": [
     {
@@ -24,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2471584,
-          37.9620436
+          12.1939105652,
+          37.9508717413
         ]
       },
       "properties": {
