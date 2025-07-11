@@ -3,10 +3,10 @@
   "title": "Rudiae",
   "id": "442753",
   "bbox": [
-    18.147292,
-    40.333792,
-    18.147292,
-    40.333792
+    18.1458467,
+    40.3316858,
+    18.148703,
+    40.3351787
   ],
   "description": "An ancient Messapic town, Rudiae was the birthplace of the poet Ennius.",
   "connectsWith": [
@@ -15,7 +15,8 @@
   ],
   "names": [
     "Rudiae",
-    "Rodiae"
+    "Rodiae",
+    "Rugge"
   ],
   "features": [
     {
@@ -23,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.147292,
-          40.333792
+          18.1470612264,
+          40.3335243187
         ]
       },
       "properties": {
@@ -33,19 +34,125 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          18.147292,
-          40.333792
+          [
+            18.1458615,
+            40.3343608
+          ],
+          [
+            18.1458621,
+            40.3343944
+          ],
+          [
+            18.1464628,
+            40.3351787
+          ],
+          [
+            18.1473517,
+            40.3347575
+          ],
+          [
+            18.1477057,
+            40.3341158
+          ],
+          [
+            18.1478925,
+            40.3341728
+          ],
+          [
+            18.1484235,
+            40.3342058
+          ],
+          [
+            18.148703,
+            40.3339246
+          ],
+          [
+            18.1483474,
+            40.3335322
+          ],
+          [
+            18.1478659,
+            40.3329694
+          ],
+          [
+            18.1470862,
+            40.3317712
+          ],
+          [
+            18.1470272,
+            40.3317023
+          ],
+          [
+            18.1469781,
+            40.3316858
+          ],
+          [
+            18.1469211,
+            40.3317008
+          ],
+          [
+            18.1468345,
+            40.3317487
+          ],
+          [
+            18.146099,
+            40.3321985
+          ],
+          [
+            18.1460007,
+            40.3322629
+          ],
+          [
+            18.1459319,
+            40.3322959
+          ],
+          [
+            18.1462827,
+            40.3327835
+          ],
+          [
+            18.1463114,
+            40.3327764
+          ],
+          [
+            18.1464228,
+            40.3329623
+          ],
+          [
+            18.1463966,
+            40.3329737
+          ],
+          [
+            18.1469407,
+            40.33381
+          ],
+          [
+            18.1467519,
+            40.333942
+          ],
+          [
+            18.1462918,
+            40.3341655
+          ],
+          [
+            18.1458467,
+            40.3343421
+          ],
+          [
+            18.1458615,
+            40.3343608
+          ]
         ]
       },
-      "id": "location-of-rudiae",
+      "id": "osm-location-of-parco-archeologico-rudiae",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap, chronology following the Barrington Atlas",
         "location_precision": "precise",
-        "title": "Imagery location of Rudiae",
-        "link": "http://pleiades.stoa.org/places/442753/location-of-rudiae"
+        "title": "OSM location of Parco Archeologico Rudiae",
+        "link": "http://pleiades.stoa.org/places/442753/osm-location-of-parco-archeologico-rudiae"
       }
     }
   ]

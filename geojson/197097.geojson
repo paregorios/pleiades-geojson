@@ -9,6 +9,9 @@
     42.424794
   ],
   "description": "An ancient place, cited: BAtlas 20 F7 *Agruvium",
+  "connectsWith": [
+    "300044063"
+  ],
   "names": [
     "Agruvium"
   ],

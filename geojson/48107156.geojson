@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell el-Retaba ",
+  "id": "48107156",
+  "bbox": [
+    31.9643933,
+    30.5485661,
+    31.9643933,
+    30.5485661
+  ],
+  "description": "Tell el-Retaba is a large, multi-phase settlement site located in the central part of Wadi Tumilat. Its human activity ranges from the period of Hyksos settlers to the Third Intermediate Period to the 19th century.",
+  "connectsWith": [
+    "985180643"
+  ],
+  "names": [
+    "Tell el-Retaba"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9643933,
+          30.5485661
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.9643933,
+          30.5485661
+        ]
+      },
+      "id": "osm-location-of-tell-al-rataba",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tell al-Rataba",
+        "link": "http://pleiades.stoa.org/places/48107156/osm-location-of-tell-al-rataba"
+      }
+    }
+  ]
+}

@@ -3,14 +3,17 @@
   "title": "Temple of Demeter at the Sanctuary of Demeter Malophoros, Selinus",
   "id": "502577471",
   "bbox": [
-    12.8167612,
-    37.5866671,
-    12.8170038,
-    37.5868213
+    12.8164003,
+    37.5864901,
+    12.8176259,
+    37.587472
   ],
   "description": "The Temple of Demeter was used for the worship of Demeter (Malophoros), goddess of fertility, grain and agriculture. Built in the seventh century BC, the temple was used continuously until its abandonment ca. 250 BC",
   "connectsWith": [
     "462489"
+  ],
+  "names": [
+    "Sanctuary of Demeter Malophoros"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8168782436,
-          37.5867535985
+          12.8169417304,
+          37.5868650772
         ]
       },
       "properties": {
@@ -28,19 +31,83 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.816874,
-          37.586763
+          [
+            [
+              12.8169608,
+              37.5868382
+            ],
+            [
+              12.8170136,
+              37.5867538
+            ],
+            [
+              12.8167954,
+              37.586668
+            ],
+            [
+              12.8167426,
+              37.5867526
+            ],
+            [
+              12.8169608,
+              37.5868382
+            ]
+          ],
+          [
+            [
+              12.8169157,
+              37.5868055
+            ],
+            [
+              12.8169538,
+              37.5867439
+            ],
+            [
+              12.8168185,
+              37.5866913
+            ],
+            [
+              12.8167803,
+              37.586753
+            ],
+            [
+              12.8169157,
+              37.5868055
+            ]
+          ],
+          [
+            [
+              12.8169301,
+              37.5868107
+            ],
+            [
+              12.8169689,
+              37.5867511
+            ],
+            [
+              12.8169948,
+              37.5867617
+            ],
+            [
+              12.816956,
+              37.5868213
+            ],
+            [
+              12.8169301,
+              37.5868107
+            ]
+          ]
         ]
       },
-      "id": "temple-of-demeter-at-the-sanctuary-of-demeter-malophoros",
+      "id": "osm-location-tempio-di-demetra",
       "type": "Feature",
       "properties": {
-        "description": "Representative imagery location of the archaeological site, verified in Google Earth 2016. Chronology following White 1967.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Temple of Demeter at the Sanctuary of Demeter Malophoros",
-        "link": "http://pleiades.stoa.org/places/502577471/temple-of-demeter-at-the-sanctuary-of-demeter-malophoros"
+        "title": "OSM location: Tempio di Demetra",
+        "link": "http://pleiades.stoa.org/places/502577471/osm-location-tempio-di-demetra"
       }
     },
     {
@@ -48,34 +115,62 @@
         "type": "LineString",
         "coordinates": [
           [
-            12.8167612,
-            37.5867473
+            12.8169759,
+            37.587472
           ],
           [
-            12.8168099,
-            37.5866671
+            12.8164003,
+            37.5871501
           ],
           [
-            12.8170038,
-            37.5867411
+            12.8165629,
+            37.5868025
           ],
           [
-            12.816955,
-            37.5868213
+            12.8168338,
+            37.5864901
           ],
           [
-            12.8167612,
-            37.5867473
+            12.8170859,
+            37.5865708
+          ],
+          [
+            12.8174038,
+            37.5867718
+          ],
+          [
+            12.8175438,
+            37.586764
+          ],
+          [
+            12.8176259,
+            37.5868435
+          ],
+          [
+            12.8176089,
+            37.586896
+          ],
+          [
+            12.8174802,
+            37.5870809
+          ],
+          [
+            12.8171996,
+            37.5872985
+          ],
+          [
+            12.8169759,
+            37.587472
           ]
         ]
       },
-      "id": "osm-location-of-tempio-di-demetra",
+      "id": "osm-location-of-santuario-di-demetra-malophoros",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Tempio di Demetra",
-        "link": "http://pleiades.stoa.org/places/502577471/osm-location-of-tempio-di-demetra"
+        "title": "OSM location of Santuario di Demetra Malophoros",
+        "link": "http://pleiades.stoa.org/places/502577471/osm-location-of-santuario-di-demetra-malophoros"
       }
     }
   ]

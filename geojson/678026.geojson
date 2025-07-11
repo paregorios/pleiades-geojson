@@ -8,7 +8,12 @@
     35.8091041525,
     33.5104569641
   ],
-  "description": "An ancient place, cited: BAtlas 69 C2 Aqaba",
+  "description": "Aqaba - now Aaqbe - is a place located in the Beqaa Governorate in Lebanon. It is the site of a Roman temple that has been classified as belonging to the \"Mount Hermon\" temple group.",
+  "names": [
+    "Aaqbe",
+    "Aaqbe",
+    "Aqaba"
+  ],
   "features": [
     {
       "type": "Feature",

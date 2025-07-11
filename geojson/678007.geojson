@@ -3,10 +3,10 @@
   "title": "Ain Hersha",
   "id": "678007",
   "bbox": [
-    35.786843,
-    33.458366,
-    35.786843,
-    33.458366
+    35.7904283,
+    33.4534239,
+    35.7906271,
+    33.4535269
   ],
   "description": "An ancient place, cited: BAtlas 69 C3 Ain Hersha",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.786843,
-          33.458366
+          35.7905283496,
+          33.4534750461
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.786843,
-          33.458366
+          [
+            35.7904376,
+            33.4535234
+          ],
+          [
+            35.7904283,
+            33.4534239
+          ],
+          [
+            35.7906202,
+            33.4534268
+          ],
+          [
+            35.7906271,
+            33.4535269
+          ],
+          [
+            35.7904376,
+            33.4535234
+          ]
         ]
       },
-      "id": "darmc-location-15847",
+      "id": "osm-way-313847408",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15847",
-        "link": "http://pleiades.stoa.org/places/678007/darmc-location-15847"
+        "title": "OSM Location: Temple of Ain Hersha",
+        "link": "http://pleiades.stoa.org/places/678007/osm-way-313847408"
       }
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mdoukha",
+  "id": "944582489",
+  "bbox": [
+    35.888006574,
+    33.5939587975,
+    35.888006574,
+    33.5939587975
+  ],
+  "description": "Roman sanctuary with two small temples.",
+  "names": [
+    "Mdoukha"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.888006574,
+          33.5939587975
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.88800657399392,
+          33.5939587974504
+        ]
+      },
+      "id": "roman-temple-site-of-mdoukha",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Roman temple site of Mdoukha",
+        "link": "http://pleiades.stoa.org/places/944582489/roman-temple-site-of-mdoukha"
+      }
+    }
+  ]
+}

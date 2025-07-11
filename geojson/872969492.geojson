@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Papoura Hill Circular Structure",
+  "id": "872969492",
+  "bbox": [
+    25.3168674,
+    35.2187746,
+    25.3239484,
+    35.2223454
+  ],
+  "description": "A Minoan architectural complex that consists of sets of concentric stone circles, the Papoura Hill Circular Structure is located on Papoura Hill, northwest of Kastelli Crete. The structure is dated ca. 2000 -1700 BCE.",
+  "connectsWith": [
+    "589748"
+  ],
+  "names": [
+    "Papoura Hill Circular Structure"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3204350714,
+          35.2205402194
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.3206096,
+            35.2219668
+          ],
+          [
+            25.3197255,
+            35.2223314
+          ],
+          [
+            25.3187642,
+            35.2223454
+          ],
+          [
+            25.3182149,
+            35.2223034
+          ],
+          [
+            25.3173609,
+            35.2220895
+          ],
+          [
+            25.3171077,
+            35.221767
+          ],
+          [
+            25.3168674,
+            35.2210553
+          ],
+          [
+            25.3169618,
+            35.2205715
+          ],
+          [
+            25.3176699,
+            35.2202419
+          ],
+          [
+            25.318614,
+            35.2195828
+          ],
+          [
+            25.3201504,
+            35.2190043
+          ],
+          [
+            25.3234656,
+            35.2187746
+          ],
+          [
+            25.3238443,
+            35.2192769
+          ],
+          [
+            25.3239484,
+            35.2200175
+          ],
+          [
+            25.3223262,
+            35.2216793
+          ],
+          [
+            25.32091,
+            35.2218686
+          ],
+          [
+            25.3206096,
+            35.2219668
+          ]
+        ]
+      },
+      "id": "osm-location-of-papoura-hill-circular-structure",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Papoura Hill Circular Structure",
+        "link": "http://pleiades.stoa.org/places/872969492/osm-location-of-papoura-hill-circular-structure"
+      }
+    }
+  ]
+}

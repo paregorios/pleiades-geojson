@@ -2,24 +2,45 @@
   "type": "FeatureCollection",
   "title": "Grotta Trinità",
   "id": "442602",
-  "description": "An ancient place, cited: BAtlas 45 inset Grotta Trinità",
+  "bbox": [
+    18.1934563,
+    39.995809,
+    18.1934563,
+    39.995809
+  ],
+  "description": "The Grotta Trinità is a cave sanctuary located in the comune of Ruffano, province of Lecce, in southern Italy. The cave was in use from the Neolithic period onwards. In the Iron Age, terracotta vessels with incised graffiti date activity to the sixth century BCE and subsequent.",
+  "names": [
+    "Grotta Trinità"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1934563,
+          39.995809
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1934563,
+          39.995809
+        ]
+      },
+      "id": "osm-location-of-grotta-della-trinita",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/442602/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta della Trinità",
+        "link": "http://pleiades.stoa.org/places/442602/osm-location-of-grotta-della-trinita"
       }
     }
   ]

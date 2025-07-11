@@ -8,7 +8,7 @@
     18.7731337,
     42.517176
   ],
-  "description": "An ancient place, cited: BAtlas 20 F7 Rhizonicus Sinus",
+  "description": "The Bay of Kotor.",
   "connectsWith": [
     "1004"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.6430372293,
-          42.4372941451
+          18.6435421248,
+          42.4373496726
         ]
       },
       "properties": {

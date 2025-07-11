@@ -3,10 +3,10 @@
   "title": "Nebi Safa",
   "id": "678302",
   "bbox": [
-    35.753721,
-    33.501236,
-    35.753721,
-    33.501236
+    35.7471600858,
+    33.4965704016,
+    35.7471600858,
+    33.4965704016
   ],
   "description": "An ancient place, cited: BAtlas 69 C2 Nebi Safa",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.753721,
-          33.501236
+          35.7471600858,
+          33.4965704016
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.753721,
-          33.501236
+          35.74716008582294,
+          33.49657040156927
         ]
       },
-      "id": "darmc-location-16109",
+      "id": "temple-of-nabi-safa",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 16109",
-        "link": "http://pleiades.stoa.org/places/678302/darmc-location-16109"
+        "title": "Imagery Location: Temple of Nabi Safa",
+        "link": "http://pleiades.stoa.org/places/678302/temple-of-nabi-safa"
       }
     }
   ]
