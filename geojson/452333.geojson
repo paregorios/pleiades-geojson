@@ -10,7 +10,8 @@
   ],
   "description": "Heraclea was an ancient city of Magna Graecia.",
   "connectsWith": [
-    "452442"
+    "452442",
+    "1113"
   ],
   "names": [
     "Heraclea",
@@ -206,7 +207,7 @@
       "properties": {
         "description": "Representative location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "OSM location of Heraclea Lucania",
+        "title": "OSM location of Parco Archeologico di Herakleia",
         "link": "http://pleiades.stoa.org/places/452333/location-of-heraclea-lucania"
       }
     }

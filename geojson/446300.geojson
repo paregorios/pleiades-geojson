@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Turiostu",
   "id": "446300",
+  "bbox": [
+    16.6626286,
+    40.21668,
+    16.6782305,
+    40.2224384
+  ],
   "description": "An ancient place, cited: BAtlas 45 unlocated Turiostu",
   "connectsWith": [
     "452333"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6703645625,
+          40.219645068
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -9,6 +9,9 @@
     40.122485
   ],
   "description": "An ancient place, cited: BAtlas 45 C4 ‘Vico Mendicoleo’",
+  "connectsWith": [
+    "487529761"
+  ],
   "names": [
     "Vico Mendicoleo",
     "Mendilegio",

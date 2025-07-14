@@ -10,7 +10,8 @@
   ],
   "description": "An important city of Magna Graecia, Metapontum was located on the Gulf of Tarentum. The Achaeans were responsible for its foundation, perhaps as early as the eighth century B.C.",
   "connectsWith": [
-    "442508"
+    "442508",
+    "1113"
   ],
   "names": [
     "Metapontum",
@@ -23,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.8246000472,
-          40.3834148064
+          16.8243315236,
+          40.3836414032
         ]
       },
       "properties": {

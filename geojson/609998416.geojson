@@ -3,12 +3,12 @@
   "title": "Carnac megaliths",
   "id": "609998416",
   "bbox": [
-    -3.1221781,
-    47.5879805,
+    -3.1222576,
+    47.5875448,
     -2.7970069,
     47.6308422
   ],
-  "description": "Carnac (Breton: Karnag) is a site in southern Brittany known for the so-called Carnac stones, a massive complex of Neolithic menhir stones.",
+  "description": "Carnac (Breton: Karnag) is a site in southern Brittany known for the so-called Carnac stones, a massive complex of Neolithic menhir stones. Inscribed as a UNESCO World Heritage Site in 2025.",
   "names": [
     "Carnac stones"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.03906495,
-          47.6044609625
+          -3.0387372275,
+          47.6044944013
         ]
       },
       "properties": {

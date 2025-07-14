@@ -3,10 +3,10 @@
   "title": "Anghelu Ruju necropolis",
   "id": "441849878",
   "bbox": [
-    8.32644,
-    40.6316295,
-    8.32644,
-    40.6316295
+    8.325636,
+    40.6317142,
+    8.327476,
+    40.6333885
   ],
   "description": "A pre-nuragic necropolis discovered in 1903.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.32644,
-          40.6316295
+          8.32653424144,
+          40.6325645639
         ]
       },
       "properties": {

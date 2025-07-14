@@ -9,6 +9,9 @@
     38.944865
   ],
   "description": "An ancient place, cited: BAtlas 46 D4 Terina?",
+  "connectsWith": [
+    "1113"
+  ],
   "names": [
     "Terina"
   ],

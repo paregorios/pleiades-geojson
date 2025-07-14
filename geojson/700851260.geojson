@@ -3,10 +3,10 @@
   "title": "Funtana Coberta",
   "id": "700851260",
   "bbox": [
-    9.3519578,
-    39.5810466,
-    9.3519578,
-    39.5810466
+    9.351953,
+    39.5810273,
+    9.351953,
+    39.5810273
   ],
   "description": "A sacred well of the Nuragic civilization dated between 1200 and 850 BC. The well is located between the modern Sardinian settlements of Escalaplano and Ballao near the junction of highways S6, S13, and S23.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3519578,
-          39.5810466
+          9.351953,
+          39.5810273
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3519578,
-          39.5810466
+          9.351953,
+          39.5810273
         ]
       },
       "id": "osm-location",

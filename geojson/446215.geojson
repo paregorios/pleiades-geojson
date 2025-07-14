@@ -3,6 +3,9 @@
   "title": "Anni Forum",
   "id": "446215",
   "description": "An ancient place, cited: BAtlas 45 unlocated Anni Forum",
+  "connectsWith": [
+    "442685"
+  ],
   "names": [
     "Anni Forum"
   ],

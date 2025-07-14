@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Terme di Cavascura",
+        "title": "OSM location of Terme di Cavascura",
         "link": "http://pleiades.stoa.org/places/885624151/location-of-terme-di-cavascura"
       }
     }

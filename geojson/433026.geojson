@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Pithekoussai",
+  "title": "Pithekoussai (settlement)",
   "id": "433026",
   "bbox": [
     13.8820005,
@@ -8,9 +8,10 @@
     13.891259,
     40.7580256
   ],
-  "description": "An ancient place, cited: BAtlas 44 E4 Pithekoussai",
+  "description": "In the eighth century BCE, Euboean Greeks from Eretria and Chalcis established an emporion on the island of Ischia.",
   "connectsWith": [
-    "432648"
+    "432648",
+    "1113"
   ],
   "names": [
     "Pithekoussai"

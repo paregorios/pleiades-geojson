@@ -1153,7 +1153,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Mazara fl.",
+        "title": "OSM location of Mazaro",
         "link": "http://pleiades.stoa.org/places/462306/location-of-Mazara-fl"
       }
     }
