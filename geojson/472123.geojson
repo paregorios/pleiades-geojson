@@ -9,6 +9,9 @@
     41.470715
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Rhoubra",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Rhoubra"
   ],

@@ -3,10 +3,10 @@
   "title": "Vieste",
   "id": "442853",
   "bbox": [
-    16.17298,
-    41.881725,
-    16.17298,
-    41.881725
+    16.1791791,
+    41.8827595,
+    16.1791791,
+    41.8827595
   ],
   "description": "An ancient place, cited: BAtlas 45 D1 Vieste",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.17298,
-          41.881725
+          16.1791791,
+          41.8827595
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.17298,
-          41.881725
+          16.1791791,
+          41.8827595
         ]
       },
-      "id": "darmc-location-19014",
+      "id": "osm-location-of-modern-vieste",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19014",
-        "link": "http://pleiades.stoa.org/places/442853/darmc-location-19014"
+        "title": "OSM location of modern Vieste",
+        "link": "http://pleiades.stoa.org/places/442853/osm-location-of-modern-vieste"
       }
     }
   ]

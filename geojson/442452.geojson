@@ -8,14 +8,17 @@
     15.087531,
     41.152484
   ],
-  "description": "Aequum Tuticum/Equus Tuticus was an ancient Oscan town. The settlement was located near the intersection of the Via Traiana and the Via Herculia in the territory of the Hirpini.",
+  "description": "Aequum Tuticum/Equus Tuticus was an ancient Oscan town. The settlement was located near the intersection of the Via Traiana and the Via Herculia in the territory of the Hirpini. The site is now in the territory of the modern Italian town of Ariano Irpino.",
   "connectsWith": [
     "469059303",
     "442614"
   ],
   "names": [
     "Aequum Tuticum",
-    "Equus Tuticus"
+    "Equus Tuticus",
+    "S. Eleuterio",
+    "Aequotutico",
+    "Ariano Irpino"
   ],
   "features": [
     {
@@ -42,7 +45,7 @@
       "id": "darmc-location-18159",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 18159",
         "link": "http://pleiades.stoa.org/places/442452/darmc-location-18159"

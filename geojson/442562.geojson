@@ -9,6 +9,9 @@
     41.516008
   ],
   "description": "An ancient place, cited: BAtlas 45 C1 Cupola",
+  "names": [
+    "Cupola"
+  ],
   "features": [
     {
       "type": "Feature",

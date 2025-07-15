@@ -9,6 +9,9 @@
     41.3717951
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Piantarella",
+  "connectsWith": [
+    "472063"
+  ],
   "features": [
     {
       "type": "Feature",

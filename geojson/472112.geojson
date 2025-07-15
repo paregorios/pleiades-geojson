@@ -9,6 +9,9 @@
     41.466887
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Phikaria",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Phikaria"
   ],

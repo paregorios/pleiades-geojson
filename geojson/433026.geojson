@@ -4,8 +4,8 @@
   "id": "433026",
   "bbox": [
     13.8820005,
-    40.751741,
-    13.891259,
+    40.7580256,
+    13.8820005,
     40.7580256
   ],
   "description": "In the eighth century BCE, Euboean Greeks from Eretria and Chalcis established an emporion on the island of Ischia.",
@@ -14,7 +14,8 @@
     "1113"
   ],
   "names": [
-    "Pithekoussai"
+    "Pithekoussai",
+    "Lacco Ameno"
   ],
   "features": [
     {
@@ -22,29 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.88662975,
-          40.7548833
+          13.8820005,
+          40.7580256
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.891259,
-          40.751741
-        ]
-      },
-      "id": "darmc-location-18770",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 18770",
-        "link": "http://pleiades.stoa.org/places/433026/darmc-location-18770"
       }
     },
     {
@@ -62,6 +46,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/433026/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8820005,
+          40.7580256
+        ]
+      },
+      "id": "osm-location-of-pithecusae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pithecusae",
+        "link": "http://pleiades.stoa.org/places/433026/osm-location-of-pithecusae"
       }
     }
   ]

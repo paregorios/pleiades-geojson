@@ -3,9 +3,9 @@
   "title": "Roma",
   "id": "423025",
   "bbox": [
-    12.0248296,
-    41.7451532,
-    12.667922,
+    11.8932823,
+    40.2859079,
+    15.3155234,
     43.7892424
   ],
   "description": "The capital of the Roman Republic and Empire.",
@@ -51,8 +51,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4919861721,
-          41.89049099
+          12.4921377823,
+          41.8897869801
         ]
       },
       "properties": {

@@ -3,20 +3,26 @@
   "title": "Laino",
   "id": "452357",
   "bbox": [
-    15.974424,
-    39.955314,
-    15.974424,
-    39.955314
+    15.9737191,
+    39.936304,
+    15.97658,
+    39.95352
   ],
-  "description": "An ancient place, cited: BAtlas 46 C2 Laino",
+  "description": "Laino is located near Cosenza, Italy. According to PECS, the ancient situation should be understood in terms of the two present-day communities, namely Laino Castello and Laino Borgo, located in the valley of the Laos River. Here, there is archaeological evidence for an indigenous necropolis in the Early Iron Age and then connections with Greek colonies, including Sybaris, through the Hellenistic period.",
+  "names": [
+    "Laino",
+    "Lainus",
+    "Laino Castello",
+    "Laino Borgo"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.974424,
-          39.955314
+          15.97514955,
+          39.944912
         ]
       },
       "properties": {
@@ -27,17 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.974424,
-          39.955314
+          15.9737191,
+          39.95352
         ]
       },
-      "id": "darmc-location-18505",
+      "id": "osm-location-of-laino-borgo",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18505",
-        "link": "http://pleiades.stoa.org/places/452357/darmc-location-18505"
+        "title": "OSM location of Laino Borgo",
+        "link": "http://pleiades.stoa.org/places/452357/osm-location-of-laino-borgo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97658,
+          39.936304
+        ]
+      },
+      "id": "osm-location-of-laino-castello",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Laino Castello",
+        "link": "http://pleiades.stoa.org/places/452357/osm-location-of-laino-castello"
       }
     }
   ]

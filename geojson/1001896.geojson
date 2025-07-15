@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Hellas",
+  "title": "Hellas (Late Roman province)",
   "id": "1001896",
   "bbox": [
     20.0,
@@ -8,7 +8,7 @@
     25.0,
     40.0
   ],
-  "description": "An ancient place, cited: BAtlas 102 D4 no. 10 (Hellas)",
+  "description": "Hellas was an administrative region of the Late Roman Empire, included in the prefecture of Illyrikon according to Hierocles.",
   "names": [
     "Hellas",
     "Griechenland",

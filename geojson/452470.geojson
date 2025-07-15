@@ -3,17 +3,19 @@
   "title": "Terina?",
   "id": "452470",
   "bbox": [
-    16.238922,
-    38.944865,
-    16.238922,
-    38.944865
+    16.233021,
+    38.9384736,
+    16.2348165,
+    38.940154
   ],
   "description": "An ancient place, cited: BAtlas 46 D4 Terina?",
   "connectsWith": [
     "1113"
   ],
   "names": [
-    "Terina"
+    "Terina",
+    "Terina",
+    "Santa Eufemia Vetere"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.238922,
-          38.944865
+          16.2340000297,
+          38.9393420228
         ]
       },
       "properties": {
@@ -31,19 +33,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.238922,
-          38.944865
+          [
+            16.2344354,
+            38.9385328
+          ],
+          [
+            16.2335914,
+            38.9384736
+          ],
+          [
+            16.233021,
+            38.9396626
+          ],
+          [
+            16.2345971,
+            38.9400955
+          ],
+          [
+            16.2346244,
+            38.9400794
+          ],
+          [
+            16.2346669,
+            38.94009
+          ],
+          [
+            16.23468,
+            38.9401164
+          ],
+          [
+            16.2348165,
+            38.940154
+          ],
+          [
+            16.2344354,
+            38.9385328
+          ]
         ]
       },
-      "id": "darmc-location-18930",
+      "id": "osm-location-of-terina",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap, chronology following the Barrington Atlas",
         "location_precision": "precise",
-        "title": "DARMC location 18930",
-        "link": "http://pleiades.stoa.org/places/452470/darmc-location-18930"
+        "title": "OSM location of Terina",
+        "link": "http://pleiades.stoa.org/places/452470/osm-location-of-terina"
       }
     }
   ]

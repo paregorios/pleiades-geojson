@@ -2,24 +2,88 @@
   "type": "FeatureCollection",
   "title": "Fano",
   "id": "442580",
-  "description": "An ancient place, cited: BAtlas 45 inset Fano",
+  "bbox": [
+    18.234929,
+    39.8567851,
+    18.2351318,
+    39.8570844
+  ],
+  "description": "According to M.T. Giannotta, Fano (or Masseria Fano) in the comune of Salve, province of Lecce, south Italy, has produced evidence for first-millennium BCE settlement activity. This data has chiefly been acquired from field surveys and the examination of aerial photographs. The latter suggests a fortified site with a wall of irregular blocks facing the Canale Fano. Surface finds of impasto ceramics near Spigolizzi suggest human activity in the eighth century BCE and also likely earlier during the Final Bronze Age as well.",
+  "names": [
+    "Masseria Fano",
+    "Fano"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2350275902,
+          39.8569282454
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            18.2351318,
+            39.8569119
+          ],
+          [
+            18.2350866,
+            39.8568967
+          ],
+          [
+            18.2351219,
+            39.8568318
+          ],
+          [
+            18.2349825,
+            39.8567851
+          ],
+          [
+            18.23495,
+            39.8568464
+          ],
+          [
+            18.2349961,
+            39.8568635
+          ],
+          [
+            18.234979,
+            39.8568992
+          ],
+          [
+            18.2350009,
+            39.8569078
+          ],
+          [
+            18.234929,
+            39.8570481
+          ],
+          [
+            18.2350371,
+            39.8570844
+          ],
+          [
+            18.2351318,
+            39.8569119
+          ]
+        ]
+      },
+      "id": "osm-location-of-masseria-del-fano",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/442580/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Masseria del Fano",
+        "link": "http://pleiades.stoa.org/places/442580/osm-location-of-masseria-del-fano"
       }
     }
   ]

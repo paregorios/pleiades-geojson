@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ain Aata",
+  "id": "913287176",
+  "bbox": [
+    35.7837732239,
+    33.4348819533,
+    35.7837732239,
+    33.4348819533
+  ],
+  "description": "Sanctuary of the Roman period",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7837732239,
+          33.4348819533
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.78377322394516,
+          33.43488195332897
+        ]
+      },
+      "id": "temple-at-ain-aata",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Temple at Ain Aata",
+        "link": "http://pleiades.stoa.org/places/913287176/temple-at-ain-aata"
+      }
+    }
+  ]
+}

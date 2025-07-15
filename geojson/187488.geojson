@@ -9,6 +9,10 @@
     47.843842
   ],
   "description": "An ancient place, cited: BAtlas 19 C2 *Navoa",
+  "connectsWith": [
+    "118580",
+    "187335"
+  ],
   "names": [
     "Navoa",
     "Navoae"

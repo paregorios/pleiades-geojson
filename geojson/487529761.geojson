@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Italia, Regio III",
+  "id": "487529761",
+  "bbox": [
+    15.812382,
+    38.28633,
+    15.812382,
+    38.28633
+  ],
+  "description": "One of the administrative regions from Augustus's division of Italy, comprising Lucania and Bruttium. Described by Pliny the Elder in Book III of his Natural History.",
+  "connectsWith": [
+    "442639"
+  ],
+  "names": [
+    "Regio III",
+    "Regio III Lucania et Bruttii"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.812382,
+          38.28633
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

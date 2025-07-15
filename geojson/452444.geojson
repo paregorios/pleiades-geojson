@@ -3,20 +3,23 @@
   "title": "Serra Maiori",
   "id": "452444",
   "bbox": [
-    16.444397,
-    40.170952,
-    16.444397,
-    40.170952
+    16.4928843,
+    40.1248737,
+    16.4935038,
+    40.125367
   ],
   "description": "An ancient place, cited: BAtlas 46 D1 Serra Maiori",
+  "names": [
+    "Serra Maiori"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.444397,
-          40.170952
+          16.4932132015,
+          40.1251279629
         ]
       },
       "properties": {
@@ -25,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.444397,
-          40.170952
+          [
+            16.4931331,
+            40.1253585
+          ],
+          [
+            16.4930248,
+            40.125367
+          ],
+          [
+            16.4929306,
+            40.1253275
+          ],
+          [
+            16.4928843,
+            40.1252547
+          ],
+          [
+            16.4929767,
+            40.1252353
+          ],
+          [
+            16.4930024,
+            40.1251747
+          ],
+          [
+            16.4930155,
+            40.125098
+          ],
+          [
+            16.4931853,
+            40.1249529
+          ],
+          [
+            16.4932722,
+            40.1248898
+          ],
+          [
+            16.4933836,
+            40.1248888
+          ],
+          [
+            16.4934633,
+            40.1248737
+          ],
+          [
+            16.4935038,
+            40.124894
+          ],
+          [
+            16.4934981,
+            40.1249717
+          ],
+          [
+            16.4934965,
+            40.1250646
+          ],
+          [
+            16.493441,
+            40.1251503
+          ],
+          [
+            16.4933552,
+            40.1252248
+          ],
+          [
+            16.493269,
+            40.125296
+          ],
+          [
+            16.4932166,
+            40.1252938
+          ],
+          [
+            16.4931614,
+            40.1253171
+          ],
+          [
+            16.4931331,
+            40.1253585
+          ]
         ]
       },
-      "id": "darmc-location-18879",
+      "id": "osm-location-of-serra-maiori",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18879",
-        "link": "http://pleiades.stoa.org/places/452444/darmc-location-18879"
+        "title": "OSM location of Serra Maiori",
+        "link": "http://pleiades.stoa.org/places/452444/osm-location-of-serra-maiori"
       }
     }
   ]

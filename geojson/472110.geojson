@@ -9,6 +9,9 @@
     41.387392
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Palla",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Palla"
   ],

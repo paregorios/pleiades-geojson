@@ -9,6 +9,9 @@
     39.713367
   ],
   "description": "An ancient place, cited: BAtlas 48 A3 S. Angiarxia",
+  "connectsWith": [
+    "472014"
+  ],
   "features": [
     {
       "type": "Feature",

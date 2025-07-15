@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "title": "Acropolis of Selinus",
+  "id": "199303735",
+  "bbox": [
+    32.2823951,
+    36.2582215,
+    32.28312,
+    36.2586991
+  ],
+  "description": "The fortified Acropolis of Selinus in Rough Cilicia.",
+  "connectsWith": [
+    "648772"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.2827682514,
+          36.2584780941
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.2823951,
+            36.2585888
+          ],
+          [
+            32.2825116,
+            36.2586172
+          ],
+          [
+            32.2825858,
+            36.2586859
+          ],
+          [
+            32.2826546,
+            36.2586476
+          ],
+          [
+            32.2826871,
+            36.2586991
+          ],
+          [
+            32.2830519,
+            36.2585531
+          ],
+          [
+            32.2830234,
+            36.2584864
+          ],
+          [
+            32.28312,
+            36.2584302
+          ],
+          [
+            32.2830851,
+            36.2583718
+          ],
+          [
+            32.2830127,
+            36.2582917
+          ],
+          [
+            32.2829483,
+            36.2582506
+          ],
+          [
+            32.2828222,
+            36.2582215
+          ],
+          [
+            32.2827085,
+            36.2582842
+          ],
+          [
+            32.2826033,
+            36.2583996
+          ],
+          [
+            32.2824823,
+            36.2584576
+          ],
+          [
+            32.2823951,
+            36.2585888
+          ]
+        ]
+      },
+      "id": "osm-location-of-selinus-acropolis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap. Chronology following Barrington Atlas.",
+        "location_precision": "precise",
+        "title": "OSM location of  Selinus Acropolis",
+        "link": "http://pleiades.stoa.org/places/199303735/osm-location-of-selinus-acropolis"
+      }
+    }
+  ]
+}

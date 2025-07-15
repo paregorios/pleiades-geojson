@@ -9,6 +9,10 @@
     40.8670801
   ],
   "description": "A Roman villa with an associated bath complex destroyed by the AD 79 eruption of Vesuvius, the Masseria De Carolis site is located in the comune of Pollena Trocchia near Naples, Italy.",
+  "names": [
+    "Masseria De Carolis",
+    "Pollena Trocchia"
+  ],
   "features": [
     {
       "type": "Feature",

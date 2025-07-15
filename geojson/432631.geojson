@@ -9,6 +9,9 @@
     41.11417
   ],
   "description": "An ancient place, cited: BAtlas 44 F3 Ad Octavum",
+  "connectsWith": [
+    "433211"
+  ],
   "names": [
     "Ad Octavum"
   ],

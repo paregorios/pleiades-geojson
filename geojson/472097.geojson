@@ -9,6 +9,9 @@
     41.403179
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Marianon",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Marianon"
   ],

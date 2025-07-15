@@ -9,6 +9,9 @@
     39.8467611
   ],
   "description": "A Chalcolithic necropolis with tumulus-type tombs.",
+  "names": [
+    "Salve tumulus"
+  ],
   "features": [
     {
       "type": "Feature",

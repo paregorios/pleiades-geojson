@@ -14,7 +14,8 @@
   ],
   "names": [
     "Rhizonicus Sinus",
-    "Rhizonikos kolpos (ho)"
+    "Rhizonikos kolpos (ho)",
+    "Bay of Kotor"
   ],
   "features": [
     {
@@ -22,29 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.6435421248,
-          42.4373496726
+          18.6537512497,
+          42.4413663451
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          18.633333,
-          42.433333
-        ]
-      },
-      "id": "imagery-location-of-rhizonicus-sinus",
-      "type": "Feature",
-      "properties": {
-        "description": "verified in Google Earth 2013.",
-        "location_precision": "precise",
-        "title": "Imagery location of Rhizonicus Sinus",
-        "link": "http://pleiades.stoa.org/places/197472/imagery-location-of-rhizonicus-sinus"
       }
     },
     {
