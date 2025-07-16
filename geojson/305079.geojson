@@ -9,6 +9,9 @@
     36.419617
   ],
   "description": "The so-called Hammam Beni Guecha is a ruined Roman spa located just north and east of the modern Algerian village of Chouara Torche (Beni Guecha municipality). The site may be associated with a road station recorded on the Peutinger Map: Fons Carmerata.",
+  "connectsWith": [
+    "311129"
+  ],
   "names": [
     "Fons Camerata"
   ],

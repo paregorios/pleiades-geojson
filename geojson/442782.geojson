@@ -9,6 +9,10 @@
     40.663091
   ],
   "description": "An ancient place, cited: BAtlas 45 F3 S. Pietro",
+  "names": [
+    "San Pietro",
+    "Masseria S. Pietro"
+  ],
   "features": [
     {
       "type": "Feature",

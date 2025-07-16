@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nuraghe Sas Luzzanas",
+  "id": "307125122",
+  "bbox": [
+    8.8135655,
+    40.3183045,
+    8.8137299,
+    40.3184302
+  ],
+  "description": "A nuraghe located near Sas Contreddas, Sardinia.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Nuraghe Sas Luzzanas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.81364725714,
+          40.3183672874
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.8136402,
+            40.3183045
+          ],
+          [
+            8.8136668,
+            40.318306
+          ],
+          [
+            8.8136914,
+            40.318314
+          ],
+          [
+            8.8137114,
+            40.3183275
+          ],
+          [
+            8.8137247,
+            40.3183452
+          ],
+          [
+            8.8137299,
+            40.3183652
+          ],
+          [
+            8.8137262,
+            40.3183861
+          ],
+          [
+            8.8137137,
+            40.3184049
+          ],
+          [
+            8.8136937,
+            40.3184195
+          ],
+          [
+            8.8136685,
+            40.3184282
+          ],
+          [
+            8.813641,
+            40.3184302
+          ],
+          [
+            8.8136141,
+            40.3184251
+          ],
+          [
+            8.813591,
+            40.3184135
+          ],
+          [
+            8.8135741,
+            40.3183968
+          ],
+          [
+            8.8135655,
+            40.3183767
+          ],
+          [
+            8.813566,
+            40.3183556
+          ],
+          [
+            8.8135751,
+            40.3183365
+          ],
+          [
+            8.8135918,
+            40.3183205
+          ],
+          [
+            8.8136142,
+            40.3183095
+          ],
+          [
+            8.8136402,
+            40.3183045
+          ]
+        ]
+      },
+      "id": "osm-location-of-nuraghe-sas-luzzanas",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nuraghe Sas Luzzanas",
+        "link": "http://pleiades.stoa.org/places/307125122/osm-location-of-nuraghe-sas-luzzanas"
+      }
+    }
+  ]
+}

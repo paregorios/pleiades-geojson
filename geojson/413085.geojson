@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Cività di Bagno",
+  "title": "Civita di Bagno",
   "id": "413085",
   "bbox": [
     13.4304462,
@@ -8,7 +8,7 @@
     13.4496236,
     42.3168443
   ],
-  "description": "An ancient place, cited: BAtlas 42 E4 Cività di Bagno",
+  "description": "Civita di Bagno is the modern name for a small settlement that dates back at least to the Roman Late Republican period. Within the modern town, several key monuments are known, such as a podium temple (late 2nd c. BCE?), identified as that of Feronia by an inscription from the reign of Tiberius, a bath complex beneath Palazzo Oliva, and the medieval remains of the cathedral of San Massimo which reuses much ancient material, as well as funerary remains along the ancient road network. On the adjacent Moritola hill is a vast system of terracing, which in its earliest phase dates to the 2nd c. BCE, that supported a monumental complex of difficult interpretation, but with an important hydraulic infrastructure. This complex underwent multiple modifications over the centuries; in the 5th c. CE the complex was transformed by the installation of two kilns and a limekiln. By the 6th c. CE Civita di Bagno was the seat of a bishop.",
   "features": [
     {
       "type": "Feature",

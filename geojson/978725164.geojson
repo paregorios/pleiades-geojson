@@ -5,10 +5,10 @@
   "bbox": [
     12.483333,
     41.883333,
-    12.486137,
-    41.891775
+    12.483333,
+    41.883333
   ],
-  "description": "A grove sacred to Stimula, located at the southwestern foot of the Aventine hill.",
+  "description": "A grove sacred to Stimula, located at the southwestern foot of the Aventine Hill.",
   "connectsWith": [
     "865014139",
     "423025"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.484735,
-          41.887554
+          12.483333,
+          41.883333
         ]
       },
       "properties": {

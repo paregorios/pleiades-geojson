@@ -8,9 +8,10 @@
     12.124016,
     47.856079
   ],
-  "description": "An ancient place, cited: BAtlas 19 E2 Pons Aeni",
+  "description": "Pons Aeni or \"Ad Enum\" refers to a site(s) of Roman occupation located near Pfaffenhofen am Inn, Schechen, Upper Bavaria. A bridge on the River Inn connected the two provinces of Raetia and Noricum.",
   "connectsWith": [
-    "118547"
+    "118547",
+    "187309"
   ],
   "names": [
     "Pons Aeni",

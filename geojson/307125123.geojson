@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Necropolis of Mesu ‘e Montes",
+  "id": "307125123",
+  "bbox": [
+    8.6195195,
+    40.6322289,
+    8.6195195,
+    40.6322289
+  ],
+  "description": "The Necropolis of Mesu ‘e Montes contains at least 18 tombs of the domus de janas type. The necropolis dates from the later Neolithic period to the middle Bronze Age.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Necropolis of Mesu 'e Montes"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6195195,
+          40.6322289
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6195195,
+          40.6322289
+        ]
+      },
+      "id": "osm-location-of-necropoli-di-mesu-e-montes",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli di Mesu 'e Montes",
+        "link": "http://pleiades.stoa.org/places/307125123/osm-location-of-necropoli-di-mesu-e-montes"
+      }
+    }
+  ]
+}

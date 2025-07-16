@@ -3,14 +3,17 @@
   "title": "Zakros",
   "id": "650881089",
   "bbox": [
-    26.261111,
-    35.098056,
-    26.261389,
-    35.098083
+    26.259407,
+    35.0969598,
+    26.2622957,
+    35.0988618
   ],
   "description": "A Minoan site in eastern Crete and the location of a Bronze Age palatial center.",
   "connectsWith": [
     "589748"
+  ],
+  "names": [
+    "Minoan Palace of Kato Zakro"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.26125,
-          35.0980695
+          26.2608106139,
+          35.0979650801
         ]
       },
       "properties": {
@@ -28,36 +31,165 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          26.261389,
-          35.098056
+          [
+            26.2622617,
+            35.0979672
+          ],
+          [
+            26.2622957,
+            35.09804
+          ],
+          [
+            26.2622946,
+            35.0981265
+          ],
+          [
+            26.2620784,
+            35.0981412
+          ],
+          [
+            26.2620593,
+            35.098264
+          ],
+          [
+            26.261664,
+            35.0982725
+          ],
+          [
+            26.261621,
+            35.0985655
+          ],
+          [
+            26.2615459,
+            35.0986001
+          ],
+          [
+            26.2615246,
+            35.0987784
+          ],
+          [
+            26.2612215,
+            35.0988618
+          ],
+          [
+            26.260919,
+            35.0986427
+          ],
+          [
+            26.2607403,
+            35.0984958
+          ],
+          [
+            26.2606652,
+            35.0983812
+          ],
+          [
+            26.2604489,
+            35.0983077
+          ],
+          [
+            26.2602344,
+            35.0981421
+          ],
+          [
+            26.2597463,
+            35.0983571
+          ],
+          [
+            26.2597275,
+            35.0982123
+          ],
+          [
+            26.2596899,
+            35.0981113
+          ],
+          [
+            26.2595719,
+            35.0981552
+          ],
+          [
+            26.2594539,
+            35.0982825
+          ],
+          [
+            26.259407,
+            35.098051
+          ],
+          [
+            26.2594786,
+            35.0979029
+          ],
+          [
+            26.2595571,
+            35.0978601
+          ],
+          [
+            26.2600573,
+            35.0973822
+          ],
+          [
+            26.2601438,
+            35.0972457
+          ],
+          [
+            26.2601586,
+            35.097171
+          ],
+          [
+            26.2603236,
+            35.0970602
+          ],
+          [
+            26.2604416,
+            35.0969691
+          ],
+          [
+            26.2605058,
+            35.0969598
+          ],
+          [
+            26.2606863,
+            35.0970161
+          ],
+          [
+            26.2609644,
+            35.0971912
+          ],
+          [
+            26.2612749,
+            35.0973662
+          ],
+          [
+            26.2614418,
+            35.0975475
+          ],
+          [
+            26.2618219,
+            35.0978389
+          ],
+          [
+            26.2619911,
+            35.097931
+          ],
+          [
+            26.2621361,
+            35.0979334
+          ],
+          [
+            26.2622617,
+            35.0979672
+          ]
         ]
       },
-      "id": "location-of-zakros",
+      "id": "osm-location-of-minoan-palace-of-kato-zakro",
       "type": "Feature",
       "properties": {
-        "description": "coordinates after GeoHack, verified in Google Earth 2013.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Zakros",
-        "link": "http://pleiades.stoa.org/places/650881089/location-of-zakros"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          26.261111,
-          35.098083
-        ]
-      },
-      "id": "palace-at-kato-zakros",
-      "type": "Feature",
-      "properties": {
-        "description": "Central court of the palace at Kato Zakros",
-        "location_precision": "precise",
-        "title": "Palace at Kato Zakros",
-        "link": "http://pleiades.stoa.org/places/650881089/palace-at-kato-zakros"
+        "title": "OSM location of Minoan Palace of Kato Zakro",
+        "link": "http://pleiades.stoa.org/places/650881089/osm-location-of-minoan-palace-of-kato-zakro"
       }
     }
   ]

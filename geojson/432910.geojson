@@ -8,14 +8,15 @@
     13.8947953,
     41.9638555
   ],
-  "description": "The Liris river (modern Liri) is one of the principal rivers of central Italy.",
+  "description": "A major river of central Italy, originating in the Colles Simbruini and flowing into the Amyclanus Sinus just south of Minturnae. The modern Garigliano.",
   "connectsWith": [
     "1356"
   ],
   "names": [
     "Liris",
     "Clanis",
-    "Leiris"
+    "Leiris",
+    "Garigliano"
   ],
   "features": [
     {

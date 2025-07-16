@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Necropolis of Su Crucifissu Mannu",
+  "id": "307125124",
+  "bbox": [
+    8.443596,
+    40.8098067,
+    8.4447932,
+    40.8107901
+  ],
+  "description": "A prehistoric necropolis at Porto Torres, Sardinia, containing at least 22 domus de ianas type tombs.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Necropolis of Su Crucifissu Mannu"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44417540828,
+          40.8102892372
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.443596,
+            40.8103359
+          ],
+          [
+            8.444177,
+            40.8098067
+          ],
+          [
+            8.4447932,
+            40.8101909
+          ],
+          [
+            8.4446399,
+            40.8102707
+          ],
+          [
+            8.4441419,
+            40.8107901
+          ],
+          [
+            8.4436535,
+            40.8104809
+          ],
+          [
+            8.443596,
+            40.8103359
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-di-su-crucifissu-mannu",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli di Su Crucifissu Mannu",
+        "link": "http://pleiades.stoa.org/places/307125124/osm-location-of-necropoli-di-su-crucifissu-mannu"
+      }
+    }
+  ]
+}

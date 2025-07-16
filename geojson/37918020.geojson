@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Necropoli fenicio-punica di Othoca",
+  "id": "37918020",
+  "bbox": [
+    8.6108094,
+    39.8741121,
+    8.6132536,
+    39.8755308
+  ],
+  "description": "The Punic necropolis at Othoca in Sardinia.",
+  "connectsWith": [
+    "471988"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.61198696133,
+          39.8747499705
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6108411,
+            39.8742603
+          ],
+          [
+            8.6108094,
+            39.8745328
+          ],
+          [
+            8.611013,
+            39.8747862
+          ],
+          [
+            8.6113228,
+            39.8753495
+          ],
+          [
+            8.6113748,
+            39.8754232
+          ],
+          [
+            8.6124559,
+            39.8755308
+          ],
+          [
+            8.6129139,
+            39.8749433
+          ],
+          [
+            8.6131717,
+            39.8746587
+          ],
+          [
+            8.6132312,
+            39.8745755
+          ],
+          [
+            8.6132536,
+            39.8745251
+          ],
+          [
+            8.6132376,
+            39.8744822
+          ],
+          [
+            8.6131848,
+            39.8744343
+          ],
+          [
+            8.6131097,
+            39.8743914
+          ],
+          [
+            8.6129194,
+            39.8743533
+          ],
+          [
+            8.6119374,
+            39.8741741
+          ],
+          [
+            8.611604,
+            39.8741158
+          ],
+          [
+            8.6114425,
+            39.8741121
+          ],
+          [
+            8.6113129,
+            39.8741293
+          ],
+          [
+            8.6110906,
+            39.8741846
+          ],
+          [
+            8.6108411,
+            39.8742603
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-fenicio-punica-di-othoca",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli fenicio-punica di Othoca",
+        "link": "http://pleiades.stoa.org/places/37918020/osm-location-of-necropoli-fenicio-punica-di-othoca"
+      }
+    }
+  ]
+}
