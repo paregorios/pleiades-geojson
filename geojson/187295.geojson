@@ -3,17 +3,19 @@
   "title": "Artobriga",
   "id": "187295",
   "bbox": [
-    12.645465,
-    47.86997,
-    12.645465,
-    47.86997
+    12.6484621,
+    47.8695272,
+    12.6484621,
+    47.8695272
   ],
   "description": "An ancient place, cited: BAtlas 19 E2 Artobriga",
   "connectsWith": [
     "187432"
   ],
   "names": [
-    "Artobriga"
+    "Artobriga",
+    "Artobrige",
+    "Traunstein"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.645465,
-          47.86997
+          12.6484621,
+          47.8695272
         ]
       },
       "properties": {
@@ -33,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.645465,
-          47.86997
+          12.6484621,
+          47.8695272
         ]
       },
-      "id": "darmc-location-8670",
+      "id": "osm-location-modern-traunstein",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8670",
-        "link": "http://pleiades.stoa.org/places/187295/darmc-location-8670"
+        "title": "OSM Location: modern Traunstein",
+        "link": "http://pleiades.stoa.org/places/187295/osm-location-modern-traunstein"
       }
     }
   ]

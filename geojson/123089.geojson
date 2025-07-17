@@ -3,6 +3,9 @@
   "title": "Hegetmatia",
   "id": "123089",
   "description": "An ancient place, cited: BAtlas 12 unlocated Hegetmatia",
+  "connectsWith": [
+    "118604"
+  ],
   "names": [
     "Hegetmatia"
   ],

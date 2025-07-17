@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Tibula?",
+  "title": "Tibula",
   "id": "472034",
   "bbox": [
-    9.184759,
-    41.240022,
-    9.184759,
-    41.240022
+    9.188518,
+    41.241377,
+    9.188518,
+    41.241377
   ],
-  "description": "An ancient place, cited: BAtlas 48 B1 Tibula?",
+  "description": "An ancient port settlement in the north of Sardinia, taken by the author of the Antonine Itineraries as the starting point for the description of all the routes on the island. It is possibly to be identified with modern Lungoni/Santa Teresa Gallura (thus, tentatively, BAtlas).",
   "connectsWith": [
     "472014"
   ],
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.184759,
-          41.240022
+          9.188518,
+          41.241377
         ]
       },
       "properties": {
@@ -36,17 +36,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.184759,
-          41.240022
+          9.188518,
+          41.241377
         ]
       },
-      "id": "darmc-location-259",
+      "id": "osm-location-lungoni-santa-teresa-gallura",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 259",
-        "link": "http://pleiades.stoa.org/places/472034/darmc-location-259"
+        "title": "OSM Location: Lungoni/Santa Teresa Gallura",
+        "link": "http://pleiades.stoa.org/places/472034/osm-location-lungoni-santa-teresa-gallura"
       }
     }
   ]

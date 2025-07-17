@@ -3,10 +3,10 @@
   "title": "Sipous/Sipontum",
   "id": "442797",
   "bbox": [
-    15.8897665,
-    41.606816,
-    15.895942,
-    41.6084823
+    15.8887108,
+    41.6078993,
+    15.8925921,
+    41.6109226
   ],
   "description": "A Greek colony that fell first under Samnite control, then was later taken by Alexander of Epirus. The site became a Roman colony in 189 BC.",
   "names": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.89285425,
-          41.60764915
+          15.8906336309,
+          41.609389939
         ]
       },
       "properties": {
@@ -31,36 +31,65 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.895942,
-          41.606816
+          [
+            15.8887108,
+            41.6087518
+          ],
+          [
+            15.8890617,
+            41.6083935
+          ],
+          [
+            15.8890274,
+            41.6082844
+          ],
+          [
+            15.8894651,
+            41.6078993
+          ],
+          [
+            15.8906872,
+            41.6086543
+          ],
+          [
+            15.8916271,
+            41.609192
+          ],
+          [
+            15.8923996,
+            41.6098722
+          ],
+          [
+            15.8925921,
+            41.610062
+          ],
+          [
+            15.8916061,
+            41.6109226
+          ],
+          [
+            15.8895176,
+            41.6093807
+          ],
+          [
+            15.8887568,
+            41.6087876
+          ],
+          [
+            15.8887108,
+            41.6087518
+          ]
         ]
       },
-      "id": "darmc-location-18888",
+      "id": "osm-location-parco-archeologico-di-siponto",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 18888",
-        "link": "http://pleiades.stoa.org/places/442797/darmc-location-18888"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.8897665,
-          41.6084823
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/442797/dare-location"
+        "title": "OSM Location: Parco archeologico di Siponto",
+        "link": "http://pleiades.stoa.org/places/442797/osm-location-parco-archeologico-di-siponto"
       }
     }
   ]

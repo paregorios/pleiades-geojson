@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman aqueduct",
+  "id": "227492604",
+  "bbox": [
+    8.4828268,
+    40.7713037,
+    8.4843288,
+    40.7721284
+  ],
+  "description": "The Roman aqueduct of San Giovanni.",
+  "connectsWith": [
+    "471879"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4835706356,
+          40.7717213905
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4843288,
+            40.7713037
+          ],
+          [
+            8.4840445,
+            40.7715109
+          ],
+          [
+            8.4833042,
+            40.7718522
+          ],
+          [
+            8.482859,
+            40.7720472
+          ],
+          [
+            8.4828268,
+            40.7721284
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-aqueduct",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman aqueduct",
+        "link": "http://pleiades.stoa.org/places/227492604/osm-location-of-roman-aqueduct"
+      }
+    }
+  ]
+}

@@ -3,14 +3,17 @@
   "title": "‘Sublavione’",
   "id": "187561",
   "bbox": [
-    11.564796,
-    46.63961,
-    11.564796,
-    46.63961
+    11.5318969,
+    46.5982585,
+    11.5663497,
+    46.6399237
   ],
-  "description": "An ancient place, cited: BAtlas 19 D3 ‘Sublavione’",
+  "description": "The Barrington Atlas provides two possible alternative modern identifications along the Eisack/Iscara river in South Tyrol for the location of ancient Sublavione, which is attested both on the Peutinger map and in the Antonine Itineraries: Waidbruck/Ponte Gardena and Klausen/Chiusa.",
   "names": [
-    "Sublavione"
+    "Sublavione",
+    "Ponte Gardena",
+    "Chiusa",
+    "Sublabione"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.564796,
-          46.63961
+          11.5491233,
+          46.6190911
         ]
       },
       "properties": {
@@ -30,17 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.564796,
-          46.63961
+          11.5663497,
+          46.6399237
         ]
       },
-      "id": "darmc-location-9543",
+      "id": "osm-location-modern-klausen-chiusa",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 9543",
-        "link": "http://pleiades.stoa.org/places/187561/darmc-location-9543"
+        "title": "OSM Location: modern Klausen/Chiusa",
+        "link": "http://pleiades.stoa.org/places/187561/osm-location-modern-klausen-chiusa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5318969,
+          46.5982585
+        ]
+      },
+      "id": "osm-location-modern-waidbruck-ponte-gardena",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Waidbruck/Ponte Gardena",
+        "link": "http://pleiades.stoa.org/places/187561/osm-location-modern-waidbruck-ponte-gardena"
       }
     }
   ]

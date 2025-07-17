@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cancello e Arnone",
+  "id": "698731845",
+  "bbox": [
+    14.027423,
+    41.074112,
+    14.027423,
+    41.074112
+  ],
+  "description": "The ruins of a Roman villa of the ager Falernus were discovered at Cancello e Arnone during work on a green energy facility.",
+  "connectsWith": [
+    "433211",
+    "432828"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.027423,
+          41.074112
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.027423,
+          41.074112
+        ]
+      },
+      "id": "osm-location-of-cancello-ed-arnone",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cancello ed Arnone",
+        "link": "http://pleiades.stoa.org/places/698731845/osm-location-of-cancello-ed-arnone"
+      }
+    }
+  ]
+}

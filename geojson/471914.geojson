@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Diabate? (island)",
+  "title": "Diabate (island)",
   "id": "471914",
   "bbox": [
     8.2115717,
@@ -8,9 +8,9 @@
     8.2269998,
     40.9827572
   ],
-  "description": "An ancient place, cited: BAtlas 48 A2 Diabate? Ins.",
+  "description": "An island near Sardinia recorded by Ptolemy and Stephanus. It is possibly to be identified with the modern Isola Piana.",
   "names": [
-    "Diabate",
+    "Diabate nesos",
     "Isola Piana"
   ],
   "features": [

@@ -3,6 +3,9 @@
   "title": "Maroboudon",
   "id": "123100",
   "description": "An ancient place, cited: BAtlas 12 unlocated Maroboudon",
+  "connectsWith": [
+    "118604"
+  ],
   "names": [
     "Maroboudon"
   ],

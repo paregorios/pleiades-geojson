@@ -3,6 +3,9 @@
   "title": "Aregelia/Argelia",
   "id": "123070",
   "description": "An ancient place, cited: BAtlas 12 unlocated Ar(e)gelia",
+  "connectsWith": [
+    "118604"
+  ],
   "names": [
     "Aregelia",
     "Argelia"

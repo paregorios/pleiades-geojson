@@ -9,6 +9,9 @@
     38.825075
   ],
   "description": "An ancient place, cited: BAtlas 55 E3 Kerinthos",
+  "connectsWith": [
+    "540692"
+  ],
   "names": [
     "Kerinthos"
   ],

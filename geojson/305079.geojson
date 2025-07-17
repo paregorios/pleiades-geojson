@@ -3,8 +3,8 @@
   "title": "Hammam Beni Guecha",
   "id": "305079",
   "bbox": [
-    5.983316,
-    36.39996,
+    5.989584,
+    36.419617,
     5.989584,
     36.419617
   ],
@@ -13,7 +13,9 @@
     "311129"
   ],
   "names": [
-    "Fons Camerata"
+    "Fons Camerata",
+    "Hammam des Beni Guecha",
+    "Fons Camerata?"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.98645,
-          36.4097885
+          5.989584,
+          36.419617
         ]
       },
       "properties": {
@@ -44,23 +46,6 @@
         "location_precision": "precise",
         "title": "Imagery Location of Hammam Beni Guecha",
         "link": "http://pleiades.stoa.org/places/305079/imagery-location-of-hammam-beni-guecha"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.983316,
-          36.39996
-        ]
-      },
-      "id": "darmc-location-9814",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 9814",
-        "link": "http://pleiades.stoa.org/places/305079/darmc-location-9814"
       }
     }
   ]
