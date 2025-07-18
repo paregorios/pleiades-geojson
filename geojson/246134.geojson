@@ -9,6 +9,9 @@
     42.536669
   ],
   "description": "An ancient place, cited: BAtlas 25 H3 Ad Centenarium",
+  "connectsWith": [
+    "246433"
+  ],
   "names": [
     "Ad Centenarium",
     "Ad Centuriones"

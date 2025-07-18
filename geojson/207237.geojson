@@ -3,13 +3,14 @@
   "title": "Lederata",
   "id": "207237",
   "bbox": [
-    21.334266,
-    44.813432,
-    21.334266,
-    44.813432
+    21.3395968,
+    44.8168073,
+    21.3395968,
+    44.8168073
   ],
-  "description": "An ancient place, cited: BAtlas 21 D5 Lederata",
+  "description": "A Roman auxiliary fort on the Danube river at modern Ram (Serbia). It was reduced in size by the time of Diocletian and then renovated and expanded under Justinian.",
   "names": [
+    "Ram",
     "Lederata"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.334266,
-          44.813432
+          21.3395968,
+          44.8168073
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.334266,
-          44.813432
+          21.3395968,
+          44.8168073
         ]
       },
-      "id": "darmc-location-24356",
+      "id": "osm-location-of-dduddunddegnddeg",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24356",
-        "link": "http://pleiades.stoa.org/places/207237/darmc-location-24356"
+        "title": "OSM location of Ледерата",
+        "link": "http://pleiades.stoa.org/places/207237/osm-location-of-dduddunddegnddeg"
       }
     }
   ]

@@ -3,17 +3,21 @@
   "title": "Rusubbicari Matidiae",
   "id": "295333",
   "bbox": [
-    3.5646,
-    36.801017,
-    3.5646,
-    36.801017
+    3.5633619,
+    36.7972213,
+    3.5689245,
+    36.8018458
   ],
-  "description": "An ancient place, cited: BAtlas 30 G3 Rusubbicari Matidiae",
+  "description": "This ancient settlement, mentioned in several Roman-era itineraries and sources, has been identified with the ruin/archaeological site known in modern times as Marsa al Dajaj, which is located adjacent to the modern Algerian coastal village of Zemmouri El Bahri.",
   "connectsWith": [
     "295253"
   ],
   "names": [
-    "Rusubbicari Matidiae"
+    "Rusubbicari Matidiae",
+    "Zemmouri el Bahri",
+    "Mers el Hadjedje",
+    "Rusubbicari Matidiae",
+    "Marsa al Dejjaj"
   ],
   "features": [
     {
@@ -21,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.5646,
-          36.801017
+          3.56584699496,
+          36.7995988082
         ]
       },
       "properties": {
@@ -31,19 +35,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          3.5646,
-          36.801017
+          [
+            3.5633619,
+            36.8007628
+          ],
+          [
+            3.5643509,
+            36.8015473
+          ],
+          [
+            3.564598,
+            36.8015117
+          ],
+          [
+            3.5649661,
+            36.8018458
+          ],
+          [
+            3.5655689,
+            36.8016475
+          ],
+          [
+            3.5663038,
+            36.8016003
+          ],
+          [
+            3.5673743,
+            36.8015037
+          ],
+          [
+            3.5678608,
+            36.8004482
+          ],
+          [
+            3.5689245,
+            36.7991372
+          ],
+          [
+            3.568785,
+            36.7991154
+          ],
+          [
+            3.5679907,
+            36.7992508
+          ],
+          [
+            3.5669918,
+            36.7992162
+          ],
+          [
+            3.5667008,
+            36.7977362
+          ],
+          [
+            3.565584,
+            36.7975189
+          ],
+          [
+            3.5640588,
+            36.7972213
+          ],
+          [
+            3.5641076,
+            36.7977547
+          ],
+          [
+            3.5645398,
+            36.7992262
+          ],
+          [
+            3.5636735,
+            36.7994679
+          ],
+          [
+            3.5637881,
+            36.8003916
+          ],
+          [
+            3.5633619,
+            36.8007628
+          ]
         ]
       },
-      "id": "darmc-location-14544",
+      "id": "osm-location-marsa-al-dajaj",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 14544",
-        "link": "http://pleiades.stoa.org/places/295333/darmc-location-14544"
+        "title": "OSM Location: Marsa al Dajaj",
+        "link": "http://pleiades.stoa.org/places/295333/osm-location-marsa-al-dajaj"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Villaspeciosa",
+  "title": "San Cromazio Roman Villa",
   "id": "472043",
   "bbox": [
     8.9124758,
@@ -8,12 +8,13 @@
     8.9133234,
     39.3180616
   ],
-  "description": "An ancient place, cited: BAtlas 48 A3 Villaspeciosa",
+  "description": "Remains of a late Roman villa with mosaics have been excavated at a site named San Cromazio in the municipal territory of modern Villaspeciosa on the island of Sardinia.",
   "connectsWith": [
     "472014"
   ],
   "names": [
-    "Villaspeciosa"
+    "Villaspeciosa",
+    "Area Archeologica di San Cromazio"
   ],
   "features": [
     {
