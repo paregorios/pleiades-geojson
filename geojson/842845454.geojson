@@ -3,10 +3,10 @@
   "title": "Reycross",
   "id": "842845454",
   "bbox": [
-    -2.1554407,
-    54.5064554,
-    -2.1554407,
-    54.5064554
+    -2.1551939,
+    54.5066547,
+    -2.1551939,
+    54.5066547
   ],
   "description": "A castra aestivalia perhaps dating from the campaigns of Agricola.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1554407,
-          54.5064554
+          -2.1551939,
+          54.5066547
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.1554407,
-          54.5064554
+          -2.1551939,
+          54.5066547
         ]
       },
       "id": "osm-location",

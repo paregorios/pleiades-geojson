@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Hegetmatia",
   "id": "123089",
+  "bbox": [
+    13.5296124651,
+    50.0541471513,
+    15.2409208205,
+    50.0865078209
+  ],
   "description": "An ancient place, cited: BAtlas 12 unlocated Hegetmatia",
   "connectsWith": [
     "118604"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3906940994,
+          50.0697569787
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

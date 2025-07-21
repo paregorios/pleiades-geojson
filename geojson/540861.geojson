@@ -3,10 +3,10 @@
   "title": "Kerinthos",
   "id": "540861",
   "bbox": [
-    23.48282,
-    38.825075,
-    23.48282,
-    38.825075
+    23.4719437,
+    38.8346269,
+    23.4719437,
+    38.8346269
   ],
   "description": "An ancient place, cited: BAtlas 55 E3 Kerinthos",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.48282,
-          38.825075
+          23.4719437,
+          38.8346269
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.48282,
-          38.825075
+          23.4719437,
+          38.8346269
         ]
       },
-      "id": "darmc-location-13115",
+      "id": "osm-location-of-iioiiii-i-i-i-iii-i-i-i-ii-iii1-2i",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 13115",
-        "link": "http://pleiades.stoa.org/places/540861/darmc-location-13115"
+        "title": "OSM location of Ακρόπολη αρχαίας Κηρύνθου",
+        "link": "http://pleiades.stoa.org/places/540861/osm-location-of-iioiiii-i-i-i-iii-i-i-i-ii-iii1-2i"
       }
     }
   ]

@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Basilica",
+  "title": "Civil Basilica at Aphrodisias",
   "id": "685696905",
   "bbox": [
-    28.7229432584,
-    37.7065529742,
-    28.7233081717,
-    37.7074405366
+    28.723028,
+    37.7067367,
+    28.7234202,
+    37.707517
   ],
-  "description": "The Civil Basilica at Aphrodisias was a three-aisled public hall measuring approximately 145 by 30 meters. It opened off the southwest corner of the South Agora.It dates to the late first century CE.",
+  "description": "The Civil Basilica at Aphrodisias was a three-aisled public hall measuring approximately 145 by 30 meters. It opened off the southwest corner of the South Agora. It dates to the late first century CE.",
   "connectsWith": [
     "638753"
+  ],
+  "names": [
+    "Civil Basilica"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.7231286027,
-          37.7070064686
+          28.7232240517,
+          37.7071268142
         ]
       },
       "properties": {
@@ -28,44 +31,45 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              28.72294325842969,
-              37.70742299549069,
-              0.0
-            ],
-            [
-              28.72320818083804,
-              37.70744053662537,
-              0.0
-            ],
-            [
-              28.7233081716988,
-              37.70659563339535,
-              0.0
-            ],
-            [
-              28.7230592250674,
-              37.70655297416305,
-              0.0
-            ],
-            [
-              28.72294325842969,
-              37.70742299549069,
-              0.0
-            ]
+            28.723028,
+            37.7074948
+          ],
+          [
+            28.7233313,
+            37.707517
+          ],
+          [
+            28.7233598,
+            37.707274
+          ],
+          [
+            28.7234202,
+            37.7067589
+          ],
+          [
+            28.7231167,
+            37.7067367
+          ],
+          [
+            28.7230561,
+            37.7072544
+          ],
+          [
+            28.723028,
+            37.7074948
           ]
         ]
       },
-      "id": "basilica",
+      "id": "osm-location-of-civil-basilica",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Basilica",
-        "link": "http://pleiades.stoa.org/places/685696905/basilica"
+        "title": "OSM location of Civil Basilica",
+        "link": "http://pleiades.stoa.org/places/685696905/osm-location-of-civil-basilica"
       }
     }
   ]

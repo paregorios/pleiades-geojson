@@ -3,14 +3,15 @@
   "title": "Boudoros (river)",
   "id": "540692",
   "bbox": [
-    23.0,
-    38.5,
-    23.5,
-    39.0
+    23.4719437,
+    38.8346269,
+    23.4719437,
+    38.8346269
   ],
   "description": "The ancient river called Boudoros is associated with the Voudoros Potamos, in Euboia, Central Greece.",
   "names": [
-    "Boudoros"
+    "Boudoros",
+    "Voudoros Potamos"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.25,
-          38.75
+          23.4719437,
+          38.8346269
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Villa Imperiale of Milan",
   "id": "585690562",
   "bbox": [
+    9.1803857,
+    45.4649023,
     9.1807081,
-    45.4652723,
-    9.1807081,
-    45.4652723
+    45.4653578
   ],
   "description": "A palatial Roman villa dating to the reign of Maximian.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1807081,
-          45.4652723
+          9.1805470131,
+          45.4651345506
         ]
       },
       "properties": {

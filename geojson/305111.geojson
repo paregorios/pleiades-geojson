@@ -8,11 +8,12 @@
     5.246097,
     36.636739
   ],
-  "description": "An ancient place, cited: BAtlas 31 C3 Muslubium",
+  "description": "Muslubium was a place in Mauretania Caesariensis (north Africa) located along the road from Saldae to Igilgilis. It is associated with state-controlled warehouses for the annona.",
   "connectsWith": [
     "305062"
   ],
   "names": [
+    "Sidi Rehane",
     "Muslubium",
     "Muslubio Horreta"
   ],
@@ -41,7 +42,7 @@
       "id": "darmc-location-13834",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 13834",
         "link": "http://pleiades.stoa.org/places/305111/darmc-location-13834"

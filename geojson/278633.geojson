@@ -3,6 +3,9 @@
   "title": "Pisciana",
   "id": "278633",
   "description": "An ancient place, cited: BAtlas 28 unlocated Pisciana",
+  "connectsWith": [
+    "275717"
+  ],
   "names": [
     "Pisciana"
   ],

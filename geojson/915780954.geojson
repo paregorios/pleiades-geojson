@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pelasgians",
+  "id": "915780954",
+  "description": "A collective ethnic term used by ancient authors to refer to the earliest indigenous inhabitants of the Aegean Sea region. The precise historical identity and reality of these peoples have long been a matter of debate.",
+  "names": [
+    "Pelasgi",
+    "Pelasgians",
+    "Pelasgoi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

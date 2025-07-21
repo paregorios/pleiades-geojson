@@ -9,6 +9,9 @@
     40.99045
   ],
   "description": "An ancient place, cited: BAtlas 51 B3 Domeros",
+  "connectsWith": [
+    "196789404"
+  ],
   "names": [
     "Domeros"
   ],

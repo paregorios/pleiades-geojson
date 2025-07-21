@@ -3,12 +3,12 @@
   "title": "Septizonium",
   "id": "705506085",
   "bbox": [
-    12.4884191,
+    12.4883962,
     41.8854577,
-    12.4884191,
-    41.8854577
+    12.4886259,
+    41.8856588
   ],
-  "description": "The Septizonium (or Septizodium) is a monument located at the extreme at the extreme southeastern corner of the Palatine hill built by the Severan emperors. It is attested textually in the Historia Augusta, its footprint appears on the Severan marble plan (Forma Urbis Romae), and its foundations have been explored via excvavation.",
+  "description": "The Septizonium (or Septizodium) is a monument located at the extreme southeastern corner of the Palatine Hill, built by the Severan emperors. It is attested to textually in the Historia Augusta, its footprint is visible on the Severan marble plan (Forma Urbis Romae), and its foundations have been explored through excavation.",
   "connectsWith": [
     "423025",
     "298699921"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4884191,
-          41.8854577
+          12.4885046862,
+          41.8855542952
         ]
       },
       "properties": {

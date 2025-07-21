@@ -3,10 +3,10 @@
   "title": "Brazda lui Novac de Nord",
   "id": "208383",
   "bbox": [
-    23.0,
-    44.0,
-    24.0,
-    45.0
+    22.7311816746,
+    47.0164057178,
+    23.8933104298,
+    47.4232935498
   ],
   "description": "Brazda lui Novac de Nord is part of a Roman frontier system in present-day Romania. This frontier system is known also as Constantine's Wall.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.5,
-          44.5
+          23.2751830515,
+          47.2589561116
         ]
       },
       "properties": {
