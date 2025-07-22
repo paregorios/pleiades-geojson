@@ -3,10 +3,10 @@
   "title": "Spiraion Pr.",
   "id": "570688",
   "bbox": [
-    23.0,
-    37.5,
-    23.5,
-    38.0
+    23.176,
+    37.8003,
+    23.176,
+    37.8003
   ],
   "description": "An ancient place, cited: BAtlas 58 E2 Spiraion Pr.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.25,
-          37.75
+          23.176,
+          37.8003
         ]
       },
       "properties": {
@@ -29,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              23.0,
-              37.5
-            ],
-            [
-              23.0,
-              38.0
-            ],
-            [
-              23.5,
-              38.0
-            ],
-            [
-              23.5,
-              37.5
-            ],
-            [
-              23.0,
-              37.5
-            ]
-          ]
+          23.176,
+          37.8003
         ]
       },
-      "id": "batlas-location",
+      "id": "topostext-location-of-spiraion-cape-korinthia",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/570688/batlas-location"
+        "description": "Coordinates following ToposText",
+        "location_precision": "precise",
+        "title": "ToposText location of Spiraion cape (Korinthia)",
+        "link": "http://pleiades.stoa.org/places/570688/topostext-location-of-spiraion-cape-korinthia"
       }
     }
   ]

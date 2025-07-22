@@ -3,10 +3,10 @@
   "title": "Ad Centenarium",
   "id": "246134",
   "bbox": [
-    2.839775,
-    42.536669,
-    2.839775,
-    42.536669
+    2.8337158,
+    42.5259989,
+    2.8337158,
+    42.5259989
   ],
   "description": "An ancient place, cited: BAtlas 25 H3 Ad Centenarium",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.839775,
-          42.536669
+          2.8337158,
+          42.5259989
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.839775,
-          42.536669
+          2.8337158,
+          42.5259989
         ]
       },
-      "id": "darmc-location-18709",
+      "id": "osm-location-of-le-boulou",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18709",
-        "link": "http://pleiades.stoa.org/places/246134/darmc-location-18709"
+        "title": "OSM location of Le Boulou",
+        "link": "http://pleiades.stoa.org/places/246134/osm-location-of-le-boulou"
       }
     }
   ]

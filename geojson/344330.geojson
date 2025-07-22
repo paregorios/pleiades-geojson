@@ -3,14 +3,15 @@
   "title": "Breviglieri",
   "id": "344330",
   "bbox": [
-    13.764682,
-    32.44452,
-    13.764682,
-    32.44452
+    13.8445309,
+    32.4463815,
+    13.8448617,
+    32.4465715
   ],
   "description": "An ancient place, cited: BAtlas 35 F2 Breviglieri",
   "names": [
-    "Breviglieri"
+    "Breviglieri",
+    "Al Khaḑrā’"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.764682,
-          32.44452
+          13.8446963,
+          32.4464765
         ]
       },
       "properties": {
@@ -28,19 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.764682,
-          32.44452
+          [
+            13.8448478,
+            32.4465715
+          ],
+          [
+            13.8445309,
+            32.4465531
+          ],
+          [
+            13.8445448,
+            32.4463815
+          ],
+          [
+            13.8448617,
+            32.4463999
+          ],
+          [
+            13.8448478,
+            32.4465715
+          ]
         ]
       },
-      "id": "darmc-location-5007",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 5007",
-        "link": "http://pleiades.stoa.org/places/344330/darmc-location-5007"
+        "title": "OSM location of Paleochristian complex of Breviglieri",
+        "link": "http://pleiades.stoa.org/places/344330/osm-location"
       }
     }
   ]

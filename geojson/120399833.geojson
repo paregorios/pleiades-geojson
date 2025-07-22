@@ -12,6 +12,9 @@
   "connectsWith": [
     "638753"
   ],
+  "names": [
+    "Sebasteion at Aphrodisias"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -59,13 +62,13 @@
           ]
         ]
       },
-      "id": "sebasteion",
+      "id": "imagery-location-sebasteion",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Sebasteion",
-        "link": "http://pleiades.stoa.org/places/120399833/sebasteion"
+        "title": "Imagery Location: Sebasteion",
+        "link": "http://pleiades.stoa.org/places/120399833/imagery-location-sebasteion"
       }
     }
   ]
