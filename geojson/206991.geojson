@@ -3,20 +3,23 @@
   "title": "Buciumi",
   "id": "206991",
   "bbox": [
-    23.044678,
-    47.048013,
-    23.04526,
-    47.048292
+    23.0433435,
+    47.0472497,
+    23.0459571,
+    47.0491632
   ],
   "description": "Buciumi was the site of a Roman castrum along the road between Porolissum and Bologa.",
+  "names": [
+    "Buciumi"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.044969,
-          47.0481525
+          23.0446502898,
+          47.0482064434
         ]
       },
       "properties": {
@@ -25,36 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.04526,
-          47.048013
+          [
+            23.0433435,
+            47.0485846
+          ],
+          [
+            23.0448604,
+            47.0491632
+          ],
+          [
+            23.0459571,
+            47.0478283
+          ],
+          [
+            23.0444401,
+            47.0472497
+          ],
+          [
+            23.0433435,
+            47.0485846
+          ]
         ]
       },
-      "id": "darmc-location-24308",
+      "id": "osm-location-of-castra-of-buciumi",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24308",
-        "link": "http://pleiades.stoa.org/places/206991/darmc-location-24308"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.044678,
-          47.048292
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/206991/dare-location"
+        "title": "OSM location of Castra of Buciumi",
+        "link": "http://pleiades.stoa.org/places/206991/osm-location-of-castra-of-buciumi"
       }
     }
   ]

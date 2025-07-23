@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman villa of Torre di Pordenone",
+  "id": "125510816",
+  "bbox": [
+    12.6815236,
+    45.9666631,
+    12.6817876,
+    45.9668843
+  ],
+  "description": "A Roman villa and bath complex located in the valley of the Noncello River. The villa complex, whose original construction dates to the first century BCE, was likely rebuilt during the second century CE.",
+  "names": [
+    "Villa Romana di Torre di Pordenone"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6816555945,
+          45.9667737184
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6815236,
+            45.9668356
+          ],
+          [
+            12.6816678,
+            45.9668843
+          ],
+          [
+            12.6817876,
+            45.9667119
+          ],
+          [
+            12.6816434,
+            45.9666631
+          ],
+          [
+            12.6815236,
+            45.9668356
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romana-di-torre-di-pordenone",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Romana di Torre di Pordenone",
+        "link": "http://pleiades.stoa.org/places/125510816/osm-location-of-villa-romana-di-torre-di-pordenone"
+      }
+    }
+  ]
+}

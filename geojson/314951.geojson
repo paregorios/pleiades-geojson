@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Elephantaria?",
+  "title": "Sidi-Saïd",
   "id": "314951",
   "bbox": [
-    9.521908,
-    36.645788,
-    9.521908,
-    36.645788
+    9.524385,
+    36.657933,
+    9.524385,
+    36.657933
   ],
-  "description": "An ancient place, cited: BAtlas 32 E3 Elephantaria?",
+  "description": "Tunisian location of ruins of an \"agglomération urbain\" tentatively identified in AAT with the attested \"Elephantaria\" (whence BAtlas).",
   "names": [
-    "Elephantaria"
+    "Elephantaria",
+    "Clefantaria"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.521908,
-          36.645788
+          9.524385,
+          36.657933
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.521908,
-          36.645788
+          9.524385,
+          36.657933
         ]
       },
-      "id": "darmc-location-4898",
+      "id": "imagery-location-sidi-said-after-aat",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location determined in Google Earth with reference to AAT sheet XXVII. There appears to be a small modern village at the location of AAT XXVII.12. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 4898",
-        "link": "http://pleiades.stoa.org/places/314951/darmc-location-4898"
+        "title": "Imagery Location: Sidi-Saïd after AAT",
+        "link": "http://pleiades.stoa.org/places/314951/imagery-location-sidi-said-after-aat"
       }
     }
   ]
