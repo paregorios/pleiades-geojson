@@ -3,15 +3,16 @@
   "title": "Skillous",
   "id": "570674",
   "bbox": [
-    21.602752,
-    37.609552,
-    21.602752,
-    37.609552
+    21.6061165,
+    37.609715,
+    21.6061165,
+    37.609715
   ],
-  "description": "An ancient place, cited: BAtlas 58 B2 Skillous",
+  "description": "An ancient settlement, mentioned by Strabo, that was probably active from the Classical period through the early Roman empire. It was located in the vicinity of the modern Greek village of Makrisia (Elis regional unit of the Peloponnese).",
   "names": [
     "Skillous",
-    "Skyllos"
+    "Skyllos",
+    "Makrisia"
   ],
   "features": [
     {
@@ -19,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.602752,
-          37.609552
+          21.6061165,
+          37.609715
         ]
       },
       "properties": {
@@ -31,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.602752,
-          37.609552
+          21.6061165,
+          37.609715
         ]
       },
-      "id": "darmc-location-14794",
+      "id": "osm-location-modern-makrisia",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap.",
         "location_precision": "precise",
-        "title": "DARMC location 14794",
-        "link": "http://pleiades.stoa.org/places/570674/darmc-location-14794"
+        "title": "OSM Location: modern Makrisia",
+        "link": "http://pleiades.stoa.org/places/570674/osm-location-modern-makrisia"
       }
     }
   ]

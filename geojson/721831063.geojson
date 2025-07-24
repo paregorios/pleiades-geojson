@@ -2,14 +2,27 @@
   "type": "FeatureCollection",
   "title": "Epirote League",
   "id": "721831063",
+  "bbox": [
+    20.1984312092,
+    39.3787116857,
+    21.1954253706,
+    39.9319363696
+  ],
   "description": "A koinon (league) of Epirote tribes which grew out of the earlier Molossian League, established between 370 and 320 BCE. The league dissolved in the Third Macedonian War (171–168 BCE) due to its constituent cities choosing different sides of the conflict.",
   "connectsWith": [
-    "530871"
+    "530871",
+    "618644371"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.7170524477,
+          39.6685656142
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

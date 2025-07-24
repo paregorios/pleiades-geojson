@@ -3,10 +3,10 @@
   "title": "Slăveni",
   "id": "216987",
   "bbox": [
-    24.511834,
-    44.092774,
-    24.511834,
-    44.092774
+    24.5272234,
+    44.0806564,
+    24.5308938,
+    44.0831665
   ],
   "description": "An ancient place, cited: BAtlas 22 B4 Slăveni",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.511834,
-          44.092774
+          24.5290439601,
+          44.0819254968
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          24.511834,
-          44.092774
+          [
+            24.5294543,
+            44.0831665
+          ],
+          [
+            24.5272234,
+            44.0822105
+          ],
+          [
+            24.5285722,
+            44.0806564
+          ],
+          [
+            24.5308938,
+            44.0817119
+          ],
+          [
+            24.5294543,
+            44.0831665
+          ]
         ]
       },
-      "id": "darmc-location-24433",
+      "id": "osm-location-of-castra-of-slaveni",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24433",
-        "link": "http://pleiades.stoa.org/places/216987/darmc-location-24433"
+        "title": "OSM location of Castra of Slăveni",
+        "link": "http://pleiades.stoa.org/places/216987/osm-location-of-castra-of-slaveni"
       }
     }
   ]

@@ -3,17 +3,19 @@
   "title": "Pech Maho",
   "id": "249960",
   "bbox": [
-    2.956222,
-    43.02891,
-    2.979255,
-    43.045681
+    2.9560139,
+    43.0451726,
+    2.9573616,
+    43.0463849
   ],
-  "description": "Pech Maho was an indigenous oppidum and Greek way station labeled no. 54 on Barrington Atlas map 25.",
+  "description": "Pech Maho was an indigenous oppidum and Greek way station. The excavated site lies northeast of the modern French town of Sigean in the Occitania administrative region.",
   "connectsWith": [
     "246248"
   ],
   "names": [
-    "Pech de Mau"
+    "Pech de Mau",
+    "Sigean",
+    "Pech Maho"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.9677385,
-          43.0372955
+          2.95655751804,
+          43.0457222705
         ]
       },
       "properties": {
@@ -31,36 +33,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          2.979255,
-          43.02891
+          [
+            2.9560653,
+            43.0463322
+          ],
+          [
+            2.9562028,
+            43.0463849
+          ],
+          [
+            2.9567056,
+            43.0461756
+          ],
+          [
+            2.9570141,
+            43.0460057
+          ],
+          [
+            2.9570481,
+            43.045997
+          ],
+          [
+            2.9570681,
+            43.045874
+          ],
+          [
+            2.9572664,
+            43.0459121
+          ],
+          [
+            2.9573616,
+            43.0458234
+          ],
+          [
+            2.9570065,
+            43.045319
+          ],
+          [
+            2.9569153,
+            43.0453269
+          ],
+          [
+            2.95669,
+            43.0452289
+          ],
+          [
+            2.9564593,
+            43.0452014
+          ],
+          [
+            2.9562823,
+            43.0452014
+          ],
+          [
+            2.9560139,
+            43.0451726
+          ],
+          [
+            2.956014,
+            43.045204
+          ],
+          [
+            2.9560417,
+            43.0452168
+          ],
+          [
+            2.9561605,
+            43.045272
+          ],
+          [
+            2.9560489,
+            43.0454278
+          ],
+          [
+            2.9560653,
+            43.0463322
+          ]
         ]
       },
-      "id": "center-of-batlas-location",
+      "id": "osm-location-of-pech-maho",
       "type": "Feature",
       "properties": {
-        "description": "A positive identification of the sub-commune location noted in the Barrington Atlas directory",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Center point of location",
-        "link": "http://pleiades.stoa.org/places/249960/center-of-batlas-location"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.956222,
-          43.045681
-        ]
-      },
-      "id": "excavated-oppidum-location",
-      "type": "Feature",
-      "properties": {
-        "description": "A point location marked on IGN maps and visible in GeoEye 2011 imagery",
-        "location_precision": "precise",
-        "title": "Excavated oppidum location",
-        "link": "http://pleiades.stoa.org/places/249960/excavated-oppidum-location"
+        "title": "OSM location of Pech Maho",
+        "link": "http://pleiades.stoa.org/places/249960/osm-location-of-pech-maho"
       }
     }
   ]

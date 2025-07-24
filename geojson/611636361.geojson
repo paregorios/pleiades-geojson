@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Frattocchie diverticulum",
+  "id": "611636361",
+  "bbox": [
+    12.615153,
+    41.7676696,
+    12.6163278,
+    41.7679533
+  ],
+  "description": "An ancient side road (diverticulum) connecting the Via Appia to ancient Bovillae was rediscovered in 2014 construction work in modern Frattocchie. A section of the road was conserved and can be visited beneath the McDonald's restaurant now occupying the site. Other remains of the road have been identified to the west.",
+  "connectsWith": [
+    "356966898",
+    "422852"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6156994319,
+          41.7678310234
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6151697,
+            41.7679533
+          ],
+          [
+            12.6153726,
+            41.7679297
+          ],
+          [
+            12.6153559,
+            41.7678501
+          ],
+          [
+            12.615153,
+            41.7678738
+          ],
+          [
+            12.6151697,
+            41.7679533
+          ]
+        ]
+      },
+      "id": "osm-location-partially-excavated-western-section",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: partially excavated western section",
+        "link": "http://pleiades.stoa.org/places/611636361/osm-location-partially-excavated-western-section"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6159721,
+            41.7678504
+          ],
+          [
+            12.6163278,
+            41.7678002
+          ],
+          [
+            12.6163013,
+            41.7676696
+          ],
+          [
+            12.615942,
+            41.7677223
+          ],
+          [
+            12.6159721,
+            41.7678504
+          ]
+        ]
+      },
+      "id": "osm-location-modern-mcdonalds-restaurant",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern McDonald's restaurant",
+        "link": "http://pleiades.stoa.org/places/611636361/osm-location-modern-mcdonalds-restaurant"
+      }
+    }
+  ]
+}
