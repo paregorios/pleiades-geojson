@@ -9,6 +9,10 @@
     42.492459
   ],
   "description": "The so-called Grotte di S. Nicola, the remains of the platform and cryptoporticus of a late republican Roman villa.",
+  "names": [
+    "Grotte di S. Nicola",
+    "Roman villa of Quintus Axius"
+  ],
   "features": [
     {
       "type": "Feature",

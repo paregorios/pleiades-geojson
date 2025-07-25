@@ -3,16 +3,17 @@
   "title": "Lauriacum",
   "id": "118802",
   "bbox": [
-    14.465958,
-    48.216667,
-    14.475,
-    48.220692
+    14.473957,
+    48.219723,
+    14.4757131,
+    48.2238109
   ],
-  "description": "An ancient place, cited: BAtlas 12 H4 Lauriacum",
+  "description": "An ancient Roman fortification at the confluence of the modern Enns and Danube rivers, with associated settlement.",
   "names": [
     "Lauriacum",
     "Lorch",
-    "Blaboriciaco"
+    "Blaboriciaco",
+    "Enns"
   ],
   "features": [
     {
@@ -20,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.470479,
-          48.2186795
+          14.47483505,
+          48.22176695
         ]
       },
       "properties": {
@@ -32,34 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.465958,
-          48.220692
+          14.473957,
+          48.219723
         ]
       },
-      "id": "darmc-location-7896",
+      "id": "imagery-location-centerpoint-of-roman-legionary-fortress",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Approximate centerpoint of the legionary fortress at Enns after plans republished in Wikipedia (German). Former excavations are now built over but its boundaries are reflected in the surrounding streets: Lorcher Straße, Teichweg, Bahnhofweg, Walderdorff-Straße, Römergraben, and the Büscher & Hoffmann plant. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 7896",
-        "link": "http://pleiades.stoa.org/places/118802/darmc-location-7896"
+        "title": "Imagery Location: Centerpoint of Roman Legionary Fortress",
+        "link": "http://pleiades.stoa.org/places/118802/imagery-location-centerpoint-of-roman-legionary-fortress"
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.475,
-          48.216667
+          14.4757131,
+          48.2238109
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-roman-lime-kilns",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/118802/dare-location"
+        "title": "OSM Location: Roman lime kilns",
+        "link": "http://pleiades.stoa.org/places/118802/osm-location-roman-lime-kilns"
       }
     }
   ]

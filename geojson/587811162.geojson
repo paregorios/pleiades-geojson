@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Via Flaminia militare",
   "id": "587811162",
+  "bbox": [
+    11.2923495,
+    43.471274,
+    11.863048,
+    44.4946274
+  ],
   "description": "The Via Flaminia Militare, or Via Flaminia Minor, was a road constructed by Gaius Flaminius in 187 BCE that connected Arretium and Bononia.",
   "names": [
     "Via Flaminia militare"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5007681353,
+          43.924686264
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

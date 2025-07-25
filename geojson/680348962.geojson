@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nostra Segnora de Mesumundu",
+  "id": "680348962",
+  "bbox": [
+    8.7463978,
+    40.5862342,
+    8.7467637,
+    40.5864579
+  ],
+  "description": "Nostra Segnora de Mesumundu (\"Our Lady of Mesumundu\") is located in the territory of Siligo, Sardinia, Italy. This archaeological site preserves remains of multiple architectural phases. A mid-Imperial (likely second-century CE) Roman complex, which included baths, was reused, in part, for the construction of a Christian church in the sixth century.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Nostra Segnora de Mesumundu"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.74652444964,
+          40.5863573317
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7467637,
+            40.5864334
+          ],
+          [
+            8.7466806,
+            40.5864579
+          ],
+          [
+            8.7464356,
+            40.5864455
+          ],
+          [
+            8.7464165,
+            40.5864435
+          ],
+          [
+            8.7464091,
+            40.5864267
+          ],
+          [
+            8.7463978,
+            40.5863855
+          ],
+          [
+            8.746399,
+            40.5863406
+          ],
+          [
+            8.7464035,
+            40.5863132
+          ],
+          [
+            8.7464205,
+            40.5862867
+          ],
+          [
+            8.746439,
+            40.5862662
+          ],
+          [
+            8.7464574,
+            40.586251
+          ],
+          [
+            8.7464921,
+            40.5862342
+          ],
+          [
+            8.7465593,
+            40.5862766
+          ],
+          [
+            8.7467348,
+            40.5864085
+          ],
+          [
+            8.7467637,
+            40.5864334
+          ]
+        ]
+      },
+      "id": "osm-location-of-archaeological-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of archaeological site",
+        "link": "http://pleiades.stoa.org/places/680348962/osm-location-of-archaeological-site"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7465151,
+            40.5864069
+          ],
+          [
+            8.7465179,
+            40.5863683
+          ],
+          [
+            8.7465598,
+            40.5863701
+          ],
+          [
+            8.7465637,
+            40.5863149
+          ],
+          [
+            8.7465232,
+            40.5863133
+          ],
+          [
+            8.7465257,
+            40.5862771
+          ],
+          [
+            8.7464789,
+            40.5862752
+          ],
+          [
+            8.7464664,
+            40.5862747
+          ],
+          [
+            8.7464636,
+            40.5863147
+          ],
+          [
+            8.7464176,
+            40.5863129
+          ],
+          [
+            8.7464138,
+            40.5863658
+          ],
+          [
+            8.7464601,
+            40.5863676
+          ],
+          [
+            8.7464575,
+            40.5864046
+          ],
+          [
+            8.7465151,
+            40.5864069
+          ]
+        ]
+      },
+      "id": "osm-location-of-chiesa-di-nostra-signora-di",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chiesa di Nostra Signora di Mesumundu",
+        "link": "http://pleiades.stoa.org/places/680348962/osm-location-of-chiesa-di-nostra-signora-di"
+      }
+    }
+  ]
+}

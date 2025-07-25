@@ -3,10 +3,10 @@
   "title": "Terpni/Paliokastro",
   "id": "114689183",
   "bbox": [
-    23.445693,
-    40.905213,
-    23.445693,
-    40.905213
+    23.4441244,
+    40.9046028,
+    23.4478393,
+    40.9060293
   ],
   "description": "A hilltop archaeological site (Paliokastro) located approximately 3km west southwest of the modern Greek town of Terpni (Serres regional unit). Its ancient name is uncertain; some scholars have suggested it be identified with \"Graero,\" which is named on the Peutinger map. Excavations have produced evidence for habitation as early as the 6th century BCE, remains of a Roman-era spa and basilica, and continued (re)use into the 6th century CE.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.445693,
-          40.905213
+          23.445945345,
+          40.9052973312
         ]
       },
       "properties": {
@@ -33,19 +33,121 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.445693,
-          40.905213
+          [
+            23.444819,
+            40.905846
+          ],
+          [
+            23.4444273,
+            40.905763
+          ],
+          [
+            23.4442024,
+            40.9056667
+          ],
+          [
+            23.4441244,
+            40.9054645
+          ],
+          [
+            23.4444151,
+            40.9052879
+          ],
+          [
+            23.4452143,
+            40.9048382
+          ],
+          [
+            23.4455296,
+            40.9046184
+          ],
+          [
+            23.4457538,
+            40.9046028
+          ],
+          [
+            23.4460761,
+            40.9046478
+          ],
+          [
+            23.4463366,
+            40.9046748
+          ],
+          [
+            23.4465802,
+            40.9046586
+          ],
+          [
+            23.446987,
+            40.9046114
+          ],
+          [
+            23.4473283,
+            40.9046331
+          ],
+          [
+            23.4475656,
+            40.9047501
+          ],
+          [
+            23.4477754,
+            40.9049127
+          ],
+          [
+            23.4478393,
+            40.9051066
+          ],
+          [
+            23.4475762,
+            40.9052904
+          ],
+          [
+            23.4472666,
+            40.9054777
+          ],
+          [
+            23.4468822,
+            40.9056536
+          ],
+          [
+            23.4464144,
+            40.9058073
+          ],
+          [
+            23.445839,
+            40.9059517
+          ],
+          [
+            23.4455737,
+            40.905979
+          ],
+          [
+            23.44522,
+            40.9059895
+          ],
+          [
+            23.4448853,
+            40.9059963
+          ],
+          [
+            23.4447181,
+            40.9060293
+          ],
+          [
+            23.444819,
+            40.905846
+          ]
         ]
       },
-      "id": "imagery-location-terpni-archaeological-site",
+      "id": "osm-location-of-archaeological-site-of-terpni",
       "type": "Feature",
       "properties": {
-        "description": "Location determined in Google Earth with reference to Figures 2-6 in Malamidou 2023.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location: Terpni Archaeological Site",
-        "link": "http://pleiades.stoa.org/places/114689183/imagery-location-terpni-archaeological-site"
+        "title": "OSM location of Archaeological site of Terpni",
+        "link": "http://pleiades.stoa.org/places/114689183/osm-location-of-archaeological-site-of-terpni"
       }
     }
   ]

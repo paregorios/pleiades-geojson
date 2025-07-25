@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "title": "Quseir Amra",
+  "id": "541446935",
+  "bbox": [
+    36.5872393,
+    31.8016827,
+    36.5875408,
+    31.801835
+  ],
+  "description": "A desert castle built in the early eighth century CE by Walid Ibn Yazid, who would become the future Umayyad caliph Walid II. Inscribed as a UNESCO World Heritage Site in 1985.",
+  "names": [
+    "Qasr Amra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587427725,
+          31.801787375
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5875408,
+          31.8018159
+        ]
+      },
+      "id": "osm-location-of-quseir-amra",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Quseir Amra",
+        "link": "http://pleiades.stoa.org/places/541446935/osm-location-of-quseir-amra"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.587282,
+            31.801835
+          ],
+          [
+            36.58739,
+            31.8018086
+          ],
+          [
+            36.5873473,
+            31.8016827
+          ],
+          [
+            36.5872393,
+            31.8017091
+          ],
+          [
+            36.587282,
+            31.801835
+          ]
+        ]
+      },
+      "id": "osm-location-of-qasr-amra",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Qasr Amra",
+        "link": "http://pleiades.stoa.org/places/541446935/osm-location-of-qasr-amra"
+      }
+    }
+  ]
+}

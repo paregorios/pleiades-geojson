@@ -3,17 +3,18 @@
   "title": "Church of St. Peter",
   "id": "322772904",
   "bbox": [
-    13.410824,
-    42.076942,
-    13.410824,
-    42.076942
+    13.4104749,
+    42.0769607,
+    13.4108965,
+    42.0771638
   ],
   "description": "A twelfth-century AD Christian church was built atop the remains of the Roman temple of Apollo.",
   "connectsWith": [
     "413005"
   ],
   "names": [
-    "Chiesa di San Pietro"
+    "Chiesa di San Pietro",
+    "Chiesa di San Pietro (Massa d'Albe)"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.410824,
-          42.076942
+          13.4106832696,
+          42.0770680821
         ]
       },
       "properties": {
@@ -31,19 +32,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.410824,
-          42.076942
+          [
+            13.410541,
+            42.0769607
+          ],
+          [
+            13.4108456,
+            42.077049
+          ],
+          [
+            13.4108304,
+            42.0770783
+          ],
+          [
+            13.4108965,
+            42.0770967
+          ],
+          [
+            13.4108837,
+            42.0771219
+          ],
+          [
+            13.410869,
+            42.0771509
+          ],
+          [
+            13.410803,
+            42.0771324
+          ],
+          [
+            13.4107874,
+            42.0771638
+          ],
+          [
+            13.4104811,
+            42.0770783
+          ],
+          [
+            13.410495,
+            42.0770509
+          ],
+          [
+            13.4104749,
+            42.0770334
+          ],
+          [
+            13.4104769,
+            42.0770066
+          ],
+          [
+            13.410499,
+            42.0769858
+          ],
+          [
+            13.4105299,
+            42.0769819
+          ],
+          [
+            13.410541,
+            42.0769607
+          ]
         ]
       },
-      "id": "church-of-st.-peter",
+      "id": "osm-location-of-chiesa-di-san-pietro",
       "type": "Feature",
       "properties": {
-        "description": "A twelfth century AD Christian church built atop the remains of a Roman temple of Apollo.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of Church of St. Peter",
-        "link": "http://pleiades.stoa.org/places/322772904/church-of-st.-peter"
+        "title": "OSM location of Chiesa di San Pietro",
+        "link": "http://pleiades.stoa.org/places/322772904/osm-location-of-chiesa-di-san-pietro"
       }
     }
   ]

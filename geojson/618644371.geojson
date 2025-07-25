@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bouleuterion at Dodona",
+  "id": "618644371",
+  "bbox": [
+    20.789062,
+    39.54673,
+    20.789062,
+    39.54673
+  ],
+  "description": "Constructed during the Hellenistic period, this meeting hall served the Epirote league. It was destroyed and rebuilt multiple times before going out of use for this purpose during the early Roman empire.",
+  "connectsWith": [
+    "530843"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.789062,
+          39.54673
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.789062,
+          39.54673
+        ]
+      },
+      "id": "vici-org-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Vici.org location",
+        "link": "http://pleiades.stoa.org/places/618644371/vici-org-location"
+      }
+    }
+  ]
+}
