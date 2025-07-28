@@ -3,6 +3,9 @@
   "title": "Eleusis",
   "id": "741459",
   "description": "An ancient place, cited: BAtlas 75 unlocated Eleusis",
+  "connectsWith": [
+    "736893"
+  ],
   "names": [
     "Eleusis"
   ],

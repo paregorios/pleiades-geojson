@@ -3,10 +3,10 @@
   "title": "Hybla Heraia",
   "id": "462252",
   "bbox": [
-    14.7472493,
-    36.9266329,
-    14.7472493,
-    36.9266329
+    14.7472412,
+    36.9263448,
+    14.7479807,
+    36.9267251
   ],
   "description": "Hybla Heraia (modern Ragusa) was an indigenous center of ancient Sicily that came into contact with Greek and, later, Roman and Byzantine cultures.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.7472493,
-          36.9266329
+          14.7476217105,
+          36.926552091
         ]
       },
       "properties": {

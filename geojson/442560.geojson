@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Croccia Cognato",
+  "title": "Croccia Cognato Fortified Settlement",
   "id": "442560",
   "bbox": [
     16.184577,
@@ -8,7 +8,11 @@
     16.184577,
     40.535317
   ],
-  "description": "Fourth-century B.C.E. fortifications located near Oliveto Lucano in Lucania, south Italy.",
+  "description": "Fourth-century B.C.E. fortifications located in the Croccia Cognato forest near Oliveto Lucano in Lucania, south Italy.",
+  "names": [
+    "Croccia Cognato",
+    "Accettura"
+  ],
   "features": [
     {
       "type": "Feature",

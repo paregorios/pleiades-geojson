@@ -9,6 +9,9 @@
     39.680339
   ],
   "description": "An ancient place, cited: BAtlas 54 B2 Kestria?",
+  "connectsWith": [
+    "530941"
+  ],
   "names": [
     "Kestria"
   ],

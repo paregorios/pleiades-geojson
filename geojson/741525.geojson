@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Mouchis",
   "id": "741525",
+  "bbox": [
+    30.481269984,
+    29.2234546486,
+    30.9959473996,
+    29.3091152448
+  ],
   "description": "An ancient place, cited: BAtlas 75 unlocated Mouchis",
   "connectsWith": [
     "736893"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7306351579,
+          29.2761099473
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

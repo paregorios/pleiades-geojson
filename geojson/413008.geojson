@@ -3,12 +3,12 @@
   "title": "Algae",
   "id": "413008",
   "bbox": [
-    11.757764,
-    42.120528,
-    11.757764,
-    42.120528
+    11.7590683,
+    42.1237348,
+    11.7590683,
+    42.1237348
   ],
-  "description": "An ancient place, cited: BAtlas 42 B4 Algae",
+  "description": "An ancient place, mentioned in the maritime portion of the Antonine Itineraries as between Centum Cellae (modern Civitavecchia) and Rapinium (modern Bagni Sant'Agostino). BAtlas identifies Algae with modern Torre Valdaliga; whereas NP considers it unlocated.",
   "connectsWith": [
     "413282"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.757764,
-          42.120528
+          11.7590683,
+          42.1237348
         ]
       },
       "properties": {
@@ -34,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.757764,
-          42.120528
+          11.7590683,
+          42.1237348
         ]
       },
-      "id": "darmc-location-18174",
+      "id": "osm-location-modern-torre-valdaliga",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18174",
-        "link": "http://pleiades.stoa.org/places/413008/darmc-location-18174"
+        "title": "OSM Location: modern Torre Valdaliga",
+        "link": "http://pleiades.stoa.org/places/413008/osm-location-modern-torre-valdaliga"
       }
     }
   ]
