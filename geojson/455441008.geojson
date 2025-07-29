@@ -3,10 +3,10 @@
   "title": "Roman theater at Ferentium",
   "id": "455441008",
   "bbox": [
-    12.1309826,
-    42.4887038,
-    12.1309826,
-    42.4887038
+    12.1294548,
+    42.4878906,
+    12.1333331,
+    42.4894342
   ],
   "description": "The Roman theater at Ferentium dates to the early Imperial period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1309826,
-          42.4887038
+          12.1312852549,
+          42.4886766719
         ]
       },
       "properties": {

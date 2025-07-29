@@ -9,6 +9,10 @@
     44.0831665
   ],
   "description": "An ancient place, cited: BAtlas 22 B4 Slăveni",
+  "names": [
+    "Slăveni",
+    "Castrul roman de la Slăveni"
+  ],
   "features": [
     {
       "type": "Feature",

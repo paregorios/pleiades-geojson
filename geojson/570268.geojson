@@ -4,8 +4,8 @@
   "id": "570268",
   "bbox": [
     22.562341,
-    36.756482,
-    22.56286,
+    36.763663,
+    22.562341,
     36.763663
   ],
   "description": "An ancient place, cited: BAtlas 58 D4 Gyth(e)ion",
@@ -20,29 +20,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.5626005,
-          36.7600725
+          22.562341,
+          36.763663
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.56286,
-          36.756482
-        ]
-      },
-      "id": "darmc-location-3007",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 3007",
-        "link": "http://pleiades.stoa.org/places/570268/darmc-location-3007"
       }
     },
     {

@@ -9,6 +9,9 @@
     36.231943
   ],
   "description": "Tigava Castra was a fort located in Mauretania Caesariensis, between Oppidum Novum and Malliana.",
+  "connectsWith": [
+    "295358"
+  ],
   "names": [
     "Tigava Castra"
   ],
