@@ -3,10 +3,10 @@
   "title": "Ad Flexum/Sermione Mansio",
   "id": "383546",
   "bbox": [
-    10.605721,
-    45.4690768,
-    10.605721,
-    45.4690768
+    10.6078237,
+    45.4688494,
+    10.6078237,
+    45.4688494
   ],
   "description": "An ancient place, cited: BAtlas 39 H3 Ad Flexum/Sermione Mansio",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.605721,
-          45.4690768
+          10.6078237,
+          45.4688494
         ]
       },
       "properties": {
@@ -29,47 +29,10 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.5,
-              45.0
-            ],
-            [
-              10.5,
-              45.5
-            ],
-            [
-              11.0,
-              45.5
-            ],
-            [
-              11.0,
-              45.0
-            ],
-            [
-              10.5,
-              45.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/383546/batlas-location"
-      }
-    },
-    {
-      "geometry": {
         "type": "Point",
         "coordinates": [
-          10.605721,
-          45.4690768
+          10.6078237,
+          45.4688494
         ]
       },
       "id": "location-of-sirmione",

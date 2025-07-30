@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "S. Simeon, Mon.",
+  "title": "S. Simeon (monastery)",
   "id": "786106",
   "bbox": [
-    32.88393,
-    24.098744,
-    32.88393,
-    24.098744
+    32.8751492,
+    24.0932176,
+    32.8775793,
+    24.0953821
   ],
-  "description": "An ancient place, cited: BAtlas 80 inset S. Simeon, Mon.",
+  "description": "The fortified Saint Simeon Monastery (Aswan, Egypt) dates to the seventh century. It was initially sacred to the local saint Anba Hedra. The site was rebuilt in the tenth century and re-dedicated to Saint Simeon. Saladin partially destroyed the monastery in 1173.",
   "names": [
-    "S. Simeon, Mon."
+    "Monastery of Saint Simeon",
+    "S. Simeon",
+    "monastère de Saint-Siméon",
+    "Simeonskloster"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.88393,
-          24.098744
+          32.8763035586,
+          24.0942224615
         ]
       },
       "properties": {
@@ -28,19 +31,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          32.88393,
-          24.098744
+          [
+            32.8755033,
+            24.0953821
+          ],
+          [
+            32.8761202,
+            24.0952009
+          ],
+          [
+            32.8762449,
+            24.0947609
+          ],
+          [
+            32.8763241,
+            24.0944811
+          ],
+          [
+            32.8768551,
+            24.0942999
+          ],
+          [
+            32.8768873,
+            24.0941873
+          ],
+          [
+            32.8770322,
+            24.0942117
+          ],
+          [
+            32.8772092,
+            24.0939424
+          ],
+          [
+            32.8774774,
+            24.0938592
+          ],
+          [
+            32.8775793,
+            24.0934723
+          ],
+          [
+            32.8774023,
+            24.0932764
+          ],
+          [
+            32.8766835,
+            24.0932176
+          ],
+          [
+            32.8765923,
+            24.0933988
+          ],
+          [
+            32.8760827,
+            24.0937857
+          ],
+          [
+            32.8754443,
+            24.0940354
+          ],
+          [
+            32.8751492,
+            24.0951079
+          ],
+          [
+            32.8755033,
+            24.0953821
+          ]
         ]
       },
-      "id": "darmc-location-15397",
+      "id": "osm-location-of-monastery-of-st-simeon",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15397",
-        "link": "http://pleiades.stoa.org/places/786106/darmc-location-15397"
+        "title": "OSM location of Monastery of St. Simeon",
+        "link": "http://pleiades.stoa.org/places/786106/osm-location-of-monastery-of-st-simeon"
       }
     }
   ]

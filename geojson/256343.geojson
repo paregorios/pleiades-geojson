@@ -3,10 +3,10 @@
   "title": "Orippo",
   "id": "256343",
   "bbox": [
-    -6.0057004,
-    37.2725169,
-    -6.0057004,
-    37.2725169
+    -6.004468,
+    37.2738633,
+    -6.004468,
+    37.2738633
   ],
   "description": "A Roman city with Turdetanian origins. It is cited on both the Antonine Itinerary and the Vicarello goblets. Based on these itineraries it is to be located between Ugia (Torre Alocaz, Utrera) and Hispalis (Seville), near the banks of the Lacus Ligustinus.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.0057004,
-          37.2725169
+          -6.004468,
+          37.2738633
         ]
       },
       "properties": {

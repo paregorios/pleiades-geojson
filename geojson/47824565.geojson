@@ -9,6 +9,9 @@
     50.470267
   ],
   "description": "A small Roman fort.",
+  "names": [
+    "Nanstallon Roman fort"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -8,7 +8,7 @@
     35.7906271,
     33.4535269
   ],
-  "description": "An ancient place, cited: BAtlas 69 C3 Ain Hersha",
+  "description": "Ain Hersha is the site of a Roman temple located in the environs of Mount Hermon.",
   "features": [
     {
       "type": "Feature",
@@ -52,7 +52,7 @@
       "id": "osm-way-313847408",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Location based on OpenStreetMap. Dates after BAtlas.",
         "location_precision": "precise",
         "title": "OSM Location: Temple of Ain Hersha",
         "link": "http://pleiades.stoa.org/places/678007/osm-way-313847408"
