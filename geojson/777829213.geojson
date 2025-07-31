@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mar Behnam",
+  "id": "777829213",
+  "bbox": [
+    43.4055445,
+    36.1382916,
+    43.4055445,
+    36.1382916
+  ],
+  "description": "The Mar Behnam Monastery may have been established as early as the fourth century CE. It was a Syriac Catholic monastery located in the village Khidr Ily in northern Iraq.",
+  "names": [
+    "Mar Behnam Monastery"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4055445,
+          36.1382916
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4055445,
+          36.1382916
+        ]
+      },
+      "id": "osm-location-of-mar-behnam-monastery",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mar Behnam Monastery",
+        "link": "http://pleiades.stoa.org/places/777829213/osm-location-of-mar-behnam-monastery"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Başur Höyük",
+  "id": "453123696",
+  "bbox": [
+    41.7782977,
+    37.9790011,
+    41.7796212,
+    37.9809547
+  ],
+  "description": "A Bronze Age funereal mound located in Turkey's south-eastern Siirt Province.",
+  "names": [
+    "Basur Hoyuk"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.779015868,
+          37.9800537917
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.7796212,
+            37.9807421
+          ],
+          [
+            41.7796212,
+            37.9798517
+          ],
+          [
+            41.7794189,
+            37.9791739
+          ],
+          [
+            41.779107,
+            37.9790011
+          ],
+          [
+            41.7787698,
+            37.9791539
+          ],
+          [
+            41.778382,
+            37.9798583
+          ],
+          [
+            41.7782977,
+            37.9804032
+          ],
+          [
+            41.7784831,
+            37.9808285
+          ],
+          [
+            41.7789805,
+            37.9809547
+          ],
+          [
+            41.779343,
+            37.9809215
+          ],
+          [
+            41.7796212,
+            37.9807421
+          ]
+        ]
+      },
+      "id": "osm-location-of-baaur-hapya1-4k",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Başur Höyük",
+        "link": "http://pleiades.stoa.org/places/453123696/osm-location-of-baaur-hapya1-4k"
+      }
+    }
+  ]
+}

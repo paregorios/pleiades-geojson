@@ -9,6 +9,9 @@
     40.160643
   ],
   "description": "An ancient place, cited: BAtlas 46 B1 Chiuse delle Grotte",
+  "connectsWith": [
+    "452488"
+  ],
   "features": [
     {
       "type": "Feature",

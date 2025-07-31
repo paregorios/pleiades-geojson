@@ -3,10 +3,10 @@
   "title": "Corvey",
   "id": "377547412",
   "bbox": [
-    9.4096767,
-    51.7781275,
-    9.4096767,
-    51.7781275
+    9.405787,
+    51.7766036,
+    9.4130745,
+    51.781093
   ],
   "description": "The abbey was first founded in 815 by Charlemagne's cousins, Wala and Adelard.",
   "connectsWith": [
@@ -15,6 +15,7 @@
   "names": [
     "Fürstabtei Corvey",
     "Corvey",
+    "Corbeia nova",
     "Hethis"
   ],
   "features": [
@@ -23,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.4096767,
-          51.7781275
+          9.40948320888,
+          51.7784848285
         ]
       },
       "properties": {
@@ -46,6 +47,129 @@
         "location_precision": "precise",
         "title": "OSM location of Carolingian Westwork",
         "link": "http://pleiades.stoa.org/places/377547412/osm-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.4058817,
+            51.7784577
+          ],
+          [
+            9.405787,
+            51.7782085
+          ],
+          [
+            9.4061834,
+            51.7779599
+          ],
+          [
+            9.4063076,
+            51.7779392
+          ],
+          [
+            9.405958,
+            51.7771251
+          ],
+          [
+            9.4060333,
+            51.7769618
+          ],
+          [
+            9.4064369,
+            51.7769111
+          ],
+          [
+            9.4074774,
+            51.7769384
+          ],
+          [
+            9.4075618,
+            51.7767818
+          ],
+          [
+            9.4075904,
+            51.7767287
+          ],
+          [
+            9.4077863,
+            51.7766311
+          ],
+          [
+            9.4078474,
+            51.7766246
+          ],
+          [
+            9.4080439,
+            51.7766036
+          ],
+          [
+            9.4088526,
+            51.7766946
+          ],
+          [
+            9.4092091,
+            51.7767347
+          ],
+          [
+            9.4105019,
+            51.7768801
+          ],
+          [
+            9.4114243,
+            51.7769838
+          ],
+          [
+            9.411654,
+            51.7771987
+          ],
+          [
+            9.4120262,
+            51.7776626
+          ],
+          [
+            9.4123432,
+            51.7785742
+          ],
+          [
+            9.4130745,
+            51.781093
+          ],
+          [
+            9.4065011,
+            51.7802707
+          ],
+          [
+            9.4068859,
+            51.7790466
+          ],
+          [
+            9.4069379,
+            51.778881
+          ],
+          [
+            9.4069718,
+            51.7787732
+          ],
+          [
+            9.407034,
+            51.7785754
+          ],
+          [
+            9.4058817,
+            51.7784577
+          ]
+        ]
+      },
+      "id": "osm-location-of-corvey",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Corvey",
+        "link": "http://pleiades.stoa.org/places/377547412/osm-location-of-corvey"
       }
     }
   ]

@@ -1,46 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Athenaion",
+  "title": "Athenaion (settlement)",
   "id": "570137",
-  "bbox": [
-    22.258894,
-    37.277285,
-    22.258894,
-    37.277285
-  ],
-  "description": "An ancient place, cited: BAtlas 58 C3 Athenaion",
+  "description": "An ancient settlement of Arcadia mentioned by Pausanias. Its precise location cannot be determined today, but it probably lay in the vicinity of the modern town that has acquired its name (Athinaio, formerly Alika).",
   "names": [
     "Athenaion"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.258894,
-          37.277285
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.258894,
-          37.277285
-        ]
-      },
-      "id": "darmc-location-1113",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 1113",
-        "link": "http://pleiades.stoa.org/places/570137/darmc-location-1113"
       }
     }
   ]

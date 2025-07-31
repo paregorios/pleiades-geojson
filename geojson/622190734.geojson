@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed place",
+  "id": "622190734",
+  "description": "A place marked on the Peutinger map whose label is now illegible. It is positioned between Cisi municipium and Rusuccuru colonia.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

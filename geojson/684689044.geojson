@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Casa di Trittolemo",
+  "id": "684689044",
+  "bbox": [
+    14.4840306,
+    40.74888,
+    14.4840306,
+    40.74888
+  ],
+  "description": "The so-called Casa di Trittolemo at Pompeii was excavated in 1859 and again in 1871.",
+  "connectsWith": [
+    "599902893"
+  ],
+  "names": [
+    "House of the Cissonii",
+    "House of L. Calpurnius Diogenes",
+    "Casa di Trittolemo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4840306,
+          40.74888
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4840306,
+          40.74888
+        ]
+      },
+      "id": "osm-location-of-casa-di-trittolemo",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Casa di Trittolemo",
+        "link": "http://pleiades.stoa.org/places/684689044/osm-location-of-casa-di-trittolemo"
+      }
+    }
+  ]
+}

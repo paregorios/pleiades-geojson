@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Koryphasion Pr.",
+  "title": "Koryphasion (promuntory)",
   "id": "570375",
   "bbox": [
     21.65816,
@@ -10,7 +10,8 @@
   ],
   "description": "An ancient place, cited: BAtlas 58 B4 Koryphasion Pr.",
   "names": [
-    "Koryphasion Pr."
+    "Koryphasion Pr.",
+    "Koryphasion"
   ],
   "features": [
     {

@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "title": "Palus Caprae",
+  "id": "577728240",
+  "description": "A site in the Campus Martius of Rome where mytho-historic tradition held that Romulus vanished during a storm, thus marking his apotheosis.",
+  "connectsWith": [
+    "423025",
+    "422863"
+  ],
+  "names": [
+    "Caprae palus",
+    "Aigos Helos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

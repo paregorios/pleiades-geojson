@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Athenaion",
+  "title": "Athenaion (fortification)",
   "id": "570138",
   "bbox": [
-    22.0,
-    37.0,
-    22.5,
-    37.5
+    22.258894,
+    37.277285,
+    22.258894,
+    37.277285
   ],
-  "description": "An ancient place, cited: BAtlas 58 C3 Athenaion (1)",
+  "description": "A fortification in Arcadia that was built and destroyed during the Hellenistic period and is mentioned in ancient sources. The site, located on a hill locally called Chemos and near the modern Greek town of Skortsinos, was used in the late medieval period for a castle.",
   "names": [
     "Athenaion"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.25,
-          37.25
+          22.258894,
+          37.277285
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              22.0,
-              37.0
-            ],
-            [
-              22.0,
-              37.5
-            ],
-            [
-              22.5,
-              37.5
-            ],
-            [
-              22.5,
-              37.0
-            ],
-            [
-              22.0,
-              37.0
-            ]
-          ]
+          22.258894,
+          37.277285
         ]
       },
-      "id": "batlas-location",
+      "id": "darmc-location-1113",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/570138/batlas-location"
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "location_precision": "precise",
+        "title": "DARMC location 1113",
+        "link": "http://pleiades.stoa.org/places/570138/darmc-location-1113"
       }
     }
   ]

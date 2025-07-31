@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kar-Mullissu",
+  "id": "682032457",
+  "bbox": [
+    43.4095,
+    36.3056,
+    43.4096993,
+    36.305778
+  ],
+  "description": "Kar-Mullissu (Akkadian \"Quay of the goddess Mullissu\") is an Assyrian town in northern Iraq. Modern Karemles (also Karemlash and Karemlish) is located less than twenty-nine km southeast of Mosul (ancient Nineveh). Inscribed bricks of the seventh-century-BCE Assyrian king Sargon II have been discovered there.",
+  "connectsWith": [
+    "29492"
+  ],
+  "names": [
+    "Kār-Mullissu",
+    "Tall al-Qaddīsah Barbārah",
+    "Karemlash"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.40959965,
+          36.305689
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4095,
+          36.3056
+        ]
+      },
+      "id": "cigs-location-of-tall-al-qaddisah-barbarah",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CIGS location of Tall al-Qaddīsah Barbārah",
+        "link": "http://pleiades.stoa.org/places/682032457/cigs-location-of-tall-al-qaddisah-barbarah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4096993,
+          36.305778
+        ]
+      },
+      "id": "osm-location-karemles",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Karemles",
+        "link": "http://pleiades.stoa.org/places/682032457/osm-location-karemles"
+      }
+    }
+  ]
+}

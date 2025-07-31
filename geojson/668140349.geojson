@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.2538642784,
-          36.2741508974
+          38.2538321392,
+          36.2738254487
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2538,
+          36.2735
+        ]
+      },
+      "id": "cigs-location-of-tall-suwaiyhat",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CIGS location of Tall Suwaiyhat",
+        "link": "http://pleiades.stoa.org/places/668140349/cigs-location-of-tall-suwaiyhat"
       }
     },
     {

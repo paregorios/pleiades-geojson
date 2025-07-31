@@ -9,6 +9,9 @@
     38.7316542531
   ],
   "description": "In ancient times, the area of the modern Italian port town of Vibo Marina on the Gulf of Saint Euphemia was an island named Leucosia. Artificial port construction began in antiquity and, together with natural processes, has connected Leucosia to the mainland.",
+  "connectsWith": [
+    "452489"
+  ],
   "names": [
     "Leucosia",
     "Ithacesiae"

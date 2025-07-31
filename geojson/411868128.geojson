@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "title": "Is Pirois",
+  "id": "411868128",
+  "bbox": [
+    9.594956,
+    39.5647209,
+    9.5950499,
+    39.5648038
+  ],
+  "description": "A sacred well sanctuary, Pozzo sacro Is Pirois, is associated with the Nuragic culture. Is Pirois is located in the municipality of Villaputzu, in metropolitan Cagliari. The well is built of schist, and the covering structure is a pseudo-dome or tholos.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Pozzo sacro Is Pirois"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5950002947,
+          39.564763388
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.595047,
+            39.5647365
+          ],
+          [
+            9.5950499,
+            39.5647454
+          ],
+          [
+            9.5950486,
+            39.5647545
+          ],
+          [
+            9.5950434,
+            39.5647628
+          ],
+          [
+            9.5950349,
+            39.5647691
+          ],
+          [
+            9.595024,
+            39.5647729
+          ],
+          [
+            9.5950148,
+            39.5647771
+          ],
+          [
+            9.5949864,
+            39.5648038
+          ],
+          [
+            9.5949767,
+            39.5647992
+          ],
+          [
+            9.5950018,
+            39.5647715
+          ],
+          [
+            9.5949891,
+            39.5647646
+          ],
+          [
+            9.594965,
+            39.564788
+          ],
+          [
+            9.594956,
+            39.5647827
+          ],
+          [
+            9.5949821,
+            39.5647531
+          ],
+          [
+            9.5949814,
+            39.564745
+          ],
+          [
+            9.5949839,
+            39.564737
+          ],
+          [
+            9.5949895,
+            39.56473
+          ],
+          [
+            9.5949976,
+            39.5647247
+          ],
+          [
+            9.5950074,
+            39.5647215
+          ],
+          [
+            9.5950193,
+            39.5647209
+          ],
+          [
+            9.5950307,
+            39.5647234
+          ],
+          [
+            9.5950404,
+            39.5647288
+          ],
+          [
+            9.595047,
+            39.5647365
+          ]
+        ]
+      },
+      "id": "osm-location-of-pozzo-sacro-is-pirois",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pozzo sacro Is Pirois",
+        "link": "http://pleiades.stoa.org/places/411868128/osm-location-of-pozzo-sacro-is-pirois"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Rödgen",
+  "id": "220408239",
+  "bbox": [
+    8.7665,
+    50.371,
+    8.7665,
+    50.371
+  ],
+  "description": "A Roman fortification founded during the principate of Augustus that was located some 50 km from the legionary fortress at Mainz-Mogontiacum.",
+  "names": [
+    "Römerlager Rödgen"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7665,
+          50.371
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7665,
+          50.371
+        ]
+      },
+      "id": "geohack-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Geohack location",
+        "link": "http://pleiades.stoa.org/places/220408239/geohack-location"
+      }
+    }
+  ]
+}
