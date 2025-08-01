@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Veneris",
   "id": "456133",
+  "bbox": [
+    15.5246477,
+    40.00232,
+    15.695781,
+    40.0765477
+  ],
   "description": "An ancient place, cited: BAtlas 46 unlocated Veneris",
   "connectsWith": [
     "452297",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.61021435,
+          40.03943385
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

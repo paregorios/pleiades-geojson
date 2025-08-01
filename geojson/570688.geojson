@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Spiraion Pr.",
+  "title": "Spiraion (promuntory)",
   "id": "570688",
   "bbox": [
     23.176,
@@ -11,7 +11,8 @@
   "description": "An ancient place, cited: BAtlas 58 E2 Spiraion Pr.",
   "names": [
     "Spiraion Pr.",
-    "Piraeon"
+    "Piraeon",
+    "Stiri"
   ],
   "features": [
     {

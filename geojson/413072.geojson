@@ -9,6 +9,9 @@
     42.5330135
   ],
   "description": "An ancient place, cited: BAtlas 42 B3 Castro",
+  "names": [
+    "Castro"
+  ],
   "features": [
     {
       "type": "Feature",

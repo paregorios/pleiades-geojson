@@ -9,6 +9,11 @@
     43.244063
   ],
   "description": "An ancient place, cited: BAtlas 87 H1 Klukhor Pass",
+  "names": [
+    "Klukhor Pass",
+    "Pereval Klukhorskiy",
+    "Kluchorpass"
+  ],
   "features": [
     {
       "type": "Feature",

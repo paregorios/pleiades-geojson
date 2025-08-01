@@ -3,10 +3,10 @@
   "title": "Athenaion (fortification)",
   "id": "570138",
   "bbox": [
-    22.258894,
-    37.277285,
-    22.258894,
-    37.277285
+    22.2573902,
+    37.2791331,
+    22.2573902,
+    37.2791331
   ],
   "description": "A fortification in Arcadia that was built and destroyed during the Hellenistic period and is mentioned in ancient sources. The site, located on a hill locally called Chemos and near the modern Greek town of Skortsinos, was used in the late medieval period for a castle.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.258894,
-          37.277285
+          22.2573902,
+          37.2791331
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.258894,
-          37.277285
+          22.2573902,
+          37.2791331
         ]
       },
-      "id": "darmc-location-1113",
+      "id": "osm-location-i-ii-iii1i-ii-i-r-i1-2i-i1i-i1-2",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 1113",
-        "link": "http://pleiades.stoa.org/places/570138/darmc-location-1113"
+        "title": "OSM Location: Φρούριο Αθήναιον",
+        "link": "http://pleiades.stoa.org/places/570138/osm-location-i-ii-iii1i-ii-i-r-i1-2i-i1i-i1-2"
       }
     }
   ]

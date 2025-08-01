@@ -3,10 +3,10 @@
   "title": "Lattara",
   "id": "148107",
   "bbox": [
-    3.903613,
-    43.565535,
-    3.906928,
-    43.568253
+    3.9049801,
+    43.5645062,
+    3.9083016,
+    43.5668246
   ],
   "description": "A walled port city inhabited by Gauls, Etruscans, and Massalian Greeks.",
   "connectsWith": [
@@ -24,29 +24,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.9052705,
-          43.566894
+          3.90685228071,
+          43.5655662031
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.903613,
-          43.568253
-        ]
-      },
-      "id": "darmc-location-6428",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 6428",
-        "link": "http://pleiades.stoa.org/places/148107/darmc-location-6428"
       }
     },
     {
@@ -64,6 +47,117 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/148107/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.9049801,
+            43.5656957
+          ],
+          [
+            3.9054812,
+            43.5654805
+          ],
+          [
+            3.9052913,
+            43.5652992
+          ],
+          [
+            3.9053083,
+            43.5650357
+          ],
+          [
+            3.905873,
+            43.5648192
+          ],
+          [
+            3.9061735,
+            43.5648739
+          ],
+          [
+            3.9063252,
+            43.5649185
+          ],
+          [
+            3.9067726,
+            43.5646788
+          ],
+          [
+            3.9071157,
+            43.5645062
+          ],
+          [
+            3.9075028,
+            43.5645501
+          ],
+          [
+            3.9075754,
+            43.5646707
+          ],
+          [
+            3.9079486,
+            43.5646953
+          ],
+          [
+            3.9080551,
+            43.5648599
+          ],
+          [
+            3.9081998,
+            43.5650834
+          ],
+          [
+            3.9082382,
+            43.5653405
+          ],
+          [
+            3.9082198,
+            43.5654779
+          ],
+          [
+            3.9083016,
+            43.5655825
+          ],
+          [
+            3.9082522,
+            43.5659845
+          ],
+          [
+            3.9082115,
+            43.566242
+          ],
+          [
+            3.9081838,
+            43.56646
+          ],
+          [
+            3.9076207,
+            43.5667478
+          ],
+          [
+            3.9075401,
+            43.5668246
+          ],
+          [
+            3.9060137,
+            43.5662113
+          ],
+          [
+            3.9049801,
+            43.5656957
+          ]
+        ]
+      },
+      "id": "osm-location-of-site-archa-c-ologique-de-lattara",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Site archéologique de Lattara",
+        "link": "http://pleiades.stoa.org/places/148107/osm-location-of-site-archa-c-ologique-de-lattara"
       }
     }
   ]

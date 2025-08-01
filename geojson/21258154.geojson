@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chelmos Castle",
+  "id": "21258154",
+  "bbox": [
+    22.258297,
+    37.2792267,
+    22.258297,
+    37.2792267
+  ],
+  "description": "The Kastro Chelmou was a medieval castle, built probably in the 13th century of the modern era inside the ancient Athenaion fortress in Arcadia. It is located on the hill of Agios Konstantinos, southeast of the modern town of Skortsino.",
+  "connectsWith": [
+    "570138"
+  ],
+  "names": [
+    "Kastro Chelmou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.258297,
+          37.2792267
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.258297,
+          37.2792267
+        ]
+      },
+      "id": "osm-location-castle-of-chelmos",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Castle of Chelmos",
+        "link": "http://pleiades.stoa.org/places/21258154/osm-location-castle-of-chelmos"
+      }
+    }
+  ]
+}

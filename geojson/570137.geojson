@@ -2,16 +2,47 @@
   "type": "FeatureCollection",
   "title": "Athenaion (settlement)",
   "id": "570137",
+  "bbox": [
+    22.244,
+    37.393,
+    22.244,
+    37.393
+  ],
   "description": "An ancient settlement of Arcadia mentioned by Pausanias. Its precise location cannot be determined today, but it probably lay in the vicinity of the modern town that has acquired its name (Athinaio, formerly Alika).",
   "names": [
-    "Athenaion"
+    "Athenaion",
+    "Athinaio",
+    "Alika"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.244,
+          37.393
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.244,
+          37.393
+        ]
+      },
+      "id": "topostext-location-approximate",
+      "type": "Feature",
+      "properties": {
+        "description": "Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "ToposText location (approximate)",
+        "link": "http://pleiades.stoa.org/places/570137/topostext-location-approximate"
       }
     }
   ]

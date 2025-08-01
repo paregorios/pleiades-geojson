@@ -9,6 +9,9 @@
     50.78308
   ],
   "description": "Dewlish Roman villa, Dorset.",
+  "names": [
+    "Dewlish"
+  ],
   "features": [
     {
       "type": "Feature",

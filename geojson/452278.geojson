@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Buxentum (promuntory)",
+  "title": "Buxentum (promontory)",
   "id": "452278",
   "bbox": [
     15.4274443,
@@ -11,7 +11,9 @@
   "description": "An ancient place, cited: BAtlas 46 B2 Buxentum Pr.",
   "names": [
     "Buxentum Pr.",
-    "Pyxous Akra"
+    "Pyxous Akra",
+    "Capo degli Ingreschi",
+    "Punta Infreschi"
   ],
   "features": [
     {

@@ -2,14 +2,31 @@
   "type": "FeatureCollection",
   "title": "Pellene",
   "id": "573434",
-  "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "bbox": [
+    22.081952,
+    38.252707,
+    22.081952,
+    38.252707
+  ],
+  "description": "An unlocated ancient settlement in Achaea, mentioned by Strabo, that Camp (BAtlDir) considers distinct from the Pellene now identified with modern Zugra and lying between it and Aigion (which still bears its ancient name today).",
+  "connectsWith": [
+    "570028",
+    "570576",
+    "570049"
+  ],
   "names": [
     "Pellene"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.081952,
+          38.252707
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

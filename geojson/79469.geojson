@@ -3,16 +3,17 @@
   "title": "Fretum Oceani/Gallicum",
   "id": "79469",
   "bbox": [
-    1.45,
-    51.0,
-    1.45,
-    51.0
+    0.9585544,
+    50.6494622,
+    2.0956393,
+    51.3803543
   ],
   "description": "The strait separating Gallia and Britannia.",
   "names": [
     "Fretum Oceani",
-    "Gallicum",
-    "Strait of Dover"
+    "Strait of Dover",
+    "Straits of Dover",
+    "Fretum Gallicum"
   ],
   "features": [
     {
@@ -20,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.45,
-          51.0
+          1.52709685,
+          51.01490825
         ]
       },
       "properties": {
@@ -30,19 +31,25 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          1.45,
-          51
+          [
+            0.9585544,
+            50.6494622
+          ],
+          [
+            2.0956393,
+            51.3803543
+          ]
         ]
       },
-      "id": "geohack-location-of-the-strait-of-dover",
+      "id": "osm-location-of-strait-of-dover",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on GeoHack",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "GeoHack Location of the Strait of Dover",
-        "link": "http://pleiades.stoa.org/places/79469/geohack-location-of-the-strait-of-dover"
+        "title": "OSM location of Strait of Dover",
+        "link": "http://pleiades.stoa.org/places/79469/osm-location-of-strait-of-dover"
       }
     }
   ]

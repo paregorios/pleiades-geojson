@@ -9,6 +9,9 @@
     42.557237
   ],
   "description": "A Roman road begun ca. 241 B.C. that connected Veii and Ameria.",
+  "names": [
+    "Via Amerina"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ptolemaion gymnasion",
+  "id": "408303888",
+  "bbox": [
+    23.7203413,
+    37.9728296,
+    23.7252726,
+    37.9768073
+  ],
+  "description": "The main gymnasium in Athens in the Hellenistic Period, built with the support of one of the Ptolemies, gradually superseded by the Diogeneion.",
+  "connectsWith": [
+    "807514119"
+  ],
+  "names": [
+    "gymnasion Ptolemaiou",
+    "Ptolemaion gymnasion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7225195881,
+          37.9748393882
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
