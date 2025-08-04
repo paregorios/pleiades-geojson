@@ -3,10 +3,10 @@
   "title": "Clivus Capitolinus",
   "id": "152699900",
   "bbox": [
-    12.4833855,
-    41.8920927,
-    12.4833855,
-    41.8920927
+    12.4832144,
+    41.89198,
+    12.4844487,
+    41.8926721
   ],
   "description": "The principal road leading to the Capitolium and the Arx in the city of Rome.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4833855,
-          41.8920927
+          12.4838404229,
+          41.8923745546
         ]
       },
       "properties": {

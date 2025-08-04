@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Barucelli",
+  "id": "21574678",
+  "bbox": [
+    12.7926308,
+    41.8667625,
+    12.7932212,
+    41.8670431
+  ],
+  "description": "A Roman aqueduct bridge located in the comune of Gallicano nel Lazio (Rome, Italy). It was once part of the Aqua Claudia.",
+  "connectsWith": [
+    "423563"
+  ],
+  "names": [
+    "Ponte Barucelli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7929260004,
+          41.8669028003
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7931796,
+            41.8670431
+          ],
+          [
+            12.7932004,
+            41.8670148
+          ],
+          [
+            12.7932212,
+            41.8669866
+          ],
+          [
+            12.7926724,
+            41.8667625
+          ],
+          [
+            12.7926517,
+            41.8667907
+          ],
+          [
+            12.7926308,
+            41.866819
+          ],
+          [
+            12.7931796,
+            41.8670431
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-barucelli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Barucelli",
+        "link": "http://pleiades.stoa.org/places/21574678/osm-location-of-ponte-barucelli"
+      }
+    }
+  ]
+}

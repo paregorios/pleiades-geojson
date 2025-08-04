@@ -9,6 +9,9 @@
     34.1928
   ],
   "description": "Me-Turnat was a Bronze Age and Iron Age settlement located on the Diyala river.",
+  "connectsWith": [
+    "893984"
+  ],
   "names": [
     "Me-Turnat",
     "Mê-Turnu",
