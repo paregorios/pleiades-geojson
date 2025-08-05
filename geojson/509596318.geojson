@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Yarim Tepe (Iraq)",
+  "id": "509596318",
+  "bbox": [
+    42.3686734,
+    36.3208157,
+    42.3686734,
+    36.3208157
+  ],
+  "description": "Yarim Tepe (Iraq) is an archaeological site in Iraq's Sinjar Valley that emerged ca. 6000 BCE. Its later phases are associated first with the Hassuna culture, and then the Halaf and Ubaid cultures.",
+  "connectsWith": [
+    "874720"
+  ],
+  "names": [
+    "Yarim Tepe"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3686734,
+          36.3208157
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3686734,
+          36.3208157
+        ]
+      },
+      "id": "osm-location-of-yarim-tepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Yarim Tepe",
+        "link": "http://pleiades.stoa.org/places/509596318/osm-location-of-yarim-tepe"
+      }
+    }
+  ]
+}

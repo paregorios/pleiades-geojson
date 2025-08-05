@@ -9,6 +9,9 @@
     42.137641
   ],
   "description": "An ancient place, cited: BAtlas 42 C4 Monterano",
+  "names": [
+    "Monterano"
+  ],
   "features": [
     {
       "type": "Feature",

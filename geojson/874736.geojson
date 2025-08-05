@@ -9,6 +9,9 @@
     36.689314
   ],
   "description": "An ancient place, cited: BAtlas 89 E4 Tell Deir Situn",
+  "names": [
+    "Tell Deir Situn"
+  ],
   "features": [
     {
       "type": "Feature",

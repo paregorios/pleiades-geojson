@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Yarim Tepe (Iran)",
+  "id": "982994284",
+  "bbox": [
+    55.200322,
+    37.1478152,
+    55.200322,
+    37.1478152
+  ],
+  "description": "Yarim Tepe was the site of a Neolithic settlement located in Iran's Gorgan plain. Archaeological fieldwork was first undertaken by V. E. Crawford in 1963.",
+  "names": [
+    "Yarim Tepe"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.200322,
+          37.1478152
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.200322,
+          37.1478152
+        ]
+      },
+      "id": "osm-location-of-yarim-tepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Yarim Tepe",
+        "link": "http://pleiades.stoa.org/places/982994284/osm-location-of-yarim-tepe"
+      }
+    }
+  ]
+}

@@ -9,8 +9,12 @@
     37.3259189
   ],
   "description": "An ancient place, cited: BAtlas 89 E3 Ad fl. Tigrim",
+  "connectsWith": [
+    "222907106"
+  ],
   "names": [
-    "Ad fl. Tigrim"
+    "Ad fl. Tigrim",
+    "Cizre"
   ],
   "features": [
     {

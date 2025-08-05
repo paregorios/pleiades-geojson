@@ -3,17 +3,17 @@
   "title": "Eileithyaia, Zeus Hypatos, Aphrodite?, T.",
   "id": "599604",
   "bbox": [
-    25.0973252,
-    36.975056,
-    25.294397,
-    37.1552988
+    25.1761714,
+    37.1005252,
+    25.176472,
+    37.100777
   ],
-  "description": "An ancient place, cited: BAtlas 61 A3 Eileithyaia, Zeus Hypatos, Aphrodite?, T.",
+  "description": "A peak sanctuary on the Kounados hill of Paros, where sacred activity, including votives, indicates venerations of Zeus Hypatos along with Eileithyaia and Aphrodite.",
   "connectsWith": [
     "599868"
   ],
   "names": [
-    "Eileithyaia, Zeus Hypatos, Aphrodite, T."
+    "Eileithyaia"
   ],
   "features": [
     {
@@ -21,12 +21,47 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.1984705532,
-          37.0651906726
+          25.1763121997,
+          37.1006558143
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.176287,
+            37.100777
+          ],
+          [
+            25.1761714,
+            37.1007047
+          ],
+          [
+            25.1762779,
+            37.1005252
+          ],
+          [
+            25.176472,
+            37.1006483
+          ],
+          [
+            25.176287,
+            37.100777
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/599604/osm-location"
       }
     }
   ]

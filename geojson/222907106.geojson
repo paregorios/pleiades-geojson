@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vica",
+  "id": "222907106",
+  "description": "A place included on the Peutinger map.",
+  "connectsWith": [
+    "872983336"
+  ],
+  "names": [
+    "Vica"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

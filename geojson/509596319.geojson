@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell Yelkhi",
+  "id": "509596319",
+  "bbox": [
+    45.0010413,
+    34.2853454,
+    45.0021647,
+    34.2859886
+  ],
+  "description": "Tell Yelkhi is an archaeological site located in Iraq's Diyala Governorate. The site was inundated by the Hamrin Dam project, although salvage excavations were carried out. The site was first settled in the early third millennium BCE and continued through the Kassite period in the late second millennium BCE.",
+  "names": [
+    "Tell Yelkhi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0016533695,
+          34.2856321657
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.0020464,
+            34.2859886
+          ],
+          [
+            45.0019554,
+            34.2859426
+          ],
+          [
+            45.001823,
+            34.2859356
+          ],
+          [
+            45.0015994,
+            34.2859037
+          ],
+          [
+            45.0013562,
+            34.2858279
+          ],
+          [
+            45.0011717,
+            34.2856805
+          ],
+          [
+            45.0010784,
+            34.285583
+          ],
+          [
+            45.0010413,
+            34.2855245
+          ],
+          [
+            45.0011059,
+            34.2854217
+          ],
+          [
+            45.0013252,
+            34.2854052
+          ],
+          [
+            45.0015944,
+            34.2853909
+          ],
+          [
+            45.0018149,
+            34.2853454
+          ],
+          [
+            45.0020022,
+            34.2853499
+          ],
+          [
+            45.0020886,
+            34.2854224
+          ],
+          [
+            45.0021192,
+            34.2855636
+          ],
+          [
+            45.0021582,
+            34.28565
+          ],
+          [
+            45.0021647,
+            34.2857288
+          ],
+          [
+            45.0021412,
+            34.2858306
+          ],
+          [
+            45.0020464,
+            34.2859886
+          ]
+        ]
+      },
+      "id": "osm-location-of-tell-yelkhi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tell Yelkhi",
+        "link": "http://pleiades.stoa.org/places/509596319/osm-location-of-tell-yelkhi"
+      }
+    }
+  ]
+}

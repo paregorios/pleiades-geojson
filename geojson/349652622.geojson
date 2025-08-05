@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hazar Merd Cave",
+  "id": "349652622",
+  "bbox": [
+    45.3110587,
+    35.4939156,
+    45.3110587,
+    35.4939156
+  ],
+  "description": "The Hazar Merd Cave system is located in Iraqi Kurdistan, southwest of Sulaymaniyah. Excavations conducted by Dorothy Garrod revealed human activity, primarily through faunal assemblages, at this site during the Paleolithic period.",
+  "names": [
+    "Hazar Merd Cave"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3110587,
+          35.4939156
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3110587,
+          35.4939156
+        ]
+      },
+      "id": "osm-location-of-hazar-merd-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hazar Merd Cave",
+        "link": "http://pleiades.stoa.org/places/349652622/osm-location-of-hazar-merd-cave"
+      }
+    }
+  ]
+}

@@ -3,14 +3,15 @@
   "title": "Kānī Shāyah",
   "id": "743192303",
   "bbox": [
-    45.1764,
-    35.5579,
-    45.1764,
-    35.5579
+    45.1760178,
+    35.5576862,
+    45.1768191,
+    35.5583389
   ],
   "description": "A small site in Kurdistan, Iraq, consisting of a high and low mound with remains from the fourth and early third millennium BCE.",
   "names": [
-    "Kānī Shāyah"
+    "Kānī Shāyah",
+    "Kani Shaie"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.1764,
-          35.5579
+          45.1763910305,
+          35.5579565868
         ]
       },
       "properties": {
@@ -41,6 +42,101 @@
         "location_precision": "precise",
         "title": "CIGS location of Kānī Shāyah",
         "link": "http://pleiades.stoa.org/places/743192303/cigs-location-of-kani-shayah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.1760205,
+            35.5583389
+          ],
+          [
+            45.1760215,
+            35.558183
+          ],
+          [
+            45.1760454,
+            35.5580285
+          ],
+          [
+            45.1760538,
+            35.5578891
+          ],
+          [
+            45.1760178,
+            35.5577976
+          ],
+          [
+            45.1761095,
+            35.5577482
+          ],
+          [
+            45.1763122,
+            35.5576994
+          ],
+          [
+            45.176431,
+            35.5576862
+          ],
+          [
+            45.1765705,
+            35.5576887
+          ],
+          [
+            45.1767081,
+            35.5577538
+          ],
+          [
+            45.1767952,
+            35.557828
+          ],
+          [
+            45.1768191,
+            35.5579339
+          ],
+          [
+            45.1768141,
+            35.5580464
+          ],
+          [
+            45.176769,
+            35.5581523
+          ],
+          [
+            45.1767249,
+            35.5582076
+          ],
+          [
+            45.1765696,
+            35.5582689
+          ],
+          [
+            45.1764134,
+            35.5583062
+          ],
+          [
+            45.1761947,
+            35.5583304
+          ],
+          [
+            45.1761704,
+            35.5583144
+          ],
+          [
+            45.1760205,
+            35.5583389
+          ]
+        ]
+      },
+      "id": "osm-location-of-kani-shaie",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kani Shaie",
+        "link": "http://pleiades.stoa.org/places/743192303/osm-location-of-kani-shaie"
       }
     }
   ]

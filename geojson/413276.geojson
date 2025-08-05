@@ -9,6 +9,9 @@
     42.17132
   ],
   "description": "An ancient place, cited: BAtlas 42 H4 Punta La Penna",
+  "names": [
+    "Punta La Penna"
+  ],
   "features": [
     {
       "type": "Feature",

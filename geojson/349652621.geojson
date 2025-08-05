@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Qasr Shemamok",
+  "id": "349652621",
+  "bbox": [
+    43.7504939,
+    36.1037259,
+    43.7541846,
+    36.1071668
+  ],
+  "description": "A tell located some 30 kilometers south of Erbil in Iraq's Kurdistan Region. Occupation at the site began in the second millennium BCE and continued through Parthian and Sassanian phases.",
+  "names": [
+    "Qasr Shemamok"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.7521357282,
+          36.1054999118
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.7517158,
+            36.1071668
+          ],
+          [
+            43.750953,
+            36.1062797
+          ],
+          [
+            43.7504996,
+            36.1055356
+          ],
+          [
+            43.7504939,
+            36.1048967
+          ],
+          [
+            43.7508861,
+            36.1037259
+          ],
+          [
+            43.7524652,
+            36.1041145
+          ],
+          [
+            43.7533151,
+            36.1048304
+          ],
+          [
+            43.7536887,
+            36.1056907
+          ],
+          [
+            43.7538215,
+            36.1060162
+          ],
+          [
+            43.7541846,
+            36.1063119
+          ],
+          [
+            43.7537048,
+            36.1065757
+          ],
+          [
+            43.7517158,
+            36.1071668
+          ]
+        ]
+      },
+      "id": "osm-location-of-qasr-shemamok",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Qasr Shemamok",
+        "link": "http://pleiades.stoa.org/places/349652621/osm-location-of-qasr-shemamok"
+      }
+    }
+  ]
+}

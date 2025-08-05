@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kamul, Mon.",
+  "title": "Kamul (monastery)",
   "id": "874536",
   "bbox": [
     42.404847,
@@ -10,7 +10,8 @@
   ],
   "description": "An ancient place, cited: BAtlas 89 E3 Kamul, Mon.",
   "names": [
-    "Kamul, Mon."
+    "Kamul",
+    "Monastery of Mar Ioannes of Kamul"
   ],
   "features": [
     {

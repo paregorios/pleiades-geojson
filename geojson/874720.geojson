@@ -3,14 +3,17 @@
   "title": "Tel Afar/Ad Pontem?",
   "id": "874720",
   "bbox": [
-    42.437347,
-    36.36904,
-    42.437347,
-    36.36904
+    42.4434793,
+    36.3740434,
+    42.4434793,
+    36.3740434
   ],
   "description": "An ancient place, cited: BAtlas 89 E4 Tel Afar/Ad Pontem?",
   "names": [
-    "Ad Pontem"
+    "Ad Pontem",
+    "Tel Afar/Ad Pontem?",
+    "Tal Afar",
+    "Talʿafar"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.437347,
-          36.36904
+          42.4434793,
+          36.3740434
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.437347,
-          36.36904
+          42.4434793,
+          36.3740434
         ]
       },
-      "id": "darmc-location-32927",
+      "id": "osm-location-of-tal-afar",
       "type": "Feature",
       "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 32927",
-        "link": "http://pleiades.stoa.org/places/874720/darmc-location-32927"
+        "title": "OSM location of Tal Afar",
+        "link": "http://pleiades.stoa.org/places/874720/osm-location-of-tal-afar"
       }
     }
   ]

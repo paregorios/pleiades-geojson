@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell es-Sawwan",
+  "id": "876875509",
+  "bbox": [
+    43.9034322,
+    34.1193744,
+    43.9066266,
+    34.1223312
+  ],
+  "description": "A tell located along the Tigris River where human occupation began in the fifth millennium BCE. The site's material remains are chiefly associated with Ubaid, Hassuna, and Samarra cultures.",
+  "connectsWith": [
+    "912964"
+  ],
+  "names": [
+    "Tell es-Sawwan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9050902773,
+          34.1210036438
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.9057139,
+            34.1193744
+          ],
+          [
+            43.9060494,
+            34.1194398
+          ],
+          [
+            43.9066266,
+            34.1204813
+          ],
+          [
+            43.9064874,
+            34.1205968
+          ],
+          [
+            43.905672,
+            34.1215982
+          ],
+          [
+            43.9051854,
+            34.1219334
+          ],
+          [
+            43.9046659,
+            34.1220973
+          ],
+          [
+            43.9041313,
+            34.1223312
+          ],
+          [
+            43.9038625,
+            34.1222907
+          ],
+          [
+            43.9034322,
+            34.1222029
+          ],
+          [
+            43.9035149,
+            34.1219536
+          ],
+          [
+            43.9037441,
+            34.1215254
+          ],
+          [
+            43.9040839,
+            34.1212611
+          ],
+          [
+            43.9043602,
+            34.1210481
+          ],
+          [
+            43.9045484,
+            34.1207523
+          ],
+          [
+            43.9047663,
+            34.1205352
+          ],
+          [
+            43.9057139,
+            34.1193744
+          ]
+        ]
+      },
+      "id": "osm-location-of-tell-es-sawwan",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tell es-Sawwan",
+        "link": "http://pleiades.stoa.org/places/876875509/osm-location-of-tell-es-sawwan"
+      }
+    }
+  ]
+}
