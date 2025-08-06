@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Salmydessos",
+  "title": "Salmydessos (coastal region)",
   "id": "511405",
   "bbox": [
     28.2242820979,
@@ -8,7 +8,7 @@
     28.5102933108,
     41.5182926335
   ],
-  "description": "An ancient place, cited: BAtlas 52 C1 Salmydessos (1)",
+  "description": "A coastal region on the southwest littoral of the Black Sea, south and east of the ancient settlement of Salmydessos (modern Midye/Kıyıköy).",
   "names": [
     "Salmydessos"
   ],

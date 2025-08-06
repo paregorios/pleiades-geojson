@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell Qaramel",
+  "id": "945731146",
+  "bbox": [
+    37.2744399,
+    36.3764349,
+    37.2762326,
+    36.3786151
+  ],
+  "description": "A settlement mound with evidence of human activity stretching from the Pre-Pottery Neolithic A period to the Hellenistic period.",
+  "names": [
+    "Tell Qaramel"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.275315088,
+          36.3775111773
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.2744399,
+            36.3781131
+          ],
+          [
+            37.2746153,
+            36.3786151
+          ],
+          [
+            37.2754271,
+            36.3785001
+          ],
+          [
+            37.2759473,
+            36.3780745
+          ],
+          [
+            37.2760564,
+            36.3774395
+          ],
+          [
+            37.2762326,
+            36.3765815
+          ],
+          [
+            37.2756895,
+            36.3765082
+          ],
+          [
+            37.2751222,
+            36.3764349
+          ],
+          [
+            37.2744879,
+            36.3775724
+          ],
+          [
+            37.2745952,
+            36.3780216
+          ],
+          [
+            37.2744399,
+            36.3781131
+          ]
+        ]
+      },
+      "id": "osm-location-of-tell-qaramel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tell Qaramel",
+        "link": "http://pleiades.stoa.org/places/945731146/osm-location-of-tell-qaramel"
+      }
+    }
+  ]
+}

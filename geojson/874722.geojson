@@ -8,7 +8,14 @@
     42.486373,
     36.836683
   ],
-  "description": "An ancient place, cited: BAtlas 89 E4 Tell Abu Dhahir",
+  "description": "Tell Abu Dhahir is located on the right bank of the Tigris River, 90 km northwest of Mosul. The British Archaeological Expedition in Iraq conducted excavations there between October 1985 and April 1986, in advance of the completion of the Eski Mosul Dam project. The pluristratified tell documents the remains of numerous cultures, including Hassuna, Ubaid, Uruk, Ninevite V, Akkadian, Khabur, Late Assyrian, and Hellenistic/Parthian phases.",
+  "connectsWith": [
+    "912964",
+    "874609"
+  ],
+  "names": [
+    "Tell Abu Dhahir"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +41,7 @@
       "id": "darmc-location-22922",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22922",
         "link": "http://pleiades.stoa.org/places/874722/darmc-location-22922"

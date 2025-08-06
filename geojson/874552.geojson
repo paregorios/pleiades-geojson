@@ -9,6 +9,9 @@
     36.692232
   ],
   "description": "An ancient place, cited: BAtlas 89 E4 Khirbet Deir Situn",
+  "names": [
+    "Khirbet Deir Situn"
+  ],
   "features": [
     {
       "type": "Feature",

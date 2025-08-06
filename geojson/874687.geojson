@@ -8,7 +8,10 @@
     42.473241,
     36.857111
   ],
-  "description": "An ancient place, cited: BAtlas 89 E4 Seh Gubba",
+  "description": "Ball (1987) describes his excavations at Seh Gubba that were carried out as part of the Saddam Dam Salvage Project. These excavations took place in early 1986 and revealed a fortified town. Ramparts dating to either the Sasanian or Byzantine phases surround the tell but Ball speculates the settlement was likely of Roman origin.",
+  "names": [
+    "Seh Gubba"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-22921",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22921",
         "link": "http://pleiades.stoa.org/places/874687/darmc-location-22921"

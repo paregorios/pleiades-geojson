@@ -9,6 +9,9 @@
     36.846556
   ],
   "description": "An ancient place, cited: BAtlas 89 D4 Tell Farfara",
+  "names": [
+    "Tell Farfara"
+  ],
   "features": [
     {
       "type": "Feature",
