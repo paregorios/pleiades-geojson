@@ -3,14 +3,16 @@
   "title": "Salmydessos (settlement)",
   "id": "511404",
   "bbox": [
-    28.091144,
-    41.637244,
-    28.091144,
-    41.637244
+    28.0957289,
+    41.6347531,
+    28.0957289,
+    41.6347531
   ],
   "description": "An ancient settlement on the southwest coast of the Black Sea. Modern Midye/Kıyıköy.",
   "names": [
-    "Salmydessos"
+    "Salmydessos",
+    "Midye",
+    "Kıyıköy"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.091144,
-          41.637244
+          28.0957289,
+          41.6347531
         ]
       },
       "properties": {
@@ -30,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.091144,
-          41.637244
+          28.0957289,
+          41.6347531
         ]
       },
-      "id": "darmc-location-958",
+      "id": "osm-location-modern-ka-ya-kapy",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 958",
-        "link": "http://pleiades.stoa.org/places/511404/darmc-location-958"
+        "title": "OSM Location: modern Kıyıköy",
+        "link": "http://pleiades.stoa.org/places/511404/osm-location-modern-ka-ya-kapy"
       }
     }
   ]

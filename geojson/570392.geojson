@@ -3,13 +3,14 @@
   "title": "Kynaitha(i)",
   "id": "570392",
   "bbox": [
-    22.111538,
-    38.030556,
-    22.111538,
-    38.030556
+    22.1103931,
+    38.0333853,
+    22.1103931,
+    38.0333853
   ],
-  "description": "An ancient place, cited: BAtlas 58 C1 Kynaitha(i)",
+  "description": "An ancient settlement in Arcadia, located close to modern Kalavryta. Its precise location is undetermined.",
   "names": [
+    "Kalavryta",
     "Kynaithai",
     "Kynaitha"
   ],
@@ -19,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.111538,
-          38.030556
+          22.1103931,
+          38.0333853
         ]
       },
       "properties": {
@@ -31,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.111538,
-          38.030556
+          22.1103931,
+          38.0333853
         ]
       },
-      "id": "darmc-location-13351",
+      "id": "osm-location-modern-kalavryta",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 13351",
-        "link": "http://pleiades.stoa.org/places/570392/darmc-location-13351"
+        "title": "OSM Location: modern Kalavryta",
+        "link": "http://pleiades.stoa.org/places/570392/osm-location-modern-kalavryta"
       }
     }
   ]

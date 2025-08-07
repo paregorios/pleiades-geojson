@@ -3,6 +3,9 @@
   "title": "Bubalia",
   "id": "876599",
   "description": "An ancient place, cited: BAtlas 89 unlocated Bubalia",
+  "connectsWith": [
+    "629106"
+  ],
   "names": [
     "Bubalia"
   ],

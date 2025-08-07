@@ -8,7 +8,10 @@
     42.959707,
     36.702445
   ],
-  "description": "An ancient place, cited: BAtlas 89 E4 Grai Darki",
+  "description": "Tell Grai Darki was the site of a Hellenistic and Roman settlement. The site is located approximately 2 km north of Tell Deir Situn. John Curtis conducted excavations here as part of the Saddam Dam Salvage Project.",
+  "names": [
+    "Grai Darki"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-22910",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22910",
         "link": "http://pleiades.stoa.org/places/874489/darmc-location-22910"

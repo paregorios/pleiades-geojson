@@ -3,10 +3,10 @@
   "title": "Regio III, Ostia Antica",
   "id": "11101488",
   "bbox": [
-    12.287656,
-    41.754855,
-    12.287656,
-    41.754855
+    12.2792485,
+    41.7487005,
+    12.2978648,
+    41.7582387
   ],
   "description": "The third region of ancient Ostia comprises the western sector of the archaeological area.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.287656,
-          41.754855
+          12.2850720883,
+          41.7527111534
         ]
       },
       "properties": {

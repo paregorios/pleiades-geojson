@@ -9,6 +9,9 @@
     51.3639491
   ],
   "description": "The Frith is an Iron Age hillfort in Hampshire, England, that covers 1.6 hectares.",
+  "names": [
+    "The Frith"
+  ],
   "features": [
     {
       "type": "Feature",
