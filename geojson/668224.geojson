@@ -13,7 +13,10 @@
     "Cassius M.",
     "Casius M.",
     "Ṣapūna",
-    "Kasion oros"
+    "Kasion oros",
+    "Jabal al Aqra`",
+    "Hazzi",
+    "Keldağ"
   ],
   "features": [
     {
@@ -42,7 +45,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Cas(s)ius M.",
+        "title": "OSM location of Jabal al Aqra`",
         "link": "http://pleiades.stoa.org/places/668224/location-of-Cas-s-ius-M"
       }
     }

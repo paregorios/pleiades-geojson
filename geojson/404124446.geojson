@@ -9,6 +9,9 @@
     45.3311109
   ],
   "description": "A Gallo-Roman villa.",
+  "names": [
+    "Villa gallo-romaine de la Coue d'Auzenat"
+  ],
   "features": [
     {
       "type": "Feature",

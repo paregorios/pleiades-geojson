@@ -3,12 +3,12 @@
   "title": "Spina",
   "id": "393498",
   "bbox": [
-    12.101172,
-    44.691482,
-    12.1077917,
-    44.6963403
+    12.0911517,
+    44.6904027,
+    12.0955229,
+    44.6964758
   ],
-  "description": "An Etruscan port city at the mouth of the Po river on the Adriatic Sea, most likely founded at the end of the sixth century B.C.",
+  "description": "An Etruscan port city at the mouth of the Po River on the Adriatic Sea, most likely founded at the end of the sixth century B.C.",
   "connectsWith": [
     "1004",
     "393494",
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.104324713,
-          44.6938431008
+          12.0930800829,
+          44.6934447879
         ]
       },
       "properties": {
@@ -37,70 +37,102 @@
         "type": "LineString",
         "coordinates": [
           [
-            12.1077917,
-            44.6944413
+            12.0915899,
+            44.6964758
           ],
           [
-            12.1056459,
-            44.6949599
+            12.0926823,
+            44.6964696
           ],
           [
-            12.1047768,
-            44.6953412
+            12.0926987,
+            44.6954285
           ],
           [
-            12.1027706,
-            44.6963403
+            12.0939176,
+            44.6954121
           ],
           [
-            12.1023843,
-            44.6959742
+            12.0939731,
+            44.6944403
           ],
           [
-            12.1023843,
-            44.6957378
+            12.0943672,
+            44.6944454
           ],
           [
-            12.1020088,
-            44.6951429
+            12.0943425,
+            44.6931927
           ],
           [
-            12.101172,
-            44.6936862
+            12.0945072,
+            44.692446
           ],
           [
-            12.1013865,
-            44.6933888
+            12.0953047,
+            44.692339
           ],
           [
-            12.1033177,
-            44.691482
+            12.0955229,
+            44.6916491
           ],
           [
-            12.1036074,
-            44.6915125
+            12.0953049,
+            44.6913716
           ],
           [
-            12.1066544,
-            44.6925269
+            12.0942858,
+            44.6913437
           ],
           [
-            12.107105,
-            44.6929388
+            12.0936355,
+            44.6904027
           ],
           [
-            12.1077917,
-            44.6944413
+            12.0929523,
+            44.6913486
+          ],
+          [
+            12.0921373,
+            44.6915314
+          ],
+          [
+            12.0917686,
+            44.6916651
+          ],
+          [
+            12.0915655,
+            44.6929273
+          ],
+          [
+            12.0911517,
+            44.6929273
+          ],
+          [
+            12.0911743,
+            44.6937243
+          ],
+          [
+            12.0915805,
+            44.6937243
+          ],
+          [
+            12.0916031,
+            44.6964198
+          ],
+          [
+            12.0915899,
+            44.6964758
           ]
         ]
       },
-      "id": "osm-location-of-spina",
+      "id": "osm-location-spina-archaeological-site",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Spina",
-        "link": "http://pleiades.stoa.org/places/393498/osm-location-of-spina"
+        "title": "OSM Location: Spina Archaeological Site",
+        "link": "http://pleiades.stoa.org/places/393498/osm-location-spina-archaeological-site"
       }
     }
   ]

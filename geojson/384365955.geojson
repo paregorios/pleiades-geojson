@@ -8,9 +8,12 @@
     12.5292898,
     41.8581586
   ],
-  "description": "A Medieval tower (12th or 13th century) now located within the grounds of the Caffarella park.",
+  "description": "A Medieval tower (12th or 13th century) is now located within the grounds of the Caffarella park.",
   "connectsWith": [
     "370793043"
+  ],
+  "names": [
+    "Torre Valca"
   ],
   "features": [
     {

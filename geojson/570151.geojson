@@ -3,17 +3,19 @@
   "title": "Belmina",
   "id": "570151",
   "bbox": [
+    22.2469113,
+    37.2711322,
     22.286919,
-    37.27848,
-    22.286919,
-    37.27848
+    37.2966155
   ],
-  "description": "An ancient place, cited: BAtlas 58 C3 Belmina",
+  "description": "Mentioned in ancient sources, this settlement of ancient Arcadia was perhaps a polis during the Classical period. It lay near the border with Laconia and Shipley argues it was seized and controlled by Sparta from the mid-sixth to fourth centuries BCE, again in the third century, and from the mid-to-late second century BCE well into the Roman imperial period. Its precise location is uncertain, but there are multiple candidate sites on the slopes of modern Mt. Chelmos (atop which the Athenaion fort stood) in the vicinity of modern Skortsinos and modern Giakoumaiika (enumerated by Shipley 2000 on page 373 note 45).",
   "names": [
     "Belmina",
     "Belbina",
     "Belemina",
-    "Blenina"
+    "Blenina",
+    "Chelmos",
+    "Belmina"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.286919,
-          37.27848
+          22.2690422,
+          37.2820759
         ]
       },
       "properties": {
@@ -44,6 +46,40 @@
         "location_precision": "precise",
         "title": "DARMC location 11691",
         "link": "http://pleiades.stoa.org/places/570151/darmc-location-11691"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2469113,
+          37.2966155
+        ]
+      },
+      "id": "osm-location-modern-skortsinos",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Skortsinos",
+        "link": "http://pleiades.stoa.org/places/570151/osm-location-modern-skortsinos"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2732963,
+          37.2711322
+        ]
+      },
+      "id": "osm-location-modern-giakoumaiika",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Giakoumaiika",
+        "link": "http://pleiades.stoa.org/places/570151/osm-location-modern-giakoumaiika"
       }
     }
   ]

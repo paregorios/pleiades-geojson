@@ -9,6 +9,9 @@
     35.961304
   ],
   "description": "An ancient place, cited: BAtlas 68 A2 Barlaamus",
+  "connectsWith": [
+    "668224"
+  ],
   "names": [
     "Barlaamus"
   ],

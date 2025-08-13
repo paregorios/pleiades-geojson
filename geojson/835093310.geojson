@@ -3,10 +3,10 @@
   "title": "Mahabalipuram",
   "id": "835093310",
   "bbox": [
-    80.193234,
-    12.6200965,
-    80.193234,
-    12.6200965
+    80.1902927,
+    12.6142058,
+    80.1931975,
+    12.6202059
   ],
   "description": "This group of sanctuaries was carved out of rock along the Coromandel coast in the seventh and eighth centuries. The Group of Monuments at Mahabalipuram is a UNESCO World Heritage site.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.193234,
-          12.6200965
+          80.1916485577,
+          12.617287146
         ]
       },
       "properties": {

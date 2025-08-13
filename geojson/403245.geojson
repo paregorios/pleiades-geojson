@@ -9,6 +9,9 @@
     43.392472
   ],
   "description": "An ancient place, cited: BAtlas 41 D3 Montecatini Val de Cécina",
+  "names": [
+    "Montecatini Val de Cécina"
+  ],
   "features": [
     {
       "type": "Feature",

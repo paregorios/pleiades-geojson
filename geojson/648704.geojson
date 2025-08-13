@@ -3,16 +3,18 @@
   "title": "Ma(m)psoukrenai",
   "id": "648704",
   "bbox": [
-    34.877859,
-    37.067741,
-    34.89394,
-    37.078932
+    34.8965119,
+    37.0803908,
+    34.8965119,
+    37.0803908
   ],
   "description": "A place located in the eastern part of Cilicia on the river Cydnus.",
   "names": [
     "Mampsoukrenai",
     "Mapsoukrenai",
-    "Nampsucrone"
+    "Nampsucrone",
+    "Kırıtlar",
+    "Kırıt"
   ],
   "features": [
     {
@@ -20,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.89394,
-          37.078932
+          34.8965119,
+          37.0803908
         ]
       },
       "properties": {
@@ -32,34 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.89394,
-          37.078932
+          34.8965119,
+          37.0803908
         ]
       },
-      "id": "darmc-location-9675",
+      "id": "osm-location-modern-ka-ra-t",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 9675",
-        "link": "http://pleiades.stoa.org/places/648704/darmc-location-9675"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.877859,
-          37.067741
-        ]
-      },
-      "id": "darmc-location-11930",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB point location",
-        "location_precision": "precise",
-        "title": "DARMC location 11930",
-        "link": "http://pleiades.stoa.org/places/648704/darmc-location-11930"
+        "title": "OSM Location: modern Kırıt",
+        "link": "http://pleiades.stoa.org/places/648704/osm-location-modern-ka-ra-t"
       }
     }
   ]

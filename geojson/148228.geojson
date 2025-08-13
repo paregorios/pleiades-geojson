@@ -9,9 +9,13 @@
     44.2423683
   ],
   "description": "Vasio (modern Vaison-la-Romaine) was the civitas capital of the Vocontii and eventually received Roman status by the late first century BC.",
+  "connectsWith": [
+    "148241"
+  ],
   "names": [
     "Vasio",
-    "Vaison-la-Romaine"
+    "Vaison-la-Romaine",
+    "Vasio Vocontiorum"
   ],
   "features": [
     {

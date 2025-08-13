@@ -4,9 +4,9 @@
   "id": "393959243",
   "bbox": [
     12.5103101,
-    41.8974801,
+    41.897465,
     12.5103101,
-    41.8974801
+    41.897465
   ],
   "description": "The Porta Tiburtina is a gate in the Aurelianic Walls through which the Via Tiburtina passes. It is also known today as the Porta San Larenzo.",
   "connectsWith": [
@@ -14,7 +14,8 @@
     "529700371"
   ],
   "names": [
-    "Porta San Lorenzo"
+    "Porta San Lorenzo",
+    "Porta Tiburtina"
   ],
   "features": [
     {
@@ -23,7 +24,7 @@
         "type": "Point",
         "coordinates": [
           12.5103101,
-          41.8974801
+          41.897465
         ]
       },
       "properties": {
@@ -35,7 +36,7 @@
         "type": "Point",
         "coordinates": [
           12.5103101,
-          41.8974801
+          41.897465
         ]
       },
       "id": "osm-location-of-porta-san-lorenzo",

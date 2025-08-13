@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Terme del Nuotatore",
+  "id": "589881342",
+  "bbox": [
+    12.2917445,
+    41.7545232,
+    12.2917445,
+    41.7545232
+  ],
+  "description": "The so-called \"Baths of the Swimmer\" or \"Terme del Nuotatore\" (V,X,3) in region 5 of the ancient city of Ostia takes its modern name from a partially preserved black-and-white mosaic pavement. These baths were built in the late first century CE during the reign of Domitian. The complex was rebuilt during the Antonine period. The complex remained in use until ca. 250. The site was first excavated during 1938-1942. Andrea Carandini directed another campaign of excavation from 1966 to 1975.",
+  "connectsWith": [
+    "535208378"
+  ],
+  "names": [
+    "Terme del Nuotatore"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2917445,
+          41.7545232
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2917445,
+          41.7545232
+        ]
+      },
+      "id": "osm-location-of-terme-del-nuotatore-v-x-3",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Terme del Nuotatore (V,X,3)",
+        "link": "http://pleiades.stoa.org/places/589881342/osm-location-of-terme-del-nuotatore-v-x-3"
+      }
+    }
+  ]
+}

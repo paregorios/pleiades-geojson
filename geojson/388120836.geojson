@@ -8,7 +8,7 @@
     14.3460116,
     40.8474265
   ],
-  "description": "A 'Villa rustica' associated with one Caius Olius Ampliatus located in the Ponticelli of Naples, Italy. The site was excavated in 1986-1987, with additional work in 2007. The site covers some 2,000 sq. meters.",
+  "description": "A 'Villa rustica' associated with one Caius Olius Ampliatus, located in the Ponticelli of Naples, Italy. The site was excavated in 1986-1987, with additional work in 2007. The site covers some 2,000 sq. meters.",
   "names": [
     "La villa rustica di C. Olius Ampliatus"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3449071919,
-          40.8472057393
+          14.3449071916,
+          40.8472057403
         ]
       },
       "properties": {
@@ -37,6 +37,10 @@
           [
             14.3438589,
             40.8472787
+          ],
+          [
+            14.3441308,
+            40.8473628
           ],
           [
             14.3442334,

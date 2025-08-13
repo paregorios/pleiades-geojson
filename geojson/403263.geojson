@@ -3,14 +3,15 @@
   "title": "Prile (river)",
   "id": "403263",
   "bbox": [
-    10.9624656,
-    42.7870871,
-    10.9624656,
-    42.7870871
+    10.877527,
+    42.7606609,
+    11.0436334,
+    42.9913822
   ],
   "description": "The Bruna river flows some 70 km from the Colline Metallifere to the Tyrrhenian Sea, passing to the south of Massa Marittima. Its mouth is located at Castiglione della Pescaia.",
   "names": [
-    "Prile"
+    "Prile",
+    "Bruna"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9624656,
-          42.7870871
+          10.9803413717,
+          42.8777160122
         ]
       },
       "properties": {

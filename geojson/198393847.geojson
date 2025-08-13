@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica of Constantine (Ostia)",
+  "id": "198393847",
+  "bbox": [
+    12.2936805,
+    41.7541808,
+    12.2936805,
+    41.7541808
+  ],
+  "description": "The presence of a basilica created with funds donated by Constantine I in region 5 of ancient Ostia was known from textual sources and then confirmed via geophysical prospection and, ultimately, excavation.",
+  "connectsWith": [
+    "535208378"
+  ],
+  "names": [
+    "Basilica of Constantine (Ostia)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2936805,
+          41.7541808
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2936805,
+          41.7541808
+        ]
+      },
+      "id": "osm-location-of-basilica-costantiniana-di-ostia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica costantiniana di Ostia",
+        "link": "http://pleiades.stoa.org/places/198393847/osm-location-of-basilica-costantiniana-di-ostia"
+      }
+    }
+  ]
+}

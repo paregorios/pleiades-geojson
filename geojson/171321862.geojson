@@ -8,9 +8,12 @@
     11.8740419,
     42.4063065
   ],
-  "description": "An Etruscan necropolis located about 2 km south-west of Tuscania that overlooks valley of the Marta river. The necropolis takes its name from the adjacent Church of the Madonna dell’Olivo.",
+  "description": "An Etruscan necropolis located about 2 km south-west of Tuscania that overlooks the valley of the Marta river. The necropolis takes its name from the adjacent Church of the Madonna dell’Olivo.",
   "connectsWith": [
     "413356"
+  ],
+  "names": [
+    "Madonna d'olivo necropolis"
   ],
   "features": [
     {

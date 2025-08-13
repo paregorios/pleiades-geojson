@@ -3,14 +3,15 @@
   "title": "Castra Iarba",
   "id": "501384",
   "bbox": [
-    26.0921047,
-    41.9321941,
-    26.092222,
-    41.932222
+    26.090415,
+    41.9320354,
+    26.0923139,
+    41.9327124
   ],
   "description": "An ancient place, cited: BAtlas 51 G1 Castra Iarba",
   "names": [
-    "Castra Iarba"
+    "Castra Iarba",
+    "Castris rubris"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.09216335,
-          41.93220805
+          26.0917836463,
+          41.9323023586
         ]
       },
       "properties": {
@@ -45,19 +46,103 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          26.0921047,
-          41.9321941
+          [
+            [
+              26.0921261,
+              41.9320414
+            ],
+            [
+              26.0922254,
+              41.9320354
+            ],
+            [
+              26.0922361,
+              41.9322829
+            ],
+            [
+              26.0923139,
+              41.9323347
+            ],
+            [
+              26.0922702,
+              41.9323632
+            ],
+            [
+              26.0922289,
+              41.9323908
+            ],
+            [
+              26.0921608,
+              41.9323369
+            ],
+            [
+              26.0920349,
+              41.932428
+            ],
+            [
+              26.0918142,
+              41.9325987
+            ],
+            [
+              26.0918795,
+              41.9326398
+            ],
+            [
+              26.0918255,
+              41.9326804
+            ],
+            [
+              26.091763,
+              41.9326365
+            ],
+            [
+              26.090499,
+              41.9327124
+            ],
+            [
+              26.090497,
+              41.9326811
+            ],
+            [
+              26.0904221,
+              41.9326846
+            ],
+            [
+              26.090415,
+              41.9326146
+            ],
+            [
+              26.0904914,
+              41.932609
+            ],
+            [
+              26.0904384,
+              41.9322099
+            ],
+            [
+              26.0915138,
+              41.9320946
+            ],
+            [
+              26.0921272,
+              41.9320631
+            ],
+            [
+              26.0921261,
+              41.9320414
+            ]
+          ]
         ]
       },
-      "id": "osm-location-of-castra-iarba",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Castra Iarba",
-        "link": "http://pleiades.stoa.org/places/501384/osm-location-of-castra-iarba"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/501384/osm-location"
       }
     }
   ]

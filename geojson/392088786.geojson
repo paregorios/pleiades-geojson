@@ -9,6 +9,9 @@
     43.6211582
   ],
   "description": "A Roman funerary monument.",
+  "names": [
+    "Tour de la Chèvre d'Or"
+  ],
   "features": [
     {
       "type": "Feature",

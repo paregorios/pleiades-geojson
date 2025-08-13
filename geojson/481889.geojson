@@ -9,6 +9,9 @@
     42.3131631338
   ],
   "description": "An Illyrian tribe that lived near Scodra.",
+  "connectsWith": [
+    "481890"
+  ],
   "names": [
     "Labeatae"
   ],

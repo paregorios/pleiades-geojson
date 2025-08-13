@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Siedlung Forschner",
+  "id": "805439017",
+  "bbox": [
+    9.6411055,
+    48.0537877,
+    9.6411055,
+    48.0537877
+  ],
+  "description": "A Neolithic archaeological site located in Bad Buchau, Germany, and included in the UNESCO World Heritage Site \"Prehistoric Pile Dwellings around the Alps\".",
+  "names": [
+    "Siedlung Forschner"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6411055,
+          48.0537877
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6411055,
+          48.0537877
+        ]
+      },
+      "id": "osm-location-of-siedlung-forschner",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Siedlung Forschner",
+        "link": "http://pleiades.stoa.org/places/805439017/osm-location-of-siedlung-forschner"
+      }
+    }
+  ]
+}

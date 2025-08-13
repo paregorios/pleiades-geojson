@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "title": "Schwarzenbach",
+  "id": "724105114",
+  "bbox": [
+    16.3600893,
+    47.6337524,
+    16.3647592,
+    47.6380833
+  ],
+  "description": "Celtic settlement site in eastern Austria inhabited during the 1st-2nd centuries CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3622906762,
+          47.6360038293
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.3608045,
+            47.6377551
+          ],
+          [
+            16.3618387,
+            47.6380833
+          ],
+          [
+            16.3632163,
+            47.6377643
+          ],
+          [
+            16.3642466,
+            47.6372986
+          ],
+          [
+            16.3644016,
+            47.6364607
+          ],
+          [
+            16.3646996,
+            47.6355852
+          ],
+          [
+            16.3647592,
+            47.6351488
+          ],
+          [
+            16.3646161,
+            47.6349132
+          ],
+          [
+            16.3640519,
+            47.6346856
+          ],
+          [
+            16.3638692,
+            47.6345678
+          ],
+          [
+            16.3635927,
+            47.6344392
+          ],
+          [
+            16.3628371,
+            47.6344699
+          ],
+          [
+            16.361274,
+            47.6337524
+          ],
+          [
+            16.3608925,
+            47.6339367
+          ],
+          [
+            16.3605283,
+            47.635315
+          ],
+          [
+            16.3600893,
+            47.636473
+          ],
+          [
+            16.360108,
+            47.6374863
+          ],
+          [
+            16.3608045,
+            47.6377551
+          ]
+        ]
+      },
+      "id": "schwarzenbach-burg",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the approximate extent of the Schwarzenbach site, derived from an OpenStreetMap after Neubauer 2023.",
+        "location_precision": "precise",
+        "title": "OSM location of Schwarzenbach-Burg",
+        "link": "http://pleiades.stoa.org/places/724105114/schwarzenbach-burg"
+      }
+    }
+  ]
+}

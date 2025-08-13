@@ -3,8 +3,8 @@
   "title": "Bremia",
   "id": "79353",
   "bbox": [
-    -3.9848,
-    52.1896,
+    -3.9848069,
+    52.1895701,
     -3.984646,
     52.189615
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.984723,
-          52.1896075
+          -3.98475096667,
+          52.1895950333
         ]
       },
       "properties": {
@@ -58,6 +58,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/79353/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9848069,
+          52.1895701
+        ]
+      },
+      "id": "osm-location-of-bremia-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bremia Roman fort",
+        "link": "http://pleiades.stoa.org/places/79353/osm-location-of-bremia-roman-fort"
       }
     }
   ]

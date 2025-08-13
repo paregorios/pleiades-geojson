@@ -3,10 +3,10 @@
   "title": "*Hadriani",
   "id": "393434",
   "bbox": [
-    12.169186,
-    44.94935,
-    12.169186,
-    44.94935
+    12.176693,
+    44.9463899,
+    12.176693,
+    44.9463899
   ],
   "description": "An ancient place, cited: BAtlas 40 C3 *Hadriani",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.169186,
-          44.94935
+          12.176693,
+          44.9463899
         ]
       },
       "properties": {
@@ -35,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.169186,
-          44.94935
+          12.176693,
+          44.9463899
         ]
       },
-      "id": "darmc-location-19272",
+      "id": "osm-location-of-san-basilio",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19272",
-        "link": "http://pleiades.stoa.org/places/393434/darmc-location-19272"
+        "title": "OSM location of San Basilio",
+        "link": "http://pleiades.stoa.org/places/393434/osm-location-of-san-basilio"
       }
     }
   ]

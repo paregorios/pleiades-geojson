@@ -3,10 +3,10 @@
   "title": "*Neronia",
   "id": "393457",
   "bbox": [
-    12.11155,
-    44.832792,
-    12.11155,
-    44.832792
+    12.1311662,
+    44.7662851,
+    12.1311662,
+    44.7662851
   ],
   "description": "An ancient place, cited: BAtlas 40 C3 *Neronia",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.11155,
-          44.832792
+          12.1311662,
+          44.7662851
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.11155,
-          44.832792
+          12.1311662,
+          44.7662851
         ]
       },
-      "id": "darmc-location-19282",
+      "id": "osm-location-of-tombe",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19282",
-        "link": "http://pleiades.stoa.org/places/393457/darmc-location-19282"
+        "title": "OSM location of Tombe",
+        "link": "http://pleiades.stoa.org/places/393457/osm-location-of-tombe"
       }
     }
   ]

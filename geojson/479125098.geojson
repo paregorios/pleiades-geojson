@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stratonicidi",
+  "id": "479125098",
+  "description": "Stratonicidi is a place name included in the Peutinger map. It is situated in the Nile River Delta area. The place name is included in the manuscript, but there is no symbol associated with it.",
+  "connectsWith": [
+    "375595066"
+  ],
+  "names": [
+    "Stratonicidi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

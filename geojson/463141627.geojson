@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Odeon",
+  "title": "Odeon at Aphrodisias",
   "id": "463141627",
   "bbox": [
     28.7232577495,
     37.7089985728,
-    28.723778568,
-    37.7093012397
+    28.7239027,
+    37.7093962
   ],
-  "description": null,
+  "description": "An ancient building at Aphrodisias that is referred to both as a bouleuterion and an odeion.",
   "connectsWith": [
     "638753"
+  ],
+  "names": [
+    "Odeion or Bouleuterion of Aphrodisias"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.7235032232,
-          37.7091386348
+          28.7235716658,
+          37.7091780168
         ]
       },
       "properties": {
@@ -121,6 +124,121 @@
         "location_precision": "precise",
         "title": "Odeon",
         "link": "http://pleiades.stoa.org/places/463141627/odeon"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7239027,
+            37.7091002
+          ],
+          [
+            28.7235379,
+            37.7090659
+          ],
+          [
+            28.7235293,
+            37.7091402
+          ],
+          [
+            28.7233852,
+            37.7091307
+          ],
+          [
+            28.7233781,
+            37.7091972
+          ],
+          [
+            28.7233823,
+            37.7092302
+          ],
+          [
+            28.7233947,
+            37.7092631
+          ],
+          [
+            28.7234131,
+            37.7092988
+          ],
+          [
+            28.7234356,
+            37.7093238
+          ],
+          [
+            28.7234647,
+            37.7093458
+          ],
+          [
+            28.7234981,
+            37.7093654
+          ],
+          [
+            28.7235397,
+            37.7093812
+          ],
+          [
+            28.7235814,
+            37.7093904
+          ],
+          [
+            28.7236229,
+            37.7093962
+          ],
+          [
+            28.7236665,
+            37.7093937
+          ],
+          [
+            28.7237095,
+            37.7093884
+          ],
+          [
+            28.7237484,
+            37.7093749
+          ],
+          [
+            28.7237863,
+            37.7093579
+          ],
+          [
+            28.7238181,
+            37.709336
+          ],
+          [
+            28.7238441,
+            37.7093112
+          ],
+          [
+            28.723868,
+            37.7092814
+          ],
+          [
+            28.7238845,
+            37.7092507
+          ],
+          [
+            28.7238927,
+            37.7092168
+          ],
+          [
+            28.723902,
+            37.7091593
+          ],
+          [
+            28.7239027,
+            37.7091002
+          ]
+        ]
+      },
+      "id": "osm-location-of-odeion",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Odeion",
+        "link": "http://pleiades.stoa.org/places/463141627/osm-location-of-odeion"
       }
     }
   ]

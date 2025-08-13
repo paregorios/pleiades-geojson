@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regio V, Ostia Antica",
   "id": "535208378",
+  "bbox": [
+    12.2792485,
+    41.7487005,
+    12.2978648,
+    41.7582387
+  ],
   "description": "The fifth archaeological region of Ostia is bounded to the north by the Decumanus Maximus and extends southward.",
   "connectsWith": [
     "422995"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2912470667,
+          41.7543169
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -1,13 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Mugilla?",
+  "title": "Mugilla",
   "id": "426618",
   "description": "Mugilla was a settlement in Latium Vetus. Dionysius of Halicarnassus mentions it as one of seven Latin cities sacked by Coriolanus. Its location is unknown and its obscurity is further highlighted by the fact that Pliny the Elder does not include it in his catalog of vanished Latin peoples and places. The cognomen of a branch of the gens Papiria - Mugillanus - is thought to derive from the name of the settlement. Lucius Papirius Mugillanus held the consulship at Rome in 427 BCE.",
   "connectsWith": [
     "422958"
   ],
   "names": [
-    "Mogilla"
+    "Mogilla",
+    "Mugilla"
   ],
   "features": [
     {

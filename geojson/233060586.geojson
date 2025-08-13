@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths of the Philosopher",
+  "id": "233060586",
+  "bbox": [
+    12.2906412,
+    41.7538906,
+    12.2906412,
+    41.7538906
+  ],
+  "description": "The so-called \"Baths of the Philosopher\" or \"Terme del Filosofo\" in region V of the ancient city of Ostia take their modern sobriquet from a bust of Plotinus dating to the middle of the third century CE.",
+  "connectsWith": [
+    "535208378"
+  ],
+  "names": [
+    "Terme del Filosofo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2906412,
+          41.7538906
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2906412,
+          41.7538906
+        ]
+      },
+      "id": "osm-location-of-terme-del-filosofo-v-ii-7",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Terme del Filosofo (V,II,7)",
+        "link": "http://pleiades.stoa.org/places/233060586/osm-location-of-terme-del-filosofo-v-ii-7"
+      }
+    }
+  ]
+}

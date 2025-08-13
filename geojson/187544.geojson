@@ -1,22 +1,29 @@
 {
   "type": "FeatureCollection",
-  "title": "Schlern",
+  "title": "Burgstall am Schlern cult site",
   "id": "187544",
   "bbox": [
-    11.574719,
-    46.510876,
-    11.574719,
-    46.510876
+    11.5743866,
+    46.5195386,
+    11.5743866,
+    46.5195386
   ],
-  "description": "An ancient place, cited: BAtlas 19 D3 Schlern",
+  "description": "A \"Brandopferplatz\" (Alpine burnt-offerings cult place) located at the so-called Burgstall, the topographically distinctive northern peak of the Schlern, a mountain in the South Tirolian Dolomites in modern Italy.",
+  "names": [
+    "Schlern",
+    "Sciliar",
+    "Burgstall",
+    "Monte Castello",
+    "Schlern"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.574719,
-          46.510876
+          11.5743866,
+          46.5195386
         ]
       },
       "properties": {
@@ -27,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.574719,
-          46.510876
+          11.5743866,
+          46.5195386
         ]
       },
-      "id": "darmc-location-16185",
+      "id": "osm-location-burgstall-peak-schlern",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16185",
-        "link": "http://pleiades.stoa.org/places/187544/darmc-location-16185"
+        "title": "OSM Location: Burgstall peak (Schlern)",
+        "link": "http://pleiades.stoa.org/places/187544/osm-location-burgstall-peak-schlern"
       }
     }
   ]

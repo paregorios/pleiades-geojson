@@ -3,14 +3,15 @@
   "title": "Meduacus Minor",
   "id": "393451",
   "bbox": [
-    12.098723,
-    45.334349,
-    12.098723,
-    45.334349
+    12.1265309,
+    45.3298779,
+    12.1265309,
+    45.3298779
   ],
   "description": "An ancient place, cited: BAtlas 40 C2 Meduacus Minor",
   "names": [
-    "Meduacus Minor"
+    "Meduacus Minor",
+    "Mino meduaco"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.098723,
-          45.334349
+          12.1265309,
+          45.3298779
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.098723,
-          45.334349
+          12.1265309,
+          45.3298779
         ]
       },
-      "id": "darmc-location-8064",
+      "id": "osm-location-of-lova",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8064",
-        "link": "http://pleiades.stoa.org/places/393451/darmc-location-8064"
+        "title": "OSM location of Lova",
+        "link": "http://pleiades.stoa.org/places/393451/osm-location-of-lova"
       }
     }
   ]

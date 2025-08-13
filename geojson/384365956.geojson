@@ -8,7 +8,13 @@
     12.5294367,
     41.8567297
   ],
-  "description": "The so-called Columbarium of Constantine is a second century tomb that was later repurposed as a mill.",
+  "description": "The so-called Columbarium of Constantine is a second-century tomb that was later repurposed as a mill.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Columbarium of Constantine"
+  ],
   "features": [
     {
       "type": "Feature",

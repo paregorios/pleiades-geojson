@@ -8,7 +8,7 @@
     12.5487757,
     45.182859
   ],
-  "description": "The Po river of northern Italy flows from the Cottian Alps (Alpes Cottiae) to the Adriatic Sea. It is the longest of Italy's rivers.",
+  "description": "The Po River of northern Italy flows from the Cottian Alps (Alpes Cottiae) to the Adriatic Sea. It is the longest of Italy's rivers.",
   "connectsWith": [
     "167636",
     "1004",
@@ -18,7 +18,8 @@
   "names": [
     "Padus",
     "Eridanus",
-    "rex Eridanus"
+    "rex Eridanus",
+    "Po"
   ],
   "features": [
     {

@@ -9,6 +9,9 @@
     43.298254
   ],
   "description": "An ancient place, cited: BAtlas 41 D3 La Pieve",
+  "names": [
+    "La Pieve"
+  ],
   "features": [
     {
       "type": "Feature",

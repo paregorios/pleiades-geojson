@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Shrine of Sabazius",
+  "id": "233060587",
+  "bbox": [
+    12.2929968,
+    41.7556741,
+    12.2931814,
+    41.7557906
+  ],
+  "description": "The Shrine of Sabazius was installed in part of a horreum (V, XII, 2) that was initially built ca. 120-125 CE. The Sabazius shrine likely dates to the early third century. Dante Vaglieri excavated the shrine in 1909.",
+  "connectsWith": [
+    "535208378"
+  ],
+  "names": [
+    "Shrine of Sabazius"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2930870577,
+          41.7557340755
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.2931285,
+            41.7557906
+          ],
+          [
+            12.2929968,
+            41.7557273
+          ],
+          [
+            12.293027,
+            41.7556876
+          ],
+          [
+            12.2930373,
+            41.7556741
+          ],
+          [
+            12.2930659,
+            41.7556886
+          ],
+          [
+            12.2931814,
+            41.7557472
+          ],
+          [
+            12.2931285,
+            41.7557906
+          ]
+        ]
+      },
+      "id": "osm-location-of-shrine-of-sabazius-v-xii-3",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Shrine of Sabazius (V,XII,3)",
+        "link": "http://pleiades.stoa.org/places/233060587/osm-location-of-shrine-of-sabazius-v-xii-3"
+      }
+    }
+  ]
+}

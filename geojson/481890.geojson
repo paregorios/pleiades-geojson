@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Labeatis L.",
+  "title": "Labeatis (lake)",
   "id": "481890",
   "bbox": [
     19.0791964,
@@ -11,7 +11,8 @@
   "description": "Labeatis L., modern Lake Skadar, is the largest lake of the Balkan peninsula.",
   "names": [
     "Labeatis L.",
-    "Lake Skadar"
+    "Lake Skadar",
+    "Lake Shkodra"
   ],
   "features": [
     {

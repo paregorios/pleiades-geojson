@@ -3,16 +3,17 @@
   "title": "Basilica Julia",
   "id": "173078007",
   "bbox": [
-    12.4840267,
-    41.8919597,
-    12.4840267,
-    41.8919597
+    12.484054,
+    41.8915232,
+    12.4855085,
+    41.8923855
   ],
   "description": "The Basilica Julia was built on the south side of the Forum Romanum in 46 B.C. on the site of the former Basilica Sempronia.",
   "connectsWith": [
     "502866838",
     "337325364",
-    "423025"
+    "423025",
+    "380281017"
   ],
   "features": [
     {
@@ -20,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4840267,
-          41.8919597
+          12.4847837662,
+          41.8919604435
         ]
       },
       "properties": {
@@ -30,19 +31,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4840469,
-          41.8919183
+          [
+            12.4851984,
+            41.891533
+          ],
+          [
+            12.4852275,
+            41.8915232
+          ],
+          [
+            12.4855085,
+            41.8919874
+          ],
+          [
+            12.4843358,
+            41.8923855
+          ],
+          [
+            12.4843163,
+            41.8923768
+          ],
+          [
+            12.4842917,
+            41.8923383
+          ],
+          [
+            12.484264,
+            41.8922951
+          ],
+          [
+            12.484054,
+            41.8919508
+          ],
+          [
+            12.4851984,
+            41.891533
+          ]
         ]
       },
-      "id": "basilica-julia-southwest-corner",
+      "id": "osm-location-of-basilica-iulia",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Basilica Julia (southwest corner)",
-        "link": "http://pleiades.stoa.org/places/173078007/basilica-julia-southwest-corner"
+        "title": "OSM location of Basilica Iulia",
+        "link": "http://pleiades.stoa.org/places/173078007/osm-location-of-basilica-iulia"
       }
     }
   ]
