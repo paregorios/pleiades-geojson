@@ -3,10 +3,10 @@
   "title": "Teate",
   "id": "413333",
   "bbox": [
-    14.167152,
-    42.351795,
-    14.167152,
-    42.351795
+    14.1659738,
+    42.3446529,
+    14.1659738,
+    42.3446529
   ],
   "description": "Originally named Teate Marrucinorum, Teate (modern Chieti) was the principal settlement of the Marrucini. Strabo attributes its origins to Arcadian Greeks.",
   "connectsWith": [
@@ -17,7 +17,8 @@
     "Teate",
     "Chieti",
     "Teata",
-    "Teatini Marrucinorum"
+    "Teatini Marrucinorum",
+    "Tea Nomarruci"
   ],
   "features": [
     {
@@ -25,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.167152,
-          42.351795
+          14.1659738,
+          42.3446529
         ]
       },
       "properties": {
@@ -37,17 +38,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.167152,
-          42.351795
+          14.1659738,
+          42.3446529
         ]
       },
-      "id": "darmc-location-18924",
+      "id": "osm-location-of-chieti",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18924",
-        "link": "http://pleiades.stoa.org/places/413333/darmc-location-18924"
+        "title": "OSM location of Chieti",
+        "link": "http://pleiades.stoa.org/places/413333/osm-location-of-chieti"
       }
     }
   ]

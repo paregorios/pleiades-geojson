@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Batinus? (river)",
+  "title": "Batinus (river)",
   "id": "413053",
   "bbox": [
     13.4607986,
@@ -8,12 +8,13 @@
     13.9808254,
     42.7400227
   ],
-  "description": "The Batinus? is mentioned by Pliny and may correspond to the Tordino river.",
+  "description": "The Batinus flumen is mentioned by Pliny and may correspond to the modern Tordino river.",
   "connectsWith": [
     "1004"
   ],
   "names": [
-    "Batinus"
+    "flumen Batinus",
+    "Tordino"
   ],
   "features": [
     {
