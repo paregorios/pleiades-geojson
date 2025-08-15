@@ -3,17 +3,18 @@
   "title": "Urvinum Mataurense",
   "id": "413366",
   "bbox": [
-    12.636675,
-    43.724733,
-    12.636675,
-    43.724733
+    12.6363135,
+    43.7262608,
+    12.6363135,
+    43.7262608
   ],
   "description": "Urvinum Mataurense (modern Urbino).",
   "connectsWith": [
     "580975875"
   ],
   "names": [
-    "Urvinum Mataurense"
+    "Urvinum Mataurense",
+    "Urbino"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.636675,
-          43.724733
+          12.6363135,
+          43.7262608
         ]
       },
       "properties": {
@@ -33,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.636675,
-          43.724733
+          12.6363135,
+          43.7262608
         ]
       },
-      "id": "darmc-location-18980",
+      "id": "osm-location-of-urbino",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18980",
-        "link": "http://pleiades.stoa.org/places/413366/darmc-location-18980"
+        "title": "OSM location of Urbino",
+        "link": "http://pleiades.stoa.org/places/413366/osm-location-of-urbino"
       }
     }
   ]

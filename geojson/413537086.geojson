@@ -9,35 +9,21 @@
     36.5045827
   ],
   "description": "An archaeological site located in the Balikh River valley of northern Syria. The site consists of four prehistoric settlement horizons that archaeologists describe as Tell Sabi Abyad I to IV.",
+  "names": [
+    "Tell Sabi Abyad"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.0929321697,
-          36.5038812904
+          39.0928643394,
+          36.5037625807
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.093,
-          36.504
-        ]
-      },
-      "id": "imagery-location-of-tell-sabi-abyad",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location of Tell Sabi Abyad based on coordinates derived from GeoHack and verified in Google Earth 2016.",
-        "location_precision": "precise",
-        "title": "Imagery location of Tell Sabi Abyad",
-        "link": "http://pleiades.stoa.org/places/413537086/imagery-location-of-tell-sabi-abyad"
       }
     },
     {

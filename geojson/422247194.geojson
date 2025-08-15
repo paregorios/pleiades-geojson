@@ -3,10 +3,10 @@
   "title": "Tomb of Seti I",
   "id": "422247194",
   "bbox": [
-    32.601971,
-    25.7398847,
-    32.601971,
-    25.7398847
+    32.6015191,
+    25.73937,
+    32.6015191,
+    25.73937
   ],
   "description": "Tomb KV17 in the Valley of Kings was the burial place of the 19th dynasty Pharaoh Seti I.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.601971,
-          25.7398847
+          32.6015191,
+          25.73937
         ]
       },
       "properties": {

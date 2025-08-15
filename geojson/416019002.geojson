@@ -3,20 +3,23 @@
   "title": "Church of St. Gião",
   "id": "416019002",
   "bbox": [
-    -9.0895326,
-    39.5630614,
-    -9.0895326,
-    39.5630614
+    -9.08965,
+    39.5629264,
+    -9.0893862,
+    39.5631286
   ],
   "description": "A Paleochristian sanctuary in Portugal.",
+  "names": [
+    "Igreja de São Gião"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0895326,
-          39.5630614
+          -9.0895181,
+          39.5630275
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -9.0895326,
-          39.5630614
+          [
+            -9.0895327,
+            39.5631286
+          ],
+          [
+            -9.08965,
+            39.5630252
+          ],
+          [
+            -9.0895035,
+            39.5629264
+          ],
+          [
+            -9.0893862,
+            39.5630298
+          ],
+          [
+            -9.0895327,
+            39.5631286
+          ]
         ]
       },
-      "id": "osm-location",
+      "id": "osm-location-igreja-de-sapso-giapso",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Igreja de S. Gião",
-        "link": "http://pleiades.stoa.org/places/416019002/osm-location"
+        "title": "OSM location: Igreja de São Gião",
+        "link": "http://pleiades.stoa.org/places/416019002/osm-location-igreja-de-sapso-giapso"
       }
     }
   ]

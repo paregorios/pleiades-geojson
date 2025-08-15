@@ -8,9 +8,10 @@
     27.1046341738,
     38.1089542654
   ],
-  "description": "Karaca Dağ.",
+  "description": "A mountain placed near Colophon by ancient testimony. The modern Karacadağ in Turkey's Izmir province.",
   "names": [
-    "Kerkaphos"
+    "Kerkaphos",
+    "Karacadağ"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.090423813,
-          38.080627213
+          27.0907017065,
+          38.0723709065
         ]
       },
       "properties": {
@@ -81,6 +82,23 @@
         "location_precision": "precise",
         "title": "BAtlas Map Label Location",
         "link": "http://pleiades.stoa.org/places/599709/batlas-map-label-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0909796,
+          38.0641146
+        ]
+      },
+      "id": "osm-location-karacadaa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Karacadağ",
+        "link": "http://pleiades.stoa.org/places/599709/osm-location-karacadaa"
       }
     }
   ]

@@ -1,22 +1,28 @@
 {
   "type": "FeatureCollection",
-  "title": "Atessa",
+  "title": "Atessa/Porcari Sanctuary",
   "id": "432707",
   "bbox": [
-    14.446065,
-    42.066711,
-    14.446065,
-    42.066711
+    14.429283,
+    42.133914,
+    14.429283,
+    42.133914
   ],
-  "description": "An ancient place, cited: BAtlas 44 F1 Atessa",
+  "description": "A small Italic sanctuary, possibly of Vejovis, in a modern area known then as Passo Porcari (between Monte Marcone and Saletti) near Atessa in Italy's Chieti province. It was excavated in the 1970s and is memorialized by the modern street name \"Via Veiove\". Rescue excavations of purportedly medieval finds were carried out in the immediate vicinity between 2017 and 2020 ahead of a road modification.",
+  "names": [
+    "Passo Porcari",
+    "Santuario di Atessa",
+    "Santuario di Porcari",
+    "Atessa"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.446065,
-          42.066711
+          14.429283,
+          42.133914
         ]
       },
       "properties": {
@@ -27,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.446065,
-          42.066711
+          14.429283,
+          42.133914
         ]
       },
-      "id": "darmc-location-3761",
+      "id": "imagery-location-modern-via-veiove",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Central point of the modern road named in memory of the sanctuary and its presumed titular deity. Location determined in Google Earth with reference to 2017 articles in il Centro. Note that initial excavations and test pits are visible ahead of the road construction that was temporarily halted for rescue archaeology in Google Earth imagery dated 10/28/2017.",
         "location_precision": "precise",
-        "title": "DARMC location 3761",
-        "link": "http://pleiades.stoa.org/places/432707/darmc-location-3761"
+        "title": "Imagery Location: modern Via Veiove",
+        "link": "http://pleiades.stoa.org/places/432707/imagery-location-modern-via-veiove"
       }
     }
   ]

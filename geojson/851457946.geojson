@@ -1,22 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Cluviae",
-  "id": "413097",
+  "title": "Roman Theater of Cluviae",
+  "id": "851457946",
   "bbox": [
     14.2614024,
     42.1327264,
     14.2614024,
     42.1327264
   ],
-  "description": "A city of the Carricini Samnites. Its site was surveyed and partially excavated in the 19th and 20th centuries in the vicinity of modern Piano La Roma, a locality to the northwest of modern Casoli.",
+  "description": "Remains of a Roman theater were identified in the 20th century in the vicinity of modern Piano La Roma in the municipal territory of Casoli, Italy. Its construction is estimated to date to the end of the first century BCE.",
   "connectsWith": [
-    "11924822",
-    "433078"
-  ],
-  "names": [
-    "Cluviae",
-    "Piano Laroma",
-    "Casoli"
+    "413097"
   ],
   "features": [
     {
@@ -45,8 +39,8 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM Location: modern Piano La Roma",
-        "link": "http://pleiades.stoa.org/places/413097/osm-location-modern-piano-la-roma"
+        "title": "OSM Location: modern Piano La Roma ",
+        "link": "http://pleiades.stoa.org/places/851457946/osm-location-modern-piano-la-roma"
       }
     }
   ]

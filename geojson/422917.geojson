@@ -4,9 +4,9 @@
   "id": "422917",
   "bbox": [
     12.7080026,
-    41.7231227,
-    12.71135,
-    41.7250974
+    41.7231002,
+    12.7114035,
+    41.7255999
   ],
   "description": "A site sacred to Diana near Lake Nemi, comprised of a Tuscan-style sanctuary and a sacred grove.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.709944052,
-          41.7240073781
+          12.7100456804,
+          41.7240890422
         ]
       },
       "properties": {
