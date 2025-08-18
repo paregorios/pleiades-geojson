@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.694974946,
-          37.027425127
+          21.694962419,
+          37.0271376905
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.695,
-          37.028
-        ]
-      },
-      "id": "imagery-location",
-      "type": "Feature",
-      "properties": {
-        "description": "location of the Bronze Age palace excavated by Carl Blegen.",
-        "location_precision": "precise",
-        "title": "Imagery Location of the Palace of Nestor",
-        "link": "http://pleiades.stoa.org/places/156116232/imagery-location"
       }
     },
     {

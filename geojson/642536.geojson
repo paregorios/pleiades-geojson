@@ -1,8 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Kragos",
+  "title": "Kragos (settlement)",
   "id": "642536",
-  "description": "An ancient place, cited: BAtlas 65 unlocated Kragos",
+  "description": "Strabo mentions a settlement named Kragos located on the eponymous mountain in Lycia. The settlement's precise location cannot be determined today.",
+  "connectsWith": [
+    "638942"
+  ],
   "names": [
     "Kragos"
   ],

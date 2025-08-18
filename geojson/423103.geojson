@@ -3,16 +3,17 @@
   "title": "Trebula Suffenas",
   "id": "423103",
   "bbox": [
-    12.937958,
+    12.9370162,
     41.954771,
     12.937958,
-    41.954771
+    41.9547955
   ],
   "description": "An ancient Sabine city.",
   "names": [
     "Trebula Suffenas",
     "Trebula",
-    "Treblis"
+    "Treblis",
+    "Passo della Fortuna"
   ],
   "features": [
     {
@@ -20,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.937958,
-          41.954771
+          12.9374871,
+          41.95478325
         ]
       },
       "properties": {
@@ -43,6 +44,23 @@
         "location_precision": "precise",
         "title": "DARMC location 18965",
         "link": "http://pleiades.stoa.org/places/423103/darmc-location-18965"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9370162,
+          41.9547955
+        ]
+      },
+      "id": "osm-location-of-passo-della-fortuna",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Passo della Fortuna",
+        "link": "http://pleiades.stoa.org/places/423103/osm-location-of-passo-della-fortuna"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Ain Hersha",
+  "title": "Ain Hersha Roman Temple",
   "id": "678007",
   "bbox": [
     35.7904283,
@@ -9,6 +9,9 @@
     33.4535269
   ],
   "description": "Ain Hersha is the site of a Roman temple located in the environs of Mount Hermon.",
+  "names": [
+    "Ain Hersha"
+  ],
   "features": [
     {
       "type": "Feature",

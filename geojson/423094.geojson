@@ -3,14 +3,17 @@
   "title": "Il Torraccio",
   "id": "423094",
   "bbox": [
-    12.617018,
-    41.76587,
-    12.617018,
-    41.76587
+    12.6235678,
+    41.7602852,
+    12.6237289,
+    41.760406
   ],
   "description": "The so-called \"Il Torraccio (1)\" is the cement core of a Roman tomb located at the twelfth milestone of the Via Appia Nuova, on the left side.",
   "connectsWith": [
     "422852"
+  ],
+  "names": [
+    "Il Torraccio"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.617018,
-          41.76587
+          12.6236487425,
+          41.7603455652
         ]
       },
       "properties": {
@@ -28,39 +31,97 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              12.5,
-              41.75
-            ],
-            [
-              12.5,
-              42.0
-            ],
-            [
-              12.75,
-              42.0
-            ],
-            [
-              12.75,
-              41.75
-            ],
-            [
-              12.5,
-              41.75
-            ]
+            12.6237202,
+            41.760317
+          ],
+          [
+            12.6237289,
+            41.7603365
+          ],
+          [
+            12.6237283,
+            41.7603571
+          ],
+          [
+            12.6237185,
+            41.7603764
+          ],
+          [
+            12.6237005,
+            41.7603921
+          ],
+          [
+            12.6236765,
+            41.7604023
+          ],
+          [
+            12.6236512,
+            41.760406
+          ],
+          [
+            12.6236256,
+            41.7604035
+          ],
+          [
+            12.6236024,
+            41.7603951
+          ],
+          [
+            12.6235838,
+            41.7603817
+          ],
+          [
+            12.6235719,
+            41.7603646
+          ],
+          [
+            12.6235678,
+            41.7603456
+          ],
+          [
+            12.6235718,
+            41.7603266
+          ],
+          [
+            12.6235837,
+            41.7603096
+          ],
+          [
+            12.6236021,
+            41.7602961
+          ],
+          [
+            12.6236253,
+            41.7602877
+          ],
+          [
+            12.6236528,
+            41.7602852
+          ],
+          [
+            12.6236798,
+            41.7602897
+          ],
+          [
+            12.6237031,
+            41.7603007
+          ],
+          [
+            12.6237202,
+            41.760317
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-via-appia-sepolcro-detto-il",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/423094/batlas-location"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of via Appia - Sepolcro detto il Torraccio",
+        "link": "http://pleiades.stoa.org/places/423094/osm-location-of-via-appia-sepolcro-detto-il"
       }
     }
   ]

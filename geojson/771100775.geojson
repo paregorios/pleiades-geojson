@@ -6,7 +6,7 @@
     -6.063573,
     42.012482,
     -0.576533,
-    44.8478175
+    44.837205
   ],
   "description": "A Roman road connecting Asturica Augusta (modern Astorga) and Burdigala (modern Bordeaux).",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.525258,
-          42.9731988056
+          -2.52428275222,
+          42.9737589136
         ]
       },
       "properties": {

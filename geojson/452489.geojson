@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Vibonensis Sinus",
+  "title": "Gulf of Saint Eufemia",
   "id": "452489",
   "bbox": [
     16.0729713,
@@ -8,13 +8,18 @@
     16.0729713,
     38.8531393
   ],
-  "description": "The Gulf of Saint Euphemia.",
+  "description": "A number of ancient names were used to identify the modern Gulf of Saint Euphemia off the west Calabrian coast of Italy: \"Vibonensis sinus\", \"Hipponiates kolpos\", and \"Terinaeus sinus\" (as well as its Greek equivalent \"Terinaios kolpos\"). A passage in Aristotle's Politics uses the unrelated Greek name \"Lametikos Kolpos\" for the same gulf, or at least its northern extent near the mouth of the ancient Lametus (modern Amato) river. The BAtlas treated this name as separate from the others in labeling the map, and the distinction has been maintained in the Pleiades gazetteer by using two separate (but connected) place resources.",
   "connectsWith": [
     "452358"
   ],
   "names": [
+    "sinus Vibonensis",
+    "Golfo di Sant’Eufemia",
+    "Terinaeus sinus",
+    "Hipponiates kolpos",
+    "Terinaios kolpos",
     "Vibonensis Sinus",
-    "Golfo di Sant’Eufemia"
+    "Gulf of Saint Euphemia"
   ],
   "features": [
     {

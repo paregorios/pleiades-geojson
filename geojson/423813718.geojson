@@ -8,9 +8,12 @@
     7.8959408,
     44.6847139
   ],
-  "description": "The Roman amphitheater at ancient Pollentia (modenr Pollenzo).",
+  "description": "The Roman amphitheater at ancient Pollentia (modern Pollenzo).",
   "connectsWith": [
     "383745"
+  ],
+  "names": [
+    "Pollentia amphitheatre"
   ],
   "features": [
     {

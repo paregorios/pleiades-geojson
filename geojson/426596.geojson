@@ -3,14 +3,17 @@
   "title": "Cemetery of Gordianus, Epimachus, Apronianus",
   "id": "426596",
   "bbox": [
-    12.5,
-    41.75,
-    12.75,
-    42.0
+    12.506583,
+    41.874583,
+    12.506583,
+    41.874583
   ],
   "description": "A burial ground for the the Christian martyrs Gordianus, Epimachus, and Apronianus at the seventh mile of the Via Latina.",
   "connectsWith": [
     "93042695"
+  ],
+  "names": [
+    "Catacomb of Saints Gordian and Epimachus"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.625,
-          41.875
+          12.506583,
+          41.874583
         ]
       },
       "properties": {
@@ -28,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              12.5,
-              41.75
-            ],
-            [
-              12.5,
-              42.0
-            ],
-            [
-              12.75,
-              42.0
-            ],
-            [
-              12.75,
-              41.75
-            ],
-            [
-              12.5,
-              41.75
-            ]
-          ]
+          12.506583,
+          41.874583
         ]
       },
-      "id": "batlas-location",
+      "id": "imagery-location-of-catacomb-of-saints-gordian-and-epimachus",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/426596/batlas-location"
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location of Catacomb of Saints Gordian and Epimachus",
+        "link": "http://pleiades.stoa.org/places/426596/imagery-location-of-catacomb-of-saints-gordian-and-epimachus"
       }
     }
   ]

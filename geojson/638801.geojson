@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Chimaera",
+  "title": "Chimaira",
   "id": "638801",
   "bbox": [
-    29.0,
-    36.0,
-    29.5,
-    36.5
+    29.1500579294,
+    36.4226040105,
+    29.2019578424,
+    36.4262089539
   ],
-  "description": "An ancient place, cited: BAtlas 65 B5 Chimaera",
+  "description": "Strabo places the myth of the Lycian monster Chimaira in the Kragos mountains, noting a nearby chasm or ravine (φάραγξ) named after the monster that he says extends up from the shore. BAtlas 65 places the label \"Chimaera\" along the low pass between the Kragos and Antikragos, i.e., from the modern Sancaklık Koyu (where the ancient settlement of Kalabantia was located) to roughly the area of the modern village of Boğaziçi in Turkey's Seydikemer district (Muğla Province). A western neighborhood of that village, Avlan, preserves the modern name of the ravine identified in RE Kragos 1, \"Tal von Alwan\" (sic) and in BAtlDir: \"Avlan valley\".",
   "names": [
-    "Chimaera"
+    "Chimaera",
+    "Avlan valley",
+    "Chimaira pharanx",
+    "Tal von Alwan"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.25,
-          36.25
+          29.1760783383,
+          36.4252455756
         ]
       },
       "properties": {
@@ -28,39 +31,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              29.0,
-              36.0
-            ],
-            [
-              29.0,
-              36.5
-            ],
-            [
-              29.5,
-              36.5
-            ],
-            [
-              29.5,
-              36.0
-            ],
-            [
-              29.0,
-              36.0
-            ]
+            29.150057929367378,
+            36.42597601827318
+          ],
+          [
+            29.16041313105441,
+            36.42620895394556
+          ],
+          [
+            29.166116539426987,
+            36.425913570708
+          ],
+          [
+            29.173419684767754,
+            36.425955864081814
+          ],
+          [
+            29.181779454678047,
+            36.425272700510284
+          ],
+          [
+            29.189051200620696,
+            36.42472511750912
+          ],
+          [
+            29.194728235190013,
+            36.42393760756913
+          ],
+          [
+            29.20195784238394,
+            36.42260401052265
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/638801/batlas-location"
+        "description": "Geometry extracted in QGIS from raster image of BAtlas Map 65, digitized and georegistered by the Ancient World Mapping Center in 2006.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/638801/batlas-label-location"
       }
     }
   ]
