@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wilson's Arch",
+  "id": "62813056",
+  "bbox": [
+    35.2340878,
+    31.7769052,
+    35.234365,
+    31.7771993
+  ],
+  "description": "Stone archway constructed as part of the expansion of the Temple Mount in Jerusalem during the early Roman period.",
+  "connectsWith": [
+    "687928",
+    "973646718"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2342283657,
+          31.7770442446
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2341105,
+            31.7769052
+          ],
+          [
+            35.2341295,
+            31.776908
+          ],
+          [
+            35.2343398,
+            31.7769397
+          ],
+          [
+            35.234365,
+            31.7769455
+          ],
+          [
+            35.2343222,
+            31.7771993
+          ],
+          [
+            35.2342913,
+            31.7771948
+          ],
+          [
+            35.2342585,
+            31.7771899
+          ],
+          [
+            35.2341471,
+            31.7771729
+          ],
+          [
+            35.2341778,
+            31.7770824
+          ],
+          [
+            35.2341858,
+            31.7770499
+          ],
+          [
+            35.2340878,
+            31.7770284
+          ],
+          [
+            35.2341105,
+            31.7769052
+          ]
+        ]
+      },
+      "id": "5d05d55dc5de5d55ea-5d45ea5e45d95dc5d4",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the location of the area beneath Wilson's Arch, derived from an Open Street Map Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Wilson's Arch",
+        "link": "http://pleiades.stoa.org/places/62813056/5d05d55dc5de5d55ea-5d45ea5e45d95dc5d4"
+      }
+    }
+  ]
+}

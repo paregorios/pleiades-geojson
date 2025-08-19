@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Saalburg",
+  "title": "Saalburg Roman Fort",
   "id": "109297",
   "bbox": [
-    8.566658,
-    50.271217,
-    8.566991,
-    50.271522
+    8.5652104,
+    50.2703967,
+    8.568093,
+    50.272647
   ],
   "description": "Saalburg was a Roman auxiliary castrum associated with the Limes Germanicus.",
   "names": [
-    "Saalburg"
+    "Saalburg",
+    "Römerkastell Saalburg",
+    "Kastell Saalburg",
+    "Saalburg castrum"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5668245,
-          50.2713695
+          8.56665162057,
+          50.2715322203
         ]
       },
       "properties": {
@@ -28,36 +31,189 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.566991,
-          50.271217
+          [
+            8.5661355,
+            50.27048
+          ],
+          [
+            8.565887,
+            50.2709287
+          ],
+          [
+            8.5658658,
+            50.2709684
+          ],
+          [
+            8.5658539,
+            50.2709905
+          ],
+          [
+            8.5658425,
+            50.271012
+          ],
+          [
+            8.5658207,
+            50.2710526
+          ],
+          [
+            8.5653286,
+            50.2719434
+          ],
+          [
+            8.5652736,
+            50.2720429
+          ],
+          [
+            8.5652136,
+            50.2721514
+          ],
+          [
+            8.5652104,
+            50.2722053
+          ],
+          [
+            8.565247,
+            50.2722553
+          ],
+          [
+            8.565316,
+            50.2722895
+          ],
+          [
+            8.5654397,
+            50.2723166
+          ],
+          [
+            8.5660325,
+            50.2724466
+          ],
+          [
+            8.5661264,
+            50.272467
+          ],
+          [
+            8.5662196,
+            50.2724873
+          ],
+          [
+            8.5669483,
+            50.272647
+          ],
+          [
+            8.5670566,
+            50.2726427
+          ],
+          [
+            8.5671526,
+            50.2726073
+          ],
+          [
+            8.5671989,
+            50.272559
+          ],
+          [
+            8.5672231,
+            50.2725148
+          ],
+          [
+            8.567247,
+            50.2724712
+          ],
+          [
+            8.5673082,
+            50.2723583
+          ],
+          [
+            8.5677645,
+            50.2715165
+          ],
+          [
+            8.5677844,
+            50.2714785
+          ],
+          [
+            8.5678007,
+            50.2714497
+          ],
+          [
+            8.5678168,
+            50.2714213
+          ],
+          [
+            8.5678369,
+            50.2713829
+          ],
+          [
+            8.5680171,
+            50.2710504
+          ],
+          [
+            8.5680285,
+            50.2710294
+          ],
+          [
+            8.5680848,
+            50.2709255
+          ],
+          [
+            8.568093,
+            50.270874
+          ],
+          [
+            8.5680743,
+            50.2708384
+          ],
+          [
+            8.5680405,
+            50.2708061
+          ],
+          [
+            8.5673194,
+            50.2706312
+          ],
+          [
+            8.5672447,
+            50.2706131
+          ],
+          [
+            8.5671934,
+            50.2706007
+          ],
+          [
+            8.5671488,
+            50.2705899
+          ],
+          [
+            8.5670673,
+            50.2705701
+          ],
+          [
+            8.5663655,
+            50.2703999
+          ],
+          [
+            8.5662725,
+            50.2703967
+          ],
+          [
+            8.5661866,
+            50.2704329
+          ],
+          [
+            8.5661355,
+            50.27048
+          ]
         ]
       },
-      "id": "darmc-location-8256",
+      "id": "osm-location-of-rapmerkastell-saalburg",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8256",
-        "link": "http://pleiades.stoa.org/places/109297/darmc-location-8256"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.566658,
-          50.271522
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/109297/dare-location"
+        "title": "OSM location of Römerkastell Saalburg",
+        "link": "http://pleiades.stoa.org/places/109297/osm-location-of-rapmerkastell-saalburg"
       }
     }
   ]

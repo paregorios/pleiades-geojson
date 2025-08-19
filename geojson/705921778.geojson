@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Casae",
+  "id": "705921778",
+  "bbox": [
+    8.9077,
+    35.432,
+    8.9077,
+    35.432
+  ],
+  "description": "Modern Henchir el Beguar/Begar, an archaeological site located in the Tunisian governorate of Kasserine. Inscriptions of the second century CE found here in the 19th century authorized the holding of regular markets at Casae and demonstrate that it was probably the principal settlement of the Saltus Beguensis, a Roman senatorial estate.",
+  "connectsWith": [
+    "324805"
+  ],
+  "names": [
+    "Henchir-el-Beguar",
+    "Henchir El Begar 1",
+    "Casae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9077,
+          35.432
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9077,
+          35.432
+        ]
+      },
+      "id": "aleam-location-henchir-el-begar",
+      "type": "Feature",
+      "properties": {
+        "description": "Location data from ALEAM, verified in Google Earth where the site is visible. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "ALEAM Location: Henchir El Begar",
+        "link": "http://pleiades.stoa.org/places/705921778/aleam-location-henchir-el-begar"
+      }
+    }
+  ]
+}

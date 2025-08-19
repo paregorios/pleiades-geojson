@@ -9,6 +9,9 @@
     48.640111
   ],
   "description": "An ancient place, cited: BAtlas 11 G4 La Madeleine",
+  "names": [
+    "La Madeleine"
+  ],
   "features": [
     {
       "type": "Feature",
