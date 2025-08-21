@@ -8,7 +8,7 @@
     36.328268,
     32.0931155
   ],
-  "description": "The complex at Qasr el-Hallabat began as a Roman frontier fort along the Via Nova Traiana under the emperor Caracalla. There is evidence for pre-Roman activity at the site (Nabatean). By the eighth century the Umayyad caliph Hisham ibn Abd al-Malik ordered that the Roman structures be demolished in order to redevelop the outpost as an Umayyad desert complex.",
+  "description": "The complex at Qasr el-Hallabat began as a Roman frontier fort along the Via Nova Traiana under the emperor Caracalla. There is evidence for pre-Roman activity at the site (Nabatean). By the eighth century, the Umayyad caliph Hisham ibn Abd al-Malik ordered that the Roman structures be demolished in order to redevelop the outpost as an Umayyad desert complex.",
   "names": [
     "Qasr al Hallabat"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.327971,
-          32.092974
+          36.3279533168,
+          32.0929102143
         ]
       },
       "properties": {

@@ -3,20 +3,23 @@
   "title": "Qasr el-'Al",
   "id": "697734",
   "bbox": [
-    35.969512,
-    31.389975,
-    35.969572,
-    31.390086
+    35.9691724,
+    31.3895337,
+    35.9700712,
+    31.3902774
   ],
   "description": "An ancient place, cited: BAtlas 71 B3 Qasr el-'Al",
+  "names": [
+    "Qasr el-'Al"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.969542,
-          31.3900305
+          35.9696218221,
+          31.389905539
         ]
       },
       "properties": {
@@ -25,36 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.969512,
-          31.390086
+          [
+            35.9692522,
+            31.3902774
+          ],
+          [
+            35.9691724,
+            31.3896045
+          ],
+          [
+            35.9699915,
+            31.3895337
+          ],
+          [
+            35.9700712,
+            31.3902066
+          ],
+          [
+            35.9692522,
+            31.3902774
+          ]
         ]
       },
-      "id": "darmc-location-29186",
+      "id": "osm-location-of-qasr-al-ali",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 29186",
-        "link": "http://pleiades.stoa.org/places/697734/darmc-location-29186"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.969572,
-          31.389975
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/697734/dare-location"
+        "title": "OSM location of Qasr al Ali",
+        "link": "http://pleiades.stoa.org/places/697734/osm-location-of-qasr-al-ali"
       }
     }
   ]

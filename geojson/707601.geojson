@@ -3,20 +3,26 @@
   "title": "Panagia tis Kyras",
   "id": "707601",
   "bbox": [
-    34.022515,
-    35.401657,
-    34.022515,
-    35.401657
+    34.0300178,
+    35.4050818,
+    34.0300178,
+    35.4050818
   ],
   "description": "An ancient place, cited: BAtlas 72 E2 Panagia tis Kyras",
+  "connectsWith": [
+    "707498"
+  ],
+  "names": [
+    "Panagia tis Kyras"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.022515,
-          35.401657
+          34.0300178,
+          35.4050818
         ]
       },
       "properties": {
@@ -27,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.022515,
-          35.401657
+          34.0300178,
+          35.4050818
         ]
       },
-      "id": "darmc-location-15284",
+      "id": "osm-location-of-panagia-tis-kyras",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15284",
-        "link": "http://pleiades.stoa.org/places/707601/darmc-location-15284"
+        "title": "OSM location of Panagia tis Kyras",
+        "link": "http://pleiades.stoa.org/places/707601/osm-location-of-panagia-tis-kyras"
       }
     }
   ]

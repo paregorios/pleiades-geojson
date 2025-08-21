@@ -3,20 +3,23 @@
   "title": "Qasr eth-Thuraiya",
   "id": "697738",
   "bbox": [
-    35.98963,
-    31.421978,
-    35.98963,
-    31.421978
+    35.989378,
+    31.4222859,
+    35.989378,
+    31.4222859
   ],
   "description": "An ancient place, cited: BAtlas 71 B3 Qasr eth-Thuraiya",
+  "names": [
+    "Qasr eth-Thuraiya"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.98963,
-          31.421978
+          35.989378,
+          31.4222859
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.98963,
-          31.421978
+          35.989378,
+          31.4222859
         ]
       },
-      "id": "darmc-location-29189",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 29189",
-        "link": "http://pleiades.stoa.org/places/697738/darmc-location-29189"
+        "title": "OSM location of Qasr eth-Thuraiya",
+        "link": "http://pleiades.stoa.org/places/697738/osm-location"
       }
     }
   ]

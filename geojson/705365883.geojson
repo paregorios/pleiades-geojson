@@ -8,9 +8,12 @@
     44.0180863,
     38.0444545
   ],
-  "description": "Başkale (Turkish \"Main Castle\") is a town and district located in Van Province in south-eastern Turkey. According to an inscription in the Urartean language of the Urartean king Minua (9th/8th century BCE) on a stone block (A 5-52) the fortress located here was built by Minua and was given the name \"City of the God Haldi\".",
+  "description": "Başkale (Turkish \"Main Castle\") is a town and district located in Van Province in south-eastern Turkey. According to an inscription in the Urartean language of the Urartean king Minua (9th/8th century BCE) on a stone block (A 5-52), the fortress located here was built by Minua. It was given the name \"City of the God Haldi\".",
   "connectsWith": [
     "214160492"
+  ],
+  "names": [
+    "Başkale"
   ],
   "features": [
     {

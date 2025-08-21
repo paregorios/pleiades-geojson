@@ -3,20 +3,23 @@
   "title": "er-Ruweihi",
   "id": "697746",
   "bbox": [
-    35.910953,
-    30.862028,
-    35.910953,
-    30.862028
+    35.9188975,
+    30.850961,
+    35.9200828,
+    30.8521218
   ],
   "description": "An ancient place, cited: BAtlas 71 B4 er-Ruweihi",
+  "names": [
+    "er-Ruweihi"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.910953,
-          30.862028
+          35.9194710673,
+          30.8515468775
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.910953,
-          30.862028
+          [
+            35.9188975,
+            30.851855
+          ],
+          [
+            35.9193923,
+            30.850961
+          ],
+          [
+            35.9200828,
+            30.8513265
+          ],
+          [
+            35.91947,
+            30.8521218
+          ],
+          [
+            35.9188975,
+            30.851855
+          ]
         ]
       },
-      "id": "darmc-location-18484",
+      "id": "osm-location-of-er-ruweihi",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18484",
-        "link": "http://pleiades.stoa.org/places/697746/darmc-location-18484"
+        "title": "OSM location of Er-Ruweihi",
+        "link": "http://pleiades.stoa.org/places/697746/osm-location-of-er-ruweihi"
       }
     }
   ]
