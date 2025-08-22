@@ -4,9 +4,9 @@
   "id": "776147",
   "bbox": [
     30.5544092,
-    25.7154818,
-    30.5544092,
-    25.7154818
+    25.7152812,
+    30.5546586,
+    25.7155204
   ],
   "description": "An ancient settlement in Egypt's Kharga Oasis.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5544092,
-          25.7154818
+          30.5545348483,
+          25.7154039154
         ]
       },
       "properties": {

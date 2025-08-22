@@ -3,10 +3,10 @@
   "title": "Da'janiya",
   "id": "697651",
   "bbox": [
-    35.797052,
-    30.581741,
-    35.797052,
-    30.581741
+    35.7611161,
+    30.5520452,
+    35.7624474,
+    30.5533711
   ],
   "description": "An ancient place, cited: BAtlas 71 B4 Da'janiya",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.797052,
-          30.581741
+          35.7617731361,
+          30.5527095103
         ]
       },
       "properties": {
@@ -25,19 +25,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.797052,
-          30.581741
+          [
+            35.7617668,
+            30.5533711
+          ],
+          [
+            35.7611161,
+            30.5527338
+          ],
+          [
+            35.7617285,
+            30.5520452
+          ],
+          [
+            35.7624474,
+            30.5526971
+          ],
+          [
+            35.7617668,
+            30.5533711
+          ]
         ]
       },
-      "id": "darmc-location-19103",
+      "id": "osm-location-of-castra-dajaniya",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19103",
-        "link": "http://pleiades.stoa.org/places/697651/darmc-location-19103"
+        "title": "OSM location of Castra Dajaniya",
+        "link": "http://pleiades.stoa.org/places/697651/osm-location-of-castra-dajaniya"
       }
     }
   ]

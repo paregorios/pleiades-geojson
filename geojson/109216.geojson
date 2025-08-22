@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Noviodunum?",
+  "title": "Pommiers oppidum",
   "id": "109216",
   "bbox": [
     3.28198851847,
@@ -8,10 +8,11 @@
     3.28198851847,
     49.3980206167
   ],
-  "description": "An ancient place, cited: BAtlas 11 D3 Noviodunum?",
+  "description": "The archaeologically attested oppidum at modern Moulin à Vent in the French commune of Pommiers is probably to be identified with the Noviodunum mentioned by Caesar. The oppidum was occupied from the late La Tène period through the early Roman.",
   "names": [
     "Noviodunum",
-    "Pommiers"
+    "Pommiers",
+    "Moulin à Vent"
   ],
   "features": [
     {

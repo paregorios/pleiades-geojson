@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Aqueduct at *Malliacum",
   "id": "138924",
   "bbox": [
     0.0,
@@ -8,7 +8,7 @@
     1.0,
     48.0
   ],
-  "description": "An ancient place, cited: BAtlas 14 F1 unnamed aqueduct (*Malliacum)",
+  "description": "Twentieth-century reports indicate remains of an aqueduct.",
   "features": [
     {
       "type": "Feature",

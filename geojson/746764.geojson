@@ -3,20 +3,23 @@
   "title": "Khirbet el-Qirana",
   "id": "746764",
   "bbox": [
-    35.546049,
-    29.975391,
-    35.546049,
-    29.975391
+    35.5400349,
+    29.9856405,
+    35.5410475,
+    29.9864479
   ],
   "description": "An ancient place, cited: BAtlas 76 H2 Khirbet el-Qirana",
+  "names": [
+    "Khirbet el-Qirana"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.546049,
-          29.975391
+          35.5405442783,
+          29.9860471288
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.546049,
-          29.975391
+          [
+            35.5404233,
+            29.9864479
+          ],
+          [
+            35.5400349,
+            29.985952
+          ],
+          [
+            35.5406735,
+            29.9856405
+          ],
+          [
+            35.5410475,
+            29.9861588
+          ],
+          [
+            35.5404233,
+            29.9864479
+          ]
         ]
       },
-      "id": "darmc-location-17102",
+      "id": "osm-location-of-khirbet-el-qirana",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17102",
-        "link": "http://pleiades.stoa.org/places/746764/darmc-location-17102"
+        "title": "OSM location of Khirbet el-Qirana",
+        "link": "http://pleiades.stoa.org/places/746764/osm-location-of-khirbet-el-qirana"
       }
     }
   ]

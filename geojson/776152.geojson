@@ -9,6 +9,9 @@
     24.588396
   ],
   "description": "An ancient place, cited: BAtlas 79 D4 Ain Ziyada",
+  "connectsWith": [
+    "776210"
+  ],
   "features": [
     {
       "type": "Feature",
