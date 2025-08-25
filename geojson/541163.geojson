@@ -8,13 +8,16 @@
     21.782998,
     39.568904
   ],
-  "description": "An ancient place, cited: BAtlas 55 B1 Trikka",
+  "description": "An ancient settlement in Thessaly. Modern Trikala in Greece.",
   "connectsWith": [
     "540815"
   ],
   "names": [
     "Trikka",
-    "Trikke"
+    "Trikke",
+    "Trikkala",
+    "Ag. Nikolaos",
+    "Tricca"
   ],
   "features": [
     {

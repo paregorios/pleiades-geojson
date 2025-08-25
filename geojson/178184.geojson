@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Aqueduct supplying Col. Iulia Equestris, at Divonne-les-Bains",
   "id": "178184",
   "bbox": [
     6.13604,
@@ -31,13 +31,13 @@
           46.358168
         ]
       },
-      "id": "location-of-divonne-les-bains",
+      "id": "imagery-location-of-divonne-les-bains",
       "type": "Feature",
       "properties": {
         "description": "Divonne-les-Bains, département Ain, France",
         "location_precision": "precise",
-        "title": "Location of Divonne-les-Bains",
-        "link": "http://pleiades.stoa.org/places/178184/location-of-divonne-les-bains"
+        "title": "Imagery Location of Divonne-les-Bains",
+        "link": "http://pleiades.stoa.org/places/178184/imagery-location-of-divonne-les-bains"
       }
     }
   ]

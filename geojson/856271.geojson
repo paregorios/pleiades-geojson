@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "100",
+  "title": "Garkusha 4",
   "id": "856271",
   "bbox": [
     36.5,
@@ -8,7 +8,7 @@
     37.0,
     45.5
   ],
-  "description": "An ancient place, cited: BAtlas 87 L2 no. 100 (Garkusha 4 RUS)",
+  "description": "A place labeled as \"Garkusha 4\" is included a numbered feature 10 on Barrington Atlas map 87 L2.",
   "features": [
     {
       "type": "Feature",

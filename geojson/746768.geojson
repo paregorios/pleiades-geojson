@@ -9,6 +9,9 @@
     29.987994
   ],
   "description": "An ancient place, cited: BAtlas 76 G2 Khirbet Naqb el-Shtar",
+  "names": [
+    "Khirbet Naqb el-Shtar"
+  ],
   "features": [
     {
       "type": "Feature",

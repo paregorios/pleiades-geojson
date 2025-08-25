@@ -3,6 +3,9 @@
   "title": "Heniochoi",
   "id": "857153",
   "description": "An ancient place, cited: BAtlas 87 F1/F4 Heniochoi",
+  "connectsWith": [
+    "863800"
+  ],
   "names": [
     "Heniochoi"
   ],

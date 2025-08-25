@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Toumba Apsalou (Pella)",
+  "id": "781836776",
+  "bbox": [
+    22.0393,
+    40.9099,
+    22.0393,
+    40.9099
+  ],
+  "description": "A partially excavated ancient settlement at Toumba Apsalou, northwest of Apsalos, Pella.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0393,
+          40.9099
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0393,
+          40.9099
+        ]
+      },
+      "id": "topostext-location-of-toumba-apsalou-pella-apsalos",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following ToposText",
+        "location_precision": "precise",
+        "title": "ToposText location of Toumba Apsalou (Pella) Apsalos",
+        "link": "http://pleiades.stoa.org/places/781836776/topostext-location-of-toumba-apsalou-pella-apsalos"
+      }
+    }
+  ]
+}

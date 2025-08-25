@@ -3,10 +3,10 @@
   "title": "Ganaba",
   "id": "874475",
   "bbox": [
-    39.47424,
+    39.4700886,
     37.125108,
     39.47424,
-    37.125108
+    37.1630856
   ],
   "description": "An ancient place, cited: BAtlas 89 B3 Ganaba",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.47424,
-          37.125108
+          39.4724606439,
+          37.1438184423
         ]
       },
       "properties": {
@@ -42,6 +42,65 @@
         "location_precision": "precise",
         "title": "DARMC location 22953",
         "link": "http://pleiades.stoa.org/places/874475/darmc-location-22953"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            39.4711183,
+            37.1620647
+          ],
+          [
+            39.4707229,
+            37.1620089
+          ],
+          [
+            39.4702657,
+            37.1622157
+          ],
+          [
+            39.4700927,
+            37.1623897
+          ],
+          [
+            39.4700886,
+            37.1626031
+          ],
+          [
+            39.4705417,
+            37.1630856
+          ],
+          [
+            39.47083,
+            37.1630626
+          ],
+          [
+            39.4710483,
+            37.1629576
+          ],
+          [
+            39.471176,
+            37.1625637
+          ],
+          [
+            39.4711801,
+            37.162242
+          ],
+          [
+            39.4711183,
+            37.1620647
+          ]
+        ]
+      },
+      "id": "osm-location-of-aimdin-kale",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Çimdin Kale",
+        "link": "http://pleiades.stoa.org/places/874475/osm-location-of-aimdin-kale"
       }
     }
   ]

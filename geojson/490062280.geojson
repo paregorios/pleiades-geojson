@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grave of Charmylos",
+  "id": "490062280",
+  "bbox": [
+    27.1619677,
+    36.8423715,
+    27.1620701,
+    36.8424775
+  ],
+  "description": "The Grave of Charmylos is a third-century BCE vaulted tomb located on Kos. The site is understood as a heroön dedicated to the legendary king Charmylos. The ancient site was dismantled and partially reused in the church of Tímios Stávros.",
+  "connectsWith": [
+    "599581"
+  ],
+  "names": [
+    "Tomb of Charmylos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1620138812,
+          36.8424180706
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.1619723,
+            36.8424683
+          ],
+          [
+            27.1619677,
+            36.8423715
+          ],
+          [
+            27.1620701,
+            36.8423739
+          ],
+          [
+            27.1620586,
+            36.8424387
+          ],
+          [
+            27.1620378,
+            36.8424683
+          ],
+          [
+            27.1619762,
+            36.8424775
+          ],
+          [
+            27.1619723,
+            36.8424683
+          ]
+        ]
+      },
+      "id": "osm-location-of-grave-of-charmylos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grave of Charmylos",
+        "link": "http://pleiades.stoa.org/places/490062280/osm-location-of-grave-of-charmylos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stenykleros (settlement)",
+  "id": "79543002",
+  "description": "An ancient settlement of Messenia. Scholars are uncertain as to its precise location, but some have suggested that it was located on Mount Ithome (and therefore was a predecessor to the city of Messene) or was associated with remains of an acropolis on the hill of the Kastro of modern Tsoukaleika.",
+  "names": [
+    "Stenyklaros",
+    "Stenykleros"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

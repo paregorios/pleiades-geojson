@@ -9,8 +9,12 @@
     41.373977
   ],
   "description": "An ancient place, cited: BAtlas 87 B3 Ankon",
+  "connectsWith": [
+    "857171"
+  ],
   "names": [
-    "Ankon"
+    "Ankon",
+    "Ancon"
   ],
   "features": [
     {

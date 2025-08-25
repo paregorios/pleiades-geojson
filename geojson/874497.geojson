@@ -9,6 +9,9 @@
     36.9946656
   ],
   "description": "An archaeological site located in the West Azarbaijan province in northwestern Iran that was excavated between 1958 and 1968 by the University of Pennsylvania Museum of Archaeology and Anthropology.",
+  "names": [
+    "Hajji Firuz tepe"
+  ],
   "features": [
     {
       "type": "Feature",

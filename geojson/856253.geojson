@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "82",
+  "title": "Kostyrino (Ukraine)",
   "id": "856253",
   "bbox": [
-    36.0,
-    45.0,
-    36.5,
-    45.5
+    36.36045,
+    45.14385,
+    36.3776662,
+    45.15243
   ],
-  "description": "An ancient place, cited: BAtlas 87 K2 no. 82 (Kostyrino UKR)",
+  "description": "Kostyrino (Ukraine) is included as numbered feature 82 on Barrington Atlas map 87 K2.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.25,
-          45.25
+          36.368867698,
+          45.148609399
         ]
       },
       "properties": {
@@ -25,39 +25,69 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              36.0,
-              45.0
-            ],
-            [
-              36.0,
-              45.5
-            ],
-            [
-              36.5,
-              45.5
-            ],
-            [
-              36.5,
-              45.0
-            ],
-            [
-              36.0,
-              45.0
-            ]
+            36.36166,
+            45.14385
+          ],
+          [
+            36.36045,
+            45.14608
+          ],
+          [
+            36.36492,
+            45.14934
+          ],
+          [
+            36.36886,
+            45.14952
+          ],
+          [
+            36.36904,
+            45.1514
+          ],
+          [
+            36.37384,
+            45.15243
+          ],
+          [
+            36.3771822,
+            45.1521657
+          ],
+          [
+            36.3776662,
+            45.1507921
+          ],
+          [
+            36.37625,
+            45.14934
+          ],
+          [
+            36.37264,
+            45.14814
+          ],
+          [
+            36.3669352,
+            45.1473967
+          ],
+          [
+            36.36646,
+            45.14557
+          ],
+          [
+            36.36166,
+            45.14385
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-of-kostyrino",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/856253/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kostyrino",
+        "link": "http://pleiades.stoa.org/places/856253/osm-location-of-kostyrino"
       }
     }
   ]

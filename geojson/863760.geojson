@@ -9,6 +9,9 @@
     41.449435
   ],
   "description": "An ancient place, cited: BAtlas 88 C3 Bolnisi",
+  "names": [
+    "Bolnisi"
+  ],
   "features": [
     {
       "type": "Feature",

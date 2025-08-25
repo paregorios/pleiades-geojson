@@ -2,14 +2,26 @@
   "type": "FeatureCollection",
   "title": "Grove of Asklepios at Kos",
   "id": "814448537",
-  "description": "Mentioned in ancient sources, this sacred grove in the ancient sanctuary of Asklepios located on the Aegean island of Kos cannot be precisely located today.",
+  "bbox": [
+    27.2560577,
+    36.8747346,
+    27.2587099,
+    36.8766496
+  ],
+  "description": "Mentioned in ancient sources, this sacred grove in the ancient sanctuary of Asklepios, located on the Aegean island of Kos, cannot be precisely located today.",
   "connectsWith": [
     "599528"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2573730442,
+          36.8757418771
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

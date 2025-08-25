@@ -2,14 +2,27 @@
   "type": "FeatureCollection",
   "title": "Asklepieion at Eleusis",
   "id": "91539310",
+  "bbox": [
+    23.5347075,
+    38.0394554,
+    23.5403376,
+    38.0427463
+  ],
   "description": "A sanctuary of Asklepios at Eleusis, established in the late 5th century BC and active through the Imperial era. It is known from finds of inscriptions and sculpture to have been located somewhere north of the sanctuary of Demeter and Kore, but the exact site is lost.",
   "connectsWith": [
-    "579910"
+    "579910",
+    "579920"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5376590876,
+          38.0414283764
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

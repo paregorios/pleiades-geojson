@@ -2,14 +2,30 @@
   "type": "FeatureCollection",
   "title": "Trikka",
   "id": "573568",
-  "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
+  "bbox": [
+    21.6288213998,
+    37.0566089567,
+    22.1683641828,
+    37.1422695529
+  ],
+  "description": "An early Greek settlement of Messenia, mentioned in Homer and Pausanias. Its precise location is not known today.",
+  "connectsWith": [
+    "570480"
+  ],
   "names": [
-    "Trikka"
+    "Trikka",
+    "Trikke"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9059791097,
+          37.1103474226
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

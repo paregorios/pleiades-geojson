@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicus Drusianus",
+  "id": "942692312",
+  "bbox": [
+    12.4992734,
+    41.8826829,
+    12.5031598,
+    41.8834561
+  ],
+  "description": "A street located in Regio I of ancient Rome that is known from the so-called Capitoline Base (CIL 6, 975). Part of its course may correspond to the Via della Ferratella in Laterano.",
+  "connectsWith": [
+    "423025",
+    "307963010"
+  ],
+  "names": [
+    "vicus Drusianus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.501189305,
+          41.8832177951
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4992734,
+            41.8826829
+          ],
+          [
+            12.4995047,
+            41.8827575
+          ],
+          [
+            12.4998261,
+            41.8828726
+          ],
+          [
+            12.5001024,
+            41.8829673
+          ],
+          [
+            12.500333,
+            41.8830498
+          ],
+          [
+            12.5008587,
+            41.8832447
+          ],
+          [
+            12.5010455,
+            41.8833017
+          ],
+          [
+            12.501205,
+            41.8833447
+          ],
+          [
+            12.5013851,
+            41.8833792
+          ],
+          [
+            12.5015706,
+            41.8834045
+          ],
+          [
+            12.5016745,
+            41.8834115
+          ],
+          [
+            12.5017537,
+            41.8834168
+          ],
+          [
+            12.5019354,
+            41.8834243
+          ],
+          [
+            12.5021422,
+            41.883436
+          ],
+          [
+            12.5023828,
+            41.8834444
+          ],
+          [
+            12.5030072,
+            41.8834502
+          ],
+          [
+            12.5030541,
+            41.8834509
+          ],
+          [
+            12.5031598,
+            41.8834561
+          ]
+        ]
+      },
+      "id": "osm-location-of-via-della-ferratella-in-laterano",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Via della Ferratella in Laterano",
+        "link": "http://pleiades.stoa.org/places/942692312/osm-location-of-via-della-ferratella-in-laterano"
+      }
+    }
+  ]
+}

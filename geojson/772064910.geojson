@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Sepulcrum Arruntiorum",
   "id": "772064910",
+  "bbox": [
+    12.515072,
+    41.891296,
+    12.5153012,
+    41.8915745
+  ],
   "description": "The tomb of the extended family (familia) of Lucius Arruntius (consul 6 CE) was located in the Viale della Principessa Margherita, about 100 meters from the Porta Maggiore.",
   "connectsWith": [
     "423025",
@@ -10,7 +16,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5151894578,
+          41.89143413
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
