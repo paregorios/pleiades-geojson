@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Stenykleros",
+  "title": "Stenykleros (plain)",
   "id": "570690",
   "bbox": [
     21.972415569,
@@ -8,7 +8,7 @@
     22.0170304629,
     37.2545801124
   ],
-  "description": "An ancient place, cited: BAtlas 58 B3 Stenykleros",
+  "description": "A plain in northern Messenia: the upper Pamisos valley.",
   "names": [
     "Stenykleros"
   ],

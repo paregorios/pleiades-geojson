@@ -1,15 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Ankyra",
+  "title": "Ancyra (Phrygia)",
   "id": "609305",
   "bbox": [
-    28.85328,
-    39.1554,
-    28.856891,
-    39.156249
+    28.863997,
+    39.153343,
+    28.863997,
+    39.153343
   ],
-  "description": "An ancient place, cited: BAtlas 62 A3 Ankyra",
+  "description": "An ancient settlement of Phrygia, near the origin of the Mekestos river. Heavily spoliated, especially since the mid-19th century, and now cultivated, a Byzantine fortress on the hill immediately east of modern Boğazköy in Turkey's Kütahya province is uniformly identified with this ancient Ankyra. Many modern commentators have adopted the name \"Ancyra Sidera\" on the basis of an entry for a bishop in Latin and Syriac versions of the attendees the Council of Chalcedon (missing from the Greek witnesses), but Price 2010 asserts it may be a corruption of a lost original entry for a bishop of \"Ancyra and Synaos\".",
   "names": [
+    "Boğazköy",
+    "Kiliseköy",
+    "Ancyra",
+    "Ankyra Phrygias",
+    "ANCYRA Kalesi (Boğazköy)",
+    "Ankyra tes Abaeitidos",
+    "Ankyra Sidera",
     "Ankyra"
   ],
   "features": [
@@ -18,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.8550855,
-          39.1558245
+          28.863997,
+          39.153343
         ]
       },
       "properties": {
@@ -30,34 +37,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.856891,
-          39.156249
+          28.863997,
+          39.153343
         ]
       },
-      "id": "darmc-location-1236",
+      "id": "imagery-location-ancyra-kalesi-bogazkoy",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Location determined in Google Earth with reference to TIB and Google Maps photo/site entry \"ANCYRA Kalesi, Boğazköy\". Dates after TIB.",
         "location_precision": "precise",
-        "title": "DARMC location 1236",
-        "link": "http://pleiades.stoa.org/places/609305/darmc-location-1236"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.85328,
-          39.1554
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, village precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/609305/dare-location"
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/609305/imagery-location-ancyra-kalesi-bogazkoy"
       }
     }
   ]
