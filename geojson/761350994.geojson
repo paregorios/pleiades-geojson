@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "title": "Loretum",
+  "id": "761350994",
+  "description": "A grove on the Aventine Hill in Rome, where it was claimed the tomb of Titus Tatius was once to be found.",
+  "connectsWith": [
+    "423025",
+    "372769291"
+  ],
+  "names": [
+    "Loretum",
+    "Lauretum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

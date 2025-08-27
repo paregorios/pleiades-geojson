@@ -3,10 +3,10 @@
   "title": "Archabis (river)",
   "id": "857039",
   "bbox": [
-    41.3756643,
-    41.2768184,
-    41.3756643,
-    41.2768184
+    41.3046359,
+    41.27672,
+    41.375649,
+    41.3172398
   ],
   "description": "An ancient place, cited: BAtlas 87 G3 Archabis fl.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.3756643,
-          41.2768184
+          41.34004726,
+          41.2979740212
         ]
       },
       "properties": {
@@ -421,7 +421,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Kapistre Deresi ",
+        "title": "OSM location of Kapistre Deresi",
         "link": "http://pleiades.stoa.org/places/857039/location-of-kapistre-deresi"
       }
     }
