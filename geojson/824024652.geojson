@@ -9,6 +9,9 @@
     55.190778
   ],
   "description": "A Roman fortlet in Scotland discovered from the air by the RCAHMS in 1989.",
+  "names": [
+    "Kirkland Roman fortlet"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Euchaita",
   "id": "857120",
   "bbox": [
-    35.28003,
-    40.572478,
-    35.28003,
-    40.572478
+    35.2668707,
+    40.5703847,
+    35.2668707,
+    40.5703847
   ],
   "description": "An ancient place, cited: BAtlas 87 A4 Euchaita",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.28003,
-          40.572478
+          35.2668707,
+          40.5703847
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.28003,
-          40.572478
+          35.2668707,
+          40.5703847
         ]
       },
-      "id": "darmc-location-22400",
+      "id": "osm-location-modern-beyapza1-4",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 22400",
-        "link": "http://pleiades.stoa.org/places/857120/darmc-location-22400"
+        "title": "OSM Location: modern Beyözü",
+        "link": "http://pleiades.stoa.org/places/857120/osm-location-modern-beyapza1-4"
       }
     }
   ]

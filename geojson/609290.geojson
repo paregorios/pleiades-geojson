@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Agdistis, T.",
+  "title": "Agdistis Sanctuary (Yazılıkaya)",
   "id": "609290",
   "bbox": [
-    30.71494,
-    39.198474,
-    30.71494,
-    39.198474
+    30.710028,
+    39.197616,
+    30.710028,
+    39.197616
   ],
-  "description": "An ancient place, cited: BAtlas 62 E3 Agdistis, T.",
+  "description": "A plateau around a monumental Phrygian rock‐cut altar at the extensive fortified settlement and sanctuary complex of Yazılıkaya in Turkey. Associated with Agdistis in the 20th century because of Roman epigraphic finds there, more recent excavations have demonstrated that the sanctuary was in use from the 8th–7th century BCE to the Roman Period (1st-2nd century CE). Continuity of ritual practice in front of the rock-cut altar is demonstrated by rock-cut bows, a ritual preparation area with hearths, a rock-cut statue identifiable as the goddess Matar, and the Roman-era votive inscriptions.",
+  "connectsWith": [
+    "609570"
+  ],
   "names": [
-    "Agdistis, T."
+    "Agdistis T."
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.71494,
-          39.198474
+          30.710028,
+          39.197616
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.71494,
-          39.198474
+          30.710028,
+          39.197616
         ]
       },
-      "id": "darmc-location-15845",
+      "id": "imagery-location-2024-excavated-area",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Excavated area from 2024 season identified in Google Earth with reference to Polat 2025 Figure 10, page 68. Dates after Polat 2025.",
         "location_precision": "precise",
-        "title": "DARMC location 15845",
-        "link": "http://pleiades.stoa.org/places/609290/darmc-location-15845"
+        "title": "Imagery Location: 2024 excavated area",
+        "link": "http://pleiades.stoa.org/places/609290/imagery-location-2024-excavated-area"
       }
     }
   ]

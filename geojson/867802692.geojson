@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cloaca Maxima",
+  "id": "867802692",
+  "bbox": [
+    12.4802374,
+    41.8888344,
+    12.4802374,
+    41.8888344
+  ],
+  "description": "The Cloaca Maxima drained the valley of the Forum Romanum. The sewer originates as a canalized drain in the late sixth century BCE. It would eventually be vaulted and interred. It drains into the Tiber River.",
+  "connectsWith": [
+    "423025",
+    "502866838",
+    "432833118",
+    "207271756",
+    "423080"
+  ],
+  "names": [
+    "Cloaca Maxima"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4802374,
+          41.8888344
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4802374,
+          41.8888344
+        ]
+      },
+      "id": "osm-location-of-mouth-of-the-cloaca-maxima",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of mouth of the Cloaca Maxima",
+        "link": "http://pleiades.stoa.org/places/867802692/osm-location-of-mouth-of-the-cloaca-maxima"
+      }
+    }
+  ]
+}

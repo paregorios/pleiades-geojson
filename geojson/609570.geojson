@@ -3,20 +3,23 @@
   "title": "Yazılıkaya (Eskişehir)",
   "id": "609570",
   "bbox": [
-    30.7135629,
-    39.2002244,
-    30.7135629,
-    39.2002244
+    30.7069978,
+    39.1946178,
+    30.7147004,
+    39.201096
   ],
-  "description": "Yazılıkaya (also known as 'Midas City') is an archaeological site in Eskişehir Province, Turkey, known for its Phrygian rock-cut monuments.",
+  "description": "Yazılıkaya (also known as 'Midas City') is an archaeological site in Eskişehir Province, Turkey, known for its Phrygian rock-cut monuments, facades, altars, and niches dedicated to the Mother Goddess Matar.",
+  "names": [
+    "Midas City"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.7135629,
-          39.2002244
+          30.7112319384,
+          39.1975701021
         ]
       },
       "properties": {
@@ -25,19 +28,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          30.7135629,
-          39.2002244
+          [
+            30.7074538,
+            39.1970752
+          ],
+          [
+            30.7085013,
+            39.1982022
+          ],
+          [
+            30.709783,
+            39.1988517
+          ],
+          [
+            30.7110154,
+            39.1995393
+          ],
+          [
+            30.7115577,
+            39.2004753
+          ],
+          [
+            30.7121369,
+            39.2009814
+          ],
+          [
+            30.7130859,
+            39.201096
+          ],
+          [
+            30.7142444,
+            39.200905
+          ],
+          [
+            30.7143585,
+            39.2004914
+          ],
+          [
+            30.7147004,
+            39.1992528
+          ],
+          [
+            30.7140916,
+            39.198081
+          ],
+          [
+            30.713468,
+            39.1974668
+          ],
+          [
+            30.7135542,
+            39.1967791
+          ],
+          [
+            30.7135049,
+            39.1956397
+          ],
+          [
+            30.7134803,
+            39.1951717
+          ],
+          [
+            30.7108429,
+            39.1946178
+          ],
+          [
+            30.7099925,
+            39.1946942
+          ],
+          [
+            30.7085999,
+            39.1949616
+          ],
+          [
+            30.7079221,
+            39.1951431
+          ],
+          [
+            30.7072935,
+            39.1954774
+          ],
+          [
+            30.7069978,
+            39.1962033
+          ],
+          [
+            30.7074538,
+            39.1970752
+          ]
         ]
       },
-      "id": "location-of-so-called-midas-monument",
+      "id": "osm-location-yaza-la-kaya-midas-antik-kenti",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of so-called 'Midas Monument'",
-        "link": "http://pleiades.stoa.org/places/609570/location-of-so-called-midas-monument"
+        "title": "OSM Location: Yazılıkaya (Midas) Antik Kenti",
+        "link": "http://pleiades.stoa.org/places/609570/osm-location-yaza-la-kaya-midas-antik-kenti"
       }
     }
   ]

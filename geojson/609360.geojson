@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Dindymon (mountain)",
+  "title": "Dindymon/Agdistis/Agdus (mountain)",
   "id": "609360",
   "bbox": [
     31.6322650673,
@@ -8,8 +8,11 @@
     31.7503458197,
     39.4279620611
   ],
-  "description": "Arayit (Günüzü) Dağı.",
+  "description": "The modern Arayit (Günüzü) Dağı in Turkey, below the western slopes of which lay ancient Pessinous (modern Ballıhisar).",
   "names": [
+    "Agdistis",
+    "Agdus",
+    "Dindymon M.",
     "Dindymon"
   ],
   "features": [
