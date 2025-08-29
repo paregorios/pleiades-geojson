@@ -3,8 +3,8 @@
   "title": "Sarakenos Cave",
   "id": "267762471",
   "bbox": [
-    23.207786,
-    38.455101,
+    23.2044684,
+    38.4525313,
     23.207786,
     38.455101
   ],
@@ -12,14 +12,17 @@
   "connectsWith": [
     "540689"
   ],
+  "names": [
+    "Sarakinos Cave"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.207786,
-          38.455101
+          23.2061272,
+          38.45381615
         ]
       },
       "properties": {
@@ -41,6 +44,23 @@
         "location_precision": "precise",
         "title": "Approximate imagery location of Sarakenos Cave",
         "link": "http://pleiades.stoa.org/places/267762471/approximate-imagery-location-of-sarakenos-cave"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2044684,
+          38.4525313
+        ]
+      },
+      "id": "osm-location-of-ipsii-r-i-i-i1i-ipsi-ii-ioi-i1-2i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Σπήλαιο Σαρακηνού",
+        "link": "http://pleiades.stoa.org/places/267762471/osm-location-of-ipsii-r-i-i-i1i-ipsi-ii-ioi-i1-2i"
       }
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Apidima Cave",
+  "id": "792912222",
+  "bbox": [
+    22.3624363,
+    36.6625937,
+    22.3624363,
+    36.6625937
+  ],
+  "description": "Apidima Cave is located on the western shore of the Mani Peninsula in southern Greece. Archaeological excavation in the cave system has produced remains of both Neandertals and Homo sapiens dating to the Paleolithic. Cranial evidence from the cave suggests the presence of the earliest Homo sapiens known outside of Africa.",
+  "names": [
+    "Spilaio Apidima"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3624363,
+          36.6625937
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3624363,
+          36.6625937
+        ]
+      },
+      "id": "osm-location-of-apidima-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Apidima Cave",
+        "link": "http://pleiades.stoa.org/places/792912222/osm-location-of-apidima-cave"
+      }
+    }
+  ]
+}

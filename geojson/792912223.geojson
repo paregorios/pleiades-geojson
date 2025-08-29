@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "so-called 'Midas Monument'",
+  "id": "792912223",
+  "bbox": [
+    30.7134581,
+    39.2001193,
+    30.7134581,
+    39.2001193
+  ],
+  "description": "A rock-cut Phrygian monument dating to the seventh century BCE that carries an inscribed dedication in Old Phrygian by Ates, son of Arkias, to Midas.",
+  "connectsWith": [
+    "609570"
+  ],
+  "names": [
+    "Midas Monument"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7134581,
+          39.2001193
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7134581,
+          39.2001193
+        ]
+      },
+      "id": "location-of-so-called-midas-monument",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap.",
+        "location_precision": "precise",
+        "title": "OSM location of so-called 'Midas Monument'",
+        "link": "http://pleiades.stoa.org/places/792912223/location-of-so-called-midas-monument"
+      }
+    }
+  ]
+}

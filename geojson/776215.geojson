@@ -9,6 +9,9 @@
     25.2869136
   ],
   "description": "An ancient place, cited: BAtlas 79 D3 [Per-ousekh]",
+  "connectsWith": [
+    "776210"
+  ],
   "names": [
     "Per-ousekh"
   ],

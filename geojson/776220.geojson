@@ -9,6 +9,12 @@
     25.325546
   ],
   "description": "An ancient place, cited: BAtlas 79 D3 Qasr Nessima",
+  "connectsWith": [
+    "776210"
+  ],
+  "names": [
+    "Qasr Nessima"
+  ],
   "features": [
     {
       "type": "Feature",

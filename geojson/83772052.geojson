@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cave of the Lakes",
+  "id": "83772052",
+  "bbox": [
+    22.1398203,
+    37.9596996,
+    22.1398203,
+    37.9596996
+  ],
+  "description": "A cave located near the village of Kastria in the municipality of Kalavryta, Achaea regional unit, Greece, with evidence of human habitation from the Neolithic period through the Bronze Age.",
+  "names": [
+    "Cave of the Lakes"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1398203,
+          37.9596996
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1398203,
+          37.9596996
+        ]
+      },
+      "id": "osm-location-of-ipsii-r-i-i-i1i-ii1i1-4i1-2ii1-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Σπήλαιο Λιμνών",
+        "link": "http://pleiades.stoa.org/places/83772052/osm-location-of-ipsii-r-i-i-i1i-ii1i1-4i1-2ii1-2"
+      }
+    }
+  ]
+}

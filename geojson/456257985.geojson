@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stadium (Sillyon)",
+  "id": "456257985",
+  "bbox": [
+    30.983592,
+    36.989634,
+    30.983592,
+    36.989634
+  ],
+  "description": "A massive Roman-era stadium at ancient Sillyon (modern Asar Köy in Turkey's Antalya province), estimated to have been able to accommodate perhaps as many as 10,000 spectators.",
+  "connectsWith": [
+    "639109"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.983592,
+          36.989634
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.983592,
+          36.989634
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/456257985/imagery-location"
+      }
+    }
+  ]
+}

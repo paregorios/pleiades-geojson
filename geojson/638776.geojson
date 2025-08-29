@@ -3,16 +3,17 @@
   "title": "Aspendos/Primoupolis",
   "id": "638776",
   "bbox": [
-    31.168127,
-    36.937345,
-    31.172222,
-    36.940837
+    31.1663545,
+    36.9374714,
+    31.1730622,
+    36.9436621
   ],
   "description": "An ancient place, cited: BAtlas 65 F4 Aspendos/Primoupolis",
   "connectsWith": [
     "638836"
   ],
   "names": [
+    "Belkis",
     "Aspendos",
     "Primoupolis"
   ],
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.172222,
-          36.938889
+          31.169703019,
+          36.9403723356
         ]
       },
       "properties": {
@@ -32,53 +33,125 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          31.169661,
-          36.940837
+          [
+            31.1665082,
+            36.9397954
+          ],
+          [
+            31.1663545,
+            36.939146
+          ],
+          [
+            31.1663939,
+            36.9384781
+          ],
+          [
+            31.1670684,
+            36.9376197
+          ],
+          [
+            31.1681694,
+            36.9374714
+          ],
+          [
+            31.169395,
+            36.9376023
+          ],
+          [
+            31.1703716,
+            36.9382205
+          ],
+          [
+            31.1723326,
+            36.9383845
+          ],
+          [
+            31.1725472,
+            36.9386761
+          ],
+          [
+            31.1730622,
+            36.939808
+          ],
+          [
+            31.1727833,
+            36.9399452
+          ],
+          [
+            31.1722565,
+            36.9409965
+          ],
+          [
+            31.1722609,
+            36.9430387
+          ],
+          [
+            31.1691932,
+            36.9436621
+          ],
+          [
+            31.1688433,
+            36.9433514
+          ],
+          [
+            31.1687301,
+            36.943317
+          ],
+          [
+            31.1684747,
+            36.9429102
+          ],
+          [
+            31.1684989,
+            36.9427691
+          ],
+          [
+            31.1683427,
+            36.9425754
+          ],
+          [
+            31.1682231,
+            36.9424989
+          ],
+          [
+            31.168196,
+            36.9423625
+          ],
+          [
+            31.16771,
+            36.9417663
+          ],
+          [
+            31.1672202,
+            36.9413481
+          ],
+          [
+            31.1672218,
+            36.9412411
+          ],
+          [
+            31.1669443,
+            36.9410729
+          ],
+          [
+            31.1670689,
+            36.9408568
+          ],
+          [
+            31.1665082,
+            36.9397954
+          ]
         ]
       },
-      "id": "darmc-location-1453",
+      "id": "osm-location-aspendos",
       "type": "Feature",
       "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 1453",
-        "link": "http://pleiades.stoa.org/places/638776/darmc-location-1453"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.168127,
-          36.937345
-        ]
-      },
-      "id": "darmc-location-3404",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 3404",
-        "link": "http://pleiades.stoa.org/places/638776/darmc-location-3404"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          31.172222,
-          36.938889
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/638776/dare-location"
+        "title": "OSM Location: Aspendos",
+        "link": "http://pleiades.stoa.org/places/638776/osm-location-aspendos"
       }
     }
   ]

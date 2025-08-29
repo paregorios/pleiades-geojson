@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cova de les Dones",
+  "id": "652043992",
+  "bbox": [
+    -0.7686759,
+    39.176676,
+    -0.7686759,
+    39.176676
+  ],
+  "description": "The cave known as Cova de les Dones is located in the Millares municipality, province of Valencia, Spain. This site shows evidence of human activity across a broad period stretching from the Paleolithic to the time of the Roman Empire.",
+  "names": [
+    "Cueva Dones"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7686759,
+          39.176676
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7686759,
+          39.176676
+        ]
+      },
+      "id": "osm-location-of-cueva-dones",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cueva Dones",
+        "link": "http://pleiades.stoa.org/places/652043992/osm-location-of-cueva-dones"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cave of the Apocalypse",
+  "id": "648999241",
+  "bbox": [
+    26.5449861,
+    37.3144714,
+    26.5449861,
+    37.3144714
+  ],
+  "description": "The so-called \"Cave of the Apocalypse\" on Patmos was enrolled in 1999 by UNESCO as a joint World Heritage Site together with the Monastery of Saint John the Theologian. This cave is said to mark the location where St. John of Patmos received the visions that he recorded in the Book of Revelation.",
+  "connectsWith": [
+    "599872"
+  ],
+  "names": [
+    "Cave of the Apocalypse",
+    "Spílaio tis Apokálypsis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5449861,
+          37.3144714
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5449861,
+          37.3144714
+        ]
+      },
+      "id": "osm-location-of-the-cave-of-the-apocalypse",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of the Cave of the Apocalypse",
+        "link": "http://pleiades.stoa.org/places/648999241/osm-location-of-the-cave-of-the-apocalypse"
+      }
+    }
+  ]
+}
