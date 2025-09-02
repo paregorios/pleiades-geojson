@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Jebel Shaqadud",
+  "id": "902590390",
+  "bbox": [
+    33.7753918022,
+    16.2381606117,
+    33.7753918022,
+    16.2381606117
+  ],
+  "description": "Jebel Shaqadud (Sudan) is an archaeological site located 115 km northeast of Khartoum. It preserves at least 7 meters of in situ stratified deposits that date from ca. 8,200 to 4,000 cal BP.",
+  "names": [
+    "Shaqadud"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7753918022,
+          16.2381606117
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.775391802191734,
+          16.238160611658866
+        ]
+      },
+      "id": "imagery-location-of-shaqadud-cave",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery location of Shaqadud Cave",
+        "link": "http://pleiades.stoa.org/places/902590390/imagery-location-of-shaqadud-cave"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Demeter Temple (Aegae - Yuntdağı)",
+  "id": "652237615",
+  "bbox": [
+    27.186302,
+    38.831064,
+    27.186302,
+    38.831064
+  ],
+  "description": "A temple complex at Aegae-Yuntdağı, associated with the cult of Demeter and Kore based on epigraphic evidence, may also have been sacred to other divinities. The site is located to the west of the Scaenae frons of the theater complex.",
+  "connectsWith": [
+    "550404"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.186302,
+          38.831064
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.186302,
+          38.831064
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to photographs and plans on the \"Aigai Excavations and Research\" website. Dates per the excavator (Sezgin) as conveyed in Bayram 2025.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/652237615/imagery-location"
+      }
+    }
+  ]
+}

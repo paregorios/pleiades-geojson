@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Artemis, Jerash",
+  "id": "491624944",
+  "bbox": [
+    35.8906686,
+    32.2817066,
+    35.8912541,
+    32.2820851
+  ],
+  "description": "The Temple of Artemis in Jerash.",
+  "connectsWith": [
+    "678158"
+  ],
+  "names": [
+    "Sanctuary of Artemis at Gerasa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8909794404,
+          32.2818879895
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8906686,
+            32.281909
+          ],
+          [
+            35.8907723,
+            32.2820851
+          ],
+          [
+            35.8912541,
+            32.2818822
+          ],
+          [
+            35.8912366,
+            32.2818525
+          ],
+          [
+            35.8911042,
+            32.2819082
+          ],
+          [
+            35.8910698,
+            32.2818498
+          ],
+          [
+            35.8910348,
+            32.2817904
+          ],
+          [
+            35.8911661,
+            32.2817352
+          ],
+          [
+            35.8911492,
+            32.2817066
+          ],
+          [
+            35.8906686,
+            32.281909
+          ]
+        ]
+      },
+      "id": "osm-location-of-the-temple-of-artemis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of The Temple of Artemis",
+        "link": "http://pleiades.stoa.org/places/491624944/osm-location-of-the-temple-of-artemis"
+      }
+    }
+  ]
+}

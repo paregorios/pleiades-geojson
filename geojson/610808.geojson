@@ -9,6 +9,9 @@
     38.664184
   ],
   "description": "An ancient place, cited: BAtlas 62 F4 unnamed bridge (S Polybotos, at Kırk Göz Köprüsü)",
+  "connectsWith": [
+    "609506"
+  ],
   "features": [
     {
       "type": "Feature",

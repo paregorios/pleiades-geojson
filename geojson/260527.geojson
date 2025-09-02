@@ -3,6 +3,9 @@
   "title": "Castra Gemina",
   "id": "260527",
   "description": "An ancient place, cited: BAtlas 26 unlocated Castra Gemina",
+  "connectsWith": [
+    "703480104"
+  ],
   "names": [
     "Castra Gemina"
   ],

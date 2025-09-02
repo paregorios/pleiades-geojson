@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman temple at Ain Amur",
+  "id": "752636525",
+  "bbox": [
+    29.9907552,
+    25.6520338,
+    29.9908799,
+    25.6521439
+  ],
+  "description": "The archaeological site of a Roman temple at Ain Amur.",
+  "connectsWith": [
+    "776143"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9908162754,
+          25.6520898513
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.9907994,
+            25.6521439
+          ],
+          [
+            29.9907552,
+            25.6521052
+          ],
+          [
+            29.9908222,
+            25.6520338
+          ],
+          [
+            29.9908799,
+            25.6520822
+          ],
+          [
+            29.9907994,
+            25.6521439
+          ]
+        ]
+      },
+      "id": "osm-location-of-ain-amur",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ain Amur",
+        "link": "http://pleiades.stoa.org/places/752636525/osm-location-of-ain-amur"
+      }
+    }
+  ]
+}

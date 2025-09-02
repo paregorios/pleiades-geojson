@@ -3,6 +3,9 @@
   "title": "Faventia/Vesci",
   "id": "260553",
   "description": "Faventia/Vesci, now unlocated, was once to be found in the conventus Astigitanus between Singili and Astigi.",
+  "connectsWith": [
+    "703480104"
+  ],
   "names": [
     "Faventia",
     "Vesci"

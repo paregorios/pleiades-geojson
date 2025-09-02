@@ -3,6 +3,9 @@
   "title": "Sacrana",
   "id": "260629",
   "description": "An ancient place, cited: BAtlas 26 unlocated Sacrana",
+  "connectsWith": [
+    "703480104"
+  ],
   "names": [
     "Sacrana"
   ],
