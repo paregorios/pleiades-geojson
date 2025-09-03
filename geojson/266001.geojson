@@ -3,9 +3,9 @@
   "title": "Pityussae (islands)",
   "id": "266001",
   "bbox": [
-    1.4064298,
-    38.7224287,
-    1.5,
+    1.2132739,
+    38.6404498,
+    1.6215867,
     40.0
   ],
   "description": "Pityussae Inss., an ancient island group comprised of the islands of Ebusus and Ophiussa.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.4454766,
-          39.2341429
+          1.45879219424,
+          39.2229316922
         ]
       },
       "properties": {

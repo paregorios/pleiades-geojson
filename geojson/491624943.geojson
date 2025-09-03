@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "title": "Macellum (Jerash)",
+  "id": "491624943",
+  "bbox": [
+    35.8906211,
+    32.2784364,
+    35.8913877,
+    32.279067
+  ],
+  "description": "The Macellum at Jerash was built in the early second century CE. The complex focuses on a limestone-paved octagonal courtyard. The area occupied by the complex was likely an insula in the previous century.",
+  "connectsWith": [
+    "678158"
+  ],
+  "names": [
+    "Macellum of Gerasa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8909901839,
+          32.2787613459
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              35.8908699,
+              32.279067
+            ],
+            [
+              35.8913877,
+              32.2788631
+            ],
+            [
+              35.8911188,
+              32.2784364
+            ],
+            [
+              35.8906211,
+              32.2786154
+            ],
+            [
+              35.8908699,
+              32.279067
+            ]
+          ],
+          [
+            [
+              35.8908422,
+              32.2787787
+            ],
+            [
+              35.8908417,
+              32.2788166
+            ],
+            [
+              35.8908574,
+              32.278852
+            ],
+            [
+              35.8908872,
+              32.2788802
+            ],
+            [
+              35.8909271,
+              32.2788974
+            ],
+            [
+              35.8909716,
+              32.2789013
+            ],
+            [
+              35.8910148,
+              32.2788914
+            ],
+            [
+              35.8910508,
+              32.2788689
+            ],
+            [
+              35.8910747,
+              32.2788369
+            ],
+            [
+              35.8910834,
+              32.2787998
+            ],
+            [
+              35.8910757,
+              32.2787625
+            ],
+            [
+              35.8910525,
+              32.2787302
+            ],
+            [
+              35.8910171,
+              32.278707
+            ],
+            [
+              35.8909742,
+              32.2786963
+            ],
+            [
+              35.8909296,
+              32.2786994
+            ],
+            [
+              35.8908893,
+              32.2787159
+            ],
+            [
+              35.8908588,
+              32.2787436
+            ],
+            [
+              35.8908422,
+              32.2787787
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-macellum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Macellum",
+        "link": "http://pleiades.stoa.org/places/491624943/osm-location-of-macellum"
+      }
+    }
+  ]
+}

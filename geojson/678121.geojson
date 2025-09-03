@@ -4,16 +4,18 @@
   "id": "678121",
   "bbox": [
     34.9150633,
-    32.6159899,
-    34.9172877,
-    32.617589
+    32.6156004,
+    34.9196289,
+    32.6211383
   ],
   "description": "A coastal settlement of Phoenicia, now Tel Dor, to the south of Haifa.",
   "names": [
     " Dora",
     " Dor",
     "Du'ru",
-    "Tel Dor"
+    "Tel Dor",
+    "Burj et Tantura",
+    "Thora"
   ],
   "features": [
     {
@@ -21,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.9165259986,
-          32.6169704024
+          34.9171161349,
+          32.61789891
         ]
       },
       "properties": {

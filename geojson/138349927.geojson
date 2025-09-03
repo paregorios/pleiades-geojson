@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Propylaeum of the Sanctuary of Artemis",
+  "id": "138349927",
+  "bbox": [
+    35.8922233,
+    32.281105,
+    35.8926697,
+    32.2814055
+  ],
+  "description": "The Propylaeum of the Sanctuary of Artemis is a monumental gateway to the sanctuary and was completed ca. 150 CE.",
+  "connectsWith": [
+    "491624944"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8924480993,
+          32.2812555673
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8925712,
+            32.2813049
+          ],
+          [
+            35.8926697,
+            32.2812649
+          ],
+          [
+            35.8926582,
+            32.2812446
+          ],
+          [
+            35.8925934,
+            32.2811305
+          ],
+          [
+            35.8925789,
+            32.281105
+          ],
+          [
+            35.8924804,
+            32.2811449
+          ],
+          [
+            35.8922233,
+            32.2812492
+          ],
+          [
+            35.8923231,
+            32.2814055
+          ],
+          [
+            35.8925712,
+            32.2813049
+          ]
+        ]
+      },
+      "id": "osm-location-of-propylaeum-of-the-sanctuary-of",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Propylaeum of the Sanctuary of Artemis",
+        "link": "http://pleiades.stoa.org/places/138349927/osm-location-of-propylaeum-of-the-sanctuary-of"
+      }
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     15.4364141,
     40.2408708
   ],
-  "description": "A river of Lucani that flows into the Tyrrhenian Sea.",
+  "description": "A river of Lucania that flows into the Tyrrhenian Sea.",
   "connectsWith": [
     "1356"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.3882335168,
-          40.1442155807
+          15.3882469058,
+          40.1442096436
         ]
       },
       "properties": {

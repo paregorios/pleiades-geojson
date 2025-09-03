@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Zeus Olympius (Jerash)",
+  "id": "276676984",
+  "bbox": [
+    35.8897606,
+    32.276291,
+    35.8909213,
+    32.2773191
+  ],
+  "description": "The monumental sanctuary of Zeus Olympius at Jerash dates to the 160s CE.",
+  "connectsWith": [
+    "678158"
+  ],
+  "names": [
+    "Tempel des Zeus Olympius",
+    "Zeus Temple - Gerasa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8903419289,
+          32.2768059456
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8897606,
+            32.2769636
+          ],
+          [
+            35.8900547,
+            32.2771298
+          ],
+          [
+            35.8900897,
+            32.2771496
+          ],
+          [
+            35.8903896,
+            32.2773191
+          ],
+          [
+            35.8906082,
+            32.2770464
+          ],
+          [
+            35.8905968,
+            32.2770389
+          ],
+          [
+            35.890622,
+            32.2770116
+          ],
+          [
+            35.8906585,
+            32.2769722
+          ],
+          [
+            35.8909213,
+            32.2766464
+          ],
+          [
+            35.8908117,
+            32.2765845
+          ],
+          [
+            35.8902924,
+            32.276291
+          ],
+          [
+            35.8901659,
+            32.276451
+          ],
+          [
+            35.8900051,
+            32.2766543
+          ],
+          [
+            35.8897606,
+            32.2769636
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-of-zeus",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Temple of Zeus",
+        "link": "http://pleiades.stoa.org/places/276676984/osm-location-of-temple-of-zeus"
+      }
+    }
+  ]
+}

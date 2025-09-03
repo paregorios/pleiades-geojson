@@ -3,14 +3,16 @@
   "title": "Dokimeion",
   "id": "609366",
   "bbox": [
-    30.750707,
-    38.8619419,
-    30.7551101,
-    38.863777
+    30.7514995,
+    38.8619038,
+    30.7528514,
+    38.863017
   ],
   "description": "An ancient place, cited: BAtlas 62 E4 Dokimeion",
   "names": [
-    "Dokimeion"
+    "Dokimeion",
+    "İscehisar",
+    "Docymeo"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.7524503667,
-          38.8627673
+          30.7521778791,
+          38.862443071
         ]
       },
       "properties": {
@@ -28,53 +30,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          30.750707,
-          38.862583
+          [
+            30.7524759,
+            38.8619038
+          ],
+          [
+            30.7518294,
+            38.8619853
+          ],
+          [
+            30.7516497,
+            38.8621106
+          ],
+          [
+            30.7515183,
+            38.8623466
+          ],
+          [
+            30.7514995,
+            38.8625512
+          ],
+          [
+            30.7515827,
+            38.8627162
+          ],
+          [
+            30.7518133,
+            38.8629669
+          ],
+          [
+            30.7519287,
+            38.863017
+          ],
+          [
+            30.7522076,
+            38.862994
+          ],
+          [
+            30.7526851,
+            38.8627664
+          ],
+          [
+            30.7528514,
+            38.8625178
+          ],
+          [
+            30.7528245,
+            38.8621816
+          ],
+          [
+            30.7526663,
+            38.8620041
+          ],
+          [
+            30.7524759,
+            38.8619038
+          ]
         ]
       },
-      "id": "darmc-location-1165",
+      "id": "osm-location-of-adegscehisar-hapya1-4aa1-4",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 1165",
-        "link": "http://pleiades.stoa.org/places/609366/darmc-location-1165"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.751534,
-          38.863777
-        ]
-      },
-      "id": "darmc-location-12227",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12227",
-        "link": "http://pleiades.stoa.org/places/609366/darmc-location-12227"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.7551101,
-          38.8619419
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, village precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/609366/dare-location"
+        "title": "OSM location of İscehisar Höyüğü",
+        "link": "http://pleiades.stoa.org/places/609366/osm-location-of-adegscehisar-hapya1-4aa1-4"
       }
     }
   ]

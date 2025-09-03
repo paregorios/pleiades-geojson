@@ -3,14 +3,16 @@
   "title": "Elaia?",
   "id": "678129",
   "bbox": [
-    35.4002778,
-    33.5025,
-    35.4002778,
-    33.5025
+    35.3927784,
+    33.5047789,
+    35.3927784,
+    33.5047789
   ],
-  "description": "An ancient place, cited: BAtlas 69 B2 Elaia?",
+  "description": "Dussaud (1927: 40) states that Zayta, Lebanon, corresponds to a Phoenician settlement named Elaia. It was located between Tyre and Sidon.",
   "names": [
-    "Elaia"
+    "Elaia",
+    "Zeita",
+    "Zayta"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.4002778,
-          33.5025
+          35.3927784,
+          33.5047789
         ]
       },
       "properties": {
@@ -30,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.4002778,
-          33.5025
+          35.3927784,
+          33.5047789
         ]
       },
-      "id": "63264a62a627",
+      "id": "osm-location-of-zayta",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Zeita",
-        "link": "http://pleiades.stoa.org/places/678129/63264a62a627"
+        "title": "OSM location of Zayta",
+        "link": "http://pleiades.stoa.org/places/678129/osm-location-of-zayta"
       }
     }
   ]
