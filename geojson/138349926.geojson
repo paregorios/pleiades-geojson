@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bishop Genesius Church",
+  "id": "138349926",
+  "bbox": [
+    35.8883883,
+    32.2817628,
+    35.888814,
+    32.2820782
+  ],
+  "description": "The Bishop Genesius Church at Jerash (Jordan) may be the earliest Christian church on the site. The church was built in the early seventh century, reusing a preexisting Roman temple.",
+  "connectsWith": [
+    "678158"
+  ],
+  "names": [
+    "Bishop Genesius Church"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8886011611,
+          32.2819205014
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.8884876,
+            32.2820782
+          ],
+          [
+            35.8883883,
+            32.2819618
+          ],
+          [
+            35.8887148,
+            32.2817628
+          ],
+          [
+            35.888814,
+            32.2818792
+          ],
+          [
+            35.8884876,
+            32.2820782
+          ]
+        ]
+      },
+      "id": "osm-location-of-bishop-genesius-church",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bishop Genesius Church",
+        "link": "http://pleiades.stoa.org/places/138349926/osm-location-of-bishop-genesius-church"
+      }
+    }
+  ]
+}

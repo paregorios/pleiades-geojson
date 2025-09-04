@@ -9,6 +9,9 @@
     41.6469413
   ],
   "description": "A Roman bridge at Lanuvium.",
+  "names": [
+    "Ponte Loreto"
+  ],
   "features": [
     {
       "type": "Feature",

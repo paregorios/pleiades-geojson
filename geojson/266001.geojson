@@ -8,13 +8,14 @@
     1.6215867,
     40.0
   ],
-  "description": "Pityussae Inss., an ancient island group comprised of the islands of Ebusus and Ophiussa.",
+  "description": "Pityussae Inss., an ancient island group comprising the islands of Ebusus and Ophiussa.",
   "connectsWith": [
     "265818"
   ],
   "names": [
     "Pityussae",
-    "Pityoussai"
+    "Pityoussai",
+    "Pitiusic Islands"
   ],
   "features": [
     {
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.45879219424,
-          39.2229316922
+          1.43818829136,
+          38.8343975382
         ]
       },
       "properties": {

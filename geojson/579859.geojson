@@ -3,10 +3,10 @@
   "title": "Amarynthos",
   "id": "579859",
   "bbox": [
-    23.9091,
-    38.387,
-    23.9091,
-    38.387
+    23.9082675,
+    38.3866547,
+    23.9093456,
+    38.3875773
   ],
   "description": "An ancient coastal settlement on the island of Euboea, located at modern Palaiokhoria/Kato Vathia (just east of the modern Amarynthos).",
   "names": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.9091,
-          38.387
+          23.9089296789,
+          38.3870315006
         ]
       },
       "properties": {
@@ -44,6 +44,85 @@
         "location_precision": "precise",
         "title": "ToposText Location",
         "link": "http://pleiades.stoa.org/places/579859/topostext-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9088986,
+            38.3875773
+          ],
+          [
+            23.9083762,
+            38.3874894
+          ],
+          [
+            23.9082675,
+            38.3867503
+          ],
+          [
+            23.9086011,
+            38.3866861
+          ],
+          [
+            23.9086565,
+            38.3868675
+          ],
+          [
+            23.9088651,
+            38.3868058
+          ],
+          [
+            23.9089953,
+            38.3867779
+          ],
+          [
+            23.9091827,
+            38.3866547
+          ],
+          [
+            23.9093456,
+            38.3869569
+          ],
+          [
+            23.9091147,
+            38.3870513
+          ],
+          [
+            23.9090492,
+            38.3870882
+          ],
+          [
+            23.908981,
+            38.3873244
+          ],
+          [
+            23.9089369,
+            38.3873564
+          ],
+          [
+            23.9089584,
+            38.3874144
+          ],
+          [
+            23.9089252,
+            38.3875015
+          ],
+          [
+            23.9088986,
+            38.3875773
+          ]
+        ]
+      },
+      "id": "osm-location-of-sanctuary-of-artemis-amarysia-at",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sanctuary of Artemis Amarysia at Amarynthos",
+        "link": "http://pleiades.stoa.org/places/579859/osm-location-of-sanctuary-of-artemis-amarysia-at"
       }
     }
   ]

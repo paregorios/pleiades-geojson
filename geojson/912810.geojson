@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Arakia? (island)",
+  "title": "Arakia (island)",
   "id": "912810",
   "bbox": [
     50.2821144,
@@ -14,7 +14,8 @@
   ],
   "names": [
     "Arakía",
-    "Alexándrou"
+    "Alexándrou",
+    "Kharg Island"
   ],
   "features": [
     {

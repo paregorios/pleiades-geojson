@@ -4,11 +4,11 @@
   "id": "639497",
   "bbox": [
     31.1675958,
-    36.9436105,
-    31.1689136,
+    36.9435601,
+    31.1688828,
     36.9465683
   ],
-  "description": "A Roman aqueduct with an inverted siphon. It carried water some 19 mm to Aspendos with sources at the Gökçepinar and the Pinarbas spring.",
+  "description": "A Roman aqueduct with an inverted siphon. It carried water some 19 km to Aspendos with sources at the Gökçepinar and the Pinarbas spring.",
   "connectsWith": [
     "638776"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1679170805,
-          36.9451164355
+          31.1678940159,
+          36.9451015402
         ]
       },
       "properties": {
@@ -31,32 +31,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            31.1677002,
-            36.9446471
+            31.1676626,
+            36.9446546
           ],
           [
-            31.1677578,
-            36.9446491
+            31.1677202,
+            36.9446566
           ],
           [
-            31.1677791,
-            36.9442574
+            31.1677483,
+            36.944207
           ],
           [
-            31.1689136,
-            36.9436487
+            31.1677647,
+            36.9441982
           ],
           [
-            31.1688815,
-            36.9436105
+            31.1688828,
+            36.9435983
           ],
           [
-            31.1677228,
-            36.9442321
+            31.1688507,
+            36.9435601
           ],
           [
-            31.1677002,
-            36.9446471
+            31.1677329,
+            36.9441597
+          ],
+          [
+            31.167692,
+            36.9441817
+          ],
+          [
+            31.1676626,
+            36.9446546
           ]
         ]
       },

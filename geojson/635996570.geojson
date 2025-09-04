@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Market Hall at Aspendos",
+  "id": "635996570",
+  "bbox": [
+    31.168227,
+    36.939791,
+    31.168227,
+    36.939791
+  ],
+  "description": "A large, Hellenistic structure at Aspendos subsequently reused as the foundation for a Roman-era basilica that seems to have had a presumably public market and grain storage function.",
+  "connectsWith": [
+    "638776"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.168227,
+          36.939791
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.168227,
+          36.939791
+        ]
+      },
+      "id": "imagery-location-market-hall-at-aspendos",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Market Hall at Aspendos",
+        "link": "http://pleiades.stoa.org/places/635996570/imagery-location-market-hall-at-aspendos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths at Cremna",
+  "id": "210593355",
+  "bbox": [
+    30.688124,
+    37.497631,
+    30.688124,
+    37.497631
+  ],
+  "description": "Public baths at Cremna.",
+  "connectsWith": [
+    "638814"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.688124,
+          37.497631
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.688124,
+          37.497631
+        ]
+      },
+      "id": "imagery-location-baths-at-cremna",
+      "type": "Feature",
+      "properties": {
+        "description": "Central point of visible remains of public baths at Cremna. Location determined in Google Earthg with reference to plan by Owens and photographs by Troels Myrup published on Flickr.",
+        "location_precision": "precise",
+        "title": "Imagery Location: Baths at Cremna",
+        "link": "http://pleiades.stoa.org/places/210593355/imagery-location-baths-at-cremna"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "title": "San Pietro in Vincoli",
+  "id": "114728017",
+  "bbox": [
+    12.4927408,
+    41.89362,
+    12.4935789,
+    41.8940904
+  ],
+  "description": "San Pietro in Vincoli is a Roman Catholic titular church and minor basilica in Rome, Italy. It is located on the Oppian Hill and it houses relics connected with the Catholic Saint Peter. The basilica was founded as the Basilica Eudoxiana ca. 432-440. Pope Sixtus III consecrated the site in 439. The basilica has undergone numerous stages of building and rebuilding, notably under Pope Adrian I and Pope Julius II.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "San Pietro in Vincoli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.493177973,
+          41.8938826428
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4935603,
+            41.8938631
+          ],
+          [
+            12.4934988,
+            41.8938388
+          ],
+          [
+            12.4929452,
+            41.89362
+          ],
+          [
+            12.4928439,
+            41.8937669
+          ],
+          [
+            12.4927408,
+            41.8939164
+          ],
+          [
+            12.4932015,
+            41.8940635
+          ],
+          [
+            12.4934152,
+            41.8940904
+          ],
+          [
+            12.4934481,
+            41.8940373
+          ],
+          [
+            12.4935194,
+            41.8940401
+          ],
+          [
+            12.4935726,
+            41.8940046
+          ],
+          [
+            12.4935764,
+            41.8939515
+          ],
+          [
+            12.4935288,
+            41.8939121
+          ],
+          [
+            12.4935565,
+            41.8939132
+          ],
+          [
+            12.4935773,
+            41.8938993
+          ],
+          [
+            12.4935789,
+            41.8938786
+          ],
+          [
+            12.4935603,
+            41.8938631
+          ]
+        ]
+      },
+      "id": "osm-location-of-saint-peter-in-chains",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Saint Peter in Chains",
+        "link": "http://pleiades.stoa.org/places/114728017/osm-location-of-saint-peter-in-chains"
+      }
+    }
+  ]
+}

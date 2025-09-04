@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "title": "Acharnes ancient theater",
+  "id": "735036201",
+  "bbox": [
+    23.7330907,
+    38.0802065,
+    23.733379,
+    38.0805416
+  ],
+  "description": "The deme theater of Acharnai was discovered in 2007.",
+  "connectsWith": [
+    "579842"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7332207122,
+          38.0803742448
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7331166,
+            38.0804417
+          ],
+          [
+            23.7331447,
+            38.0804471
+          ],
+          [
+            23.7331757,
+            38.0804487
+          ],
+          [
+            23.7332061,
+            38.080441
+          ],
+          [
+            23.7332311,
+            38.0804281
+          ],
+          [
+            23.7332493,
+            38.0804082
+          ],
+          [
+            23.733258,
+            38.0803848
+          ],
+          [
+            23.7332564,
+            38.0803603
+          ],
+          [
+            23.7332446,
+            38.0803377
+          ],
+          [
+            23.733224,
+            38.0803194
+          ],
+          [
+            23.7331968,
+            38.0803075
+          ],
+          [
+            23.7331662,
+            38.0803034
+          ],
+          [
+            23.7331368,
+            38.0803072
+          ],
+          [
+            23.7331159,
+            38.0803158
+          ],
+          [
+            23.7330907,
+            38.0802202
+          ],
+          [
+            23.7331332,
+            38.0802065
+          ],
+          [
+            23.7332051,
+            38.0802077
+          ],
+          [
+            23.7332725,
+            38.0802275
+          ],
+          [
+            23.7333277,
+            38.0802638
+          ],
+          [
+            23.7333646,
+            38.0803124
+          ],
+          [
+            23.733379,
+            38.0803679
+          ],
+          [
+            23.7333692,
+            38.080424
+          ],
+          [
+            23.7333365,
+            38.0804744
+          ],
+          [
+            23.7332844,
+            38.0805134
+          ],
+          [
+            23.7332188,
+            38.0805367
+          ],
+          [
+            23.7331472,
+            38.0805416
+          ],
+          [
+            23.7330909,
+            38.0805326
+          ],
+          [
+            23.7331166,
+            38.0804417
+          ]
+        ]
+      },
+      "id": "osm-location-of-ancient-theatre-of-acharnes",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ancient Theatre of Acharnes",
+        "link": "http://pleiades.stoa.org/places/735036201/osm-location-of-ancient-theatre-of-acharnes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agia Aikaterini square excavations",
+  "id": "975915186",
+  "bbox": [
+    24.0193751,
+    35.517056,
+    24.0197753,
+    35.5173714
+  ],
+  "description": "A multi-period archaeological site on Kastelli Hill, Khania, Crete, that has occupation stretching more than five millennia. Archaeological fieldwork was undertaken by the Greek–Swedish Excavations and the Danish Institute at Athens beginning in 2005.",
+  "connectsWith": [
+    "553704982"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0195751867,
+          35.5172136935
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.0196544,
+            35.5173714
+          ],
+          [
+            24.0193751,
+            35.5172637
+          ],
+          [
+            24.0194959,
+            35.517056
+          ],
+          [
+            24.0197753,
+            35.5171637
+          ],
+          [
+            24.0196544,
+            35.5173714
+          ]
+        ]
+      },
+      "id": "osm-location-of-agia-aikaterini-square-excavations",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Agia Aikaterini square excavations",
+        "link": "http://pleiades.stoa.org/places/975915186/osm-location-of-agia-aikaterini-square-excavations"
+      }
+    }
+  ]
+}
