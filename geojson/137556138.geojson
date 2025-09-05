@@ -3,10 +3,10 @@
   "title": "Bouleuterion at Aspendos",
   "id": "137556138",
   "bbox": [
-    31.1689832,
-    36.9403887,
-    31.1689832,
-    36.9403887
+    31.1687993,
+    36.9403968,
+    31.169099,
+    36.9406853
   ],
   "description": "The Bouleuterion at Aspendos dates to the early second century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1689832,
-          36.9403887
+          31.1689855092,
+          36.9405504243
         ]
       },
       "properties": {
@@ -28,19 +28,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          31.1689832,
-          36.9403887
+          [
+            31.1689029,
+            36.9404018
+          ],
+          [
+            31.1689422,
+            36.9403968
+          ],
+          [
+            31.1689818,
+            36.9404001
+          ],
+          [
+            31.169019,
+            36.9404114
+          ],
+          [
+            31.1690513,
+            36.9404301
+          ],
+          [
+            31.1690764,
+            36.9404548
+          ],
+          [
+            31.1690927,
+            36.9404838
+          ],
+          [
+            31.169099,
+            36.9405153
+          ],
+          [
+            31.1690949,
+            36.9405469
+          ],
+          [
+            31.1690807,
+            36.9405766
+          ],
+          [
+            31.1690573,
+            36.9406024
+          ],
+          [
+            31.1690264,
+            36.9406225
+          ],
+          [
+            31.1689901,
+            36.9406355
+          ],
+          [
+            31.1688124,
+            36.9406853
+          ],
+          [
+            31.1687993,
+            36.9406556
+          ]
         ]
       },
-      "id": "location-of-bouleuterion",
+      "id": "osm-location-bouleuterion",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Bouleuterion",
-        "link": "http://pleiades.stoa.org/places/137556138/location-of-bouleuterion"
+        "title": "OSM location: Bouleuterion",
+        "link": "http://pleiades.stoa.org/places/137556138/osm-location-bouleuterion"
       }
     }
   ]

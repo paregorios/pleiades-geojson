@@ -3,20 +3,23 @@
   "title": "Atlıhisar",
   "id": "609326",
   "bbox": [
-    30.577874,
-    38.464109,
-    30.577874,
-    38.464109
+    30.5840769,
+    38.4497752,
+    30.5840769,
+    38.4497752
   ],
   "description": "An ancient place, cited: BAtlas 62 E5 Atlıhisar",
+  "names": [
+    "Atlıhisar"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.577874,
-          38.464109
+          30.5840769,
+          38.4497752
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.577874,
-          38.464109
+          30.5840769,
+          38.4497752
         ]
       },
-      "id": "darmc-location-21559",
+      "id": "osm-location-of-atla-hisar",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21559",
-        "link": "http://pleiades.stoa.org/places/609326/darmc-location-21559"
+        "title": "OSM location of Atlıhisar",
+        "link": "http://pleiades.stoa.org/places/609326/osm-location-of-atla-hisar"
       }
     }
   ]
