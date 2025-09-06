@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Ameria",
+  "title": "Ameria (Pontos)",
   "id": "857022",
   "bbox": [
     36.976865,
@@ -8,12 +8,15 @@
     36.976865,
     40.633506
   ],
-  "description": "An ancient place, cited: BAtlas 87 B4 Ameria",
+  "description": "An ancient settlement, associated with the sanctuary of Men Pharnakou in Pontos. It was located near modern near Ardıçlı (formerly Agustu) in Turkey's Tokat province.",
   "connectsWith": [
     "857177"
   ],
   "names": [
-    "Ameria"
+    "Ameria",
+    "Ardıçlı",
+    "Agustu",
+    "to hieron Menos Pharnakou"
   ],
   "features": [
     {

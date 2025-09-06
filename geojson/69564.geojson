@@ -34,13 +34,13 @@
           48.215573
         ]
       },
-      "id": "center-point-of-the-site-les-rubricaire-commune-sainte-gemmes-le-robert",
+      "id": "imagery-location",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "center point of the site Les Rubricaire, commune Sainte-Gemmes-le-Robert",
-        "link": "http://pleiades.stoa.org/places/69564/center-point-of-the-site-les-rubricaire-commune-sainte-gemmes-le-robert"
+        "title": "Imagery Location: center point of the site Les Rubricaire, commune Sainte-Gemmes-le-Robert",
+        "link": "http://pleiades.stoa.org/places/69564/imagery-location"
       }
     }
   ]

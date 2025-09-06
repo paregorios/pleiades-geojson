@@ -3,13 +3,15 @@
   "title": "Thoknia",
   "id": "570730",
   "bbox": [
-    22.077856,
-    37.41772,
-    22.077856,
-    37.41772
+    22.0795567,
+    37.4203113,
+    22.0795567,
+    37.4203113
   ],
-  "description": "An ancient place, cited: BAtlas 58 C3 Thoknia",
+  "description": "An ancient settlement of Arcadia mentioned by Pausanias and catalogued by Stephanus of Byzantium. Long identified with ancient remains in the vicinity of modern Thoknia (previously Bromosellas/Vromosellas), but those remains seem largely to have disappeared in the course of extensive modern lignite mining in the vicinity.",
   "names": [
+    "Thoknia",
+    "Vromosela",
     "Thoknia"
   ],
   "features": [
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.077856,
-          37.41772
+          22.0795567,
+          37.4203113
         ]
       },
       "properties": {
@@ -30,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.077856,
-          37.41772
+          22.0795567,
+          37.4203113
         ]
       },
-      "id": "darmc-location-15147",
+      "id": "osm-location-modern-thoknia",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15147",
-        "link": "http://pleiades.stoa.org/places/570730/darmc-location-15147"
+        "title": "OSM Location: modern Thoknia",
+        "link": "http://pleiades.stoa.org/places/570730/osm-location-modern-thoknia"
       }
     }
   ]

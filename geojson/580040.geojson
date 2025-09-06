@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Oinoe",
+  "title": "Oinoe (Attica)",
   "id": "580040",
   "bbox": [
     23.4498065,
@@ -8,7 +8,10 @@
     23.4498065,
     38.1686774
   ],
-  "description": "An ancient place, cited: BAtlas 59 A2 Oinoe",
+  "description": "An ancient fortified settlement and deme of Attica. The archaeological site is located to the east of modern Oinoe/Inoi (formerly Mazi).",
+  "connectsWith": [
+    "579888"
+  ],
   "names": [
     "Oinoe"
   ],

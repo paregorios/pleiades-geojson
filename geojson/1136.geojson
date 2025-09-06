@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Moesia Superior",
+  "title": "Withdrawn duplicate: Moesia Superior",
   "id": "1136",
   "bbox": [
     20.0,
@@ -8,7 +8,7 @@
     25.0,
     45.0
   ],
-  "description": "An ancient place, cited: BAtlas 1 H2 Moesia Superior",
+  "description": "Duplicate for \"Moesia Superior (province)\" https://pleiades.stoa.org/places/981536",
   "names": [
     "Moesia Superior"
   ],
@@ -60,7 +60,7 @@
         "description": null,
         "location_precision": "rough",
         "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/1136/batlas-location"
+        "link": "http://pleiades.stoa.org/errata/1136/batlas-location"
       }
     }
   ]
