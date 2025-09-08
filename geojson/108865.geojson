@@ -9,6 +9,9 @@
     50.799218
   ],
   "description": "An ancient place, cited: BAtlas 11 C2 Castellum Menapiorum",
+  "connectsWith": [
+    "109156"
+  ],
   "names": [
     "Castellum Menapiorum"
   ],

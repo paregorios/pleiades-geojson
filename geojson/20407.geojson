@@ -3,20 +3,24 @@
   "title": "Białęcino",
   "id": "20407",
   "bbox": [
-    15.999978,
-    53.999904,
-    15.999978,
-    53.999904
+    16.65446,
+    54.25482,
+    16.65446,
+    54.25482
   ],
-  "description": "An ancient place, cited: BAtlas 2 G3 Białęcino",
+  "description": "A \"princely burial\" at modern Białęcino (formerly Balenthin) in Poland dated to the early Roman imperial period by virtue of coins found deposited with the burial.",
+  "names": [
+    "Białęcino",
+    "Balenthin"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.999978,
-          53.999904
+          16.65446,
+          54.25482
         ]
       },
       "properties": {
@@ -27,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.999978,
-          53.999904
+          16.65446,
+          54.25482
         ]
       },
-      "id": "darmc-location-25913",
+      "id": "osm-location-modern-biaaacino",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 25913",
-        "link": "http://pleiades.stoa.org/places/20407/darmc-location-25913"
+        "title": "OSM Location: modern Białęcino",
+        "link": "http://pleiades.stoa.org/places/20407/osm-location-modern-biaaacino"
       }
     }
   ]

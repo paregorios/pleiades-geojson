@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "St-Gemmes-le-Robert",
+  "title": "Les Rubricaire (St-Gemmes-le-Robert)",
   "id": "69564",
   "bbox": [
     -0.364905,
@@ -8,9 +8,11 @@
     -0.364905,
     48.215573
   ],
-  "description": "An ancient place, cited: BAtlas 7 F3 St-Gemmes-le-Robert",
+  "description": "A Roman fort and tower in the modern French commune of St-Gemmes-le-Robert (Pays de la Loire).",
   "names": [
-    "Les Rubricaire"
+    "Les Rubricaire",
+    "St Gemmes le Robert",
+    "Camp gallo-romain et balneum de Rubricaire"
   ],
   "features": [
     {
