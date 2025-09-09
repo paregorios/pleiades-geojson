@@ -3,12 +3,15 @@
   "title": "Pentele",
   "id": "580064",
   "bbox": [
-    23.871705,
-    38.076572,
-    23.871705,
-    38.076572
+    23.899722,
+    38.080833,
+    23.899722,
+    38.080833
   ],
-  "description": "An ancient place, cited: BAtlas 59 C2 Pentele",
+  "description": "An ancient settlement of Attica and possibly a deme. BAtlas tentatively (hollow symbol with question mark) locates it on mount Pentelikon. A modern town at the mountain's western foot now bears this name, but is not directly identified by scholars with the ancient settlement.",
+  "connectsWith": [
+    "580065"
+  ],
   "names": [
     "Pentele"
   ],
@@ -18,29 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.871705,
-          38.076572
+          23.899722,
+          38.080833
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.871705,
-          38.076572
-        ]
-      },
-      "id": "darmc-location-21313",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 21313",
-        "link": "http://pleiades.stoa.org/places/580064/darmc-location-21313"
       }
     }
   ]

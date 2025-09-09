@@ -3,14 +3,15 @@
   "title": "Mysoi Abbaeitai",
   "id": "609481",
   "bbox": [
-    28.5,
-    39.0,
-    29.0,
-    39.5
+    28.4355386854,
+    39.0364864887,
+    28.7632618498,
+    39.2699116134
   ],
-  "description": "An ancient place, cited: BAtlas 62 A3 Mysoi Abbaeitai",
+  "description": "One of two Attalid-era regional polities located in the northeast part of modern Turkey's Manisa province (the other being the Maionians in Katakekaumene).",
   "names": [
-    "Mysoi Abbaeitai"
+    "Mysoi Abbaeitai",
+    "Mysia Abbaitis"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.75,
-          39.25
+          28.5811076281,
+          39.1758122241
         ]
       },
       "properties": {
@@ -28,39 +29,95 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              28.5,
-              39.0
+              28.43553868544764,
+              39.03648648869116
             ],
             [
-              28.5,
-              39.5
+              28.446246259973876,
+              39.06789537396812
             ],
             [
-              29.0,
-              39.5
+              28.46701895455478,
+              39.09359355283109
             ],
             [
-              29.0,
-              39.0
+              28.487720265305505,
+              39.11286718697831
             ],
             [
-              28.5,
-              39.0
+              28.50842157605623,
+              39.13856536584128
+            ],
+            [
+              28.527695210203454,
+              39.15284213187626
+            ],
+            [
+              28.54554116774718,
+              39.16926041281649
+            ],
+            [
+              28.56124561038566,
+              39.181395663946226
+            ],
+            [
+              28.573844393349475,
+              39.19101595111438
+            ],
+            [
+              28.590512980757374,
+              39.198527783188204
+            ],
+            [
+              28.61050045320635,
+              39.21066303431794
+            ],
+            [
+              28.626918734146578,
+              39.21565990243018
+            ],
+            [
+              28.64048166187981,
+              39.22351212374942
+            ],
+            [
+              28.65689994282004,
+              39.23207818337041
+            ],
+            [
+              28.669749032251524,
+              39.237788889784404
+            ],
+            [
+              28.69687488771799,
+              39.24921030261239
+            ],
+            [
+              28.716148521865215,
+              39.253493332422885
+            ],
+            [
+              28.74327437733168,
+              39.260631715440375
+            ],
+            [
+              28.763261849780655,
+              39.269911613363114
             ]
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-map-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/609481/undetermined"
+        "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+        "location_precision": "precise",
+        "title": "BAtlas Map Label Location",
+        "link": "http://pleiades.stoa.org/places/609481/batlas-map-label-location"
       }
     }
   ]

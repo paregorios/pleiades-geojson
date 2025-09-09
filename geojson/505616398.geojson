@@ -1,16 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Qasr Abu Rukba",
-  "id": "697733",
+  "title": "Castelliere di Monte Orve",
+  "id": "505616398",
   "bbox": [
-    35.8798588,
-    31.1117101,
-    35.8798588,
-    31.1117101
+    12.8886459,
+    43.0335335,
+    12.8886459,
+    43.0335335
   ],
-  "description": "An ancient place, cited: BAtlas 71 B3 Qasr Abu Rukba",
+  "description": "A fortified pre-Roman settlement near lacus Plestinus.",
   "names": [
-    "Qasr Abu Rukba"
+    "Castelliere di Monte Orve"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.8798588,
-          31.1117101
+          12.8886459,
+          43.0335335
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.8798588,
-          31.1117101
+          12.8886459,
+          43.0335335
         ]
       },
-      "id": "osm-location-of-qasr-abu-rukba",
+      "id": "osm-location-of-castelliere-di-monte-orve",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Qasr Abu Rukba",
-        "link": "http://pleiades.stoa.org/places/697733/osm-location-of-qasr-abu-rukba"
+        "title": "OSM location of Castelliere di Monte Orve",
+        "link": "http://pleiades.stoa.org/places/505616398/osm-location-of-castelliere-di-monte-orve"
       }
     }
   ]

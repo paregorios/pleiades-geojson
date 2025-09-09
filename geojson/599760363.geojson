@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ekali Cave",
+  "id": "599760363",
+  "bbox": [
+    23.837232,
+    38.098887,
+    23.837232,
+    38.098887
+  ],
+  "description": "A natural cave on the western foot of Mount Penteli in the modern suburb of Ekali where looting and subsequent rescue excavation revealed evidence for intensive Neolithic use, as well as use in possibly the Classical period and certainly in Roman, Byzantine and later periods.",
+  "names": [
+    "Ekali"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.837232,
+          38.098887
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.837232,
+          38.098887
+        ]
+      },
+      "id": "approximate-imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery location determined from description in Mari 2020.",
+        "location_precision": "precise",
+        "title": "Approximate Imagery Location",
+        "link": "http://pleiades.stoa.org/places/599760363/approximate-imagery-location"
+      }
+    }
+  ]
+}
