@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "title": "Karmalas",
+  "title": "Withdrawn (duplicate) Karmalas",
   "id": "631215",
-  "description": "An ancient place, cited: BAtlas 64 unlocated Karmalas fl.",
+  "description": "Duplicate of https://pleiades.stoa.org/places/658503",
   "names": [
     "Karmalas"
   ],
@@ -22,7 +22,7 @@
         "description": null,
         "location_precision": "unlocated",
         "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/631215/undetermined"
+        "link": "http://pleiades.stoa.org/errata/631215/undetermined"
       }
     }
   ]

@@ -9,6 +9,9 @@
     38.055209
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Thria",
+  "connectsWith": [
+    "580122"
+  ],
   "names": [
     "Thría",
     "Thria"

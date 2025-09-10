@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Topeiros",
+  "title": "Topeiros (Paradeisos)",
   "id": "501645",
   "bbox": [
     24.773105,
@@ -8,9 +8,10 @@
     24.773105,
     41.079556
   ],
-  "description": "An ancient place, cited: BAtlas 51 D2 Topeiros",
+  "description": "There is evidence for human habitation from the Neolithic onward In and around Paradeisos, a modern Greek village in the Nestos municipality of Kavala, Macedonia and Thrace. Long-standing scholarly consensus holds that these remains are to be identified with the well-attested ancient settlement of Topeiros, although BAtlDir registers slight hesitation (question mark).",
   "names": [
-    "Topeiros"
+    "Topeiros",
+    "Topiro"
   ],
   "features": [
     {
