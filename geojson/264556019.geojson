@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Ptah (Karnak)",
+  "id": "264556019",
+  "bbox": [
+    32.6594333,
+    25.719427,
+    32.6599042,
+    25.7197964
+  ],
+  "description": "Originally constructed by the New Kingdom pharoah Thutmose III, this component of the temple complex in Karnak was repaired and embellished multiple times through the Roman period.",
+  "connectsWith": [
+    "786050"
+  ],
+  "names": [
+    "Temple of Ptah"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.6596717213,
+          25.7196152837
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.6598161,
+            25.719427
+          ],
+          [
+            32.6599042,
+            25.7195444
+          ],
+          [
+            32.6594902,
+            25.7197964
+          ],
+          [
+            32.6594333,
+            25.7197206
+          ],
+          [
+            32.6596982,
+            25.7195594
+          ],
+          [
+            32.659667,
+            25.7195178
+          ],
+          [
+            32.6598161,
+            25.719427
+          ]
+        ]
+      },
+      "id": "osm-location-temple-of-ptah",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Temple of Ptah",
+        "link": "http://pleiades.stoa.org/places/264556019/osm-location-temple-of-ptah"
+      }
+    }
+  ]
+}

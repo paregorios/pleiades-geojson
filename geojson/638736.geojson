@@ -3,14 +3,16 @@
   "title": "Akalissos",
   "id": "638736",
   "bbox": [
-    29.91254,
-    36.538904,
-    30.232071,
-    36.735452
+    30.2204369,
+    36.5300828,
+    30.2204369,
+    36.5300828
   ],
-  "description": "An ancient place, cited: BAtlas 65 D4 Akalissos",
+  "description": "An ancient settlement of Lycia, located near the modern village of Karacaören in Turkey's Kumluca municipality (Antalya province).",
   "names": [
-    "Akalissos"
+    "Akalissos",
+    "Asarderesi",
+    "Karacaören"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.0723055,
-          36.637178
+          30.2204369,
+          36.5300828
         ]
       },
       "properties": {
@@ -30,34 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.232071,
-          36.538904
+          30.2204369,
+          36.5300828
         ]
       },
-      "id": "darmc-location-1429",
+      "id": "osm-location-acalissus",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 1429",
-        "link": "http://pleiades.stoa.org/places/638736/darmc-location-1429"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          29.91254,
-          36.735452
-        ]
-      },
-      "id": "darmc-location-12128",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB point location",
-        "location_precision": "precise",
-        "title": "DARMC location 12128",
-        "link": "http://pleiades.stoa.org/places/638736/darmc-location-12128"
+        "title": "OSM Location: Acalissus",
+        "link": "http://pleiades.stoa.org/places/638736/osm-location-acalissus"
       }
     }
   ]

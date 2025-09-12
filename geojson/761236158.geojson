@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Trusty's Hill (fort)",
+  "id": "761236158",
+  "bbox": [
+    -4.2012695,
+    54.8791981,
+    -4.2012695,
+    54.8791981
+  ],
+  "description": "A nucleated hillfort site in Scotland's Dumfries and Galloway council area (Anwoth parish) with evidence for two periods of occupation: the first before and during the 4th century BCE, and the second during the 5th-7th centuries CE. A 1st/2nd century CE Samian ware sherd was also identified there. The 2012 excavations that provided these dates also cast serious doubt on the authenticity of a famed \"Pictish\" inscribed stone at the site.",
+  "names": [
+    "Trusty's Hill"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2012695,
+          54.8791981
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2012695,
+          54.8791981
+        ]
+      },
+      "id": "osm-location-trustys-hill-sic",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap. Dates after 2012 excavation report online at Trove.scot.",
+        "location_precision": "precise",
+        "title": "OSM Location Trustys Hill (sic)",
+        "link": "http://pleiades.stoa.org/places/761236158/osm-location-trustys-hill-sic"
+      }
+    }
+  ]
+}

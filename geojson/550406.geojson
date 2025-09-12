@@ -5,8 +5,8 @@
   "bbox": [
     26.5520049425,
     38.1591792158,
-    27.196998,
-    39.00699
+    27.19367,
+    39.012129
   ],
   "description": "Sometimes defined as covering the entrance of the Hellespont to the mouth of the Hermus River, Aeolis was a region centered on the North West coast of Asia Minor and some islands, notably Lesbos. Herodotus lists the eleven ancient cities of Aeolis as Cyme, Lerisae, Neon Teichos, Temnos, Cilla, Notion, Aegiroessa, Pitane, Aegaeae, Myrina, and Gryneia. He also claims that Smyrna was once an Aeolian city, but was taken by the Ionians at an unspecified date.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.0151513343,
-          38.8431653729
+          27.0116233309,
+          38.8434904156
         ]
       },
       "properties": {
