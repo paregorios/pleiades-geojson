@@ -3,20 +3,23 @@
   "title": "Yalpak tepe",
   "id": "971907",
   "bbox": [
-    67.372509,
-    37.454029,
-    67.372509,
-    37.454029
+    67.4163923,
+    37.4912837,
+    67.418467,
+    37.49296
   ],
   "description": "An ancient place, cited: BAtlas 99 B2 Yalpak tepe",
+  "names": [
+    "Yalpak tepe"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.372509,
-          37.454029
+          67.4174260567,
+          37.4921254285
         ]
       },
       "properties": {
@@ -25,19 +28,41 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          67.372509,
-          37.454029
+          [
+            67.4178389,
+            37.49296
+          ],
+          [
+            67.4163923,
+            37.4925062
+          ],
+          [
+            67.4169126,
+            37.4912837
+          ],
+          [
+            67.418467,
+            37.4917658
+          ],
+          [
+            67.4182862,
+            37.4923664
+          ],
+          [
+            67.4178389,
+            37.49296
+          ]
         ]
       },
-      "id": "darmc-location-21802",
+      "id": "osm-location-of-yalpak-tepa-uz-sd-033",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21802",
-        "link": "http://pleiades.stoa.org/places/971907/darmc-location-21802"
+        "title": "OSM location of Yalpak Tepa (Uz-SD-033)",
+        "link": "http://pleiades.stoa.org/places/971907/osm-location-of-yalpak-tepa-uz-sd-033"
       }
     }
   ]

@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "title": "İkiz Tepe Tümülüsü",
+  "id": "814953386",
+  "bbox": [
+    27.1691797,
+    39.1028924,
+    27.1701115,
+    39.1036131
+  ],
+  "description": "İkiz Tepe Tümülüsü (also Ikili Tumuli) is a tumulus near Pergamon that is included in the UNESCO World Heritage site \"Pergamon and its Multi-Layered Cultural Landscape\".",
+  "connectsWith": [
+    "550812"
+  ],
+  "names": [
+    "Ikili Tumuli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1696471626,
+          39.103251758
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.1701115,
+            39.1032124
+          ],
+          [
+            27.1701038,
+            39.1033279
+          ],
+          [
+            27.1700497,
+            39.1034356
+          ],
+          [
+            27.1699545,
+            39.1035246
+          ],
+          [
+            27.1698281,
+            39.1035859
+          ],
+          [
+            27.1696833,
+            39.1036131
+          ],
+          [
+            27.1695348,
+            39.1036036
+          ],
+          [
+            27.1693977,
+            39.1035583
+          ],
+          [
+            27.169286,
+            39.1034818
+          ],
+          [
+            27.1692073,
+            39.1033744
+          ],
+          [
+            27.1691797,
+            39.1032528
+          ],
+          [
+            27.1692063,
+            39.103131
+          ],
+          [
+            27.169284,
+            39.1030232
+          ],
+          [
+            27.1694039,
+            39.1029419
+          ],
+          [
+            27.1695519,
+            39.1028966
+          ],
+          [
+            27.169711,
+            39.1028924
+          ],
+          [
+            27.1698626,
+            39.1029299
+          ],
+          [
+            27.1699893,
+            39.1030047
+          ],
+          [
+            27.170072,
+            39.1031009
+          ],
+          [
+            27.1701115,
+            39.1032124
+          ]
+        ]
+      },
+      "id": "osm-location-of-adegkiz-tepe-ta1-4ma1-4la1-4sa1-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of İkiz Tepe Tümülüsü",
+        "link": "http://pleiades.stoa.org/places/814953386/osm-location-of-adegkiz-tepe-ta1-4ma1-4la1-4sa1-4"
+      }
+    }
+  ]
+}

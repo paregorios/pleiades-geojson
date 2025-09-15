@@ -3,20 +3,23 @@
   "title": "Dal'verzin tepe",
   "id": "971739",
   "bbox": [
-    67.794806,
-    38.083323,
-    67.845134,
-    38.092058
+    67.8564615,
+    38.0964726,
+    67.865316,
+    38.1029382
   ],
-  "description": "An ancient place, cited: BAtlas 99 B1 Dal'verzin tepe",
+  "description": "Dal'verzin tepe is an archaeological site located in Uzbekistan. The site is located near the Surkhan­darya River, approximately 60 km northeast of Termez. The settlement has its origins as a Greco-Bactrian town that developed into a larger, fortified settlement.",
+  "names": [
+    "Dal'verzin tepe"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          67.81997,
-          38.0876905
+          67.8607119793,
+          38.0995145679
         ]
       },
       "properties": {
@@ -25,36 +28,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          67.794806,
-          38.083323
+          [
+            67.8598136,
+            38.1029382
+          ],
+          [
+            67.865316,
+            38.1007322
+          ],
+          [
+            67.8641944,
+            38.0988041
+          ],
+          [
+            67.8631581,
+            38.0986026
+          ],
+          [
+            67.8616913,
+            38.0972575
+          ],
+          [
+            67.8605855,
+            38.0972901
+          ],
+          [
+            67.8598968,
+            38.0973266
+          ],
+          [
+            67.8593963,
+            38.0970987
+          ],
+          [
+            67.858044,
+            38.0964726
+          ],
+          [
+            67.8564615,
+            38.0971999
+          ],
+          [
+            67.8598136,
+            38.1029382
+          ]
         ]
       },
-      "id": "darmc-location-20209",
+      "id": "osm-location-of-dalverzin-tepe-uz-sd-188",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20209",
-        "link": "http://pleiades.stoa.org/places/971739/darmc-location-20209"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          67.845134,
-          38.092058
-        ]
-      },
-      "id": "darmc-location-21665",
-      "type": "Feature",
-      "properties": {
-        "description": "Point location",
-        "location_precision": "precise",
-        "title": "DARMC location 21665",
-        "link": "http://pleiades.stoa.org/places/971739/darmc-location-21665"
+        "title": "OSM location of Dal'verzin Tepe (Uz-SD-188)",
+        "link": "http://pleiades.stoa.org/places/971739/osm-location-of-dalverzin-tepe-uz-sd-188"
       }
     }
   ]

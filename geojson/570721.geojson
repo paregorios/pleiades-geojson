@@ -9,6 +9,9 @@
     37.629132
   ],
   "description": "An ancient place, cited: BAtlas 58 C2 Th(e)isoa",
+  "connectsWith": [
+    "573322"
+  ],
   "names": [
     "Theisoa",
     "Thisoa"

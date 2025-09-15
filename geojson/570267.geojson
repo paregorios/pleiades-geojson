@@ -9,6 +9,9 @@
     37.536675
   ],
   "description": "An ancient place, cited: BAtlas 58 C2 Gortys",
+  "connectsWith": [
+    "573322"
+  ],
   "names": [
     "Gortys",
     "Gortyna"

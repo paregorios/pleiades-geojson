@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tavşan Tepe Tümülüsü",
+  "id": "194611949",
+  "bbox": [
+    27.1940617,
+    39.114612,
+    27.1953384,
+    39.1155568
+  ],
+  "description": "The Tavşan Tepe Tümülüsü is a tumulus at Pergamon included in the UNESCO World Heritage site \"Pergamon and its Multi-Layered Cultural Landscape\".",
+  "connectsWith": [
+    "550812"
+  ],
+  "names": [
+    "Tavsan Tepe Tumulus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1947442509,
+          39.1150837291
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.1940939,
+            39.1149783
+          ],
+          [
+            27.1940617,
+            39.1150865
+          ],
+          [
+            27.1941851,
+            39.1153612
+          ],
+          [
+            27.1943299,
+            39.1154902
+          ],
+          [
+            27.1945713,
+            39.1155568
+          ],
+          [
+            27.1948127,
+            39.1155527
+          ],
+          [
+            27.1950219,
+            39.1154777
+          ],
+          [
+            27.1952097,
+            39.1153695
+          ],
+          [
+            27.1953169,
+            39.115228
+          ],
+          [
+            27.1953384,
+            39.1150615
+          ],
+          [
+            27.1953277,
+            39.1148909
+          ],
+          [
+            27.1952418,
+            39.114612
+          ],
+          [
+            27.1947966,
+            39.1146703
+          ],
+          [
+            27.1944157,
+            39.114766
+          ],
+          [
+            27.1942011,
+            39.1148742
+          ],
+          [
+            27.1940939,
+            39.1149783
+          ]
+        ]
+      },
+      "id": "osm-location-of-tavaan-tepe-ta1-4ma1-4la1-4sa1-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tavşan Tepe Tümülüsü",
+        "link": "http://pleiades.stoa.org/places/194611949/osm-location-of-tavaan-tepe-ta1-4ma1-4la1-4sa1-4"
+      }
+    }
+  ]
+}

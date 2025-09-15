@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Mereruka",
+  "id": "463431204",
+  "bbox": [
+    31.2210173,
+    29.8756836,
+    31.2213891,
+    29.8759008
+  ],
+  "description": "The mastaba tomb of the vizier Mereruka at Saqqarah dates to the Sixth Dynasty of ancient Egypt.",
+  "connectsWith": [
+    "796289136"
+  ],
+  "names": [
+    "mastaba of Mereruka"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2211994488,
+          29.8757920202
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.2213675,
+            29.8758364
+          ],
+          [
+            31.2213817,
+            29.8757727
+          ],
+          [
+            31.2213891,
+            29.8757395
+          ],
+          [
+            31.2210557,
+            29.8756836
+          ],
+          [
+            31.2210173,
+            29.8758557
+          ],
+          [
+            31.2212863,
+            29.8759008
+          ],
+          [
+            31.221303,
+            29.8758256
+          ],
+          [
+            31.2213675,
+            29.8758364
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-mereruka",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Mereruka",
+        "link": "http://pleiades.stoa.org/places/463431204/osm-location-of-tomb-of-mereruka"
+      }
+    }
+  ]
+}

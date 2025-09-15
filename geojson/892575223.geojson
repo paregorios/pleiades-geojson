@@ -3,10 +3,10 @@
   "title": "Anubieion at Saqqarah",
   "id": "892575223",
   "bbox": [
-    31.2226555,
-    29.8755412,
-    31.2226555,
-    29.8755412
+    31.2230149,
+    29.8751644,
+    31.2230149,
+    29.8751644
   ],
   "description": "Late-period district of Saqqara, adjacent to the Teti Pyramid.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.2226555,
-          29.8755412
+          31.2230149,
+          29.8751644
         ]
       },
       "properties": {

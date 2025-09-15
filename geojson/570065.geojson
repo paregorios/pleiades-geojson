@@ -9,6 +9,9 @@
     37.532239
   ],
   "description": "Pausanias notes that Alipheira was mostly abandoned when Arcadians were merged into Megalopolis.",
+  "connectsWith": [
+    "573322"
+  ],
   "names": [
     "Alipheira"
   ],

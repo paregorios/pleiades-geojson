@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nuraghe su Figu",
+  "id": "764913387",
+  "bbox": [
+    8.7973331,
+    40.1930966,
+    8.7974866,
+    40.1932144
+  ],
+  "description": "Nuraghe su Figu is a single-tower nuraghe located approximately 300 meters from the nuraghe Sas Casas and Columbos, respectively to the West and southeast.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Nuraghe Su Figu"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79741012168,
+          40.1931555533
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7974757,
+            40.1931243
+          ],
+          [
+            8.7974857,
+            40.1931433
+          ],
+          [
+            8.7974866,
+            40.1931638
+          ],
+          [
+            8.7974783,
+            40.1931832
+          ],
+          [
+            8.7974618,
+            40.1931994
+          ],
+          [
+            8.7974391,
+            40.1932102
+          ],
+          [
+            8.7974153,
+            40.1932144
+          ],
+          [
+            8.797391,
+            40.1932127
+          ],
+          [
+            8.7973686,
+            40.1932052
+          ],
+          [
+            8.7973504,
+            40.1931928
+          ],
+          [
+            8.7973381,
+            40.1931767
+          ],
+          [
+            8.7973331,
+            40.1931585
+          ],
+          [
+            8.7973357,
+            40.19314
+          ],
+          [
+            8.7973458,
+            40.193123
+          ],
+          [
+            8.7973623,
+            40.1931093
+          ],
+          [
+            8.7973836,
+            40.1931002
+          ],
+          [
+            8.7974075,
+            40.1930966
+          ],
+          [
+            8.7974341,
+            40.1930995
+          ],
+          [
+            8.7974577,
+            40.1931091
+          ],
+          [
+            8.7974757,
+            40.1931243
+          ]
+        ]
+      },
+      "id": "osm-location-of-nuraghe-su-figu",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nuraghe su Figu",
+        "link": "http://pleiades.stoa.org/places/764913387/osm-location-of-nuraghe-su-figu"
+      }
+    }
+  ]
+}

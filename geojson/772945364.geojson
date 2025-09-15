@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castle of Paralio Astros",
+  "id": "772945364",
+  "bbox": [
+    22.7670252,
+    37.4183621,
+    22.7670252,
+    37.4183621
+  ],
+  "description": "A ruined fortification at the modern Greek town of Paralio Astros that dates to the 17th or 18th century CE.",
+  "names": [
+    "Paralio Astros Castle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7670252,
+          37.4183621
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7670252,
+          37.4183621
+        ]
+      },
+      "id": "osm-location-castle-of-paralio-astros",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Castle of Paralio Astros",
+        "link": "http://pleiades.stoa.org/places/772945364/osm-location-castle-of-paralio-astros"
+      }
+    }
+  ]
+}

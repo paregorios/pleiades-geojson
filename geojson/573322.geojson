@@ -1,28 +1,29 @@
 {
   "type": "FeatureCollection",
-  "title": "Kynouria",
+  "title": "Kynouria (Arcadia)",
   "id": "573322",
-  "description": "An ancient place, cited: BAtlas 58 unlocated Kynouria",
+  "bbox": [
+    21.8627659,
+    37.5275104,
+    22.313916,
+    37.629132
+  ],
+  "description": "An ancient region of western Arcadia. BAtlas declined to place it on the map, but New Pauly has it straddle the Alpheios river and include the cities of Gortys, Thisoa, Lycaea (Lykoa), and Alipheira (see also RE). ",
   "names": [
     "Kynouria"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0771892234,
+          37.5563952108
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/573322/batlas-location"
       }
     }
   ]

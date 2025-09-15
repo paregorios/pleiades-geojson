@@ -9,6 +9,9 @@
     37.529952
   ],
   "description": "An ancient place, cited: BAtlas 58 C2 Lykoa",
+  "connectsWith": [
+    "573322"
+  ],
   "names": [
     "Lykoa"
   ],

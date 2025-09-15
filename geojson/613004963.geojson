@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Zoilos",
+  "id": "613004963",
+  "description": "The House of Zoilos at Olynthus has a slightly irregular plan and includes, in addition to the domestic area, a zone identified as \"shops\".",
+  "connectsWith": [
+    "491678"
+  ],
+  "names": [
+    "House of Zoilos",
+    "House D v 6"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

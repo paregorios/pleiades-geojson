@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tumulus Tepe A, Pergamon",
+  "id": "625581619",
+  "bbox": [
+    27.1928587,
+    39.1167546,
+    27.1928587,
+    39.1167546
+  ],
+  "description": "Tumulus Tepe A at Pergamon is part of the UNESCO World Heritage Site \"Pergamon and its Multi-Layered Cultural Landscape\".",
+  "connectsWith": [
+    "550812"
+  ],
+  "names": [
+    "A Tepe Tumulus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1928587,
+          39.1167546
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1928587,
+          39.1167546
+        ]
+      },
+      "id": "osm-location-of-pergamon-tumulus-tepe-a",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pergamon, Tumulus Tepe A",
+        "link": "http://pleiades.stoa.org/places/625581619/osm-location-of-pergamon-tumulus-tepe-a"
+      }
+    }
+  ]
+}

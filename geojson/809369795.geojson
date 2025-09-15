@@ -9,6 +9,9 @@
     37.4111812
   ],
   "description": "An archaeological site located in the Surxondaryo Region of Uzbekistan, in proximity to the city of Termez. Its ancient identification is uncertain.",
+  "names": [
+    "Kampyrtep"
+  ],
   "features": [
     {
       "type": "Feature",

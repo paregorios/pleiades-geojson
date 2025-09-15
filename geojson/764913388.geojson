@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Villa of Good Fortune",
-  "id": "37482810",
+  "title": "Olynthus, House A 11",
+  "id": "764913388",
   "bbox": [
     23.3499242,
     40.2885794,
     23.3579721,
     40.3000133
   ],
-  "description": "A well-appointed \"villa\" at Olynthus excavated in 1934, the so-called \"Villa of Good Fortune\" was considered one of the two \"type\" houses for the ancient site. It was located in the southeastern part of the city in the so-called \"villa quarter\". Its remains are no longer visible.",
+  "description": "House A 11 describes the archaeological remains of an irregularly planned house located in ancient Olynthus. These Olynthian houses date after 432 BCE and are destroyed in 348 BCE.",
   "connectsWith": [
     "491678"
   ],
   "names": [
-    "Villa of Good Fortune"
+    "Olynthus"
   ],
   "features": [
     {

@@ -3,20 +3,23 @@
   "title": "Sillian milestone",
   "id": "167811471",
   "bbox": [
-    12.4172996,
-    46.7472651,
-    12.4172996,
-    46.7472651
+    12.417276,
+    46.7475295,
+    12.417276,
+    46.7475295
   ],
-  "description": null,
+  "description": "An uninscribed Roman milestone discovered in 1970 at Sillian, Tirol, Austria. The milestone corresponds to the 24th mile from Aguntum.",
+  "names": [
+    "Sillian Roman milestone"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4172996,
-          46.7472651
+          12.417276,
+          46.7475295
         ]
       },
       "properties": {
@@ -27,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4172996,
-          46.7472651
+          12.417276,
+          46.7475295
         ]
       },
       "id": "location-of-roman-milestone",
@@ -36,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman milestone",
+        "title": "OSM location of Römischer Meilenstein",
         "link": "http://pleiades.stoa.org/places/167811471/location-of-roman-milestone"
       }
     }
