@@ -9,6 +9,9 @@
     37.456838
   ],
   "description": "An ancient place, cited: BAtlas 99 D2 Zard Kamar",
+  "names": [
+    "Zard Kamar"
+  ],
   "features": [
     {
       "type": "Feature",

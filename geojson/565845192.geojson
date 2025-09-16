@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pergamon gymnasium",
+  "id": "565845192",
+  "bbox": [
+    27.1852699,
+    39.1264339,
+    27.1872834,
+    39.1275915
+  ],
+  "description": "The so-called Great Gymnasium of Pergamon was built in the second quarter of the second century BCE. The complex was then restored in the first century BCE.",
+  "connectsWith": [
+    "550812"
+  ],
+  "names": [
+    "großes Gymnasion von Pergamon"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.186272104,
+          39.1270133675
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.1859457,
+            39.1271432
+          ],
+          [
+            27.1858399,
+            39.127099
+          ],
+          [
+            27.1856317,
+            39.1270193
+          ],
+          [
+            27.1855551,
+            39.126987
+          ],
+          [
+            27.1853905,
+            39.1269109
+          ],
+          [
+            27.1852699,
+            39.1268503
+          ],
+          [
+            27.1855316,
+            39.1264339
+          ],
+          [
+            27.1856848,
+            39.1264989
+          ],
+          [
+            27.1857905,
+            39.1265415
+          ],
+          [
+            27.1860161,
+            39.1266409
+          ],
+          [
+            27.1861116,
+            39.1266771
+          ],
+          [
+            27.1871788,
+            39.1271297
+          ],
+          [
+            27.1872834,
+            39.1271688
+          ],
+          [
+            27.1869836,
+            39.1275915
+          ],
+          [
+            27.1859457,
+            39.1271432
+          ]
+        ]
+      },
+      "id": "osm-location-of-pergamon-gymnasium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pergamon gymnasium",
+        "link": "http://pleiades.stoa.org/places/565845192/osm-location-of-pergamon-gymnasium"
+      }
+    }
+  ]
+}
