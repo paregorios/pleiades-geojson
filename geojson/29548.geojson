@@ -8,8 +8,9 @@
     39.882216,
     29.803206
   ],
-  "description": "An ancient place, cited: BAtlas 3 C4 Dumatha",
+  "description": "A road station, possibly located at or en route to modern al-Ǧauf in Saudi Arabia, that epigraphic evidence from another location indicates was garrisoned by Roman soldiers during the Severan period.",
   "names": [
+    "al-Ǧauf",
     "Dumatha"
   ],
   "features": [
@@ -37,7 +38,7 @@
       "id": "darmc-location-19109",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19109",
         "link": "http://pleiades.stoa.org/places/29548/darmc-location-19109"

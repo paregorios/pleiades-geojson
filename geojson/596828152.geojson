@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Andros (medieval fortification)",
+  "id": "596828152",
+  "bbox": [
+    24.9435309,
+    37.8408836,
+    24.9435309,
+    37.8408836
+  ],
+  "description": null,
+  "connectsWith": [
+    "589693"
+  ],
+  "names": [
+    "Chora of Andros"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9435309,
+          37.8408836
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9435309,
+          37.8408836
+        ]
+      },
+      "id": "osm-location-lower-castle-of-andros",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap. Dates after CFL/AGO.",
+        "location_precision": "precise",
+        "title": "OSM Location: Lower Castle of Andros",
+        "link": "http://pleiades.stoa.org/places/596828152/osm-location-lower-castle-of-andros"
+      }
+    }
+  ]
+}

@@ -8,14 +8,16 @@
     28.980561,
     25.483192
   ],
-  "description": "An ancient place, cited: BAtlas 79 inset Mothis",
+  "description": "Mūṭ, known in antiquity as Mothis and today as Mūṭ al-Kharāb, a city of the Western Desert that served as a capital of the Dakhleh Oasis region since the Old Kingdom period. In the Late Antique period, it was the capital of the Mothite Nome.",
   "connectsWith": [
-    "776172"
+    "776172",
+    "776203"
   ],
   "names": [
     "Mothis",
     "Mothiton Polis",
-    "Mut"
+    "Mut",
+    "Mūṭ al-Ḫarāb"
   ],
   "features": [
     {

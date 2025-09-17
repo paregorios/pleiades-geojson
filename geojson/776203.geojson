@@ -2,27 +2,31 @@
   "type": "FeatureCollection",
   "title": "Mothites Nomos",
   "id": "776203",
-  "description": "An ancient place, cited: BAtlas 79 inset Mothites Nomos",
+  "bbox": [
+    28.980561,
+    25.483192,
+    29.0972878,
+    25.5193933
+  ],
+  "description": "The Mothite Nome, with its capital at Mothis (Mut), was separated from the Hibite Nome sometime around 300 CE. It comprised the area of the Dakhla Oasis.",
+  "connectsWith": [
+    "776182"
+  ],
   "names": [
     "Mothites Nomos"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.095215007,
+          25.5166514682
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/776203/undetermined"
       }
     }
   ]

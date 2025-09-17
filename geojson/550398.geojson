@@ -13,7 +13,8 @@
     "550944"
   ],
   "names": [
-    "Achaiion"
+    "Achaiion",
+    "Achaeum"
   ],
   "features": [
     {
@@ -40,7 +41,7 @@
       "id": "darmc-location-11161",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 11161",
         "link": "http://pleiades.stoa.org/places/550398/darmc-location-11161"

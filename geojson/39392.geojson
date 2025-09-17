@@ -3,10 +3,10 @@
   "title": "Nagara",
   "id": "39392",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.7963797748,
+    17.0484115597,
+    44.8755693555,
+    17.3186634955
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Nagara",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          44.3450803815,
+          17.2162627072
         ]
       },
       "properties": {
@@ -28,39 +28,43 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              15.0
+              43.796379774818924,
+              17.318663495511274
             ],
             [
-              40.0,
-              20.0
+              44.05721941623535,
+              17.280207617038457
             ],
             [
-              45.0,
-              20.0
+              44.26704239769698,
+              17.260929428314615
             ],
             [
-              45.0,
-              15.0
+              44.46020866419909,
+              17.200307700927056
             ],
             [
-              40.0,
-              15.0
+              44.651109853526634,
+              17.153696031673327
+            ],
+            [
+              44.87556935553063,
+              17.048411559674335
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39392/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39392/batlas-label-location"
       }
     }
   ]

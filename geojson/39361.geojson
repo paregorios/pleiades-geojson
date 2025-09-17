@@ -3,10 +3,10 @@
   "title": "Kinnamomophoros Chora",
   "id": "39361",
   "bbox": [
-    51.2836084,
-    11.8330631,
-    51.2836084,
-    11.8330631
+    47.8503108555,
+    10.8493098367,
+    50.8273863445,
+    11.3761344162
   ],
   "description": "Strabo dubs the territory around around Cape Guardafui as the \"Land of Cinnamon\".",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          51.2836084,
-          11.8330631
+          49.3544442471,
+          11.0356400901
         ]
       },
       "properties": {
@@ -32,39 +32,51 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              45.0,
-              10.0
+              47.850310855540556,
+              10.849309836676523
             ],
             [
-              45.0,
-              15.0
+              48.28219423144059,
+              10.879202831957754
             ],
             [
-              50.0,
-              15.0
+              48.91600943104459,
+              10.935264291011737
             ],
             [
-              50.0,
-              10.0
+              49.50997471682958,
+              11.029864560196621
             ],
             [
-              45.0,
-              10.0
+              49.94862042234553,
+              11.095967842893115
+            ],
+            [
+              50.26790550066931,
+              11.179113194594718
+            ],
+            [
+              50.55049998341771,
+              11.27311319308898
+            ],
+            [
+              50.82738634449314,
+              11.376134416235876
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39361/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39361/batlas-label-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Maritha (mountain)",
   "id": "39381",
   "bbox": [
-    45.0,
-    20.0,
-    50.0,
-    25.0
+    45.7897416099,
+    20.4902115405,
+    46.4476659072,
+    21.3784907041
   ],
   "description": "The Tuwayq escarpment.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          22.5
+          46.1094442558,
+          20.9413953099
         ]
       },
       "properties": {
@@ -28,39 +28,43 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              45.0,
-              20.0
+              45.789741609935334,
+              20.49021154047575
             ],
             [
-              45.0,
-              25.0
+              45.918268901580376,
+              20.687937793053194
             ],
             [
-              50.0,
-              25.0
+              46.0682788816526,
+              20.88819235363303
             ],
             [
-              50.0,
-              20.0
+              46.20558620398045,
+              21.07460675603529
             ],
             [
-              45.0,
-              20.0
+              46.32641157645149,
+              21.242725062499016
+            ],
+            [
+              46.44766590720834,
+              21.378490704105424
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39381/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39381/batlas-label-location"
       }
     }
   ]

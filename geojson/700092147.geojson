@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Istria Bent",
+  "id": "700092147",
+  "bbox": [
+    28.7119972,
+    44.5697806,
+    28.7119972,
+    44.5697806
+  ],
+  "description": "A settlement was identified through survey in the modern village of Istria. The settlement corresponds to the necropolis excavated by Vlad Zirra in 1970's.",
+  "names": [
+    "Istria Sat",
+    "Karanasuf",
+    "Caranasuf"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7119972,
+          44.5697806
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7119972,
+          44.5697806
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to site visit and prior literature.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/700092147/imagery-location"
+      }
+    }
+  ]
+}

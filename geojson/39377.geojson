@@ -3,10 +3,10 @@
   "title": "Mamaeum Litus",
   "id": "39377",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    42.1272808908,
+    16.364088496,
+    43.2773206945,
+    17.9354436908
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Mamaeum Litus",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          42.7817883433,
+          17.207480969
         ]
       },
       "properties": {
@@ -29,39 +29,67 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              15.0
+              42.12728089077967,
+              17.9354436907898
             ],
             [
-              40.0,
-              20.0
+              42.29024563061769,
+              17.794853572001934
             ],
             [
-              45.0,
-              20.0
+              42.416582741345685,
+              17.689968473403773
             ],
             [
-              45.0,
-              15.0
+              42.53191172788417,
+              17.573653853690487
             ],
             [
-              40.0,
-              15.0
+              42.654844779795425,
+              17.45600823628782
+            ],
+            [
+              42.7578171357557,
+              17.335349750944264
+            ],
+            [
+              42.85549090557713,
+              17.19932272389526
+            ],
+            [
+              43.03094296979325,
+              16.92190719164423
+            ],
+            [
+              43.097038870563836,
+              16.7909509892426
+            ],
+            [
+              43.15339439853436,
+              16.67313422513019
+            ],
+            [
+              43.214123173788565,
+              16.52689290048937
+            ],
+            [
+              43.277320694512014,
+              16.364088496014855
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39377/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39377/batlas-label-location"
       }
     }
   ]

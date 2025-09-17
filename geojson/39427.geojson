@@ -3,10 +3,10 @@
   "title": "Smyrnophoros Chora",
   "id": "39427",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    42.6131204174,
+    10.2342547824,
+    44.2199438372,
+    12.6458827532
   ],
   "description": "An ancient place, cited: BAtlas 4 B3 Smyrnophoros Chora",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          43.2515560189,
+          11.3280466664
         ]
       },
       "properties": {
@@ -28,39 +28,59 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              10.0
+              42.61312041744432,
+              12.645882753156036
             ],
             [
-              40.0,
-              15.0
+              42.705634458974934,
+              12.291596885370033
             ],
             [
-              45.0,
-              15.0
+              42.81404266654337,
+              11.965676791252731
             ],
             [
-              45.0,
-              10.0
+              42.944909710757244,
+              11.658804319492122
             ],
             [
-              40.0,
-              10.0
+              43.107803659124976,
+              11.341746821287146
+            ],
+            [
+              43.300669404412204,
+              11.059973217383218
+            ],
+            [
+              43.419089816095216,
+              10.924946003486301
+            ],
+            [
+              43.67610817925743,
+              10.652781468136318
+            ],
+            [
+              43.94487355115106,
+              10.433025432644584
+            ],
+            [
+              44.21994383724708,
+              10.234254782407346
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39427/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39427/batlas-label-location"
       }
     }
   ]

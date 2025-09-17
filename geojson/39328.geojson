@@ -3,10 +3,10 @@
   "title": "Chardaleon",
   "id": "39328",
   "bbox": [
-    40.0,
-    20.0,
-    45.0,
-    25.0
+    40.0025024457,
+    20.6929452364,
+    41.0520774411,
+    20.7303265585
   ],
   "description": "An ancient place, cited: BAtlas 4 B1 Chardaleon",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          22.5
+          40.5272899434,
+          20.7116358975
         ]
       },
       "properties": {
@@ -30,39 +30,27 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              20.0
+              40.00250244569723,
+              20.69294523641474
             ],
             [
-              40.0,
-              25.0
-            ],
-            [
-              45.0,
-              25.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              40.0,
-              20.0
+              41.05207744111445,
+              20.73032655848527
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39328/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39328/batlas-label-location"
       }
     }
   ]

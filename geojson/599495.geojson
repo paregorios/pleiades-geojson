@@ -3,10 +3,10 @@
   "title": "Antimachia",
   "id": "599495",
   "bbox": [
-    27.092059,
-    36.815804,
-    27.092059,
-    36.815804
+    27.0974999,
+    36.8112916,
+    27.0974999,
+    36.8112916
   ],
   "description": "An ancient settlement on the island of Kos.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.092059,
-          36.815804
+          27.0974999,
+          36.8112916
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.092059,
-          36.815804
+          27.0974999,
+          36.8112916
         ]
       },
-      "id": "darmc-location-11411",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 11411",
-        "link": "http://pleiades.stoa.org/places/599495/darmc-location-11411"
+        "title": "OSM Location",
+        "link": "http://pleiades.stoa.org/places/599495/osm-location"
       }
     }
   ]

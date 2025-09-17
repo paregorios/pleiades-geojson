@@ -3,10 +3,10 @@
   "title": "Apadana Palace",
   "id": "774842748",
   "bbox": [
-    52.8899175,
-    29.935762,
-    52.8899175,
-    29.935762
+    52.8886938,
+    29.9344643,
+    52.8903252,
+    29.9357489
   ],
   "description": "A monumental hypostyle building at Persepolis dating to the sixth century B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.8899175,
-          29.935762
+          52.8894969374,
+          29.9351174422
         ]
       },
       "properties": {
