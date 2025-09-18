@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Libyco-Punic Mausoleum of Dougga",
+  "id": "887623806",
+  "bbox": [
+    9.2201343,
+    36.420127,
+    9.2202302,
+    36.4202051
+  ],
+  "description": "A royal mausoleum, dating to the second century BCE, located at ancient Thugga (modern Dougga in Tunisia).",
+  "connectsWith": [
+    "315223"
+  ],
+  "names": [
+    "Mausoleum of Atban"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.22018225,
+          36.42016605
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2201473,
+            36.420127
+          ],
+          [
+            9.2202302,
+            36.4201373
+          ],
+          [
+            9.2202172,
+            36.4202051
+          ],
+          [
+            9.2201343,
+            36.4201948
+          ],
+          [
+            9.2201473,
+            36.420127
+          ]
+        ]
+      },
+      "id": "osm-location-punic-mausoleum",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Punic Mausoleum",
+        "link": "http://pleiades.stoa.org/places/887623806/osm-location-punic-mausoleum"
+      }
+    }
+  ]
+}

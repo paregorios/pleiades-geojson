@@ -9,6 +9,9 @@
     17.5906621071
   ],
   "description": "An ancient place, cited: BAtlas 4 D2 Libanophoros Chora",
+  "connectsWith": [
+    "39420"
+  ],
   "names": [
     "Libanophoros Chora",
     "Libanotophoros Chora"

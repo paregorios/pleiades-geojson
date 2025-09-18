@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Park of the Roman Villas at Carthage",
+  "id": "719445553",
+  "bbox": [
+    10.330076,
+    36.8563475,
+    10.3332989,
+    36.8591573
+  ],
+  "description": "An excavated section of Roman Carthage containing blocks (insulae) of townhouses organized on a grid.",
+  "connectsWith": [
+    "314921"
+  ],
+  "names": [
+    "Le parc des villas romaines",
+    "hadiqat almanazil alruwmania"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3315939953,
+          36.8577932299
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.3332989,
+            36.858369
+          ],
+          [
+            10.3315428,
+            36.8563475
+          ],
+          [
+            10.3311617,
+            36.8566007
+          ],
+          [
+            10.330505,
+            36.8569493
+          ],
+          [
+            10.330076,
+            36.8571589
+          ],
+          [
+            10.3302541,
+            36.8579514
+          ],
+          [
+            10.3303116,
+            36.8581264
+          ],
+          [
+            10.3307454,
+            36.8579182
+          ],
+          [
+            10.3316471,
+            36.8591573
+          ],
+          [
+            10.3317725,
+            36.8590975
+          ],
+          [
+            10.3332989,
+            36.858369
+          ]
+        ]
+      },
+      "id": "osm-location-park-of-the-roman-villas",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Park of the Roman Villas",
+        "link": "http://pleiades.stoa.org/places/719445553/osm-location-park-of-the-roman-villas"
+      }
+    }
+  ]
+}

@@ -3,14 +3,15 @@
   "title": "Melan (mountain)",
   "id": "39384",
   "bbox": [
-    45.0,
-    10.0,
-    50.0,
-    15.0
+    45.9900686995,
+    13.6313019164,
+    47.1443156111,
+    13.8546948581
   ],
   "description": "A mountain west of Ahwar.",
   "names": [
-    "Melan"
+    "Melan",
+    "Melan Mons"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          12.5
+          46.5632063175,
+          13.7633657049
         ]
       },
       "properties": {
@@ -28,39 +29,59 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              45.0,
-              10.0
+              45.99006869948178,
+              13.631301916359533
             ],
             [
-              45.0,
-              15.0
+              46.16933409623451,
+              13.684724337551788
             ],
             [
-              50.0,
-              15.0
+              46.25574773276109,
+              13.707902330480712
             ],
             [
-              50.0,
-              10.0
+              46.37047248444583,
+              13.733395302411756
             ],
             [
-              45.0,
-              10.0
+              46.492734777395825,
+              13.758527554624806
+            ],
+            [
+              46.59684406270647,
+              13.780074049479968
+            ],
+            [
+              46.70757015911173,
+              13.798720185180638
+            ],
+            [
+              46.84861872270497,
+              13.823448171494094
+            ],
+            [
+              46.99216539295938,
+              13.838621576943932
+            ],
+            [
+              47.14431561108195,
+              13.854694858091545
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39384/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39384/batlas-label-location"
       }
     }
   ]

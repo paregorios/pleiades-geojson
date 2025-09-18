@@ -3,10 +3,10 @@
   "title": "Lathinat",
   "id": "39366",
   "bbox": [
-    45.0,
-    10.0,
-    50.0,
-    15.0
+    46.8825615904,
+    14.3197587041,
+    47.9611704535,
+    14.614363406
   ],
   "description": "An ancient place, cited: BAtlas 4 C3 Lathinat",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          12.5
+          47.4289616667,
+          14.4401886952
         ]
       },
       "properties": {
@@ -28,39 +28,51 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              45.0,
-              10.0
+              46.88256159040168,
+              14.319758704083734
             ],
             [
-              45.0,
-              15.0
+              47.07529065085662,
+              14.342291293828275
             ],
             [
-              50.0,
-              15.0
+              47.21919262599082,
+              14.372323853475125
             ],
             [
-              50.0,
-              10.0
+              47.37289154055418,
+              14.412137241029933
             ],
             [
-              45.0,
-              10.0
+              47.505149220977906,
+              14.448277395461723
+            ],
+            [
+              47.64699827573522,
+              14.496123274800098
+            ],
+            [
+              47.788193810939596,
+              14.541806291142555
+            ],
+            [
+              47.96117045351906,
+              14.61436340602534
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39366/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39366/batlas-label-location"
       }
     }
   ]

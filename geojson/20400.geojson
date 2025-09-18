@@ -9,6 +9,9 @@
     55.598525
   ],
   "description": "An ancient place, cited: BAtlas 2 H2 Aukštakiemiai, Palanga, Šernai",
+  "names": [
+    "Aukštakiemiai"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Karpates Oros",
   "id": "1063",
   "bbox": [
-    20.1339111,
-    49.163951,
-    20.1339111,
-    49.163951
+    20.1340595,
+    49.1640319,
+    20.1340595,
+    49.1640319
   ],
   "description": "An ancient place, cited: BAtlas 1 H1 Karpates Oros",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.1339111,
-          49.163951
+          20.1340595,
+          49.1640319
         ]
       },
       "properties": {
@@ -68,8 +68,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.1339111,
-          49.163951
+          20.1340595,
+          49.1640319
         ]
       },
       "id": "osm-location-of-gerlachovsky-stit",

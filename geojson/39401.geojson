@@ -3,10 +3,10 @@
   "title": "Odanda",
   "id": "39401",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    42.8647071862,
+    15.1942361388,
+    43.3461636581,
+    15.2726084927
   ],
   "description": "A portion of the Arabian desert located in what is now Yemen.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          43.1097131124,
+          15.2538906251
         ]
       },
       "properties": {
@@ -28,39 +28,43 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              15.0
+              42.86470718620733,
+              15.256185019639585
             ],
             [
-              40.0,
-              20.0
+              42.98450743311106,
+              15.27235512917688
             ],
             [
-              45.0,
-              20.0
+              43.06050161479867,
+              15.272608492730319
             ],
             [
-              45.0,
-              15.0
+              43.152703646744364,
+              15.264188436074443
             ],
             [
-              40.0,
-              15.0
+              43.23777641359217,
+              15.245335804434625
+            ],
+            [
+              43.34616365806266,
+              15.194236138751847
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39401/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39401/batlas-label-location"
       }
     }
   ]

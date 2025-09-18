@@ -3,15 +3,17 @@
   "title": "Sachalitis",
   "id": "39420",
   "bbox": [
-    50.0,
-    15.0,
-    55.0,
-    20.0
+    52.1690776214,
+    16.5383572059,
+    54.4225326307,
+    17.2301976319
   ],
-  "description": "An ancient place, cited: BAtlas 4 D2 Sachalitis",
+  "description": "An area on the southern coast of the Arabian peninsula mentioned in Roman sources. It probably lay between modern Ras Fartak in Yemen and Ras Mirbat in Oman.",
   "names": [
     "Sachalitis",
-    "Sacamum"
+    "Sacamum",
+    "Ras Fartak",
+    "Ras Mirbat"
   ],
   "features": [
     {
@@ -19,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.5,
-          17.5
+          53.262265408,
+          16.9916521285
         ]
       },
       "properties": {
@@ -29,39 +31,59 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              50.0,
-              15.0
+              52.169077621391374,
+              16.53835720585681
             ],
             [
-              50.0,
-              20.0
+              52.41389808456987,
+              16.678481147065206
             ],
             [
-              55.0,
-              20.0
+              52.66168343958387,
+              16.828124631720453
             ],
             [
-              55.0,
-              15.0
+              52.90640671672754,
+              16.94161643589444
             ],
             [
-              50.0,
-              15.0
+              53.18118407115074,
+              17.02157547890785
+            ],
+            [
+              53.42960571031634,
+              17.09899235311994
+            ],
+            [
+              53.680132100957,
+              17.153561720802205
+            ],
+            [
+              53.912110999760785,
+              17.190207051702746
+            ],
+            [
+              54.15831500151728,
+              17.217836601229656
+            ],
+            [
+              54.42253263065249,
+              17.230197631904797
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39420/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39420/batlas-label-location"
       }
     }
   ]

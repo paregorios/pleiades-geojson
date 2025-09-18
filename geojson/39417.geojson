@@ -3,12 +3,12 @@
   "title": "Saba",
   "id": "39417",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    43.874695956,
+    14.2167124299,
+    44.5559417688,
+    14.7172944591
   ],
-  "description": "An ancient people of south Arabia.",
+  "description": "An ancient people of south Arabia and the region they inhabited during a period contemporaneous with the Greek Hellenistic and Roman Republic.",
   "names": [
     "Saba",
     "Sabaeans"
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.2262641124,
+          14.451408898
         ]
       },
       "properties": {
@@ -29,39 +29,35 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              40.0,
-              10.0
+              43.87469595599088,
+              14.216712429907409
             ],
             [
-              40.0,
-              15.0
+              44.11817735687472,
+              14.353006620621729
             ],
             [
-              45.0,
-              15.0
+              44.31693776822403,
+              14.511119291394186
             ],
             [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
+              44.55594176876647,
+              14.7172944591301
             ]
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39417/batlas-location"
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39417/batlas-label-location"
       }
     }
   ]

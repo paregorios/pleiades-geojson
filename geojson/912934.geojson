@@ -5,18 +5,21 @@
   "bbox": [
     49.681754,
     32.047378,
-    49.681754,
-    32.047378
+    49.6989186,
+    32.0593121
   ],
-  "description": "An ancient place, cited: BAtlas 93 F1 Shami",
+  "description": "Site in the Shami Valley (Khuzestan Province, Iran), a settlement or sanctuary of the Parthian period (ca. 2nd century BCE-2nd century CE). In 1936, a team led by Marc Aurel Stein uncovered a bronze sculpture (the \"Shami statue\") at the site.",
+  "names": [
+    "Kal-e Chendar"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          49.681754,
-          32.047378
+          49.6903363,
+          32.05334505
         ]
       },
       "properties": {
@@ -38,6 +41,23 @@
         "location_precision": "precise",
         "title": "DARMC location 21868",
         "link": "http://pleiades.stoa.org/places/912934/darmc-location-21868"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.6989186,
+          32.0593121
+        ]
+      },
+      "id": "kal-e-chendar-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the North Terrace at Kal-e Chendar, derived from an Open Streetmap Node after Messina 2025.",
+        "location_precision": "precise",
+        "title": "OSM location of Kal-e Chendar",
+        "link": "http://pleiades.stoa.org/places/912934/kal-e-chendar-1"
       }
     }
   ]

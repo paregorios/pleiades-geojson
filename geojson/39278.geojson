@@ -3,8 +3,8 @@
   "title": "Aithiopika (mountain)",
   "id": "39278",
   "bbox": [
-    41.385556,
-    12.533333,
+    37.6896992224,
+    9.42377373873,
     41.385556,
     12.533333
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.385556,
-          12.533333
+          40.1220167114,
+          11.4987705718
         ]
       },
       "properties": {
@@ -41,6 +41,91 @@
         "location_precision": "precise",
         "title": "Geohack location of Etheopian Highlands",
         "link": "http://pleiades.stoa.org/places/39278/geohack-location-of-etheopian-highlands"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              37.68969922241376,
+              9.423773738729839
+            ],
+            [
+              37.88860492746369,
+              9.503142665511314
+            ],
+            [
+              38.034304276363606,
+              9.586227102087953
+            ],
+            [
+              38.20690803651583,
+              9.69507697147033
+            ],
+            [
+              38.3557511137242,
+              9.781903067422048
+            ],
+            [
+              38.50868432626861,
+              9.90419847148185
+            ],
+            [
+              38.66125201722712,
+              10.029765930808733
+            ],
+            [
+              38.79022934160945,
+              10.150910939181694
+            ],
+            [
+              38.89895591036401,
+              10.26830535052368
+            ],
+            [
+              39.04359087818618,
+              10.44097385880335
+            ],
+            [
+              39.198627555573026,
+              10.674805623676468
+            ],
+            [
+              39.27769601091772,
+              10.842671540438685
+            ],
+            [
+              39.362080389829764,
+              11.060483367331837
+            ],
+            [
+              39.43984655732459,
+              11.277203996739138
+            ],
+            [
+              39.49520513267484,
+              11.46204663297347
+            ],
+            [
+              39.532246612203245,
+              11.650763132178556
+            ],
+            [
+              39.58074515038283,
+              11.855604456834373
+            ]
+          ]
+        ]
+      },
+      "id": "batlas-label-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Label centerline extracted using QGIS from raster image of BAtlas Map 4 that was digitized and georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39278/batlas-label-location"
       }
     }
   ]
