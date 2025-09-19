@@ -9,6 +9,10 @@
     53.852747
   ],
   "description": "An ancient place, cited: BAtlas 2 G3 Ciepłe",
+  "names": [
+    "Ciepłe",
+    "Warmhof"
+  ],
   "features": [
     {
       "type": "Feature",

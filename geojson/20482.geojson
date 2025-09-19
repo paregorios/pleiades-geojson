@@ -9,6 +9,9 @@
     57.10587
   ],
   "description": "An ancient place, cited: BAtlas 2 G2 Havor",
+  "names": [
+    "Havor"
+  ],
   "features": [
     {
       "type": "Feature",

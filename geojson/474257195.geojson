@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Dolmen of the four Maols",
+  "id": "474257195",
+  "bbox": [
+    -9.1658726,
+    54.106958,
+    -9.1657841,
+    54.1070535
+  ],
+  "description": "\"The Dolmen of the four Maols\" is a cist and dolmen tomb in County Mayo, Ireland.",
+  "connectsWith": [
+    "20487"
+  ],
+  "names": [
+    "Dolmen of the Four Maols"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.16582828046,
+          54.1070063821
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.1658726,
+            54.107039
+          ],
+          [
+            -9.1658693,
+            54.107013
+          ],
+          [
+            -9.1658632,
+            54.1069895
+          ],
+          [
+            -9.1658505,
+            54.1069674
+          ],
+          [
+            -9.165825,
+            54.106958
+          ],
+          [
+            -9.1657989,
+            54.1069623
+          ],
+          [
+            -9.1657855,
+            54.1069788
+          ],
+          [
+            -9.1657841,
+            54.1070087
+          ],
+          [
+            -9.1657969,
+            54.1070311
+          ],
+          [
+            -9.1658116,
+            54.1070472
+          ],
+          [
+            -9.1658237,
+            54.1070508
+          ],
+          [
+            -9.1658492,
+            54.1070535
+          ],
+          [
+            -9.1658726,
+            54.107039
+          ]
+        ]
+      },
+      "id": "osm-location-of-dolmen-of-the-four-maols",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Dolmen of the four Maols",
+        "link": "http://pleiades.stoa.org/places/474257195/osm-location-of-dolmen-of-the-four-maols"
+      }
+    }
+  ]
+}

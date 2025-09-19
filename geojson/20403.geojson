@@ -9,6 +9,9 @@
     59.362929
   ],
   "description": "An ancient place, cited: BAtlas 2 E2 Avaldsnes",
+  "names": [
+    "Avaldsnes"
+  ],
   "features": [
     {
       "type": "Feature",

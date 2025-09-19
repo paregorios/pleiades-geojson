@@ -9,6 +9,9 @@
     60.052879
   ],
   "description": "An ancient place, cited: BAtlas 2 G2 Gödåker",
+  "names": [
+    "Gödåker"
+  ],
   "features": [
     {
       "type": "Feature",

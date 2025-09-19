@@ -9,6 +9,10 @@
     56.2959377
   ],
   "description": "An ancient place, cited: BAtlas 2 G2 Eketorp",
+  "names": [
+    "Eketorp",
+    "Eketorp Fort"
+  ],
   "features": [
     {
       "type": "Feature",

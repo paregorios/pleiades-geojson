@@ -9,6 +9,9 @@
     55.078983
   ],
   "description": "An ancient place, cited: BAtlas 2 G2 Enekrogen, Kannikegård, Slamrebjerg, Slusegård",
+  "names": [
+    "Enekrogen"
+  ],
   "features": [
     {
       "type": "Feature",
