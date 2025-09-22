@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "balineum Bolani",
+  "id": "684387488",
+  "description": "A bath complex mentioned only in the regionary catalog for regio I of ancient Rome. Its patron may have been M. Vettius Bolanus (suffect consul in 66 CE), the same individual known for property holdings in Trastevere.",
+  "connectsWith": [
+    "423025",
+    "307963010"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

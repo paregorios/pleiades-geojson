@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Abric Pizarro",
+  "id": "451216167",
+  "bbox": [
+    0.7174509,
+    41.9512461,
+    0.7174509,
+    41.9512461
+  ],
+  "description": "Abric Pizarro is a prehistoric rock shelter located in the Spanish Pyrenees near the modern geopolitical border between Spain and France. Archaeological evidence shows that Neanderthals occupied the site for some 40,000 years, notably during the MIS 4 period, which lasted from around 71,000 to 57,000 years ago.",
+  "names": [
+    "Abric Pizarro"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7174509,
+          41.9512461
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7174509,
+          41.9512461
+        ]
+      },
+      "id": "osm-location-of-abric-pizarro",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Abric Pizarro",
+        "link": "http://pleiades.stoa.org/places/451216167/osm-location-of-abric-pizarro"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     61.36389
   ],
   "description": "An ancient place, cited: BAtlas 2 G1 Kungsgården",
+  "names": [
+    "Kungsgården"
+  ],
   "features": [
     {
       "type": "Feature",

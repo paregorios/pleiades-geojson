@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Insula Bolani",
+  "id": "380560976",
+  "description": "The Insula Bolani was the property of one M. Vettius Bolanus, who was a Roman consul prior to 69 CE.",
+  "connectsWith": [
+    "217953464",
+    "423025"
+  ],
+  "names": [
+    "insula Bolani"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

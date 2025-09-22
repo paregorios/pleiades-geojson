@@ -9,6 +9,9 @@
     55.845907
   ],
   "description": "An ancient place, cited: BAtlas 2 F2 Kirkebakkegård",
+  "names": [
+    "Kirkebakkegård"
+  ],
   "features": [
     {
       "type": "Feature",

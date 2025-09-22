@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Molpír",
+  "id": "380560977",
+  "bbox": [
+    17.4251627,
+    48.5116109,
+    17.4251627,
+    48.5116109
+  ],
+  "description": "Fortified settlement located near the modern village of Smolenice, Slovakia containing signs of habitation from the Eneolithic period through the Middle Ages, with an apparent peak during the Halstatt period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4251627,
+          48.5116109
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4251627,
+          48.5116109
+        ]
+      },
+      "id": "hradisko-molpir-narodna-kulturna-pamiatka",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Molpír archaeological site, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of Hradisko Molpír",
+        "link": "http://pleiades.stoa.org/places/380560977/hradisko-molpir-narodna-kulturna-pamiatka"
+      }
+    }
+  ]
+}
