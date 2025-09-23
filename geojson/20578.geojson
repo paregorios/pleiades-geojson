@@ -9,6 +9,10 @@
     54.835867
   ],
   "description": "An ancient place, cited: BAtlas 2 H3 Povarovka",
+  "names": [
+    "Povarovka",
+    "Kirpehnen"
+  ],
   "features": [
     {
       "type": "Feature",

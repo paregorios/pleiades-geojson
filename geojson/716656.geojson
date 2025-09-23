@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Zygris",
+  "title": "Zygris (Marsa Baqqush)",
   "id": "716656",
   "bbox": [
-    26.409102,
-    31.506636,
-    26.409102,
-    31.506636
+    27.668336,
+    31.179258,
+    27.668336,
+    31.179258
   ],
-  "description": "An ancient place, cited: None",
+  "description": "An ancient anchorage and settlement on the Mediterranean coast of modern Egypt mentioned by Ptolemy and in the Stadiasmus Maris Magni. Zygris has been identified since the early 20th century with a small, reef-walled bay whose name, Marsa Baqqush, has since come to denote the larger bay of which the Zygris anchorage is a part. Multiple ancient wrecks have been identified within and just outside this anchorage, and an extensive system of interconnected rock-cut cisterns, elliptically mentioned in the Stadiasmus, has been identified ashore.",
   "names": [
     "Zygris"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.409102,
-          31.506636
+          27.668336,
+          31.179258
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.409102,
-          31.506636
+          27.668336,
+          31.179258
         ]
       },
-      "id": "darmc-location-830",
+      "id": "imagery-location-of-marsa-baqqush",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location verified in Google Earth with reference to coordinates and figures in Khalil 2024.",
         "location_precision": "precise",
-        "title": "DARMC location 830",
-        "link": "http://pleiades.stoa.org/places/716656/darmc-location-830"
+        "title": "Imagery Location of Marsa Baqqush",
+        "link": "http://pleiades.stoa.org/places/716656/imagery-location-of-marsa-baqqush"
       }
     }
   ]

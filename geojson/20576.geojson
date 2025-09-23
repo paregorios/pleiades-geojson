@@ -9,6 +9,9 @@
     53.1493864
   ],
   "description": "An ancient place, cited: BAtlas 2 G3 Piła",
+  "names": [
+    "Piła"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -31,13 +34,13 @@
           53.1493864
         ]
       },
-      "id": "location-of-pi142a",
+      "id": "osm-location-of-pi142a",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Piła",
-        "link": "http://pleiades.stoa.org/places/20576/location-of-pi142a"
+        "title": "OSM location of Piła",
+        "link": "http://pleiades.stoa.org/places/20576/osm-location-of-pi142a"
       }
     }
   ]

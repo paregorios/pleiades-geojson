@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theater at Bulla Regia",
+  "id": "379945241",
+  "bbox": [
+    8.75676,
+    36.5586023,
+    8.7574798,
+    36.5591016
+  ],
+  "description": "The Roman Theater at Bulla Regia dates to the reign of Marcus Aurelius.",
+  "connectsWith": [
+    "314912"
+  ],
+  "names": [
+    "Theatre of Bulla Regia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75708672636,
+          36.5588756294
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7573801,
+            36.5589674
+          ],
+          [
+            8.7574135,
+            36.5589824
+          ],
+          [
+            8.7574798,
+            36.5588785
+          ],
+          [
+            8.7568717,
+            36.5586023
+          ],
+          [
+            8.7567994,
+            36.5587061
+          ],
+          [
+            8.75676,
+            36.5588054
+          ],
+          [
+            8.7567705,
+            36.5589093
+          ],
+          [
+            8.7568297,
+            36.5590021
+          ],
+          [
+            8.7569286,
+            36.5590696
+          ],
+          [
+            8.7570521,
+            36.5591016
+          ],
+          [
+            8.7571814,
+            36.5590931
+          ],
+          [
+            8.7572969,
+            36.5590456
+          ],
+          [
+            8.7573801,
+            36.5589674
+          ]
+        ]
+      },
+      "id": "osm-location-theater-at-bulla-regia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Theater at Bulla Regia",
+        "link": "http://pleiades.stoa.org/places/379945241/osm-location-theater-at-bulla-regia"
+      }
+    }
+  ]
+}

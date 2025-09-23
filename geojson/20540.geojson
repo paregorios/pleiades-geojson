@@ -9,6 +9,9 @@
     54.015643
   ],
   "description": "An ancient place, cited: BAtlas 2 G3 Malbork-Wielbark",
+  "names": [
+    "Malbork-Wielbark"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Asklepieion of Messene",
   "id": "52154983",
   "bbox": [
-    21.920524,
-    37.175372,
-    21.920524,
-    37.175372
+    21.9197686,
+    37.1745434,
+    21.9213289,
+    37.1762253
   ],
   "description": "The Asklepieion in Ancient Messene is a sanctuary of Asklepios, the Greek god of healing, constructed in 214 BC. The complex includes civic as well as sacred buildings",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.920524,
-          37.175372
+          21.9204155216,
+          37.1754398622
         ]
       },
       "properties": {
@@ -28,19 +28,69 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          21.920524,
-          37.175372
+          [
+            21.9199105,
+            37.1762253
+          ],
+          [
+            21.9211585,
+            37.1758819
+          ],
+          [
+            21.9211284,
+            37.1758158
+          ],
+          [
+            21.9213289,
+            37.1757606
+          ],
+          [
+            21.9210226,
+            37.1750398
+          ],
+          [
+            21.9206411,
+            37.175141
+          ],
+          [
+            21.9203658,
+            37.1745434
+          ],
+          [
+            21.9198071,
+            37.1747138
+          ],
+          [
+            21.9200649,
+            37.1753042
+          ],
+          [
+            21.9198357,
+            37.1753667
+          ],
+          [
+            21.9200612,
+            37.175877
+          ],
+          [
+            21.9197686,
+            37.1759718
+          ],
+          [
+            21.9199105,
+            37.1762253
+          ]
         ]
       },
-      "id": "the-asklepieion",
+      "id": "osm-location-messene-asclepeion",
       "type": "Feature",
       "properties": {
-        "description": "The Asklepieion in Ancient Messene is a sanctuary of Asklepios, Greek god of healing, constructed in 214 BC; the complex includes civic as well as religious buildings",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Asklepieion of Messene",
-        "link": "http://pleiades.stoa.org/places/52154983/the-asklepieion"
+        "title": "OSM Location: Messene Asclepeion",
+        "link": "http://pleiades.stoa.org/places/52154983/osm-location-messene-asclepeion"
       }
     }
   ]

@@ -23,29 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.7543277772,
-          36.5594198446
+          8.75454455441,
+          36.5587966892
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.754111,
-          36.560043
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/314912/dare-location"
       }
     },
     {
