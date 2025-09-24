@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tel Dover",
+  "id": "251529383",
+  "bbox": [
+    35.6279271,
+    32.6828345,
+    35.6315213,
+    32.6845592
+  ],
+  "description": "Settlement on the Yarmuk River in the southern Golan, approximately 5 km south of the Sea of Galilee, consisting of a round tell and a lower terrace covering approximately two hectares. The site contains signs of habitation from the Late Bronze Age through the Iron Age (ca. 15th-8th centuries BCE).",
+  "names": [
+    "Khirbet ed-Duweir"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6297193046,
+          32.6838425224
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.6282061,
+            32.6834666
+          ],
+          [
+            35.6280666,
+            32.6834846
+          ],
+          [
+            35.6279271,
+            32.6837104
+          ],
+          [
+            35.6279271,
+            32.6839091
+          ],
+          [
+            35.6279378,
+            32.6840806
+          ],
+          [
+            35.6281846,
+            32.6842973
+          ],
+          [
+            35.6282704,
+            32.6844238
+          ],
+          [
+            35.628485,
+            32.6844509
+          ],
+          [
+            35.6288069,
+            32.6845141
+          ],
+          [
+            35.6289571,
+            32.6845321
+          ],
+          [
+            35.6291931,
+            32.684198
+          ],
+          [
+            35.6295042,
+            32.6839723
+          ],
+          [
+            35.6295579,
+            32.683882
+          ],
+          [
+            35.6303411,
+            32.684189
+          ],
+          [
+            35.6313174,
+            32.6845592
+          ],
+          [
+            35.6315213,
+            32.68418
+          ],
+          [
+            35.630384,
+            32.6829157
+          ],
+          [
+            35.6301587,
+            32.6828345
+          ],
+          [
+            35.6299763,
+            32.6830151
+          ],
+          [
+            35.6297295,
+            32.6835298
+          ],
+          [
+            35.6287961,
+            32.6835479
+          ],
+          [
+            35.6283241,
+            32.6834305
+          ],
+          [
+            35.6282061,
+            32.6834666
+          ]
+        ]
+      },
+      "id": "tel-dover",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains at Tel Dover, derived from an OpenStreetMap after Golani 2025.",
+        "location_precision": "precise",
+        "title": "Tel Dover",
+        "link": "http://pleiades.stoa.org/places/251529383/tel-dover"
+      }
+    }
+  ]
+}

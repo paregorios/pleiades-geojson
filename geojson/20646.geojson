@@ -9,6 +9,9 @@
     52.66284
   ],
   "description": "An ancient place, cited: BAtlas 2 F3 Wilhelmsaue",
+  "names": [
+    "Wilhelmsaue"
+  ],
   "features": [
     {
       "type": "Feature",

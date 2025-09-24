@@ -1,13 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Ausoba",
+  "title": "Ausoba (river)",
   "id": "21897",
   "description": "An ancient place, cited: BAtlas 2 unlocated Ausoba",
   "connectsWith": [
     "20487"
   ],
   "names": [
-    "Ausoba"
+    "Ausoba",
+    "Afsóva potamoú ekvolaí"
   ],
   "features": [
     {

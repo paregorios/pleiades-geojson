@@ -3,6 +3,9 @@
   "title": "Laberos",
   "id": "83854",
   "description": "An ancient place, cited: BAtlas 8 unlocated Laberos",
+  "connectsWith": [
+    "20487"
+  ],
   "names": [
     "Laberos"
   ],

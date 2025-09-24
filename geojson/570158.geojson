@@ -3,12 +3,12 @@
   "title": "Boreion (mountain)",
   "id": "570158",
   "bbox": [
-    22.0,
-    37.0,
-    22.5,
-    37.5
+    22.25133,
+    37.42096,
+    22.25133,
+    37.42096
   ],
-  "description": "Mt. Gravari.",
+  "description": "A mountain in Arcadia above Asea, perhaps Mt. Gravari.",
   "names": [
     "Boreion"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.25,
-          37.25
+          22.25133,
+          37.42096
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              22.0,
-              37.0
-            ],
-            [
-              22.0,
-              37.5
-            ],
-            [
-              22.5,
-              37.5
-            ],
-            [
-              22.5,
-              37.0
-            ],
-            [
-              22.0,
-              37.0
-            ]
-          ]
+          22.25133,
+          37.42096
         ]
       },
-      "id": "batlas-location",
+      "id": "topostext-location-of-boreion-mountain-arkadia",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/570158/batlas-location"
+        "description": "Coordinates following ToposText",
+        "location_precision": "precise",
+        "title": "ToposText location of Boreion mountain (Arkadia)",
+        "link": "http://pleiades.stoa.org/places/570158/topostext-location-of-boreion-mountain-arkadia"
       }
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Li Schiavoni (Nardò, Lecce)",
+  "id": "839402399",
+  "bbox": [
+    17.908618,
+    40.2969371,
+    17.908618,
+    40.2969371
+  ],
+  "description": "Li Schiavoni is the site of a fortified Messapic center that flourished in the mid-first millennium BCE.",
+  "names": [
+    "Li Schiavoni"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.908618,
+          40.2969371
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.908618,
+          40.2969371
+        ]
+      },
+      "id": "osm-location-of-li-schiavoni",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Li Schiavoni",
+        "link": "http://pleiades.stoa.org/places/839402399/osm-location-of-li-schiavoni"
+      }
+    }
+  ]
+}

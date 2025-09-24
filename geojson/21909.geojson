@@ -3,6 +3,9 @@
   "title": "Magnata",
   "id": "21909",
   "description": "An ancient place, cited: BAtlas 2 unlocated Magnata",
+  "connectsWith": [
+    "20487"
+  ],
   "names": [
     "Magnata"
   ],

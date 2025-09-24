@@ -3,6 +3,9 @@
   "title": "Bassachis regio",
   "id": "718016",
   "description": "An ancient place, cited: None",
+  "connectsWith": [
+    "376763"
+  ],
   "names": [
     "Bassachis regio"
   ],

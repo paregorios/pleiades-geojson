@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Cavares",
+  "title": "Cavares (confederation)",
   "id": "148043",
   "bbox": [
     4.84947206057,
@@ -8,7 +8,7 @@
     5.07504496392,
     43.9380060753
   ],
-  "description": "An ancient people, tribe, or cultural group. Located: confederation.",
+  "description": "The Cavares tribe led a Gallic confederation that included the Tricastini, the Segovellauni, and the Memini.",
   "names": [
     "Cavares"
   ],

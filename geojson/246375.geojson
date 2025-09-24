@@ -4,8 +4,8 @@
   "id": "246375",
   "bbox": [
     2.838613,
-    42.4826856,
-    2.8422807,
+    42.4826755,
+    2.8423901,
     42.485781
   ],
   "description": "Remains of fortifications dating to the Late Roman period.",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.84044685,
-          42.4842333
+          2.8410946,
+          42.4837140333
         ]
       },
       "properties": {
@@ -61,6 +61,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/246375/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8423901,
+          42.4826755
+        ]
+      },
+      "id": "osm-location-of-ruines-romaines",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ruines Romaines",
+        "link": "http://pleiades.stoa.org/places/246375/osm-location-of-ruines-romaines"
       }
     }
   ]

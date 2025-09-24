@@ -8,7 +8,7 @@
     -6.7046012,
     57.8791931
   ],
-  "description": "(H)Ebudes Inss. (modern Inner Hebrides), an archipelago off the west coast of Scotland.",
+  "description": "An archipelago off the west coast of Scotland, whence the modern name Hebrides. Pliny numbers 30 islands among the Hebudes, whereas Ptolemy counts five among the Eboudai. Ptolemy's coordinates most closely match with the modern islands of Islay, Jura, Rathlin, Mull, and the Kintyre peninsula, but comprehensive and conclusive names and identifications in antiquity remain elusive and controversial.",
   "names": [
     "Hebudes",
     "Ebudes"
@@ -105,13 +105,13 @@
           ]
         ]
       },
-      "id": "location-of-scalpay-inner-hebrides",
+      "id": "osm-location-of-scalpay-inner-hebrides",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Scalpay, Inner Hebrides",
-        "link": "http://pleiades.stoa.org/places/89198/location-of-scalpay-inner-hebrides"
+        "title": "OSM location of Scalpay, Inner Hebrides",
+        "link": "http://pleiades.stoa.org/places/89198/osm-location-of-scalpay-inner-hebrides"
       }
     }
   ]

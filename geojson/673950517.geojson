@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Asea Vigla",
+  "id": "673950517",
+  "bbox": [
+    22.3248715,
+    37.4338624,
+    22.3248715,
+    37.4338624
+  ],
+  "description": "A Doric temple dated to the sixth century BCE.",
+  "names": [
+    "Asea Vigla temple"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3248715,
+          37.4338624
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3248715,
+          37.4338624
+        ]
+      },
+      "id": "osm-location-of-ii-ii-ii-i-i1-2i-i-ipsiiiui1ii-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ναός Αθηνάς Σώτειρας και Ποσειδώνος",
+        "link": "http://pleiades.stoa.org/places/673950517/osm-location-of-ii-ii-ii-i-i1-2i-i-ipsiiiui1ii-i"
+      }
+    }
+  ]
+}

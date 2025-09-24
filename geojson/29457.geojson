@@ -3,10 +3,10 @@
   "title": "Alexandria",
   "id": "29457",
   "bbox": [
-    61.837118,
+    62.112006,
     34.309952,
     62.191888,
-    37.616639
+    34.345849
   ],
   "description": "An ancient place, cited: BAtlas 3 H3 Alexandria",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.0461946,
-          35.6398832
+          62.1641046667,
+          34.3310436667
         ]
       },
       "properties": {
@@ -58,40 +58,6 @@
         "location_precision": "precise",
         "title": "DARMC location 7514",
         "link": "http://pleiades.stoa.org/places/29457/darmc-location-7514"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          61.901541,
-          37.616639
-        ]
-      },
-      "id": "darmc-location-7572",
-      "type": "Feature",
-      "properties": {
-        "description": "5M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 7572",
-        "link": "http://pleiades.stoa.org/places/29457/darmc-location-7572"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          61.837118,
-          37.589646
-        ]
-      },
-      "id": "darmc-location-7573",
-      "type": "Feature",
-      "properties": {
-        "description": "5M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 7573",
-        "link": "http://pleiades.stoa.org/places/29457/darmc-location-7573"
       }
     },
     {

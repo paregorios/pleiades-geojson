@@ -3,10 +3,10 @@
   "title": "Sanctuary at Leben",
   "id": "238864239",
   "bbox": [
-    24.9240693,
-    34.9324766,
-    24.9240693,
-    34.9324766
+    24.9238278,
+    34.9320814,
+    24.9245761,
+    34.9326014
   ],
   "description": "Leben is known for a sanctuary of Asklepios dating to the first and second centuries CE.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9240693,
-          34.9324766
+          24.9242175013,
+          34.9323343553
         ]
       },
       "properties": {
@@ -32,19 +32,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          24.9240693,
-          34.9324766
+          [
+            24.9238278,
+            34.9325201
+          ],
+          [
+            24.9240585,
+            34.9323167
+          ],
+          [
+            24.9240303,
+            34.9320968
+          ],
+          [
+            24.9244393,
+            34.9320814
+          ],
+          [
+            24.9244729,
+            34.9321462
+          ],
+          [
+            24.9245117,
+            34.9321467
+          ],
+          [
+            24.9245587,
+            34.9321473
+          ],
+          [
+            24.9245761,
+            34.9323859
+          ],
+          [
+            24.9241255,
+            34.9325882
+          ],
+          [
+            24.9240719,
+            34.9326014
+          ],
+          [
+            24.9240303,
+            34.9326014
+          ],
+          [
+            24.923978,
+            34.9325882
+          ],
+          [
+            24.9239311,
+            34.9325673
+          ],
+          [
+            24.9238278,
+            34.9325201
+          ]
         ]
       },
-      "id": "osm-location-of-sanctuary",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of sanctuary",
-        "link": "http://pleiades.stoa.org/places/238864239/osm-location-of-sanctuary"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/238864239/osm-location"
       }
     }
   ]

@@ -10,7 +10,11 @@
   ],
   "description": "The Doric temple at Agios Elias, above Asea in Arcadia, dates to ca. 500 B.C.",
   "connectsWith": [
-    "570122"
+    "570122",
+    "570158"
+  ],
+  "names": [
+    "Sanctuary of Agios Elias"
   ],
   "features": [
     {

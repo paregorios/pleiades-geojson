@@ -9,6 +9,9 @@
     55.0
   ],
   "description": "An ancient place, cited: BAtlas 2 B3 ‘Magnatai’",
+  "connectsWith": [
+    "20487"
+  ],
   "names": [
     "Magnatai",
     "Nagnatai"

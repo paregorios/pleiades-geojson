@@ -1,10 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Dour",
+  "title": "Dour (river)",
   "id": "21901",
   "description": "An ancient place, cited: BAtlas 2 unlocated Dour fl.",
   "names": [
-    "Dour"
+    "Dour",
+    "Dour potamou ekvolai"
   ],
   "features": [
     {

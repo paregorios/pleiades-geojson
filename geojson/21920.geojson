@@ -3,6 +3,9 @@
   "title": "Regia",
   "id": "21920",
   "description": "An ancient place, cited: BAtlas 2 unlocated Regia",
+  "connectsWith": [
+    "20487"
+  ],
   "names": [
     "Regia"
   ],
