@@ -3,14 +3,15 @@
   "title": "Kane",
   "id": "39355",
   "bbox": [
-    45.0,
-    10.0,
-    50.0,
-    15.0
+    48.2359537616,
+    13.992228265,
+    48.2359537616,
+    13.992228265
   ],
   "description": "An ancient place, cited: BAtlas 4 C3 Kane",
   "names": [
-    "Kane"
+    "Kane",
+    "Bir 'Ali"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          12.5
+          48.2359537616,
+          13.992228265
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              45.0,
-              10.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              50.0,
-              15.0
-            ],
-            [
-              50.0,
-              10.0
-            ],
-            [
-              45.0,
-              10.0
-            ]
-          ]
+          48.23595376156997,
+          13.992228265045917
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39355/batlas-location"
+        "description": "Point digitized using QGIS from a raster image of BAtlas 4 that was georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/39355/batlas-point-location"
       }
     }
   ]
