@@ -9,6 +9,11 @@
     41.11702
   ],
   "description": "An ancient place, cited: BAtlas 51 E2 Komotene",
+  "names": [
+    "Komotini",
+    "Gümülcine",
+    "Gkioumoultzina"
+  ],
   "features": [
     {
       "type": "Feature",

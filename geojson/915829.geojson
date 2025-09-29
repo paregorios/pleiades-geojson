@@ -3,6 +3,9 @@
   "title": "Arakka",
   "id": "915829",
   "description": "An ancient place, cited: BAtlas 93 unlocated Arakka",
+  "connectsWith": [
+    "912843"
+  ],
   "names": [
     "Arakka"
   ],

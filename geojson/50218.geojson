@@ -5,18 +5,21 @@
   "bbox": [
     80.014065,
     8.832238,
-    80.014065,
-    8.832238
+    80.01667,
+    8.83333
   ],
   "description": "An ancient place, cited: BAtlas 5 inset Pidarikulam",
+  "names": [
+    "Pidarikulam"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.014065,
-          8.832238
+          80.0153675,
+          8.832784
         ]
       },
       "properties": {
@@ -34,10 +37,27 @@
       "id": "darmc-location-13450",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 13450",
         "link": "http://pleiades.stoa.org/places/50218/darmc-location-13450"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.01667,
+          8.83333
+        ]
+      },
+      "id": "geonames-location-modern-pidarikulam",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Geonames location: modern Pidarikulam",
+        "link": "http://pleiades.stoa.org/places/50218/geonames-location-modern-pidarikulam"
       }
     }
   ]

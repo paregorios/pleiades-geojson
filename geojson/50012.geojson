@@ -31,13 +31,13 @@
           19.20886
         ]
       },
-      "id": "gps-reading-of-ancient-settlement-mound-of-junnar",
+      "id": "gps-location-of-ancient-settlement-mound-of-junnar",
       "type": "Feature",
       "properties": {
-        "description": "GPS reading on settlement mound taken during fieldwork. Early Historic occupation dated on the basis of finds of pottery and previous archaeological excavations. ",
+        "description": "GPS reading on settlement mound taken during fieldwork. Early Historic occupation dated on the basis of finds of pottery and previous archaeological excavations.",
         "location_precision": "precise",
-        "title": "Ancient settlement mound at Junnar",
-        "link": "http://pleiades.stoa.org/places/50012/gps-reading-of-ancient-settlement-mound-of-junnar"
+        "title": "GPS Location of ancient settlement mound of Junnar",
+        "link": "http://pleiades.stoa.org/places/50012/gps-location-of-ancient-settlement-mound-of-junnar"
       }
     }
   ]

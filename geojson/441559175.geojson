@@ -3,14 +3,17 @@
   "title": "Puntone necropolis",
   "id": "441559175",
   "bbox": [
-    11.4915911,
-    42.6741524,
-    11.4915911,
-    42.6741524
+    11.4906488,
+    42.673375,
+    11.4923781,
+    42.6747653
   ],
   "description": "An Etruscan necropolis dating to the seventh-fifth centuries B.C. The ancient settlement associated with the site may have been Palmule.",
   "connectsWith": [
     "413044"
+  ],
+  "names": [
+    "Necropoli Etrusca del Puntone"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.4915911,
-          42.6741524
+          11.491544267,
+          42.674100126
         ]
       },
       "properties": {
@@ -28,19 +31,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          11.4915911,
-          42.6741524
+          [
+            11.4906488,
+            42.6741968
+          ],
+          [
+            11.4912374,
+            42.673728
+          ],
+          [
+            11.4916808,
+            42.673375
+          ],
+          [
+            11.4920402,
+            42.673651
+          ],
+          [
+            11.4920402,
+            42.673726
+          ],
+          [
+            11.4923138,
+            42.6739666
+          ],
+          [
+            11.4923781,
+            42.6741125
+          ],
+          [
+            11.4923567,
+            42.674219
+          ],
+          [
+            11.4921274,
+            42.6743549
+          ],
+          [
+            11.4918118,
+            42.6745421
+          ],
+          [
+            11.4917273,
+            42.6745921
+          ],
+          [
+            11.4916915,
+            42.6746134
+          ],
+          [
+            11.4913583,
+            42.6747653
+          ],
+          [
+            11.4906488,
+            42.6741968
+          ]
         ]
       },
-      "id": "location-of-necropolis",
+      "id": "osm-location-necropoli-etrusca-del-puntone",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Necropoli Etrusca del Puntone",
-        "link": "http://pleiades.stoa.org/places/441559175/location-of-necropolis"
+        "title": "OSM location: Necropoli Etrusca del Puntone",
+        "link": "http://pleiades.stoa.org/places/441559175/osm-location-necropoli-etrusca-del-puntone"
       }
     }
   ]

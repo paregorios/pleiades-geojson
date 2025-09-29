@@ -3,20 +3,23 @@
   "title": "Incoronata",
   "id": "442620",
   "bbox": [
-    16.726321,
-    40.373108,
-    16.726321,
-    40.373108
+    16.7372486,
+    40.3709573,
+    16.7378089,
+    40.3713677
   ],
-  "description": "A protohistoric site located near Metaponto in Italy, Incorata provides important evidence -- especially between the 8th and 6th centuries BCE -- for both indigenous Oenotrian and early Greek colonial physical culture in Italy. ",
+  "description": "A protohistoric site located near Metaponto in Italy, Incorata provides important evidence -- especially between the 8th and 6th centuries BCE -- for both indigenous Oenotrian and early Greek colonial physical culture in Italy.",
+  "names": [
+    "Incoronata"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.726321,
-          40.373108
+          16.7375320047,
+          40.3711725546
         ]
       },
       "properties": {
@@ -25,19 +28,89 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.726321,
-          40.373108
+          [
+            16.7376096,
+            40.3713677
+          ],
+          [
+            16.7375304,
+            40.371355
+          ],
+          [
+            16.7374294,
+            40.3713122
+          ],
+          [
+            16.737354,
+            40.3712695
+          ],
+          [
+            16.7373095,
+            40.3712385
+          ],
+          [
+            16.7373211,
+            40.3712018
+          ],
+          [
+            16.7372997,
+            40.3711467
+          ],
+          [
+            16.7372723,
+            40.3710945
+          ],
+          [
+            16.7372486,
+            40.3710578
+          ],
+          [
+            16.7374922,
+            40.3709573
+          ],
+          [
+            16.7375765,
+            40.3710669
+          ],
+          [
+            16.7376254,
+            40.3710596
+          ],
+          [
+            16.7377101,
+            40.3711214
+          ],
+          [
+            16.7377356,
+            40.3711225
+          ],
+          [
+            16.7378089,
+            40.3712167
+          ],
+          [
+            16.7377397,
+            40.3712301
+          ],
+          [
+            16.7377822,
+            40.371287
+          ],
+          [
+            16.7376096,
+            40.3713677
+          ]
         ]
       },
-      "id": "darmc-location-18053",
+      "id": "osm-location-of-incoronata",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18053",
-        "link": "http://pleiades.stoa.org/places/442620/darmc-location-18053"
+        "title": "OSM location of Incoronata",
+        "link": "http://pleiades.stoa.org/places/442620/osm-location-of-incoronata"
       }
     }
   ]

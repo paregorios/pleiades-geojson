@@ -9,8 +9,12 @@
     41.533898
   ],
   "description": "Cluturnum was a site in Samnium, located near Aesernia. Its exact location cannot be determined.",
+  "connectsWith": [
+    "438729"
+  ],
   "names": [
-    "Cluturnum"
+    "Cluturnum",
+    "Cluturno"
   ],
   "features": [
     {

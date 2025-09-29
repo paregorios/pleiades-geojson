@@ -9,9 +9,13 @@
     40.264798
   ],
   "description": "Located in central Asia, Alexandria Eschate (or \"Alexandria the Farthest\") was founded by Alexander the Great in August 329 B.C. The city was located in the Fergana Valley in what is now modern Tajikistan.",
+  "connectsWith": [
+    "59844"
+  ],
   "names": [
     "Alexandria Eschate",
-    "Cyreschata"
+    "Cyreschata",
+    "Khujand"
   ],
   "features": [
     {

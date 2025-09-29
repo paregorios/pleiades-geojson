@@ -8,12 +8,13 @@
     27.91835,
     43.212074
   ],
-  "description": "An ancient place, cited: BAtlas 22 E5 Odessus",
+  "description": "The ancient Black Sea settlement of Odessus is now Varna, Bulgaria.",
   "connectsWith": [
     "220489"
   ],
   "names": [
-    "Odessus"
+    "Odessus",
+    "Odessos"
   ],
   "features": [
     {

@@ -8,7 +8,11 @@
     80.508861,
     8.315311
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Mihintale",
+  "description": "A mountain, associated settlement, and Buddhist pilgrimage site in Sri Lanka comprising multiple religious monuments, monasteries, and other features. Epigraphic finds span the period from the third century BCE to the tenth century CE.",
+  "names": [
+    "Mihintale",
+    "Mihintale"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +38,7 @@
       "id": "darmc-location-30490",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 30490",
         "link": "http://pleiades.stoa.org/places/50132/darmc-location-30490"

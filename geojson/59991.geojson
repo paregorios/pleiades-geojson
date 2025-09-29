@@ -3,14 +3,16 @@
   "title": "Persakra",
   "id": "59991",
   "bbox": [
-    75.0,
-    25.0,
-    80.0,
-    30.0
+    78.4614773743,
+    27.9943754386,
+    78.4614773743,
+    27.9943754386
   ],
-  "description": "An ancient place, cited: BAtlas 6 D4 Persakra",
+  "description": "An ancient settlement of India, mentioned by Ptolemy, that Vogel 1952 identifies with the Sanskrit toponym Paricakra in the Shatapatha Brahmana. BAtlDir tentatively locates it in the vicinity of a modern \"Sakra\" (a common placename). This modern town, based on the BAtlas coordinates, lies to the northeast of modern Aligarh in Uttar Pradesh. It does not seem to appear in open, online gazetteers.",
   "names": [
-    "Persakra"
+    "Persakra",
+    "Sankra",
+    "Paricakra"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.5,
-          27.5
+          78.4614773743,
+          27.9943754386
         ]
       },
       "properties": {
@@ -28,39 +30,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              75.0,
-              25.0
-            ],
-            [
-              75.0,
-              30.0
-            ],
-            [
-              80.0,
-              30.0
-            ],
-            [
-              80.0,
-              25.0
-            ],
-            [
-              75.0,
-              25.0
-            ]
-          ]
+          78.46147737434983,
+          27.994375438600052
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/59991/batlas-location"
+        "description": "Feature extracted in QGIS from a raster image of BAtlas Map 6 that was georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/59991/batlas-point-location"
       }
     }
   ]
