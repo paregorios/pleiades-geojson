@@ -3,10 +3,10 @@
   "title": "Bitti, Complesso di Romanzesu",
   "id": "494216807",
   "bbox": [
-    9.3250658,
-    40.530619,
-    9.3250658,
-    40.530619
+    9.3253559,
+    40.530926,
+    9.3253559,
+    40.530926
   ],
   "description": "A 7-hectare nuragic complex.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3250658,
-          40.530619
+          9.3253559,
+          40.530926
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3250658,
-          40.530619
+          9.3253559,
+          40.530926
         ]
       },
       "id": "osm-location",

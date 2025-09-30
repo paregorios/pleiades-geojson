@@ -3,10 +3,10 @@
   "title": "Nicea Nialia/Barsa",
   "id": "884897",
   "bbox": [
-    45.0808523,
-    37.1613426,
-    45.7211923,
-    38.2097255
+    45.051512,
+    37.1331558,
+    45.8073663,
+    38.242107
   ],
   "description": "An ancient place, known only from the Tabula Peutingeriana, perhaps located near Sindschid or Sainkala to the southeast of Lake Urmia.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.396634286,
-          37.730249778
+          45.4107834729,
+          37.7249035509
         ]
       },
       "properties": {
