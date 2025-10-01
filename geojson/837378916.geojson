@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nuraghe Chentu Istradas",
+  "id": "837378916",
+  "bbox": [
+    8.7626032,
+    40.3252205,
+    8.7627954,
+    40.3253671
+  ],
+  "description": "A central nuraghe and associated settlement.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Nuraghe Chentu Istradas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76269935255,
+          40.3252939396
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7627796,
+            40.325253
+          ],
+          [
+            8.7627929,
+            40.325276
+          ],
+          [
+            8.7627954,
+            40.325301
+          ],
+          [
+            8.7627867,
+            40.3253252
+          ],
+          [
+            8.7627678,
+            40.3253458
+          ],
+          [
+            8.762741,
+            40.3253603
+          ],
+          [
+            8.7627093,
+            40.3253671
+          ],
+          [
+            8.7626786,
+            40.3253657
+          ],
+          [
+            8.7626501,
+            40.3253571
+          ],
+          [
+            8.7626265,
+            40.3253421
+          ],
+          [
+            8.7626104,
+            40.3253222
+          ],
+          [
+            8.7626032,
+            40.3252994
+          ],
+          [
+            8.7626058,
+            40.3252761
+          ],
+          [
+            8.7626179,
+            40.3252546
+          ],
+          [
+            8.7626383,
+            40.3252371
+          ],
+          [
+            8.7626648,
+            40.3252253
+          ],
+          [
+            8.7626948,
+            40.3252205
+          ],
+          [
+            8.7627275,
+            40.3252236
+          ],
+          [
+            8.7627569,
+            40.3252349
+          ],
+          [
+            8.7627796,
+            40.325253
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nuraghe Chentu Istradas",
+        "link": "http://pleiades.stoa.org/places/837378916/osm-location"
+      }
+    }
+  ]
+}

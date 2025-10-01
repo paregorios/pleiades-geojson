@@ -3,10 +3,10 @@
   "title": "Oasis Magna/Thebaidos",
   "id": "776210",
   "bbox": [
-    30.4217418,
-    25.5964149,
-    30.7308897,
-    25.8254918
+    29.990903,
+    24.588396,
+    30.751754,
+    25.8254631
   ],
   "description": "Kharga: one of the large oases of Egypt’s Western Desert.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.5462229333,
-          25.7885447167
+          30.5539448149,
+          25.783732501
         ]
       },
       "properties": {

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pyramidal mausoleum of Maktar",
+  "id": "364883647",
+  "bbox": [
+    9.2028803,
+    35.8516361,
+    9.2029355,
+    35.8516787
+  ],
+  "description": "Representative location based on OpenStreetMap",
+  "connectsWith": [
+    "324774"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2029079,
+          35.8516574
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2028803,
+            35.8516724
+          ],
+          [
+            9.2029282,
+            35.8516787
+          ],
+          [
+            9.2029355,
+            35.8516424
+          ],
+          [
+            9.2028876,
+            35.8516361
+          ],
+          [
+            9.2028803,
+            35.8516724
+          ]
+        ]
+      },
+      "id": "osm-location-of-pyramidal-mausoleum-of-maktar",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pyramidal mausoleum of Maktar",
+        "link": "http://pleiades.stoa.org/places/364883647/osm-location-of-pyramidal-mausoleum-of-maktar"
+      }
+    }
+  ]
+}

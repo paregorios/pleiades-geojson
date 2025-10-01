@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chalcidean League",
+  "id": "585841736",
+  "bbox": [
+    23.327812,
+    39.9766679,
+    23.901305,
+    40.369294
+  ],
+  "description": "The Chalcidian League was a federal state of the Chalcidice peninsula. It existed from ca. 430 BCE until Philip II of Macedon destroyed it in 348 BCE.",
+  "names": [
+    "Chalkidian League"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6527139896,
+          40.2414920048
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "title": "Ara Alexandri",
   "id": "60421",
-  "description": "An ancient place, cited: BAtlas 6 unlocated Ara Alexandri",
+  "description": "\"Ara Alexandri\", also known as \"Arae Alexandri\", is a toponym that refers to stelai erected to mark the northern limits of Alexander III of Macedon's territorial empire. The instance included by the Barrington Atlas compilers on map 6 corresponds to the instance included on the Peutinger map and also discussed in RE by Wilhelm Tomaschek. These markers were once found at the bend of the Iaxartes River (Syr Darya in Central Asia) to the east of the Caspian Sea. Pliny the Elder describes this place as lying beyond the Portus Macedonum in Carmania.",
   "names": [
+    "arae Alexandri",
     "Ara Alexandri"
   ],
   "features": [
