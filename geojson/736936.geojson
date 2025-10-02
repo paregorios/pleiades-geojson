@@ -3,14 +3,15 @@
   "title": "Kerkeosiris",
   "id": "736936",
   "bbox": [
-    30.693397,
-    29.13416,
-    30.693397,
-    29.13416
+    30.6930389,
+    29.1357683,
+    30.6930389,
+    29.1357683
   ],
   "description": "An ancient place, cited: BAtlas 75 D2 Kerkeosiris",
   "names": [
-    "Kerkeosiris"
+    "Kerkeosiris",
+    "el-Gharaq"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.693397,
-          29.13416
+          30.6930389,
+          29.1357683
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.693397,
-          29.13416
+          30.6930389,
+          29.1357683
         ]
       },
-      "id": "darmc-location-13120",
+      "id": "osm-location-modern-al-gharaq",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 13120",
-        "link": "http://pleiades.stoa.org/places/736936/darmc-location-13120"
+        "title": "OSM Location: modern Al-Gharaq",
+        "link": "http://pleiades.stoa.org/places/736936/osm-location-modern-al-gharaq"
       }
     }
   ]

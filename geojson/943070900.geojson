@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sotira",
+  "id": "943070900",
+  "bbox": [
+    33.1786028,
+    35.3487777,
+    33.1786028,
+    35.3487777
+  ],
+  "description": "Site approximately 1 km north of the modern village of Lapithos, northern Cyprus, containing several burials from the Early and Middle Bronze Age.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1786028,
+          35.3487777
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.1786028,
+          35.3487777
+        ]
+      },
+      "id": "sotira",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Sotira site, derived from an Open Street Map node after Webb 2024.",
+        "location_precision": "precise",
+        "title": "Sotira",
+        "link": "http://pleiades.stoa.org/places/943070900/sotira"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ais Gorkis",
+  "id": "138364023",
+  "bbox": [
+    32.5609346,
+    34.9201402,
+    32.5609346,
+    34.9201402
+  ],
+  "description": "Settlement in western Cyprus inhabited during the Neolithic period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5609346,
+          34.9201402
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5609346,
+          34.9201402
+        ]
+      },
+      "id": "ais-gorkis",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate center point of the Ais Gorkis site, derived from an OpenStreetMap Node after Simmons 2023.",
+        "location_precision": "precise",
+        "title": "Ais Gorkis",
+        "link": "http://pleiades.stoa.org/places/138364023/ais-gorkis"
+      }
+    }
+  ]
+}

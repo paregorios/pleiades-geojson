@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Fiume (Alife)",
+  "id": "585937801",
+  "bbox": [
+    14.3292221,
+    41.3270898,
+    14.3292221,
+    41.3270898
+  ],
+  "description": "One of the four gates of the fortified castrum of Allifae. The fortifications are thought to date to the Late Republican period on the basis of building techniques.",
+  "connectsWith": [
+    "432658"
+  ],
+  "names": [
+    "Porta Fiume"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3292221,
+          41.3270898
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3292221,
+          41.3270898
+        ]
+      },
+      "id": "osm-location-of-porta-fiume",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Porta Fiume",
+        "link": "http://pleiades.stoa.org/places/585937801/osm-location-of-porta-fiume"
+      }
+    }
+  ]
+}

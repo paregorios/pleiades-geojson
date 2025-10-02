@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Roma",
+  "id": "497600231",
+  "bbox": [
+    14.3279706,
+    41.3299286,
+    14.3279706,
+    41.3299286
+  ],
+  "description": "One of the four gates of the fortified castrum of Allifae. The fortifications are thought to date to the Late Republican period on the basis of building techniques.",
+  "connectsWith": [
+    "432658"
+  ],
+  "names": [
+    "Porta Roma"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3279706,
+          41.3299286
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3279706,
+          41.3299286
+        ]
+      },
+      "id": "osm-location-of-porta-roma",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Porta Roma",
+        "link": "http://pleiades.stoa.org/places/497600231/osm-location-of-porta-roma"
+      }
+    }
+  ]
+}

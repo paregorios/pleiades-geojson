@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Napoli (Alife)",
+  "id": "585937800",
+  "bbox": [
+    14.3333607,
+    41.3272402,
+    14.3333607,
+    41.3272402
+  ],
+  "description": "One of the four gates of the fortified castrum of Allifae. The fortifications are thought to date to the Late Republican period on the basis of building techniques.",
+  "connectsWith": [
+    "432658"
+  ],
+  "names": [
+    "Porta Napoli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3333607,
+          41.3272402
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3333607,
+          41.3272402
+        ]
+      },
+      "id": "osm-location-of-porta-napoli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Porta Napoli",
+        "link": "http://pleiades.stoa.org/places/585937800/osm-location-of-porta-napoli"
+      }
+    }
+  ]
+}

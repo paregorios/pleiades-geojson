@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Sabis? (river)",
+  "title": "Sabis (river)",
   "id": "109299",
   "bbox": [
     3.6327878,
@@ -8,9 +8,10 @@
     4.8723587,
     50.4701678
   ],
-  "description": "An ancient place, cited: BAtlas 11 E2 Sabis? fl.",
+  "description": "An ancient river mentioned by Caesar. It is possibly to be identified with the modern Sambre, a tributary of the Meuse that flows through France and Belgium.",
   "names": [
-    "Sabis"
+    "Sabis",
+    "Sambre"
   ],
   "features": [
     {
