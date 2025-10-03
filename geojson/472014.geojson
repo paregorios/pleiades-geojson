@@ -18,7 +18,9 @@
     "Sardinia",
     "Sardo",
     "Ichnoussa",
-    "Sardegna"
+    "Sardegna",
+    "Ichnusa",
+    "Sandaliotis"
   ],
   "features": [
     {
@@ -26,8 +28,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.95871164006,
-          40.0579831694
+          8.96062885298,
+          40.0663006256
         ]
       },
       "properties": {

@@ -3,9 +3,9 @@
   "title": "Mausoleum of Gallienus",
   "id": "587082458",
   "bbox": [
-    12.5887282,
-    41.791139,
-    12.5887282,
+    12.5885217,
+    41.790729,
+    12.5890286,
     41.791139
   ],
   "description": "A mausoleum on the Via Appia that has been identified conventionally as that of the emperor Gallienus.",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5887282,
-          41.791139
+          12.5887613957,
+          41.7909166924
         ]
       },
       "properties": {

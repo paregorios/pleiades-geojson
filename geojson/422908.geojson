@@ -10,11 +10,13 @@
   ],
   "description": "A multi-period sanctuary near Anagnia.",
   "connectsWith": [
-    "93042695"
+    "93042695",
+    "422833"
   ],
   "names": [
     "Compitum",
-    "Osteria della Fontana"
+    "Osteria della Fontana",
+    "Compitum"
   ],
   "features": [
     {

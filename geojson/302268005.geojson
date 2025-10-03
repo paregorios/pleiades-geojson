@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hic Alexander Responsum accepit usque quo Alexander",
+  "id": "302268005",
+  "description": "This Latin legend is marked on the manuscript of the Tabula Peutingeriana in the general vicinity of the city of Alexandria Eschate. Posed as a rhetorical question, this text may corroborate a story related in the Alexander Romance relating to Alexander's seeming insatiable appetite for territorial conquest.",
+  "connectsWith": [
+    "59672"
+  ],
+  "names": [
+    "Hic Alexander Responsum accepit usque quo Alexander"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

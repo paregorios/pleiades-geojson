@@ -2,10 +2,13 @@
   "type": "FeatureCollection",
   "title": "Ad Tres Silanos",
   "id": "290541807",
-  "description": "Ad Tres Silanos is a toponym associated with the ancient city of Rome but attested in a Latin inscription found at Grotta Ferrata. The inscription refers to a group of three fountains known by the typological name 'silanus' located in Regio VII.",
+  "description": "Ad Tres Silanos is a toponym associated with the ancient city of Rome but attested in a Latin inscription found at Grottaferrata. The inscription refers to a group of three fountains known by the typological name 'silanus' located in Regio VII.",
   "connectsWith": [
     "596666070",
     "423025"
+  ],
+  "names": [
+    "Ad tres Silanos"
   ],
   "features": [
     {

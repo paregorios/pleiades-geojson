@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sepolcro del Casale di Gregna",
+  "id": "108040721",
+  "bbox": [
+    12.5977475,
+    41.8266524,
+    12.5978542,
+    41.8267442
+  ],
+  "description": "A Roman tomb of the fourth century C.E. built in opus listatum.",
+  "connectsWith": [
+    "422871"
+  ],
+  "names": [
+    "sepolcro presso il Casale di Gregna"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5977996925,
+          41.8266971925
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5977475,
+            41.8267366
+          ],
+          [
+            12.5978417,
+            41.8267442
+          ],
+          [
+            12.5978542,
+            41.8266583
+          ],
+          [
+            12.5977538,
+            41.8266524
+          ],
+          [
+            12.5977475,
+            41.8267366
+          ]
+        ]
+      },
+      "id": "osm-location-of-sepolcro-del-casale-di-gregna",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sepolcro del Casale di Gregna",
+        "link": "http://pleiades.stoa.org/places/108040721/osm-location-of-sepolcro-del-casale-di-gregna"
+      }
+    }
+  ]
+}

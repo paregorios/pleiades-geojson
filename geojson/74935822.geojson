@@ -3,14 +3,15 @@
   "title": "Via Labicana",
   "id": "74935822",
   "bbox": [
-    12.486137,
+    12.5013266,
     41.742213,
     13.158962,
-    41.895779
+    41.8958309
   ],
   "description": "An ancient Roman road connecting Rome and Labicum.",
   "names": [
-    "via Labicana"
+    "via Labicana",
+    "Via Lavicana"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7112665,
-          41.8287435
+          12.670685625,
+          41.841292125
         ]
       },
       "properties": {

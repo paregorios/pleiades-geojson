@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello D'Evoli",
+  "id": "799567350",
+  "bbox": [
+    14.5628051,
+    41.6222709,
+    14.5634615,
+    41.6229997
+  ],
+  "description": "Castello D'Evoli is located at Castropignano in the Italian Province of Campobasso. The castle's construction dates to the fourteenth century and it may occupy the site of the Samnite fortifications.",
+  "connectsWith": [
+    "432771"
+  ],
+  "names": [
+    "Castello d'Evoli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5631622922,
+          41.6226318798
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5632081,
+            41.6229606
+          ],
+          [
+            14.5631444,
+            41.6229722
+          ],
+          [
+            14.5631048,
+            41.6228709
+          ],
+          [
+            14.5630874,
+            41.6228729
+          ],
+          [
+            14.5630659,
+            41.6228138
+          ],
+          [
+            14.5630103,
+            41.6227637
+          ],
+          [
+            14.5629291,
+            41.6227276
+          ],
+          [
+            14.5628626,
+            41.6225984
+          ],
+          [
+            14.562848,
+            41.6226027
+          ],
+          [
+            14.5628346,
+            41.6225631
+          ],
+          [
+            14.5628178,
+            41.6225032
+          ],
+          [
+            14.5628051,
+            41.6224579
+          ],
+          [
+            14.5628722,
+            41.6223983
+          ],
+          [
+            14.5629747,
+            41.6223972
+          ],
+          [
+            14.5630579,
+            41.6223641
+          ],
+          [
+            14.5631585,
+            41.6222709
+          ],
+          [
+            14.5632148,
+            41.6223331
+          ],
+          [
+            14.5632537,
+            41.6223511
+          ],
+          [
+            14.563314,
+            41.6223361
+          ],
+          [
+            14.5633198,
+            41.6223468
+          ],
+          [
+            14.5634615,
+            41.6226088
+          ],
+          [
+            14.5634589,
+            41.6226624
+          ],
+          [
+            14.5633965,
+            41.6227561
+          ],
+          [
+            14.5633563,
+            41.6228063
+          ],
+          [
+            14.5633594,
+            41.6228277
+          ],
+          [
+            14.5633817,
+            41.6229892
+          ],
+          [
+            14.5632657,
+            41.6229997
+          ],
+          [
+            14.5632081,
+            41.6229606
+          ]
+        ]
+      },
+      "id": "osm-location-of-castello-devoli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello D'Evoli",
+        "link": "http://pleiades.stoa.org/places/799567350/osm-location-of-castello-devoli"
+      }
+    }
+  ]
+}

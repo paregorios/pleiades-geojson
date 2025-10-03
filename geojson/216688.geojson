@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Abritus",
+  "title": "Abrittus",
   "id": "216688",
   "bbox": [
-    26.523115,
-    43.524975,
-    26.523115,
-    43.524975
+    26.5520943,
+    43.5220461,
+    26.5520943,
+    43.5220461
   ],
-  "description": "Abritus was the site of a Roman fortress and settlement, located near modern Razgrad, Bulgaria.",
+  "description": "Abrittus was the site of a Roman fortress and settlement, located near modern Razgrad, Bulgaria.",
   "names": [
-    "Abritus"
+    "Abritus",
+    "Razgrad",
+    "Abrittos",
+    "Abrittus"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.523115,
-          43.524975
+          26.5520943,
+          43.5220461
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.523115,
-          43.524975
+          26.5520943,
+          43.5220461
         ]
       },
-      "id": "darmc-location-24554",
+      "id": "osm-location-archaeological-site-of-abritus",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 24554",
-        "link": "http://pleiades.stoa.org/places/216688/darmc-location-24554"
+        "title": "OSM Location: archaeological site of Abritus",
+        "link": "http://pleiades.stoa.org/places/216688/osm-location-archaeological-site-of-abritus"
       }
     }
   ]

@@ -4,9 +4,9 @@
   "id": "490307091",
   "bbox": [
     9.817982,
-    42.25,
-    11.1,
-    43.433333
+    42.237615,
+    11.117456,
+    43.43949
   ],
   "description": "A chain of islands between the Ligurian Sea and Tyrrhenian Sea.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3316725429,
-          42.6788369
+          10.1589883014,
+          42.6757567452
         ]
       },
       "properties": {
