@@ -2,9 +2,10 @@
   "type": "FeatureCollection",
   "title": "Tambyzoi",
   "id": "60703",
-  "description": "An ancient people whose territory is unlocated",
+  "description": "An ancient people placed by Ptolemy in Bactria. Their precise localization is uncertain. They may be identifiable with the Kamboja, a people mentioned in Sanskrit and other Indic sources and known to have operated a trade corporation with ties to Sri Lanka.",
   "names": [
-    "Tambyzoi"
+    "Tambyzoi",
+    "Kamboja"
   ],
   "features": [
     {

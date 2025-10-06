@@ -3,10 +3,10 @@
   "title": "Costești-Cetățuie",
   "id": "711745091",
   "bbox": [
-    23.1543202,
-    45.6803403,
-    23.1543202,
-    45.6803403
+    23.1543301,
+    45.6803587,
+    23.1543301,
+    45.6803587
   ],
   "description": "Costești-Cetățuie Dacian fortress.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.1543202,
-          45.6803403
+          23.1543301,
+          45.6803587
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.1543202,
-          45.6803403
+          23.1543301,
+          45.6803587
         ]
       },
       "id": "osm-location",

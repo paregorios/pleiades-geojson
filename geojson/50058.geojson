@@ -3,20 +3,28 @@
   "title": "Kitalagama",
   "id": "50058",
   "bbox": [
+    80.51667,
+    6.01667,
     80.61271,
-    6.023303,
-    80.61271,
-    6.023303
+    6.03333
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Kitalagama",
+  "description": "Kitalagama is recorded as the early 20th century findspot of two separately reported hoards (or parts thereof) of Roman bronze coins. The identifiable coins date from the Constantinian and Theodosian dynasties. Walburg reports that neither find is sufficiently well-documented to determine which of two modern towns is meant: Kitalagama West or Kitalagama East.",
+  "connectsWith": [
+    "50298"
+  ],
+  "names": [
+    "Kitalagama",
+    "Kitalagama",
+    "Kiṭalākam"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.61271,
-          6.023303
+          80.5597933333,
+          6.02443433333
         ]
       },
       "properties": {
@@ -34,10 +42,44 @@
       "id": "darmc-location-23195",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 23195",
         "link": "http://pleiades.stoa.org/places/50058/darmc-location-23195"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.51667,
+          6.03333
+        ]
+      },
+      "id": "geonames-location-modern-kitalagama-west",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Geonames location: modern Kitalagama West",
+        "link": "http://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-west"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.55,
+          6.01667
+        ]
+      },
+      "id": "geonames-location-modern-kitalagama-east",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Geonames location: modern Kitalagama East",
+        "link": "http://pleiades.stoa.org/places/50058/geonames-location-modern-kitalagama-east"
       }
     }
   ]

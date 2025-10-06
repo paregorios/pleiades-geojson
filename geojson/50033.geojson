@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kanathra Ins.",
+  "title": "Kanathra (island)",
   "id": "50033",
   "bbox": [
     79.6506409,
@@ -10,7 +10,8 @@
   ],
   "description": "Neduntheevu is an island in the Palk Strait, northern Sri Lanka.",
   "names": [
-    "Kanathra"
+    "Kanathra",
+    "Delft island"
   ],
   "features": [
     {

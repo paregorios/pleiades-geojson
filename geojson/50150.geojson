@@ -3,10 +3,10 @@
   "title": "Nagadiba",
   "id": "50150",
   "bbox": [
-    81.205297,
-    8.585704,
-    81.205297,
-    8.585704
+    81.2344952,
+    8.576425,
+    81.2344952,
+    8.576425
   ],
   "description": "An ancient place, cited: BAtlas 5 inset Nagadiba",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.205297,
-          8.585704
+          81.2344952,
+          8.576425
         ]
       },
       "properties": {
@@ -35,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.205297,
-          8.585704
+          81.2344952,
+          8.576425
         ]
       },
-      "id": "darmc-location-29823",
+      "id": "osm-location-of-trincomalee",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 29823",
-        "link": "http://pleiades.stoa.org/places/50150/darmc-location-29823"
+        "title": "OSM location of Trincomalee",
+        "link": "http://pleiades.stoa.org/places/50150/osm-location-of-trincomalee"
       }
     }
   ]

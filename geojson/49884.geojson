@@ -9,6 +9,12 @@
     8.897691
   ],
   "description": "An ancient place, cited: BAtlas 5 inset Attikuli",
+  "connectsWith": [
+    "50298"
+  ],
+  "names": [
+    "Attikuli"
+  ],
   "features": [
     {
       "type": "Feature",

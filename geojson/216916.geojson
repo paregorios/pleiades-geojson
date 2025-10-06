@@ -3,12 +3,12 @@
   "title": "Palmatis",
   "id": "216916",
   "bbox": [
-    27.440562,
-    43.942065,
-    27.440562,
-    43.942065
+    27.5914097,
+    43.8231097,
+    27.5960207,
+    43.8265698
   ],
-  "description": "An ancient place, cited: BAtlas 22 E5 Palmatis",
+  "description": "Palmatis was a road station in Moesia Inferior. On the Peutinger map, it lies along the route between Durostorum and Marcianopolis. The archaeological remains of this place have been identified near Tervel, Bulgaria.",
   "names": [
     "Palmatis"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.440562,
-          43.942065
+          27.593742383,
+          43.8245636462
         ]
       },
       "properties": {
@@ -28,19 +28,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.440562,
-          43.942065
+          [
+            27.592142,
+            43.8231097
+          ],
+          [
+            27.5942552,
+            43.8235109
+          ],
+          [
+            27.594361,
+            43.8233113
+          ],
+          [
+            27.5960061,
+            43.8235473
+          ],
+          [
+            27.5960207,
+            43.8237013
+          ],
+          [
+            27.5959776,
+            43.8238569
+          ],
+          [
+            27.59531,
+            43.8252105
+          ],
+          [
+            27.5948865,
+            43.8259344
+          ],
+          [
+            27.5944512,
+            43.8265698
+          ],
+          [
+            27.5941136,
+            43.8261794
+          ],
+          [
+            27.5938105,
+            43.8259549
+          ],
+          [
+            27.5934933,
+            43.8257882
+          ],
+          [
+            27.5929871,
+            43.8255807
+          ],
+          [
+            27.5926332,
+            43.8254831
+          ],
+          [
+            27.5919833,
+            43.8253551
+          ],
+          [
+            27.5914097,
+            43.8251849
+          ],
+          [
+            27.592142,
+            43.8231097
+          ]
         ]
       },
-      "id": "darmc-location-8074",
+      "id": "osm-location-of-dnnd1-2d3-4ddegd1-2nd-nd1-2ddeg-d",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8074",
-        "link": "http://pleiades.stoa.org/places/216916/darmc-location-8074"
+        "title": "OSM location of Късноантична и средновековна крепост \"Палматис\"",
+        "link": "http://pleiades.stoa.org/places/216916/osm-location-of-dnnd1-2d3-4ddegd1-2nd-nd1-2ddeg-d"
       }
     }
   ]

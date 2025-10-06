@@ -4,7 +4,7 @@
   "id": "50298",
   "bbox": [
     79.6560285,
-    5.952062,
+    5.9281039,
     81.835714,
     9.835
   ],
@@ -15,7 +15,9 @@
     "Salike",
     "Silenfantine",
     "Simoundou",
-    "Taprobane"
+    "Taprobane",
+    "Sri Lanka",
+    "Insula Taprobane"
   ],
   "features": [
     {
@@ -23,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.5298005344,
-          8.21122104721
+          80.5981446459,
+          7.74212924436
         ]
       },
       "properties": {

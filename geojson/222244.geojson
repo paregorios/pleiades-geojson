@@ -2,27 +2,191 @@
   "type": "FeatureCollection",
   "title": "Zaldapa",
   "id": "222244",
-  "description": "An ancient place, cited: BAtlas 22 unlocated Zaldapa",
+  "bbox": [
+    27.8056395,
+    43.8794667,
+    27.8133364,
+    43.8870429
+  ],
+  "description": "Zaldapa, located near Abrit, Bulgaria, was a fortified Late Roman settlement in Moesia Inferior. It was restored under Justinian I.",
   "names": [
     "Zaldapa"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8094984532,
+          43.8829681531
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "undetermined",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.8059914,
+            43.8848439
+          ],
+          [
+            27.8068743,
+            43.885303
+          ],
+          [
+            27.8074667,
+            43.8857219
+          ],
+          [
+            27.8078131,
+            43.8860602
+          ],
+          [
+            27.8081819,
+            43.8864791
+          ],
+          [
+            27.8085172,
+            43.886761
+          ],
+          [
+            27.8088525,
+            43.8869382
+          ],
+          [
+            27.8091767,
+            43.8870429
+          ],
+          [
+            27.8095343,
+            43.8869946
+          ],
+          [
+            27.8099702,
+            43.8866482
+          ],
+          [
+            27.8104796,
+            43.8862912
+          ],
+          [
+            27.8110295,
+            43.8859307
+          ],
+          [
+            27.8110655,
+            43.8859072
+          ],
+          [
+            27.8112499,
+            43.8856316
+          ],
+          [
+            27.811289,
+            43.8851241
+          ],
+          [
+            27.8113839,
+            43.8841585
+          ],
+          [
+            27.8116052,
+            43.8839079
+          ],
+          [
+            27.8119766,
+            43.8835604
+          ],
+          [
+            27.812601,
+            43.8830762
+          ],
+          [
+            27.8128064,
+            43.8828598
+          ],
+          [
+            27.8130681,
+            43.8822189
+          ],
+          [
+            27.813247,
+            43.88151
+          ],
+          [
+            27.8133364,
+            43.8809944
+          ],
+          [
+            27.8131911,
+            43.8806883
+          ],
+          [
+            27.8125931,
+            43.8802004
+          ],
+          [
+            27.812065,
+            43.8799245
+          ],
+          [
+            27.81137,
+            43.8796371
+          ],
+          [
+            27.8108493,
+            43.8794667
+          ],
+          [
+            27.8099484,
+            43.8795123
+          ],
+          [
+            27.8088262,
+            43.8796547
+          ],
+          [
+            27.8079964,
+            43.8801503
+          ],
+          [
+            27.807861,
+            43.8802174
+          ],
+          [
+            27.8075284,
+            43.8803162
+          ],
+          [
+            27.8070328,
+            43.8807067
+          ],
+          [
+            27.806723,
+            43.8813567
+          ],
+          [
+            27.8056395,
+            43.8839272
+          ],
+          [
+            27.8059914,
+            43.8848439
+          ]
+        ]
+      },
+      "id": "osm-location-of-zaldapa",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/222244/undetermined"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Zaldapa",
+        "link": "http://pleiades.stoa.org/places/222244/osm-location-of-zaldapa"
       }
     }
   ]

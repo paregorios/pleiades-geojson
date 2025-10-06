@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Korunegala",
+  "title": "Kurunegala",
   "id": "50075",
   "bbox": [
     80.355886,
@@ -8,7 +8,12 @@
     80.355886,
     7.471079
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Korunegala",
+  "description": "A city of Sri Lanka where significant numbers of imported coins have been found, including Roman (reigns of Vespasian and Nero) and Chinese (Song and Southern Song dynasties). A Brahmi inscription from Kaduruvava in the Kurunegala district mentions a trade corporation of \"Kambojas\", an ancient people of Arachosia (i.e., the area of Kandahar in Afghanistan), possibly to be identified with Ptolemy's Tambyzoi, q.v..",
+  "names": [
+    "Korunegala",
+    "Kurunegala",
+    "Kurunegala"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +39,7 @@
       "id": "darmc-location-30397",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 30397",
         "link": "http://pleiades.stoa.org/places/50075/darmc-location-30397"

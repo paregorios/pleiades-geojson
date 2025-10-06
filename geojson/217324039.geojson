@@ -3,10 +3,10 @@
   "title": "Nuraghe Is Paras",
   "id": "217324039",
   "bbox": [
-    9.1073968,
-    39.7486478,
-    9.1073968,
-    39.7486478
+    9.1074419,
+    39.7486071,
+    9.1074419,
+    39.7486071
   ],
   "description": "A trilobate nuragic complex of the fifteenth century BC.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1073968,
-          39.7486478
+          9.1074419,
+          39.7486071
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1073968,
-          39.7486478
+          9.1074419,
+          39.7486071
         ]
       },
       "id": "osm-location",

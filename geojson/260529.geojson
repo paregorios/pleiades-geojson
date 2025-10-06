@@ -3,6 +3,9 @@
   "title": "Castra Vinaria/Binaria/Castra Gemella",
   "id": "260529",
   "description": "An ancient place, cited: BAtlas 26 unlocated Castra Vinaria/Binaria/Castra Gemella",
+  "connectsWith": [
+    "703480104"
+  ],
   "names": [
     "Castra Vinaria",
     "Binaria",

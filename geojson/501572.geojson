@@ -3,12 +3,12 @@
   "title": "Plotino(u)polis",
   "id": "501572",
   "bbox": [
-    26.499702,
-    41.358625,
-    26.499702,
-    41.358625
+    26.5044563,
+    41.3442847,
+    26.5044563,
+    41.3442847
   ],
-  "description": "A Roman settlement located to the immediate southeast of modern Didymoteicho, Greece, Plotinopolis was founded by the Roman emperor Trajan, in honor of his wife Plotina. Roman-era physical culture has been identified at the site, beginning with chance finds in the 1960s and continuing through subsequent scientific excavation. ",
+  "description": "A Roman settlement located immediately to the southeast of modern Didymoteicho, Greece, Plotinopolis was founded by the Roman emperor Trajan in honor of his wife, Plotina. Roman-era material culture has been identified at the site, beginning with chance finds in the 1960s and continuing through subsequent scientific excavation.",
   "names": [
     "Plotinoupolis",
     "Plotinopolis",
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.499702,
-          41.358625
+          26.5044563,
+          41.3442847
         ]
       },
       "properties": {
@@ -32,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.499702,
-          41.358625
+          26.5044563,
+          41.3442847
         ]
       },
-      "id": "darmc-location-14326",
+      "id": "osm-location-of-plotinopolis-excavation-site-hagia",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14326",
-        "link": "http://pleiades.stoa.org/places/501572/darmc-location-14326"
+        "title": "OSM location of Plotinopolis (excavation site). Hagia Petra",
+        "link": "http://pleiades.stoa.org/places/501572/osm-location-of-plotinopolis-excavation-site-hagia"
       }
     }
   ]

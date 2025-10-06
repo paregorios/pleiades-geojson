@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Neapolis",
+  "title": "Neapolis (Sardinia)",
   "id": "471977",
   "bbox": [
     8.5533252,
@@ -14,7 +14,9 @@
   ],
   "names": [
     "Neapolis",
-    "Neapolitani"
+    "Neapolitani",
+    "S. Maria de Nabui",
+    "Neapoli"
   ],
   "features": [
     {

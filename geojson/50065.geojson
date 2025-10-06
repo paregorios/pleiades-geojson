@@ -8,7 +8,11 @@
     80.517829,
     7.313839
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Kolugala",
+  "description": "A modern settlement in Sri Lanka catalogued as the findspot of 220 Roman coins dating between the reigns of Constantine I and Honorius.",
+  "names": [
+    "Kolugala",
+    "Kolukalā"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +38,7 @@
       "id": "darmc-location-30390",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 30390",
         "link": "http://pleiades.stoa.org/places/50065/darmc-location-30390"

@@ -3,12 +3,12 @@
   "title": "Ilounon?",
   "id": "265928",
   "bbox": [
-    -1.606091,
-    38.476254,
-    -1.606091,
-    38.476254
+    -1.6070951,
+    38.4767844,
+    -1.6070951,
+    38.4767844
   ],
-  "description": "An Early Roman hilltop oppidum, Ilunum was abandoned in the second century A.D. and then reoccupied in Late Antiquity (ca. A.D 590) as a Visigothic episcopal see during the Byzantine-Visigothic war. It was finally abandoned in the ninth century and the population was resettled in a new foundation, Murcia.",
+  "description": "Ilunum was an early Roman hilltop oppidum and it was abandoned in the second century A.D. and then reoccupied in Late Antiquity (ca. A.D. 590) as a Visigothic episcopal see during the Byzantine-Visigothic war. It was finally abandoned in the ninth century, and the population was resettled in Murcia, a new foundation.",
   "names": [
     "Ilounon"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.606091,
-          38.476254
+          -1.6070951,
+          38.4767844
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.606091,
-          38.476254
+          -1.6070951,
+          38.4767844
         ]
       },
-      "id": "darmc-location-20327",
+      "id": "osm-location-of-parque-arqueola3gico-del-tolmo-de",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20327",
-        "link": "http://pleiades.stoa.org/places/265928/darmc-location-20327"
+        "title": "OSM location of Parque Arqueológico del Tolmo de Minateda",
+        "link": "http://pleiades.stoa.org/places/265928/osm-location-of-parque-arqueola3gico-del-tolmo-de"
       }
     }
   ]

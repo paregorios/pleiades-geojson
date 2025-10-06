@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Oxeia Pr.",
+  "title": "Oxeia (promontory)",
   "id": "50186",
   "bbox": [
-    75.0,
-    5.0,
-    85.0,
-    15.0
+    81.3187225,
+    8.5253465,
+    81.3187225,
+    8.5253465
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Oxeia Pr.",
+  "description": "Ptolemy provides this name for a promontory of Sri Lanka, which BAtlDir identifies with the southern cape of Koddiyar Bay (i.e., the promontory at the tip of which the so-called Foul Point lighthouse now stands).",
   "names": [
-    "Oxeia Pr."
+    "Oxeia Pr.",
+    "Oxeia akra"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.0,
-          10.0
+          81.3187225,
+          8.5253465
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              75.0,
-              5.0
-            ],
-            [
-              75.0,
-              15.0
-            ],
-            [
-              85.0,
-              15.0
-            ],
-            [
-              85.0,
-              5.0
-            ],
-            [
-              75.0,
-              5.0
-            ]
-          ]
+          81.3187225,
+          8.5253465
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-foul-point",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/50186/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of modern Foul Point Lighthouse",
+        "link": "http://pleiades.stoa.org/places/50186/osm-location-of-foul-point"
       }
     }
   ]

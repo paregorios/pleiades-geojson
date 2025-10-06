@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kabyle/Diospolis",
+  "title": "Kabyle",
   "id": "216859",
   "bbox": [
     26.4780962,
@@ -8,8 +8,11 @@
     26.4875436,
     42.552063
   ],
-  "description": "An ancient place, cited: BAtlas 22 D6 Kabyle/Diospolis",
+  "description": "The site of this ancient settlement, which provides evidence for habitation from the Bronze Age into late antiquity, lies just to the north of the modern settlement that has inherited its name (Kabile) in the Bulgarian province of Yambol.",
   "names": [
+    "Kabile",
+    "Yambol",
+    "Cabilis",
     "Kabyle",
     "Diospolis",
     "Cabyleti"
