@@ -3,8 +3,8 @@
   "title": "Kalpitiya",
   "id": "50028",
   "bbox": [
-    79.759874,
-    8.234006,
+    79.7661508,
+    8.2368062,
     79.7661508,
     8.2368062
   ],
@@ -13,7 +13,7 @@
     "50298"
   ],
   "names": [
-    "Kalpitiya",
+    "Kalpiṭiya",
     "Kalpitiya"
   ],
   "features": [
@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.7630124,
-          8.2354061
+          79.7661508,
+          8.2368062
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.759874,
-          8.234006
-        ]
-      },
-      "id": "darmc-location-30364",
-      "type": "Feature",
-      "properties": {
-        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 30364",
-        "link": "http://pleiades.stoa.org/places/50028/darmc-location-30364"
       }
     },
     {

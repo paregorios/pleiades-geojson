@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Episcopal complex of Eio-el Tolmo de Minateda (Héllín, Albacete, Spain)",
+  "id": "66997684",
+  "bbox": [
+    -1.6059152,
+    38.4761519,
+    -1.6059152,
+    38.4761519
+  ],
+  "description": "The episcopal complex of Eio at El Tolmo de Minateda dates to the terminal sixth century CE and was in use during the following two centuries. Its construction may have been directed by Visigothic officials in Toletum.",
+  "connectsWith": [
+    "265928"
+  ],
+  "names": [
+    "Episcopal complex of Eio-el Tolmo de Minateda"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6059152,
+          38.4761519
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6059152,
+          38.4761519
+        ]
+      },
+      "id": "osm-location-of-basalica-visigoda",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basílica Visigoda",
+        "link": "http://pleiades.stoa.org/places/66997684/osm-location-of-basalica-visigoda"
+      }
+    }
+  ]
+}

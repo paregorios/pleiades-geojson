@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Ilounon?",
+  "title": "Tolmo de Minateda",
   "id": "265928",
   "bbox": [
     -1.6070951,
@@ -8,8 +8,9 @@
     -1.6070951,
     38.4767844
   ],
-  "description": "Ilunum was an early Roman hilltop oppidum and it was abandoned in the second century A.D. and then reoccupied in Late Antiquity (ca. A.D. 590) as a Visigothic episcopal see during the Byzantine-Visigothic war. It was finally abandoned in the ninth century, and the population was resettled in Murcia, a new foundation.",
+  "description": "Tolmo de Minateda was an early Roman hilltop oppidum located in the municipal territory of modern Helin in the Spanish autonomous community of Castilla-La Mancha. It was abandoned in the second century CE and then reoccupied in Late Antiquity (ca. 590 CE) as a Visigothic episcopal see during the Byzantine-Visigothic war. It was finally abandoned in the ninth century, and the population was resettled in Murcia, a new foundation. Tolmo de Minateda has been tentatively identified with the attested placename Ilounon.",
   "names": [
+    "Tolmo de Minateda",
     "Ilounon"
   ],
   "features": [

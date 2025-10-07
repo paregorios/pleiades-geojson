@@ -9,6 +9,9 @@
     31.595743
   ],
   "description": "An ancient place, cited: BAtlas 71 B2 Kalliroe",
+  "connectsWith": [
+    "697709"
+  ],
   "names": [
     "Kalliroe"
   ],

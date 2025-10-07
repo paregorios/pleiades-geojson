@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "title": "Odeon of Domitian",
+  "id": "219858507",
+  "description": "Domitian built an Odeon in the Campus Martius. It was either completed or restored by Apollodorus of Damascus ca. 106 CE. The present-day Palazzo Massimo alle Colonne rests on the foundations of the odeon and in part preserves its outline.",
+  "connectsWith": [
+    "936873471",
+    "423025",
+    "92342486"
+  ],
+  "names": [
+    "odeum",
+    "odium",
+    "Odeon of Domitian"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
