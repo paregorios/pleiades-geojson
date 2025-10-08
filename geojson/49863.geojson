@@ -3,17 +3,17 @@
   "title": "Anurādhapura",
   "id": "49863",
   "bbox": [
-    80.414911,
+    80.4106096,
     8.313895,
     80.414911,
-    8.313895
+    8.334985
   ],
-  "description": "The ancient capital of Sri Lanka from the fourth century BCE to the 11th century CE. It was recorded under the name Anourogrammon by Ptolemy, who notes its primary political status (Basileion). It has sometimes been argued that a \"Palaesimundum\" mentioned by Pliny in retelling the story of a Sri Lankan embassy to the emperor Claudius is also to be identified with Anourogrammon.",
+  "description": "The ancient capital of Sri Lanka from the fourth century BCE to the 11th century CE. It was recorded under the name Anourogrammon by Ptolemy, who notes its primary political status (Basileion). It has sometimes been argued that a \"Palaesimundum\" mentioned by Pliny in retelling the story of a Sri Lankan embassy to the emperor Claudius is also to be identified with Anourogrammon. A large number of numismatic finds from many periods have been reported in the vicinity.",
   "connectsWith": [
     "50298"
   ],
   "names": [
-    "Anourogrammon",
+    "Anourogrammon Basileion",
     "Palaesimundum",
     "Anurādhapura"
   ],
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.414911,
-          8.313895
+          80.4127603,
+          8.32444
         ]
       },
       "properties": {
@@ -46,6 +46,23 @@
         "location_precision": "precise",
         "title": "DARMC location 29968",
         "link": "http://pleiades.stoa.org/places/49863/darmc-location-29968"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4106096,
+          8.334985
+        ]
+      },
+      "id": "osm-location-modern-anuradhapura",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Anuradhapura",
+        "link": "http://pleiades.stoa.org/places/49863/osm-location-modern-anuradhapura"
       }
     }
   ]

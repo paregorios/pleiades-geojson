@@ -3,12 +3,12 @@
   "title": "Maurusii",
   "id": "275674",
   "bbox": [
-    -5.5,
-    34.5,
-    -5.0,
-    35.0
+    -5.14664727786,
+    34.7019298722,
+    -4.6505415004,
+    34.759880008
   ],
-  "description": "An ancient place, cited: BAtlas 28 D4 Maurusii",
+  "description": "An ancient Berber people attested during the Roman empire. They were localized in what is now the northern part of Morocco's Cercle de Ghafsai.",
   "names": [
     "Maurusii",
     "Mauri",
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.25,
-          34.75
+          -4.89790810853,
+          34.7364640526
         ]
       },
       "properties": {
@@ -30,39 +30,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              -5.5,
-              34.5
-            ],
-            [
-              -5.5,
-              35.0
-            ],
-            [
-              -5.0,
-              35.0
-            ],
-            [
-              -5.0,
-              34.5
-            ],
-            [
-              -5.5,
-              34.5
-            ]
+            -5.146647277861631,
+            34.759880008031104
+          ],
+          [
+            -5.059392649806458,
+            34.75319264855727
+          ],
+          [
+            -4.988170361505404,
+            34.74815008750063
+          ],
+          [
+            -4.918138955379638,
+            34.742386049896346
+          ],
+          [
+            -4.845255287242817,
+            34.73365838661706
+          ],
+          [
+            -4.775551433340317,
+            34.723519589938974
+          ],
+          [
+            -4.713860803268184,
+            34.71388307663007
+          ],
+          [
+            -4.650541500398846,
+            34.7019298722133
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/275674/batlas-location"
+        "description": "Feature extracted in QGIS from raster image of BAtlas map 8 that was georegistered by the Ancient World Mapping Center in 2002. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/275674/batlas-label-location"
       }
     }
   ]

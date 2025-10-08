@@ -3,14 +3,18 @@
   "title": "Kalmunai",
   "id": "50027",
   "bbox": [
-    81.835714,
-    7.396337,
-    81.835714,
-    7.396337
+    81.8269327,
+    7.4131557,
+    81.8269327,
+    7.4131557
   ],
-  "description": "An ancient place, cited: BAtlas 5 inset Kalmunai",
+  "description": "A modern settlement on the east coast of Sri Lanka (Ampara district, Eastern province). It was the reported findspot of a single Roman bronze coin.",
   "connectsWith": [
     "50298"
+  ],
+  "names": [
+    "Kalmunē",
+    "Kalmuṉai"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.835714,
-          7.396337
+          81.8269327,
+          7.4131557
         ]
       },
       "properties": {
@@ -30,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.835714,
-          7.396337
+          81.8269327,
+          7.4131557
         ]
       },
-      "id": "darmc-location-30363",
+      "id": "osm-location-of-modern-kalmunai",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 30363",
-        "link": "http://pleiades.stoa.org/places/50027/darmc-location-30363"
+        "title": "OSM Location of modern Kalmunai",
+        "link": "http://pleiades.stoa.org/places/50027/osm-location-of-modern-kalmunai"
       }
     }
   ]

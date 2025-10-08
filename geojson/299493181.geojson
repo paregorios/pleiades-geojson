@@ -52,13 +52,13 @@
           ]
         ]
       },
-      "id": "boundary-of-colonia-walls-approx",
+      "id": "imagery-location-boundary-of-colonia-walls-approx",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Boundary of colonia walls (approx.)",
-        "link": "http://pleiades.stoa.org/places/299493181/boundary-of-colonia-walls-approx"
+        "title": "Imagery Location: Boundary of colonia walls (approx.)",
+        "link": "http://pleiades.stoa.org/places/299493181/imagery-location-boundary-of-colonia-walls-approx"
       }
     }
   ]
