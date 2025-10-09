@@ -3,10 +3,10 @@
   "title": "Lexianae",
   "id": "39369",
   "bbox": [
-    45.0,
-    10.0,
-    50.0,
-    15.0
+    46.7818134807,
+    14.7447890163,
+    47.6306683512,
+    15.1774969293
   ],
   "description": "An ancient place, cited: BAtlas 4 C3 Lexianae",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          12.5
+          47.2230301993,
+          14.9281823179
         ]
       },
       "properties": {
@@ -28,39 +28,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              45.0,
-              10.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              50.0,
-              15.0
-            ],
-            [
-              50.0,
-              10.0
-            ],
-            [
-              45.0,
-              10.0
-            ]
+            46.7818134806618,
+            14.74478901627036
+          ],
+          [
+            46.94930465767436,
+            14.79114426344611
+          ],
+          [
+            47.067427374294,
+            14.836501471720942
+          ],
+          [
+            47.17341431204683,
+            14.880300952213458
+          ],
+          [
+            47.2652907185439,
+            14.92405628712533
+          ],
+          [
+            47.382849279926546,
+            15.003539308918647
+          ],
+          [
+            47.50334899321737,
+            15.074661045601472
+          ],
+          [
+            47.63066835123472,
+            15.177496929260037
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39369/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39369/batlas-label-location"
       }
     }
   ]

@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Zamareni?",
+  "title": "Zamareni",
   "id": "39440",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.7936336829,
+    15.8084407992,
+    44.7421480198,
+    15.8831807479
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Zamareni?",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          44.2665972565,
+          15.862561689
         ]
       },
       "properties": {
@@ -28,39 +28,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            43.793633682930015,
+            15.808440799188872
+          ],
+          [
+            43.94782714002982,
+            15.836014021555789
+          ],
+          [
+            44.07829635058409,
+            15.858955180409708
+          ],
+          [
+            44.200520829731154,
+            15.867097886682297
+          ],
+          [
+            44.31574248936704,
+            15.883180747860834
+          ],
+          [
+            44.426591733321324,
+            15.881662328079525
+          ],
+          [
+            44.54314436129039,
+            15.880847227222024
+          ],
+          [
+            44.64159659888655,
+            15.87633686350415
+          ],
+          [
+            44.742148019817904,
+            15.865289420435872
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39440/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39440/batlas-label-location"
       }
     }
   ]

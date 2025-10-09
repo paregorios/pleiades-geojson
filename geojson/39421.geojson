@@ -3,10 +3,10 @@
   "title": "Sakchenoi",
   "id": "39421",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    43.7728148421,
+    13.6489336008,
+    44.579423493,
+    13.7088177943
   ],
   "description": "An ancient place, cited: BAtlas 4 B3 Sakchenoi",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.1743026404,
+          13.6621847045
         ]
       },
       "properties": {
@@ -28,39 +28,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              10.0
-            ],
-            [
-              40.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
-            ]
+            43.77281484214879,
+            13.708817794285473
+          ],
+          [
+            43.88405288556087,
+            13.678914404577634
+          ],
+          [
+            43.97562992093077,
+            13.665950235313504
+          ],
+          [
+            44.07315402780711,
+            13.655865217640367
+          ],
+          [
+            44.168711568579816,
+            13.651698370944262
+          ],
+          [
+            44.26724727527722,
+            13.64893360078833
+          ],
+          [
+            44.366374306506785,
+            13.649315516396543
+          ],
+          [
+            44.46998126391548,
+            13.655470445078661
+          ],
+          [
+            44.57942349299892,
+            13.665490085373813
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39421/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39421/batlas-label-location"
       }
     }
   ]

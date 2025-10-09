@@ -3,10 +3,10 @@
   "title": "Bachylitae",
   "id": "39310",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    43.6993949061,
+    13.7596946971,
+    44.5135928256,
+    14.1315020987
   ],
   "description": "An ancient place, cited: BAtlas 4 B3 Bachylitae",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.1166014143,
+          13.9680021025
         ]
       },
       "properties": {
@@ -29,39 +29,57 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              10.0
-            ],
-            [
-              40.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
-            ]
+            43.69939490607943,
+            14.131502098735414
+          ],
+          [
+            43.81311966097086,
+            14.091444655343167
+          ],
+          [
+            43.916383608413625,
+            14.067062165713716
+          ],
+          [
+            44.00864099810808,
+            14.030073527733807
+          ],
+          [
+            44.10242186511456,
+            13.993254215984255
+          ],
+          [
+            44.192348824151686,
+            13.949574017890633
+          ],
+          [
+            44.25504409211879,
+            13.916117426410318
+          ],
+          [
+            44.324896519550755,
+            13.8773812162427
+          ],
+          [
+            44.39628545951452,
+            13.8278739975236
+          ],
+          [
+            44.51359282562207,
+            13.75969469708812
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39310/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39310/batlas-label-location"
       }
     }
   ]

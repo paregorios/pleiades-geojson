@@ -3,10 +3,10 @@
   "title": "Casani/Gasani/Kassanitai",
   "id": "39326",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.3761967218,
+    15.3639657826,
+    43.9087516497,
+    15.9163003848
   ],
   "description": "An ancient people of the southwest coast of Arabia, probably localized in the area immediately south of modern Jazan, Saudi Arabia.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          43.6700022459,
+          15.6655674338
         ]
       },
       "properties": {
@@ -30,39 +30,41 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            43.376196721753715,
+            15.916300384812638
+          ],
+          [
+            43.538194864701445,
+            15.80331392654735
+          ],
+          [
+            43.651592571541244,
+            15.717054753551945
+          ],
+          [
+            43.73673193104929,
+            15.624444336970077
+          ],
+          [
+            43.832938210243945,
+            15.504105542541444
+          ],
+          [
+            43.90875164965785,
+            15.363965782603604
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39326/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39326/batlas-label-location"
       }
     }
   ]

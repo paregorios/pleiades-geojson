@@ -3,10 +3,10 @@
   "title": "C(h)armei",
   "id": "39329",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    44.4799966165,
+    16.7100993333,
+    45.4778630595,
+    16.7993224255
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 C(h)armei",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          44.9806748133,
+          16.7751663258
         ]
       },
       "properties": {
@@ -29,39 +29,45 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            44.47999661646042,
+            16.758265824527562
+          ],
+          [
+            44.72421186061699,
+            16.798559209116622
+          ],
+          [
+            44.90944919218435,
+            16.79932242546965
+          ],
+          [
+            45.03114295108115,
+            16.791376779743718
+          ],
+          [
+            45.186783618427015,
+            16.77224670152881
+          ],
+          [
+            45.341098544251764,
+            16.749322723852096
+          ],
+          [
+            45.477863059520686,
+            16.710099333305305
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39329/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39329/batlas-label-location"
       }
     }
   ]

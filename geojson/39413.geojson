@@ -3,10 +3,10 @@
   "title": "Rhadamaei",
   "id": "39413",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    44.5235482249,
+    13.4244078879,
+    45.2897849761,
+    13.58037365
   ],
   "description": "An ancient place, cited: BAtlas 4 B3 Rhadamaei",
   "names": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.9009921544,
+          13.530547657
         ]
       },
       "properties": {
@@ -31,39 +31,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              10.0
-            ],
-            [
-              40.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
-            ]
+            44.52354822491134,
+            13.42440788792541
+          ],
+          [
+            44.65213004796509,
+            13.47774977836802
+          ],
+          [
+            44.739914787545864,
+            13.502648365932467
+          ],
+          [
+            44.82428660365933,
+            13.531282202049404
+          ],
+          [
+            44.90905778581976,
+            13.54714609537855
+          ],
+          [
+            45.007882582213924,
+            13.56628966842516
+          ],
+          [
+            45.105264545825136,
+            13.575235321837518
+          ],
+          [
+            45.19593206685652,
+            13.580373649961986
+          ],
+          [
+            45.28978497607782,
+            13.573112110936432
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39413/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39413/batlas-label-location"
       }
     }
   ]

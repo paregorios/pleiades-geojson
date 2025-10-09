@@ -3,10 +3,10 @@
   "title": "Lysanitae",
   "id": "39371",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.6673057597,
+    15.0942165909,
+    44.6493629034,
+    15.4367484755
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Lysanitae",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          44.17106461,
+          15.2299692514
         ]
       },
       "properties": {
@@ -29,39 +29,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            43.66730575972359,
+            15.094216590936204
+          ],
+          [
+            43.81434989894908,
+            15.116912144628435
+          ],
+          [
+            43.9367480023447,
+            15.142240192890695
+          ],
+          [
+            44.04740357267448,
+            15.170517463935933
+          ],
+          [
+            44.183448973411,
+            15.213281916160065
+          ],
+          [
+            44.28875384447531,
+            15.256336071117381
+          ],
+          [
+            44.392536320251985,
+            15.299099426425222
+          ],
+          [
+            44.50069197639801,
+            15.3455344716364
+          ],
+          [
+            44.64936290337949,
+            15.436748475451253
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39371/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39371/batlas-label-location"
       }
     }
   ]

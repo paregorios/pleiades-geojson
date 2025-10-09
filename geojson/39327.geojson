@@ -3,10 +3,10 @@
   "title": "Cerbani",
   "id": "39327",
   "bbox": [
-    45.0,
-    10.0,
-    50.0,
-    15.0
+    45.1973243432,
+    13.4914310727,
+    45.874666675,
+    14.2623023408
   ],
   "description": "The Cerbani were an Arabian tribe mentioned by Pliny the Elder.",
   "connectsWith": [
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          12.5
+          45.5659996442,
+          13.902822778
         ]
       },
       "properties": {
@@ -44,39 +44,45 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              45.0,
-              10.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              50.0,
-              15.0
-            ],
-            [
-              50.0,
-              10.0
-            ],
-            [
-              45.0,
-              10.0
-            ]
+            45.19732434319259,
+            14.262302340785963
+          ],
+          [
+            45.36034113091219,
+            14.132506930332898
+          ],
+          [
+            45.47138766564462,
+            14.031891278836095
+          ],
+          [
+            45.58807048713915,
+            13.91477437252252
+          ],
+          [
+            45.68231651503168,
+            13.792967067852928
+          ],
+          [
+            45.78872653779063,
+            13.645240720794552
+          ],
+          [
+            45.87466667503978,
+            13.491431072747801
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39327/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39327/batlas-label-location"
       }
     }
   ]

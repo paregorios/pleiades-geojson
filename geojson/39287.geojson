@@ -3,10 +3,10 @@
   "title": "Anchitai",
   "id": "39287",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    43.6795088296,
+    13.7422971377,
+    44.3236799812,
+    13.9606200826
   ],
   "description": "An ancient place, cited: BAtlas 4 B3 Anchitai",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.0083685512,
+          13.8713188403
         ]
       },
       "properties": {
@@ -29,39 +29,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              10.0
-            ],
-            [
-              40.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
-            ]
+            43.67950882958351,
+            13.960620082614046
+          ],
+          [
+            43.813194347496776,
+            13.935234348834111
+          ],
+          [
+            43.915516233712204,
+            13.912492189671267
+          ],
+          [
+            44.00865521774818,
+            13.884754538221545
+          ],
+          [
+            44.08827395540964,
+            13.856252367428983
+          ],
+          [
+            44.159568454037064,
+            13.825328799470201
+          ],
+          [
+            44.23308903575256,
+            13.78745218348184
+          ],
+          [
+            44.32367998123731,
+            13.742297137699714
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39287/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39287/batlas-label-location"
       }
     }
   ]

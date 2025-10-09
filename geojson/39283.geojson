@@ -3,14 +3,16 @@
   "title": "Ammoni",
   "id": "39283",
   "bbox": [
-    40.0,
-    10.0,
-    45.0,
-    15.0
+    44.7296324189,
+    12.8680266953,
+    45.246531151,
+    13.0666918983
   ],
-  "description": "An ancient place, cited: BAtlas 4 B3 Ammoni",
+  "description": "An ancient people of the west coast of Arabia, mentioned only by Pliny. BAtlDir localizes them \"at Little Aden\" (i.e., ‘Adan aş Şughrá in Yemen). The associated BAtlas label covers the area just inland north from the peninsula occupied by Little Aden today.",
   "names": [
-    "Ammoni"
+    "Ammoni",
+    "Little Aden",
+    "‘Adan aş Şughrá"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          12.5
+          44.9789820093,
+          12.9913655465
         ]
       },
       "properties": {
@@ -28,39 +30,41 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              10.0
-            ],
-            [
-              40.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              10.0
-            ],
-            [
-              40.0,
-              10.0
-            ]
+            44.72963241890097,
+            12.868026695267455
+          ],
+          [
+            44.839582200748616,
+            12.940517862583611
+          ],
+          [
+            44.9439123362572,
+            12.992763650959464
+          ],
+          [
+            45.04524517045241,
+            13.030189766135322
+          ],
+          [
+            45.139326391958335,
+            13.052226565675838
+          ],
+          [
+            45.246531151017486,
+            13.066691898296131
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39283/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39283/batlas-label-location"
       }
     }
   ]

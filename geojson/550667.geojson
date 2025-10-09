@@ -8,9 +8,11 @@
     26.782977,
     39.355929
   ],
-  "description": "An ancient place, cited: BAtlas 56 D3 Koryphas",
+  "description": "Koryphas was a coastal settlement of Aeolis, located opposite Lesbos. The Mytilenaeans founded the settlement. Pliny the Elder mentions the site three times, including it in a comparative discussion of the quality of oysters sourced from various places in the Roman world.",
   "names": [
-    "Koryphas"
+    "Koryphas",
+    "Corifanio",
+    "Coryphas oppidum"
   ],
   "features": [
     {
@@ -37,7 +39,7 @@
       "id": "darmc-location-10099",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 10099",
         "link": "http://pleiades.stoa.org/places/550667/darmc-location-10099"

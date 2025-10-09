@@ -3,10 +3,10 @@
   "title": "T(h)onabaei",
   "id": "39433",
   "bbox": [
-    45.0,
-    15.0,
-    50.0,
-    20.0
+    46.6077563697,
+    14.9110896105,
+    47.5267982944,
+    15.3273180785
   ],
   "description": "The T(h)onabaei were a tribe of southern Arabia mentioned by Pliny the Elder.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          47.5,
-          17.5
+          47.0524906791,
+          15.1524501021
         ]
       },
       "properties": {
@@ -32,39 +32,53 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              45.0,
-              15.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              50.0,
-              20.0
-            ],
-            [
-              50.0,
-              15.0
-            ],
-            [
-              45.0,
-              15.0
-            ]
+            46.607756369743576,
+            14.91108961046762
+          ],
+          [
+            46.77985705554976,
+            15.0323265022665
+          ],
+          [
+            46.928677854250644,
+            15.116048245824302
+          ],
+          [
+            47.037456220367304,
+            15.167189123742506
+          ],
+          [
+            47.13733923986996,
+            15.205108556727554
+          ],
+          [
+            47.22809908567517,
+            15.245313714975502
+          ],
+          [
+            47.32323642828867,
+            15.265294654074976
+          ],
+          [
+            47.419338721229146,
+            15.306013969751616
+          ],
+          [
+            47.52679829437811,
+            15.327318078506552
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39433/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39433/batlas-label-location"
       }
     }
   ]

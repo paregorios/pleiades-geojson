@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "title": "Granicus (battlefield)",
+  "id": "800531031",
+  "bbox": [
+    27.2259064,
+    40.2817054,
+    27.2481183,
+    40.3035936
+  ],
+  "description": "Alexander's famous battle at the Granicus river in 334 BCE may have taken place in the vicinity of modern Güleç, Adliye, and Höyükbayırı Tepe in the Biga district of Turkey's Canakkale province.",
+  "connectsWith": [
+    "511260"
+  ],
+  "names": [
+    "Höyükbayırı Tepe",
+    "Adliye",
+    "Güleç"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.23701235,
+          40.2926495
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2259064,
+          40.2817054
+        ]
+      },
+      "id": "osm-location-modern-ga1-4leass",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap after Korpe 2025 figure 4.",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Güleç",
+        "link": "http://pleiades.stoa.org/places/800531031/osm-location-modern-ga1-4leass"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.2481183,
+          40.3035936
+        ]
+      },
+      "id": "osm-location-modern-adliye",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap after Korpe 2025 figure 4.",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Adliye",
+        "link": "http://pleiades.stoa.org/places/800531031/osm-location-modern-adliye"
+      }
+    }
+  ]
+}

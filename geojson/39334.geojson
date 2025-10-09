@@ -3,10 +3,10 @@
   "title": "Debai",
   "id": "39334",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    41.8261595968,
+    18.0185578672,
+    42.3514687235,
+    18.1067934382
   ],
   "description": "Strabo describes the Debai of southwestern Arabia as a semi-Nomadic people. He notes that they live in a land that is rich in resources (like gold) for which these people have no use. This description is part of his narrative of \"primitive\" peoples at the margins of the Roman world.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          42.0862861044,
+          18.0769459019
         ]
       },
       "properties": {
@@ -30,39 +30,37 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            41.82615959680521,
+            18.01855786721777
+          ],
+          [
+            41.986703413092926,
+            18.067475746954997
+          ],
+          [
+            42.099981935554005,
+            18.089408179309583
+          ],
+          [
+            42.215348657099845,
+            18.09888598193014
+          ],
+          [
+            42.351468723457025,
+            18.106793438172627
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39334/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39334/batlas-label-location"
       }
     }
   ]

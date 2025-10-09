@@ -3,17 +3,18 @@
   "title": "Callifae?",
   "id": "432737",
   "bbox": [
-    14.178842,
-    41.405755,
-    14.178842,
-    41.405755
+    14.1504563,
+    41.4000601,
+    14.1513256,
+    41.4005627
   ],
   "description": "A city of the Samnites that, according to Livy, was captured by the Romans in Republican times. Probably at or in the vicinity of modern Roccavecchia di Pratella in Italy.",
   "connectsWith": [
     "433078"
   ],
   "names": [
-    "Callifae"
+    "Callifae",
+    "Roccavecchia di Pratella"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.178842,
-          41.405755
+          14.1509143873,
+          41.4002913611
         ]
       },
       "properties": {
@@ -31,19 +32,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.178842,
-          41.405755
+          [
+            14.1507607,
+            41.4005627
+          ],
+          [
+            14.1504563,
+            41.4003266
+          ],
+          [
+            14.1507075,
+            41.4000601
+          ],
+          [
+            14.1512645,
+            41.4000869
+          ],
+          [
+            14.1513256,
+            41.4002194
+          ],
+          [
+            14.1513001,
+            41.4002758
+          ],
+          [
+            14.1513233,
+            41.4003702
+          ],
+          [
+            14.151017,
+            41.4005223
+          ],
+          [
+            14.1507607,
+            41.4005627
+          ]
         ]
       },
-      "id": "darmc-location-18277",
+      "id": "osm-location-of-callifae",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18277",
-        "link": "http://pleiades.stoa.org/places/432737/darmc-location-18277"
+        "title": "OSM location of Callifae",
+        "link": "http://pleiades.stoa.org/places/432737/osm-location-of-callifae"
       }
     }
   ]
