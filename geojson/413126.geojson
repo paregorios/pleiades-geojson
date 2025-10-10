@@ -3,8 +3,8 @@
   "title": "Falerii Veteres",
   "id": "413126",
   "bbox": [
-    12.4217,
-    42.2988,
+    12.40917,
+    42.295226,
     12.4217,
     42.2988
   ],
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4217,
-          42.2988
+          12.415435,
+          42.297013
         ]
       },
       "properties": {
@@ -49,6 +49,23 @@
         "location_precision": "precise",
         "title": "CIGS location of Falerii",
         "link": "http://pleiades.stoa.org/places/413126/cigs-location-of-falerii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.40917,
+          42.295226
+        ]
+      },
+      "id": "osm-location-of-civita-castellana",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Civita Castellana",
+        "link": "http://pleiades.stoa.org/places/413126/osm-location-of-civita-castellana"
       }
     }
   ]

@@ -8,13 +8,14 @@
     12.416853,
     42.210553
   ],
-  "description": "Fescennium (modern Narce) was a Faliscan settlement located ca. 5 km south of Falerii Veteres.",
+  "description": "Fescennium is the ancient name of a Faliscan settlement located ca. 5 km south of Falerii Veteres. The site, which was inhabited from the second millennium to the third century BCE, is often also called by the modern Italian name Narce (derived from an associated peak).",
   "connectsWith": [
     "690508612",
     "532728731"
   ],
   "names": [
-    "Fescennium"
+    "Fescennium",
+    "Narce"
   ],
   "features": [
     {
@@ -41,7 +42,7 @@
       "id": "darmc-location-18114",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 18114",
         "link": "http://pleiades.stoa.org/places/413133/darmc-location-18114"

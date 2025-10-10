@@ -3,10 +3,10 @@
   "title": "Lethaios (river)",
   "id": "589905",
   "bbox": [
-    24.9644123,
-    35.0283147,
-    24.9644123,
-    35.0283147
+    24.9388219,
+    34.9916251,
+    25.1038304,
+    35.0321887
   ],
   "description": "An ancient place, cited: BAtlas 60 C2 Lethaios fl.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9644123,
-          35.0283147
+          25.0266300251,
+          35.0236139835
         ]
       },
       "properties": {

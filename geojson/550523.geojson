@@ -8,11 +8,13 @@
     27.055256,
     38.941644
   ],
-  "description": "An ancient place, cited: BAtlas 56 E4 Elaea",
+  "description": "Elaea was an ancient place in Aeolis. Strabo mentions its status as a port of Pergamon.",
   "connectsWith": [
+    "507447",
     "177302800"
   ],
   "names": [
+    "Ela",
     "Elaea"
   ],
   "features": [
@@ -40,7 +42,7 @@
       "id": "darmc-location-12314",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 12314",
         "link": "http://pleiades.stoa.org/places/550523/darmc-location-12314"
