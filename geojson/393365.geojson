@@ -9,6 +9,9 @@
     45.757783
   ],
   "description": "An ancient place, cited: BAtlas 40 A1 Ad Palatium",
+  "connectsWith": [
+    "688514720"
+  ],
   "names": [
     "Ad Palatium"
   ],

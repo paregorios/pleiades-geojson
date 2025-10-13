@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "title": "Prato La Corte",
+  "id": "965286144",
+  "bbox": [
+    12.3938907,
+    42.0386829,
+    12.4004165,
+    42.0421457
+  ],
+  "description": "A villa rustica was excavated near Licenza in 1913, the exact position of which is no longer known. This site included a possible granary room, as well as a torcular.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3971535935,
+          42.0404142878
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4004165,
+            42.0386829
+          ],
+          [
+            12.3940578,
+            42.042057
+          ],
+          [
+            12.3938907,
+            42.0421457
+          ]
+        ]
+      },
+      "id": "osm-location-of-via-prato-la-corte",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Via Prato la Corte",
+        "link": "http://pleiades.stoa.org/places/965286144/osm-location-of-via-prato-la-corte"
+      }
+    }
+  ]
+}

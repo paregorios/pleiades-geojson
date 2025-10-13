@@ -3,14 +3,16 @@
   "title": "Akritas Pr.",
   "id": "520955",
   "bbox": [
-    29.25,
-    40.75,
-    29.5,
-    41.0
+    29.25817,
+    40.80332,
+    29.25817,
+    40.80332
   ],
   "description": "An ancient place, cited: BAtlas 53 C3 Akritas Pr.",
   "names": [
-    "Akritas Pr."
+    "Akritas Pr.",
+    "Tuzla burnu",
+    "Tuz Burnu"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.375,
-          40.875
+          29.25817,
+          40.80332
         ]
       },
       "properties": {
@@ -28,39 +30,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              29.25,
-              40.75
-            ],
-            [
-              29.25,
-              41.0
-            ],
-            [
-              29.5,
-              41.0
-            ],
-            [
-              29.5,
-              40.75
-            ],
-            [
-              29.25,
-              40.75
-            ]
-          ]
+          29.25817,
+          40.80332
         ]
       },
-      "id": "batlas-location",
+      "id": "geonames-location-modern-tuz-burnu",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/520955/batlas-location"
+        "location_precision": "precise",
+        "title": "Geonames location: modern Tuz burnu",
+        "link": "http://pleiades.stoa.org/places/520955/geonames-location-modern-tuz-burnu"
       }
     }
   ]

@@ -3,12 +3,15 @@
   "title": "Panormos",
   "id": "599862",
   "bbox": [
-    26.5,
-    36.5,
-    27.0,
-    37.0
+    26.9907457758,
+    36.9397341397,
+    27.0421268106,
+    36.9397846685
   ],
-  "description": "An ancient place, cited: BAtlas 61 D4 Panormos",
+  "description": "A bay, sheltered on the north and west by the island of Kalymna.",
+  "connectsWith": [
+    "599684"
+  ],
   "names": [
     "Panormos"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.75,
-          36.75
+          27.0164362932,
+          36.9397594041
         ]
       },
       "properties": {
@@ -28,39 +31,25 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              26.5,
-              36.5
-            ],
-            [
-              26.5,
-              37.0
-            ],
-            [
-              27.0,
-              37.0
-            ],
-            [
-              27.0,
-              36.5
-            ],
-            [
-              26.5,
-              36.5
-            ]
+            26.990745775812478,
+            36.93973413968664
+          ],
+          [
+            27.042126810633256,
+            36.93978466846959
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599862/undetermined"
+        "description": "Centerline of label on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/599862/batlas-label-location"
       }
     }
   ]

@@ -2,27 +2,49 @@
   "type": "FeatureCollection",
   "title": "Saros",
   "id": "590039",
-  "description": "An ancient place, cited: BAtlas 60 E4 Saros",
+  "bbox": [
+    27.232,
+    35.888,
+    27.232,
+    35.888
+  ],
+  "description": "The principal ancient settlement on the eponymous Aegean island (modern Saria), located at modern Palatia.",
+  "connectsWith": [
+    "590040"
+  ],
   "names": [
-    "Saros"
+    "Saros",
+    "Palatia"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.232,
+          35.888
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.232,
+          35.888
+        ]
+      },
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/590039/batlas-location"
+        "description": "Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "ToposText location",
+        "link": "http://pleiades.stoa.org/places/590039/topostext-location"
       }
     }
   ]

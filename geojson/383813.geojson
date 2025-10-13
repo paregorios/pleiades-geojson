@@ -9,8 +9,13 @@
     45.547374
   ],
   "description": "An ancient place, cited: BAtlas 39 H2 Vennum",
+  "connectsWith": [
+    "688514720"
+  ],
   "names": [
-    "Vennum"
+    "Vennum",
+    "Volargne",
+    "Vennu"
   ],
   "features": [
     {

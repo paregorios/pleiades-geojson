@@ -9,8 +9,12 @@
     37.087317
   ],
   "description": "An ancient place, cited: BAtlas 61 G3 *Pladasa",
+  "connectsWith": [
+    "48050879"
+  ],
   "names": [
-    "Pladasa"
+    "Pladasa",
+    "Candusuren"
   ],
   "features": [
     {

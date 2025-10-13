@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of the Sempronii (Palazzo San Felice, Rome)",
+  "id": "323719627",
+  "bbox": [
+    12.485026,
+    41.899928,
+    12.485026,
+    41.899928
+  ],
+  "description": "A late-Republican tomb located on the slope of the Quirinal Hill at Rome, now built into Palazzo San Felice (via della Dataria 21).",
+  "connectsWith": [
+    "125119394",
+    "423025"
+  ],
+  "names": [
+    "Sepolcro dei Sempronii"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485026,
+          41.899928
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485026,
+          41.899928
+        ]
+      },
+      "id": "imagery-location-marked-entry-to-via-della-dataria-21",
+      "type": "Feature",
+      "properties": {
+        "description": "Determined in Google Earth with reference to Google Street View imagery showing the front door and address number.",
+        "location_precision": "precise",
+        "title": "Imagery Location: marked entry to Via della Dataria, 21",
+        "link": "http://pleiades.stoa.org/places/323719627/imagery-location-marked-entry-to-via-della-dataria-21"
+      }
+    }
+  ]
+}

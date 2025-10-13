@@ -8,7 +8,7 @@
     8.637743,
     50.154109
   ],
-  "description": "A Roman vicus, corresponding to the modern Frankfurt am Main-Heddernheim in Germany. ",
+  "description": "A Roman vicus, corresponding to the modern Frankfurt am Main-Heddernheim in Germany.",
   "connectsWith": [
     "981525"
   ],
@@ -38,13 +38,13 @@
           50.154109
         ]
       },
-      "id": "center-point-of-the-roman-settlement",
+      "id": "imagery-location-center-point-of-the-roman-settlement",
       "type": "Feature",
       "properties": {
         "description": "The site of the Roman town and fort Nida is located in Heddernheim, a district (Stadtteil) of Frankfurt am Main. Nida was the capital of the Civitas Taunensium.",
         "location_precision": "precise",
-        "title": "Center point of the Roman settlement",
-        "link": "http://pleiades.stoa.org/places/109205/center-point-of-the-roman-settlement"
+        "title": "Imagery Location: Center point of the Roman settlement",
+        "link": "http://pleiades.stoa.org/places/109205/imagery-location-center-point-of-the-roman-settlement"
       }
     }
   ]

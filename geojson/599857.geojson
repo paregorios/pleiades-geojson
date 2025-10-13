@@ -1,15 +1,20 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Naxos)",
   "id": "599857",
   "bbox": [
-    25.5,
-    36.5,
-    26.0,
-    37.0
+    25.5362708991,
+    36.9584333016,
+    25.5362708991,
+    36.9584333016
   ],
-  "description": "An ancient place, cited: BAtlas 61 B4 Panormos",
+  "description": "A small, sheltered bay on the southeast coast of the Aegean island of Naxos. The modern village of Panermos Naxou (referenced in RE as cited by BAtlDir) is situated at the head of the bay.",
+  "connectsWith": [
+    "599822"
+  ],
   "names": [
+    "Panermos Naxou",
+    "Kalantou",
     "Panormos"
   ],
   "features": [
@@ -18,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.75,
-          36.75
+          25.5362708991,
+          36.9584333016
         ]
       },
       "properties": {
@@ -28,39 +33,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              25.5,
-              36.5
-            ],
-            [
-              25.5,
-              37.0
-            ],
-            [
-              26.0,
-              37.0
-            ],
-            [
-              26.0,
-              36.5
-            ],
-            [
-              25.5,
-              36.5
-            ]
-          ]
+          25.53627089914367,
+          36.958433301583064
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599857/undetermined"
+        "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/599857/batlas-point-location"
       }
     }
   ]

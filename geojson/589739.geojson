@@ -2,27 +2,48 @@
   "type": "FeatureCollection",
   "title": "Brykous",
   "id": "589739",
+  "bbox": [
+    27.166,
+    35.799,
+    27.166,
+    35.799
+  ],
   "description": "An ancient place, cited: BAtlas 60 E4 Brykous",
+  "connectsWith": [
+    "589841"
+  ],
   "names": [
     "Brykous"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.166,
+          35.799
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.166,
+          35.799
+        ]
+      },
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589739/batlas-location"
+        "description": "Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "ToposText location",
+        "link": "http://pleiades.stoa.org/places/589739/topostext-location"
       }
     }
   ]

@@ -3,14 +3,17 @@
   "title": "Skalia",
   "id": "599938",
   "bbox": [
-    26.953729,
-    37.037253,
-    26.953729,
-    37.037253
+    26.9531,
+    37.0375,
+    26.9531,
+    37.0375
   ],
   "description": "An ancient place, cited: BAtlas 61 D3 Skalia",
   "connectsWith": [
     "599684"
+  ],
+  "names": [
+    "Skalia"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.953729,
-          37.037253
+          26.9531,
+          37.0375
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.953729,
-          37.037253
+          26.9531,
+          37.0375
         ]
       },
-      "id": "darmc-location-14785",
+      "id": "topostext-location-of-skalia-exc-kalymnos",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Coordinates following Topostext",
         "location_precision": "precise",
-        "title": "DARMC location 14785",
-        "link": "http://pleiades.stoa.org/places/599938/darmc-location-14785"
+        "title": "Topostext location of Skalia exc. (Kalymnos)",
+        "link": "http://pleiades.stoa.org/places/599938/topostext-location-of-skalia-exc-kalymnos"
       }
     }
   ]

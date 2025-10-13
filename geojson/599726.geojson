@@ -8,11 +8,14 @@
     26.5690576,
     37.6557763
   ],
-  "description": "The Aegean archipelago known today as the Fournoi Korseon.",
+  "description": "The Aegean archipelago lying between Ikaros and Samos, known today as the Fourni Korseon. Its two main islands are known today as Thymena (to the west) and Fourni (to the east).",
   "connectsWith": [
     "560221"
   ],
   "names": [
+    "Fourni",
+    "Thymena",
+    "Fourni Korseon",
     "Korsiai"
   ],
   "features": [

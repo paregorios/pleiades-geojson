@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Cnidus",
+  "title": "Cnidus (Burgaz)",
   "id": "599576",
   "bbox": [
-    27.685848,
-    36.730968,
+    27.6993785,
+    36.7355973,
     27.6993785,
     36.7355973
   ],
-  "description": "Cnidus, a Greek city of ancient Caria that was part of the Dorian Hexapolis, was located at modern Burgaz in south-western Asia Minor on the modern Datça peninsula (Knidia) in Turkey. In the late fourth century, the political center of the peninsula moved from the site at Burgaz to the site at Tekir.",
+  "description": "A Greek city of ancient Caria that was part of the Dorian Hexapolis, was initially probably located at modern Burgaz in south-western Asia Minor on the Datça peninsula (Knidia) in Turkey. In the late fourth century BCE, the political center of the peninsula moved from the site at Burgaz to the site at Tekir, retaining the its ancient name. The Burgaz site is often referred to as \"Old Cnidus\" or \"Palaia Knidos\" in recognition of this change.",
   "connectsWith": [
     "599564"
   ],
@@ -24,29 +24,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.69261325,
-          36.73328265
+          27.6993785,
+          36.7355973
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.685848,
-          36.730968
-        ]
-      },
-      "id": "darmc-location-2989",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 2989",
-        "link": "http://pleiades.stoa.org/places/599576/darmc-location-2989"
       }
     },
     {

@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Drepanon?",
+  "title": "Agios Georgios Pegeia",
   "id": "707504",
   "bbox": [
-    32.318672,
-    34.898213,
-    32.320817,
-    34.902248
+    32.3202864,
+    34.9014939,
+    32.3290912,
+    34.9054003
   ],
   "description": "An ancient settlement at the church of Ag. Georgios on Cape Drepanon on the west coast of Cyprus.",
   "connectsWith": [
@@ -15,7 +15,9 @@
   "names": [
     "Drepanon",
     "Hiera",
-    "Tegessos"
+    "Tegessos",
+    "Agios Georgios Pegeia",
+    "Ag. Georgios"
   ],
   "features": [
     {
@@ -23,29 +25,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.3197445,
-          34.9002305
+          32.3235267395,
+          34.9031486214
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          32.318672,
-          34.898213
-        ]
-      },
-      "id": "darmc-location-845",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 845",
-        "link": "http://pleiades.stoa.org/places/707504/darmc-location-845"
       }
     },
     {
@@ -63,6 +48,156 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/707504/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3203544,
+            34.9023498
+          ],
+          [
+            32.320313,
+            34.9023576
+          ],
+          [
+            32.320304,
+            34.9023256
+          ],
+          [
+            32.3202864,
+            34.9022629
+          ],
+          [
+            32.3205709,
+            34.901809
+          ],
+          [
+            32.3205624,
+            34.9015493
+          ],
+          [
+            32.3208074,
+            34.9014939
+          ],
+          [
+            32.3217144,
+            34.9017503
+          ],
+          [
+            32.3215333,
+            34.9022086
+          ],
+          [
+            32.3219222,
+            34.9024308
+          ],
+          [
+            32.3219622,
+            34.9025588
+          ],
+          [
+            32.3219538,
+            34.9027806
+          ],
+          [
+            32.321489,
+            34.9029053
+          ],
+          [
+            32.3213723,
+            34.9027233
+          ],
+          [
+            32.3208842,
+            34.9025165
+          ],
+          [
+            32.3206735,
+            34.9024184
+          ],
+          [
+            32.3206178,
+            34.9023751
+          ],
+          [
+            32.3203544,
+            34.9023498
+          ]
+        ]
+      },
+      "id": "osm-location-agios-georgios-ancient-basilikas",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Agios Georgios Ancient Basilikas",
+        "link": "http://pleiades.stoa.org/places/707504/osm-location-agios-georgios-ancient-basilikas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3280106,
+            34.9048884
+          ],
+          [
+            32.3282537,
+            34.9046074
+          ],
+          [
+            32.3285446,
+            34.9047234
+          ],
+          [
+            32.3288543,
+            34.9048609
+          ],
+          [
+            32.3290312,
+            34.9049394
+          ],
+          [
+            32.3290912,
+            34.9051562
+          ],
+          [
+            32.3290639,
+            34.9053391
+          ],
+          [
+            32.3289883,
+            34.9054003
+          ],
+          [
+            32.328814,
+            34.905396
+          ],
+          [
+            32.3286013,
+            34.9052712
+          ],
+          [
+            32.3283988,
+            34.9051716
+          ],
+          [
+            32.3280106,
+            34.9048884
+          ]
+        ]
+      },
+      "id": "osm-location-necropolis-at-meletis-forest",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Necropolis at Meletis Forest",
+        "link": "http://pleiades.stoa.org/places/707504/osm-location-necropolis-at-meletis-forest"
       }
     }
   ]

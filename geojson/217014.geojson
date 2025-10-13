@@ -3,10 +3,10 @@
   "title": "Tirizis Pr.",
   "id": "217014",
   "bbox": [
-    28.463933,
-    43.377088,
-    28.463933,
-    43.377088
+    28.4652226,
+    43.3603744,
+    28.4652226,
+    43.3603744
   ],
   "description": "An ancient place, cited: BAtlas 22 F5 Tirizis Pr.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.463933,
-          43.377088
+          28.4652226,
+          43.3603744
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.463933,
-          43.377088
+          28.4652226,
+          43.3603744
         ]
       },
-      "id": "location-of-tirizis-pr",
+      "id": "osm-location-of-cape-kaliakra",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Tirizis Pr.",
-        "link": "http://pleiades.stoa.org/places/217014/location-of-tirizis-pr"
+        "title": "OSM location of Cape Kaliakra",
+        "link": "http://pleiades.stoa.org/places/217014/osm-location-of-cape-kaliakra"
       }
     }
   ]

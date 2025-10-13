@@ -1,14 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Korsiai islands)",
   "id": "599858",
   "bbox": [
-    26.0,
-    37.5,
-    26.5,
-    38.0
+    26.4803455132,
+    37.5803990043,
+    26.4803455132,
+    37.5803990043
   ],
-  "description": "An ancient place, cited: BAtlas 61 C2 Panormos",
+  "description": "A sheltered bay and anchorage at the modern settlement of Fourni (possibly the ancient settlement of Korsiai) on the island of Fourni in the Korsiai archipelago.",
+  "connectsWith": [
+    "599726"
+  ],
   "names": [
     "Panormos"
   ],
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.25,
-          37.75
+          26.4803455132,
+          37.5803990043
         ]
       },
       "properties": {
@@ -28,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              26.0,
-              37.5
-            ],
-            [
-              26.0,
-              38.0
-            ],
-            [
-              26.5,
-              38.0
-            ],
-            [
-              26.5,
-              37.5
-            ],
-            [
-              26.0,
-              37.5
-            ]
-          ]
+          26.48034551321707,
+          37.58039900426593
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-point-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599858/undetermined"
+        "description": "Point location on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+        "location_precision": "precise",
+        "title": "BAtlas Point Location",
+        "link": "http://pleiades.stoa.org/places/599858/batlas-point-location"
       }
     }
   ]

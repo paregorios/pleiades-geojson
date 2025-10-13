@@ -9,6 +9,9 @@
     45.438347
   ],
   "description": "An ancient place, cited: BAtlas 40 A2 Castello del Tartaro",
+  "names": [
+    "Castello del Tartaro"
+  ],
   "features": [
     {
       "type": "Feature",

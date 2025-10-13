@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monte Stallone catacomb (Formello)",
+  "id": "973267320",
+  "bbox": [
+    12.405693,
+    42.077496,
+    12.405693,
+    42.077496
+  ],
+  "description": "A Christian catacomb at Monte Stallone near Formello (Italy) was discovered in the 1960s.",
+  "names": [
+    "catacomba di Monte Stallone"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.405693,
+          42.077496
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.405693,
+          42.077496
+        ]
+      },
+      "id": "vici-org-location-of-catacomba-di-monte-stallone",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Catacomba di Monte Stallone",
+        "link": "http://pleiades.stoa.org/places/973267320/vici-org-location-of-catacomba-di-monte-stallone"
+      }
+    }
+  ]
+}

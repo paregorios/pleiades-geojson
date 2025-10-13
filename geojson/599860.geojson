@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Samos)",
   "id": "599860",
   "bbox": [
-    26.5,
-    37.5,
-    27.0,
-    38.0
+    26.9232133827,
+    37.756509429,
+    26.9633975602,
+    37.7898951553
   ],
-  "description": "An ancient place, cited: BAtlas 61 D2 Panormos",
+  "description": "A bay on the north coast of the island of Samos.",
   "connectsWith": [
     "599926"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.75,
-          37.75
+          26.9437874522,
+          37.7737765619
         ]
       },
       "properties": {
@@ -31,39 +31,49 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              26.5,
-              37.5
-            ],
-            [
-              26.5,
-              38.0
-            ],
-            [
-              27.0,
-              38.0
-            ],
-            [
-              27.0,
-              37.5
-            ],
-            [
-              26.5,
-              37.5
-            ]
+            26.92321338267258,
+            37.78989515526916
+          ],
+          [
+            26.93001457605973,
+            37.78447019537908
+          ],
+          [
+            26.93591445208219,
+            37.78064518947182
+          ],
+          [
+            26.941332023881028,
+            37.77636099337303
+          ],
+          [
+            26.946643237342194,
+            37.77254474040042
+          ],
+          [
+            26.95179877637563,
+            37.76723785141604
+          ],
+          [
+            26.95720508917515,
+            37.76257984664472
+          ],
+          [
+            26.963397560190085,
+            37.75650942901731
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599860/undetermined"
+        "description": "Centerline of label on Barrington Atlas map 61 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2002.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/599860/batlas-label-location"
       }
     }
   ]

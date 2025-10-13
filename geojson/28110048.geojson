@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Philippaioi",
+  "id": "28110048",
+  "bbox": [
+    21.1422461095,
+    40.0734208065,
+    21.1429831023,
+    40.0735417214
+  ],
+  "description": "A Hellenistic fortified site located southwest of modern Philippaioi in the municipal territory of Grevena in Greece's decentralized administration of Epirus and Western Macedonia",
+  "names": [
+    "Filippaioi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1426162377,
+          40.0734875828
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                21.14298310231622,
+                40.07342507195712
+              ],
+              [
+                21.142981227624198,
+                40.0734208064859
+              ],
+              [
+                21.142922753509986,
+                40.07343597167302
+              ],
+              [
+                21.142673710993623,
+                40.07348013089885
+              ],
+              [
+                21.14245374916954,
+                40.07351138602185
+              ],
+              [
+                21.14224610945677,
+                40.07353727818292
+              ],
+              [
+                21.142247048039753,
+                40.073541721427326
+              ],
+              [
+                21.142454751392577,
+                40.07351582182802
+              ],
+              [
+                21.142674903165172,
+                40.0734845389641
+              ],
+              [
+                21.142924353220494,
+                40.073440307824434
+              ],
+              [
+                21.14298310231622,
+                40.07342507195712
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "archkt-monument-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "ArchKt Monument Location",
+        "link": "http://pleiades.stoa.org/places/28110048/archkt-monument-location"
+      }
+    }
+  ]
+}
