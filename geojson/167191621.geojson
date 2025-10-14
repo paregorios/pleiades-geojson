@@ -8,7 +8,7 @@
     26.5478143,
     37.3093624
   ],
-  "description": "17th century church behind the Monastery of Saint John the Theologian in Patmos.",
+  "description": "17th-century church behind the Monastery of Saint John the Theologian in Patmos.",
   "connectsWith": [
     "599872"
   ],
@@ -36,6 +36,10 @@
           [
             26.5477969,
             37.3092931
+          ],
+          [
+            26.5478056,
+            37.3093133
           ],
           [
             26.5478143,

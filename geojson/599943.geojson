@@ -1,18 +1,31 @@
 {
   "type": "FeatureCollection",
-  "title": "Sounion Pr.",
+  "title": "Sounion (Paros)",
   "id": "599943",
-  "description": "An ancient place, cited: BAtlas 61 A3 Sounion Pr.",
+  "bbox": [
+    25.0973252,
+    36.975056,
+    25.294397,
+    37.1552988
+  ],
+  "description": "The northeastern tip of the island of Paros.",
   "connectsWith": [
     "599868"
   ],
   "names": [
-    "Sounion Pr."
+    "Sounion Pr.",
+    "Sounion akron"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1984705532,
+          37.0651906726
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

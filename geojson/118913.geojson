@@ -3,20 +3,23 @@
   "title": "Praha",
   "id": "118913",
   "bbox": [
-    14.420614,
-    50.087986,
-    14.420614,
-    50.087986
+    14.4212535,
+    50.0874654,
+    14.4212535,
+    50.0874654
   ],
   "description": "An ancient place, cited: BAtlas 12 H2 Praha",
+  "names": [
+    "Praha"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.420614,
-          50.087986
+          14.4212535,
+          50.0874654
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.420614,
-          50.087986
+          14.4212535,
+          50.0874654
         ]
       },
-      "id": "darmc-location-14391",
+      "id": "osm-location-of-prague",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14391",
-        "link": "http://pleiades.stoa.org/places/118913/darmc-location-14391"
+        "title": "OSM location of Prague",
+        "link": "http://pleiades.stoa.org/places/118913/osm-location-of-prague"
       }
     }
   ]

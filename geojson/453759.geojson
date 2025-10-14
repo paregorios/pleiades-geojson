@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "453759",
   "bbox": [
-    16.266607,
-    39.096351,
-    16.266607,
-    39.096351
+    16.2744088,
+    39.1327519,
+    16.2747253,
+    39.1331116
   ],
   "description": "An ancient place, cited: BAtlas 46 D3 unnamed bridge (N Ad Fluvium Sabutum, over R. Savuto)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.266607,
-          39.096351
+          16.2745670504,
+          39.1329317508
         ]
       },
       "properties": {
@@ -28,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.266607,
-          39.096351
+          [
+            16.2744088,
+            39.1327752
+          ],
+          [
+            16.2746767,
+            39.1331116
+          ],
+          [
+            16.2747024,
+            39.1330993
+          ],
+          [
+            16.2747253,
+            39.1330883
+          ],
+          [
+            16.2744574,
+            39.1327519
+          ],
+          [
+            16.2744251,
+            39.1327674
+          ],
+          [
+            16.2744088,
+            39.1327752
+          ]
         ]
       },
-      "id": "darmc-location-27936",
+      "id": "osm-location-of-ponte-di-annibale",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 27936",
-        "link": "http://pleiades.stoa.org/places/453759/darmc-location-27936"
+        "title": "OSM location of Ponte di Annibale",
+        "link": "http://pleiades.stoa.org/places/453759/osm-location-of-ponte-di-annibale"
       }
     }
   ]

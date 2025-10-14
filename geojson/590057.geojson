@@ -1,28 +1,48 @@
 {
   "type": "FeatureCollection",
-  "title": "Sounion? Pr.",
+  "title": "Sounion? (Siphnos)",
   "id": "590057",
-  "description": "An ancient place, cited: BAtlas 60 C4 Sounion? Pr.",
+  "bbox": [
+    24.63675,
+    37.04055,
+    24.63675,
+    37.04055
+  ],
+  "description": "An ancient cape of the island of Siphnos, mentioned by Stephanus. It is possibly to be identified with the extreme northwest tip of the island, known today as Cape Philippos.",
   "names": [
-    "Sounion Pr."
+    "Ákra Fílippos",
+    "Sounion Pr.",
+    "Sounion"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63675,
+          37.04055
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.63675,
+          37.04055
+        ]
+      },
+      "id": "geonames-location-modern-akra-philippos",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/590057/batlas-location"
+        "location_precision": "precise",
+        "title": "Geonames location: modern Akra Philippos",
+        "link": "http://pleiades.stoa.org/places/590057/geonames-location-modern-akra-philippos"
       }
     }
   ]

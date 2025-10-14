@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Sounion",
+  "title": "Sounion (Attica: settlement and deme)",
   "id": "580107",
   "bbox": [
     24.0243873,
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.0271373432,
-          37.6530351725
+          24.0262881784,
+          37.6520940078
         ]
       },
       "properties": {

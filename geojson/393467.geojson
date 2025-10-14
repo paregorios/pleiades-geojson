@@ -3,10 +3,10 @@
   "title": "Ostium Volane",
   "id": "393467",
   "bbox": [
-    12.169186,
-    44.94935,
-    12.169186,
-    44.94935
+    12.176693,
+    44.9463899,
+    12.176693,
+    44.9463899
   ],
   "description": "An ancient place, cited: BAtlas 40 C3 Ostium Volane",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.169186,
-          44.94935
+          12.176693,
+          44.9463899
         ]
       },
       "properties": {

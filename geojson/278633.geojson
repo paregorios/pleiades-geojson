@@ -1,31 +1,37 @@
 {
   "type": "FeatureCollection",
-  "title": "Pisciana",
+  "title": "(Vo)pisciana",
   "id": "278633",
-  "description": "An ancient place, cited: BAtlas 28 unlocated Pisciana",
+  "bbox": [
+    -5.998299,
+    34.686239,
+    -5.998299,
+    34.686239
+  ],
+  "description": "The Antonine Itinerary attests to a station \"Vopiscianis\" (GeogRav \"Bobiscianis\") on the route from Tocolosida (modern Bled Takourart in Morocco) to Tingi (modern Tangier). Ptolemy's \"Piskiana\" would seem to reference the same feature or a nearby settlement associated with the road station. Various suggestions have been made by modern scholars for its identification with a suitable archaeological site or ruin in the area; the current communis opinio holds for Souq el Arbaâ du Gharb (see Souk el Arba).",
   "connectsWith": [
+    "275725",
     "275717"
   ],
   "names": [
+    "Vopiscianis",
+    "Bopiscianis",
+    "Piskiana",
+    "Pisciana",
     "Pisciana"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.998299,
+          34.686239
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/278633/batlas-location"
       }
     }
   ]

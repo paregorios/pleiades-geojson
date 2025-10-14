@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Mykonos)",
   "id": "599856",
   "bbox": [
     25.374722,
@@ -8,7 +8,7 @@
     25.374722,
     37.473056
   ],
-  "description": "An ancient place, cited: BAtlas 61 A3 Panormos",
+  "description": "The largest bay of the island of Mykonos, opening to the north.",
   "connectsWith": [
     "599808"
   ],

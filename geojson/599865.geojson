@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Küdür)",
   "id": "599865",
   "bbox": [
-    27.0,
-    37.0,
-    27.5,
-    37.5
+    27.259801,
+    37.123428,
+    27.259801,
+    37.123428
   ],
-  "description": "An ancient place, cited: BAtlas 61 E3 Panormos (1)",
+  "description": "A narrow, long bay opening on the north side of the modern Küdür peninsula in the Bodrum district of Turkey's Muğla province. BAtlDir offers the modern name \"Alaman Gölü\".",
   "names": [
     "Panormos",
     "Alaman Gölü"
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.25,
-          37.25
+          27.259801,
+          37.123428
         ]
       },
       "properties": {
@@ -29,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              27.0,
-              37.0
-            ],
-            [
-              27.0,
-              37.5
-            ],
-            [
-              27.5,
-              37.5
-            ],
-            [
-              27.5,
-              37.0
-            ],
-            [
-              27.0,
-              37.0
-            ]
-          ]
+          27.259801,
+          37.123428
         ]
       },
-      "id": "undetermined",
+      "id": "imagery-location-after-batlas",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599865/undetermined"
+        "description": "Imagery location, determined in Google Earth, with reference to \"PANORMOS\" label and arrow in BAtlas 61 E3. Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "Imagery Location after BAtlas",
+        "link": "http://pleiades.stoa.org/places/599865/imagery-location-after-batlas"
       }
     }
   ]

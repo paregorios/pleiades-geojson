@@ -3,6 +3,10 @@
   "title": "Prasstilos/Prassilos/Praxilos",
   "id": "494614",
   "description": "An ancient place, cited: BAtlas 50 unlocated Prass(t)ilos § Praxilos",
+  "connectsWith": [
+    "48050879",
+    "491561"
+  ],
   "names": [
     "Prasstilos",
     "Prassilos",
