@@ -9,14 +9,17 @@
     45.8329786
   ],
   "description": "Archaeological fieldwork conducted on Monte Barro between 1986 and 1997 produced important data related to the early Middle Ages in northern Italy. A settlement with a military nature develops from the fifth century CE onward. Of particular interest is a structure dubbed \"Grande edificio\", interpreted as the likely residence of a public official.",
+  "names": [
+    "Monte Barro"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.3668496995,
-          45.832077911
+          9.36685208576,
+          45.8320800419
         ]
       },
       "properties": {
@@ -104,36 +107,84 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.3668158,
-            45.8320245
+            9.3668262,
+            45.832023
           ],
           [
-            9.366905,
-            45.8323669
+            9.3668871,
+            45.8322784
           ],
           [
-            9.3669108,
-            45.8323892
+            9.3668938,
+            45.8323065
           ],
           [
-            9.3672614,
-            45.8323448
+            9.3669158,
+            45.8323985
           ],
           [
-            9.3672364,
-            45.8322489
+            9.3670362,
+            45.8323846
           ],
           [
-            9.3673343,
-            45.8322365
+            9.3671361,
+            45.832373
           ],
           [
-            9.3672643,
-            45.8319678
+            9.3671909,
+            45.8323667
           ],
           [
-            9.3668158,
-            45.8320245
+            9.3672611,
+            45.8323585
+          ],
+          [
+            9.3672496,
+            45.8323103
+          ],
+          [
+            9.3672391,
+            45.8322664
+          ],
+          [
+            9.3672872,
+            45.8322609
+          ],
+          [
+            9.3673134,
+            45.8322578
+          ],
+          [
+            9.3673407,
+            45.8322547
+          ],
+          [
+            9.3672731,
+            45.8319712
+          ],
+          [
+            9.3672319,
+            45.831976
+          ],
+          [
+            9.3672056,
+            45.8319791
+          ],
+          [
+            9.3671678,
+            45.8319834
+          ],
+          [
+            9.3670186,
+            45.8320007
+          ],
+          [
+            9.366965,
+            45.8320069
+          ],
+          [
+            9.3668262,
+            45.832023
           ]
         ]
       },

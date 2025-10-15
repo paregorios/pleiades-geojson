@@ -3,20 +3,23 @@
   "title": "Surami Pass",
   "id": "864481",
   "bbox": [
-    43.4995953,
-    42.0268522,
-    43.4995953,
-    42.0268522
+    43.4997266,
+    42.0268613,
+    43.4997266,
+    42.0268613
   ],
   "description": "A mountain pass of the Likhi Range of Georgia (altitude of 949 metres (3,114 ft)).",
+  "names": [
+    "Surami Pass"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.4995953,
-          42.0268522
+          43.4997266,
+          42.0268613
         ]
       },
       "properties": {
@@ -27,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.4995953,
-          42.0268522
+          43.4997266,
+          42.0268613
         ]
       },
       "id": "osm-location",

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Aroanios (river)",
+  "title": "Aroanios (Arcadia: river above Kleitor)",
   "id": "570114",
   "bbox": [
     22.1320629,
@@ -8,7 +8,7 @@
     22.1597624,
     37.9276557
   ],
-  "description": "An ancient river of the Peloponnese, rising near the site of ancient Kleitor and flowing south to join the Ladon river.",
+  "description": "One of three rivers mentioned in ancient sources with this name. Pausanias describes this Aroanios as flowing near the site of ancient Kleitor and joining the Ladon river. BAtlas labels the modern river course that today carries the ancient name.",
   "names": [
     "Aroanios",
     "Phoniatiko",

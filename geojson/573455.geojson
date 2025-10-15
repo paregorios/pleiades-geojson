@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Phoinikous",
   "id": "573455",
+  "bbox": [
+    22.8910148,
+    36.1302411,
+    23.1049239,
+    36.3857798
+  ],
   "description": "An ancient settlement, attested by literary or documentary sources, whose precise location cannot be determined today",
   "connectsWith": [
     "570186"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.986508037,
+          36.2483051429
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

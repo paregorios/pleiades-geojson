@@ -3,20 +3,23 @@
   "title": "Estremoz",
   "id": "256163",
   "bbox": [
-    -7.591728,
-    38.845429,
-    -7.591728,
-    38.845429
+    -7.586907,
+    38.8432944,
+    -7.586907,
+    38.8432944
   ],
-  "description": "An ancient place, cited: BAtlas 26 C3 Estremoz",
+  "description": "Roman-era marble extraction in the vicinity of modern Estremoz in Portugal can be documented by use of the local stone throughout the western part of the Iberian peninsula.",
+  "names": [
+    "Estremoz"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.591728,
-          38.845429
+          -7.586907,
+          38.8432944
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.591728,
-          38.845429
+          -7.586907,
+          38.8432944
         ]
       },
-      "id": "darmc-location-19502",
+      "id": "osm-location-modern-estremoz",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19502",
-        "link": "http://pleiades.stoa.org/places/256163/darmc-location-19502"
+        "title": "OSM Location: modern Estremoz",
+        "link": "http://pleiades.stoa.org/places/256163/osm-location-modern-estremoz"
       }
     }
   ]
