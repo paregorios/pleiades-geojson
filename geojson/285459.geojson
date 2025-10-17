@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "title": "Kh., see Kherba",
+  "title": "Withdrawn (invalid): Kh., see Kherba",
   "id": "285459",
-  "description": "An ancient place, cited: BAtlas 29 Kh., see Kherba",
+  "description": "An invalid place resource inadvertently created from a cross-reference during import of data from the Barrington Atlas Directory. The old place resource has been replaced by a query for \"Kherba\" in titles.",
   "names": [
     "Kh., see Kherba"
   ],
@@ -22,7 +22,7 @@
         "description": null,
         "location_precision": "unlocated",
         "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/285459/batlas-location"
+        "link": "http://pleiades.stoa.org/errata/285459/batlas-location"
       }
     }
   ]

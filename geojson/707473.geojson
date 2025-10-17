@@ -9,6 +9,10 @@
     35.0
   ],
   "description": "An ancient place, cited: BAtlas 72 E3 Aphrodites Lophos",
+  "connectsWith": [
+    "707604",
+    "707498"
+  ],
   "names": [
     "Aphrodites Lophos"
   ],
