@@ -9,6 +9,9 @@
     37.972924
   ],
   "description": "An ancient place, cited: BAtlas 59 B3 Keiriadai",
+  "connectsWith": [
+    "908290183"
+  ],
   "names": [
     "Keiriadai"
   ],

@@ -9,6 +9,9 @@
     38.047761
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Kopros",
+  "connectsWith": [
+    "908290183"
+  ],
   "names": [
     "Kópros"
   ],
