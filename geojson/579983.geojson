@@ -9,6 +9,9 @@
     38.242096
   ],
   "description": "An Attic deme, located on Mount Pentelicon near Hecale or Michaleza.",
+  "connectsWith": [
+    "482653002"
+  ],
   "names": [
     "Kolonai"
   ],

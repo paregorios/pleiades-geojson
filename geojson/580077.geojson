@@ -9,6 +9,9 @@
     37.781471
   ],
   "description": "An ancient place, cited: BAtlas 59 C3 Phrearroi",
+  "connectsWith": [
+    "482653002"
+  ],
   "names": [
     "Phrearroi",
     "Phreárrhioi",

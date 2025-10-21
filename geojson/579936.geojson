@@ -9,6 +9,9 @@
     38.059339
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Geravouno",
+  "connectsWith": [
+    "579933"
+  ],
   "features": [
     {
       "type": "Feature",

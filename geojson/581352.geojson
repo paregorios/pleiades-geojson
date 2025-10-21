@@ -3,14 +3,15 @@
   "title": "Untitled",
   "id": "581352",
   "bbox": [
-    23.5,
-    38.0,
-    23.75,
-    38.25
+    23.557463,
+    38.047761,
+    23.557463,
+    38.047761
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 unnamed bridge (Kalo Pegadi, on Hiera Hodos at Kopros)",
   "connectsWith": [
-    "579989"
+    "579989",
+    "522406511"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.625,
-          38.125
+          23.557463,
+          38.047761
         ]
       },
       "properties": {

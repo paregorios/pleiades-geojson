@@ -3,6 +3,9 @@
   "title": "Hybadai/Aithalidai",
   "id": "585918",
   "description": "An ancient place, cited: BAtlas 59 unlocated Hybadai/Aithalidai",
+  "connectsWith": [
+    "482653002"
+  ],
   "names": [
     "Hybadai",
     "Aithalidai"

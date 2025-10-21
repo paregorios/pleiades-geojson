@@ -9,6 +9,9 @@
     38.118034
   ],
   "description": "An ancient place, cited: BAtlas 59 C2 Aithalidai/Hybadai?",
+  "connectsWith": [
+    "482653002"
+  ],
   "names": [
     "Aithalidai",
     "Hybadai"

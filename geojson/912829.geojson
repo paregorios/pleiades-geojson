@@ -8,7 +8,7 @@
     48.5582029,
     32.2271935
   ],
-  "description": "The Chalcolithic settlement site of Chogha Mish, also known as Tappeh-ye Choghā Mīsh, dates originally to the early seventh millennium BCE and is located on the Susiana Plain of western Iran. The site was occupied continuously from the Neolithic period to the Proto-Literate period. It was eventually eclipsed by nearby Susa.",
+  "description": "The Chalcolithic settlement site of Chogha Mish, also known as Tappeh-ye Choghā Mīsh, dates originally to the early seventh millennium BCE and is located on the Susiana Plain of western Iran. The site was occupied continuously from the Neolithic period to the Proto-Literate period. It was eventually eclipsed by nearby Susa, but BAtlDir maintains its occupation through at least the end of the early Roman imperial period, and possibly later.",
   "connectsWith": [
     "912835"
   ],
@@ -40,7 +40,7 @@
       "id": "darmc-location-21504",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 21504",
         "link": "http://pleiades.stoa.org/places/912829/darmc-location-21504"
