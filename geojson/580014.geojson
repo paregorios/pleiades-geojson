@@ -3,14 +3,17 @@
   "title": "Limiko (Attica)",
   "id": "580014",
   "bbox": [
-    23.69338,
-    38.199727,
-    23.69338,
-    38.199727
+    23.6925492,
+    38.2018009,
+    23.6926512,
+    38.2018911
   ],
   "description": "An ancient place, cited: BAtlas 59 B2 Limiko",
   "connectsWith": [
     "580097"
+  ],
+  "names": [
+    "Limiko"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.69338,
-          38.199727
+          23.6926002082,
+          38.2018460338
         ]
       },
       "properties": {
@@ -28,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.69338,
-          38.199727
+          [
+            23.6925492,
+            38.2018815
+          ],
+          [
+            23.6925636,
+            38.2018009
+          ],
+          [
+            23.6926512,
+            38.2018106
+          ],
+          [
+            23.6926369,
+            38.2018911
+          ],
+          [
+            23.6925492,
+            38.2018815
+          ]
         ]
       },
-      "id": "darmc-location-21584",
+      "id": "osm-location-of-limiko-tower",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21584",
-        "link": "http://pleiades.stoa.org/places/580014/darmc-location-21584"
+        "title": "OSM location of Limiko Tower",
+        "link": "http://pleiades.stoa.org/places/580014/osm-location-of-limiko-tower"
       }
     }
   ]

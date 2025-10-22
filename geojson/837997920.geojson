@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Windmill Hill (Athens)",
+  "id": "837997920",
+  "bbox": [
+    23.73592,
+    37.9672,
+    23.73592,
+    37.9672
+  ],
+  "description": "A now-disappeared terrace wall and rock cuttings were thought to be the remains of an ancient sanctuary of uncertain identity.",
+  "connectsWith": [
+    "579885"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73592,
+          37.9672
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.73592,
+          37.9672
+        ]
+      },
+      "id": "topostext-location-of-windmill-hill-sanctuary-athens-mets",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates and chronology following ToposText",
+        "location_precision": "precise",
+        "title": "ToposText location of Windmill Hill sanctuary (Athens) Mets",
+        "link": "http://pleiades.stoa.org/places/837997920/topostext-location-of-windmill-hill-sanctuary-athens-mets"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Salamis sea-fight tumulus (Salamis) ",
+  "id": "629239338",
+  "bbox": [
+    23.5512197,
+    37.9469323,
+    23.5512197,
+    37.9469323
+  ],
+  "description": "The so-called Salamis sea-fight tumulus includes the remains of an ancient tumulus and burials of the Classical period.",
+  "connectsWith": [
+    "580002"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5512197,
+          37.9469323
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5512197,
+          37.9469323
+        ]
+      },
+      "id": "osm-location-of-ii1-2i-i1-4iui-i-ipsi-i-i-i1-4i1i1",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Μνημείο Σαλαμινομάχων",
+        "link": "http://pleiades.stoa.org/places/629239338/osm-location-of-ii1-2i-i1-4iui-i-ipsi-i-i-i1-4i1i1"
+      }
+    }
+  ]
+}

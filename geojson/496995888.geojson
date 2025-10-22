@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Makrygiannis domus",
+  "id": "496995888",
+  "bbox": [
+    23.7301493,
+    37.968175,
+    23.7301493,
+    37.968175
+  ],
+  "description": "Remains of a substantial townhouse (or villa) dating to the fourth and fifth centuries CE.",
+  "connectsWith": [
+    "579885"
+  ],
+  "names": [
+    "Makrygiannis domus (Athens)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7301493,
+          37.968175
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7301493,
+          37.968175
+        ]
+      },
+      "id": "osm-location-of-makrygiannis-domus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Makrygiannis domus",
+        "link": "http://pleiades.stoa.org/places/496995888/osm-location-of-makrygiannis-domus"
+      }
+    }
+  ]
+}

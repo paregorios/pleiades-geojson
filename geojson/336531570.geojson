@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "EC building (Athens)",
+  "id": "336531570",
+  "bbox": [
+    23.7281745,
+    37.9662159,
+    23.7281745,
+    37.9662159
+  ],
+  "description": "A pillared hall of the fourth century that was a site of Early Christian burials.",
+  "connectsWith": [
+    "579885"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7281745,
+          37.9662159
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7281745,
+          37.9662159
+        ]
+      },
+      "id": "osm-location-of-ec-building",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of EC Building",
+        "link": "http://pleiades.stoa.org/places/336531570/osm-location-of-ec-building"
+      }
+    }
+  ]
+}

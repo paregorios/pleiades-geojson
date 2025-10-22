@@ -3,6 +3,9 @@
   "title": "Melainai",
   "id": "585932",
   "description": "An ancient place, cited: BAtlas 59 unlocated Melainai",
+  "connectsWith": [
+    "908290183"
+  ],
   "names": [
     "Melainai"
   ],

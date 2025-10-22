@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Makri St. peristyle",
+  "id": "342066276",
+  "bbox": [
+    23.730303,
+    37.9687285,
+    23.730303,
+    37.9687285
+  ],
+  "description": "Remains of a Hellenistic stoa initially identified via salvage excavation in the 1960s and further explored ca. 2012. J. Travlos identified the remains as those of the Palladion court.",
+  "connectsWith": [
+    "579885"
+  ],
+  "names": [
+    "Makri St. peristyle (Athens)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.730303,
+          37.9687285
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.730303,
+          37.9687285
+        ]
+      },
+      "id": "osm-location-of-makri-st-peristyle-athens",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Makri St. peristyle (Athens)",
+        "link": "http://pleiades.stoa.org/places/342066276/osm-location-of-makri-st-peristyle-athens"
+      }
+    }
+  ]
+}

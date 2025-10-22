@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mygdaleza basilica",
+  "id": "291344339",
+  "bbox": [
+    23.8878981,
+    38.1335158,
+    23.8883915,
+    38.1338815
+  ],
+  "description": "The remains of an Early Christian basilica dating to the fifth and sixth centuries.",
+  "names": [
+    "Vasiliki tis Stamatas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8881571604,
+          38.1337007802
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.8880909,
+            38.1338792
+          ],
+          [
+            23.8879662,
+            38.1338302
+          ],
+          [
+            23.8878981,
+            38.1336942
+          ],
+          [
+            23.8879463,
+            38.1336005
+          ],
+          [
+            23.8881533,
+            38.1335158
+          ],
+          [
+            23.8882922,
+            38.1335158
+          ],
+          [
+            23.8883915,
+            38.1336406
+          ],
+          [
+            23.8883716,
+            38.1338079
+          ],
+          [
+            23.8882469,
+            38.1338815
+          ],
+          [
+            23.8880909,
+            38.1338792
+          ]
+        ]
+      },
+      "id": "osm-location-of-early-christian-basilica-of",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Early Christian Basilica of Mygdaleza",
+        "link": "http://pleiades.stoa.org/places/291344339/osm-location-of-early-christian-basilica-of"
+      }
+    }
+  ]
+}

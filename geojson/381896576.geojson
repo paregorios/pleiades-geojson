@@ -3,10 +3,10 @@
   "title": "Kenan Tepe",
   "id": "381896576",
   "bbox": [
-    40.813222,
-    37.830588,
-    40.813222,
-    37.830588
+    40.811976,
+    37.8294932,
+    40.8158361,
+    37.8319596
   ],
   "description": "Ancient site on the Tigris river in Turkey",
   "names": [
@@ -18,12 +18,103 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.813222,
-          37.830588
+          40.8135310458,
+          37.8307293395
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.8141765,
+            37.82965
+          ],
+          [
+            40.8135461,
+            37.8295251
+          ],
+          [
+            40.8130107,
+            37.8294932
+          ],
+          [
+            40.8124533,
+            37.8299609
+          ],
+          [
+            40.8121215,
+            37.8305869
+          ],
+          [
+            40.811976,
+            37.8309936
+          ],
+          [
+            40.812531,
+            37.8314268
+          ],
+          [
+            40.81306,
+            37.8318935
+          ],
+          [
+            40.8133527,
+            37.8319283
+          ],
+          [
+            40.8137487,
+            37.831944
+          ],
+          [
+            40.8141448,
+            37.8319596
+          ],
+          [
+            40.8145684,
+            37.8318787
+          ],
+          [
+            40.8152491,
+            37.8317365
+          ],
+          [
+            40.8155896,
+            37.831632
+          ],
+          [
+            40.8158361,
+            37.8315283
+          ],
+          [
+            40.8157691,
+            37.8312284
+          ],
+          [
+            40.8150977,
+            37.8307809
+          ],
+          [
+            40.814569,
+            37.8301304
+          ],
+          [
+            40.8141765,
+            37.82965
+          ]
+        ]
+      },
+      "id": "osm-location-of-kenan-tepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kenan Tepe",
+        "link": "http://pleiades.stoa.org/places/381896576/osm-location-of-kenan-tepe"
       }
     },
     {
@@ -34,13 +125,13 @@
           37.830588
         ]
       },
-      "id": "point-location",
+      "id": "imagery-location",
       "type": "Feature",
       "properties": {
         "description": "Verified in Google Earth in August 2012.",
         "location_precision": "precise",
-        "title": "Location of Kenan Tepe from primary excavation report",
-        "link": "http://pleiades.stoa.org/places/381896576/point-location"
+        "title": "Imagery Location of Kenan Tepe from primary excavation report",
+        "link": "http://pleiades.stoa.org/places/381896576/imagery-location"
       }
     }
   ]

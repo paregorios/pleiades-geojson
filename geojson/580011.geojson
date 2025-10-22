@@ -3,13 +3,14 @@
   "title": "Leipsydrion",
   "id": "580011",
   "bbox": [
-    23.724333,
-    38.12719,
-    23.724333,
-    38.12719
+    23.7237662,
+    38.1284395,
+    23.7237662,
+    38.1284395
   ],
-  "description": "An ancient place, cited: BAtlas 59 B2 Leipsydrion",
+  "description": "Leipsydrion is the site of an ancient fortification dated to the fourth century BCE. The fort was located on the Korakofoleza hill (580 m.) on Mt. Parnitha, Attiki.",
   "names": [
+    "Gaitana",
     "Leipsydrion"
   ],
   "features": [
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.724333,
-          38.12719
+          23.7237662,
+          38.1284395
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.724333,
-          38.12719
+          23.7237662,
+          38.1284395
         ]
       },
-      "id": "darmc-location-21586",
+      "id": "osm-location-of-iiui1iiiii1i-i1-2",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21586",
-        "link": "http://pleiades.stoa.org/places/580011/darmc-location-21586"
+        "title": "OSM location of Λειψύδριον",
+        "link": "http://pleiades.stoa.org/places/580011/osm-location-of-iiui1iiiii1i-i1-2"
       }
     }
   ]

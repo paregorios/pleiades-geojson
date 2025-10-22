@@ -1,0 +1,139 @@
+{
+  "type": "FeatureCollection",
+  "title": "Panathenaic Way",
+  "id": "639740331",
+  "bbox": [
+    23.7232178,
+    37.9741462,
+    23.7242372,
+    37.9759726
+  ],
+  "description": "The Panathenaic Way was the primary processional street of ancient Athens. It led from the area of the Dipylon Gate to the Acropolis by way of the Agora. The formal festival of the Panathenaic games was instituted by 566 BCE.",
+  "connectsWith": [
+    "807514119",
+    "579885"
+  ],
+  "names": [
+    "Panathenaic Way",
+    "Weg des panathenäischen Festzuges",
+    "Panathenaion hodos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7236766003,
+          37.9750428001
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7232419,
+            37.9759726
+          ],
+          [
+            23.7232287,
+            37.9759276
+          ],
+          [
+            23.7232212,
+            37.9759024
+          ],
+          [
+            23.7232178,
+            37.9758743
+          ],
+          [
+            23.7232196,
+            37.9758563
+          ],
+          [
+            23.7232196,
+            37.9758449
+          ],
+          [
+            23.7232217,
+            37.975821
+          ],
+          [
+            23.7232223,
+            37.9758043
+          ],
+          [
+            23.723226,
+            37.9757921
+          ],
+          [
+            23.7232442,
+            37.9757647
+          ],
+          [
+            23.7232702,
+            37.9757371
+          ],
+          [
+            23.723316,
+            37.9756698
+          ],
+          [
+            23.7233372,
+            37.9756051
+          ],
+          [
+            23.7233465,
+            37.9755599
+          ],
+          [
+            23.7234051,
+            37.9754315
+          ],
+          [
+            23.7236279,
+            37.9751074
+          ],
+          [
+            23.7238845,
+            37.9747245
+          ],
+          [
+            23.7239511,
+            37.9746105
+          ],
+          [
+            23.723993,
+            37.9744868
+          ],
+          [
+            23.7240549,
+            37.974394
+          ],
+          [
+            23.7241617,
+            37.9742384
+          ],
+          [
+            23.7242372,
+            37.9741462
+          ]
+        ]
+      },
+      "id": "osm-location-of-iiii-i-i-i1-2i-i-i-i1-2i-i-ii1-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Οδός Παναθηναίων",
+        "link": "http://pleiades.stoa.org/places/639740331/osm-location-of-iiii-i-i-i1-2i-i-i-i1-2i-i-ii1-2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ilissos Basilica",
+  "id": "190624512",
+  "bbox": [
+    23.7362392,
+    37.968312,
+    23.7362392,
+    37.968312
+  ],
+  "description": "An early Christian basilica on the Ilissos River in Athens that may date to the fifth century.",
+  "connectsWith": [
+    "579959",
+    "579885"
+  ],
+  "names": [
+    "Ilissos Basilica"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7362392,
+          37.968312
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7362392,
+          37.968312
+        ]
+      },
+      "id": "osm-location-of-ii-ii1i-i1ioi-r-ii-i-ii-i1iii-i-ii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Βασιλική του Ιλισσού-Μαρτύριον Αγίου Λεωνίδη",
+        "link": "http://pleiades.stoa.org/places/190624512/osm-location-of-ii-ii1i-i1ioi-r-ii-i-ii-i1iii-i-ii"
+      }
+    }
+  ]
+}
