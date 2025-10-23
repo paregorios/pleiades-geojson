@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Prison of Sokrates",
+  "id": "525587318",
+  "bbox": [
+    23.7208104,
+    37.9693753,
+    23.7208104,
+    37.9693753
+  ],
+  "description": "The so-called \"Prison of Sokrates\" refers to a series of ancient rock-cut chambers on the Mouseion/Philopappos hill in Athens. The actual function of the site is undetermined.",
+  "connectsWith": [
+    "968858713",
+    "579885"
+  ],
+  "names": [
+    "Gefängnis des Sokrates",
+    "Φυλακές Σωκράτους"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7208104,
+          37.9693753
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7208104,
+          37.9693753
+        ]
+      },
+      "id": "osm-location-of-prison-of-socrates",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap, chronology following ToposText",
+        "location_precision": "precise",
+        "title": "OSM location of Prison of Socrates",
+        "link": "http://pleiades.stoa.org/places/525587318/osm-location-of-prison-of-socrates"
+      }
+    }
+  ]
+}

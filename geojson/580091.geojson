@@ -11,9 +11,11 @@
   "description": "An ancient deme of Athens in the plain of Marathon.",
   "connectsWith": [
     "580022",
-    "580117"
+    "580117",
+    "391233695"
   ],
   "names": [
+    "Probalinthos",
     "Probalinthos"
   ],
   "features": [

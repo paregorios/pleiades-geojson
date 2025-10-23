@@ -3,6 +3,9 @@
   "title": "Graes",
   "id": "585914",
   "description": "An ancient place, cited: BAtlas 59 unlocated Graes",
+  "connectsWith": [
+    "391233695"
+  ],
   "names": [
     "Graes"
   ],

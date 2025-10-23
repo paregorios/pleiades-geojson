@@ -9,6 +9,9 @@
     38.135456
   ],
   "description": "An ancient place, cited: BAtlas 59 C2 Hekale?",
+  "connectsWith": [
+    "482653002"
+  ],
   "names": [
     "Hekale"
   ],

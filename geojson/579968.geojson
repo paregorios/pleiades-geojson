@@ -3,20 +3,23 @@
   "title": "Katsimidi",
   "id": "579968",
   "bbox": [
-    23.784231,
-    38.184454,
-    23.784231,
-    38.184454
+    23.7865487,
+    38.1843155,
+    23.7865487,
+    38.1843155
   ],
-  "description": "An ancient place, cited: BAtlas 59 C2 Katsimidi",
+  "description": "J. Ober indicates that Katsimidi was a fortified site that occupied a steep hill on the west side of the Klidi pass, some 7 km north of the town of Barimpompi.",
+  "names": [
+    "Katsimidi"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.784231,
-          38.184454
+          23.7865487,
+          38.1843155
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.784231,
-          38.184454
+          23.7865487,
+          38.1843155
         ]
       },
-      "id": "darmc-location-21280",
+      "id": "osm-location-of-i-iii3i-i-ii-iii1i1-4i-ii1",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21280",
-        "link": "http://pleiades.stoa.org/places/579968/darmc-location-21280"
+        "title": "OSM location of Πύργος Κατσιμίδι",
+        "link": "http://pleiades.stoa.org/places/579968/osm-location-of-i-iii3i-i-ii-iii1i1-4i-ii1"
       }
     }
   ]

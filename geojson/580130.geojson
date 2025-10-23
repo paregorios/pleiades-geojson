@@ -9,8 +9,12 @@
     38.232491
   ],
   "description": "A square, stone tower known today as Varnava Tower (Ο πύργος του Βαρνάβα), located outside the modern village of Varnava in Greece.",
+  "connectsWith": [
+    "579873"
+  ],
   "names": [
-    "pyrgos tou Varnava"
+    "pyrgos tou Varnava",
+    "Varnava"
   ],
   "features": [
     {

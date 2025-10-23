@@ -9,6 +9,9 @@
     37.898159
   ],
   "description": "An ancient place, cited: BAtlas 59 D3 Steiria",
+  "connectsWith": [
+    "391233695"
+  ],
   "names": [
     "Steiria"
   ],
