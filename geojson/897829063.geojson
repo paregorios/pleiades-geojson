@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ruins of Gedi",
+  "id": "897829063",
+  "bbox": [
+    40.01721,
+    -3.309345,
+    40.01721,
+    -3.309345
+  ],
+  "description": "Extensive ruins of a medieval Swahili coastal town at modern Gedi in Kenya's Kilifi District. The earliest evidence for occupation dates to not earlier than the 11th century CE. The site was abandoned by the mid-17th century. The Ruins of Gedi are a designated national monument of Kenya and were added to the World Heritage Site list in 2024.",
+  "names": [
+    "Gedi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.01721,
+          -3.309345
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.01721,
+          -3.309345
+        ]
+      },
+      "id": "geohack-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "GeoHack location",
+        "link": "http://pleiades.stoa.org/places/897829063/geohack-location"
+      }
+    }
+  ]
+}

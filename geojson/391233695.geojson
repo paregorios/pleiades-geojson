@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pandionis",
+  "id": "391233695",
+  "description": "Pandionis was a phyle of ancient Attica that included at least eleven demes. It derived its name from the figure Pandion, a name borne by two legendary kings of Athens.",
+  "connectsWith": [
+    "579888"
+  ],
+  "names": [
+    "Pandionis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

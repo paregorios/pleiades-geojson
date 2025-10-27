@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kanakia",
+  "id": "746471074",
+  "bbox": [
+    23.4115075,
+    37.8998559,
+    23.4130116,
+    37.900434
+  ],
+  "description": "The Mycenaean acropolis of Kanakia is located on the island of Salamis.",
+  "connectsWith": [
+    "580101"
+  ],
+  "names": [
+    "Mycenaean acropolis of Kanakia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4122602523,
+          37.9001278972
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.411642,
+            37.9004326
+          ],
+          [
+            23.4117322,
+            37.900434
+          ],
+          [
+            23.412192,
+            37.9002102
+          ],
+          [
+            23.4123923,
+            37.9001128
+          ],
+          [
+            23.4124985,
+            37.900124
+          ],
+          [
+            23.4126206,
+            37.9000472
+          ],
+          [
+            23.41264,
+            37.9000165
+          ],
+          [
+            23.412679,
+            37.8999927
+          ],
+          [
+            23.4129108,
+            37.900124
+          ],
+          [
+            23.4130116,
+            37.9000849
+          ],
+          [
+            23.4129532,
+            37.9000318
+          ],
+          [
+            23.4129639,
+            37.8999732
+          ],
+          [
+            23.4128488,
+            37.8998559
+          ],
+          [
+            23.4127639,
+            37.8998559
+          ],
+          [
+            23.412502,
+            37.8999788
+          ],
+          [
+            23.4122949,
+            37.9000584
+          ],
+          [
+            23.4122058,
+            37.9000714
+          ],
+          [
+            23.4121321,
+            37.9000821
+          ],
+          [
+            23.4117959,
+            37.9001421
+          ],
+          [
+            23.4117074,
+            37.9001365
+          ],
+          [
+            23.4115075,
+            37.9002133
+          ],
+          [
+            23.4116703,
+            37.9003642
+          ],
+          [
+            23.411619,
+            37.9004116
+          ],
+          [
+            23.411642,
+            37.9004326
+          ]
+        ]
+      },
+      "id": "osm-location-of-iiioi-i1-2i-iioi-r-iioiiii-i-i-ii",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Μυκηναϊκή Ακρόπολη Κανακίων",
+        "link": "http://pleiades.stoa.org/places/746471074/osm-location-of-iiioi-i1-2i-iioi-r-iioiiii-i-i-ii"
+      }
+    }
+  ]
+}

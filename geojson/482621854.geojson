@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chryssi-Gaidouronisi",
+  "id": "482621854",
+  "bbox": [
+    25.6916529,
+    34.8801927,
+    25.6916529,
+    34.8801927
+  ],
+  "description": "The archaeological remains of a small Minoan settlement of approximately 12-20 houses on the island of Chryssi. Evidence for murex processing was discovered during excavations conducted in 2008.",
+  "connectsWith": [
+    "589746"
+  ],
+  "names": [
+    "Archaiologikós Chóros Chrysís-Gaidouronísi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6916529,
+          34.8801927
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6916529,
+          34.8801927
+        ]
+      },
+      "id": "osm-location-of-iiii-i1i-i-i-i3i1ioii-issiii-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Αρχαιολογικός Χώρος Χρυσής-Γαιδουρονήσι",
+        "link": "http://pleiades.stoa.org/places/482621854/osm-location-of-iiii-i1i-i-i-i3i1ioii-issiii-i"
+      }
+    }
+  ]
+}

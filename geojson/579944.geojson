@@ -8,12 +8,14 @@
     23.908854,
     38.135456
   ],
-  "description": "An ancient place, cited: BAtlas 59 C2 Hekale?",
+  "description": "Hekale was a deme of ancient Attica, likely situated in the plain of Marathon. It derived its name from Hecale, an old woman who aided Theseus in his hunt for the Marathonian bull and whom the hero subsequently honored.",
   "connectsWith": [
+    "579888",
     "482653002"
   ],
   "names": [
-    "Hekale"
+    "Hekale",
+    "Koukounarti"
   ],
   "features": [
     {

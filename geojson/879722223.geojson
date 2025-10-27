@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Euripides cave",
+  "id": "879722223",
+  "bbox": [
+    23.4526934,
+    37.8821179,
+    23.4526934,
+    37.8821179
+  ],
+  "description": "Tradition connected the so-called \"Euripides cave\" on Salamis with the tragedian, based at least in part on claims made by Aulus Gellius.",
+  "connectsWith": [
+    "580101"
+  ],
+  "names": [
+    "Euripides cave"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4526934,
+          37.8821179
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4526934,
+          37.8821179
+        ]
+      },
+      "id": "osm-location-of-evripides-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Evripides' Cave",
+        "link": "http://pleiades.stoa.org/places/879722223/osm-location-of-evripides-cave"
+      }
+    }
+  ]
+}

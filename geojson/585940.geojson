@@ -3,6 +3,9 @@
   "title": "Pambotadai",
   "id": "585940",
   "description": "An ancient place, cited: BAtlas 59 unlocated Pambotadai",
+  "connectsWith": [
+    "844310646"
+  ],
   "names": [
     "Pambotadai"
   ],

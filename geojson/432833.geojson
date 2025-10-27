@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.6266985067,
-          41.6941875424
+          13.6266985068,
+          41.6941875425
         ]
       },
       "properties": {
@@ -723,6 +723,10 @@
             41.6898625
           ],
           [
+            13.6049658,
+            41.689697
+          ],
+          [
             13.6047304,
             41.6895237
           ],
@@ -737,6 +741,10 @@
           [
             13.6038921,
             41.6897418
+          ],
+          [
+            13.6037466,
+            41.689754
           ],
           [
             13.6033852,
@@ -1009,7 +1017,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Fibrenus fl.",
+        "title": "OSM location of Fibreno (river)",
         "link": "http://pleiades.stoa.org/places/432833/location-of-Fibrenus-fl"
       }
     }
