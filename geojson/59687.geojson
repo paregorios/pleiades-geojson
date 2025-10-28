@@ -3,10 +3,10 @@
   "title": "Aornos",
   "id": "59687",
   "bbox": [
-    72.803461,
-    34.75257,
-    72.803461,
-    34.75257
+    73.28464,
+    34.72192,
+    73.28464,
+    34.72192
   ],
   "description": "Aornos was a mountain fortress and the site of Alexander the Great's last siege during the winter of 327-6 BC. The ancient site likely corresponds to Ūṇa, a peak on the Pīr-Sar west of the Indus river.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.803461,
-          34.75257
+          73.28464,
+          34.72192
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          72.803461,
-          34.75257
+          73.28464,
+          34.72192
         ]
       },
-      "id": "darmc-location-19929",
+      "id": "geonames-location-una",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 19929",
-        "link": "http://pleiades.stoa.org/places/59687/darmc-location-19929"
+        "title": "GeoNames location: Una",
+        "link": "http://pleiades.stoa.org/places/59687/geonames-location-una"
       }
     }
   ]

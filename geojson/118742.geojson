@@ -8,7 +8,10 @@
     9.412566,
     48.094667
   ],
-  "description": "An ancient place, cited: BAtlas 12 C4 Heuneburg",
+  "description": "An important hill fort with lower settlement near the source of the Danube, it flourished from the 7th to the 5th century BCE despite one major destruction.",
+  "names": [
+    "Pyrene"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-12754",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 12754",
         "link": "http://pleiades.stoa.org/places/118742/darmc-location-12754"

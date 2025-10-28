@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mount Ebal",
+  "id": "296331453",
+  "bbox": [
+    35.2733529,
+    32.2335683,
+    35.2733529,
+    32.2335683
+  ],
+  "description": "Mountain located north of the city of Neapolis.",
+  "names": [
+    "Ebal"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2733529,
+          32.2335683
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2733529,
+          32.2335683
+        ]
+      },
+      "id": "5d45e8-5e25d95d15dc",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the modern peak of Mt. Ebal, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of Mt. Ebal",
+        "link": "http://pleiades.stoa.org/places/296331453/5d45e8-5e25d95d15dc"
+      }
+    }
+  ]
+}
