@@ -3,10 +3,10 @@
   "title": "Torrebia L.",
   "id": "550939",
   "bbox": [
-    28.0258672,
-    38.3104764,
-    28.0258672,
-    38.3104764
+    28.0234452,
+    38.3077826,
+    28.0317988,
+    38.3233963
   ],
   "description": "An ancient place, cited: BAtlas 56 G5 Torrebia L.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.0258672,
-          38.3104764
+          28.0275940367,
+          38.3155062185
         ]
       },
       "properties": {

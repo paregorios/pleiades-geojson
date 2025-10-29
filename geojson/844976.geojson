@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kaukones",
+  "title": "Kaukones (Bithynia/Paphlagonia)",
   "id": "844976",
   "bbox": [
     32.0968769655,
@@ -8,7 +8,7 @@
     32.5537334786,
     41.4901221369
   ],
-  "description": "An ancient place, cited: BAtlas 86 C2 Kaukones",
+  "description": "An ancient people located along the Parthenios (modern Bartın Irmaği/Bartin Su in Turkey).",
   "names": [
     "Kaukones"
   ],

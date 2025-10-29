@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Vigla",
+  "title": "Vigla (Acarnania)",
   "id": "531143",
   "bbox": [
-    20.792516,
-    38.858807,
-    20.792516,
-    38.858807
+    20.802877,
+    38.861849,
+    20.802877,
+    38.861849
   ],
-  "description": "An ancient place, cited: BAtlas 54 C4 Vigla",
+  "description": "A fortified acropolis, discovered in 1989 on the Vigla hill south of the modern Greek town of Hagios Nikolaos (Plagia Community, Palairos Municipality). As yet unexcavated, monumental stone remains as well as pottery of the 5th/4th centuries BCE have been reported at the site. Some scholars have suggested that the attested city of Sollion could have been located here.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.792516,
-          38.858807
+          20.802877,
+          38.861849
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.792516,
-          38.858807
+          20.802877,
+          38.861849
         ]
       },
-      "id": "darmc-location-2597",
+      "id": "imagery-location-after-berktold-1993",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Imagery location determined in Google Earth with reference to description and maps in Berktold 1993. Dates after Berktold 1993.",
         "location_precision": "precise",
-        "title": "DARMC location 2597",
-        "link": "http://pleiades.stoa.org/places/531143/darmc-location-2597"
+        "title": "Imagery Location after Berktold 1993",
+        "link": "http://pleiades.stoa.org/places/531143/imagery-location-after-berktold-1993"
       }
     }
   ]

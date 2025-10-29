@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kaukones",
+  "title": "Kaukones (Triphylia)",
   "id": "570343",
   "bbox": [
     21.5,
@@ -8,7 +8,7 @@
     22.0,
     37.5
   ],
-  "description": "An ancient place, cited: BAtlas 58 B3 Kaukones",
+  "description": "One of two localizations in the Peloponnese given by ancient sources for descendants of a tribe mentioned in Homer. The other was in Achaia.",
   "names": [
     "Kaukones"
   ],

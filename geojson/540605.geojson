@@ -3,10 +3,10 @@
   "title": "Aigilia? (island)",
   "id": "540605",
   "bbox": [
-    24.1749085,
-    38.1771519,
-    24.1749085,
-    38.1771519
+    24.1563152,
+    38.1558359,
+    24.1781939,
+    38.1820773
   ],
   "description": "An ancient place, cited: BAtlas 55 G4 Aigilia? Ins.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.1749085,
-          38.1771519
+          24.1688681556,
+          38.1720558483
         ]
       },
       "properties": {

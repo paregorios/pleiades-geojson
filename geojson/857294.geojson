@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Pteria",
+  "title": "Eğrikale",
   "id": "857294",
   "bbox": [
     35.108768,
@@ -8,9 +8,12 @@
     35.108768,
     41.321531
   ],
-  "description": "An ancient place, cited: BAtlas 87 A3 Pteria",
+  "description": "Ruins of an old town or castle on the tall \"Felsberg Egri Kalch\" near the mouth of the Halys river that were formerly posited as an identification for Herodotus' \"Pteria\" (thus RE whence BAtlas 87, which labeled Eğrikale with \"Pteria\" using a hollow settlement symbol). Pteria is now thought much more probably to be associated with the large 7th/6th century site at Kerkenes Dağı to the southwest, q.v.",
   "names": [
-    "Pteria"
+    "Pteria",
+    "Pteria",
+    "Eğrikale",
+    "Egri Kalch"
   ],
   "features": [
     {
@@ -37,7 +40,7 @@
       "id": "darmc-location-20213",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20213",
         "link": "http://pleiades.stoa.org/places/857294/darmc-location-20213"

@@ -3,14 +3,19 @@
   "title": "Lysimacheia",
   "id": "540921",
   "bbox": [
-    21.0,
-    38.5,
-    21.5,
-    39.0
+    21.3357032,
+    38.5298331,
+    21.3357032,
+    38.5298331
   ],
-  "description": "An ancient place, cited: BAtlas 55 A3 Lysimacheia",
+  "description": "An ancient city in Aetolia, located 3km south of the modern city that now bears its name.",
   "names": [
-    "Lysimacheia"
+    "Lysimacheia",
+    "Kakkavaria",
+    "Ag. Nikolaos",
+    "Naos Agiou Nikolaou Lysimachias",
+    "Lysimacheia",
+    "Mourstianou"
   ],
   "features": [
     {
@@ -18,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.25,
-          38.75
+          21.3357032,
+          38.5298331
         ]
       },
       "properties": {
@@ -28,39 +33,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              21.0,
-              38.5
-            ],
-            [
-              21.0,
-              39.0
-            ],
-            [
-              21.5,
-              39.0
-            ],
-            [
-              21.5,
-              38.5
-            ],
-            [
-              21.0,
-              38.5
-            ]
-          ]
+          21.3357032,
+          38.5298331
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-ag-nikolaos",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/540921/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Ag. Nikolaos",
+        "link": "http://pleiades.stoa.org/places/540921/osm-location-modern-ag-nikolaos"
       }
     }
   ]

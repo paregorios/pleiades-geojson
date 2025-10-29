@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Horti Domitiae",
+  "id": "387197669",
+  "description": "The gardens of Domitia Longina, the wife of Domitian, in Rome. The gardens were located on the right bank of the Tiber River, and the Mausoleum of Hadrian was built within their confines. The toponym persists as late as the reign of Aurelian.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Horti Domitiae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

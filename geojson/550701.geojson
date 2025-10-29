@@ -3,10 +3,10 @@
   "title": "Lydia/Maionia (region)",
   "id": "550701",
   "bbox": [
-    26.8047544,
+    26.9668717,
     37.2993174,
     30.1629723,
-    39.1204623601
+    39.2005526
   ],
   "description": "Lydia was a region in Western Asia Minor, situated between Ionia on the west, Caria on the south, Phrygia on the east, and Mysia on the north. It was home to an Iron Age kingdom (q.v), and gave its name to a succession of administrative areas of the Roman empire and other states.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.5937060279,
-          38.5534411519
+          28.7461282724,
+          38.5865199114
         ]
       },
       "properties": {

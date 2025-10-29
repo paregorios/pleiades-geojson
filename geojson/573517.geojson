@@ -3,9 +3,13 @@
   "title": "Skeironiakai Petrai",
   "id": "573517",
   "description": "An ancient place, cited: BAtlas 58 unlocated Skeironiakai Petrai",
+  "connectsWith": [
+    "570180"
+  ],
   "names": [
     "Skeironiakai Petrai",
-    "Scironia saxa"
+    "Scironia saxa",
+    "Rocks of Sceiron"
   ],
   "features": [
     {

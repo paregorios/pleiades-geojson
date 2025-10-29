@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Peiros/Piros (river)",
+  "title": "Withdrawn (duplicate): Peiros/Piros (river)",
   "id": "573432",
   "bbox": [
     21.5686806,
@@ -8,7 +8,7 @@
     21.573781,
     38.1512751
   ],
-  "description": "An ancient place, cited: BAtlas 58 unlocated P(e)iros fl.",
+  "description": "Duplicate, inadvertantly generated from erroneous BAtlDir entry. See the proper entry in the gazetteer: https://pleiades.stoa.org/places/570572",
   "names": [
     "Peiros",
     "Piros"
@@ -175,7 +175,7 @@
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Peiros",
-        "link": "http://pleiades.stoa.org/places/573432/osm-location-of-peiros"
+        "link": "http://pleiades.stoa.org/errata/573432/osm-location-of-peiros"
       }
     }
   ]

@@ -2,14 +2,29 @@
   "type": "FeatureCollection",
   "title": "Sollion",
   "id": "536133",
-  "description": "An ancient place, cited: BAtlas 54 unlocated Sollion",
+  "bbox": [
+    20.802877,
+    38.861849,
+    20.802877,
+    38.861849
+  ],
+  "description": "Mentioned in fifth-century BCE sources, this as-yet-located harbor city probably lay on the Plagia peninsula in Acarnania, likely between Leucas and Palairos.",
+  "connectsWith": [
+    "531143"
+  ],
   "names": [
     "Sollion"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.802877,
+          38.861849
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

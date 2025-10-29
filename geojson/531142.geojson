@@ -3,20 +3,23 @@
   "title": "Vigla",
   "id": "531142",
   "bbox": [
-    20.5,
-    39.0,
-    21.0,
-    39.5
+    20.8621352,
+    39.0852981,
+    20.8621352,
+    39.0852981
   ],
   "description": "An ancient place, cited: BAtlas 54 C3 Vigla",
+  "names": [
+    "Vigla"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.75,
-          39.25
+          20.8621352,
+          39.0852981
         ]
       },
       "properties": {
@@ -25,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              20.5,
-              39.0
-            ],
-            [
-              20.5,
-              39.5
-            ],
-            [
-              21.0,
-              39.5
-            ],
-            [
-              21.0,
-              39.0
-            ],
-            [
-              20.5,
-              39.0
-            ]
-          ]
+          20.8621352,
+          39.0852981
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-vigla",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/531142/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Vigla",
+        "link": "http://pleiades.stoa.org/places/531142/osm-location-modern-vigla"
       }
     }
   ]

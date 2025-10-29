@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "title": "Burkhan Khaldun",
+  "id": "920277483",
+  "bbox": [
+    108.6434059,
+    48.3526,
+    109.5663122,
+    49.0686257
+  ],
+  "description": "Burkhan Khaldun is a mountain that forms part of one of the Khentii Mountains located in the Khentii Province of northeastern Mongolia. The mountain and/or its vicinity is believed to be the birthplace and site of the tomb of Genghis Khan. The mountain and its landscapes were inscribed as a UNESCO World Heritage Site on 4 July 2015 under the heading \"Great Burkhan Khaldun Mountain and its surrounding sacred landscape.\"",
+  "names": [
+    "Burkhan Khaldun"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.03424986,
+          48.7365002436
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.01083,
+          48.7620206
+        ]
+      },
+      "id": "osm-location-of-burkhan-khaldun",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Burkhan Khaldun",
+        "link": "http://pleiades.stoa.org/places/920277483/osm-location-of-burkhan-khaldun"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.6434059,
+            48.9649421
+          ],
+          [
+            108.6576,
+            48.3526
+          ],
+          [
+            109.0811286,
+            48.3596912
+          ],
+          [
+            109.3265666,
+            48.3902697
+          ],
+          [
+            109.5663122,
+            48.7786796
+          ],
+          [
+            109.5239325,
+            48.8857326
+          ],
+          [
+            109.4020472,
+            49.0660035
+          ],
+          [
+            109.0438632,
+            49.0686257
+          ],
+          [
+            108.869804,
+            49.00847
+          ],
+          [
+            108.6434059,
+            48.9649421
+          ]
+        ]
+      },
+      "id": "osm-location-of-great-burkhan-khaldun-mountain-and",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Great Burkhan Khaldun Mountain and its surrounding sacred landscape",
+        "link": "http://pleiades.stoa.org/places/920277483/osm-location-of-great-burkhan-khaldun-mountain-and"
+      }
+    }
+  ]
+}

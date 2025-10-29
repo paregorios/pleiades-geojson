@@ -3,10 +3,10 @@
   "title": "Rhion Pr.",
   "id": "570646",
   "bbox": [
-    21.7850004,
-    38.3099987,
-    21.7850004,
-    38.3099987
+    21.7694347,
+    38.2970602,
+    21.78495,
+    38.312984
   ],
   "description": "An ancient place, cited: BAtlas 58 B1 Rhion Pr.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.7850004,
-          38.3099987
+          21.7769420925,
+          38.3064040013
         ]
       },
       "properties": {
