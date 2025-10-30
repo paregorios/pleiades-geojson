@@ -8,9 +8,12 @@
     15.210857,
     38.141489
   ],
-  "description": "An ancient place, cited: BAtlas 47 G2 Monte S. Onofrio",
+  "description": "Monte S. Onofrio was the site of a small fortification with quadrangular towers.",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Monte S. Onofrio"
   ],
   "features": [
     {

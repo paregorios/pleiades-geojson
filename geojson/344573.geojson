@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Zliten",
+  "title": "Dar Buk-Ammarah",
   "id": "344573",
   "bbox": [
     14.5579002,
@@ -11,6 +11,10 @@
   "description": "A coastal villa known especially for its polychrome gladiatorial mosaics was excavated at Dar Buk-Ammarah, located on the coast some 4.5 km to the north of Zliten, Libya.",
   "connectsWith": [
     "344448"
+  ],
+  "names": [
+    "Dar Buk-Ammarah",
+    "Zliten"
   ],
   "features": [
     {

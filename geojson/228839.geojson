@@ -1,22 +1,26 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Kul'chukskoye",
   "id": "228839",
   "bbox": [
-    32.0,
-    45.0,
-    33.0,
-    46.0
+    32.8633943,
+    45.3665836,
+    32.8643181,
+    45.3671524
   ],
-  "description": "An ancient place, cited: BAtlas 23 F3 no. 73 (Kul'chukskoye)",
+  "description": "A fortified settlement in the chora of Chersonesos Taurike, dating from the Late Classical and Hellenistic periods, and reused in the early Medieval period.",
+  "names": [
+    "Kul’čuk",
+    "BAtlas 23 F3 no. 73 (Kul'chukskoye)"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5,
-          45.5
+          32.86388219,
+          45.3668417785
         ]
       },
       "properties": {
@@ -25,39 +29,37 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              32.0,
-              45.0
-            ],
-            [
-              32.0,
-              46.0
-            ],
-            [
-              33.0,
-              46.0
-            ],
-            [
-              33.0,
-              45.0
-            ],
-            [
-              32.0,
-              45.0
-            ]
+            32.8635831,
+            45.3671524
+          ],
+          [
+            32.8633943,
+            45.3666549
+          ],
+          [
+            32.8643181,
+            45.3665836
+          ],
+          [
+            32.8642847,
+            45.3670519
+          ],
+          [
+            32.8635831,
+            45.3671524
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "grieko-skifskoie-ghorodishchie-kulchuk",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/228839/batlas-location"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Греко-скифское городище Кульчук",
+        "link": "http://pleiades.stoa.org/places/228839/grieko-skifskoie-ghorodishchie-kulchuk"
       }
     }
   ]

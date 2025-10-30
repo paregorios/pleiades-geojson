@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Werthausen",
+  "id": "269031532",
+  "bbox": [
+    6.711111,
+    51.422222,
+    6.711111,
+    51.422222
+  ],
+  "description": "A Roman fort of the Limes of Germania Inferior.",
+  "names": [
+    "Kleinkastell Werthausen"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.711111,
+          51.422222
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.711111,
+          51.422222
+        ]
+      },
+      "id": "vici-org-location-of-kleinkastell-werthausen",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates and chronology following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Kleinkastell Werthausen",
+        "link": "http://pleiades.stoa.org/places/269031532/vici-org-location-of-kleinkastell-werthausen"
+      }
+    }
+  ]
+}

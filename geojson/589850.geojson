@@ -3,14 +3,17 @@
   "title": "Kastri",
   "id": "589850",
   "bbox": [
-    25.3704653,
-    34.9992705,
-    25.3704653,
-    34.9992705
+    25.3703848,
+    34.9992288,
+    25.3703848,
+    34.9992288
   ],
   "description": "An ancient place, cited: BAtlas 60 D2 Kastri",
   "connectsWith": [
     "589748"
+  ],
+  "names": [
+    "Kastri"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.3704653,
-          34.9992705
+          25.3703848,
+          34.9992288
         ]
       },
       "properties": {
@@ -30,8 +33,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.3704653,
-          34.9992705
+          25.3703848,
+          34.9992288
         ]
       },
       "id": "osm-node-2242147478",
@@ -39,7 +42,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Kastri",
+        "title": "OSM location of Kastri",
         "link": "http://pleiades.stoa.org/places/589850/osm-node-2242147478"
       }
     }
