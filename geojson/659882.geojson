@@ -9,6 +9,10 @@
     37.5
   ],
   "description": "An ancient place, cited: BAtlas 67 F2 unnamed bridge (E Aquae over Marsyas fl.)",
+  "connectsWith": [
+    "658386",
+    "658529"
+  ],
   "features": [
     {
       "type": "Feature",

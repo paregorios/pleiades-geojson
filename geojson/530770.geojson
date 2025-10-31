@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Acherusia L.",
+  "title": "Acherusia (lake)",
   "id": "530770",
   "bbox": [
-    20.5,
-    39.0,
-    21.0,
-    39.5
+    20.553,
+    39.253,
+    20.553,
+    39.253
   ],
-  "description": "An ancient place, cited: BAtlas 54 C3 Acherusia L.",
+  "description": "This ancient lake is to be identified with the modern Kastri dry lake in Preveza, Epirus (Greece).",
   "names": [
-    "Acherusia L."
+    "Acherusia L.",
+    "Acherousía límni"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.75,
-          39.25
+          20.553,
+          39.253
         ]
       },
       "properties": {
@@ -28,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              20.5,
-              39.0
-            ],
-            [
-              20.5,
-              39.5
-            ],
-            [
-              21.0,
-              39.5
-            ],
-            [
-              21.0,
-              39.0
-            ],
-            [
-              20.5,
-              39.0
-            ]
-          ]
+          20.553,
+          39.253
         ]
       },
-      "id": "batlas-location",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/530770/batlas-location"
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/530770/topostext-location"
       }
     }
   ]

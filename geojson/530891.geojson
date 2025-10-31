@@ -3,15 +3,16 @@
   "title": "Hieron Oros/Crania M.",
   "id": "530891",
   "bbox": [
-    21.0,
-    39.0,
-    21.5,
-    39.5
+    21.021,
+    39.123,
+    21.021,
+    39.123
   ],
   "description": "An ancient place, cited: BAtlas 54 D3 Hieron Oros/Crania M.",
   "names": [
     "Hieron Oros",
-    "Crania M."
+    "Crania M.",
+    "Crania"
   ],
   "features": [
     {
@@ -19,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.25,
-          39.25
+          21.021,
+          39.123
         ]
       },
       "properties": {
@@ -29,39 +30,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              21.0,
-              39.0
-            ],
-            [
-              21.0,
-              39.5
-            ],
-            [
-              21.5,
-              39.5
-            ],
-            [
-              21.5,
-              39.0
-            ],
-            [
-              21.0,
-              39.0
-            ]
-          ]
+          21.021,
+          39.123
         ]
       },
-      "id": "batlas-location",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/530891/batlas-location"
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/530891/topostext-location"
       }
     }
   ]

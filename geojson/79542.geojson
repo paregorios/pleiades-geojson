@@ -8,7 +8,7 @@
     -3.8341,
     53.2161
   ],
-  "description": "Auxiliary fort occupated from the Agricola's campaign (77/78 CE) through to the the fourth century",
+  "description": "Auxiliary fort occupied from the campaigns of Agricola (77/78 CE) through to the fourth century CE.",
   "connectsWith": [
     "79416",
     "83058"
@@ -16,7 +16,9 @@
   "names": [
     "Kanovium",
     "Conovium",
-    "Canubium"
+    "Canubium",
+    "Canovium",
+    "Caerhun"
   ],
   "features": [
     {
