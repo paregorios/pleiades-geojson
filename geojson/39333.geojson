@@ -3,10 +3,10 @@
   "title": "Dacharenoi",
   "id": "39333",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.3451709156,
+    17.8410247692,
+    44.6084610366,
+    17.9208515392
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Dacharenoi",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          43.975919492,
+          17.8956202895
         ]
       },
       "properties": {
@@ -28,39 +28,57 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            43.34517091560074,
+            17.841024769181054
+          ],
+          [
+            43.532536800424744,
+            17.872542481809504
+          ],
+          [
+            43.65952812629199,
+            17.89064640178345
+          ],
+          [
+            43.7916047923763,
+            17.907056416778698
+          ],
+          [
+            43.925092207032364,
+            17.91434096198689
+          ],
+          [
+            44.05388660954345,
+            17.92085153919436
+          ],
+          [
+            44.17767625800957,
+            17.912754657860262
+          ],
+          [
+            44.31557410711885,
+            17.90650170840646
+          ],
+          [
+            44.458839823593046,
+            17.896259374203513
+          ],
+          [
+            44.60846103655387,
+            17.875250495349658
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39333/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39333/batlas-label-location"
       }
     }
   ]

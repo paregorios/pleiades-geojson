@@ -1,22 +1,31 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Iron Gate (Central Asia)",
   "id": "962627",
   "bbox": [
-    66.0,
-    37.0,
-    67.0,
-    38.0
+    66.9068,
+    38.2216,
+    66.9068,
+    38.2216
   ],
-  "description": "An ancient place, cited: BAtlas 98 G1 unnamed pass (N Maidan kurgan (“Iron Gate”) UZB)",
+  "description": "A pass through the Hissar mountains in modern Uzbekistan, located just west of the village of Darband/Derbent.",
+  "names": [
+    "Darband",
+    "Derbent",
+    "Derbent",
+    "Darband",
+    "Iron Gate",
+    "Zheleznyye vorota",
+    "Tiě mén guān"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          66.5,
-          37.5
+          66.9068,
+          38.2216
         ]
       },
       "properties": {
@@ -25,39 +34,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              66.0,
-              37.0
-            ],
-            [
-              66.0,
-              38.0
-            ],
-            [
-              67.0,
-              38.0
-            ],
-            [
-              67.0,
-              37.0
-            ],
-            [
-              66.0,
-              37.0
-            ]
-          ]
+          66.9068,
+          38.2216
         ]
       },
-      "id": "batlas-location",
+      "id": "geohack-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/962627/batlas-location"
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Geohack Location: Iron Gate (Central Asia)",
+        "link": "http://pleiades.stoa.org/places/962627/geohack-location"
       }
     }
   ]

@@ -4,8 +4,8 @@
   "id": "540923",
   "bbox": [
     21.5624096,
-    37.848006,
-    27.533091,
+    37.8453351,
+    27.5311125,
     39.9353319
   ],
   "description": "A coastal region of Thessaly, including the long, narrow peninsula stretching into the Aegean on the southeast. Magnesia gives its name to the modern Greek regional unit.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.919706044,
-          39.5074202623
+          22.920519021,
+          39.5066786008
         ]
       },
       "properties": {

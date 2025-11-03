@@ -3,10 +3,10 @@
   "title": "Malia (promontory)",
   "id": "550715",
   "bbox": [
-    26.1342123,
-    39.2074811,
-    26.1342123,
-    39.2074811
+    26.5,
+    39.0,
+    27.0,
+    39.5
   ],
   "description": "An ancient place, cited: BAtlas 56 D3 Malia Pr.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.1342123,
-          39.2074811
+          26.75,
+          39.25
         ]
       },
       "properties": {

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pincian obelisk",
+  "id": "255653344",
+  "bbox": [
+    12.4797019,
+    41.9107738,
+    12.479796,
+    41.9108446
+  ],
+  "description": "The so-called Pincian obelisk is a monument of red granite that Hadrian brought to Rome from Egypt. It bears hieroglyphics that were likely cut at Rome and seem to indicate that the monument in some way commemorated the place where Antinous was buried. Fragments of the monument were re-erected near the Porta Maggiore in 1570. The Barberini relocated it in 1663, and it was transferred to the Vatican under Clement XIV. Pius VII transferred it to the Pincian in 1882, and it now stands in Piazza Bucarest along the Viale dell'Obelisco (Pincio).",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Obelisco del Pincio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.47974895,
+          41.9108092
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4797019,
+            41.9108278
+          ],
+          [
+            12.479725,
+            41.9107738
+          ],
+          [
+            12.479796,
+            41.9107906
+          ],
+          [
+            12.4797729,
+            41.9108446
+          ],
+          [
+            12.4797019,
+            41.9108278
+          ]
+        ]
+      },
+      "id": "osm-location-of-obelisco-di-antinoo",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Obelisco di Antinoo",
+        "link": "http://pleiades.stoa.org/places/255653344/osm-location-of-obelisco-di-antinoo"
+      }
+    }
+  ]
+}

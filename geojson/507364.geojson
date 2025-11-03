@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Alopeconnesus (island)",
   "id": "507364",
+  "bbox": [
+    25.4433882,
+    40.0409623,
+    26.907088,
+    40.58084
+  ],
   "description": "An ancient place, cited: BAtlas 51 unlocated Alopeconnesus Ins.",
   "connectsWith": [
     "501386",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0286534372,
+          40.390875836
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

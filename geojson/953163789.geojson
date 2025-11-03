@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Mount Juktas",
+  "title": "Withdrawn (duplicate): Mount Juktas",
   "id": "953163789",
   "bbox": [
     25.1409222,
@@ -8,7 +8,7 @@
     25.1409222,
     35.2325318
   ],
-  "description": "Mount Juktas is mountain of north-central Crete, noted for being the location of an important Minoan peak sanctuary.",
+  "description": "See https://pleiades.stoa.org/places/589826",
   "connectsWith": [
     "589748"
   ],
@@ -43,7 +43,7 @@
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Mount Juktas",
-        "link": "http://pleiades.stoa.org/places/953163789/location-of-mount-juktas"
+        "link": "http://pleiades.stoa.org/errata/953163789/location-of-mount-juktas"
       }
     }
   ]

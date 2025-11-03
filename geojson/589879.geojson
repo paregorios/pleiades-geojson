@@ -3,10 +3,10 @@
   "title": "Korykiai (islands)",
   "id": "589879",
   "bbox": [
-    23.5,
-    35.5,
-    24.0,
-    36.0
+    23.573924,
+    35.6053171,
+    23.594602,
+    35.6480154
   ],
   "description": "An ancient place, cited: BAtlas 60 A1 Korykiai Inss.",
   "names": [
@@ -18,49 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.75,
-          35.75
+          23.582836554,
+          35.6260077639
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              23.5,
-              35.5
-            ],
-            [
-              23.5,
-              36.0
-            ],
-            [
-              24.0,
-              36.0
-            ],
-            [
-              24.0,
-              35.5
-            ],
-            [
-              23.5,
-              35.5
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589879/batlas-location"
       }
     }
   ]

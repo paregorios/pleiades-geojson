@@ -3,10 +3,10 @@
   "title": "Doliane",
   "id": "530844",
   "bbox": [
-    20.354025,
-    39.5334601,
-    20.354025,
-    39.5334601
+    20.3524794,
+    39.5333844,
+    20.3557898,
+    39.5354311
   ],
   "description": "An ancient place, cited: BAtlas 54 B2 Doliane",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.354025,
-          39.5334601
+          20.3542273743,
+          39.5344198547
         ]
       },
       "properties": {

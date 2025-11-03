@@ -3,12 +3,12 @@
   "title": "Sidi Larbi Boujema",
   "id": "275717",
   "bbox": [
-    -5.927058,
-    34.535509,
-    -5.927058,
-    34.535509
+    -5.944819,
+    34.530891,
+    -5.944819,
+    34.530891
   ],
-  "description": "An ancient place, cited: BAtlas 28 C4 Sidi Larbi Boujema",
+  "description": "Remains of a presumably Roman settlement were identified but not excavated in the 20th century at the \"seyyid\" or \"marabout\" of \"Sidi Larbi Boujema\", which is said to be situated on the west side of the river Sabou, along what is now the Route Nationale 27 about 5 kilometers south of modern Mechra bel Ksiri in Morocco's Sefsaf commune (Sidi Kacem Province). This location corresponds to the \"Al-Arabi Bou Jemaa\" cemetery recorded in Google Maps (2025) and visible in satellite imagery. Euzennat (repeating the same in PECS and BAtlDir) tenatively identified the ruins here with (Vo)pisciana (q.v.), which is attested in the Antonine itinerary, but more recent scholarship has followed Rebuffat 2000 in preferring Souq el Arbaâ du Gharb (see \"Souk el Arba\").",
   "names": [
     "Sidi Larbi Boujema"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.927058,
-          34.535509
+          -5.944819,
+          34.530891
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.927058,
-          34.535509
+          -5.944819,
+          34.530891
         ]
       },
-      "id": "darmc-location-14723",
+      "id": "imagery-location",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location determined in Google Earth with reference to digitized BAtlas/DARMC coordinates, relative description of location in PECS and Euzennat 1989, and examination of nearby modern feature names in Google Earth and Google Maps.",
         "location_precision": "precise",
-        "title": "DARMC location 14723",
-        "link": "http://pleiades.stoa.org/places/275717/darmc-location-14723"
+        "title": "Imagery Location: Al-Arabi Bou Jemaa Cemetery",
+        "link": "http://pleiades.stoa.org/places/275717/imagery-location"
       }
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Caleorsissa",
+  "id": "557533541",
+  "description": "An ancient place in Cappadocia located on the route between Olotoedariza and Analib(l)a.",
+  "names": [
+    "Caleorsissa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

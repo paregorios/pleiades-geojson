@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regio VII (Via Lata)",
   "id": "596666070",
+  "bbox": [
+    12.473926,
+    41.8958389,
+    12.4931345,
+    41.919375
+  ],
   "description": "Regio VII (Via Lata) was one of the administrative regions of the city of Rome instituted by Augustus in 7 BCE. In addition to the named monuments and buildings, the Regionary Catalogues indicate that this district also included 15 shrines (aediculae), 120 townhouses (domūs), 25 warehouses (horrea), 75 baths (balneae), and 76 fountains.",
   "names": [
     "Regio VII"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.480691525,
+          41.9040553154
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

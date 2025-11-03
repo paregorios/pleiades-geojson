@@ -3,20 +3,23 @@
   "title": "Sesönk",
   "id": "658595",
   "bbox": [
-    38.068965,
-    37.484866,
-    38.068965,
-    37.484866
+    38.0676513,
+    37.484944,
+    38.0680934,
+    37.4852942
   ],
   "description": "An ancient place, cited: BAtlas 67 G2 Sesönk",
+  "names": [
+    "Sesönk"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.068965,
-          37.484866
+          38.0678723913,
+          37.4851201091
         ]
       },
       "properties": {
@@ -25,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          38.068965,
-          37.484866
+          [
+            38.0680878,
+            37.4850779
+          ],
+          [
+            38.0680934,
+            37.4851362
+          ],
+          [
+            38.0680746,
+            37.4851927
+          ],
+          [
+            38.0680335,
+            37.4852412
+          ],
+          [
+            38.0679747,
+            37.4852763
+          ],
+          [
+            38.0679058,
+            37.4852942
+          ],
+          [
+            38.0678333,
+            37.4852934
+          ],
+          [
+            38.067765,
+            37.4852742
+          ],
+          [
+            38.0677081,
+            37.4852384
+          ],
+          [
+            38.0676688,
+            37.4851901
+          ],
+          [
+            38.0676513,
+            37.4851343
+          ],
+          [
+            38.0676573,
+            37.4850769
+          ],
+          [
+            38.0676863,
+            37.4850242
+          ],
+          [
+            38.0677352,
+            37.4849817
+          ],
+          [
+            38.0677988,
+            37.484954
+          ],
+          [
+            38.0678713,
+            37.484944
+          ],
+          [
+            38.067944,
+            37.4849535
+          ],
+          [
+            38.0680088,
+            37.4849812
+          ],
+          [
+            38.0680586,
+            37.4850243
+          ],
+          [
+            38.0680878,
+            37.4850779
+          ]
         ]
       },
-      "id": "darmc-location-20657",
+      "id": "osm-location-of-sesapnk",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20657",
-        "link": "http://pleiades.stoa.org/places/658595/darmc-location-20657"
+        "title": "OSM location of Sesönk",
+        "link": "http://pleiades.stoa.org/places/658595/osm-location-of-sesapnk"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Erigon (river)",
   "id": "491592",
   "bbox": [
-    22.5226845,
-    41.0572437,
-    22.5226845,
-    41.0572437
+    20.8369638,
+    40.5121719,
+    22.7163066,
+    42.1032514
   ],
   "description": "The Erigon is the largest tributary of the Axius river in Macedonia.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.5226845,
-          41.0572437
+          21.8248081542,
+          41.4091234247
         ]
       },
       "properties": {

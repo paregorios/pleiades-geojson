@@ -3,10 +3,10 @@
   "title": "Karbai",
   "id": "39356",
   "bbox": [
-    40.0,
-    15.0,
-    45.0,
-    20.0
+    43.392111736,
+    14.4835488494,
+    43.5085209154,
+    15.0527071596
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Karbai",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          17.5
+          43.4747711875,
+          14.7728736121
         ]
       },
       "properties": {
@@ -29,39 +29,41 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "LineString",
         "coordinates": [
           [
-            [
-              40.0,
-              15.0
-            ],
-            [
-              40.0,
-              20.0
-            ],
-            [
-              45.0,
-              20.0
-            ],
-            [
-              45.0,
-              15.0
-            ],
-            [
-              40.0,
-              15.0
-            ]
+            43.39211173595796,
+            15.052707159610504
+          ],
+          [
+            43.4497051971534,
+            14.910178926546076
+          ],
+          [
+            43.48405938418472,
+            14.813024235205749
+          ],
+          [
+            43.50785968750941,
+            14.700216661901523
+          ],
+          [
+            43.50852091536945,
+            14.601351380839674
+          ],
+          [
+            43.497586852532464,
+            14.48354884940562
           ]
         ]
       },
-      "id": "batlas-location",
+      "id": "batlas-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/39356/batlas-location"
+        "description": "Centerline of label on Barrington Atlas map 4 digitized in QGIS from a raster image of the map that was georegistered by the Ancient World Mapping Center in 2003.",
+        "location_precision": "precise",
+        "title": "BAtlas Label Location",
+        "link": "http://pleiades.stoa.org/places/39356/batlas-label-location"
       }
     }
   ]

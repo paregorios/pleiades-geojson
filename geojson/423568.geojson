@@ -3,10 +3,10 @@
   "title": "Aqua Virgo",
   "id": "423568",
   "bbox": [
-    12.4837635,
-    41.9026744,
-    12.4837635,
-    41.9026744
+    12.4836344,
+    41.9025298,
+    12.4837871,
+    41.9026921
   ],
   "description": "The Aqua Virgo was one of the 11 aqueducts supplying the city of Rome and was completed by Marcus Agrippa in 19 BC. The aqueduct was later revitalized by Pope Adrian I in the eighth century.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4837635,
-          41.9026744
+          12.4837107604,
+          41.9026109358
         ]
       },
       "properties": {
@@ -31,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4837635,
-          41.9026744
+          [
+            12.4837607,
+            41.9026921
+          ],
+          [
+            12.4837871,
+            41.9026798
+          ],
+          [
+            12.4836609,
+            41.9025298
+          ],
+          [
+            12.4836344,
+            41.9025421
+          ],
+          [
+            12.4837607,
+            41.9026921
+          ]
         ]
       },
-      "id": "osm-location-of-aqua-virgo",
+      "id": "osm-location-of-aqueduct-ruins",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of visible section of the Aqua Virgo",
-        "link": "http://pleiades.stoa.org/places/423568/osm-location-of-aqua-virgo"
+        "title": "OSM location of Aqueduct Ruins",
+        "link": "http://pleiades.stoa.org/places/423568/osm-location-of-aqueduct-ruins"
       }
     }
   ]
