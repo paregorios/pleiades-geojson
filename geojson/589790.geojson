@@ -2,27 +2,48 @@
   "type": "FeatureCollection",
   "title": "Galessos",
   "id": "589790",
-  "description": "An ancient place, cited: BAtlas 60 A5 Galessos",
+  "bbox": [
+    24.875,
+    37.42,
+    24.875,
+    37.42
+  ],
+  "description": "Galessos was an ancient city on the island of Syros in the Cyclades.",
+  "connectsWith": [
+    "590067"
+  ],
   "names": [
     "Galessos"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.875,
+          37.42
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.875,
+          37.42
+        ]
+      },
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
         "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589790/batlas-location"
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/589790/topostext-location"
       }
     }
   ]

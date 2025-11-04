@@ -9,6 +9,9 @@
     40.3349
   ],
   "description": "Find place for cuneiform inscription.",
+  "names": [
+    "Ṣaru-Ḳamuş"
+  ],
   "features": [
     {
       "type": "Feature",

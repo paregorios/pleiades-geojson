@@ -3,14 +3,17 @@
   "title": "Athena, Zeus?, T.",
   "id": "599541",
   "bbox": [
-    25.0,
-    36.0,
-    25.5,
-    36.5
+    25.418,
+    36.432,
+    25.418,
+    36.432
   ],
   "description": "An ancient place, cited: BAtlas 61 A5 Athena, Zeus?, T.",
+  "connectsWith": [
+    "599973"
+  ],
   "names": [
-    "Athena, Zeus, T."
+    "Athena"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.25,
-          36.25
+          25.418,
+          36.432
         ]
       },
       "properties": {
@@ -28,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              25.0,
-              36.0
-            ],
-            [
-              25.0,
-              36.5
-            ],
-            [
-              25.5,
-              36.5
-            ],
-            [
-              25.5,
-              36.0
-            ],
-            [
-              25.0,
-              36.0
-            ]
-          ]
+          25.418,
+          36.432
         ]
       },
-      "id": "undetermined",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/599541/undetermined"
+        "description": "Dates after BAtlDir.",
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/599541/topostext-location"
       }
     }
   ]

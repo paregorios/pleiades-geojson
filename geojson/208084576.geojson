@@ -5,8 +5,8 @@
   "bbox": [
     12.48333,
     41.9,
-    12.48333,
-    41.9
+    12.4907386,
+    41.9034322
   ],
   "description": "The Alta Semita was an urban street running along the spine of the Quirinal Hill. The Alta Semita also lent its name to the sixth Augustan region of the city.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.48333,
-          41.9
+          12.4892219101,
+          41.9028192874
         ]
       },
       "properties": {

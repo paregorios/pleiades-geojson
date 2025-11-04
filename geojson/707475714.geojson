@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.9722790433,
-          46.8917976315
+          91.9722790423,
+          46.89179763
         ]
       },
       "properties": {
@@ -59,6 +59,10 @@
             46.8918995
           ],
           [
+            91.9723848,
+            46.8918845
+          ],
+          [
             91.9724333,
             46.8918542
           ],
@@ -85,7 +89,7 @@
       "properties": {
         "description": "Point representing the visible remains of the Khar Gov' site, derived from an OpenStreetMap Way after Kovalev 2021.",
         "location_precision": "precise",
-        "title": "Khar gov'",
+        "title": "OSM location of Khar gov'",
         "link": "http://pleiades.stoa.org/places/707475714/khar-gov-1"
       }
     }

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Selino(u)s",
+  "title": "Selino(u)s (settlement)",
   "id": "570658",
   "bbox": [
     21.626083,
@@ -8,7 +8,7 @@
     21.626083,
     37.618321
   ],
-  "description": "An ancient place, cited: BAtlas 58 B2 Selino(u)s",
+  "description": "Modern Krestena, in the Elis regional unit of the Peloponnese.",
   "names": [
     "Selinous",
     "Selinos"

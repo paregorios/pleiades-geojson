@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Deer Stone Monuments and Related Bronze Age Sites",
+  "id": "900824967",
+  "description": "The UNESCO World Heritage landscape \"Deer Stone Monuments and Related Bronze Age Sites\" encompasses several \"deer stone\" sites situated on the Khangai Ridge in central Mongolia. These sites were used for both ceremonial and funerary purposes, dating from the later second millennium to the mid-first millennium BCE.",
+  "names": [
+    "Deer Stone Monuments and Related Bronze Age Sites"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Rema",
   "id": "570644",
   "bbox": [
-    24.416667,
-    36.683333,
-    24.416667,
-    36.683333
+    24.3172511,
+    36.6447317,
+    24.5477163,
+    36.7739565
   ],
   "description": "An ancient place, cited: BAtlas 58 H4 Rema",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.416667,
-          36.683333
+          24.4338256765,
+          36.7101752816
         ]
       },
       "properties": {

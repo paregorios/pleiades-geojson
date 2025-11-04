@@ -5,7 +5,7 @@
   "bbox": [
     37.160631,
     36.1981657,
-    37.1650675,
+    37.1652204,
     36.2006678
   ],
   "description": "The ancient city of Aleppo, located in modern Syria, where extensive elements of Hittite, Hellenistic, Roman, Byzantine, Ayyubid, and Umayyad architecture are incorporated into the urban fabric of the modern city. Inscribed as a UNESCO World Heritage Site in 1986.",
@@ -26,7 +26,8 @@
     "Halaba",
     "Halbāja",
     "Chalep",
-    "Ḥaleb"
+    "Ḥaleb",
+    "Berya"
   ],
   "features": [
     {
@@ -34,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.1628351411,
-          36.1994074125
+          37.1628957376,
+          36.1994053457
         ]
       },
       "properties": {
@@ -103,20 +104,32 @@
             36.2003174
           ],
           [
-            37.1648947,
-            36.1998953
+            37.1649939,
+            36.1999364
           ],
           [
-            37.1650675,
-            36.1993187
+            37.1651307,
+            36.199655
           ],
           [
-            37.1649741,
-            36.1988702
+            37.1652204,
+            36.1993425
           ],
           [
-            37.1646584,
-            36.1986336
+            37.1652058,
+            36.1991161
+          ],
+          [
+            37.1650868,
+            36.1988724
+          ],
+          [
+            37.1647013,
+            36.1986184
+          ],
+          [
+            37.1645119,
+            36.1985443
           ],
           [
             37.1639575,

@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Uushigiin Uver",
+  "id": "900824968",
+  "bbox": [
+    99.9271899,
+    49.6543039,
+    99.9312381,
+    49.65843
+  ],
+  "description": "A Bronze Age archaeological site with Deer Stones located at Uushigiin Ovor (UO), Mongolia, that is included in the cultural landscape \"Deer Stone Monuments and Related Bronze Age Sites\", inscribed as a UNESCO World Heritage Site in 2023.",
+  "connectsWith": [
+    "900824967"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9290076145,
+          49.656341771
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            99.9272257,
+            49.6543039
+          ],
+          [
+            99.9299785,
+            49.6543725
+          ],
+          [
+            99.9312381,
+            49.657061
+          ],
+          [
+            99.9304118,
+            49.65843
+          ],
+          [
+            99.9276543,
+            49.6581939
+          ],
+          [
+            99.9271899,
+            49.6560129
+          ],
+          [
+            99.9272257,
+            49.6543039
+          ]
+        ]
+      },
+      "id": "osm-location-of-uushigiin-uver",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Uushigiin Uver",
+        "link": "http://pleiades.stoa.org/places/900824968/osm-location-of-uushigiin-uver"
+      }
+    }
+  ]
+}

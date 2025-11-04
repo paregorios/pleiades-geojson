@@ -8,7 +8,7 @@
     -2.825572,
     52.072603
   ],
-  "description": "An ancient place, cited: BAtlas 8 E2 New Weir",
+  "description": "Roman archaeological site near Herford with various interpretations, such as a villa, public baths, a water shrine",
   "features": [
     {
       "type": "Feature",
@@ -34,7 +34,7 @@
       "id": "darmc-location-21009",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 21009",
         "link": "http://pleiades.stoa.org/places/79610/darmc-location-21009"
