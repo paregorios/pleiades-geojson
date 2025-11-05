@@ -2,14 +2,27 @@
   "type": "FeatureCollection",
   "title": "Ag. Andreas",
   "id": "589659",
+  "bbox": [
+    24.6348242,
+    36.9011463,
+    24.7651168,
+    37.0416501
+  ],
   "description": "An ancient place, cited: BAtlas 60 C5 Ag. Andreas",
   "connectsWith": [
-    "590049"
+    "590049",
+    "492082396"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6987853384,
+          36.973575988
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

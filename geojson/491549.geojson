@@ -10,7 +10,7 @@
   ],
   "description": "An ancient place, cited: BAtlas 50 A3 Bokeria/*Begorra",
   "connectsWith": [
-    "copy_of_491591"
+    "491591"
   ],
   "names": [
     "Bokeria",
@@ -41,7 +41,7 @@
       "id": "darmc-location-9991",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 9991",
         "link": "http://pleiades.stoa.org/places/491549/darmc-location-9991"

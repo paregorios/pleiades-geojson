@@ -8,7 +8,10 @@
     -1.16041,
     52.258273
   ],
-  "description": "An ancient place, cited: BAtlas 8 F2 Daventry",
+  "description": "Roman building interpreted either as a villa or a shrine at Borough Hill hillfort, United Kingdom.",
+  "names": [
+    "Daventry"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-20827",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20827",
         "link": "http://pleiades.stoa.org/places/79414/darmc-location-20827"

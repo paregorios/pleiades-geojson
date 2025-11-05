@@ -3,10 +3,10 @@
   "title": "Getae",
   "id": "216817",
   "bbox": [
-    25.0,
-    44.0,
-    26.0,
-    45.0
+    29.7042796403,
+    45.6926006728,
+    30.2096771579,
+    45.958148521
   ],
   "description": "The Greek name given to Thracian tribes dwelling south of the Danube river.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.5,
-          44.5
+          29.9475293383,
+          45.8296502307
         ]
       },
       "properties": {

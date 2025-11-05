@@ -3,10 +3,10 @@
   "title": "Roman Aqueduct at Mytilene",
   "id": "551156",
   "bbox": [
-    26.5,
-    39.0,
-    27.0,
-    39.5
+    26.514316,
+    39.1257475,
+    26.5152232,
+    39.1263965
   ],
   "description": "A large aqueduct that supplied the city of Mytilene from the west. Some parts of it are preserved.",
   "features": [
@@ -15,49 +15,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.75,
-          39.25
+          26.5147696,
+          39.126072
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              26.5,
-              39.0
-            ],
-            [
-              26.5,
-              39.5
-            ],
-            [
-              27.0,
-              39.5
-            ],
-            [
-              27.0,
-              39.0
-            ],
-            [
-              26.5,
-              39.0
-            ]
-          ]
-        ]
-      },
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/551156/undetermined"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Zereia/Zeira",
   "id": "507480",
   "bbox": [
-    23.0,
-    40.0,
-    23.5,
-    40.5
+    23.0541730615,
+    40.4254607873,
+    23.76191102,
+    40.4738933141
   ],
   "description": "Diodorus refers to Zereia/Zeira as a fortress and places it near the location of Chalcidice. It was razed by Philip V. It is now unlocated. (cited: BAtlas 51 unlocated Zereia/Zeira)",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.25,
-          40.25
+          23.3829263031,
+          40.4498511803
         ]
       },
       "properties": {

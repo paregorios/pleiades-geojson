@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Panormos",
+  "title": "Panormos (Cephallania)",
   "id": "531041",
   "bbox": [
-    20.5,
-    38.0,
-    21.0,
-    38.5
+    20.5752362,
+    38.4609277,
+    20.5752362,
+    38.4609277
   ],
   "description": "An ancient place, cited: BAtlas 54 C5 Panormos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.75,
-          38.25
+          20.5752362,
+          38.4609277
         ]
       },
       "properties": {
@@ -28,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              20.5,
-              38.0
-            ],
-            [
-              20.5,
-              38.5
-            ],
-            [
-              21.0,
-              38.5
-            ],
-            [
-              21.0,
-              38.0
-            ],
-            [
-              20.5,
-              38.0
-            ]
-          ]
+          20.5752362,
+          38.4609277
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-fiskardo",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/531041/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Fiskardo",
+        "link": "http://pleiades.stoa.org/places/531041/osm-location-modern-fiskardo"
       }
     }
   ]

@@ -37,7 +37,7 @@
       "id": "darmc-location-13396",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 13396",
         "link": "http://pleiades.stoa.org/places/580008/darmc-location-13396"
@@ -54,7 +54,7 @@
       "id": "darmc-location-22723",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 22723",
         "link": "http://pleiades.stoa.org/places/580008/darmc-location-22723"

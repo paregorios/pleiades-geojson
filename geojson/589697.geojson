@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Aperi",
   "id": "589697",
+  "bbox": [
+    27.0613256,
+    35.3965494,
+    27.2426063,
+    35.8307584
+  ],
   "description": "An ancient place, cited: BAtlas 60 E4 Aperi",
   "connectsWith": [
     "589841"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.1620364739,
+          35.6007781832
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

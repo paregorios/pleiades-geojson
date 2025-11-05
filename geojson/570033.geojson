@@ -3,10 +3,10 @@
   "title": "Ag. Eirene",
   "id": "570033",
   "bbox": [
-    24.3257502,
-    37.6695213,
-    24.3257502,
-    37.6695213
+    24.3253613,
+    37.6683791,
+    24.3265473,
+    37.6694683
   ],
   "description": "Ayia Irini, located on Keos, was occupied from the Late Neolithic until the Mycenaean period. The site was extensively excavated under J.L. Caskey.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.3257502,
-          37.6695213
+          24.3258942036,
+          37.6689657922
         ]
       },
       "properties": {

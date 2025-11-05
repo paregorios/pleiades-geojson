@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Agramont",
+  "title": "Agramunt",
   "id": "606953230",
   "bbox": [
     0.9842882,
@@ -8,9 +8,10 @@
     1.1526487,
     41.8595933
   ],
-  "description": "\"a small town in Catalonia, in Spain: yet the chief place of a jurisdiction\" in the 18th century (Seally, 1787, Vol. 1, entry Agra).",
+  "description": "Now a municipality in the Urgell comarca of Catalonia, Agramunt originated prior to the 11th century CE.",
   "names": [
-    "Agramont"
+    "Agramont",
+    "Agramunt"
   ],
   "features": [
     {

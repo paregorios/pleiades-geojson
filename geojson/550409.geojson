@@ -3,14 +3,17 @@
   "title": "Ag. Isidoros",
   "id": "550409",
   "bbox": [
-    26.21429,
-    39.126969,
-    26.21429,
-    39.126969
+    26.2163409,
+    39.1220668,
+    26.2163409,
+    39.1220668
   ],
   "description": "An ancient place, cited: BAtlas 56 C3 Ag. Isidoros",
   "connectsWith": [
     "550696"
+  ],
+  "names": [
+    "Agios Isidoros"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.21429,
-          39.126969
+          26.2163409,
+          39.1220668
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.21429,
-          39.126969
+          26.2163409,
+          39.1220668
         ]
       },
-      "id": "darmc-location-15844",
+      "id": "osm-location-agios-isodoros",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15844",
-        "link": "http://pleiades.stoa.org/places/550409/darmc-location-15844"
+        "title": "OSM Location: Agios Isodoros",
+        "link": "http://pleiades.stoa.org/places/550409/osm-location-agios-isodoros"
       }
     }
   ]

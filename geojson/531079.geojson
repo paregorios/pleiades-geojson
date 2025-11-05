@@ -3,10 +3,10 @@
   "title": "Pyrgos",
   "id": "531079",
   "bbox": [
-    20.2010891,
-    39.5368085,
-    20.2010891,
-    39.5368085
+    20.2001926,
+    39.5370687,
+    20.201414,
+    39.5380742
   ],
   "description": "An ancient place, cited: BAtlas 54 B2 Pyrgos",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.2010891,
-          39.5368085
+          20.2008179461,
+          39.5375373049
         ]
       },
       "properties": {

@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Murayghat",
+  "id": "652550389",
+  "bbox": [
+    35.698437,
+    31.653003,
+    35.698437,
+    31.653003
+  ],
+  "description": "An early Bronze Age site in modern Jordan, located about 12 km southwest of Madaba. The site has been interpreted as a ceremonial meeting place for regional groups, featuring a central area with monumental structures and standing stones surrounded by dolmen fields, which may mark burial sites.",
+  "names": [
+    "Murayghat",
+    "Merighat"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.698437,
+          31.653003
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.698437,
+          31.653003
+        ]
+      },
+      "id": "imagery-location-after-kerner-2025",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to description and maps in Kerner 2025. Dates after Kerner 2025.",
+        "location_precision": "precise",
+        "title": "Imagery Location after Kerner 2025",
+        "link": "http://pleiades.stoa.org/places/652550389/imagery-location-after-kerner-2025"
+      }
+    }
+  ]
+}
