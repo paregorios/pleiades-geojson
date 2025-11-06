@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bera/Feres",
+  "id": "907598626",
+  "bbox": [
+    26.1740708,
+    40.8941905,
+    26.1740708,
+    40.8941905
+  ],
+  "description": "A modern town and a former municipality in Evros, Greece. Site of a 12th century monastic foundation, subsequently fortified.",
+  "names": [
+    "Ferecik",
+    "Ferecük",
+    "Feres",
+    "Feres",
+    "Bēra",
+    "Bēros"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1740708,
+          40.8941905
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1740708,
+          40.8941905
+        ]
+      },
+      "id": "osm-location-modern-feres",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Feres",
+        "link": "http://pleiades.stoa.org/places/907598626/osm-location-modern-feres"
+      }
+    }
+  ]
+}

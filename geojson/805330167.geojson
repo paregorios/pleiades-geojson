@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Whatley Combe Roman villa",
+  "id": "805330167",
+  "bbox": [
+    -2.36766,
+    51.22153,
+    -2.36766,
+    51.22153
+  ],
+  "description": "A 4th-century CE Roman corridor villa near Nunney, United Kingdom.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36766,
+          51.22153
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.36766,
+          51.22153
+        ]
+      },
+      "id": "dare-location-whatley",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: Whatley",
+        "link": "http://pleiades.stoa.org/places/805330167/dare-location-whatley"
+      }
+    }
+  ]
+}

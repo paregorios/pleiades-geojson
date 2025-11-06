@@ -3,12 +3,12 @@
   "title": "Xantheia",
   "id": "501661",
   "bbox": [
-    24.894109,
+    25.429509,
     40.905051,
     25.429509,
-    41.14098
+    40.905051
   ],
-  "description": "An ancient place, cited: BAtlas 51 E3 Xantheia",
+  "description": "The ancient Thracian city of Xantheia, located somewhere in the vicinity of ancient Maroneia (modern Ag. Kharalabos in the Greek administrative region of Eastern Macedonia and Thrace). No archaeological evidence connects the ancient city with the more recent location that now bears its name. BAtlas tentatively and approximately placed (hollow symbol) ancient Xantheia some 50 kilometers east-southeast of modern Xanthi and 7 kilometers west of ancient Maroneia.",
   "names": [
     "Xantheia"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.161809,
-          41.0230155
+          25.429509,
+          40.905051
         ]
       },
       "properties": {
@@ -41,23 +41,6 @@
         "location_precision": "precise",
         "title": "DARMC location 1838",
         "link": "http://pleiades.stoa.org/places/501661/darmc-location-1838"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.894109,
-          41.14098
-        ]
-      },
-      "id": "darmc-location-10390",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 10390",
-        "link": "http://pleiades.stoa.org/places/501661/darmc-location-10390"
       }
     }
   ]

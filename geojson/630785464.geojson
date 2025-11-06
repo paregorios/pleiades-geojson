@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Xantheia/Xanthi",
+  "id": "630785464",
+  "bbox": [
+    24.8864089,
+    41.13805,
+    24.8864089,
+    41.13805
+  ],
+  "description": "The medieval-modern inheritor of the ancient city of Xantheia (q.v.), located as much as 50 kilometers west-northwest of the probable location of the ancient city. This Xanthi is first named in documents of the 10th century CE.",
+  "names": [
+    "İskete",
+    "İskeçe",
+    "Xanthi",
+    "Xantheia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8864089,
+          41.13805
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8864089,
+          41.13805
+        ]
+      },
+      "id": "osm-location-modern-xanthi",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Xanthi",
+        "link": "http://pleiades.stoa.org/places/630785464/osm-location-modern-xanthi"
+      }
+    }
+  ]
+}

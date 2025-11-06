@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "title": "Niš Fortress",
+  "id": "865385553",
+  "bbox": [
+    21.8954469,
+    43.3257724,
+    21.8954469,
+    43.3257724
+  ],
+  "description": "An eighteenth-century Ottoman fortress in Nis, Serbia, thought to have been built on the site of previous fortifications going back to the Roman period.",
+  "connectsWith": [
+    "207303"
+  ],
+  "names": [
+    "Ḳalʿa-i Nīş",
+    "Niş Kalesi",
+    "Niš Fortress",
+    "Niška tvrđava"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8954469,
+          43.3257724
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8954469,
+          43.3257724
+        ]
+      },
+      "id": "osm-location-nia-fortress",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Niš Fortress",
+        "link": "http://pleiades.stoa.org/places/865385553/osm-location-nia-fortress"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theotokos Kosmosoteira",
+  "id": "195824088",
+  "bbox": [
+    26.170222,
+    40.8938916,
+    26.1705387,
+    40.8941123
+  ],
+  "description": "A twelfth-century monastic foundation and fortified church in the modern town of Feres in Greece's Evros prefecture. The structure served as a mosque during the Ottoman empire and was returned to use as a church in the 20th century.",
+  "names": [
+    "Monastère de la Vierge Kosmosoteira",
+    "Theotokos i Kosmosoteira",
+    "Moní Panagías Kosmosóteiras",
+    "Thometor Kosmosoteira"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1703803624,
+          40.8940019304
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.170222,
+            40.8940526
+          ],
+          [
+            26.1702895,
+            40.8938916
+          ],
+          [
+            26.1705387,
+            40.8939512
+          ],
+          [
+            26.1704712,
+            40.8941123
+          ],
+          [
+            26.170222,
+            40.8940526
+          ]
+        ]
+      },
+      "id": "osm-location-i-i-i1-2i-i3i-i-i-ii-ii1-4i-iiiiui1ii",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Παναγία η Κοσμοσώτειρα Φερών",
+        "link": "http://pleiades.stoa.org/places/195824088/osm-location-i-i-i1-2i-i3i-i-i-ii-ii1-4i-iiiiui1ii"
+      }
+    }
+  ]
+}
