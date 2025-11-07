@@ -4,8 +4,8 @@
   "id": "472063",
   "bbox": [
     8.5431581,
-    41.3916,
-    9.51230911559,
+    41.3712894,
+    9.53442,
     42.98429
   ],
   "description": "The island of Corsica, in the Mediterranean Sea.",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1903461,
-          42.1441461
+          9.13924183017,
+          41.7351803207
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Salbake (mountain)",
   "id": "639088",
   "bbox": [
-    29.1808127,
-    37.2883889,
-    29.200656,
-    37.301228
+    29.180717,
+    37.288052,
+    29.200695,
+    37.30125
   ],
   "description": "Modern Bozdağ in the Tavas district of Turkey's Denizli province.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.19073435,
-          37.29480845
+          29.190706,
+          37.294651
         ]
       },
       "properties": {

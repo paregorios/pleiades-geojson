@@ -10,7 +10,9 @@
   ],
   "description": "An ancient place, cited: BAtlas 66 C2 Laranda",
   "names": [
-    "Laranda"
+    "Laranda",
+    "Lārende",
+    "Karaman"
   ],
   "features": [
     {
@@ -37,7 +39,7 @@
       "id": "darmc-location-1927",
       "type": "Feature",
       "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "TIB representative point location digitized by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 1927",
         "link": "http://pleiades.stoa.org/places/648693/darmc-location-1927"

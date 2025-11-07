@@ -5,7 +5,7 @@
   "bbox": [
     79.6560285,
     5.9281039,
-    81.835714,
+    81.8269327,
     9.835
   ],
   "description": "The island of Sri Lanka was known to Greek and Roman writers by a number of names, including Taprobane, Palaisimoundou, and Salike.",
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.5981446459,
-          7.74212924436
+          80.574678177,
+          7.98139972411
         ]
       },
       "properties": {
