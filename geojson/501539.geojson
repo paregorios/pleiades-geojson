@@ -3,10 +3,10 @@
   "title": "Orbelos (mountain)",
   "id": "501539",
   "bbox": [
-    24.5,
-    41.016667,
-    24.5,
-    41.016667
+    23.595,
+    41.377,
+    23.595,
+    41.377
   ],
   "description": "Orbelos Mts.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.5,
-          41.016667
+          23.595,
+          41.377
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.5,
-          41.016667
+          23.595,
+          41.377
         ]
       },
-      "id": "summit-of-lekani",
+      "id": "topostext-location",
       "type": "Feature",
       "properties": {
-        "description": "verified in Google Earth 2013.",
+        "description": null,
         "location_precision": "precise",
-        "title": "summit of Lekani",
-        "link": "http://pleiades.stoa.org/places/501539/summit-of-lekani"
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/501539/topostext-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Artemis Thermia, T.",
   "id": "550457",
   "bbox": [
-    26.492181,
-    39.186197,
-    26.492181,
-    39.186197
+    26.497806,
+    39.1815278,
+    26.4983895,
+    39.1819512
   ],
   "description": "An ancient place, cited: BAtlas 56 C3 Artemis Thermia, T.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.492181,
-          39.186197
+          26.4980918344,
+          39.1817617878
         ]
       },
       "properties": {
@@ -31,19 +31,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          26.492181,
-          39.186197
+          [
+            26.4983402,
+            39.1819512
+          ],
+          [
+            26.4983895,
+            39.1817606
+          ],
+          [
+            26.4981394,
+            39.1815787
+          ],
+          [
+            26.49797,
+            39.1815278
+          ],
+          [
+            26.4978903,
+            39.1815688
+          ],
+          [
+            26.4978581,
+            39.1816731
+          ],
+          [
+            26.497806,
+            39.1818671
+          ],
+          [
+            26.4983402,
+            39.1819512
+          ]
         ]
       },
-      "id": "darmc-location-15894",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 15894",
-        "link": "http://pleiades.stoa.org/places/550457/darmc-location-15894"
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/550457/osm-location"
       }
     }
   ]

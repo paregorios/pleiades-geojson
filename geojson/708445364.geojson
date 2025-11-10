@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Luna",
   "id": "708445364",
   "bbox": [
-    10.0219239,
-    44.0622822,
-    10.0228808,
-    44.0630026
+    10.0218661,
+    44.0622393,
+    10.0229078,
+    44.0630306
   ],
   "description": "The Roman amphitheater at Luna was built in the second century, perhaps during the Antonine period.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0223975559,
-          44.0626374393
+          10.0223878917,
+          44.0626357029
         ]
       },
       "properties": {

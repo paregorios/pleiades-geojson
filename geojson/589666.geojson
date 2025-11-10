@@ -2,24 +2,45 @@
   "type": "FeatureCollection",
   "title": "Ag. Nikitas",
   "id": "589666",
+  "bbox": [
+    24.6893225,
+    37.0150761,
+    24.6893225,
+    37.0150761
+  ],
   "description": "An ancient place, cited: BAtlas 60 C4 Ag. Nikitas",
+  "connectsWith": [
+    "590049"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6893225,
+          37.0150761
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6893225,
+          37.0150761
+        ]
+      },
+      "id": "osm-location-agios-nikitas",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589666/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Agios Nikitas",
+        "link": "http://pleiades.stoa.org/places/589666/osm-location-agios-nikitas"
       }
     }
   ]

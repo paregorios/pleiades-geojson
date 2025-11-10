@@ -4,9 +4,9 @@
   "id": "570577",
   "bbox": [
     21.143869,
-    36.3856534,
+    36.3852463,
     24.0,
-    38.31667
+    38.4497385
   ],
   "description": "The large peninsula protuding into the Mediterranean Sea that constitutes the southern part of Greece. It is largely separated from mainland Greece on the north by the Corinthian Gulf, joining it only in the northeast via the narrow Isthmus of Corinth.",
   "connectsWith": [
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.4719646668,
-          37.1389974234
+          22.3359574955,
+          37.092784642
         ]
       },
       "properties": {

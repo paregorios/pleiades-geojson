@@ -3,10 +3,10 @@
   "title": "Emerita Augusta",
   "id": "256155",
   "bbox": [
-    -6.3493861,
-    38.911117,
-    -6.3289568,
-    38.9254828
+    -6.3550186,
+    38.9106416,
+    -6.2938973,
+    38.961532
   ],
   "description": "An ancient settlement (modern Mérida, Spain).",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.33901360476,
-          38.9178151543
+          -6.34103268648,
+          38.917656207
         ]
       },
       "properties": {

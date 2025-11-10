@@ -9,6 +9,9 @@
     45.190014
   ],
   "description": "A city of Cisalpine Gaul located in the territory of the Insubres.",
+  "connectsWith": [
+    "383678"
+  ],
   "names": [
     "Acerrae"
   ],

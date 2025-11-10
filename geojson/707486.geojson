@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Artemis, T.",
+  "title": "Achna",
   "id": "707486",
   "bbox": [
     33.791481,
@@ -8,10 +8,13 @@
     33.791481,
     35.057081
   ],
-  "description": "An ancient place, cited: BAtlas 72 D2 Artemis, T.",
+  "description": "Achna is a modern village on Cyprus where evidence exists for an ancient sanctuary dedicated to a goddess perhaps associated with Artemis.",
+  "connectsWith": [
+    "707498"
+  ],
   "names": [
-    "Artemis, T.",
-    "Kybele, T."
+    "Artemis",
+    "Kybele"
   ],
   "features": [
     {
@@ -38,7 +41,7 @@
       "id": "darmc-location-6522",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 6522",
         "link": "http://pleiades.stoa.org/places/707486/darmc-location-6522"

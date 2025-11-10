@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Artemis Anaeitis, Men Tiamou, T.",
+  "title": "Sanctuary of Artemis Anaiitis in Lydia",
   "id": "550456",
   "bbox": [
     28.563504,
@@ -8,9 +8,9 @@
     28.563504,
     38.495984
   ],
-  "description": "An ancient place, cited: BAtlas 56 H4 Artemis Anaeitis, Men Tiamou, T.",
+  "description": "Pausanias describes the Sanctuary of Artemis Anaiitis in Lydia in his third book. Central to his discussion is the xoanon of Artemis that may have been present in the sanctuary, one which he associates with the object Orestes has carried off from Taurus, an episode described by Euripides in his play, Iphigenia in Tauris.",
   "names": [
-    "Artemis Anaeitis, Men Tiamou, T."
+    "Artemis Anaeitis"
   ],
   "features": [
     {
@@ -37,7 +37,7 @@
       "id": "darmc-location-25889",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 25889",
         "link": "http://pleiades.stoa.org/places/550456/darmc-location-25889"

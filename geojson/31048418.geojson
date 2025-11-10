@@ -3,10 +3,10 @@
   "title": "Temple of Artemis (Thasos)",
   "id": "31048418",
   "bbox": [
-    24.7147622,
-    40.7801086,
-    24.7147622,
-    40.7801086
+    24.7143029,
+    40.7791149,
+    24.7171469,
+    40.7808428
   ],
   "description": "Temple of Artemis on Thasos Island with remains from the Archaic period to the 1st century CE.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7147622,
-          40.7801086
+          24.7157486803,
+          40.7799163305
         ]
       },
       "properties": {
@@ -28,19 +28,81 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          24.7147622,
-          40.7801086
+          [
+            24.7143029,
+            40.7796484
+          ],
+          [
+            24.7144315,
+            40.7797774
+          ],
+          [
+            24.7144419,
+            40.779913
+          ],
+          [
+            24.7146731,
+            40.7801369
+          ],
+          [
+            24.7149046,
+            40.7806613
+          ],
+          [
+            24.7154309,
+            40.780528
+          ],
+          [
+            24.7155797,
+            40.7808428
+          ],
+          [
+            24.7162432,
+            40.78061
+          ],
+          [
+            24.7168346,
+            40.7802978
+          ],
+          [
+            24.7171469,
+            40.7799383
+          ],
+          [
+            24.7171303,
+            40.7798121
+          ],
+          [
+            24.7167683,
+            40.7791149
+          ],
+          [
+            24.7160655,
+            40.7791847
+          ],
+          [
+            24.7159516,
+            40.7793801
+          ],
+          [
+            24.7148438,
+            40.7793391
+          ],
+          [
+            24.7143029,
+            40.7796484
+          ]
         ]
       },
-      "id": "o-naos-tes-artemidos",
+      "id": "osm-location-the-temple-of-artemis",
       "type": "Feature",
       "properties": {
-        "description": "Point based on OpenStreetMap representing the Temple of Artemis on Thasos",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Artemis (Thasos)",
-        "link": "http://pleiades.stoa.org/places/31048418/o-naos-tes-artemidos"
+        "title": "OSM location: The Temple of Artemis",
+        "link": "http://pleiades.stoa.org/places/31048418/osm-location-the-temple-of-artemis"
       }
     }
   ]

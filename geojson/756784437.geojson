@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "title": "Little Hagia Sophia",
+  "id": "756784437",
+  "bbox": [
+    28.9719208,
+    41.0025855,
+    28.9724626,
+    41.0029013
+  ],
+  "description": "former Greek Eastern Orthodox church in Istanbul converted to a mosque",
+  "names": [
+    "Little Hagia Sophia",
+    "Küçük Ayasofya Camii",
+    "Ekklēsía tôn Hagíōn Sergíou kaì Bákchou en toîs Hormísdou",
+    "Temenos Kioutsouk Agiasophia",
+    "Moni ton Agion Sergiou kai Bakchou",
+    "Mikri Agia Sofia",
+    "Aya Sergios ve Bakhos Kilisesi",
+    "Sergius and Bacchus church"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.972197633,
+          41.0027455687
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.9719208,
+            41.0027169
+          ],
+          [
+            28.9720123,
+            41.0029013
+          ],
+          [
+            28.9721464,
+            41.0028648
+          ],
+          [
+            28.9721544,
+            41.0028891
+          ],
+          [
+            28.9723312,
+            41.0028363
+          ],
+          [
+            28.9723556,
+            41.0028466
+          ],
+          [
+            28.9724626,
+            41.002812
+          ],
+          [
+            28.9724599,
+            41.0027452
+          ],
+          [
+            28.9724569,
+            41.0027081
+          ],
+          [
+            28.9724552,
+            41.0026628
+          ],
+          [
+            28.9724036,
+            41.002648
+          ],
+          [
+            28.972369,
+            41.0025855
+          ],
+          [
+            28.9720469,
+            41.002646
+          ],
+          [
+            28.9720552,
+            41.0026644
+          ],
+          [
+            28.9719718,
+            41.0026845
+          ],
+          [
+            28.9719828,
+            41.0027029
+          ],
+          [
+            28.9719208,
+            41.0027169
+          ]
+        ]
+      },
+      "id": "osm-location-little-hagia-sophia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Little Hagia Sophia",
+        "link": "http://pleiades.stoa.org/places/756784437/osm-location-little-hagia-sophia"
+      }
+    }
+  ]
+}

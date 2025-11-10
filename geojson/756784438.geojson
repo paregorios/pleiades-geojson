@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hagia Sophia, Iznik",
+  "id": "756784438",
+  "bbox": [
+    29.7200047,
+    40.4290741,
+    29.7203788,
+    40.429307
+  ],
+  "description": "Hagia Sophia, Iznik, Turkey, was founded as a Christian basilica in the fourth century CE. Justinian I rebuilt the site in the mid-6th century CE. An earthquake in the eleventh century destroyed that church, and it was then substantially rebuilt following 1065. It is to that rebuilding that much of the present structure pertains. Following the Ottoman conquest, the church became a mosque in 1331. The site served that function until ca. 1935, when it became a museum. Following 2011, it again served as a mosque.",
+  "connectsWith": [
+    "511268"
+  ],
+  "names": [
+    "Hagia Sophia Mosque",
+    "İznik Ayasofya Camii"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.720186863,
+          40.4291872682
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.7200383,
+            40.429307
+          ],
+          [
+            29.7200047,
+            40.4290973
+          ],
+          [
+            29.7202018,
+            40.4290833
+          ],
+          [
+            29.7202568,
+            40.4290919
+          ],
+          [
+            29.7202548,
+            40.4290772
+          ],
+          [
+            29.7203137,
+            40.4290741
+          ],
+          [
+            29.7203229,
+            40.429129
+          ],
+          [
+            29.7203493,
+            40.4291352
+          ],
+          [
+            29.7203655,
+            40.4291453
+          ],
+          [
+            29.7203788,
+            40.4291739
+          ],
+          [
+            29.7203686,
+            40.4291987
+          ],
+          [
+            29.720333,
+            40.4292227
+          ],
+          [
+            29.7203411,
+            40.429283
+          ],
+          [
+            29.7200383,
+            40.429307
+          ]
+        ]
+      },
+      "id": "osm-location-of-ayasofya",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ayasofya",
+        "link": "http://pleiades.stoa.org/places/756784438/osm-location-of-ayasofya"
+      }
+    }
+  ]
+}

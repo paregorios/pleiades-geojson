@@ -3,6 +3,9 @@
   "title": "Apollonias",
   "id": "741428",
   "description": "An ancient place, cited: BAtlas 75 unlocated Apollonias",
+  "connectsWith": [
+    "736893"
+  ],
   "names": [
     "Apollonias"
   ],
