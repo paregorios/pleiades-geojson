@@ -8,7 +8,10 @@
     41.4898925,
     38.733
   ],
-  "description": "Find place for a Urartian stele fragement.",
+  "description": "The findspot for an Urartian stele fragment.",
+  "names": [
+    "Mūş"
+  ],
   "features": [
     {
       "type": "Feature",

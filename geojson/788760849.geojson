@@ -9,6 +9,9 @@
     46.27711
   ],
   "description": "A Roman road (via publica) of northern Italy begun in 148 B.C. by Spurius Postumius Albinus Magnus.",
+  "names": [
+    "Via Postumia"
+  ],
   "features": [
     {
       "type": "Feature",

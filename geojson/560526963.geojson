@@ -9,6 +9,9 @@
     42.0399663
   ],
   "description": "A Medieval tower along the Via Flaminia near Prima Porta.",
+  "names": [
+    "Torre di Pietra Pertusa"
+  ],
   "features": [
     {
       "type": "Feature",

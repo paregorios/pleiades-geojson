@@ -3,10 +3,10 @@
   "title": "Luna",
   "id": "403235",
   "bbox": [
-    10.016856,
-    44.064253,
-    10.016856,
-    44.064253
+    10.0128633,
+    44.0613801,
+    10.020702,
+    44.0665669
   ],
   "description": "Luna (the modern Luni) is an ancient settlement of Liguria. It was re-founded by the Romans as a colonial settlement in 177 BC.",
   "connectsWith": [
@@ -18,7 +18,9 @@
   "names": [
     "Luna",
     "Luni",
-    "Lune"
+    "Lune",
+    "primum Etruriae oppidum Luna",
+    "Luna"
   ],
   "features": [
     {
@@ -26,8 +28,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.016856,
-          44.064253
+          10.0167934777,
+          44.0639916487
         ]
       },
       "properties": {
@@ -49,6 +51,157 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/403235/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10.0157385,
+            44.0665669
+          ],
+          [
+            10.0155945,
+            44.0662955
+          ],
+          [
+            10.0152792,
+            44.0657667
+          ],
+          [
+            10.0149422,
+            44.0652662
+          ],
+          [
+            10.0148642,
+            44.0651886
+          ],
+          [
+            10.0147227,
+            44.0650459
+          ],
+          [
+            10.0146562,
+            44.064973
+          ],
+          [
+            10.0146309,
+            44.0649312
+          ],
+          [
+            10.0145631,
+            44.0648582
+          ],
+          [
+            10.0138563,
+            44.0637592
+          ],
+          [
+            10.0134196,
+            44.0630515
+          ],
+          [
+            10.0128633,
+            44.0620894
+          ],
+          [
+            10.014655,
+            44.0615035
+          ],
+          [
+            10.0156313,
+            44.0613801
+          ],
+          [
+            10.0159532,
+            44.0617733
+          ],
+          [
+            10.0170539,
+            44.0616113
+          ],
+          [
+            10.0182062,
+            44.0614418
+          ],
+          [
+            10.018571,
+            44.0620278
+          ],
+          [
+            10.0189787,
+            44.0626214
+          ],
+          [
+            10.0192255,
+            44.0630377
+          ],
+          [
+            10.0193652,
+            44.0633613
+          ],
+          [
+            10.0195662,
+            44.0637128
+          ],
+          [
+            10.0197545,
+            44.063634
+          ],
+          [
+            10.020437,
+            44.0645568
+          ],
+          [
+            10.020702,
+            44.0649017
+          ],
+          [
+            10.0200057,
+            44.0651499
+          ],
+          [
+            10.0181767,
+            44.0657203
+          ],
+          [
+            10.0181416,
+            44.0657389
+          ],
+          [
+            10.0182067,
+            44.0658067
+          ],
+          [
+            10.0177052,
+            44.0659531
+          ],
+          [
+            10.0173968,
+            44.0660402
+          ],
+          [
+            10.0173087,
+            44.066054
+          ],
+          [
+            10.0166222,
+            44.0662725
+          ],
+          [
+            10.0157385,
+            44.0665669
+          ]
+        ]
+      },
+      "id": "osm-location-of-museo-archeologico-nazionale-di",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Museo Archeologico Nazionale di Luni",
+        "link": "http://pleiades.stoa.org/places/403235/osm-location-of-museo-archeologico-nazionale-di"
       }
     }
   ]
