@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mazor (West)",
+  "id": "824009551",
+  "bbox": [
+    34.9446721,
+    32.0465193,
+    34.9446721,
+    32.0465193
+  ],
+  "description": "Site of two caves containing finds dated to the Chalcolithic period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9446721,
+          32.0465193
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9446721,
+          32.0465193
+        ]
+      },
+      "id": "mazor-west",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Mazor (West) site, derived from an OpenStreetMap Node after Milevski 2023.",
+        "location_precision": "precise",
+        "title": "OSM location of Mazor (West)",
+        "link": "http://pleiades.stoa.org/places/824009551/mazor-west"
+      }
+    }
+  ]
+}

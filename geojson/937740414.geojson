@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Quleh",
+  "id": "937740414",
+  "bbox": [
+    34.952658,
+    32.0370359,
+    34.952658,
+    32.0370359
+  ],
+  "description": "Burial site dated to the Chalcolithic period.",
+  "names": [
+    "Quleh"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.952658,
+          32.0370359
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.952658,
+          32.0370359
+        ]
+      },
+      "id": "quleh-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Quleh site, derived from an OpenStreetMap Node after Milevski 2023.",
+        "location_precision": "precise",
+        "title": "OSM location of Quleh",
+        "link": "http://pleiades.stoa.org/places/937740414/quleh-1"
+      }
+    }
+  ]
+}

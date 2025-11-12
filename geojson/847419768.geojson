@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Aspros Pyrgos",
-  "id": "589714",
+  "title": "Durley Hill",
+  "id": "847419768",
   "bbox": [
-    24.738,
-    36.9326,
-    24.738,
-    36.9326
+    -2.5119236,
+    51.420693,
+    -2.5119236,
+    51.420693
   ],
-  "description": "An ancient place, cited: BAtlas 60 C5 Aspros Pyrgos",
-  "connectsWith": [
-    "590049"
-  ],
+  "description": "A Roman villa under Durley Hill cemetery, Keynsham, United Kingdom.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.738,
-          36.9326
+          -2.5119236,
+          51.420693
         ]
       },
       "properties": {
@@ -30,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.738,
-          36.9326
+          -2.5119236,
+          51.420693
         ]
       },
-      "id": "topostext-location",
+      "id": "pastscape-location-durley-hill",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "ToposText Location",
-        "link": "http://pleiades.stoa.org/places/589714/topostext-location"
+        "title": "Pastscape Location: Durley Hill",
+        "link": "http://pleiades.stoa.org/places/847419768/pastscape-location-durley-hill"
       }
     }
   ]

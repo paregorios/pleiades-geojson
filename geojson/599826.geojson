@@ -3,10 +3,10 @@
   "title": "Nestos (river)",
   "id": "599826",
   "bbox": [
-    25.0,
-    37.0,
-    25.5,
-    37.5
+    25.0973252,
+    36.975056,
+    25.294397,
+    37.1552988
   ],
   "description": "An ancient place, cited: BAtlas 61 A3 Nestos fl.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.25,
-          37.25
+          25.1984705532,
+          37.0651906726
         ]
       },
       "properties": {

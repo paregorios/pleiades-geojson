@@ -3,6 +3,9 @@
   "title": "Eschatia?",
   "id": "589783",
   "description": "An ancient place, cited: BAtlas 60 C5 Eschatia?",
+  "connectsWith": [
+    "590049"
+  ],
   "names": [
     "Eschatia"
   ],

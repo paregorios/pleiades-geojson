@@ -3,6 +3,9 @@
   "title": "Phor Sinus",
   "id": "606354",
   "description": "An ancient place, cited: BAtlas 61 unlocated Phor Sinus",
+  "connectsWith": [
+    "599868"
+  ],
   "names": [
     "Phor Sinus"
   ],

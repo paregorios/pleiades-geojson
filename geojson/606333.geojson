@@ -3,6 +3,9 @@
   "title": "Marpessa",
   "id": "606333",
   "description": "An ancient place, cited: BAtlas 61 unlocated Marpessa",
+  "connectsWith": [
+    "599868"
+  ],
   "names": [
     "Marpessa"
   ],

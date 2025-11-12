@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Rousolakos",
+  "title": "Roussolakkos",
   "id": "258569489",
   "bbox": [
     26.2748058,
@@ -9,6 +9,9 @@
     35.1956934
   ],
   "description": "A Minoan site in eastern Crete.",
+  "connectsWith": [
+    "589748"
+  ],
   "features": [
     {
       "type": "Feature",

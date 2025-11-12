@@ -2,27 +2,79 @@
   "type": "FeatureCollection",
   "title": "Prophetes Elias Troullakiou",
   "id": "590014",
-  "description": "An ancient place, cited: BAtlas 60 C4 Prophetes Elias Troullakiou",
+  "bbox": [
+    24.6732902,
+    37.003169,
+    24.6735319,
+    37.0033147
+  ],
+  "description": "An ancient settlement on the island of Siphnos. The current church sits on Byzantine foundations and is surrounded by remains of older fortifications and other structures.",
   "connectsWith": [
     "590049"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6734140901,
+          37.0032380536
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.6732902,
+            37.0032544
+          ],
+          [
+            24.6734779,
+            37.0033147
+          ],
+          [
+            24.6735319,
+            37.0032072
+          ],
+          [
+            24.6734127,
+            37.003169
+          ],
+          [
+            24.6733979,
+            37.0031983
+          ],
+          [
+            24.6733669,
+            37.0031883
+          ],
+          [
+            24.6733502,
+            37.0032215
+          ],
+          [
+            24.6733128,
+            37.0032095
+          ],
+          [
+            24.6732902,
+            37.0032544
+          ]
+        ]
+      },
+      "id": "osm-location-prophet-elias-troulakiou",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/590014/batlas-location"
+        "description": "Location based on OpenStreetMap.",
+        "location_precision": "precise",
+        "title": "OSM Location: Prophet Elias Troulakiou",
+        "link": "http://pleiades.stoa.org/places/590014/osm-location-prophet-elias-troulakiou"
       }
     }
   ]

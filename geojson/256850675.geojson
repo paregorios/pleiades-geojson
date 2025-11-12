@@ -1,16 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Aspros Pyrgos",
-  "id": "589714",
+  "title": "Bouleuterion at Lyttos",
+  "id": "256850675",
   "bbox": [
-    24.738,
-    36.9326,
-    24.738,
-    36.9326
+    25.368333,
+    35.208083,
+    25.368333,
+    35.208083
   ],
-  "description": "An ancient place, cited: BAtlas 60 C5 Aspros Pyrgos",
+  "description": null,
   "connectsWith": [
-    "590049"
+    "589918"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.738,
-          36.9326
+          25.368333,
+          35.208083
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.738,
-          36.9326
+          25.368333,
+          35.208083
         ]
       },
-      "id": "topostext-location",
+      "id": "imagery-location-sebasteion-at-lyttos",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "ToposText Location",
-        "link": "http://pleiades.stoa.org/places/589714/topostext-location"
+        "title": "Imagery Location: Bouleuterion at Lyttos",
+        "link": "http://pleiades.stoa.org/places/256850675/imagery-location-sebasteion-at-lyttos"
       }
     }
   ]

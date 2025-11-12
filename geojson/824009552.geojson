@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mazor Mausoleum",
+  "id": "824009552",
+  "bbox": [
+    34.946088,
+    32.0465635,
+    34.9462164,
+    32.0466728
+  ],
+  "description": "Roman mausoleum dated to the 3rd century CE. In the early Muslim period, the site was used as a shrine to the Prophet John.",
+  "names": [
+    "Maqām an-Nebī Yaḥya"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9461522124,
+          32.0466181292
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9461944,
+            32.0466728
+          ],
+          [
+            34.9462164,
+            32.046582
+          ],
+          [
+            34.94611,
+            32.0465635
+          ],
+          [
+            34.946088,
+            32.0466542
+          ],
+          [
+            34.9461944,
+            32.0466728
+          ]
+        ]
+      },
+      "id": "5de5d65d55dc5d05d55dd-5de5d65d55e8",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the visible remains of the Mazor Mausoleum, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Mazor",
+        "link": "http://pleiades.stoa.org/places/824009552/5de5d65d55dc5d05d55dd-5de5d65d55e8"
+      }
+    }
+  ]
+}

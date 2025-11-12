@@ -3,10 +3,10 @@
   "title": "Denizli",
   "id": "755967974",
   "bbox": [
-    25.0,
-    30.0,
-    30.0,
-    35.0
+    29.0966476,
+    37.7827875,
+    29.0966476,
+    37.7827875
   ],
   "description": "A place from the TAVO Index",
   "names": [
@@ -15,7 +15,8 @@
     "Dar-i Ma",
     "Deñizli",
     "Denislü",
-    "Ladiḳ"
+    "Ladiḳ",
+    "Ṭoñuzlu"
   ],
   "features": [
     {
@@ -23,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5,
-          32.5
+          29.0966476,
+          37.7827875
         ]
       },
       "properties": {
@@ -33,39 +34,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              25.0,
-              30.0
-            ],
-            [
-              25.0,
-              35.0
-            ],
-            [
-              30.0,
-              35.0
-            ],
-            [
-              30.0,
-              30.0
-            ],
-            [
-              25.0,
-              30.0
-            ]
-          ]
+          29.0966476,
+          37.7827875
         ]
       },
-      "id": "gane-location-14289",
+      "id": "osm-location-modern-denizli",
       "type": "Feature",
       "properties": {
-        "description": "Approximate location from the TAVO index",
-        "location_precision": "rough",
-        "title": "GANE Location 14289",
-        "link": "http://pleiades.stoa.org/places/755967974/gane-location-14289"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Denizli",
+        "link": "http://pleiades.stoa.org/places/755967974/osm-location-modern-denizli"
       }
     }
   ]
