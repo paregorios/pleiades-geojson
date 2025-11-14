@@ -3,10 +3,10 @@
   "title": "Zou",
   "id": "144291814",
   "bbox": [
-    26.105125,
-    35.1592982,
-    26.105125,
-    35.1592982
+    26.104963,
+    35.1590108,
+    26.1052339,
+    35.1593551
   ],
   "description": "At Zou are the remains of a palatial building of the Minoan period, built during MM IIIB.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.105125,
-          35.1592982
+          26.1051018152,
+          35.1591840693
         ]
       },
       "properties": {
@@ -28,19 +28,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          26.105125,
-          35.1592982
+          [
+            26.1051146,
+            35.1593551
+          ],
+          [
+            26.105014,
+            35.1593178
+          ],
+          [
+            26.1049738,
+            35.159275
+          ],
+          [
+            26.1049805,
+            35.1592279
+          ],
+          [
+            26.1049805,
+            35.1591972
+          ],
+          [
+            26.104963,
+            35.1591676
+          ],
+          [
+            26.1049644,
+            35.1591117
+          ],
+          [
+            26.1049939,
+            35.1590689
+          ],
+          [
+            26.1050489,
+            35.1590678
+          ],
+          [
+            26.1051079,
+            35.1590634
+          ],
+          [
+            26.1051387,
+            35.1590108
+          ],
+          [
+            26.1051857,
+            35.1590415
+          ],
+          [
+            26.1052245,
+            35.1590876
+          ],
+          [
+            26.1052272,
+            35.1591753
+          ],
+          [
+            26.1052339,
+            35.1592147
+          ],
+          [
+            26.1051964,
+            35.15932
+          ],
+          [
+            26.1051146,
+            35.1593551
+          ]
         ]
       },
-      "id": "location-of-minoan-villa",
+      "id": "osm-location-minoan-villa-of-zou",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of so-called \"Minoan Villa of Zou\"",
-        "link": "http://pleiades.stoa.org/places/144291814/location-of-minoan-villa"
+        "title": "OSM location: Minoan Villa of Zou",
+        "link": "http://pleiades.stoa.org/places/144291814/osm-location-minoan-villa-of-zou"
       }
     }
   ]

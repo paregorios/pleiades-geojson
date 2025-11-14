@@ -4,9 +4,9 @@
   "id": "629116433",
   "bbox": [
     14.4929117,
-    40.7498708,
-    14.4931846,
-    40.7502091
+    40.7498967,
+    14.4935262,
+    40.7503664
   ],
   "description": "The so-called \"House of the Garden of Hercules\" (II, 8, 6) is an example of an early \"rowhouse\" atrium building (third-second centuries BC) that was renovated in the first century BC.",
   "connectsWith": [
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4931846,
-          40.7498708
+          14.4931577953,
+          40.7501741687
         ]
       },
       "properties": {

@@ -6,7 +6,7 @@
     15.5454392,
     40.9649121,
     15.5635662,
-    41.0744339
+    41.0744533
   ],
   "description": "A Roman bridge (and possibly coincident road station) on the Via Appia over the Aufidus (modern Ofanto) river in Italy, listed on the Peutinger map and in the Antonine Itinerary. Traditionally it has been identified with a bridge known today as Ponte S. Venere, but recently archaeological work has cast doubt on this view and some scholars now favor an identification with the Ponte romano Pietra dell'Oglio, which lies about 15 miles further south and can be securely dated to the Roman period.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.5542892354,
-          41.0196859645
+          15.554294952,
+          41.0196891978
         ]
       },
       "properties": {

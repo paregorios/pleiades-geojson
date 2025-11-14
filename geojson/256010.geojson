@@ -6,7 +6,7 @@
     -6.3561198,
     36.7967251,
     -2.7617124,
-    38.1919617
+    38.1920078
   ],
   "description": "The Guadalquivir river is the fifth longest of the Iberian peninsula.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.49706028775,
-          37.7901184017
+          -4.49714317257,
+          37.7901229489
         ]
       },
       "properties": {

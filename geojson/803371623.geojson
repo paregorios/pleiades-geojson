@@ -1,17 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Al-Ḥilah",
-  "id": "77002491",
+  "title": "Uzunqïr",
+  "id": "803371623",
   "bbox": [
-    44.4361,
-    32.4844,
-    44.4361,
-    32.4844
+    66.774704,
+    39.135296,
+    66.774704,
+    39.135296
   ],
-  "description": "Find place for a Kassite cylinder seal in modern city of Al-Ḥilah.",
+  "description": "A fortified oasis settlement near Kitab in Uzbekistan, founded in the 8th/7th centuries BCE.",
+  "connectsWith": [
+    "752130724"
+  ],
   "names": [
-    "Al-Ḥilah",
-    "Ḥille"
+    "Uzunkir"
   ],
   "features": [
     {
@@ -19,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4361,
-          32.4844
+          66.774704,
+          39.135296
         ]
       },
       "properties": {
@@ -31,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.4361,
-          32.4844
+          66.774704,
+          39.135296
         ]
       },
-      "id": "cigs-location-of-al-hilah",
+      "id": "vici-org-location",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "CIGS location of Al-Ḥilah",
-        "link": "http://pleiades.stoa.org/places/77002491/cigs-location-of-al-hilah"
+        "title": "Vici.org location",
+        "link": "http://pleiades.stoa.org/places/803371623/vici-org-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Temple of Hercules at Amman/Philadelpheia",
   "id": "696690497",
   "bbox": [
-    35.9346022,
-    31.9538092,
-    35.9346022,
-    31.9538092
+    35.9346196,
+    31.9535892,
+    35.9351024,
+    31.953903
   ],
   "description": "The Temple of Hercules is located within the Amman Citadel in Amman, Jordan. The temple was built during the administration of Geminius Marcianus, ca. 162-166.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9346022,
-          31.9538092
+          35.9348637901,
+          31.9537465187
         ]
       },
       "properties": {

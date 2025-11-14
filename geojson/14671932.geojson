@@ -12,6 +12,9 @@
   "connectsWith": [
     "589748"
   ],
+  "names": [
+    "Skotino cave"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -39,7 +42,7 @@
       "properties": {
         "description": "coordinates after GeoHack.",
         "location_precision": "precise",
-        "title": "location of Skotino cave",
+        "title": "Imagery location of Skotino cave",
         "link": "http://pleiades.stoa.org/places/14671932/location-of-skotino-cave"
       }
     }

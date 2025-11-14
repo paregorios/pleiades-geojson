@@ -1,17 +1,20 @@
 {
   "type": "FeatureCollection",
-  "title": "Ag. Andreas",
+  "title": "Ag. Andreas (Siphnos)",
   "id": "589659",
   "bbox": [
-    24.6348242,
-    36.9011463,
-    24.7651168,
-    37.0416501
+    24.721853,
+    36.9542076,
+    24.721853,
+    36.9542076
   ],
-  "description": "An ancient place, cited: BAtlas 60 C5 Ag. Andreas",
+  "description": "A Classical-Hellenistic period settlement on/around the site of an earlier Mycenaean citadel on the island of Siphnos, now partially occupied by the church of Agios Andreas.",
   "connectsWith": [
     "590049",
     "492082396"
+  ],
+  "names": [
+    "Ag. Andreas"
   ],
   "features": [
     {
@@ -19,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.7101517739,
-          36.9639341483
+          24.721853,
+          36.9542076
         ]
       },
       "properties": {
@@ -28,14 +31,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.721853,
+          36.9542076
+        ]
+      },
+      "id": "osm-location-agios-andra-c-as",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/589659/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Agios Andréas",
+        "link": "http://pleiades.stoa.org/places/589659/osm-location-agios-andra-c-as"
       }
     }
   ]

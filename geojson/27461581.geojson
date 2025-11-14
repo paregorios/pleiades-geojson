@@ -12,14 +12,17 @@
   "connectsWith": [
     "589748"
   ],
+  "names": [
+    "Fournou Korifi"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.6091639,
-          35.0067539
+          25.6093062,
+          35.0068179
         ]
       },
       "properties": {
