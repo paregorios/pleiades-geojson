@@ -4,9 +4,9 @@
   "id": "159308",
   "bbox": [
     5.908501,
-    43.984633,
-    5.9088461,
-    43.9846442
+    43.9846251,
+    5.9088089,
+    43.984633
   ],
   "description": "The Roman Bridge of Lurs is located to the northeast of Alaunium (modern Lurs, France). It was a bridge of the ancient Via Domitia.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.90867355,
-          43.9846386
+          5.90865495,
+          43.98462905
         ]
       },
       "properties": {
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9088461,
-          43.9846442
+          5.9088089,
+          43.9846251
         ]
       },
       "id": "osm-location-of-pont-romain-de-lurs",

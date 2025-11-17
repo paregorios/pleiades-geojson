@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khirbet el-ʿAqd",
+  "id": "790144354",
+  "bbox": [
+    35.0073,
+    31.835461,
+    35.009855,
+    31.8370593
+  ],
+  "description": "Fort located near ancient Emmaus in the West Bank, constructed in the Hellenistic period and expanded with additional fortifications during the Roman period.",
+  "names": [
+    "Horvat 'Eqed",
+    "Khirbet el-ʻAqd"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0085309177,
+          31.8362647801
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.009855,
+            31.835855
+          ],
+          [
+            35.009768,
+            31.835823
+          ],
+          [
+            35.009621,
+            31.835735
+          ],
+          [
+            35.0094866,
+            31.8356344
+          ],
+          [
+            35.009346,
+            31.835593
+          ],
+          [
+            35.009284,
+            31.835543
+          ],
+          [
+            35.009088,
+            31.835473
+          ],
+          [
+            35.00896,
+            31.835461
+          ],
+          [
+            35.008789,
+            31.835473
+          ],
+          [
+            35.008392,
+            31.835609
+          ],
+          [
+            35.008322,
+            31.835651
+          ],
+          [
+            35.008202,
+            31.835755
+          ],
+          [
+            35.0078941,
+            31.8361431
+          ],
+          [
+            35.007641,
+            31.836297
+          ],
+          [
+            35.007596,
+            31.836359
+          ],
+          [
+            35.0075631,
+            31.8364715
+          ],
+          [
+            35.007341,
+            31.836692
+          ],
+          [
+            35.0073,
+            31.836908
+          ],
+          [
+            35.007319,
+            31.836976
+          ],
+          [
+            35.007417,
+            31.837045
+          ],
+          [
+            35.007545,
+            31.8370593
+          ],
+          [
+            35.0077008,
+            31.8370454
+          ],
+          [
+            35.0079231,
+            31.8370032
+          ],
+          [
+            35.0081325,
+            31.8369624
+          ],
+          [
+            35.008277,
+            31.836897
+          ],
+          [
+            35.008827,
+            31.836567
+          ],
+          [
+            35.009132,
+            31.836498
+          ],
+          [
+            35.009424,
+            31.836392
+          ],
+          [
+            35.009501,
+            31.836345
+          ],
+          [
+            35.009572,
+            31.836268
+          ],
+          [
+            35.009738,
+            31.836017
+          ],
+          [
+            35.009855,
+            31.835855
+          ]
+        ]
+      },
+      "id": "osm-location-khirbet-el-aqd",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Khirbet el-'Aqd site, derived from an OpenStreetMap Way after Fischer 2025.",
+        "location_precision": "precise",
+        "title": "OSM Location: Khirbet el-'Aqd",
+        "link": "http://pleiades.stoa.org/places/790144354/osm-location-khirbet-el-aqd"
+      }
+    }
+  ]
+}

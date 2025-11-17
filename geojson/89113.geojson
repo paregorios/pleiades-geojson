@@ -4,8 +4,8 @@
   "id": "89113",
   "bbox": [
     -1.028588,
-    54.2488759,
-    -1.028588,
+    54.2487132,
+    -1.0279661,
     54.2488759
   ],
   "description": "Site of a Romano-British villa on the River Riccal that was partially excavated in 1969.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.028588,
-          54.2488759
+          -1.02827705,
+          54.24879455
         ]
       },
       "properties": {

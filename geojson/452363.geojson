@@ -4,9 +4,9 @@
   "id": "452363",
   "bbox": [
     16.1508838,
-    39.6554572,
-    16.1508838,
-    39.6554572
+    39.6549141,
+    16.1521337,
+    39.6557132
   ],
   "description": "An ancient place, cited: BAtlas 46 D2 Larderia",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.1508838,
-          39.6554572
+          16.1514600645,
+          39.6553562711
         ]
       },
       "properties": {
