@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Semiyarka",
+  "id": "767101379",
+  "bbox": [
+    78.375728,
+    50.893957,
+    78.375728,
+    50.893957
+  ],
+  "description": "A large, Late Bronze Age settlement near modern Jetijar (formerly Semiyarka) in north-eastern Kazakhstan that has yielded significant evidence for copper and tin-bronze metallurgy.",
+  "names": [
+    "Semiyarka"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.375728,
+          50.893957
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.375728,
+          50.893957
+        ]
+      },
+      "id": "imagery-location-after-radivojevic-2025",
+      "type": "Feature",
+      "properties": {
+        "description": "Centerpoint determined in Google Earth with reference to description and figures in Radivojević 2025. Dates after Radivojević 2025.",
+        "location_precision": "precise",
+        "title": "Imagery Location after Radivojević 2025",
+        "link": "http://pleiades.stoa.org/places/767101379/imagery-location-after-radivojevic-2025"
+      }
+    }
+  ]
+}

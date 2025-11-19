@@ -1,0 +1,117 @@
+{
+  "type": "FeatureCollection",
+  "title": "House L7-A",
+  "id": "451518249",
+  "bbox": [
+    40.726877122,
+    34.7470467043,
+    40.7271427258,
+    34.7473487374
+  ],
+  "description": "A multiple-household military residence located in Block L7 of Dura-Europos.",
+  "connectsWith": [
+    "893990",
+    "769637719"
+  ],
+  "names": [
+    "House of the Roman Scribes",
+    "House L7-A"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.727006075,
+          34.7471945626
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.7270042189044,
+          34.7471890765115
+        ]
+      },
+      "id": "total-station-and-photogrammetric-location-of-house-l7-a",
+      "type": "Feature",
+      "properties": {
+        "description": "Total station data collected in 2008 by Jennifer Baird, Ben Gourley, Simon James, and Dan Stewart, funded by the Leverhulme Trust and the Society for the Promotion of Roman Studies.",
+        "location_precision": "precise",
+        "title": "Total Station and Photogrammetric Location of House L7-A",
+        "link": "http://pleiades.stoa.org/places/451518249/total-station-and-photogrammetric-location-of-house-l7-a"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.72698913784419,
+              34.7470467042859
+            ],
+            [
+              40.726877121956264,
+              34.74729339655431
+            ],
+            [
+              40.7269400418539,
+              34.74732127045838
+            ],
+            [
+              40.72694566960724,
+              34.747310682904725
+            ],
+            [
+              40.72703530718714,
+              34.7473442505146
+            ],
+            [
+              40.727045171386806,
+              34.74734873735916
+            ],
+            [
+              40.727082944368995,
+              34.747280789824956
+            ],
+            [
+              40.72704476583692,
+              34.747265248260376
+            ],
+            [
+              40.72706577070149,
+              34.747233360732835
+            ],
+            [
+              40.727103414563786,
+              34.747176992329145
+            ],
+            [
+              40.72714272581063,
+              34.74711026931466
+            ],
+            [
+              40.72698913784419,
+              34.7470467042859
+            ]
+          ]
+        ]
+      },
+      "id": "total-station-and-photogrammetric-location-of-house-l7-a-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Total station data collected in 2008 by Jennifer Baird, Ben Gourley, Simon James, and Dan Stewart, funded by the Leverhulme Trust and the Society for the Promotion of Roman Studies.",
+        "location_precision": "precise",
+        "title": "Total Station and Photogrammetric Location of House L7-A",
+        "link": "http://pleiades.stoa.org/places/451518249/total-station-and-photogrammetric-location-of-house-l7-a-1"
+      }
+    }
+  ]
+}
