@@ -13,7 +13,8 @@
     "99662"
   ],
   "names": [
-    "Matilo"
+    "Matilo",
+    "Matilone"
   ],
   "features": [
     {
@@ -33,23 +34,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.518428,
-          52.150265
-        ]
-      },
-      "id": "castellum",
-      "type": "Feature",
-      "properties": {
-        "description": "This in a more precise location for the castellum (of) Matilo, based on archeological evidence. ",
-        "location_precision": "precise",
-        "title": "Castellum",
-        "link": "http://pleiades.stoa.org/places/99008/castellum"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.5176279,
           52.1499654
         ]
@@ -61,6 +45,23 @@
         "location_precision": "precise",
         "title": "OSM location of Matilo",
         "link": "http://pleiades.stoa.org/places/99008/osm-location-of-matilo"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.518428,
+          52.150265
+        ]
+      },
+      "id": "imagery-location-castellum",
+      "type": "Feature",
+      "properties": {
+        "description": "This in a more precise location for the castellum (of) Matilo, based on archeological evidence.",
+        "location_precision": "precise",
+        "title": "Imagery Location: Castellum",
+        "link": "http://pleiades.stoa.org/places/99008/imagery-location-castellum"
       }
     }
   ]

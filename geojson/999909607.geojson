@@ -14,10 +14,10 @@
     "222138654"
   ],
   "names": [
-    "House of the Ceii",
-    "Casa dei Ceii",
     "House of L. Ceius Secundus",
     "House of Fabia and Tyrannus",
+    "Casa dei Ceii",
+    "House of the Ceii",
     "I.6.15"
   ],
   "features": [
@@ -42,13 +42,13 @@
           40.7500099
         ]
       },
-      "id": "casa-dei-ceii",
+      "id": "osm-location-casa-dei-ceii",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of so-called \"Casa dei Ceii\"",
-        "link": "http://pleiades.stoa.org/places/999909607/casa-dei-ceii"
+        "link": "http://pleiades.stoa.org/places/999909607/osm-location-casa-dei-ceii"
       }
     }
   ]
