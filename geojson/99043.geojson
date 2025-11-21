@@ -3,10 +3,10 @@
   "title": "Teutoburgiensis? Saltus",
   "id": "99043",
   "bbox": [
-    7.752819,
-    52.2303698,
-    7.752819,
-    52.2303698
+    7.7600186,
+    52.2158065,
+    7.8097704,
+    52.2287985
   ],
   "description": "Teutoburgiensis? Saltus (Teutoburger Wald) is a range of low, forested mountains in Lower Saxony and North Rhine-Westphalia.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.752819,
-          52.2303698
+          7.78690963315,
+          52.2219419581
         ]
       },
       "properties": {

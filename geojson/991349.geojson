@@ -3,15 +3,12 @@
   "title": "Venetia et Histria (province)",
   "id": "991349",
   "bbox": [
-    10.0,
-    45.0,
-    15.0,
-    50.0
+    9.5508375,
+    44.7080835,
+    14.1925611,
+    47.1078841
   ],
   "description": "According to the Verona List (ca. A.D. 303–324), Venetia et Histria was a province of the later Roman Empire located in northeastern Italy. It succeeded the tenth region (regio X) of the Augustan administrative re-organization. Diocletian reorganized the region to become \"VIII provincia Venetia et Histria\" in the third century CE. The capital was located at Aquileia. The province stretched from the Arsia River in the east to the Abdua in Lombardy.",
-  "connectsWith": [
-    "754349602"
-  ],
   "names": [
     "Benetia Histria",
     "Venetia et Histria"
@@ -22,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5,
-          47.5
+          12.6883407404,
+          45.7915150768
         ]
       },
       "properties": {

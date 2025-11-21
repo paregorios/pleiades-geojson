@@ -3,10 +3,10 @@
   "title": "Roman theater at Tlos",
   "id": "990568323",
   "bbox": [
-    29.422654,
-    36.5520082,
-    29.422654,
-    36.5520082
+    29.4221873,
+    36.5519638,
+    29.4229531,
+    36.5526462
   ],
   "description": "The Roman theater at Tlos preserves 34 rows of seating.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.422654,
-          36.5520082
+          29.4225645181,
+          36.5522983267
         ]
       },
       "properties": {
