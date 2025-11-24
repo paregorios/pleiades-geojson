@@ -3,10 +3,10 @@
   "title": "Porta Trigemina",
   "id": "303638861",
   "bbox": [
-    12.4820594,
-    41.880238,
-    12.5022341,
-    41.9062027
+    12.4738744,
+    41.8801881,
+    12.5024275,
+    41.9064016
   ],
   "description": "Now lost, the Porta Trigemina was one of the main gates of the Servian Wall.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4890981632,
-          41.8930113527
+          12.4746400152,
+          41.8823352076
         ]
       },
       "properties": {

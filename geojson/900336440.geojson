@@ -3,10 +3,10 @@
   "title": "Roman arch at Spoletium",
   "id": "900336440",
   "bbox": [
-    12.7370897,
-    42.7334005,
-    12.7370897,
-    42.7334005
+    12.7370895,
+    42.7334089,
+    12.7370895,
+    42.7334089
   ],
   "description": "The so-called \"Arch of Drusus and Germanicus\" at Spoleto.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7370897,
-          42.7334005
+          12.7370895,
+          42.7334089
         ]
       },
       "properties": {
