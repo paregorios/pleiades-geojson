@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Great Lemhill Farm Roman villa",
+  "id": "62842860",
+  "bbox": [
+    -1.694882,
+    51.720576,
+    -1.694882,
+    51.720576
+  ],
+  "description": "A Roman villa north-east of Great Lemhill Farm rediscovered in 1937. It remains mostly unexcavated.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694882,
+          51.720576
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694882,
+          51.720576
+        ]
+      },
+      "id": "historic-england-location-roman-villa-600yds-550m-ne-of-great-lemhill-farm",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Historic England Location: Roman villa 600yds (550m) NE of Great Lemhill Farm",
+        "link": "http://pleiades.stoa.org/places/62842860/historic-england-location-roman-villa-600yds-550m-ne-of-great-lemhill-farm"
+      }
+    }
+  ]
+}

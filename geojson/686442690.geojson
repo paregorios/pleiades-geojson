@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Leaze Farm",
+  "id": "686442690",
+  "bbox": [
+    -1.656515,
+    51.684902,
+    -1.656515,
+    51.684902
+  ],
+  "description": "An Iron Age and Roman settlement located 1km southeast of Leaze Farm was identified through aerial photography and metal detection.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656515,
+          51.684902
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656515,
+          51.684902
+        ]
+      },
+      "id": "nhle-location-leaze-farm",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "NHLE Location: Leaze Farm",
+        "link": "http://pleiades.stoa.org/places/686442690/nhle-location-leaze-farm"
+      }
+    }
+  ]
+}

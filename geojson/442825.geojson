@@ -9,6 +9,9 @@
     41.087312
   ],
   "description": "An ancient place, cited: BAtlas 45 E2 Torre Mare",
+  "names": [
+    "Torre Mare"
+  ],
   "features": [
     {
       "type": "Feature",

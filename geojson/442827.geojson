@@ -3,6 +3,9 @@
   "title": "Torre S. Giovanni",
   "id": "442827",
   "description": "An ancient place, cited: BAtlas 45 inset Torre S. Giovanni",
+  "names": [
+    "Torre S. Giovanni"
+  ],
   "features": [
     {
       "type": "Feature",

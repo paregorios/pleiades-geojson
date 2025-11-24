@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ordu-Baliq",
+  "id": "509176198",
+  "bbox": [
+    102.5977342,
+    47.3728316,
+    102.667801,
+    47.4493976
+  ],
+  "description": "Ordu-Baliq, also known as Mubalik and Karabalghasun, was once the capital of the Uyghur Khaganate. The ruins of this settlement are now included as part of the Orkhon Valley Cultural Landscape World Heritage Site in Mongolia.",
+  "names": [
+    "Ordu-Baliq"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.633895737,
+          47.4143485372
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.6369007,
+            47.4493976
+          ],
+          [
+            102.6657631,
+            47.4433153
+          ],
+          [
+            102.667801,
+            47.4323344
+          ],
+          [
+            102.665343,
+            47.4276949
+          ],
+          [
+            102.6549196,
+            47.4180119
+          ],
+          [
+            102.6556627,
+            47.4004863
+          ],
+          [
+            102.6340537,
+            47.3728316
+          ],
+          [
+            102.6217889,
+            47.3775749
+          ],
+          [
+            102.619214,
+            47.390883
+          ],
+          [
+            102.5977342,
+            47.4058277
+          ],
+          [
+            102.6041411,
+            47.4270539
+          ],
+          [
+            102.6369007,
+            47.4493976
+          ]
+        ]
+      },
+      "id": "osm-location-of-ordu-baliq",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ordu-Baliq",
+        "link": "http://pleiades.stoa.org/places/509176198/osm-location-of-ordu-baliq"
+      }
+    }
+  ]
+}

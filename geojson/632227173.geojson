@@ -12,6 +12,9 @@
   "connectsWith": [
     "265817"
   ],
+  "names": [
+    "Cezīre-i Mayorḳa"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -3304,13 +3307,13 @@
           ]
         ]
       },
-      "id": "location-of-majorca",
+      "id": "osm-location-of-majorca",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Majorca",
-        "link": "http://pleiades.stoa.org/places/632227173/location-of-majorca"
+        "title": "OSM location of Majorca",
+        "link": "http://pleiades.stoa.org/places/632227173/osm-location-of-majorca"
       }
     }
   ]

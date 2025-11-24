@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "title": "Murgia Timone",
+  "id": "17452629",
+  "bbox": [
+    16.6317407,
+    40.6724211,
+    16.6351314,
+    40.6736165
+  ],
+  "description": "The site of a Neolithic village located in the territory of Matera in southern Italy. The site was initially discovered in the 1890s by Domenico Ridola.",
+  "names": [
+    "Murgia Timone"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6334502523,
+          40.6730088328
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.6317407,
+            40.6731421
+          ],
+          [
+            16.631864,
+            40.6729786
+          ],
+          [
+            16.632092,
+            40.6727823
+          ],
+          [
+            16.6323076,
+            40.6726421
+          ],
+          [
+            16.6327328,
+            40.6725392
+          ],
+          [
+            16.633158,
+            40.6725486
+          ],
+          [
+            16.6334723,
+            40.672628
+          ],
+          [
+            16.6337927,
+            40.6726981
+          ],
+          [
+            16.634033,
+            40.672572
+          ],
+          [
+            16.6342179,
+            40.6724691
+          ],
+          [
+            16.6343839,
+            40.6724256
+          ],
+          [
+            16.6345181,
+            40.6724211
+          ],
+          [
+            16.6347598,
+            40.6724798
+          ],
+          [
+            16.6349757,
+            40.6725604
+          ],
+          [
+            16.6350677,
+            40.6726865
+          ],
+          [
+            16.6351314,
+            40.6728342
+          ],
+          [
+            16.6350713,
+            40.6730274
+          ],
+          [
+            16.634958,
+            40.6731536
+          ],
+          [
+            16.6348235,
+            40.6732797
+          ],
+          [
+            16.6345722,
+            40.6733522
+          ],
+          [
+            16.6342997,
+            40.6733576
+          ],
+          [
+            16.6340201,
+            40.6733254
+          ],
+          [
+            16.6338309,
+            40.6732703
+          ],
+          [
+            16.6335407,
+            40.6733508
+          ],
+          [
+            16.6333425,
+            40.6734984
+          ],
+          [
+            16.6327762,
+            40.6736165
+          ],
+          [
+            16.6323551,
+            40.6735951
+          ],
+          [
+            16.6320472,
+            40.6734904
+          ],
+          [
+            16.6318667,
+            40.6734072
+          ],
+          [
+            16.6317747,
+            40.673273
+          ],
+          [
+            16.6317407,
+            40.6731421
+          ]
+        ]
+      },
+      "id": "osm-location-of-villaggio-neolitico-di-murgia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villaggio Neolitico di Murgia Timone",
+        "link": "http://pleiades.stoa.org/places/17452629/osm-location-of-villaggio-neolitico-di-murgia"
+      }
+    }
+  ]
+}

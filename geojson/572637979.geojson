@@ -9,6 +9,9 @@
     41.4902367
   ],
   "description": "A fortified Oscan center at high altitude (647 meters) located near Capriati al Volturno. The site is difficult to access, and the fortifications measure 80 meters in diameter.",
+  "names": [
+    "Fortificazione Sannita di Mandra Castellone"
+  ],
   "features": [
     {
       "type": "Feature",

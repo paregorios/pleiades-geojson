@@ -4,20 +4,11 @@
   "id": "998821004",
   "bbox": [
     36.927509,
-    37.5812744,
-    36.927509,
+    37.0611756,
+    37.3793085,
     37.5812744
   ],
   "description": "Paqarhubuni is a city that was part of Bīt-Adini during the reign of the Assyrian king Shalmaneser III (r. 858-824 BC); it might have been part of Bīt-Agūsi while Adad-nērārī (r. 809-782 BC) was king of Assyria. The city and its surrounding region were between the kingdoms of Gurgum and Kummuhu.",
-  "connectsWith": [
-    "168815529",
-    "648980581",
-    "424616150",
-    "802922078",
-    "744211055",
-    "534964140",
-    "193878353"
-  ],
   "names": [
     "Paqirahubuna",
     "Paqarruhbuni",
@@ -29,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.927509,
-          37.5812744
+          37.1973031967,
+          37.3458757367
         ]
       },
       "properties": {

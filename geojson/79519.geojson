@@ -9,6 +9,9 @@
     53.6590258
   ],
   "description": "A Roman 'villa rustica' discovered in 1797 in Horkstow, North Lincolnshire. A large floor mosaic was identified to the east of the nearby modern elite building known as Horkstow Hall.",
+  "names": [
+    "Horkstow"
+  ],
   "features": [
     {
       "type": "Feature",

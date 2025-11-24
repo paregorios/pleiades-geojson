@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mausoleum of the First Qin Emperor",
+  "id": "117715281",
+  "bbox": [
+    109.248297,
+    34.3737966,
+    109.2793894,
+    34.3940733
+  ],
+  "description": "The mausoleum of Qin Shi Huang, the first emperor of the Qin dynasty of China, was built between 246 and 208 BCE. The mausoleum itself was outfitted with numerous ancillary features, including the famed \"terracotta army\" discovered in 1974. The site was inscribed as a UNESCO World Heritage Site in 1987.",
+  "names": [
+    "Mausoleum of the First Qin Emperor"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.261205745,
+          34.3838914035
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.2520023,
+            34.3830191
+          ],
+          [
+            109.2518132,
+            34.3797336
+          ],
+          [
+            109.253422,
+            34.3798188
+          ],
+          [
+            109.2556799,
+            34.3797502
+          ],
+          [
+            109.2558422,
+            34.3830292
+          ],
+          [
+            109.2520023,
+            34.3830191
+          ]
+        ]
+      },
+      "id": "osm-location-of-mausoleum-of-the-first-qin-emperor",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mausoleum of the First Qin Emperor",
+        "link": "http://pleiades.stoa.org/places/117715281/osm-location-of-mausoleum-of-the-first-qin-emperor"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.248297,
+            34.374004
+          ],
+          [
+            109.2592955,
+            34.3737966
+          ],
+          [
+            109.2596326,
+            34.3863911
+          ],
+          [
+            109.2596358,
+            34.3864498
+          ],
+          [
+            109.2596394,
+            34.3865171
+          ],
+          [
+            109.259662,
+            34.388458
+          ],
+          [
+            109.2598238,
+            34.3938222
+          ],
+          [
+            109.2488963,
+            34.3940733
+          ],
+          [
+            109.2486039,
+            34.3840704
+          ],
+          [
+            109.248297,
+            34.374004
+          ]
+        ]
+      },
+      "id": "osm-location-of-emperor-qinshihuangs-mausoleum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Emperor Qinshihuang's Mausoleum Site Park",
+        "link": "http://pleiades.stoa.org/places/117715281/osm-location-of-emperor-qinshihuangs-mausoleum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            109.2758691,
+            34.3831612
+          ],
+          [
+            109.2787129,
+            34.3830663
+          ],
+          [
+            109.2790206,
+            34.3832183
+          ],
+          [
+            109.2791457,
+            34.3833551
+          ],
+          [
+            109.279182,
+            34.3840224
+          ],
+          [
+            109.2791953,
+            34.3847036
+          ],
+          [
+            109.2792046,
+            34.384957
+          ],
+          [
+            109.2793856,
+            34.3898814
+          ],
+          [
+            109.2793894,
+            34.3913654
+          ],
+          [
+            109.2761632,
+            34.3905355
+          ],
+          [
+            109.2759975,
+            34.3865069
+          ],
+          [
+            109.270656,
+            34.3866039
+          ],
+          [
+            109.2707032,
+            34.3831661
+          ],
+          [
+            109.2714001,
+            34.3831619
+          ],
+          [
+            109.2713858,
+            34.3833135
+          ],
+          [
+            109.2758691,
+            34.3831612
+          ]
+        ]
+      },
+      "id": "osm-location-of-terracotta-warriors",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Terracotta Warriors",
+        "link": "http://pleiades.stoa.org/places/117715281/osm-location-of-terracotta-warriors"
+      }
+    }
+  ]
+}

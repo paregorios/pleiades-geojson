@@ -9,6 +9,9 @@
     42.3035179
   ],
   "description": "An ancient place, cited: BAtlas 24 G2 Quintanilla de la Cueza",
+  "names": [
+    "Quintanilla de la Cueza"
+  ],
   "features": [
     {
       "type": "Feature",

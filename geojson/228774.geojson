@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Matiyasovo",
   "id": "228774",
   "bbox": [
     31.0,
@@ -9,6 +9,9 @@
     47.0
   ],
   "description": "An ancient place, cited: BAtlas 23 E2 no. 8 (Matiyasovo)",
+  "names": [
+    "Matiyasovo"
+  ],
   "features": [
     {
       "type": "Feature",

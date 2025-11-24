@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Archaeological area of Carife",
+  "id": "654341269",
+  "bbox": [
+    15.2142863,
+    41.0252626,
+    15.2151242,
+    41.0258176
+  ],
+  "description": "An ancient necropolis at Carife (Campania) with more than 100 Samnite tombs.",
+  "connectsWith": [
+    "442528"
+  ],
+  "names": [
+    "Area archeologica di Carife"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2146958569,
+          41.0255965117
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2145278,
+            41.0258176
+          ],
+          [
+            15.2142863,
+            41.0256248
+          ],
+          [
+            15.2146402,
+            41.0252626
+          ],
+          [
+            15.2147904,
+            41.0253921
+          ],
+          [
+            15.2148796,
+            41.0254848
+          ],
+          [
+            15.2151242,
+            41.0257342
+          ],
+          [
+            15.2145278,
+            41.0258176
+          ]
+        ]
+      },
+      "id": "osm-location-archaeological-area-of-carife",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: archaeological area of Carife",
+        "link": "http://pleiades.stoa.org/places/654341269/osm-location-archaeological-area-of-carife"
+      }
+    }
+  ]
+}

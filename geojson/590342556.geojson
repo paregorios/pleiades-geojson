@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wortley Roman villa",
+  "id": "590342556",
+  "bbox": [
+    -2.33509,
+    51.6249,
+    -2.33509,
+    51.6249
+  ],
+  "description": "A Roman villa built in the second century CE and excavated in the 1980s and the 1990s near Wortley, United Kingdom.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33509,
+          51.6249
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33509,
+          51.6249
+        ]
+      },
+      "id": "dare-location-wortley",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE Location: Wortley",
+        "link": "http://pleiades.stoa.org/places/590342556/dare-location-wortley"
+      }
+    }
+  ]
+}

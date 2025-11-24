@@ -3,16 +3,19 @@
   "title": "*Azetium",
   "id": "442491",
   "bbox": [
-    17.005771,
-    41.009167,
-    17.005771,
-    41.009167
+    17.0185823,
+    41.0300791,
+    17.0185823,
+    41.0300791
   ],
   "description": "An ancient place, cited: BAtlas 45 F2 *Azetium",
   "names": [
     "Azetium",
     "Aegetini",
-    "Ezetium"
+    "Ezetium",
+    "Rutigliano",
+    "Castiello",
+    "Ezetiu"
   ],
   "features": [
     {
@@ -20,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.005771,
-          41.009167
+          17.0185823,
+          41.0300791
         ]
       },
       "properties": {
@@ -32,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.005771,
-          41.009167
+          17.0185823,
+          41.0300791
         ]
       },
-      "id": "darmc-location-18231",
+      "id": "osm-location-of-azetium",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18231",
-        "link": "http://pleiades.stoa.org/places/442491/darmc-location-18231"
+        "title": "OSM location of Azetium",
+        "link": "http://pleiades.stoa.org/places/442491/osm-location-of-azetium"
       }
     }
   ]

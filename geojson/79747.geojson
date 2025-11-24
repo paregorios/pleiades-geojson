@@ -9,6 +9,10 @@
     51.578751
   ],
   "description": "An ancient place, cited: BAtlas 8 H3 Wanstead",
+  "names": [
+    "Wanstead",
+    "Wanstead Roman Villa"
+  ],
   "features": [
     {
       "type": "Feature",

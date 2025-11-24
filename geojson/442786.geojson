@@ -9,6 +9,9 @@
     41.0001
   ],
   "description": "An ancient place, cited: BAtlas 45 E2 Sannicandro di Bari",
+  "names": [
+    "Sannicandro di Bari"
+  ],
   "features": [
     {
       "type": "Feature",

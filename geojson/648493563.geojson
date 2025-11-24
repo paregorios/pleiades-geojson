@@ -1,0 +1,196 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello normanno-svevo (Sannicandro di Bari)",
+  "id": "648493563",
+  "bbox": [
+    16.7981274,
+    40.9996057,
+    16.7988315,
+    41.0001313
+  ],
+  "description": "The Norman-Hohenstaufen Castle (Sannicandro di Bari, Italy) is a Medieval castle that dates from the tenth century.",
+  "connectsWith": [
+    "442786"
+  ],
+  "names": [
+    "Castello normanno-svevo (Sannicandro di Bari)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7984460291,
+          40.9998572467
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              16.798131,
+              41.0001305
+            ],
+            [
+              16.7982488,
+              41.0001313
+            ],
+            [
+              16.7982501,
+              41.0001021
+            ],
+            [
+              16.7986371,
+              41.0000424
+            ],
+            [
+              16.7986464,
+              41.0000639
+            ],
+            [
+              16.7987074,
+              41.0000452
+            ],
+            [
+              16.7986967,
+              41.0000145
+            ],
+            [
+              16.7988315,
+              40.9999814
+            ],
+            [
+              16.7988033,
+              40.9997474
+            ],
+            [
+              16.7988052,
+              40.9997119
+            ],
+            [
+              16.7986912,
+              40.9996203
+            ],
+            [
+              16.7985698,
+              40.999607
+            ],
+            [
+              16.7983109,
+              40.9996057
+            ],
+            [
+              16.7982435,
+              40.9996298
+            ],
+            [
+              16.798274,
+              40.9996906
+            ],
+            [
+              16.798233,
+              40.9997724
+            ],
+            [
+              16.7981423,
+              40.9997683
+            ],
+            [
+              16.7981274,
+              40.9998477
+            ],
+            [
+              16.7981295,
+              41.0000588
+            ],
+            [
+              16.798131,
+              41.0001305
+            ]
+          ],
+          [
+            [
+              16.798362,
+              40.9998591
+            ],
+            [
+              16.7983626,
+              40.99991
+            ],
+            [
+              16.7983305,
+              40.9999195
+            ],
+            [
+              16.7983308,
+              40.9999339
+            ],
+            [
+              16.7982392,
+              40.9999439
+            ],
+            [
+              16.7982461,
+              40.9998565
+            ],
+            [
+              16.7983225,
+              40.9998502
+            ],
+            [
+              16.7983344,
+              40.9997443
+            ],
+            [
+              16.7985954,
+              40.9997413
+            ],
+            [
+              16.7986049,
+              40.9998678
+            ],
+            [
+              16.7986228,
+              40.9998688
+            ],
+            [
+              16.7986238,
+              40.9998919
+            ],
+            [
+              16.7985318,
+              40.9998857
+            ],
+            [
+              16.798502,
+              40.9998916
+            ],
+            [
+              16.7985028,
+              40.9998347
+            ],
+            [
+              16.798362,
+              40.9998591
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-castello-normanno-svevo",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello Normanno Svevo",
+        "link": "http://pleiades.stoa.org/places/648493563/osm-location-of-castello-normanno-svevo"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     40.7046157
   ],
   "description": "The site of a Middle Bronze Age village located on the Scogli di Apani archipelago near Brindisi, Italy.",
+  "names": [
+    "Apani"
+  ],
   "features": [
     {
       "type": "Feature",
