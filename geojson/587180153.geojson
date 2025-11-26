@@ -9,6 +9,9 @@
     42.540278
   ],
   "description": "Mons Faliscorum (modern Montefiascone) originally a Faliscan settlement, came later to be controlled by the Etruscans.",
+  "names": [
+    "Montefiascone"
+  ],
   "features": [
     {
       "type": "Feature",

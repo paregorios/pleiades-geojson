@@ -3,10 +3,10 @@
   "title": "Roman theater of Vienne",
   "id": "903082074",
   "bbox": [
-    4.878329,
-    45.524593,
-    4.878329,
-    45.524593
+    4.878314,
+    45.524308,
+    4.879428,
+    45.5253539
   ],
   "description": "A first century Roman theater in Vienne.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.878329,
-          45.524593
+          4.87888344442,
+          45.5248443394
         ]
       },
       "properties": {

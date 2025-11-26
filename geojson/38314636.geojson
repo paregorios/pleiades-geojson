@@ -5,8 +5,8 @@
   "bbox": [
     28.7218815762,
     37.7074137019,
-    28.7224188666,
-    37.7081950906
+    28.7225261,
+    37.7082682
   ],
   "description": "The largest of the public bath complexes at Aphrodisias dating to the early second century CE.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.7221445809,
-          37.7077997015
+          28.7221929759,
+          37.7078579914
         ]
       },
       "properties": {
@@ -66,6 +66,57 @@
         "location_precision": "precise",
         "title": "Imagery Location: Hadrianic Baths",
         "link": "http://pleiades.stoa.org/places/38314636/imagery-location-hadrianic-baths"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7219522,
+            37.7082348
+          ],
+          [
+            28.7220288,
+            37.7075598
+          ],
+          [
+            28.722489,
+            37.7075925
+          ],
+          [
+            28.7224653,
+            37.7078013
+          ],
+          [
+            28.7225261,
+            37.7078057
+          ],
+          [
+            28.7224953,
+            37.7080768
+          ],
+          [
+            28.7224444,
+            37.7080732
+          ],
+          [
+            28.7224222,
+            37.7082682
+          ],
+          [
+            28.7219522,
+            37.7082348
+          ]
+        ]
+      },
+      "id": "osm-location-of-hadrianic-baths",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hadrianic Baths",
+        "link": "http://pleiades.stoa.org/places/38314636/osm-location-of-hadrianic-baths"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Santuario nuragico di Santa Vittoria",
   "id": "90865616",
   "bbox": [
-    9.103479,
-    39.7124195,
-    9.103479,
-    39.7124195
+    9.1014298,
+    39.7113796,
+    9.1046484,
+    39.7130014
   ],
   "description": "A nuragic site near Serri, Sardinia, with a later phase of Christian re-use.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.103479,
-          39.7124195
+          9.10294312038,
+          39.7119490458
         ]
       },
       "properties": {

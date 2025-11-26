@@ -9,6 +9,9 @@
     25.4890443
   ],
   "description": "Tell Abraq was an ancient Near Eastern city.",
+  "names": [
+    "Tell Abraq"
+  ],
   "features": [
     {
       "type": "Feature",

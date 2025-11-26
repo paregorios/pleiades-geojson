@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Enun",
   "id": "900050539",
+  "bbox": [
+    46.1021571,
+    30.959184,
+    46.1082408,
+    30.963999
+  ],
   "description": "The shrine/seat of the goddess Ningal in the Egipar temple at Ur. The Sumerian ceremonial name Enun means \"Princely House.\"",
   "connectsWith": [
     "912985",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1044728983,
+          30.9617552474
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

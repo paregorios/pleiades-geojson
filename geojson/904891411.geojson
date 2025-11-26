@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Pagus Augustus Felix Suburbanus",
   "id": "904891411",
+  "bbox": [
+    14.471389,
+    40.761389,
+    14.47517,
+    40.775431
+  ],
   "description": "The ancient Pagus Augustus Felix Suburbanus corresponds to the territory of today's city of Boscoreale and Boscotrecase. Originating around 80 B.C. with the name of Pagus Felix Suburbanus, it included many farms.",
   "connectsWith": [
     "432723"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4732795,
+          40.76841
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

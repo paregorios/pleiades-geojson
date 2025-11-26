@@ -3,14 +3,18 @@
   "title": "The \"Auditorium site\" at the Auditorium Parco della Musica (Rome)",
   "id": "721060792",
   "bbox": [
-    12.475383,
-    41.928681,
-    12.475383,
-    41.928681
+    12.4751161,
+    41.9284858,
+    12.4759467,
+    41.9290034
   ],
   "description": "An Early Republican to Middle Imperial elite complex along the Via Flaminia in the outskirts of Rome.",
   "connectsWith": [
     "423025"
+  ],
+  "names": [
+    "Auditorium site",
+    "fattoria e la villa dell’Auditorium"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.475383,
-          41.928681
+          12.4755058349,
+          41.9287870637
         ]
       },
       "properties": {
@@ -28,19 +32,75 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.475383,
-          41.928681
+          [
+            [
+              12.4754473,
+              41.9284858
+            ],
+            [
+              12.4756117,
+              41.9285787
+            ],
+            [
+              12.4758322,
+              41.9287621
+            ],
+            [
+              12.4759467,
+              41.928899
+            ],
+            [
+              12.4755518,
+              41.9289642
+            ]
+          ],
+          [
+            [
+              12.4752997,
+              41.9289921
+            ],
+            [
+              12.4751161,
+              41.9288564
+            ],
+            [
+              12.475241,
+              41.9287558
+            ],
+            [
+              12.4751777,
+              41.9287175
+            ],
+            [
+              12.4754473,
+              41.9284858
+            ]
+          ],
+          [
+            [
+              12.4755518,
+              41.9289642
+            ],
+            [
+              12.4753148,
+              41.9290034
+            ],
+            [
+              12.4752997,
+              41.9289921
+            ]
+          ]
         ]
       },
-      "id": "auditorium-site",
+      "id": "osm-location-of-villa-dellauditorium",
       "type": "Feature",
       "properties": {
-        "description": "An Early Republican to Middle Imperial elite complex along the Via Flaminia in the outskirts of Rome",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Auditorium site",
-        "link": "http://pleiades.stoa.org/places/721060792/auditorium-site"
+        "title": "OSM location of Villa dell'Auditorium",
+        "link": "http://pleiades.stoa.org/places/721060792/osm-location-of-villa-dellauditorium"
       }
     }
   ]
