@@ -1,15 +1,27 @@
 {
   "type": "FeatureCollection",
-  "title": "Menariae",
+  "title": "Menariae (islands)",
   "id": "270348",
-  "description": "An ancient place, cited: BAtlas 27 unlocated Menariae Inss.",
+  "bbox": [
+    2.5430601,
+    39.5024454,
+    2.5471263,
+    39.5052011
+  ],
+  "description": "Pliny the Elder describes the Menariae insulae (Menariae Islands) as an island group located in the Bay of Palma, off the coast of the island of Mallorca.",
   "names": [
     "Menariae"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.54523849811,
+          39.5037935648
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

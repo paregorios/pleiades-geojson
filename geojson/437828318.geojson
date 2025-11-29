@@ -3,14 +3,17 @@
   "title": "Fondo Pacifico necropolis",
   "id": "437828318",
   "bbox": [
-    14.4964502,
-    40.7499451,
+    14.485429,
+    40.74941,
     14.4967791,
-    40.7500181
+    40.7500216
   ],
   "description": "A necropolis of Pompeii. The eastern sector was excavated in 1886-7 and is now reinterred.",
   "connectsWith": [
     "433032"
+  ],
+  "names": [
+    "Necropolis of Fondo Pacifico"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.496588871,
-          40.7499818752
+          14.4965771323,
+          40.7499652533
         ]
       },
       "properties": {

@@ -8,9 +8,12 @@
     22.9509361,
     40.6321348
   ],
-  "description": "The Church of the Saviour, Thessaloniki is a fourteenth century Byzantine church.",
+  "description": "The Church of the Saviour, Thessaloniki, is a fourteenth-century Byzantine church.",
   "connectsWith": [
     "491741"
+  ],
+  "names": [
+    "Church of the Saviour"
   ],
   "features": [
     {

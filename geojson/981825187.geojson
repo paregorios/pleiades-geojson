@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Murgecchia",
+  "id": "981825187",
+  "bbox": [
+    16.6170018,
+    40.6733294,
+    16.6170018,
+    40.6733294
+  ],
+  "description": "A place located in the territory of Matera that produced an ancient coin struck at Poseidonia and rediscovered in 1917.",
+  "connectsWith": [
+    "17452629"
+  ],
+  "names": [
+    "Murgecchia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6170018,
+          40.6733294
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6170018,
+          40.6733294
+        ]
+      },
+      "id": "osm-location-of-murgecchia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Murgecchia",
+        "link": "http://pleiades.stoa.org/places/981825187/osm-location-of-murgecchia"
+      }
+    }
+  ]
+}

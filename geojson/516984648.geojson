@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Bridge at Aperlae",
+  "id": "516984648",
+  "bbox": [
+    29.7805246,
+    36.1587395,
+    29.7805246,
+    36.1587395
+  ],
+  "description": "Remains of a bridge located near Aperlae.",
+  "connectsWith": [
+    "638752"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7805246,
+          36.1587395
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7805246,
+          36.1587395
+        ]
+      },
+      "id": "osm-location-of-roman-bridge-at-aperlae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Bridge at Aperlae",
+        "link": "http://pleiades.stoa.org/places/516984648/osm-location-of-roman-bridge-at-aperlae"
+      }
+    }
+  ]
+}

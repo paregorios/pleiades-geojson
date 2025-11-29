@@ -13,7 +13,8 @@
     "589748"
   ],
   "names": [
-    "Acharna"
+    "Acharna",
+    "Arkhanes"
   ],
   "features": [
     {
@@ -90,7 +91,7 @@
       "id": "osm-location-of-minoan-palace",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Minoan palace",
         "link": "http://pleiades.stoa.org/places/589657/osm-location-of-minoan-palace"

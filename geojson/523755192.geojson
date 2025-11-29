@@ -2,14 +2,26 @@
   "type": "FeatureCollection",
   "title": "Villa on the Property of D'Acunzo",
   "id": "523755192",
-  "description": "A villa rustica excavated and reinterred in 1903 located near the Boscoreale train station.",
+  "bbox": [
+    14.471389,
+    40.761389,
+    14.47517,
+    40.775431
+  ],
+  "description": "A villa rustica excavated and reinterred in 1903, located near the Boscoreale train station.",
   "connectsWith": [
     "432723"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4732795,
+          40.76841
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

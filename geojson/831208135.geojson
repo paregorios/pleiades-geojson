@@ -2,14 +2,29 @@
   "type": "FeatureCollection",
   "title": "Villa of Asellius",
   "id": "831208135",
-  "description": "A Roman villa excavated at Boscoreale in 1903 and 1904 under the supervision of Vincenzo De Prisco and located on the property of one Giuseppe De Martino. Wall paintings and artifacts were recovered from the site and it was subsequently reinterred. Records as to its precise location are less than optimal.",
+  "bbox": [
+    14.471389,
+    40.761389,
+    14.47517,
+    40.775431
+  ],
+  "description": "A Roman villa excavated at Boscoreale in 1903 and 1904 under the supervision of Vincenzo De Prisco and located on the property of one Giuseppe De Martino. Wall paintings and artifacts were recovered from the site, and the villa was subsequently reinterred. Records as to its precise location are less than optimal.",
   "connectsWith": [
     "432723"
+  ],
+  "names": [
+    "Villa di Asellius"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4732795,
+          40.76841
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

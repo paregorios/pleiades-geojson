@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed naiskos tomb, Fondo Pacifico",
+  "id": "288740706",
+  "bbox": [
+    14.4966478,
+    40.7499799,
+    14.4966994,
+    40.7500151
+  ],
+  "description": "An unnamed naiskos tomb located in the Fondo Pacifico necropolis at Pompeii.",
+  "connectsWith": [
+    "437828318"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4966734338,
+          40.7499972442
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4966578,
+            40.7499799
+          ],
+          [
+            14.4966994,
+            40.7499869
+          ],
+          [
+            14.4966879,
+            40.7500151
+          ],
+          [
+            14.4966478,
+            40.7500075
+          ],
+          [
+            14.4966578,
+            40.7499799
+          ]
+        ]
+      },
+      "id": "osm-location-of-naiskos-tomb",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of naiskos tomb",
+        "link": "http://pleiades.stoa.org/places/288740706/osm-location-of-naiskos-tomb"
+      }
+    }
+  ]
+}
