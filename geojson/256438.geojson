@@ -3,10 +3,10 @@
   "title": "Scallabis/Praesidium Iulium",
   "id": "256438",
   "bbox": [
-    -8.6774238,
-    39.2335206,
-    -8.6774238,
-    39.2335206
+    -8.6785318,
+    39.2329482,
+    -8.6750936,
+    39.2354237
   ],
   "description": "An ancient place, cited: BAtlas 26 B2 Scallabis/Praesidium Iulium",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.6774238,
-          39.2335206
+          -8.67646951485,
+          39.234008303
         ]
       },
       "properties": {

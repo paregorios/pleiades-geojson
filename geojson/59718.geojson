@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Asthala/Solis?/Karmina? Ins.",
+  "title": "Asthala/Solis?/Karmina? (island)",
   "id": "59718",
   "bbox": [
-    63.8454198,
-    25.1221131,
-    63.8454198,
-    25.1221131
+    63.8461795,
+    25.1185928,
+    63.8461795,
+    25.1185928
   ],
   "description": "Asthala/Solis?/Karmina? Ins. (Astola Island)",
   "connectsWith": [
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          63.8454198,
-          25.1221131
+          63.8461795,
+          25.1185928
         ]
       },
       "properties": {
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          63.8454198,
-          25.1221131
+          63.8461795,
+          25.1185928
         ]
       },
       "id": "location-of-Asthala-Solis-Karmina-Ins",

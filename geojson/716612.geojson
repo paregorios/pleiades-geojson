@@ -3,6 +3,9 @@
   "title": "Oasites Nomos",
   "id": "716612",
   "description": "An ancient place, cited: None",
+  "connectsWith": [
+    "716609"
+  ],
   "names": [
     "Oasites Nomos"
   ],
