@@ -9,6 +9,9 @@
     41.137878
   ],
   "description": "An ancient place, cited: BAtlas 49 C2 Grandavia",
+  "connectsWith": [
+    "196789404"
+  ],
   "names": [
     "Grandavia"
   ],

@@ -4,13 +4,14 @@
   "id": "196789404",
   "bbox": [
     19.444876,
-    40.3968397,
+    40.384466,
     28.418437,
     41.316435
   ],
-  "description": "The Via Egnatia was a Roman road begun in the second century BC that crossed the Roman provinces of Illyricum, Macedonia, and Thrace.",
+  "description": "The Via Egnatia was a Roman road begun in the second century BCE that crossed the Roman provinces of Illyricum, Macedonia, and Thrace.",
   "names": [
-    "Egnatia Hodos"
+    "Egnatia Hodos",
+    "Via Egnatia"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.8389831261,
-          40.9330619217
+          23.8538159173,
+          40.9268360207
         ]
       },
       "properties": {

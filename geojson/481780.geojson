@@ -9,8 +9,12 @@
     41.083321
   ],
   "description": "An ancient place, cited: BAtlas 49 C2 Candabia",
+  "connectsWith": [
+    "196789404"
+  ],
   "names": [
-    "Candabia"
+    "Candabia",
+    "in candabia"
   ],
   "features": [
     {
