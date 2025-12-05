@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Ariminum",
   "id": "977960860",
   "bbox": [
-    12.5751485,
-    44.0605151,
-    12.5751485,
-    44.0605151
+    12.5747649,
+    44.0598997,
+    12.5758836,
+    44.0605218
   ],
   "description": "The Roman amphitheater at Ariminum is dated to the second century, perhaps during the reign of Hadrian.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5751485,
-          44.0605151
+          12.5753530677,
+          44.0602546871
         ]
       },
       "properties": {

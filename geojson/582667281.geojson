@@ -3,10 +3,10 @@
   "title": "Old Town of Ghadamès",
   "id": "582667281",
   "bbox": [
-    9.498809,
-    30.1351287,
-    9.498809,
-    30.1351287
+    9.495003,
+    30.1294791,
+    9.4999012,
+    30.1359779
   ],
   "description": "The Old Town of Ghadamès was inscribed in 1986 as a UNESCO World Heritage site, but was de-populated throughout the 1990s. It is now listed on the List of World Heritage in Danger (2016).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.498809,
-          30.1351287
+          9.4973960497,
+          30.1329418116
         ]
       },
       "properties": {

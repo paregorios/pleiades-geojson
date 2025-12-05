@@ -42,7 +42,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Adoulitikos Kolpos",
+        "title": "OSM location of Gulf of Zula",
         "link": "http://pleiades.stoa.org/places/39272/location-of-adoulitikos-kolpos"
       }
     }

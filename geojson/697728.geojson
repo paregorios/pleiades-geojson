@@ -3,10 +3,10 @@
   "title": "Amman/Philadelpheia",
   "id": "697728",
   "bbox": [
-    35.9332502,
-    31.955128,
-    35.934602,
-    31.956454
+    35.9328091,
+    31.9531717,
+    35.9369358,
+    31.9566677
   ],
   "description": "An ancient settlement in northwest Jordan (modern Amman) received a Macedonian settlement and the name of Philadelphia from Ptolemy II Philadelphos (285-246 BC). The modern Amman, Jordan.",
   "names": [
@@ -31,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.9339261,
-          31.955791
+          35.9346239387,
+          31.9549510639
         ]
       },
       "properties": {
