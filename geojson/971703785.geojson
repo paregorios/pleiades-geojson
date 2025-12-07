@@ -5,8 +5,8 @@
   "bbox": [
     27.7692948,
     41.5736595,
-    27.7695602,
-    41.5738554
+    27.7697214,
+    41.5739268
   ],
   "description": "A Roman amphitheater in eastern Thrace.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.7694219569,
-          41.573754006
+          27.769496316,
+          41.5737992843
         ]
       },
       "properties": {

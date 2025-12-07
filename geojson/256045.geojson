@@ -3,10 +3,10 @@
   "title": "Calpe (mountain)",
   "id": "256045",
   "bbox": [
-    -5.3442398,
-    36.128447,
-    -5.3442398,
-    36.128447
+    -5.3444135,
+    36.1285695,
+    -5.3444135,
+    36.1285695
   ],
   "description": "The Rock of Gibraltar.",
   "connectsWith": [
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.3442398,
-          36.128447
+          -5.3444135,
+          36.1285695
         ]
       },
       "properties": {
