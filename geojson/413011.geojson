@@ -3,10 +3,10 @@
   "title": "Alviano Scalo",
   "id": "413011",
   "bbox": [
-    12.295407,
-    42.587968,
-    12.295407,
-    42.587968
+    12.2611577,
+    42.590112,
+    12.2611577,
+    42.590112
   ],
   "description": "Occupation of the Roman villa at Alviano Scalo begins in the first century BCE and continues until the fourth century CE.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.295407,
-          42.587968
+          12.2611577,
+          42.590112
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.295407,
-          42.587968
+          12.2611577,
+          42.590112
         ]
       },
-      "id": "darmc-location-20762",
+      "id": "osm-location-of-alviano-scalo",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20762",
-        "link": "http://pleiades.stoa.org/places/413011/darmc-location-20762"
+        "title": "OSM location of Alviano Scalo",
+        "link": "http://pleiades.stoa.org/places/413011/osm-location-of-alviano-scalo"
       }
     }
   ]

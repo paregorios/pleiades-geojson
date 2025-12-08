@@ -3,10 +3,10 @@
   "title": "Keston",
   "id": "79544",
   "bbox": [
-    0.027363,
-    51.362152,
-    0.027363,
-    51.362152
+    0.0298904,
+    51.3510084,
+    0.0302217,
+    51.3511785
   ],
   "description": "A Roman villa which emerged from a late Iron Age settlement located in the London Borough of Bromley, England.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.027363,
-          51.362152
+          0.0300558008268,
+          51.3510874532
         ]
       },
       "properties": {
@@ -28,19 +28,65 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          0.027363,
-          51.362152
+          [
+            0.0301465,
+            51.3511353
+          ],
+          [
+            0.030057,
+            51.3511709
+          ],
+          [
+            0.029994,
+            51.3511785
+          ],
+          [
+            0.0299513,
+            51.3511721
+          ],
+          [
+            0.0298904,
+            51.3511429
+          ],
+          [
+            0.0298965,
+            51.3510858
+          ],
+          [
+            0.0299412,
+            51.3510338
+          ],
+          [
+            0.0301058,
+            51.3510084
+          ],
+          [
+            0.0302095,
+            51.3510096
+          ],
+          [
+            0.0302217,
+            51.3510503
+          ],
+          [
+            0.0302054,
+            51.3511048
+          ],
+          [
+            0.0301465,
+            51.3511353
+          ]
         ]
       },
-      "id": "darmc-location-20936",
+      "id": "osm-location-of-keston-roman-mausolea",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20936",
-        "link": "http://pleiades.stoa.org/places/79544/darmc-location-20936"
+        "title": "OSM location of Keston Roman Mausolea",
+        "link": "http://pleiades.stoa.org/places/79544/osm-location-of-keston-roman-mausolea"
       }
     }
   ]

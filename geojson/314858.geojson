@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Aggersel?",
+  "title": "Sidi-Abd-er-Rahmane-el-Garci",
   "id": "314858",
   "bbox": [
     10.249628,
@@ -10,7 +10,9 @@
   ],
   "description": "An ancient place, cited: BAtlas 32 F4 Aggersel?",
   "names": [
-    "Aggersel"
+    "Aggersel",
+    "Aggerfel",
+    "Sidi-Abd-er-Rahmane-el-Garci"
   ],
   "features": [
     {
@@ -37,7 +39,7 @@
       "id": "darmc-location-6056",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 6056",
         "link": "http://pleiades.stoa.org/places/314858/darmc-location-6056"

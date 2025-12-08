@@ -3,10 +3,10 @@
   "title": "Basilica of St. Titus",
   "id": "973706432",
   "bbox": [
-    24.946633,
-    35.0624875,
-    24.946633,
-    35.0624875
+    24.9468274,
+    35.0619518,
+    24.9472801,
+    35.0623265
   ],
   "description": "A Christian basilica of the mid-sixth to seventh centuries.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.946633,
-          35.0624875
+          24.9470589417,
+          35.0621348794
         ]
       },
       "properties": {

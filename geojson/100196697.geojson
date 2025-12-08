@@ -8,9 +8,12 @@
     12.4153305,
     41.8147716
   ],
-  "description": "A Roman villa of the early second century BC constructed in opus incertum and named because of the presence of a torcularium.",
+  "description": "A Roman villa of the early second century BCE, constructed in opus incertum and so named because of the presence of a torcularium.",
   "connectsWith": [
     "422968"
+  ],
+  "names": [
+    "Villa romana del Torcularium"
   ],
   "features": [
     {

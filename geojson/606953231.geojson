@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "title": "amnis Petronia",
+  "id": "606953231",
+  "bbox": [
+    12.0248296,
+    41.7451532,
+    12.6387405,
+    43.7892424
+  ],
+  "description": "A brook in the Campus Martius of ancient Rome that flowed from the Cati fons to the Tiber River.",
+  "connectsWith": [
+    "423080",
+    "423025",
+    "422863"
+  ],
+  "names": [
+    "Petronia amnis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3275425525,
+          42.6783085406
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

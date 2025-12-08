@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Attalenses",
+  "id": "202086159",
+  "description": "An ancient people of Galatia.",
+  "names": [
+    "Attalenses",
+    "Actalenses"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

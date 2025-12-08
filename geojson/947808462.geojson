@@ -1,0 +1,192 @@
+{
+  "type": "FeatureCollection",
+  "title": "London Roman basilica",
+  "id": "947808462",
+  "bbox": [
+    -0.0844707,
+    51.512502,
+    -0.0837646,
+    51.5128452
+  ],
+  "description": "A civic basilica in ancient Londonium, the remains of which the Museum of London archaeology service (MOLA) has documented at a site located at 85 Gracechurch Street, London. The site is dated ca. 70 CE.",
+  "connectsWith": [
+    "79574"
+  ],
+  "names": [
+    "London Roman basilica"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0840897952148,
+          51.5126776627
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.0843054,
+            51.5126139
+          ],
+          [
+            -0.0844707,
+            51.5126425
+          ],
+          [
+            -0.084421,
+            51.5127146
+          ],
+          [
+            -0.0843898,
+            51.512763
+          ],
+          [
+            -0.0843625,
+            51.512806
+          ],
+          [
+            -0.0843361,
+            51.5128452
+          ],
+          [
+            -0.0841669,
+            51.51281
+          ],
+          [
+            -0.0841816,
+            51.5127871
+          ],
+          [
+            -0.0841018,
+            51.5127658
+          ],
+          [
+            -0.0840891,
+            51.5127854
+          ],
+          [
+            -0.0840703,
+            51.5127887
+          ],
+          [
+            -0.0840287,
+            51.5127791
+          ],
+          [
+            -0.0840187,
+            51.5127695
+          ],
+          [
+            -0.0840234,
+            51.5127611
+          ],
+          [
+            -0.0839972,
+            51.5127549
+          ],
+          [
+            -0.0840093,
+            51.5127378
+          ],
+          [
+            -0.083957,
+            51.5127245
+          ],
+          [
+            -0.0839187,
+            51.5127799
+          ],
+          [
+            -0.0837676,
+            51.5127543
+          ],
+          [
+            -0.0838121,
+            51.512689
+          ],
+          [
+            -0.0837652,
+            51.5126765
+          ],
+          [
+            -0.0837947,
+            51.5126314
+          ],
+          [
+            -0.0837646,
+            51.5126239
+          ],
+          [
+            -0.0838021,
+            51.5125609
+          ],
+          [
+            -0.083843,
+            51.5125717
+          ],
+          [
+            -0.0838953,
+            51.512502
+          ],
+          [
+            -0.0839623,
+            51.5125199
+          ],
+          [
+            -0.0840743,
+            51.5125521
+          ],
+          [
+            -0.0840415,
+            51.5126018
+          ],
+          [
+            -0.0840899,
+            51.5126143
+          ],
+          [
+            -0.0841179,
+            51.5125727
+          ],
+          [
+            -0.0841427,
+            51.5125783
+          ],
+          [
+            -0.0842271,
+            51.5126006
+          ],
+          [
+            -0.0841957,
+            51.512646
+          ],
+          [
+            -0.0842708,
+            51.5126673
+          ],
+          [
+            -0.0843054,
+            51.5126139
+          ]
+        ]
+      },
+      "id": "osm-location-of-85-gracechurch-street",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of 85 Gracechurch Street",
+        "link": "http://pleiades.stoa.org/places/947808462/osm-location-of-85-gracechurch-street"
+      }
+    }
+  ]
+}

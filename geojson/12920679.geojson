@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicus Columnae Ligneae",
+  "id": "12920679",
+  "description": "A street located in Regio XIII of ancient Rome that is mentioned on the so-called Capitoline Base (CIL 6, 975).",
+  "connectsWith": [
+    "372769291",
+    "423025"
+  ],
+  "names": [
+    "Vicus Columnae Ligneae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

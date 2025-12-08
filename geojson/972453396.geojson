@@ -9,9 +9,6 @@
     43.177278
   ],
   "description": "A Roman villa site on the modern Croatian island of Hvar (ancient Pharus).",
-  "connectsWith": [
-    "197434"
-  ],
   "features": [
     {
       "type": "Feature",
