@@ -9,6 +9,9 @@
     30.5690994
   ],
   "description": "An ancient place, cited: BAtlas 93 F3 Zoreh/Or(o)atis? fl.",
+  "connectsWith": [
+    "483539520"
+  ],
   "names": [
     "Oroatis",
     "Oratis"

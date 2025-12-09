@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "847120",
   "bbox": [
-    30.0,
-    39.0,
-    36.0,
-    43.0
+    30.315013,
+    40.084156,
+    31.880487,
+    40.297958
   ],
   "description": "Tattaios → Gordioukome → Sykeon",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.0,
-          41.0
+          31.2564541667,
+          40.1602618333
         ]
       },
       "properties": {
