@@ -10,7 +10,8 @@
   ],
   "description": "A warehouse complex on the Palatine slope adjacent to the Sacra Via.",
   "connectsWith": [
-    "423025"
+    "423025",
+    "434423626"
   ],
   "features": [
     {

@@ -3,10 +3,10 @@
   "title": "Thospia/Bouana/‘Ospa’/Ṭušpa",
   "id": "874771",
   "bbox": [
-    43.3310867,
-    38.5044929,
-    43.3310867,
-    38.5044929
+    43.3300809,
+    38.4974756,
+    43.3465711,
+    38.5054478
   ],
   "description": "Ṭušpa is an Urartian fortress and settlement near the historic center of Van in southeastern Turkey. Here archaeological remains of buildings and inscribed objects of several Urartian kings starting with Sarduri I (ninth century BCE) have been found. Furthermore, the place is frequently mentioned in Urartian inscriptions in connection with the god Haldi, who is addressed as \"Lord of Ṭušpa-City\". Ṭupša is often referred to as the capital of Urartu, although this remains uncertain. Rather than an administrative center, it was probably a religious one. In later times the place was known as Thospia/Bouana/‘Ospa’ (BAtlas 89 F2 Thospia/Bouana/‘Ospa’). Today the ruins of the fortress are referred to as Van Kalesi (or Van Castle).",
   "names": [
@@ -38,8 +38,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.3310867,
-          38.5044929
+          43.3385343532,
+          38.5014971093
         ]
       },
       "properties": {
