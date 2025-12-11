@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "title": "Visigothic basilica at Segobriga",
+  "id": "989848523",
+  "bbox": [
+    -2.8104319,
+    39.8910763,
+    -2.8104137,
+    39.8910967
+  ],
+  "description": "The basilica of Cabeza del Griego at Segobriga dates to the fifth and sixth centuries CE.",
+  "connectsWith": [
+    "266036"
+  ],
+  "names": [
+    "Basílica de Cabeza del Griego"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8104228,
+          39.8910865
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8104137,
+          39.8910763
+        ]
+      },
+      "id": "location-of-visigothic-basilica",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "location of Visigothic basilica",
+        "link": "http://pleiades.stoa.org/places/989848523/location-of-visigothic-basilica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8104319,
+          39.8910967
+        ]
+      },
+      "id": "osm-location-of-basalica-visigoda",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basílica Visigoda",
+        "link": "http://pleiades.stoa.org/places/989848523/osm-location-of-basalica-visigoda"
+      }
+    }
+  ]
+}

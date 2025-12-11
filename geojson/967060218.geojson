@@ -9,9 +9,6 @@
     54.898809
   ],
   "description": "A milecastle situated on Hadrian's Wall.",
-  "connectsWith": [
-    "91358"
-  ],
   "features": [
     {
       "type": "Feature",

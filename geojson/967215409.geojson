@@ -3,10 +3,10 @@
   "title": "Largo di Torre Argentina",
   "id": "967215409",
   "bbox": [
-    12.4772404,
-    41.8951723,
-    12.4772404,
-    41.8951723
+    12.4765273,
+    41.8949652,
+    12.4772454,
+    41.8958284
   ],
   "description": "A square in the Campus Martius of Rome, at the center of which lies an archaeological site that includes the remains of four temples of the Republican period, as well as elements of the first century B.C. theater complex of Cnaeus Pompeius.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4772404,
-          41.8951723
+          12.4768702352,
+          41.8953807245
         ]
       },
       "properties": {

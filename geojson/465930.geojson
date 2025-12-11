@@ -4,11 +4,11 @@
   "id": "465930",
   "description": "An ancient place, cited: BAtlas 47 unlocated Kaukana",
   "connectsWith": [
-    "462492"
+    "462492",
+    "462459"
   ],
   "names": [
-    "Kaukana",
-    "Parco archeologico di Kaukana"
+    "Kaukana"
   ],
   "features": [
     {

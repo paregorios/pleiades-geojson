@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aqaba Church",
+  "id": "897105326",
+  "bbox": [
+    34.9988451,
+    29.5335499,
+    34.9993042,
+    29.5338585
+  ],
+  "description": "A pre-Constantinian Christian church located at ancient Aila in Jordan.",
+  "connectsWith": [
+    "746700"
+  ],
+  "names": [
+    "Aqaba Church"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9991038799,
+          29.533718222
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.9988878,
+            29.5338585
+          ],
+          [
+            34.9988557,
+            29.5338397
+          ],
+          [
+            34.9988451,
+            29.5337973
+          ],
+          [
+            34.9988673,
+            29.5337439
+          ],
+          [
+            34.9990182,
+            29.5335499
+          ],
+          [
+            34.9993042,
+            29.5335521
+          ],
+          [
+            34.999304,
+            29.5338546
+          ],
+          [
+            34.9988878,
+            29.5338585
+          ]
+        ]
+      },
+      "id": "osm-location-of-aqaba-church",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aqaba Church",
+        "link": "http://pleiades.stoa.org/places/897105326/osm-location-of-aqaba-church"
+      }
+    }
+  ]
+}

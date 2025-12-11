@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arch of Titus",
+  "id": "236855821",
+  "bbox": [
+    12.4885135,
+    41.8906011,
+    12.4886549,
+    41.8907433
+  ],
+  "description": "A triumphal arch erected in summa Sacra Via and dedicated to the deified emperor Titus by his brother Domitian, ca. 81 CE.",
+  "connectsWith": [
+    "423025",
+    "434423626"
+  ],
+  "names": [
+    "Titusbogen",
+    "Arch of Titus",
+    "Arco di Tito"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4885842054,
+          41.890672197
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4885135,
+            41.8906242
+          ],
+          [
+            12.4885887,
+            41.8906011
+          ],
+          [
+            12.4886221,
+            41.8906612
+          ],
+          [
+            12.4886549,
+            41.8907202
+          ],
+          [
+            12.4885797,
+            41.8907433
+          ],
+          [
+            12.4885464,
+            41.8906833
+          ],
+          [
+            12.4885135,
+            41.8906242
+          ]
+        ]
+      },
+      "id": "osm-location-of-arch-of-titus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arch of Titus",
+        "link": "http://pleiades.stoa.org/places/236855821/osm-location-of-arch-of-titus"
+      }
+    }
+  ]
+}
