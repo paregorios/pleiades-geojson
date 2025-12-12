@@ -2,7 +2,13 @@
   "type": "FeatureCollection",
   "title": "Kaukana",
   "id": "465930",
-  "description": "An ancient place, cited: BAtlas 47 unlocated Kaukana",
+  "bbox": [
+    14.50725,
+    36.7879,
+    14.50725,
+    36.7879
+  ],
+  "description": "An ancient settlement of Sicily mentioned by Ptolemy and by Procopius. It has been long identified by many scholars with an archaeologically attested settlement at modern Punta Secca; however, identification has been rejected, because there is no natural harbor at Punta Secca, by RJA Wilson in favor of an as-yet-unlocated position on the coast somewhere east of Capo Scalambri.",
   "connectsWith": [
     "462492",
     "462459"
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.50725,
+          36.7879
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
