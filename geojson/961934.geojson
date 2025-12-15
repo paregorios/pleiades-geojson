@@ -3,10 +3,10 @@
   "title": "Margiana/Margush/Merv",
   "id": "961934",
   "bbox": [
-    62.1925,
-    37.662778,
-    62.192779,
-    37.669737
+    62.1790557,
+    37.6535182,
+    62.2020132,
+    37.67239
   ],
   "description": "Margiana/Margush/Merv (Persian: مرو), once the Achaemenid Satrapy of Margiana, is a region of ancient Persia.",
   "names": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.1926395,
-          37.6662575
+          62.1908007249,
+          37.6629907303
         ]
       },
       "properties": {

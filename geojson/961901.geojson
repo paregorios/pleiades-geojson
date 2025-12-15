@@ -3,10 +3,10 @@
   "title": "Dilbarjin",
   "id": "961901",
   "bbox": [
-    66.5238922,
-    37.020105,
-    66.5296429,
-    37.0244736
+    66.5238064,
+    37.020816,
+    66.528967,
+    37.0247563
   ],
   "description": "Dilbarjin is an ancient city of northern Afghanistan. The site may have been founded under the Achaemenid Empire. Under the Kushan Empire, the site was a fortified local center of some importance.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          66.5267613099,
-          37.022212423
+          66.5263711,
+          37.0227705625
         ]
       },
       "properties": {
