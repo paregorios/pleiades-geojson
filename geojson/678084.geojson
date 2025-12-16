@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Carmel",
+  "title": "Carmel (mountain)",
   "id": "678084",
   "bbox": [
-    35.0466669,
-    32.7286111,
-    35.0466669,
-    32.7286111
+    35.0500532,
+    32.7302954,
+    35.0500532,
+    32.7302954
   ],
   "description": "A coastal mountain range in northern Israel.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.0466669,
-          32.7286111
+          35.0500532,
+          32.7302954
         ]
       },
       "properties": {
@@ -32,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.0466669,
-          32.7286111
+          35.0500532,
+          32.7302954
         ]
       },
       "id": "5d45e8-5db5e85de5dc",
