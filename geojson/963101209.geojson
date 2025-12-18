@@ -3,10 +3,10 @@
   "title": "So-called Villa Selene",
   "id": "963101209",
   "bbox": [
-    14.1782842,
-    32.7094692,
-    14.1782842,
-    32.7094692
+    14.1778258,
+    32.7093242,
+    14.1783051,
+    32.7097754
   ],
   "description": "A Roman villa of Tripolitana.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.1782842,
-          32.7094692
+          14.1780884533,
+          32.7095532823
         ]
       },
       "properties": {

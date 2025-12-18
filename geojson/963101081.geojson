@@ -5,21 +5,18 @@
   "bbox": [
     55.565148,
     37.499187,
-    55.5751725,
-    37.521121
+    55.5788739,
+    37.5221676
   ],
   "description": "One of the interval forts spaced along the Great Wall of Gorgan.",
-  "connectsWith": [
-    "942998"
-  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.57016025,
-          37.510154
+          55.5710813835,
+          37.5099213494
         ]
       },
       "properties": {

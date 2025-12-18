@@ -9,9 +9,6 @@
     37.133425
   ],
   "description": "One of the interval forts spaced along the wall.",
-  "connectsWith": [
-    "942998"
-  ],
   "features": [
     {
       "type": "Feature",
