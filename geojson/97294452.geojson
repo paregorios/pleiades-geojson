@@ -13,8 +13,7 @@
     "579885"
   ],
   "names": [
-    "Kerameikós",
-    "Kerameikos"
+    "Kerameikós"
   ],
   "features": [
     {
@@ -28,6 +27,23 @@
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.718611,
+          37.978333
+        ]
+      },
+      "id": "representative-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point location derived from analysis of Google Earth imagery.",
+        "location_precision": "precise",
+        "title": "Imagery Location of Kerameikos",
+        "link": "http://pleiades.stoa.org/places/97294452/representative-location"
       }
     },
     {
@@ -414,30 +430,13 @@
           ]
         ]
       },
-      "id": "osm-location-iiii-i1i-i-i-i3i1ioii-issiii-i-iiuii",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM Location: Αρχαιολογικός Χώρος Κεραμεικού",
-        "link": "http://pleiades.stoa.org/places/97294452/osm-location-iiii-i1i-i-i-i3i1ioii-issiii-i-iiuii"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.718611,
-          37.978333
-        ]
-      },
-      "id": "representative-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location derived from analysis of Google Earth imagery.",
-        "location_precision": "precise",
-        "title": "Imagery Location of Kerameikos",
-        "link": "http://pleiades.stoa.org/places/97294452/representative-location"
+        "link": "http://pleiades.stoa.org/places/97294452/osm-location"
       }
     }
   ]
