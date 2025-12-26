@@ -3,10 +3,10 @@
   "title": "Trea",
   "id": "413348",
   "bbox": [
-    13.2913795,
-    43.3190082,
-    13.2913795,
-    43.3190082
+    13.2894416,
+    43.3175117,
+    13.2942898,
+    43.3190336
   ],
   "description": "An ancient place, cited: BAtlas 42 E2 Trea",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.2913795,
-          43.3190082
+          13.2918780797,
+          43.3182564062
         ]
       },
       "properties": {
@@ -137,7 +137,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location",
+        "title": "OSM location of Area archeologica di Trea",
         "link": "http://pleiades.stoa.org/places/413348/osm-location"
       }
     }

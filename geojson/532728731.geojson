@@ -3,10 +3,10 @@
   "title": "Ager Faliscus (region)",
   "id": "532728731",
   "bbox": [
-    12.27716,
+    12.2023788613,
     42.104259,
     12.45531,
-    42.3956094
+    42.428321637
   ],
   "description": "The territory of the Faliscans that lay between areas where Etruscan, Latin, and Sabellic languages were spoken. The geographic limits of this territory on the right bank of the Tiber River stretch from Grotta Porciosa in the north to Capena in the south.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3781865882,
-          42.2931030213
+          12.2808539375,
+          42.3445866996
         ]
       },
       "properties": {
