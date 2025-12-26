@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Great Colonnade at Palmyra",
+  "id": "867812308",
+  "bbox": [
+    38.2632609,
+    34.5515242,
+    38.2678246,
+    34.5553286
+  ],
+  "description": "The primary colonnaded avenue of the ancient city of Palmyra was constructed during the second and third centuries CE. It stretched for more than one kilometer (approximately 0.75 miles).",
+  "connectsWith": [
+    "668331"
+  ],
+  "names": [
+    "Great Colonnade at Palmyra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2655354468,
+          34.5534189873
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2678246,
+            34.5515242
+          ],
+          [
+            38.2658996,
+            34.5530655
+          ],
+          [
+            38.2658169,
+            34.5532272
+          ],
+          [
+            38.265452,
+            34.553538
+          ],
+          [
+            38.2651599,
+            34.5537867
+          ],
+          [
+            38.2647183,
+            34.5541285
+          ],
+          [
+            38.2644852,
+            34.5543088
+          ],
+          [
+            38.2634645,
+            34.5550987
+          ],
+          [
+            38.2632609,
+            34.5553286
+          ]
+        ]
+      },
+      "id": "osm-location-of-great-colonnade-at-palmyra",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Great Colonnade at Palmyra",
+        "link": "http://pleiades.stoa.org/places/867812308/osm-location-of-great-colonnade-at-palmyra"
+      }
+    }
+  ]
+}

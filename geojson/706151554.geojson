@@ -3,10 +3,10 @@
   "title": "Cerreto Sannita",
   "id": "706151554",
   "bbox": [
-    14.562667,
-    41.3056506,
-    14.5628559,
-    41.3058334
+    14.5627136,
+    41.3056216,
+    14.5629159,
+    41.305711
   ],
   "description": "A Samnite temple dedicated to Flora.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5627614581,
-          41.3057419805
+          14.5628158854,
+          41.3056659586
         ]
       },
       "properties": {

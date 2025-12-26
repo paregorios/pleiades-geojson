@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monumental Arch of Palmyra",
+  "id": "628331928",
+  "bbox": [
+    38.2709909,
+    34.549848,
+    38.2709909,
+    34.549848
+  ],
+  "description": "The Monumental Arch of Palmyra was a third-century CE arched gateway built at Palmyra. Terrorists of the so-called Islamic State destroyed it in 2015.",
+  "connectsWith": [
+    "668331"
+  ],
+  "names": [
+    "Arch of Palmyra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2709909,
+          34.549848
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2709909,
+          34.549848
+        ]
+      },
+      "id": "osm-location-of-triumphal-arch",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Triumphal Arch",
+        "link": "http://pleiades.stoa.org/places/628331928/osm-location-of-triumphal-arch"
+      }
+    }
+  ]
+}

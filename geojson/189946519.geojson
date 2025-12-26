@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Dionysos at Eretria",
+  "id": "189946519",
+  "bbox": [
+    23.7899054,
+    38.3981777,
+    23.7904125,
+    38.3983243
+  ],
+  "description": "The Temple of Dionysos at Eretria dates ca. 350 B.C. It is located in the northwest sector of the city near the so-called West Gate.",
+  "connectsWith": [
+    "579925"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7901560443,
+          38.3982510939
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.789923,
+            38.3983243
+          ],
+          [
+            23.7904125,
+            38.3982897
+          ],
+          [
+            23.7903963,
+            38.3981937
+          ],
+          [
+            23.7901791,
+            38.3981987
+          ],
+          [
+            23.7901711,
+            38.3981777
+          ],
+          [
+            23.7900366,
+            38.3981943
+          ],
+          [
+            23.7899054,
+            38.3982125
+          ],
+          [
+            23.789923,
+            38.3983243
+          ]
+        ]
+      },
+      "id": "osm-location-of-the-temple-of-dionysos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of The Temple of Dionysos",
+        "link": "http://pleiades.stoa.org/places/189946519/osm-location-of-the-temple-of-dionysos"
+      }
+    }
+  ]
+}

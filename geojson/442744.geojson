@@ -3,8 +3,8 @@
   "title": "Ripacandida",
   "id": "442744",
   "bbox": [
-    15.724762,
-    40.911922,
+    15.7247832,
+    40.9117813,
     15.725633,
     40.912965
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.7251975,
-          40.9124435
+          15.7252081,
+          40.91237315
         ]
       },
       "properties": {
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.724762,
-          40.911922
+          15.7247832,
+          40.9117813
         ]
       },
       "id": "osm-location-of-modern-ripacandida",

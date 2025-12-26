@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sphoungaras",
+  "id": "355218709",
+  "bbox": [
+    25.7944715,
+    35.1129078,
+    25.7944715,
+    35.1129078
+  ],
+  "description": "A hill located several hundred meters north of the Minoan center of Gournia, where a series of Minoan tombs were excavated beginning in the early twentieth century.",
+  "connectsWith": [
+    "771100776",
+    "589748"
+  ],
+  "names": [
+    "Sphoungaras"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7944715,
+          35.1129078
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7944715,
+          35.1129078
+        ]
+      },
+      "id": "osm-location-of-sphoungaras",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sphoungaras",
+        "link": "http://pleiades.stoa.org/places/355218709/osm-location-of-sphoungaras"
+      }
+    }
+  ]
+}

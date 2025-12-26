@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths of Diocletian (Palmyra)",
+  "id": "802044826",
+  "bbox": [
+    38.2696016,
+    34.550351,
+    38.2706286,
+    34.5511087
+  ],
+  "description": "A public bath complex built at Palmyra toward the end of the second century CE and perhaps renovated during the reign of Diocletian.",
+  "connectsWith": [
+    "668331"
+  ],
+  "names": [
+    "Baths of Diocletian"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2701151116,
+          34.550729848
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.2696016,
+            34.550733
+          ],
+          [
+            38.2703436,
+            34.550351
+          ],
+          [
+            38.2706286,
+            34.5507267
+          ],
+          [
+            38.2698867,
+            34.5511087
+          ],
+          [
+            38.2696016,
+            34.550733
+          ]
+        ]
+      },
+      "id": "osm-location-of-baths-of-diocletian",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Baths of Diocletian",
+        "link": "http://pleiades.stoa.org/places/802044826/osm-location-of-baths-of-diocletian"
+      }
+    }
+  ]
+}
