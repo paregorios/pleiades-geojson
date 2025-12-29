@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Anni Forum",
   "id": "446215",
+  "bbox": [
+    15.265011,
+    40.578494,
+    15.265011,
+    40.578494
+  ],
   "description": "An ancient place, cited: BAtlas 45 unlocated Anni Forum",
   "connectsWith": [
     "442685"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.265011,
+          40.578494
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

@@ -3,6 +3,9 @@
   "title": "Forensis Pagus",
   "id": "438738",
   "description": "An ancient place, cited: BAtlas 44 unlocated Forensis Pagus",
+  "connectsWith": [
+    "446215"
+  ],
   "names": [
     "Forensis Pagus"
   ],

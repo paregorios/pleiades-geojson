@@ -3,12 +3,12 @@
   "title": "Melpis (river)",
   "id": "432935",
   "bbox": [
-    13.9081382,
-    41.6033448,
-    13.9081382,
-    41.6033448
+    13.7897426,
+    41.6065614,
+    13.9120252,
+    41.6324909
   ],
-  "description": "The Melfa river flows through Lazio, originating from the Monti della Meta and joining the Liri river near San Giovanni Incarico.",
+  "description": "The Melfa River flows through Lazio, originating from the Monti della Meta and joining the Liri River near San Giovanni Incarico.",
   "connectsWith": [
     "432910"
   ],
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9081382,
-          41.6033448
+          13.8526236622,
+          41.6213618238
         ]
       },
       "properties": {
@@ -35,56 +35,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            13.9081382,
-            41.6033448
-          ],
-          [
-            13.9087474,
-            41.6033532
-          ],
-          [
-            13.9093172,
-            41.6034798
-          ],
-          [
-            13.9101578,
-            41.6036443
-          ],
-          [
-            13.9107322,
-            41.6039889
-          ],
-          [
-            13.9111113,
-            41.6043277
-          ],
-          [
-            13.9115175,
-            41.6047411
-          ],
-          [
-            13.9116754,
-            41.6051376
-          ],
-          [
-            13.9116867,
-            41.6054878
-          ],
-          [
-            13.9116924,
-            41.6058421
-          ],
-          [
-            13.9117431,
-            41.6061543
-          ],
-          [
-            13.9119772,
-            41.6063393
-          ],
-          [
-            13.9119991,
-            41.6065015
+            13.9120056,
+            41.6065614
           ],
           [
             13.9120252,
@@ -577,6 +529,10 @@
           [
             13.8819689,
             41.6221497
+          ],
+          [
+            13.8817647,
+            41.6222316
           ],
           [
             13.8817166,

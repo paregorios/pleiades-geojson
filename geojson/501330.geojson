@@ -9,6 +9,9 @@
     41.058728
   ],
   "description": "An ancient place, cited: BAtlas 51 B2 Ag. Pneuma",
+  "connectsWith": [
+    "copy_of_501616"
+  ],
   "features": [
     {
       "type": "Feature",
