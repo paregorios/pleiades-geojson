@@ -5,7 +5,7 @@
   "bbox": [
     30.879299,
     23.9103,
-    35.4737,
+    35.4759377,
     27.922197
   ],
   "description": "A Roman road established by Hadrian running from Antinoopolis to Berenice. The road was completed in AD 137.",
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.5138841,
-          26.8978837
+          32.51410787,
+          26.89794875
         ]
       },
       "properties": {

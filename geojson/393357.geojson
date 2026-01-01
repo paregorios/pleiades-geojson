@@ -5,8 +5,8 @@
   "bbox": [
     11.912808,
     45.793247,
-    11.9140994,
-    45.7998659
+    11.912808,
+    45.793247
   ],
   "description": "Acelum (modern Asolo) was an ancient settlement of the Veneti.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9134537,
-          45.79655645
+          11.912808,
+          45.793247
         ]
       },
       "properties": {
@@ -41,23 +41,6 @@
         "location_precision": "precise",
         "title": "DARMC location 6052",
         "link": "http://pleiades.stoa.org/places/393357/darmc-location-6052"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.9140994,
-          45.7998659
-        ]
-      },
-      "id": "location-of-roman-theater",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Roman theater",
-        "link": "http://pleiades.stoa.org/places/393357/location-of-roman-theater"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Exotero (Oasis)",
   "id": "776173",
   "bbox": [
-    30.594006,
-    24.524831,
-    30.601166,
-    24.696005
+    30.5991431,
+    24.6947125,
+    30.6021897,
+    24.6975286
   ],
   "description": "An ancient place, cited: BAtlas 79 D2 Exotero (Oasis)",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.597586,
-          24.610418
+          30.6006662916,
+          24.696120556
         ]
       },
       "properties": {
