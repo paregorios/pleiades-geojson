@@ -3,10 +3,10 @@
   "title": "Acamantis",
   "id": "745058964",
   "bbox": [
-    23.839347,
+    23.739062,
     37.73787,
     24.053634,
-    37.938363
+    38.05644
   ],
   "description": "Acamantis, named for the hero Acamas, was an Attic tribe or phyle created by Cleisthenes' reforms. It included the demes of Cholargos, Eiresidai, Hermos, Iphistiadai, Kerameis, Kephale, Poros, Thorikos, Eitea, Hagnous, Kikynna, Prospalta, and Sphettos.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.9436111667,
-          37.8514976667
+          23.9024351429,
+          37.8840608571
         ]
       },
       "properties": {
