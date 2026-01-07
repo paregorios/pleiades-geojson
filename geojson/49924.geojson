@@ -9,6 +9,9 @@
     7.117366
   ],
   "description": "An ancient place, cited: BAtlas 5 inset Boragoda",
+  "connectsWith": [
+    "50298"
+  ],
   "features": [
     {
       "type": "Feature",
