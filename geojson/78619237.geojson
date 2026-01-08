@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Asomata",
+  "id": "78619237",
+  "bbox": [
+    22.234564,
+    40.490285,
+    22.234564,
+    40.490285
+  ],
+  "description": "Burial site located southeast of Mount Vermion. The site was primarily used during the Archaic period (mid 6th-early 5th centuries BCE), with additional burials through the late Classical-early Hellenistic period and some additional signs of earlier human activity from the Middle Neolithic period through the Bronze Age. Rescue excavations were conducted on the site in 2000-2002 during the construction of the Egnatia Highway.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.234564,
+          40.490285
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.234564,
+          40.490285
+        ]
+      },
+      "id": "google-earth-location-of-asomata-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate location of the Asomata site, after Kephalidou 2009.",
+        "location_precision": "precise",
+        "title": "Google Earth location of Asomata site",
+        "link": "http://pleiades.stoa.org/places/78619237/google-earth-location-of-asomata-site"
+      }
+    }
+  ]
+}

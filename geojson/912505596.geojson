@@ -3,10 +3,10 @@
   "title": "House of the Tragic Poet",
   "id": "912505596",
   "bbox": [
-    14.4836638,
-    40.7505789,
-    14.4839241,
-    40.7508732
+    14.4836544,
+    40.7505761,
+    14.4839084,
+    40.7509243
   ],
   "description": "The so-called \"House of the Tragic Poet\" (VI, 8, 3, 5) was built in the first century BC and has the plan of a classic \"Samnite\" house. The house was excavated in 1824. It lies at the corner of the Via delle Terme and the Via della Fullonica, across from the Forum Baths.",
   "connectsWith": [
@@ -14,7 +14,6 @@
     "984330151"
   ],
   "names": [
-    "Casa del Poeta Tragico",
     "Casa omerica",
     "Casa di Omero",
     "Casa del poeta",
@@ -25,9 +24,9 @@
     "Domus of M. P. Cepius",
     "Domus of Aninius",
     "VI.8.3",
-    "Casa di Glauco",
-    "Casa col Cave canem",
-    "House of the Tragic Poet"
+    "House of the Tragic Poet",
+    "Casa del Poeta Tragico",
+    "Casa di Glauco"
   ],
   "features": [
     {
@@ -35,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.483818113,
-          40.7507287942
+          14.4838058691,
+          40.7507504885
         ]
       },
       "properties": {
@@ -48,74 +47,106 @@
         "type": "LineString",
         "coordinates": [
           [
-            14.4836638,
-            40.7507976
+            14.4836544,
+            40.7507974
           ],
           [
-            14.4838605,
-            40.7508732
+            14.4836712,
+            40.7508033
           ],
           [
-            14.4838967,
-            40.7508192
+            14.4837182,
+            40.7508201
           ],
           [
-            14.4839025,
-            40.7508106
+            14.4837469,
+            40.7508304
           ],
           [
-            14.4838458,
-            40.7507889
+            14.4837852,
+            40.750844
           ],
           [
-            14.4839241,
-            40.750672
+            14.4837649,
+            40.750877
           ],
           [
-            14.4839123,
-            40.7506674
+            14.4837578,
+            40.7508886
           ],
           [
-            14.4838737,
-            40.7506526
+            14.4837536,
+            40.7508955
           ],
           [
-            14.4839123,
-            40.7505949
+            14.483837,
+            40.7509243
           ],
           [
-            14.4838924,
-            40.7505873
+            14.4838683,
+            40.7508735
           ],
           [
-            14.4838707,
-            40.7505789
+            14.4838625,
+            40.7508716
           ],
           [
-            14.4838335,
-            40.7506344
+            14.4838878,
+            40.7508306
           ],
           [
-            14.4837854,
-            40.7506159
+            14.4838962,
+            40.7508171
           ],
           [
-            14.483672,
-            40.7507853
+            14.4838305,
+            40.7507944
           ],
           [
-            14.4836638,
-            40.7507976
+            14.4839084,
+            40.7506682
+          ],
+          [
+            14.4838515,
+            40.7506437
+          ],
+          [
+            14.4838949,
+            40.7505869
+          ],
+          [
+            14.4838806,
+            40.750581
+          ],
+          [
+            14.483869,
+            40.7505761
+          ],
+          [
+            14.4838233,
+            40.7506329
+          ],
+          [
+            14.4837716,
+            40.7506141
+          ],
+          [
+            14.4836654,
+            40.7507801
+          ],
+          [
+            14.4836544,
+            40.7507974
           ]
         ]
       },
-      "id": "copy_of_casa-del-poeta-tragico",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap.",
         "location_precision": "precise",
         "title": "OSM location of so-called \"Casa del Poeta Tragico\"",
-        "link": "http://pleiades.stoa.org/places/912505596/copy_of_casa-del-poeta-tragico"
+        "link": "http://pleiades.stoa.org/places/912505596/osm-location"
       }
     }
   ]

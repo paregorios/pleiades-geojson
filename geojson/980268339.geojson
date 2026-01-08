@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Peqi'in Cave",
+  "id": "980268339",
+  "bbox": [
+    35.329777,
+    32.973416,
+    35.329777,
+    32.973416
+  ],
+  "description": "Cave located near the modern village of al-Buqei'a, used as a burial site in the late Chalcolithic period.",
+  "connectsWith": [
+    "678046"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.329777,
+          32.973416
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.329777,
+          32.973416
+        ]
+      },
+      "id": "approximate-google-earth-location-of-peqiin-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate location to the entrance to Peqi'in Cave, after Shalem 2013.",
+        "location_precision": "precise",
+        "title": "Approximate Google Earth location of Peqi'in Cave",
+        "link": "http://pleiades.stoa.org/places/980268339/approximate-google-earth-location-of-peqiin-cave"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "title": "Salat Tepe",
+  "id": "899723866",
+  "bbox": [
+    40.9008378,
+    37.8387793,
+    40.9031327,
+    37.8401958
+  ],
+  "description": "Archaeological site in the upper Tigris region inhabited in the early Bronze Age.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9020227972,
+          37.8394812529
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.9020996,
+            37.8387807
+          ],
+          [
+            40.9013959,
+            37.8389951
+          ],
+          [
+            40.9010428,
+            37.8392442
+          ],
+          [
+            40.9008378,
+            37.8396024
+          ],
+          [
+            40.9011813,
+            37.8400381
+          ],
+          [
+            40.9016427,
+            37.8401958
+          ],
+          [
+            40.9022092,
+            37.8401682
+          ],
+          [
+            40.9026185,
+            37.840013
+          ],
+          [
+            40.9030562,
+            37.8396798
+          ],
+          [
+            40.9031327,
+            37.8395139
+          ],
+          [
+            40.9030608,
+            37.8391354
+          ],
+          [
+            40.9027597,
+            37.8387793
+          ],
+          [
+            40.9020996,
+            37.8387807
+          ]
+        ]
+      },
+      "id": "salat-tepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of Salat Tepe, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Salat Tepe",
+        "link": "http://pleiades.stoa.org/places/899723866/salat-tepe"
+      }
+    }
+  ]
+}
