@@ -6,7 +6,7 @@
     35.3697,
     33.560243,
     35.375272,
-    33.5624
+    33.564733
   ],
   "description": "Sidon/Col. Aurelia Pia is an ancient maritime city and Phoenician metropolis",
   "connectsWith": [
@@ -46,8 +46,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.37206,
-          33.5610186667
+          35.3727895,
+          33.56194725
         ]
       },
       "properties": {
@@ -86,6 +86,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/678393/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.374978,
+          33.564733
+        ]
+      },
+      "id": "63564a62f627",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of صيدا",
+        "link": "http://pleiades.stoa.org/places/678393/63564a62f627"
       }
     },
     {
