@@ -9,6 +9,9 @@
     43.0172061
   ],
   "description": "The Ebro river in Spain.",
+  "connectsWith": [
+    "1043"
+  ],
   "names": [
     "Hiberus",
     "Iberus",

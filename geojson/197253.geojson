@@ -8,7 +8,10 @@
     18.9296371,
     46.8329693
   ],
-  "description": "An ancient place, cited: BAtlas 20 A3 Dravus fl.",
+  "description": "The Draus or Dravus River, now the present-day Drava River, flows through Italy, Austria, Slovenia, Croatia, and Hungary.",
+  "connectsWith": [
+    "226577"
+  ],
   "names": [
     "Dravus"
   ],

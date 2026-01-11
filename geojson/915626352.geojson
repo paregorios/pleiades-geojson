@@ -9,9 +9,6 @@
     52.8375208
   ],
   "description": "The Brownshill Dolmen is a megalithic portal tomb built between 4000 and 3000 BC near Carlow, Ireland.",
-  "connectsWith": [
-    "20487"
-  ],
   "features": [
     {
       "type": "Feature",

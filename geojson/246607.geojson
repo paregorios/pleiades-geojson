@@ -9,6 +9,9 @@
     41.656257
   ],
   "description": "An ancient place, cited: BAtlas 25 E4 Salduie/‘Salduba’",
+  "connectsWith": [
+    "246418"
+  ],
   "names": [
     "Salduie",
     "Salduba"

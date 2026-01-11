@@ -3,10 +3,10 @@
   "title": "Heruli?",
   "id": "98980",
   "bbox": [
-    12.0,
-    55.0,
-    13.0,
-    56.0
+    11.9667467846,
+    55.4581231956,
+    13.2784246641,
+    55.5045226853
   ],
   "description": "The Heruli? were an East Germanic tribe who migrated from Scandinavia to the Black Sea during the third century AD.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5,
-          55.5
+          12.6227079889,
+          55.4848646679
         ]
       },
       "properties": {
@@ -28,39 +28,47 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "MultiLineString",
         "coordinates": [
           [
             [
-              12.0,
-              55.0
+              11.966746784603686,
+              55.50452268525203
             ],
             [
-              12.0,
-              56.0
+              12.271912658601423,
+              55.49916889798891
             ],
             [
-              13.0,
-              56.0
+              12.47892576610866,
+              55.490245919217045
             ],
             [
-              13.0,
-              55.0
+              12.693077256633387,
+              55.483107536199554
             ],
             [
-              12.0,
-              55.0
+              12.89116738536876,
+              55.475969153182064
+            ],
+            [
+              13.085688322595388,
+              55.46883077016457
+            ],
+            [
+              13.278424664067643,
+              55.458123195638336
             ]
           ]
         ]
       },
-      "id": "undetermined",
+      "id": "batlas-map-label-location",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/98980/undetermined"
+        "description": "Centerline/arc of label location used on the Barrington Atlas map for this feature",
+        "location_precision": "precise",
+        "title": "BAtlas Map Label Location",
+        "link": "http://pleiades.stoa.org/places/98980/batlas-map-label-location"
       }
     }
   ]

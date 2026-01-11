@@ -8,10 +8,15 @@
     -0.876643,
     41.656248
   ],
-  "description": "An ancient place, cited: BAtlas 25 E4 Col. Caesaraugusta",
+  "description": "Colonia Caesaraugusta (present-day Zaragoza, Spain) was established as a planned Roman colony of the Augustan period (ca. 14 BCE). Military veterans of the Cantabrian wars were settled there.",
+  "connectsWith": [
+    "246607",
+    "246418"
+  ],
   "names": [
     "Col. Caesaraugusta",
-    "Zaragoza"
+    "Zaragoza",
+    "Saraḳusṭa"
   ],
   "features": [
     {
