@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arcuated Building",
+  "id": "523926373",
+  "bbox": [
+    23.7269016,
+    37.9739187,
+    23.7272463,
+    37.9742296
+  ],
+  "description": "A mid-first century CE building located east of the Roman Agora in Athens, of unknown purpose. Early 20th-century scholars incorrectly identified it as the Agoranomeion (office of the market inspectors).",
+  "connectsWith": [
+    "773761100",
+    "89350791"
+  ],
+  "names": [
+    "Arcuated Building",
+    "So-called Agoranomion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7270833874,
+          37.9740692221
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              23.7272463,
+              37.9741884
+            ],
+            [
+              23.7272435,
+              37.9741815
+            ],
+            [
+              23.7272014,
+              37.9740774
+            ],
+            [
+              23.7271981,
+              37.9740698
+            ],
+            [
+              23.7271368,
+              37.9739187
+            ],
+            [
+              23.7269152,
+              37.973975
+            ],
+            [
+              23.7269016,
+              37.9739723
+            ]
+          ],
+          [
+            [
+              23.7269016,
+              37.9739723
+            ],
+            [
+              23.7269933,
+              37.9741485
+            ],
+            [
+              23.7270746,
+              37.974121
+            ],
+            [
+              23.7271322,
+              37.9742296
+            ],
+            [
+              23.7272463,
+              37.9741884
+            ]
+          ]
+        ]
+      },
+      "id": "osm-relation-agoranomion",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Relation: \"Agoranomion \"",
+        "link": "http://pleiades.stoa.org/places/523926373/osm-relation-agoranomion"
+      }
+    }
+  ]
+}

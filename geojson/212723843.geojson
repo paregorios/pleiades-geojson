@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "title": "Solomon's Pools",
+  "id": "212723843",
+  "bbox": [
+    35.167287,
+    31.6876695,
+    35.173098,
+    31.689526
+  ],
+  "description": "The so-called \"Solomon's Pools\" are three ancient reservoirs located in the south-central West Bank, approximately 3.5 kilometres (2.2 mi) southwest of Bethlehem. They date to the early Roman period.",
+  "names": [
+    "Solomon's Pools"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1701720787,
+          31.6887151609
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              35.1690381,
+              31.688716
+            ],
+            [
+              35.1704184,
+              31.6884651
+            ],
+            [
+              35.1705097,
+              31.6888374
+            ],
+            [
+              35.1705327,
+              31.6890031
+            ],
+            [
+              35.1705294,
+              31.6891595
+            ],
+            [
+              35.1690574,
+              31.6891795
+            ],
+            [
+              35.1690381,
+              31.688716
+            ]
+          ],
+          [
+            [
+              35.1710777,
+              31.6884966
+            ],
+            [
+              35.171365,
+              31.6888966
+            ],
+            [
+              35.173098,
+              31.6881525
+            ],
+            [
+              35.1727929,
+              31.6876695
+            ],
+            [
+              35.1710777,
+              31.6884966
+            ]
+          ],
+          [
+            [
+              35.167287,
+              31.6889796
+            ],
+            [
+              35.1683974,
+              31.6886597
+            ],
+            [
+              35.1686387,
+              31.6892211
+            ],
+            [
+              35.1674715,
+              31.689526
+            ],
+            [
+              35.167287,
+              31.6889796
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-solomons-pools",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Solomon's Pools",
+        "link": "http://pleiades.stoa.org/places/212723843/osm-location-of-solomons-pools"
+      }
+    }
+  ]
+}

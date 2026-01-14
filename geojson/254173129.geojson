@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Petosiris at Tuna el-Gebel",
+  "id": "254173129",
+  "bbox": [
+    30.7041693,
+    27.7364183,
+    30.7043196,
+    27.7365914
+  ],
+  "description": "The Tomb of Petosiris at Tuna el-Gebel dates to the late fourth century BCE. Petosiris, also called Ankhefenkhons, served as the high priest of Thoth at Hermopolis during the 28th Dynasty of ancient Egypt.",
+  "names": [
+    "Tomb of Petosiris at Tuna el-Gebel"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.7042444182,
+          27.7365048414
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.7041935,
+            27.7365914
+          ],
+          [
+            30.7041693,
+            27.7364334
+          ],
+          [
+            30.7042953,
+            27.7364183
+          ],
+          [
+            30.7043196,
+            27.7365762
+          ],
+          [
+            30.7041935,
+            27.7365914
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-petosiris-at-tuna-el-gebel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Petosiris at Tuna el-Gebel",
+        "link": "http://pleiades.stoa.org/places/254173129/osm-location-of-tomb-of-petosiris-at-tuna-el-gebel"
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ancient forum of Beroe/Augusta Traiana",
+  "id": "803280733",
+  "bbox": [
+    25.6256188,
+    42.4267561,
+    25.6272549,
+    42.4276255
+  ],
+  "description": "An architectural complex deemed to be the forum of the Roman city of Augusta Traiana.",
+  "connectsWith": [
+    "216731"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6264523069,
+          42.4271336397
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.6256188,
+            42.4272345
+          ],
+          [
+            25.6257726,
+            42.4267561
+          ],
+          [
+            25.6262588,
+            42.4268297
+          ],
+          [
+            25.6263436,
+            42.426842
+          ],
+          [
+            25.6263884,
+            42.4268485
+          ],
+          [
+            25.6272549,
+            42.4269937
+          ],
+          [
+            25.6272232,
+            42.4270864
+          ],
+          [
+            25.6271979,
+            42.4271603
+          ],
+          [
+            25.6271929,
+            42.4271719
+          ],
+          [
+            25.627185,
+            42.4271901
+          ],
+          [
+            25.62709,
+            42.4271741
+          ],
+          [
+            25.6270592,
+            42.4271689
+          ],
+          [
+            25.6270524,
+            42.4271926
+          ],
+          [
+            25.6270393,
+            42.4272384
+          ],
+          [
+            25.6270344,
+            42.4272616
+          ],
+          [
+            25.6269586,
+            42.4276255
+          ],
+          [
+            25.6267798,
+            42.4273994
+          ],
+          [
+            25.6262651,
+            42.4273594
+          ],
+          [
+            25.6262848,
+            42.4273068
+          ],
+          [
+            25.625887,
+            42.4272312
+          ],
+          [
+            25.6258726,
+            42.4272866
+          ],
+          [
+            25.6256188,
+            42.4272345
+          ]
+        ]
+      },
+      "id": "osm-location-of-ancient-forum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ancient forum",
+        "link": "http://pleiades.stoa.org/places/803280733/osm-location-of-ancient-forum"
+      }
+    }
+  ]
+}

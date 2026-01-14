@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Άγιος Νικόλαος",
+  "id": "237118389",
+  "bbox": [
+    25.403931,
+    35.3105251,
+    25.4044226,
+    35.3107112
+  ],
+  "description": "A paleochristian basilica dating to the fifth and sixth centuries CE, located near the harbor of Limani Khersonesou, Pediada District, northern Crete.",
+  "connectsWith": [
+    "589744"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4041695838,
+          35.3106198055
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.4043303,
+            35.310701
+          ],
+          [
+            25.403931,
+            35.3106659
+          ],
+          [
+            25.4039465,
+            35.3105251
+          ],
+          [
+            25.4043532,
+            35.3105641
+          ],
+          [
+            25.4044226,
+            35.3106305
+          ],
+          [
+            25.4044063,
+            35.3107112
+          ],
+          [
+            25.4043303,
+            35.310701
+          ]
+        ]
+      },
+      "id": "osm-location-of-ii3i1i-i-ii1ioii-i-i-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Άγιος Νικόλαος",
+        "link": "http://pleiades.stoa.org/places/237118389/osm-location-of-ii3i1i-i-ii1ioii-i-i-i"
+      }
+    }
+  ]
+}

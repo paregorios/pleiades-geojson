@@ -1,19 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Emborio",
-  "id": "570224",
+  "title": "Alouston",
+  "id": "176176629",
   "bbox": [
-    24.3918219,
-    36.7099574,
-    24.3918219,
-    36.7099574
+    34.4095393,
+    44.677112,
+    34.4095393,
+    44.677112
   ],
-  "description": "An ancient place, cited: BAtlas 58 G4 Emborio",
-  "connectsWith": [
-    "570475"
-  ],
+  "description": "Find spot of two ancient Greek inscriptions.",
   "names": [
-    "Empourios"
+    "Alushta"
   ],
   "features": [
     {
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.3918219,
-          36.7099574
+          34.4095393,
+          44.677112
         ]
       },
       "properties": {
@@ -33,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.3918219,
-          36.7099574
+          34.4095393,
+          44.677112
         ]
       },
-      "id": "osm-location-of-modern-hamlet-of-empourios",
+      "id": "41043b443448442430",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of modern hamlet of Empourios",
-        "link": "http://pleiades.stoa.org/places/570224/osm-location-of-modern-hamlet-of-empourios"
+        "title": "OSM location of Alushta",
+        "link": "http://pleiades.stoa.org/places/176176629/41043b443448442430"
       }
     }
   ]

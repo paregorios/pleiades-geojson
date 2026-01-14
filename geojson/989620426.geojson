@@ -9,11 +9,6 @@
     41.8895958
   ],
   "description": "An augural area on the Palatine Hill mentioned in the Regionary Catalogues for Regio X.",
-  "connectsWith": [
-    "971691208",
-    "423025",
-    "298699921"
-  ],
   "features": [
     {
       "type": "Feature",

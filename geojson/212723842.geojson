@@ -1,0 +1,128 @@
+{
+  "type": "FeatureCollection",
+  "title": "Shepherds' Field",
+  "id": "212723842",
+  "bbox": [
+    35.2280711,
+    31.7065805,
+    35.2310108,
+    31.7080253
+  ],
+  "description": "A chapel located in the Palestinian village of Beit Sahour that is believed to be the site of the annunciation of Jesus Christ's birth to the shepherds. A Christian monastery was founded on the site in the early fifth century.",
+  "names": [
+    "Chapel of the Shepherds' Field"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2296662626,
+          31.707248274
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2283044,
+            31.7071673
+          ],
+          [
+            35.2284687,
+            31.707106
+          ],
+          [
+            35.2291488,
+            31.7071575
+          ],
+          [
+            35.2297724,
+            31.7068023
+          ],
+          [
+            35.2302778,
+            31.7065805
+          ],
+          [
+            35.2303885,
+            31.7065995
+          ],
+          [
+            35.2310108,
+            31.7077405
+          ],
+          [
+            35.2299459,
+            31.7080253
+          ],
+          [
+            35.2288972,
+            31.7078226
+          ],
+          [
+            35.2280711,
+            31.707348
+          ],
+          [
+            35.2283044,
+            31.7071673
+          ]
+        ]
+      },
+      "id": "osm-location-of-shepherds-field",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Shepherds' Field",
+        "link": "http://pleiades.stoa.org/places/212723842/osm-location-of-shepherds-field"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2297037,
+            31.7070294
+          ],
+          [
+            35.2296151,
+            31.7070907
+          ],
+          [
+            35.2296457,
+            31.7071686
+          ],
+          [
+            35.229765,
+            31.7071709
+          ],
+          [
+            35.2297914,
+            31.7070824
+          ],
+          [
+            35.2297037,
+            31.7070294
+          ]
+        ]
+      },
+      "id": "osm-location-of-734815810shepherds-field-chapel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Shepherds' Field Chapel",
+        "link": "http://pleiades.stoa.org/places/212723842/osm-location-of-734815810shepherds-field-chapel"
+      }
+    }
+  ]
+}

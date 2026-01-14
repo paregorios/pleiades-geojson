@@ -3,20 +3,20 @@
   "title": "Bridge over Fosso di Acqua Rossa",
   "id": "426612",
   "bbox": [
-    12.75,
-    41.75,
-    13.0,
-    42.0
+    12.79031,
+    41.904633,
+    12.79031,
+    41.904633
   ],
-  "description": "An ancient place, cited: BAtlas 43 D2 no. 36 (bridge over Fosso di Acqua Rossa)",
+  "description": "The remains of a Roman bridge that once carried a road over the Fosso di Acqua Rossa. Ward-Perkins posits a date of the second or first century BCE based on comparanda in the vicinity.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.875,
-          41.875
+          12.79031,
+          41.904633
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              12.75,
-              41.75
-            ],
-            [
-              12.75,
-              42.0
-            ],
-            [
-              13.0,
-              42.0
-            ],
-            [
-              13.0,
-              41.75
-            ],
-            [
-              12.75,
-              41.75
-            ]
-          ]
+          12.79031,
+          41.904633
         ]
       },
-      "id": "batlas-location",
+      "id": "vici-org-location-of-ponte-fosso-di-acqua-rossa",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/426612/batlas-location"
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Ponte Fosso di Acqua Rossa",
+        "link": "http://pleiades.stoa.org/places/426612/vici-org-location-of-ponte-fosso-di-acqua-rossa"
       }
     }
   ]

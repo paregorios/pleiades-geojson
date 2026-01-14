@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cisterna Acqua Rossa",
+  "id": "328494631",
+  "bbox": [
+    12.7795699,
+    41.9077158,
+    12.7795699,
+    41.9077158
+  ],
+  "description": "A Roman cistern located near San Vittorino in Lazio.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7795699,
+          41.9077158
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7795699,
+          41.9077158
+        ]
+      },
+      "id": "osm-location-of-cisterna-acqua-rossa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cisterna Acqua Rossa",
+        "link": "http://pleiades.stoa.org/places/328494631/osm-location-of-cisterna-acqua-rossa"
+      }
+    }
+  ]
+}

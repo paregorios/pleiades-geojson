@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Pischero",
+  "id": "147357249",
+  "bbox": [
+    12.7953584,
+    41.8806528,
+    12.7953962,
+    41.8808523
+  ],
+  "description": "The ruin called Ponte Pischero was once an aqueduct bridge that was part of the Aqua Anio Vetus aqueduct.",
+  "connectsWith": [
+    "423560"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7953772999,
+          41.880752547
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7953962,
+            41.8808517
+          ],
+          [
+            12.7953891,
+            41.8806528
+          ],
+          [
+            12.7953752,
+            41.880653
+          ],
+          [
+            12.7953584,
+            41.8806534
+          ],
+          [
+            12.7953655,
+            41.8808523
+          ],
+          [
+            12.79538,
+            41.880852
+          ],
+          [
+            12.7953962,
+            41.8808517
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-pischero",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Pischero",
+        "link": "http://pleiades.stoa.org/places/147357249/osm-location-of-ponte-pischero"
+      }
+    }
+  ]
+}

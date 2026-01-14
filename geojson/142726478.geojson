@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Marcus Antonius Antius Lupus",
+  "id": "142726478",
+  "bbox": [
+    12.4455766,
+    41.8273982,
+    12.4455766,
+    41.8273982
+  ],
+  "description": "The Tomb of Marcus Antonius Antius Lupus is located at the third mile of the via Ostiensis.",
+  "connectsWith": [
+    "390205932"
+  ],
+  "names": [
+    "Tomb of Marcus Antonius Antius Lupus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4455766,
+          41.8273982
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4455766,
+          41.8273982
+        ]
+      },
+      "id": "osm-location-of-sepolcro-di-marco-antonio-anzio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of sepolcro di Marco Antonio Anzio Lupo",
+        "link": "http://pleiades.stoa.org/places/142726478/osm-location-of-sepolcro-di-marco-antonio-anzio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sepolcreto Ostiense",
+  "id": "507301472",
+  "bbox": [
+    12.4779001,
+    41.859281,
+    12.4783458,
+    41.8605409
+  ],
+  "description": "The modern toponym \"Sepolcreto Ostiense\" refers to a portion of what was once a vast ancient necropolis in Rome, located between the Rupe di San Paolo and the bend of the Tiber River. This necropolis was purportedly the place where the apostle Paul was buried and, subsequently, the Basilica of St. Paul Outside the Walls developed nearby. The archaeological evidence in the necropolis provides insight into the changing funeral customs in the second and third centuries CE, when the predominant funeral custom was gradually shifting from cremation to inhumation.",
+  "connectsWith": [
+    "423025",
+    "390205932"
+  ],
+  "names": [
+    "Sepolcreto Ostiense"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4781056424,
+          41.8599020754
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4779001,
+              41.8593003
+            ],
+            [
+              12.4779875,
+              41.8597369
+            ],
+            [
+              12.4780084,
+              41.8598411
+            ],
+            [
+              12.4780531,
+              41.8605409
+            ],
+            [
+              12.4781262,
+              41.860456
+            ],
+            [
+              12.4782512,
+              41.8602885
+            ],
+            [
+              12.4783375,
+              41.8601669
+            ],
+            [
+              12.4783458,
+              41.8600773
+            ],
+            [
+              12.4783165,
+              41.8599279
+            ],
+            [
+              12.478232,
+              41.8596153
+            ],
+            [
+              12.4780001,
+              41.8593583
+            ],
+            [
+              12.4779303,
+              41.859281
+            ],
+            [
+              12.4779001,
+              41.8593003
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-sepolcreto-ostiense",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sepolcreto Ostiense",
+        "link": "http://pleiades.stoa.org/places/507301472/osm-location-of-sepolcreto-ostiense"
+      }
+    }
+  ]
+}

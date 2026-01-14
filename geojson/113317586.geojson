@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Fonias Tower",
+  "id": "113317586",
+  "bbox": [
+    25.6571679,
+    40.4926702,
+    25.6573664,
+    40.4928258
+  ],
+  "description": "The Tower of Fonias (meaning \"murderer\" in Greek, named after the nearby river) is located on Samothrace island's northeastern coast and has been attributed to the military activity of the Genoese Gattilusi family.",
+  "connectsWith": [
+    "501597"
+  ],
+  "names": [
+    "Pyrgos Fonia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6572671397,
+          40.492747995
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.6572801,
+            40.4928258
+          ],
+          [
+            25.6573664,
+            40.4927267
+          ],
+          [
+            25.6572541,
+            40.4926702
+          ],
+          [
+            25.6571679,
+            40.4927693
+          ],
+          [
+            25.6572801,
+            40.4928258
+          ]
+        ]
+      },
+      "id": "osm-location-fonias-tower",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Fonias Tower",
+        "link": "http://pleiades.stoa.org/places/113317586/osm-location-fonias-tower"
+      }
+    }
+  ]
+}

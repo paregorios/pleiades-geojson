@@ -8,7 +8,7 @@
     12.872401,
     41.414938
   ],
-  "description": "An ancient place, cited: BAtlas 44 C3 Clostra (Romana)",
+  "description": "Clostra (Romana) was a place in Latium along the Via Severiana. It was located 15 miles from Circei and 9 miles from Astura.",
   "connectsWith": [
     "835948519",
     "441075550",
@@ -44,7 +44,7 @@
       "id": "darmc-location-19260",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 19260",
         "link": "http://pleiades.stoa.org/places/432788/darmc-location-19260"

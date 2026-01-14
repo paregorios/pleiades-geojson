@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Amphitheater of Serdica",
+  "id": "867812307",
+  "bbox": [
+    23.3272775,
+    42.6972642,
+    23.327628,
+    42.6976446
+  ],
+  "description": "The Roman Amphitheater of Serdica was built during the third and fourth centuries CE atop remains of an earlier theater complex. The complex was abandoned by the fifth century CE. The site was rediscovered beginning in 2004.",
+  "connectsWith": [
+    "207439"
+  ],
+  "names": [
+    "Amphitheatre of Serdica"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3274623478,
+          42.6974617497
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.3276028,
+            42.6976446
+          ],
+          [
+            23.3272869,
+            42.6976138
+          ],
+          [
+            23.3272869,
+            42.6975485
+          ],
+          [
+            23.3272806,
+            42.6974939
+          ],
+          [
+            23.3272815,
+            42.6974308
+          ],
+          [
+            23.3272775,
+            42.6973758
+          ],
+          [
+            23.3272872,
+            42.6973434
+          ],
+          [
+            23.3273326,
+            42.6973252
+          ],
+          [
+            23.327389,
+            42.6973202
+          ],
+          [
+            23.3274384,
+            42.6973084
+          ],
+          [
+            23.3274934,
+            42.6972792
+          ],
+          [
+            23.3275406,
+            42.6972642
+          ],
+          [
+            23.3276061,
+            42.697268
+          ],
+          [
+            23.327628,
+            42.6972978
+          ],
+          [
+            23.327625,
+            42.6974135
+          ],
+          [
+            23.3276028,
+            42.6976446
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-amphitheatre-of-serdica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Amphitheatre of Serdica",
+        "link": "http://pleiades.stoa.org/places/867812307/osm-location-of-roman-amphitheatre-of-serdica"
+      }
+    }
+  ]
+}

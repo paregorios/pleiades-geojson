@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Taulella",
+  "id": "467960423",
+  "bbox": [
+    12.7955455,
+    41.8861092,
+    12.7958215,
+    41.8863641
+  ],
+  "description": "The ruin called Ponte Taulella was once part of the Aqua Anio Vetus aqueduct.",
+  "connectsWith": [
+    "423560"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7956834999,
+          41.8862366497
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7957537,
+            41.8863641
+          ],
+          [
+            12.7957754,
+            41.8863527
+          ],
+          [
+            12.7957996,
+            41.8863399
+          ],
+          [
+            12.7958215,
+            41.8863284
+          ],
+          [
+            12.7956133,
+            41.8861092
+          ],
+          [
+            12.7955952,
+            41.8861187
+          ],
+          [
+            12.7955708,
+            41.8861316
+          ],
+          [
+            12.7955455,
+            41.8861449
+          ],
+          [
+            12.7957537,
+            41.8863641
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-taulella",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Taulella",
+        "link": "http://pleiades.stoa.org/places/467960423/osm-location-of-ponte-taulella"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Maen Llia",
+  "id": "923661241",
+  "bbox": [
+    -3.5636846,
+    51.8608672,
+    -3.5636846,
+    51.8608672
+  ],
+  "description": "Maen Llia is a standing stone located in the Brecon Beacons, Wales.",
+  "names": [
+    "Maen Llia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5636846,
+          51.8608672
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5636846,
+          51.8608672
+        ]
+      },
+      "id": "osm-location-of-maen-llia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Maen Llia",
+        "link": "http://pleiades.stoa.org/places/923661241/osm-location-of-maen-llia"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     45.9904380078
   ],
   "description": "An ancient place, cited: BAtlas 39 H2 Stoeni?",
+  "connectsWith": [
+    "20254884"
+  ],
   "names": [
     "Stoeni"
   ],

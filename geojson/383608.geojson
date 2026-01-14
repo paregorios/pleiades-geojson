@@ -9,6 +9,9 @@
     45.974376646
   ],
   "description": "An ancient tribe located in Val Camonica during the Iron Age.",
+  "connectsWith": [
+    "20254884"
+  ],
   "names": [
     "Camunni"
   ],

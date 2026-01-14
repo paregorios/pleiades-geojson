@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus della Soglia nilotica",
+  "id": "156492455",
+  "bbox": [
+    13.1840915,
+    41.4896404,
+    13.1845318,
+    41.4901304
+  ],
+  "description": "A domus at Privernum dating to the early Imperial period and noted for its mosaic pavements.",
+  "connectsWith": [
+    "433052"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1843061085,
+          41.4898802054
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.1844516,
+            41.4901304
+          ],
+          [
+            13.1840915,
+            41.4901212
+          ],
+          [
+            13.1841134,
+            41.4896404
+          ],
+          [
+            13.1845318,
+            41.4896511
+          ],
+          [
+            13.184518,
+            41.4899531
+          ],
+          [
+            13.1844597,
+            41.4899516
+          ],
+          [
+            13.1844516,
+            41.4901304
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-della-soglia-nilotica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus della Soglia nilotica",
+        "link": "http://pleiades.stoa.org/places/156492455/osm-location-of-domus-della-soglia-nilotica"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chani Kokkonas",
+  "id": "113317585",
+  "bbox": [
+    22.5465001,
+    39.8684427,
+    22.547975,
+    39.8693505
+  ],
+  "description": "Chani Kokkonas is an archaeological site in Tempe valley, Thessaly, Greece. The excavations revealed remains of a Hellenistic complex with both ritual and workshop areas, as well as a Byzantine church and guesthouse (khan).",
+  "names": [
+    "Chani Kokkonas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5472355447,
+          39.868829365
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5473409,
+            39.8693505
+          ],
+          [
+            22.5470871,
+            39.8690749
+          ],
+          [
+            22.5468063,
+            39.8688152
+          ],
+          [
+            22.5467086,
+            39.8687379
+          ],
+          [
+            22.5465001,
+            39.8685729
+          ],
+          [
+            22.5466382,
+            39.8684753
+          ],
+          [
+            22.5467961,
+            39.8684427
+          ],
+          [
+            22.54715,
+            39.8685372
+          ],
+          [
+            22.5473679,
+            39.8686021
+          ],
+          [
+            22.5475447,
+            39.8686727
+          ],
+          [
+            22.5477324,
+            39.8687444
+          ],
+          [
+            22.547975,
+            39.8688599
+          ],
+          [
+            22.547622,
+            39.8691583
+          ],
+          [
+            22.5473409,
+            39.8693505
+          ]
+        ]
+      },
+      "id": "osm-location-khani-kokkonas",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Χάνι Κοκκώνας",
+        "link": "http://pleiades.stoa.org/places/113317585/osm-location-khani-kokkonas"
+      }
+    }
+  ]
+}
