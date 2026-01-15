@@ -3,10 +3,10 @@
   "title": "Uragh Stone Circle",
   "id": "989429710",
   "bbox": [
-    -9.6955324,
-    51.8115717,
-    -9.6955324,
-    51.8115717
+    -9.6955418,
+    51.8115074,
+    -9.6954046,
+    51.8115922
   ],
   "description": "A stone circle measuring 33 by 26 feet with 11 standing stones located near Gleninchaquin Park, Tuosist, County Kerry, Ireland.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.6955324,
-          51.8115717
+          -9.69547342324,
+          51.8115496516
         ]
       },
       "properties": {
