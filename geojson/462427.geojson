@@ -9,6 +9,9 @@
     37.954016
   ],
   "description": "An ancient place, cited: BAtlas 47 G3 Phoinix/Tamaricii/Palmae",
+  "connectsWith": [
+    "462492"
+  ],
   "names": [
     "Phoinix",
     "Tamaricii",

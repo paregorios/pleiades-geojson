@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Centuriation (Abellinum)",
   "id": "436418",
   "bbox": [
-    14.8308384,
-    40.9217072,
-    14.8316189,
-    40.9225097
+    14.8300785,
+    40.9214962,
+    14.8324013,
+    40.9233447
   ],
   "description": "An ancient place, cited: BAtlas 44 G4 unnamed centuriation (Abellinum)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.8312675189,
-          40.9220960963
+          14.8311467252,
+          40.9223285093
         ]
       },
       "properties": {

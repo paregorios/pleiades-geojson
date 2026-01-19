@@ -18,7 +18,9 @@
     "Sicily",
     "Trinacria",
     "Sizilien",
-    "Sikelía"
+    "Sikelía",
+    "Cezīre-i Ṣıḳılliye",
+    "Cezīre-i Messīne"
   ],
   "features": [
     {
@@ -26,8 +28,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0475952466,
-          37.6016918484
+          14.0466926772,
+          37.6001151235
         ]
       },
       "properties": {

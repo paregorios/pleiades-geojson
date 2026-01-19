@@ -8,11 +8,12 @@
     5.335214,
     47.864221
   ],
-  "description": "A Gallo-Roman city and capital of the Lingones",
+  "description": "A Gallo-Roman city and the capital of the Lingones.",
   "connectsWith": [
     "136661131",
     "177564",
-    "180488"
+    "180488",
+    "180479"
   ],
   "names": [
     "Andematunnum",

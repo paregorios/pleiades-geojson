@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Andesina",
   "id": "114765",
+  "bbox": [
+    -1.6415472,
+    48.3290212,
+    -1.6415472,
+    48.3290212
+  ],
   "description": "An ancient place, mentioned only in the Peutinger Map. Its modern location is not known today.",
   "names": [
     "Andesina"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6415472,
+          48.3290212
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
