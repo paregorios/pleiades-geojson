@@ -9,6 +9,9 @@
     48.604822
   ],
   "description": "An ancient place, cited: BAtlas 11 F4 Savonnières-en-Perthois",
+  "names": [
+    "Savonnières-en-Perthois"
+  ],
   "features": [
     {
       "type": "Feature",

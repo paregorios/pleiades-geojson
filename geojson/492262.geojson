@@ -3,20 +3,23 @@
   "title": "Kleidi Roman bridge (Emathia)",
   "id": "492262",
   "bbox": [
-    22.614092,
-    40.554964,
-    22.614092,
-    40.554964
+    22.6224412,
+    40.5739214,
+    22.6225993,
+    40.5741132
   ],
   "description": "An ancient place, cited: BAtlas 50 C3 unnamed bridge (Kleidi, between Methone and Thessalonica)",
+  "names": [
+    "Kleidi Roman Bridge"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.614092,
-          40.554964
+          22.62252025,
+          40.5740173
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          22.614092,
-          40.554964
+          [
+            22.6225271,
+            40.5741132
+          ],
+          [
+            22.6224412,
+            40.5739423
+          ],
+          [
+            22.6225134,
+            40.5739214
+          ],
+          [
+            22.6225993,
+            40.5740923
+          ],
+          [
+            22.6225271,
+            40.5741132
+          ]
         ]
       },
-      "id": "darmc-location-14603",
+      "id": "osm-location-of-roman-stone-bridge",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14603",
-        "link": "http://pleiades.stoa.org/places/492262/darmc-location-14603"
+        "title": "OSM location of Roman stone bridge",
+        "link": "http://pleiades.stoa.org/places/492262/osm-location-of-roman-stone-bridge"
       }
     }
   ]

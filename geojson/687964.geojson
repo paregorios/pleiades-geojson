@@ -9,6 +9,9 @@
     31.334516
   ],
   "description": "An ancient place, cited: BAtlas 70 E3 Maon/Menoeis/Castrum Moenoenum",
+  "connectsWith": [
+    "688020"
+  ],
   "names": [
     "Maon",
     "Menoeis",

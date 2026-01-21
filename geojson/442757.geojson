@@ -9,6 +9,10 @@
     40.394869
   ],
   "description": "An ancient place, cited: BAtlas 45 C4 Sala Consilina",
+  "names": [
+    "Sala Consilina",
+    "Consilinum castrum"
+  ],
   "features": [
     {
       "type": "Feature",
