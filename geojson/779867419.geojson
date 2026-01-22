@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Byzacena",
-  "id": "991345",
+  "title": "Thurnham Roman villa",
+  "id": "779867419",
   "bbox": [
-    7.5,
-    32.5,
-    7.5,
-    32.5
+    0.576638,
+    51.285114,
+    0.576638,
+    51.285114
   ],
-  "description": "Byzacena was a late Roman province in the diocese of Africa. It was located in what is now Tunisia.",
-  "names": [
-    "Byzacena"
-  ],
+  "description": "A second century Roman villa located near Thurnham, Kent, United Kingdom",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5,
-          32.5
+          0.576638,
+          51.285114
         ]
       },
       "properties": {
@@ -30,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5,
-          32.5
+          0.576638,
+          51.285114
         ]
       },
-      "id": "batlas-location",
+      "id": "dare-location-thurnham",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/991345/batlas-location"
+        "title": "DARE Location: Thurnham",
+        "link": "http://pleiades.stoa.org/places/779867419/dare-location-thurnham"
       }
     }
   ]

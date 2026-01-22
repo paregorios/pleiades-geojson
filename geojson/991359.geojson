@@ -3,10 +3,10 @@
   "title": "Apulia et Calabria",
   "id": "991359",
   "bbox": [
-    15.0,
-    40.0,
-    20.0,
-    45.0
+    15.340272,
+    40.3316858,
+    18.148703,
+    41.251421
   ],
   "description": "A Late Roman province located in southern Italy.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.5,
-          42.5
+          16.7321083009,
+          40.8655508498
         ]
       },
       "properties": {

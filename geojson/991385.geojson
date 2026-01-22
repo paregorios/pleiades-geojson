@@ -3,15 +3,12 @@
   "title": "Lydia (province)",
   "id": "991385",
   "bbox": [
-    25.0,
-    35.0,
-    30.0,
-    40.0
+    28.516575,
+    38.35,
+    28.516667,
+    38.3507471
   ],
   "description": "The Late Roman (post-Diocletianic) province of Lydia.",
-  "connectsWith": [
-    "992079"
-  ],
   "names": [
     "Lydia"
   ],
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5,
-          37.5
+          28.516621,
+          38.35037355
         ]
       },
       "properties": {

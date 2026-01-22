@@ -3,10 +3,10 @@
   "title": "Aquitania I (province)",
   "id": "991330",
   "bbox": [
-    0.0,
-    45.0,
-    5.0,
-    50.0
+    2.396563,
+    47.08221,
+    2.399168,
+    47.08286
   ],
   "description": "The Roman province of Aquitania Prima was established during the reforms of Diocletian in the late third century and assigned to the diocese of Viennensis. Avaricum Biturigum was its administrative capital.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.5,
-          47.5
+          2.3978655,
+          47.082535
         ]
       },
       "properties": {

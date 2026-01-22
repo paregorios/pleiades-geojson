@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Laodikeia Gymnasium",
+  "id": "694820257",
+  "bbox": [
+    32.3759897,
+    38.1891597,
+    32.3763064,
+    38.1894311
+  ],
+  "description": "Location based on OpenStreetMap",
+  "connectsWith": [
+    "619197"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.376146528,
+          38.1893010731
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.3761774,
+            38.1894311
+          ],
+          [
+            32.3759897,
+            38.1892631
+          ],
+          [
+            32.3761086,
+            38.1891597
+          ],
+          [
+            32.3763064,
+            38.1893616
+          ],
+          [
+            32.3761774,
+            38.1894311
+          ]
+        ]
+      },
+      "id": "osm-location-laodikeia-gymnasium",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Laodikeia Gymnasium",
+        "link": "http://pleiades.stoa.org/places/694820257/osm-location-laodikeia-gymnasium"
+      }
+    }
+  ]
+}
