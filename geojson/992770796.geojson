@@ -9,6 +9,10 @@
     37.9723279
   ],
   "description": "Pelargikon refers to a line of defensive walls located at the western foot of the Athenian Acropolis.",
+  "connectsWith": [
+    "638356144",
+    "579885"
+  ],
   "names": [
     "Pelasgikon"
   ],

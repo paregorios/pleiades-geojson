@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "title": "Western gate of Serdica",
+  "id": "583980739",
+  "bbox": [
+    23.3196066,
+    42.6983616,
+    23.3207798,
+    42.6992336
+  ],
+  "description": "Fortification at the western edge of the settlement of Serdica, constructed in the 2nd century CE and disused by the end of the 6th century CE. The site was excavated in 2011-2013 and is now an archaeological park.",
+  "connectsWith": [
+    "207439"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.320210935,
+          42.6988668281
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.3196615,
+            42.6992336
+          ],
+          [
+            23.3198646,
+            42.6991967
+          ],
+          [
+            23.3200164,
+            42.6991598
+          ],
+          [
+            23.3201181,
+            42.6991138
+          ],
+          [
+            23.3205307,
+            42.6990779
+          ],
+          [
+            23.320547,
+            42.6991242
+          ],
+          [
+            23.3206852,
+            42.6991003
+          ],
+          [
+            23.3207798,
+            42.6990847
+          ],
+          [
+            23.3207608,
+            42.6990351
+          ],
+          [
+            23.3205159,
+            42.6984379
+          ],
+          [
+            23.3205093,
+            42.6984129
+          ],
+          [
+            23.3204269,
+            42.6983616
+          ],
+          [
+            23.3200222,
+            42.6984334
+          ],
+          [
+            23.3201226,
+            42.6986778
+          ],
+          [
+            23.3200518,
+            42.6986903
+          ],
+          [
+            23.3201238,
+            42.6989152
+          ],
+          [
+            23.3199762,
+            42.6989473
+          ],
+          [
+            23.319927,
+            42.6990016
+          ],
+          [
+            23.3196066,
+            42.6990696
+          ],
+          [
+            23.3196615,
+            42.6992336
+          ]
+        ]
+      },
+      "id": "arkhieologhichieski-park-201ezapadna-porta-na",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the boundary of the Western Gate of Serdica Archaeological Park, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Археологически парк „Западна порта на Сердика“",
+        "link": "http://pleiades.stoa.org/places/583980739/arkhieologhichieski-park-201ezapadna-porta-na"
+      }
+    }
+  ]
+}
