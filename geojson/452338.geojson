@@ -9,6 +9,9 @@
     37.947209
   ],
   "description": "An ancient place, cited: BAtlas 46 D6 Hipporum",
+  "connectsWith": [
+    "452495"
+  ],
   "names": [
     "Hipporum"
   ],

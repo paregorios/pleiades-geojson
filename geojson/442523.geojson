@@ -3,12 +3,12 @@
   "title": "Cannae",
   "id": "442523",
   "bbox": [
-    16.1495451,
+    16.1495424,
     41.2951937,
     16.1543697,
     41.2989117
   ],
-  "description": "An ancient settlement of Apulia on the Aufidus river. Nearby the Roman army suffered a major defeat at the hands of the Carthaginians in 216 B.C. during the Second Punic War.",
+  "description": "An ancient settlement of Apulia on the Aufidus River. Nearby, the Roman army suffered a major defeat at the hands of the Carthaginians in 216 B.C. during the Second Punic War.",
   "connectsWith": [
     "442485"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.1518329173,
-          41.2966833635
+          16.1518327589,
+          41.296683331
         ]
       },
       "properties": {
@@ -36,6 +36,10 @@
           [
             16.1495551,
             41.2964344
+          ],
+          [
+            16.149652,
+            41.296594
           ],
           [
             16.1497983,
@@ -54,12 +58,20 @@
             41.2981996
           ],
           [
+            16.1513889,
+            41.2984015
+          ],
+          [
             16.1518247,
             41.2989117
           ],
           [
             16.1523317,
             41.2987306
+          ],
+          [
+            16.1523493,
+            41.2986863
           ],
           [
             16.1529783,
@@ -106,8 +118,8 @@
             41.295274
           ],
           [
-            16.1495451,
-            41.2961141
+            16.1495424,
+            41.2961201
           ],
           [
             16.1495551,
