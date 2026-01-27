@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Euganeae gentes",
+  "id": "20254884",
+  "description": "Euganeae gentes describes an ancient confederation of pre-Roman peoples dwelling in northeast Italy, between the Adriatic Sea and the Alps. The exact nature of this group is difficult to define. Drawing upon Cato the Elder, Pliny the Elder asserts that the Euganeae gentes were divided into three groups: the Stoeni, the Triumpilini, and the Camuni.",
+  "names": [
+    "Euganeae gentes"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

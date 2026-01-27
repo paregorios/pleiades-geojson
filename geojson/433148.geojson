@@ -9,6 +9,9 @@
     41.4312856
   ],
   "description": "An ancient place, cited: BAtlas 44 G3 Terravecchia",
+  "names": [
+    "Terravecchia"
+  ],
   "features": [
     {
       "type": "Feature",

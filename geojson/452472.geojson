@@ -3,17 +3,18 @@
   "title": "Teura",
   "id": "452472",
   "bbox": [
-    16.508303,
-    38.943288,
-    16.508303,
-    38.943288
+    16.5086089,
+    38.9473164,
+    16.5086089,
+    38.9473164
   ],
   "description": "An ancient place, cited: BAtlas 46 E4 Teura",
   "connectsWith": [
     "452473"
   ],
   "names": [
-    "Teura"
+    "Teura",
+    "Tiriolo"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.508303,
-          38.943288
+          16.5086089,
+          38.9473164
         ]
       },
       "properties": {
@@ -33,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.508303,
-          38.943288
+          16.5086089,
+          38.9473164
         ]
       },
-      "id": "location-of-triolo",
+      "id": "osm-location-tiriolo",
       "type": "Feature",
       "properties": {
-        "description": "Modern location of Tiriolo, which is associated with ancient Teura, based on a node derived from OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of modern Tiriolo",
-        "link": "http://pleiades.stoa.org/places/452472/location-of-triolo"
+        "title": "OSM location: Tiriolo",
+        "link": "http://pleiades.stoa.org/places/452472/osm-location-tiriolo"
       }
     }
   ]

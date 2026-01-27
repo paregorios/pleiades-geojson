@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kleidí",
+  "id": "584922399",
+  "bbox": [
+    21.5909155,
+    37.5298908,
+    21.5914996,
+    37.5307256
+  ],
+  "description": "An archaeological site located on a coastal hill near Samikon, Kleidi presents evidence for both prehistoric settlement and a cemetery.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5911810279,
+          37.530308642
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.5909155,
+            37.5306549
+          ],
+          [
+            21.5913138,
+            37.5307256
+          ],
+          [
+            21.5914048,
+            37.5304548
+          ],
+          [
+            21.5914996,
+            37.5300908
+          ],
+          [
+            21.5913555,
+            37.5298908
+          ],
+          [
+            21.5909212,
+            37.5300171
+          ],
+          [
+            21.5909155,
+            37.5306549
+          ]
+        ]
+      },
+      "id": "osm-location-of-kleida",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kleidí",
+        "link": "http://pleiades.stoa.org/places/584922399/osm-location-of-kleida"
+      }
+    }
+  ]
+}

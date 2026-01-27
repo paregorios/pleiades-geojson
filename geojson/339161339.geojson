@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Army camp (Eboda)",
+  "id": "339161339",
+  "bbox": [
+    34.774958,
+    30.7967015,
+    34.7761465,
+    30.7977472
+  ],
+  "description": "A Roman Army camp located on the northern side of the plateau of Avdat is generally assigned to the reign of the Roman emperor Diocletian.",
+  "connectsWith": [
+    "687887"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.77555225,
+          30.79722435
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            34.7758093,
+            30.7977472
+          ],
+          [
+            34.7761465,
+            30.7969763
+          ],
+          [
+            34.7752952,
+            30.7967015
+          ],
+          [
+            34.774958,
+            30.7974724
+          ],
+          [
+            34.7758093,
+            30.7977472
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-army-camp",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Army camp",
+        "link": "http://pleiades.stoa.org/places/339161339/osm-location-of-roman-army-camp"
+      }
+    }
+  ]
+}

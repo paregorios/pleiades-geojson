@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Samian Poseidon Sanctuary (Triphylia)",
+  "id": "584922400",
+  "bbox": [
+    21.5911791,
+    37.5304587,
+    21.5911791,
+    37.5304587
+  ],
+  "description": "A cult place of Samian Poseidon erected during the Archaic period and located near Kleidi/Kato Samikon, Ileia, Greece.",
+  "connectsWith": [
+    "584922399"
+  ],
+  "names": [
+    "Samian Poseidon sanctuary"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5911791,
+          37.5304587
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5911791,
+          37.5304587
+        ]
+      },
+      "id": "osm-location-of-iiii-iioii-i1-2i-ii-i-i-iiui1iii1",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Αρχαϊκός ναός Ποσειδώνα",
+        "link": "http://pleiades.stoa.org/places/584922400/osm-location-of-iiii-iioii-i1-2i-ii-i-i-iiui1iii1"
+      }
+    }
+  ]
+}

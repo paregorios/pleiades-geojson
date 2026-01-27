@@ -3,14 +3,17 @@
   "title": "Herakleia Sintike",
   "id": "491616",
   "bbox": [
-    23.2645345,
-    41.4496826,
-    23.2645345,
-    41.4496826
+    23.2637058,
+    41.4490344,
+    23.2669712,
+    41.4515517
   ],
   "description": "An ancient place, cited: BAtlas 50 D2 Herakleia Sintike",
   "names": [
-    "Herakleia Sintike"
+    "Herakleia Sintike",
+    "Heraclea santica",
+    "Neo Petritsi",
+    "Heraclea Sintica"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.2645345,
-          41.4496826
+          23.2655082797,
+          41.4500155484
         ]
       },
       "properties": {
@@ -28,19 +31,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.2645345,
-          41.4496826
+          [
+            23.2637512,
+            41.4490613
+          ],
+          [
+            23.2644858,
+            41.4490344
+          ],
+          [
+            23.2648753,
+            41.4490439
+          ],
+          [
+            23.2654928,
+            41.4491829
+          ],
+          [
+            23.2660108,
+            41.4493685
+          ],
+          [
+            23.26645,
+            41.4498839
+          ],
+          [
+            23.2667208,
+            41.450324
+          ],
+          [
+            23.26693,
+            41.4507525
+          ],
+          [
+            23.2669712,
+            41.4513541
+          ],
+          [
+            23.2666274,
+            41.4515517
+          ],
+          [
+            23.2664641,
+            41.4509852
+          ],
+          [
+            23.2660606,
+            41.4504326
+          ],
+          [
+            23.2651394,
+            41.4500326
+          ],
+          [
+            23.2637058,
+            41.4497785
+          ],
+          [
+            23.2637512,
+            41.4490613
+          ]
         ]
       },
-      "id": "osm-location-of-heraclea-sintica",
+      "id": "osm-location-of-heraklea-sintika",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap. Chronology following Barrington Atlas.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Heraclea Sintica",
-        "link": "http://pleiades.stoa.org/places/491616/osm-location-of-heraclea-sintica"
+        "title": "OSM location of Хераклея Синтика",
+        "link": "http://pleiades.stoa.org/places/491616/osm-location-of-heraklea-sintika"
       }
     }
   ]

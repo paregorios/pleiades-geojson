@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Acanthus (island)",
+  "id": "673781370",
+  "bbox": [
+    28.2499999,
+    40.6666672,
+    28.2499999,
+    40.6666672
+  ],
+  "description": "Acanthus is an island in the Propontis named by Pliny the Elder.",
+  "connectsWith": [
+    "511381"
+  ],
+  "names": [
+    "Acanthus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.2499999,
+          40.6666672
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

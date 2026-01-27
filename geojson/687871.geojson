@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Caphar Zacharia?",
+  "title": "Khirbet Zikhrin",
   "id": "687871",
   "bbox": [
     34.856438,
@@ -10,7 +10,8 @@
   ],
   "description": "An ancient place, cited: BAtlas 70 F2 Caphar Zacharia?",
   "names": [
-    "Caphar Zacharia"
+    "Caphar Zacharia",
+    "Ceperaria"
   ],
   "features": [
     {
