@@ -9,6 +9,10 @@
     38.32516
   ],
   "description": "An ancient place, cited: BAtlas 46 D5 S. Onofrio",
+  "names": [
+    "S. Onofrio",
+    "Roccella Ionica"
+  ],
   "features": [
     {
       "type": "Feature",

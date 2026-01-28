@@ -11,7 +11,9 @@
   "description": "An ancient place, cited: BAtlas 50 A3 Bora/Bermion M.",
   "names": [
     "Bora",
-    "Bermion M."
+    "Bermion M.",
+    "Bora mons",
+    "Bermion oros"
   ],
   "features": [
     {
@@ -35,13 +37,13 @@
           40.525805
         ]
       },
-      "id": "location-of-bora-bermion-m",
+      "id": "imagery-location-of-bora-bermion-m",
       "type": "Feature",
       "properties": {
         "description": "verified in Google Earth 2013.",
         "location_precision": "precise",
-        "title": "location of Bora/Bermion M.",
-        "link": "http://pleiades.stoa.org/places/491551/location-of-bora-bermion-m"
+        "title": "Imagery location of Bora/Bermion M.",
+        "link": "http://pleiades.stoa.org/places/491551/imagery-location-of-bora-bermion-m"
       }
     }
   ]

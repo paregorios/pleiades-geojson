@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus of Salvius",
+  "id": "285658925",
+  "bbox": [
+    -0.9808463,
+    37.6023047,
+    -0.9804211,
+    37.6026985
+  ],
+  "description": "A well-appointed domus of the first century CE located on the Molinete hill in Cartagena, Spain.",
+  "connectsWith": [
+    "265849"
+  ],
+  "names": [
+    "Domus of Salvius"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.980633766241,
+          37.6025016065
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.9808463,
+            37.6026448
+          ],
+          [
+            -0.980503,
+            37.6023047
+          ],
+          [
+            -0.9804211,
+            37.6023592
+          ],
+          [
+            -0.9807655,
+            37.6026985
+          ],
+          [
+            -0.9808463,
+            37.6026448
+          ]
+        ]
+      },
+      "id": "osm-location-of-casa-de-salvius",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Casa de Salvius",
+        "link": "http://pleiades.stoa.org/places/285658925/osm-location-of-casa-de-salvius"
+      }
+    }
+  ]
+}

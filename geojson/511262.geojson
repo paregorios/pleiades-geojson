@@ -3,10 +3,10 @@
   "title": "Halone (settlement)",
   "id": "511262",
   "bbox": [
-    27.608878,
-    40.48942,
-    27.608878,
-    40.48942
+    27.607365,
+    40.489517,
+    27.607365,
+    40.489517
   ],
   "description": "An ancient place, cited: BAtlas 52 B4 Halone",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.608878,
-          40.48942
+          27.607365,
+          40.489517
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.608878,
-          40.48942
+          27.607365,
+          40.489517
         ]
       },
-      "id": "darmc-location-24230",
+      "id": "osm-location-of-paaalimana",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24230",
-        "link": "http://pleiades.stoa.org/places/511262/darmc-location-24230"
+        "title": "OSM location of Paşalimanı",
+        "link": "http://pleiades.stoa.org/places/511262/osm-location-of-paaalimana"
       }
     }
   ]

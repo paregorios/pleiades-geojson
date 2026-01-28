@@ -9,6 +9,9 @@
     39.191342
   ],
   "description": "An ancient place, cited: BAtlas 46 F3 Rocca di Neto",
+  "names": [
+    "Rocca di Neto"
+  ],
   "features": [
     {
       "type": "Feature",

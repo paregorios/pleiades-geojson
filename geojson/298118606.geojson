@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Los Nietos Iberian settlement",
+  "id": "298118606",
+  "bbox": [
+    -0.7744972,
+    37.6481486,
+    -0.7744972,
+    37.6481486
+  ],
+  "description": "Iberian settlement of La Loma del Escorial and necropolis of Los Nietos (Cartagena, Murcia, SPAIN).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7744972,
+          37.6481486
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7744972,
+          37.6481486
+        ]
+      },
+      "id": "osm-location-poblado-iberico-de-la-loma-del-escorial",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Poblado ibérico de La Loma del Escorial",
+        "link": "http://pleiades.stoa.org/places/298118606/osm-location-poblado-iberico-de-la-loma-del-escorial"
+      }
+    }
+  ]
+}
