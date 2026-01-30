@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Aquae Bormonis?",
+  "title": "Aquae Bormonis",
   "id": "177443",
   "bbox": [
     3.767939,
@@ -10,7 +10,9 @@
   ],
   "description": "An ancient place, cited: BAtlas 18 A3 Aquae Bormonis?",
   "names": [
-    "Aquae Bormonis"
+    "Aquae Bormonis",
+    "Aquis Bormonis",
+    "Bourbon-Lancy"
   ],
   "features": [
     {
@@ -37,7 +39,7 @@
       "id": "darmc-location-23724",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 23724",
         "link": "http://pleiades.stoa.org/places/177443/darmc-location-23724"

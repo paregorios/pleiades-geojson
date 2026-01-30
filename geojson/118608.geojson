@@ -9,6 +9,9 @@
     51.090008
   ],
   "description": "An ancient place, cited: BAtlas 12 F1 Bornitz",
+  "names": [
+    "Bornitz"
+  ],
   "features": [
     {
       "type": "Feature",

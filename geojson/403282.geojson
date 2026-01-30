@@ -9,6 +9,9 @@
     43.382405
   ],
   "description": "An ancient place, cited: BAtlas 41 D3 Terriccio",
+  "names": [
+    "Terriccio"
+  ],
   "features": [
     {
       "type": "Feature",

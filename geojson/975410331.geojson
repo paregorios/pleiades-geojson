@@ -3,10 +3,10 @@
   "title": "Casiana",
   "id": "975410331",
   "bbox": [
-    36.402509,
-    35.422241,
-    36.41044,
-    35.429283
+    36.3928431,
+    35.4109061,
+    36.41089,
+    35.4304101
   ],
   "description": "A fortress (phrourion) and settlement near Apamea on the Orontes river. The precise location is unknown today.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.4064745,
-          35.425762
+          36.4021911681,
+          35.4206301402
         ]
       },
       "properties": {

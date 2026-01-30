@@ -34,13 +34,13 @@
           55.00699
         ]
       },
-      "id": "center-point-of-the-ancient-site",
+      "id": "published-location-center-point-of-the-ancient-site",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the ancient site",
-        "link": "http://pleiades.stoa.org/places/967060426/center-point-of-the-ancient-site"
+        "title": "Published Location: Center point of the ancient site",
+        "link": "http://pleiades.stoa.org/places/967060426/published-location-center-point-of-the-ancient-site"
       }
     }
   ]

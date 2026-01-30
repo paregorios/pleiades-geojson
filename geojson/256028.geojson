@@ -9,6 +9,9 @@
     38.933223
   ],
   "description": "An ancient place, cited: BAtlas 26 F3 El Borracho",
+  "names": [
+    "El Borracho"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
   "title": "Harpole Roman villa",
-  "id": "79503",
+  "id": "438961574",
   "bbox": [
-    -0.99167,
-    52.25268,
-    -0.99167,
-    52.25268
+    -1.00017,
+    52.23306,
+    -1.00017,
+    52.23306
   ],
-  "description": "Roman villa dating to the fourth century CE, north of Road Hill Farm and excavated in 1846.",
+  "description": "A Roman villa north of Panattoni Park and adjacent to Junction 16 of the M1 motorway, excavated in the 1840s and in 1966.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.99167,
-          52.25268
+          -1.00017,
+          52.23306
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.99167,
-          52.25268
+          -1.00017,
+          52.23306
         ]
       },
       "id": "dare-location-harpole",
@@ -37,7 +37,7 @@
         "description": null,
         "location_precision": "precise",
         "title": "DARE location: Harpole",
-        "link": "http://pleiades.stoa.org/places/79503/dare-location-harpole"
+        "link": "http://pleiades.stoa.org/places/438961574/dare-location-harpole"
       }
     }
   ]

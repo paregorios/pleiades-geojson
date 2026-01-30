@@ -3,10 +3,10 @@
   "title": "Pont de Bornègre",
   "id": "244926839",
   "bbox": [
-    4.4760982,
-    43.9837547,
-    4.4760982,
-    43.9837547
+    4.4757544,
+    43.9837987,
+    4.4759239,
+    43.9838094
   ],
   "description": "A Roman aqueduct bridge connected to the Roman aqueduct of Nîmes.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4760982,
-          43.9837547
+          4.47583915,
+          43.98380405
         ]
       },
       "properties": {
@@ -28,19 +28,25 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.4760982,
-          43.9837547
+          [
+            4.4759239,
+            43.9838094
+          ],
+          [
+            4.4757544,
+            43.9837987
+          ]
         ]
       },
-      "id": "location-of-ponte-de-bornegre",
+      "id": "osm-location-pont-de-bornegre",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ponte de Bornegre",
-        "link": "http://pleiades.stoa.org/places/244926839/location-of-ponte-de-bornegre"
+        "title": "OSM location: Pont de Bornegre",
+        "link": "http://pleiades.stoa.org/places/244926839/osm-location-pont-de-bornegre"
       }
     }
   ]

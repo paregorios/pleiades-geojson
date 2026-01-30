@@ -3,8 +3,8 @@
   "title": "Apamea/Kelainai/Kibotos",
   "id": "638751",
   "bbox": [
-    30.1635717,
-    38.0664374,
+    30.169019,
+    38.0665771,
     30.173857,
     38.073196
   ],
@@ -21,29 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.168904363,
-          38.06836713
+          30.1716213761,
+          38.07007556
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.168803,
-          38.06688
-        ]
-      },
-      "id": "darmc-location-2",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 2",
-        "link": "http://pleiades.stoa.org/places/638751/darmc-location-2"
       }
     },
     {
@@ -61,23 +44,6 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/638751/dare-location"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.1635717,
-          38.0664374
-        ]
-      },
-      "id": "dinar",
-      "type": "Feature",
-      "properties": {
-        "description": "Location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of modern Dinar",
-        "link": "http://pleiades.stoa.org/places/638751/dinar"
       }
     },
     {
@@ -125,9 +91,9 @@
       "id": "osm-way-190775244",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap; Excavation site of the ancient city of Apamea in Phrygia. ",
+        "description": "Location based on OpenStreetMap; Excavation site of the ancient city of Apamea in Phrygia.",
         "location_precision": "precise",
-        "title": "location of archaeological area at Dinar, Turkey",
+        "title": "OSM location of archaeological area at Dinar, Turkey",
         "link": "http://pleiades.stoa.org/places/638751/osm-way-190775244"
       }
     }

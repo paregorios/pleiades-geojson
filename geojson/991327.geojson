@@ -3,12 +3,12 @@
   "title": "Carthaginiensis",
   "id": "991327",
   "bbox": [
-    -5.0,
-    35.0,
-    0.0,
-    40.0
+    -0.991387,
+    37.599896,
+    -0.98452,
+    37.605678
   ],
-  "description": "Carthaginiensis (also referred to as Hispania Carthaginiensis) is a province of the later Roman Empire. Diocletian fashioned it in 298 CE by reorganizing Hispania Tarraconensis.\r\n\r\n",
+  "description": "Carthaginiensis (also referred to as Hispania Carthaginiensis) is a province of the later Roman Empire. Diocletian fashioned it in 298 CE by reorganizing Hispania Tarraconensis.",
   "names": [
     "Carthaginiensis"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.5,
-          37.5
+          -0.9879535,
+          37.602787
         ]
       },
       "properties": {
