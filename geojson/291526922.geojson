@@ -3,10 +3,10 @@
   "title": "Ponte Camillario",
   "id": "291526922",
   "bbox": [
-    12.0687545,
-    42.4149083,
-    12.0687545,
-    42.4149083
+    12.0687781,
+    42.4149058,
+    12.0687781,
+    42.4149058
   ],
   "description": "A Roman bridge on the Via Cassia.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0687545,
-          42.4149083
+          12.0687781,
+          42.4149058
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0687545,
-          42.4149083
+          12.0687781,
+          42.4149058
         ]
       },
       "id": "osm-location-of-ponte-camillario",
