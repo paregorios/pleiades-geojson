@@ -3,10 +3,10 @@
   "title": "Visentium",
   "id": "413386",
   "bbox": [
-    11.8747667,
-    42.5740676,
-    11.8747667,
-    42.5740676
+    11.8740046,
+    42.5734232,
+    11.8740046,
+    42.5734232
   ],
   "description": "Visentium (Bisenzio) was an Etruscan settlement located on the shores of Lago di Bolsena. The site has yielded especially important evidence for Iron Age and Etruscan period burials.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8747667,
-          42.5740676
+          11.8740046,
+          42.5734232
         ]
       },
       "properties": {
@@ -34,8 +34,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8747667,
-          42.5740676
+          11.8740046,
+          42.5734232
         ]
       },
       "id": "location-of-visentium",

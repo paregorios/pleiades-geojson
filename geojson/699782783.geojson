@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Italia, Regio VII",
   "id": "699782783",
+  "bbox": [
+    12.390519,
+    42.001046,
+    12.4925,
+    42.021338
+  ],
   "description": "One of the administrative regions from Augustus's division of Italy, comprising Etruria. Described by Pliny the Elder in Book III of his Natural History.",
   "connectsWith": [
     "413122"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.44119075,
+          42.011625
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

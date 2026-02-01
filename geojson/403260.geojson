@@ -8,9 +8,10 @@
     11.204401,
     42.39508
   ],
-  "description": "Portus Herculis is located on the eastern side of the Monte Argentario peninsula, about 40 km south-east of Grosseto and about 7 km south-west of Orbetello. and about 12 km from Porto Santo Stefano. The site is in use as a port in the Etruscan, Roman, and Late Antique phases of occupation. It is included on the Peutinger map and in the Itinerarium Maritimum.",
+  "description": "Portus Herculis is located on the eastern side of the Monte Argentario peninsula, about 40 km south-east of Grosseto and about 7 km south-west of Orbetello. and about 12 km from Porto Santo Stefano. The site was in use as a port during the Etruscan, Roman, and Late Antique phases of occupation. It is included on the Peutinger map and in the Itinerarium Maritimum.",
   "connectsWith": [
-    "403179"
+    "403179",
+    "699782783"
   ],
   "names": [
     "Portus Herculis"

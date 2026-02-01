@@ -3,10 +3,10 @@
   "title": "Porta Palatina",
   "id": "866917580",
   "bbox": [
-    7.6847552,
-    45.0749592,
-    7.6847552,
-    45.0749592
+    7.6847817,
+    45.074956,
+    7.6847817,
+    45.074956
   ],
   "description": "A surviving turreted gateway of the Roman circuit wall of Augusta Taurinorum.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6847552,
-          45.0749592
+          7.6847817,
+          45.074956
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6847552,
-          45.0749592
+          7.6847817,
+          45.074956
         ]
       },
       "id": "location-of-porta-palatina",
