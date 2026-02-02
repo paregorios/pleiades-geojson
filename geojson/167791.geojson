@@ -9,6 +9,9 @@
     45.389319
   ],
   "description": "An ancient place, cited: BAtlas 17 B3 Icidmago",
+  "connectsWith": [
+    "171410"
+  ],
   "names": [
     "Icidmago"
   ],
