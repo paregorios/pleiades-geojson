@@ -3,10 +3,10 @@
   "title": "Fufluna/Populonium",
   "id": "403212",
   "bbox": [
-    10.4896148,
+    10.488999,
     42.987762,
-    10.490492,
-    42.988948
+    10.4903315,
+    42.9885941
   ],
   "description": "Populonia likely derives its name from the Etruscan god 'Fufluns' and was an important maritime and commercial center of Etruria located in the Colline Metallifere.",
   "connectsWith": [
@@ -17,7 +17,8 @@
     "Populonium",
     "Populonia",
     "Poplṓnion",
-    "Populonenses"
+    "Populonenses",
+    "Populonio"
   ],
   "features": [
     {
@@ -25,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4900009131,
-          42.9883813521
+          10.4896465247,
+          42.9882438975
         ]
       },
       "properties": {
@@ -35,67 +36,101 @@
     },
     {
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.490492,
-          42.988948
-        ]
-      },
-      "id": "darmc-location-985",
-      "type": "Feature",
-      "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 985",
-        "link": "http://pleiades.stoa.org/places/403212/darmc-location-985"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.489679,
-          42.988066
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/403212/dare-location"
-      }
-    },
-    {
-      "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [
-            10.4901492,
-            42.9882939
+            [
+              10.4893636,
+              42.9885154
+            ],
+            [
+              10.4895215,
+              42.9884666
+            ],
+            [
+              10.4896288,
+              42.9884685
+            ],
+            [
+              10.4897012,
+              42.9884764
+            ],
+            [
+              10.4897549,
+              42.9885078
+            ],
+            [
+              10.4900258,
+              42.9885902
+            ],
+            [
+              10.4901036,
+              42.9885568
+            ],
+            [
+              10.490184,
+              42.9885941
+            ]
           ],
           [
-            10.489893,
-            42.9883459
+            [
+              10.4896148,
+              42.987762
+            ],
+            [
+              10.488999,
+              42.9879825
+            ],
+            [
+              10.4890658,
+              42.9882036
+            ],
+            [
+              10.4893636,
+              42.9885154
+            ]
           ],
           [
-            10.4897415,
-            42.9880212
+            [
+              10.4901492,
+              42.9882939
+            ],
+            [
+              10.489893,
+              42.9883459
+            ],
+            [
+              10.4897415,
+              42.9880212
+            ],
+            [
+              10.4896148,
+              42.987762
+            ]
           ],
           [
-            10.4896148,
-            42.987762
+            [
+              10.490184,
+              42.9885941
+            ],
+            [
+              10.4903315,
+              42.9884725
+            ],
+            [
+              10.4901492,
+              42.9882939
+            ]
           ]
         ]
       },
-      "id": "osm-location-of-populonia-archaeological-area",
+      "id": "osm-location-of-populonia",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Populonia (archaeological area)",
-        "link": "http://pleiades.stoa.org/places/403212/osm-location-of-populonia-archaeological-area"
+        "title": "OSM location of Populonia",
+        "link": "http://pleiades.stoa.org/places/403212/osm-location-of-populonia"
       }
     }
   ]

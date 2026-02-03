@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Fundus Seneciosus?",
+  "id": "904400348",
+  "description": "The Fundus Seneciosus was located near Mastar (Ibn Ziad) (Algeria).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

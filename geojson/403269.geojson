@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Salebro?",
+  "title": "Salebro",
   "id": "403269",
   "bbox": [
     10.882348,
@@ -13,7 +13,9 @@
     "403263"
   ],
   "names": [
-    "Salebro"
+    "Salebro",
+    "Saleborna",
+    "Castiglione della Pescaia"
   ],
   "features": [
     {

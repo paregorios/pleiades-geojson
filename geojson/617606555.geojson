@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pagus Catillinus",
+  "id": "617606555",
+  "description": "The Catillinus pagus was located in the area of ​​Beneventum and is included in the Alimentary table of Ligures Baebiani.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
