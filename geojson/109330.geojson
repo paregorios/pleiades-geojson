@@ -3,10 +3,10 @@
   "title": "Aquae Segetae",
   "id": "109330",
   "bbox": [
-    2.6217305,
-    48.1153774,
-    2.6227127,
-    48.1155511
+    2.6218946,
+    48.1151395,
+    2.6239187,
+    48.1158064
   ],
   "description": "An ancient settlement at modern Sceaux-du-Gâtinais in France (BAtlas 11 C4 Sceaux-du-Gâtinais)",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.6222216,
-          48.11546425
+          2.62280640866,
+          48.1154269279
         ]
       },
       "properties": {

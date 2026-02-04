@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell al-Mashhad",
+  "id": "875303419",
+  "bbox": [
+    35.73796,
+    31.77672,
+    35.73796,
+    31.77672
+  ],
+  "description": "Archaeological site in Jordan, located approximately 10 km northwest of Madaba. The site shows signs of primary occupation during the Iron Age II (900-600 BCE).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73796,
+          31.77672
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73796,
+          31.77672
+        ]
+      },
+      "id": "google-earth-location-of-tell-al-mashhad",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the approximate center point of the visible remains at Tell al-Mashhad; coordinate location specified in Benedettucci 2022.",
+        "location_precision": "precise",
+        "title": "Google Earth location of Tell al-Mashhad",
+        "link": "http://pleiades.stoa.org/places/875303419/google-earth-location-of-tell-al-mashhad"
+      }
+    }
+  ]
+}
