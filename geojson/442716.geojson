@@ -9,6 +9,9 @@
     40.930023
   ],
   "description": "Archaeological excavations conducted at the locality known as Piano dei Tivoli revealed, by means of numerous fragments of architectural terracottas, a sanctuary of the Hellenistic period. There is also evidence of settlement during the fifth and fourth centuries BCE.",
+  "names": [
+    "Piano dei Tivoli"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,9 +3,9 @@
   "title": "Villa Sora",
   "id": "549181140",
   "bbox": [
-    14.3742822,
-    40.7786534,
-    14.3742822,
+    14.3739523,
+    40.7780908,
+    14.3747194,
     40.7786534
   ],
   "description": "A coastal villa in the 'contrada Sora' area of Torre del Greco, a district with a great many archaeological remains.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.3742822,
-          40.7786534
+          14.3743361186,
+          40.7783713287
         ]
       },
       "properties": {

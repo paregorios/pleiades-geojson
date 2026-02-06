@@ -9,6 +9,9 @@
     41.45724
   ],
   "description": "Archaeological excavations on the area of the summit of Monte Saraceno have documented the remains of an imposing, fortified high-altitude settlement which has a second walled area within it.",
+  "names": [
+    "Monte Saraceno di Cercemaggiore"
+  ],
   "features": [
     {
       "type": "Feature",

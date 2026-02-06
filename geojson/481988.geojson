@@ -3,20 +3,23 @@
   "title": "Selcë e Poshtme",
   "id": "481988",
   "bbox": [
-    20.0,
-    41.0,
-    21.0,
-    42.0
+    20.5251827,
+    40.9920138,
+    20.5251827,
+    40.9920138
   ],
   "description": "An ancient place, cited: BAtlas 49 C2 Selcë e Poshtme",
+  "names": [
+    "Selcë e Poshtme"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.5,
-          41.5
+          20.5251827,
+          40.9920138
         ]
       },
       "properties": {
@@ -25,39 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              20.0,
-              41.0
-            ],
-            [
-              20.0,
-              42.0
-            ],
-            [
-              21.0,
-              42.0
-            ],
-            [
-              21.0,
-              41.0
-            ],
-            [
-              20.0,
-              41.0
-            ]
-          ]
+          20.5251827,
+          40.9920138
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-of-selca-e-poshtme",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/481988/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Selcë e Poshtme",
+        "link": "http://pleiades.stoa.org/places/481988/osm-location-of-selca-e-poshtme"
       }
     }
   ]

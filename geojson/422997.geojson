@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Pedum?",
+  "title": "Pedum",
   "id": "422997",
   "bbox": [
     12.7361671,
@@ -8,9 +8,10 @@
     12.7361671,
     41.9078779
   ],
-  "description": "The Barrington Atlas Directory indicates that this place called Pedum? should correspond to the modern Corcolle in Lazio, Italy.",
+  "description": "The Barrington Atlas Directory indicates that an ancient place called Pedum could correspond to the modern Corcolle in Lazio, Italy.",
   "names": [
-    "Pedum"
+    "Pedum",
+    "Corcolle"
   ],
   "features": [
     {

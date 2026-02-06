@@ -4,9 +4,9 @@
   "id": "756574",
   "bbox": [
     30.8033682143,
-    27.777989,
-    30.803793,
-    27.7812514987
+    27.7810704,
+    30.8045986,
+    27.7818559
   ],
   "description": "The capital city of the Hermopolite nome (the fifteenth Nome of Upper Egypt). The ancient Egyptians called the site Khmun after the group of eight divinities (Ogdoad) that represented the primordial world.",
   "connectsWith": [
@@ -17,7 +17,8 @@
     "Schmun",
     "Hermou polis",
     "Achmounein",
-    "Uşmūneyn"
+    "Uşmūneyn",
+    "oppidum Mercuri"
   ],
   "features": [
     {
@@ -25,29 +26,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.8035806072,
-          27.7796202493
+          30.8037580511,
+          27.7813573345
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.803793,
-          27.777989
-        ]
-      },
-      "id": "darmc-location-12750",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 12750",
-        "link": "http://pleiades.stoa.org/places/756574/darmc-location-12750"
       }
     },
     {
@@ -65,6 +49,41 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/756574/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.8044386,
+            27.7818559
+          ],
+          [
+            30.8045986,
+            27.7812155
+          ],
+          [
+            30.8038572,
+            27.7810704
+          ],
+          [
+            30.8036972,
+            27.7817109
+          ],
+          [
+            30.8044386,
+            27.7818559
+          ]
+        ]
+      },
+      "id": "osm-location-of-hermopolis-magna",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hermopolis Magna",
+        "link": "http://pleiades.stoa.org/places/756574/osm-location-of-hermopolis-magna"
       }
     }
   ]

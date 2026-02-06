@@ -3,10 +3,10 @@
   "title": "Kalaba(n)tia",
   "id": "638888",
   "bbox": [
-    29.123927,
-    36.442423,
-    29.123927,
-    36.442423
+    29.13443,
+    36.4293695,
+    29.13443,
+    36.4293695
   ],
   "description": "An ancient place, cited: BAtlas 65 B5 Kalaba(n)tia",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.123927,
-          36.442423
+          29.13443,
+          36.4293695
         ]
       },
       "properties": {
@@ -31,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.123927,
-          36.442423
+          29.13443,
+          36.4293695
         ]
       },
-      "id": "darmc-location-1386",
+      "id": "osm-location-of-kalabantia",
       "type": "Feature",
       "properties": {
-        "description": "TIB point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 1386",
-        "link": "http://pleiades.stoa.org/places/638888/darmc-location-1386"
+        "title": "OSM location of Kalabantia",
+        "link": "http://pleiades.stoa.org/places/638888/osm-location-of-kalabantia"
       }
     }
   ]

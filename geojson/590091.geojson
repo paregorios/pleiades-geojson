@@ -3,14 +3,17 @@
   "title": "Vlithias",
   "id": "590091",
   "bbox": [
-    23.695221,
-    35.279016,
-    23.695221,
-    35.279016
+    23.6902804,
+    35.2795934,
+    23.6902804,
+    35.2795934
   ],
   "description": "An ancient place, cited: BAtlas 60 A2 Vlithias",
   "connectsWith": [
     "589748"
+  ],
+  "names": [
+    "Vlithias"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.695221,
-          35.279016
+          23.6902804,
+          35.2795934
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.695221,
-          35.279016
+          23.6902804,
+          35.2795934
         ]
       },
-      "id": "darmc-location-25405",
+      "id": "osm-location-of-vlithias",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 25405",
-        "link": "http://pleiades.stoa.org/places/590091/darmc-location-25405"
+        "title": "OSM location of Vlithias",
+        "link": "http://pleiades.stoa.org/places/590091/osm-location-of-vlithias"
       }
     }
   ]

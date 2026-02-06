@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Derris Pr.",
+  "title": "Derris (promontory)",
   "id": "501398",
   "bbox": [
     23.930431,
@@ -10,7 +10,8 @@
   ],
   "description": "Cape at the southern end of Sithonia opposite Cape Canastraeum on Pallene.",
   "names": [
-    "Derris Promontorium"
+    "Derris Promontorium",
+    "Cape Ambelos"
   ],
   "features": [
     {

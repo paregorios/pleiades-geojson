@@ -9,6 +9,10 @@
     55.013788
   ],
   "description": "Turret 36B (Housesteads) was a turret on Hadrian's Wall. Its archaeological remains lie within the footprint of Housesteads Roman Fort. When the fort was built, the turret was demolished. Its foundations remain in situ.",
+  "connectsWith": [
+    "91358",
+    "89311"
+  ],
   "names": [
     "Turret 36B (Housesteads)"
   ],
