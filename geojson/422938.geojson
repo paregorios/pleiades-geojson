@@ -9,6 +9,10 @@
     41.923931
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Grotta di Paris",
+  "names": [
+    "Grotta di Paris",
+    "Nymphaeum of Paris"
+  ],
   "features": [
     {
       "type": "Feature",

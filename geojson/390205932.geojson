@@ -10,7 +10,8 @@
   ],
   "description": "An ancient road running from Rome to Ostia, exiting the city walls of Rome at the Porta Trigemina.",
   "names": [
-    "Via Ostiensis"
+    "Via Ostiensis",
+    "Via Hostensis"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4107066902,
-          41.8143371443
+          12.4180123823,
+          41.8185252601
         ]
       },
       "properties": {

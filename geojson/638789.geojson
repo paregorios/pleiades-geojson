@@ -4,8 +4,8 @@
   "id": "638789",
   "bbox": [
     29.581139,
-    36.95522,
-    29.581139,
+    36.9500627,
+    29.5834805,
     36.95522
   ],
   "description": "An ancient place, cited: BAtlas 65 C4 Balboura",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.581139,
-          36.95522
+          29.58230975,
+          36.95264135
         ]
       },
       "properties": {
@@ -44,6 +44,23 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/638789/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.5834805,
+          36.9500627
+        ]
+      },
+      "id": "osm-location-of-balbura",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Balbura",
+        "link": "http://pleiades.stoa.org/places/638789/osm-location-of-balbura"
       }
     }
   ]

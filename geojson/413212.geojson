@@ -9,6 +9,9 @@
     42.135404
   ],
   "description": "An ancient place, cited: BAtlas 42 D4 Montelibretti",
+  "names": [
+    "Montelibretti"
+  ],
   "features": [
     {
       "type": "Feature",

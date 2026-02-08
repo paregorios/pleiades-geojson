@@ -3,10 +3,10 @@
   "title": "Dardania (province)",
   "id": "991367",
   "bbox": [
-    20.0,
-    40.0,
-    25.0,
-    45.0
+    21.893884,
+    43.316295,
+    21.893884,
+    43.316295
   ],
   "description": "Dardania was a Roman province located in the Central Balkans. First a region of Moesia, Dardania was made a part of the Diocese of Moesia in 293.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.5,
-          42.5
+          21.893884,
+          43.316295
         ]
       },
       "properties": {
