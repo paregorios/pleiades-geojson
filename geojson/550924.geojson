@@ -5,8 +5,8 @@
   "bbox": [
     27.8357681,
     38.9197091,
-    27.8366182,
-    38.9206405
+    27.8366102,
+    38.9202941
   ],
   "description": "An ancient settlement of Asia Minor, located at modern Akhisar in Turkey. Visible remains today are limited; they include the archaeological area of Tepe Mezarı in the center of the modern town.",
   "connectsWith": [
@@ -25,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.8362160032,
-          38.9201519892
+          27.8362090649,
+          38.9199990642
         ]
       },
       "properties": {
@@ -46,16 +46,12 @@
             38.9198094
           ],
           [
-            27.8359069,
-            38.9206405
+            27.8358452,
+            38.9202941
           ],
           [
-            27.8364749,
-            38.9205585
-          ],
-          [
-            27.8366182,
-            38.9204699
+            27.8366102,
+            38.9202132
           ],
           [
             27.8366069,
