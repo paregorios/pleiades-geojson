@@ -9,6 +9,10 @@
     37.5616804
   ],
   "description": "An ancient place, cited: BAtlas 98 C1 Margus fl.",
+  "connectsWith": [
+    "971705",
+    "60717"
+  ],
   "names": [
     "Margus"
   ],

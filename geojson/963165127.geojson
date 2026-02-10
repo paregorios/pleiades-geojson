@@ -3,10 +3,10 @@
   "title": "Via Veientana",
   "id": "963165127",
   "bbox": [
-    12.444362,
-    41.9747981,
-    12.444362,
-    41.9747981
+    12.390519,
+    41.9612864,
+    12.4912662,
+    42.021338
   ],
   "description": "The ancient Via Veientana led from Etruscan Veii to the Tiber river.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.444362,
-          41.9747981
+          12.4433446956,
+          41.9844107603
         ]
       },
       "properties": {

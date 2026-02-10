@@ -8,9 +8,10 @@
     13.923,
     41.171
   ],
-  "description": "Vescia was a city of the Ausones that is now unlocated. It became involved in the Latin War and Rome destroyed the city in 314 B.C.",
+  "description": "Vescia was a city of the Ausones that is now unlocated. It became involved in the Latin War, and Rome destroyed the city in 314 B.C.",
   "connectsWith": [
-    "432931"
+    "432931",
+    "433004"
   ],
   "names": [
     "Vescia"

@@ -3,10 +3,10 @@
   "title": "tribus Sabatina",
   "id": "910605204",
   "bbox": [
-    11.8747667,
-    41.891775,
-    12.486137,
-    42.5740676
+    11.8740046,
+    42.5734232,
+    11.8740046,
+    42.5734232
   ],
   "description": "The tribus Sabatina (or Sabatia) was a later rural tribe of ancient Rome, which was established in 387 B.C.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8747667,
-          42.5740676
+          11.8740046,
+          42.5734232
         ]
       },
       "properties": {
