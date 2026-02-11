@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Withdrawn: Roccamonfina (volcano)",
+  "id": "972010344",
+  "bbox": [
+    13.9709005,
+    41.296522,
+    13.9709005,
+    41.296522
+  ],
+  "description": "Unintentional duplicate of https://pleiades.stoa.org/places/433077",
+  "names": [
+    "Roccamonfina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9709005,
+          41.296522
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9709005,
+          41.296522
+        ]
+      },
+      "id": "osm-location-of-roccamonfina",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roccamonfina",
+        "link": "http://pleiades.stoa.org/errata/972010344/osm-location-of-roccamonfina"
+      }
+    }
+  ]
+}
