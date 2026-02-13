@@ -9,6 +9,9 @@
     49.952973
   ],
   "description": "An ancient place, cited: BAtlas 11 C3 La Chaussée-Tirancourt",
+  "names": [
+    "La Chaussée-Tirancourt"
+  ],
   "features": [
     {
       "type": "Feature",

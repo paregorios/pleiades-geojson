@@ -3,24 +3,134 @@
   "title": "Sasbach-Sponeck",
   "id": "109325",
   "bbox": [
-    7.584382,
-    48.113789,
-    7.584382,
-    48.113789
+    7.5842096,
+    48.1134794,
+    7.5844107,
+    48.1138475
   ],
   "description": "An ancient place, cited: BAtlas 11 H4 Sasbach-Sponeck",
+  "names": [
+    "Sasbach-Sponeck"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.584382,
-          48.113789
+          7.58434412039,
+          48.11373235
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.5843471,
+            48.1138475
+          ],
+          [
+            7.5844107,
+            48.1138289
+          ],
+          [
+            7.5843647,
+            48.1137634
+          ],
+          [
+            7.5843374,
+            48.113769
+          ],
+          [
+            7.5842641,
+            48.1135332
+          ],
+          [
+            7.5842823,
+            48.113521
+          ],
+          [
+            7.5842865,
+            48.1135101
+          ],
+          [
+            7.5842853,
+            48.1134972
+          ],
+          [
+            7.584272,
+            48.1134838
+          ],
+          [
+            7.5842586,
+            48.1134798
+          ],
+          [
+            7.5842435,
+            48.1134794
+          ],
+          [
+            7.5842217,
+            48.1134859
+          ],
+          [
+            7.5842138,
+            48.1134952
+          ],
+          [
+            7.5842096,
+            48.1135049
+          ],
+          [
+            7.5842108,
+            48.113515
+          ],
+          [
+            7.5842181,
+            48.1135215
+          ],
+          [
+            7.5842326,
+            48.1135304
+          ],
+          [
+            7.5842429,
+            48.113534
+          ],
+          [
+            7.5843186,
+            48.1137929
+          ],
+          [
+            7.584352,
+            48.1137828
+          ],
+          [
+            7.5843786,
+            48.113822
+          ],
+          [
+            7.5843392,
+            48.1138333
+          ],
+          [
+            7.5843471,
+            48.1138475
+          ]
+        ]
+      },
+      "id": "osm-location-of-kastell-sasbach-jechtingen",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Kastell Sasbach-Jechtingen",
+        "link": "http://pleiades.stoa.org/places/109325/osm-location-of-kastell-sasbach-jechtingen"
       }
     },
     {
@@ -31,13 +141,13 @@
           48.113789
         ]
       },
-      "id": "center-point-of-the-remains-of-the-roman-fort-at-sponeck-gemeinde-sasbach",
+      "id": "imagery-location-center-point-of-the-remains-of-the-roman-fort-at-sponeck-gemeinde-sasbach",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the remains of the Roman fort at Sponeck, Gemeinde Sasbach",
-        "link": "http://pleiades.stoa.org/places/109325/center-point-of-the-remains-of-the-roman-fort-at-sponeck-gemeinde-sasbach"
+        "title": "Imagery Location: Center point of the remains of the Roman fort at Sponeck, Gemeinde Sasbach",
+        "link": "http://pleiades.stoa.org/places/109325/imagery-location-center-point-of-the-remains-of-the-roman-fort-at-sponeck-gemeinde-sasbach"
       }
     }
   ]
