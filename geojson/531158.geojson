@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Zeus Ainesios, T.",
+  "title": "Zeus Ainesios (temple)",
   "id": "531158",
   "bbox": [
     20.672977,
@@ -8,9 +8,10 @@
     20.672977,
     38.135248
   ],
-  "description": "An ancient place, cited: BAtlas 54 C5 Zeus Ainesios, T.",
+  "description": "A temple of Zeus Ainesios located atop mount Ainos on the island of Cephallania.",
   "names": [
-    "Zeus Ainesios, T."
+    "Zeus Ainesios",
+    "Diós Ainisíou ierón (tó)"
   ],
   "features": [
     {

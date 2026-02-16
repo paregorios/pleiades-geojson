@@ -3,10 +3,10 @@
   "title": "Punta Secca",
   "id": "462459",
   "bbox": [
-    14.50725,
-    36.7879,
-    14.50725,
-    36.7879
+    14.5066531,
+    36.7877302,
+    14.5077206,
+    36.7879955
   ],
   "description": "An ancient settlement at Punta Secca on Sicily's southern coast. Many scholars have long identified it as a \"Kaukana\" mentioned by Ptolemy and Procopius, and this identification has been reflected in modern toponymy and in the scholarly literature. It has been rejected -- because there is no natural harbor at Punta Secca -- by R.J.A. Wilson in favor of an as-yet-unlocated position on the coast somewhere east of Capo Scalambri.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.50725,
-          36.7879
+          14.5071814644,
+          36.7878770438
         ]
       },
       "properties": {
@@ -33,19 +33,49 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.50725,
-          36.7879
+          [
+            14.5066772,
+            36.7879955
+          ],
+          [
+            14.5076321,
+            36.787944
+          ],
+          [
+            14.5077206,
+            36.7879085
+          ],
+          [
+            14.5074993,
+            36.7877302
+          ],
+          [
+            14.5070313,
+            36.7877442
+          ],
+          [
+            14.5068475,
+            36.7878355
+          ],
+          [
+            14.5066531,
+            36.7879182
+          ],
+          [
+            14.5066772,
+            36.7879955
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-area-archeologica-di-caucana",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/462459/dare-location"
+        "title": "OSM location of Area Archeologica di Caucana",
+        "link": "http://pleiades.stoa.org/places/462459/osm-location-of-area-archeologica-di-caucana"
       }
     }
   ]

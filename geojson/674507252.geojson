@@ -3,10 +3,10 @@
   "title": "Shrine of Venus Cloacina",
   "id": "674507252",
   "bbox": [
-    12.4854079,
-    41.8925438,
-    12.485477,
-    41.8925898
+    12.4854146,
+    41.8925388,
+    12.4854723,
+    41.8925791
   ],
   "description": "The Sacrum Cloacina was a small shrine dedicated to Venus Cloacina, patron divinity of the sewer, and was located near the Tabernae novae in the Forum Romanum. The foundation of the sacellum is extant while images of its likely elevation are found on Roman coins.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4854441072,
-          41.8925666372
+          12.4854440199,
+          41.8925584807
         ]
       },
       "properties": {

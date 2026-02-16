@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theon Ochema",
+  "id": "790672218",
+  "bbox": [
+    9.1733628,
+    4.2180273,
+    9.1733628,
+    4.2180273
+  ],
+  "description": "\"Theon Ochema\" is a toponym that describes a place in West Africa. Scholarship suggests that this toponym appears in the treatises of Mela and Pliny the Elder via the Greek version of the Periplus written by Hanno the Navigator. Some scholars suggest that this place be identified with Mount Cameroon.",
+  "names": [
+    "Theon ochema"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1733628,
+          4.2180273
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1733628,
+          4.2180273
+        ]
+      },
+      "id": "osm-location-of-mount-cameroon",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mount Cameroon",
+        "link": "http://pleiades.stoa.org/places/790672218/osm-location-of-mount-cameroon"
+      }
+    }
+  ]
+}

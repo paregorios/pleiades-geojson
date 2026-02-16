@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vici Luccei",
+  "id": "575989749",
+  "description": "Buildings in the Forum Boarium, mentioned by Cicero, that correspond to a Latin inscription discovered in 1939 and published by Silvio Panciera in 1970.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "vici Luccei"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

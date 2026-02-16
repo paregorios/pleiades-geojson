@@ -3,12 +3,12 @@
   "title": "Lacus Iuturnae",
   "id": "707467453",
   "bbox": [
-    12.4859236,
-    41.8916018,
-    12.4859236,
-    41.8916018
+    12.4858979,
+    41.8915099,
+    12.4859912,
+    41.8915961
   ],
-  "description": "The Lacus Iuturnae was a pool built near a spring sacred to Iuturna. Legend held that the Dioscuri watered their horses there after the Battle of Lake Regillus in 495 BC.",
+  "description": "The Lacus Iuturnae was a pool built near a spring sacred to Iuturna. Legend held that the Dioscuri watered their horses there after the Battle of Lake Regillus in 495 BCE.",
   "connectsWith": [
     "502866838",
     "423025"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4859236,
-          41.8916018
+          12.4859533936,
+          41.8915552982
         ]
       },
       "properties": {

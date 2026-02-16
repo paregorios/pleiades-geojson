@@ -9,6 +9,10 @@
     40.7786534
   ],
   "description": "A coastal villa in the 'contrada Sora' area of Torre del Greco, a district with a great many archaeological remains.",
+  "names": [
+    "Villa Sora (Torre del Greco)",
+    "Scavi archeologici di Villa Sora"
+  ],
   "features": [
     {
       "type": "Feature",

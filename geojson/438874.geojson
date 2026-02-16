@@ -3,10 +3,10 @@
   "title": "Vescia",
   "id": "438874",
   "bbox": [
-    13.9167984,
+    13.81796,
     41.1627843,
     13.923,
-    41.171
+    41.28326
   ],
   "description": "Vescia was a city of the Ausones that is now unlocated. It became involved in the Latin War, and Rome destroyed the city in 314 B.C.",
   "connectsWith": [
@@ -22,23 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9198992,
-          41.16689215
+          13.8689296,
+          41.225076075
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/438874/batlas-location"
       }
     }
   ]

@@ -9,6 +9,9 @@
     42.062123
   ],
   "description": "An ancient place, cited: BAtlas 44 A1 Castellina",
+  "names": [
+    "Castellina"
+  ],
   "features": [
     {
       "type": "Feature",

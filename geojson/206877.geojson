@@ -3,14 +3,16 @@
   "title": "Ad Drinum",
   "id": "206877",
   "bbox": [
-    19.104152,
-    44.387977,
-    19.104152,
-    44.387977
+    19.1027717,
+    44.3854067,
+    19.1027717,
+    44.3854067
   ],
-  "description": "An ancient place, cited: BAtlas 21 B5 Ad Drinum",
+  "description": "A Roman road station attested in the Peutinger map. It is perhaps to be identified with modern Zvornik in Bosnia-Herzegovina.",
   "names": [
-    "Ad Drinum"
+    "Ad Drinum",
+    "İzvornīḳ",
+    "Zvornik"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.104152,
-          44.387977
+          19.1027717,
+          44.3854067
         ]
       },
       "properties": {
@@ -30,17 +32,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.104152,
-          44.387977
+          19.1027717,
+          44.3854067
         ]
       },
-      "id": "darmc-location-8495",
+      "id": "osm-location-modern-zvornik",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 8495",
-        "link": "http://pleiades.stoa.org/places/206877/darmc-location-8495"
+        "title": "OSM Location: modern Zvornik",
+        "link": "http://pleiades.stoa.org/places/206877/osm-location-modern-zvornik"
       }
     }
   ]

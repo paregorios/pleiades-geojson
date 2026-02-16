@@ -3,12 +3,12 @@
   "title": "Ad Novas",
   "id": "393364",
   "bbox": [
-    12.0,
-    44.0,
-    12.5,
-    44.5
+    12.41986,
+    44.154621,
+    12.41986,
+    44.154621
   ],
-  "description": "An ancient place, cited: BAtlas 40 C4 Ad Novas",
+  "description": "Ad Novas was a station along the road from Rimini to Ravenna.",
   "connectsWith": [
     "393368"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.25,
-          44.25
+          12.41986,
+          44.154621
         ]
       },
       "properties": {

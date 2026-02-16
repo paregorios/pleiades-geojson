@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ancient bridge on Via Egnatia at modern Arisvi",
+  "id": "7283642",
+  "bbox": [
+    25.618715,
+    41.0527727,
+    25.618715,
+    41.0527727
+  ],
+  "description": "An ancient bridge was reported at modern Arisvi, crossing the river Lissos, in documents in the general state archive of Komotini 1945-1961, which still seems to be known to local community and described as Roman. A modern bridge stands in its place today.",
+  "connectsWith": [
+    "196789404"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.618715,
+          41.0527727
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.618715,
+          41.0527727
+        ]
+      },
+      "id": "osm-location-of-roman-bridge-on-via-egnatia-over",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman bridge on Via Egnatia over the Lissos River at modern Arisvi",
+        "link": "http://pleiades.stoa.org/places/7283642/osm-location-of-roman-bridge-on-via-egnatia-over"
+      }
+    }
+  ]
+}

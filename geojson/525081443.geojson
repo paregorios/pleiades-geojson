@@ -3,10 +3,10 @@
   "title": "Horrea Piperataria",
   "id": "525081443",
   "bbox": [
-    12.4874798,
-    41.8913824,
-    12.4891485,
-    41.8922628
+    12.4881989,
+    41.8916472,
+    12.4881989,
+    41.8916472
   ],
   "description": "A portion of a warehouse complex dating to the Flavian period, the Horrea Piperataria, was likely destroyed in the fire of 192 CE. Its remains were later incorporated into the substructions of the Basilica Nova (a.k.a. Basilica of Maxentius).",
   "connectsWith": [
@@ -18,12 +18,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4883385991,
-          41.8918308487
+          12.4881989,
+          41.8916472
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4881989,
+          41.8916472
+        ]
+      },
+      "id": "osm-location-of-horrea-piperataria",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Horrea Piperataria",
+        "link": "http://pleiades.stoa.org/places/525081443/osm-location-of-horrea-piperataria"
       }
     }
   ]

@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "title": "Little Metropolis church (Athens)",
+  "id": "705446488",
+  "bbox": [
+    23.7299431,
+    37.975027,
+    23.7300913,
+    37.9750957
+  ],
+  "description": "The Little Metropolis church or Panagia Gorgoepikoos is a Frankish, Late Byzantine, or Ottoman-period domed cross-in-square church in central Athens. It is decorated with spolia from earlier structures.",
+  "connectsWith": [
+    "579885"
+  ],
+  "names": [
+    "Little Metropolis",
+    "Mikri Mitropoli",
+    "Naos tis Theotokou Gorgoepikoou kai Agiou Eleftheriou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7300150432,
+          37.9750613099
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.7300808,
+            37.9750717
+          ],
+          [
+            23.7300913,
+            37.9750667
+          ],
+          [
+            23.730091,
+            37.9750535
+          ],
+          [
+            23.7300802,
+            37.9750488
+          ],
+          [
+            23.7300801,
+            37.9750441
+          ],
+          [
+            23.7300796,
+            37.975027
+          ],
+          [
+            23.7300417,
+            37.9750276
+          ],
+          [
+            23.7300214,
+            37.975028
+          ],
+          [
+            23.730001,
+            37.9750283
+          ],
+          [
+            23.729995,
+            37.9750284
+          ],
+          [
+            23.7299431,
+            37.9750292
+          ],
+          [
+            23.7299435,
+            37.9750462
+          ],
+          [
+            23.7299439,
+            37.9750624
+          ],
+          [
+            23.7299443,
+            37.9750786
+          ],
+          [
+            23.7299447,
+            37.9750957
+          ],
+          [
+            23.7299967,
+            37.9750948
+          ],
+          [
+            23.7300027,
+            37.9750948
+          ],
+          [
+            23.7300231,
+            37.9750944
+          ],
+          [
+            23.7300434,
+            37.9750941
+          ],
+          [
+            23.7300813,
+            37.9750935
+          ],
+          [
+            23.7300809,
+            37.9750765
+          ],
+          [
+            23.7300808,
+            37.9750717
+          ]
+        ]
+      },
+      "id": "way-mary-the-gorgoepicous-and-saint-eleutherius",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mary the Gorgoepicous and Saint Eleutherius",
+        "link": "http://pleiades.stoa.org/places/705446488/way-mary-the-gorgoepicous-and-saint-eleutherius"
+      }
+    }
+  ]
+}

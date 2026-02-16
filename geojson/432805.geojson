@@ -9,6 +9,9 @@
     42.073156
   ],
   "description": "An ancient place, cited: BAtlas 44 C1 Cretone",
+  "names": [
+    "Cretone"
+  ],
   "features": [
     {
       "type": "Feature",

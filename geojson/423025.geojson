@@ -43,7 +43,8 @@
     "Romē",
     "Rom",
     "Roma",
-    "Rome"
+    "Rome",
+    "Rūme"
   ],
   "features": [
     {
@@ -51,8 +52,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4918410867,
-          41.8899948967
+          12.4917355003,
+          41.8899092486
         ]
       },
       "properties": {

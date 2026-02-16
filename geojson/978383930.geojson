@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Assesos",
+  "id": "978383930",
+  "bbox": [
+    27.333,
+    37.484,
+    27.333,
+    37.484
+  ],
+  "description": "An ancient city with an archaic temple of Athena, identified with modern Mengerevtepe, which is located southeast of Miletos, in Caria, Turkey.",
+  "connectsWith": [
+    "599799"
+  ],
+  "names": [
+    "Assesos",
+    "Mengerevtepe"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.333,
+          37.484
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.333,
+          37.484
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point and dates sourced from ToposText.",
+        "location_precision": "precise",
+        "title": "ToposText location",
+        "link": "http://pleiades.stoa.org/places/978383930/topostext-location"
+      }
+    }
+  ]
+}

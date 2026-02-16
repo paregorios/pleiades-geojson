@@ -9,6 +9,9 @@
     46.091147
   ],
   "description": "An ancient place, cited: BAtlas 20 F3 Lugio/Florentia",
+  "connectsWith": [
+    "226577"
+  ],
   "names": [
     "Lugio",
     "Florentia"

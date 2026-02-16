@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pieve a Bozzone",
+  "id": "281962971",
+  "bbox": [
+    11.3854,
+    43.3205219,
+    11.3854,
+    43.3205219
+  ],
+  "description": "The ruins of an ancient Roman villa were discovered in the Italian comune of Pieve a Bozzone (Siena) in 2023.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3854,
+          43.3205219
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3854,
+          43.3205219
+        ]
+      },
+      "id": "osm-location-of-pieve-a-bozzone",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pieve a Bozzone",
+        "link": "http://pleiades.stoa.org/places/281962971/osm-location-of-pieve-a-bozzone"
+      }
+    }
+  ]
+}

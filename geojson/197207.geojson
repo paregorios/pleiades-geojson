@@ -9,6 +9,9 @@
     45.291016
   ],
   "description": "An ancient place, cited: BAtlas 20 F4 Cibalae",
+  "connectsWith": [
+    "197157"
+  ],
   "names": [
     "Cibalae"
   ],

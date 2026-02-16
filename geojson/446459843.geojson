@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arco di San Lazzaro",
+  "id": "446459843",
+  "bbox": [
+    12.4770263,
+    41.881923,
+    12.4771116,
+    41.8819583
+  ],
+  "description": "The so-called Arch of Saint Lazarus is part of a ruined arcuated structure located in Rome along Via Marmorata. Since this is the general vicinity of the ancient Emporium, these remains may belong to an ancient horreum. Medieval folklore associated the building with Horatius Cocles.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Arco di San Lazzaro"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4770689677,
+          41.8819406308
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4771046,
+            41.8819583
+          ],
+          [
+            12.4770263,
+            41.8819376
+          ],
+          [
+            12.4770333,
+            41.881923
+          ],
+          [
+            12.4771116,
+            41.8819436
+          ],
+          [
+            12.4771046,
+            41.8819583
+          ]
+        ]
+      },
+      "id": "osm-location-of-arco-di-san-lazzaro-roma",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arco di San Lazzaro (Roma)",
+        "link": "http://pleiades.stoa.org/places/446459843/osm-location-of-arco-di-san-lazzaro-roma"
+      }
+    }
+  ]
+}

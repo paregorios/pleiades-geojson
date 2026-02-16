@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Concord",
+  "id": "694134032",
+  "bbox": [
+    12.4838592,
+    41.8927355,
+    12.4845445,
+    41.8931509
+  ],
+  "description": "The Temple of Concord at Rome was located at the western margin of the Forum Romanum. Its origins are sometimes linked to a vow made by Marcus Furius Camillus in 367 BCE, but the vow may not have been fulfilled until 218 BCE under Lucius Manlius. The sanctuary was rebuilt in 121 BCE and again in 10 CE.",
+  "connectsWith": [
+    "423025",
+    "502866838",
+    "844972184"
+  ],
+  "names": [
+    "Temple of Concord",
+    "aedes Concordiae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.484207209,
+          41.8929391738
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4840304,
+              41.8931054
+            ],
+            [
+              12.484053,
+              41.8930943
+            ],
+            [
+              12.4839855,
+              41.8930185
+            ],
+            [
+              12.4839722,
+              41.8930251
+            ]
+          ],
+          [
+            [
+              12.4839722,
+              41.8930251
+            ],
+            [
+              12.4838592,
+              41.8928927
+            ]
+          ],
+          [
+            [
+              12.4840472,
+              41.8927996
+            ],
+            [
+              12.4838592,
+              41.8928927
+            ]
+          ],
+          [
+            [
+              12.4840472,
+              41.8927996
+            ],
+            [
+              12.4841454,
+              41.8927531
+            ]
+          ],
+          [
+            [
+              12.4841454,
+              41.8927531
+            ],
+            [
+              12.4841598,
+              41.8927694
+            ],
+            [
+              12.4842363,
+              41.8927355
+            ]
+          ],
+          [
+            [
+              12.4842363,
+              41.8927355
+            ],
+            [
+              12.4842842,
+              41.8927921
+            ],
+            [
+              12.484328,
+              41.8927703
+            ],
+            [
+              12.4843357,
+              41.8927798
+            ],
+            [
+              12.4843718,
+              41.8927624
+            ],
+            [
+              12.4845445,
+              41.8929602
+            ]
+          ],
+          [
+            [
+              12.4845445,
+              41.8929602
+            ],
+            [
+              12.4844943,
+              41.8929791
+            ],
+            [
+              12.4845097,
+              41.893
+            ]
+          ],
+          [
+            [
+              12.4845097,
+              41.893
+            ],
+            [
+              12.4845006,
+              41.893009
+            ],
+            [
+              12.4845031,
+              41.8930166
+            ],
+            [
+              12.4844991,
+              41.8930257
+            ],
+            [
+              12.4844931,
+              41.8930324
+            ],
+            [
+              12.4844818,
+              41.8930389
+            ],
+            [
+              12.4843405,
+              41.8930905
+            ]
+          ],
+          [
+            [
+              12.4843405,
+              41.8930905
+            ],
+            [
+              12.4843069,
+              41.8930446
+            ]
+          ],
+          [
+            [
+              12.4843069,
+              41.8930446
+            ],
+            [
+              12.4842539,
+              41.8930681
+            ]
+          ],
+          [
+            [
+              12.4842539,
+              41.8930681
+            ],
+            [
+              12.4842003,
+              41.8930921
+            ],
+            [
+              12.4841024,
+              41.8931359
+            ]
+          ],
+          [
+            [
+              12.4841024,
+              41.8931359
+            ],
+            [
+              12.4840688,
+              41.8931509
+            ],
+            [
+              12.4840304,
+              41.8931054
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-tempio-della-concordia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tempio della Concordia",
+        "link": "http://pleiades.stoa.org/places/694134032/osm-location-of-tempio-della-concordia"
+      }
+    }
+  ]
+}

@@ -3,14 +3,15 @@
   "title": "Arubium",
   "id": "216712",
   "bbox": [
-    28.1266158,
-    45.2386367,
+    28.1268273,
+    45.2386503,
     28.137099,
     45.253041
   ],
   "description": "An ancient place, cited: BAtlas 22 F3 Arubium",
   "names": [
-    "Arubium"
+    "Arubium",
+    "Arubio"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.1325330751,
-          45.2462014265
+          28.1325178623,
+          45.246218729
         ]
       },
       "properties": {

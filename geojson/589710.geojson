@@ -3,10 +3,10 @@
   "title": "Arkades",
   "id": "589710",
   "bbox": [
-    25.282439,
-    35.080331,
-    25.282439,
-    35.080331
+    25.3406045,
+    35.1014279,
+    25.3437416,
+    35.1040998
   ],
   "description": "An ancient place, cited: BAtlas 60 D2 Arkades",
   "connectsWith": [
@@ -14,7 +14,8 @@
   ],
   "names": [
     "Arkades",
-    "Arkadia"
+    "Arkadia",
+    "Arcade"
   ],
   "features": [
     {
@@ -22,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.282439,
-          35.080331
+          25.3422980287,
+          35.1027112254
         ]
       },
       "properties": {
@@ -32,19 +33,81 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          25.282439,
-          35.080331
+          [
+            25.3437416,
+            35.1039418
+          ],
+          [
+            25.3433897,
+            35.1040998
+          ],
+          [
+            25.3424584,
+            35.1037487
+          ],
+          [
+            25.341892,
+            35.1032256
+          ],
+          [
+            25.3415358,
+            35.102878
+          ],
+          [
+            25.3410637,
+            35.102562
+          ],
+          [
+            25.3408534,
+            35.1023935
+          ],
+          [
+            25.3407504,
+            35.1019792
+          ],
+          [
+            25.3406045,
+            35.1018387
+          ],
+          [
+            25.3410208,
+            35.1016105
+          ],
+          [
+            25.3414499,
+            35.1014279
+          ],
+          [
+            25.3420293,
+            35.1015614
+          ],
+          [
+            25.3422739,
+            35.1018071
+          ],
+          [
+            25.3430678,
+            35.1023935
+          ],
+          [
+            25.3436644,
+            35.1027937
+          ],
+          [
+            25.3437416,
+            35.1039418
+          ]
         ]
       },
-      "id": "darmc-location-11497",
+      "id": "osm-location-of-iiii-i-i-iiioi-ii-i-iiii-ii",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 11497",
-        "link": "http://pleiades.stoa.org/places/589710/darmc-location-11497"
+        "title": "OSM location of Αρχαία Αρκαδία (Αφρατί)",
+        "link": "http://pleiades.stoa.org/places/589710/osm-location-of-iiii-i-i-iiioi-ii-i-iiii-ii"
       }
     }
   ]

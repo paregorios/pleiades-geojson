@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "title": "Basilica di Santa Francesca Romana",
+  "id": "412344812",
+  "bbox": [
+    12.4885207,
+    41.8910205,
+    12.4890596,
+    41.8913205
+  ],
+  "description": "The Basilica of Santa Francesca Romana, also known as Santa Maria Nova, dates originally from the ninth century when the basilica was erected on the site of a preexisting oratory during the papacy of Paul I.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Santa Francesca Romana"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4887886624,
+          41.8911710537
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4889894,
+              41.8912031
+            ],
+            [
+              12.4890596,
+              41.8911796
+            ],
+            [
+              12.4890274,
+              41.8911263
+            ],
+            [
+              12.489006,
+              41.8911335
+            ]
+          ],
+          [
+            [
+              12.489006,
+              41.8911335
+            ],
+            [
+              12.4889341,
+              41.8910205
+            ]
+          ],
+          [
+            [
+              12.4887512,
+              41.8910813
+            ],
+            [
+              12.4885207,
+              41.8911604
+            ]
+          ],
+          [
+            [
+              12.4885207,
+              41.8911604
+            ],
+            [
+              12.4885656,
+              41.8912353
+            ],
+            [
+              12.4886128,
+              41.8913205
+            ]
+          ],
+          [
+            [
+              12.4886128,
+              41.8913205
+            ],
+            [
+              12.4889894,
+              41.8912031
+            ]
+          ],
+          [
+            [
+              12.4889341,
+              41.8910205
+            ],
+            [
+              12.4887512,
+              41.8910813
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-basilica-di-santa-francesca-romana",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Basilica di Santa Francesca Romana",
+        "link": "http://pleiades.stoa.org/places/412344812/osm-location-of-basilica-di-santa-francesca-romana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theater of Balbus",
+  "id": "687792644",
+  "description": "Cornelius Balbus dedicated a theater in the Campus Martius at Rome ca. 13 BCE.",
+  "connectsWith": [
+    "423025",
+    "936873471"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

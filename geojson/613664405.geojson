@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pleshey",
+  "id": "613664405",
+  "bbox": [
+    0.39315,
+    51.80342,
+    0.39315,
+    51.80342
+  ],
+  "description": "A possible Roman courtyard villa has been identified at Pleshey, based on the discovery of mosaic pavements, burials, and coin finds, most of which were recorded by ploughing in the 18th century.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39315,
+          51.80342
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39315,
+          51.80342
+        ]
+      },
+      "id": "dare-location-pleshey",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: Pleshey",
+        "link": "http://pleiades.stoa.org/places/613664405/dare-location-pleshey"
+      }
+    }
+  ]
+}

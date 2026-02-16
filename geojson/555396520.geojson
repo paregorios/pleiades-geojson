@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kalauros (mountain)",
+  "id": "555396520",
+  "bbox": [
+    40.9379197,
+    43.0074859,
+    41.0433526865,
+    43.2217445085
+  ],
+  "description": "An unlocated mountain near the River Anthemos in the Chalcidice region",
+  "connectsWith": [
+    "857031"
+  ],
+  "names": [
+    "Kalauros"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9938412749,
+          43.0951686916
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
