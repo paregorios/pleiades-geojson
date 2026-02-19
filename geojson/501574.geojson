@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.3253931414,
-          41.1284897725
+          25.3254190943,
+          41.1284271816
         ]
       },
       "properties": {
@@ -81,6 +81,23 @@
         "location_precision": "precise",
         "title": "OSM location of Μαξιμιανούπολις",
         "link": "http://pleiades.stoa.org/places/501574/osm-location-of-ii-i3-4i1i1-4i1i-i1-2i-iii-i-i1i"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.325471,
+          41.128302
+        ]
+      },
+      "id": "cfl-ago-location-maximianoupoli-mosynopoli",
+      "type": "Feature",
+      "properties": {
+        "description": "Remains of the Roman and Byzantine fortified town of Maximianoupoli (4th cent. AD) or Mosynopoli (9th cent. AD). Its Roman name was Porsula.",
+        "location_precision": "precise",
+        "title": "CFL/AGO Location: Maximianoupoli-Mosynopoli",
+        "link": "http://pleiades.stoa.org/places/501574/cfl-ago-location-maximianoupoli-mosynopoli"
       }
     }
   ]

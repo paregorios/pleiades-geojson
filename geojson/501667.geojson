@@ -3,10 +3,10 @@
   "title": "Zone",
   "id": "501667",
   "bbox": [
-    25.755818,
-    40.848568,
-    25.755818,
-    40.848568
+    25.6365929,
+    40.8617982,
+    25.6393897,
+    40.8646695
   ],
   "description": "An ancient place, cited: BAtlas 51 F3 Zone",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.755818,
-          40.848568
+          25.6381297145,
+          40.8630905147
         ]
       },
       "properties": {
@@ -28,19 +28,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          25.755818,
-          40.848568
+          [
+            25.6365929,
+            40.8629218
+          ],
+          [
+            25.6369174,
+            40.8634564
+          ],
+          [
+            25.6370545,
+            40.8636188
+          ],
+          [
+            25.6372242,
+            40.8638167
+          ],
+          [
+            25.6378654,
+            40.8646695
+          ],
+          [
+            25.6383797,
+            40.8642997
+          ],
+          [
+            25.6390653,
+            40.8636993
+          ],
+          [
+            25.6391933,
+            40.8636187
+          ],
+          [
+            25.6390262,
+            40.8629035
+          ],
+          [
+            25.6389576,
+            40.8627102
+          ],
+          [
+            25.6393897,
+            40.8619329
+          ],
+          [
+            25.6390005,
+            40.8617982
+          ],
+          [
+            25.638371,
+            40.861817
+          ],
+          [
+            25.6381187,
+            40.86198
+          ],
+          [
+            25.6378533,
+            40.8622966
+          ],
+          [
+            25.6374188,
+            40.862605
+          ],
+          [
+            25.636792,
+            40.8627631
+          ],
+          [
+            25.6366924,
+            40.8628425
+          ],
+          [
+            25.6365929,
+            40.8629218
+          ]
         ]
       },
-      "id": "darmc-location-10269",
+      "id": "osm-location-mesembria-zone",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 10269",
-        "link": "http://pleiades.stoa.org/places/501667/darmc-location-10269"
+        "title": "OSM Location: Mesembria-Zone",
+        "link": "http://pleiades.stoa.org/places/501667/osm-location-mesembria-zone"
       }
     }
   ]

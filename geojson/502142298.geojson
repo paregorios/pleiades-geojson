@@ -3,10 +3,10 @@
   "title": "Amasya castle",
   "id": "502142298",
   "bbox": [
-    35.8280877,
-    40.6549427,
-    35.8280877,
-    40.6549427
+    35.8274515,
+    40.6552114,
+    35.8274515,
+    40.6552114
   ],
   "description": "Amasya Castle or Harşene Castle, is a fortress located in Amasya in northern Turkey.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.8280877,
-          40.6549427
+          35.8274515,
+          40.6552114
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.8280877,
-          40.6549427
+          35.8274515,
+          40.6552114
         ]
       },
-      "id": "osm-location-of-amasya-castle",
+      "id": "osm-location-amasya-castle",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Amasya castle",
-        "link": "http://pleiades.stoa.org/places/502142298/osm-location-of-amasya-castle"
+        "title": "OSM location: Amasya Castle",
+        "link": "http://pleiades.stoa.org/places/502142298/osm-location-amasya-castle"
       }
     }
   ]

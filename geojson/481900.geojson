@@ -4,17 +4,20 @@
   "id": "481900",
   "bbox": [
     20.793813,
-    41.113653,
-    20.799086,
+    41.114619,
+    20.793813,
     41.114619
   ],
-  "description": "Lychnidos (modern Ohrid, Macedonia) is an ancient city listed as UNESCO World Heritage Site in 1979 and 1980 for both its cultural and natural heritage.",
+  "description": "Lychnidos (modern Ohrid, Macedonia) was an ancient city. It was listed as a UNESCO World Heritage Site in 1979 and 1980 for both its cultural and natural heritage.",
   "connectsWith": [
     "196789404"
   ],
   "names": [
     "Lychnidos",
-    "Lychnidós"
+    "Lychnidós",
+    "Oḫri",
+    "Ohrid",
+    "Lignido"
   ],
   "features": [
     {
@@ -22,29 +25,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.7964495,
-          41.114136
+          20.793813,
+          41.114619
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.799086,
-          41.113653
-        ]
-      },
-      "id": "darmc-location-24685",
-      "type": "Feature",
-      "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 24685",
-        "link": "http://pleiades.stoa.org/places/481900/darmc-location-24685"
       }
     },
     {

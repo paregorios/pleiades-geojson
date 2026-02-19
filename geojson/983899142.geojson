@@ -9,6 +9,9 @@
     41.7809628
   ],
   "description": "The ruins of a Roman villa rustica located near modern Giardino di Roma, just north of Via Cristoforo Colombo southwest of Rome.",
+  "names": [
+    "villa romana della Longarina"
+  ],
   "features": [
     {
       "type": "Feature",

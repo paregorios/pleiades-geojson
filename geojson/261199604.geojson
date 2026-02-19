@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ogryle",
+  "id": "261199604",
+  "description": "A place in Sardinia said to have been founded by the city-state of Athens.",
+  "connectsWith": [
+    "472014"
+  ],
+  "names": [
+    "Ogryle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

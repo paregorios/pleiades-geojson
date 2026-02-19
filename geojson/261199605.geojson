@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Faversham Roman villa",
+  "id": "261199605",
+  "bbox": [
+    0.89859,
+    51.31868,
+    0.89859,
+    51.31868
+  ],
+  "description": "The site of a Roman corridor villa dating from the late first century to ca. 300 CE, excavated in 1965.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89859,
+          51.31868
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89859,
+          51.31868
+        ]
+      },
+      "id": "dare-location-faversham",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: Faversham",
+        "link": "http://pleiades.stoa.org/places/261199605/dare-location-faversham"
+      }
+    }
+  ]
+}

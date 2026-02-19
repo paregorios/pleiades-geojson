@@ -3,17 +3,18 @@
   "title": "Cibalae",
   "id": "197207",
   "bbox": [
-    18.801056,
-    45.291016,
-    18.801056,
-    45.291016
+    18.8045248,
+    45.2883771,
+    18.8045248,
+    45.2883771
   ],
   "description": "An ancient place, cited: BAtlas 20 F4 Cibalae",
   "connectsWith": [
     "197157"
   ],
   "names": [
-    "Cibalae"
+    "Cibalae",
+    "colonia Aurelia Cibalae"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.801056,
-          45.291016
+          18.8045248,
+          45.2883771
         ]
       },
       "properties": {
@@ -33,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          18.801056,
-          45.291016
+          18.8045248,
+          45.2883771
         ]
       },
-      "id": "darmc-location-12029",
+      "id": "osm-location-of-vinkovci-croatia",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12029",
-        "link": "http://pleiades.stoa.org/places/197207/darmc-location-12029"
+        "title": "OSM location of Vinkovci (Croatia)",
+        "link": "http://pleiades.stoa.org/places/197207/osm-location-of-vinkovci-croatia"
       }
     }
   ]

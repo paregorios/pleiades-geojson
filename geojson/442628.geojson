@@ -9,6 +9,9 @@
     40.43285
   ],
   "description": "An ancient place, cited: BAtlas 45 E4 Lago del Lupo",
+  "names": [
+    "Lago del Lupo"
+  ],
   "features": [
     {
       "type": "Feature",
