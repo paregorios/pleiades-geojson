@@ -8,7 +8,7 @@
     16.71083,
     46.175551
   ],
-  "description": "A mountain range; BAtlas 20 lists it as unlocated but near either Moslavačka gora or Ivančica, Croatia. ",
+  "description": "A mountain range; BAtlas 20 lists it as unlocated but near either Moslavačka gora or Ivančica, Croatia.",
   "names": [
     "mons Claudius"
   ],
@@ -56,7 +56,7 @@
       "properties": {
         "description": "One of two suggested locations for Mount Claudius which BAtlas 20 lists as unlocated.",
         "location_precision": "precise",
-        "title": "Moslavačka gora, Crotia",
+        "title": "Moslavačka gora, Croatia",
         "link": "http://pleiades.stoa.org/places/203115/moslavacka-gora"
       }
     }

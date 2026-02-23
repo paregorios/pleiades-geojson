@@ -3,12 +3,12 @@
   "title": "Via Cassia",
   "id": "447759107",
   "bbox": [
-    10.016856,
+    10.0128633,
     41.9564709,
     12.4551076,
-    44.064253
+    44.0665669
   ],
-  "description": "An ancient Roman road branching off from the Via Flaminia and continuing to Luna where it joined the Via Aurelia. The Via Cassia post-dates the Via Amerina and was built after 240 B.C. It combined new construction with re-use of pre-existing roads and tracks.",
+  "description": "An ancient Roman road branching off from the Via Flaminia and continuing to Luna, where it joined the Via Aurelia. The Via Cassia post-dates the Via Amerina and was built after 240 B.C. It combined new construction with re-use of pre-existing roads and tracks.",
   "connectsWith": [
     "174900201",
     "260981982"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.9158457617,
-          42.5448639325
+          11.9729826392,
+          42.5302615509
         ]
       },
       "properties": {

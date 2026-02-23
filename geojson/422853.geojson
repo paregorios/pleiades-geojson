@@ -9,6 +9,9 @@
     41.9510841
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Bruto e Pisoni",
+  "connectsWith": [
+    "423081"
+  ],
   "features": [
     {
       "type": "Feature",

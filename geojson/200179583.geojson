@@ -9,6 +9,9 @@
     41.9600405
   ],
   "description": "Travertine quarries in the vicinity of Tibur and Aquae Albulae.",
+  "connectsWith": [
+    "423081"
+  ],
   "features": [
     {
       "type": "Feature",
