@@ -3,10 +3,10 @@
   "title": "Adiabene",
   "id": "893935",
   "bbox": [
-    43.0,
-    35.0,
-    44.0,
-    36.0
+    44.0068677,
+    36.1897645,
+    44.0116582,
+    36.1930506
   ],
   "description": "Adiabene was an ancient kingdom in Assyria situated between the Upper Zab (Lycus) and the Lower Zab (Caprus) rivers. Its capital was at Arbela.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.5,
-          35.5
+          44.0093823647,
+          36.1913213311
         ]
       },
       "properties": {
