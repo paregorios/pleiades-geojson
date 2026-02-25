@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "title": "Anfiteatro laterizio",
+  "id": "356540351",
+  "bbox": [
+    14.5201832,
+    40.9267409,
+    14.5217979,
+    40.9283946
+  ],
+  "description": "A Roman amphitheater located to the northwest of Nola and dating to the first century BCE.",
+  "connectsWith": [
+    "432981"
+  ],
+  "names": [
+    "Nuvlana amphitheatre",
+    "Anfiteatro Laterizio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5208972144,
+          40.9276893521
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5205721,
+            40.9267409
+          ],
+          [
+            14.520261,
+            40.9268038
+          ],
+          [
+            14.5203173,
+            40.9269436
+          ],
+          [
+            14.5203093,
+            40.9270044
+          ],
+          [
+            14.5202717,
+            40.9270429
+          ],
+          [
+            14.5201832,
+            40.9270834
+          ],
+          [
+            14.520599,
+            40.928277
+          ],
+          [
+            14.5207063,
+            40.9282993
+          ],
+          [
+            14.5208699,
+            40.9283237
+          ],
+          [
+            14.5210442,
+            40.928354
+          ],
+          [
+            14.52124,
+            40.9283662
+          ],
+          [
+            14.5214439,
+            40.9283804
+          ],
+          [
+            14.5216343,
+            40.9283824
+          ],
+          [
+            14.5217979,
+            40.9283946
+          ],
+          [
+            14.5214814,
+            40.9277258
+          ],
+          [
+            14.5213902,
+            40.9277481
+          ],
+          [
+            14.5213393,
+            40.9277339
+          ],
+          [
+            14.5213256,
+            40.9277029
+          ],
+          [
+            14.5212963,
+            40.9276367
+          ],
+          [
+            14.5210764,
+            40.9276853
+          ],
+          [
+            14.5205721,
+            40.9267409
+          ]
+        ]
+      },
+      "id": "osm-location-of-anfiteatro-laterizio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Anfiteatro laterizio",
+        "link": "http://pleiades.stoa.org/places/356540351/osm-location-of-anfiteatro-laterizio"
+      }
+    }
+  ]
+}

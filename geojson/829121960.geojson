@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Santa Savinilla catacomb",
+  "id": "829121960",
+  "bbox": [
+    12.3399837,
+    42.2443524,
+    12.3399837,
+    42.2443524
+  ],
+  "description": "A Late Imperial catacomb located in the territory of Nepet. The Christian church of San Tolomeo alle Sante Grotte developed at the site of the catacomb.",
+  "connectsWith": [
+    "413224"
+  ],
+  "names": [
+    "Catacomba di Santa Savinilla"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3399837,
+          42.2443524
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3399837,
+          42.2443524
+        ]
+      },
+      "id": "osm-location-of-catacomba-di-santa-savinilla",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Catacomba di Santa Savinilla",
+        "link": "http://pleiades.stoa.org/places/829121960/osm-location-of-catacomba-di-santa-savinilla"
+      }
+    }
+  ]
+}

@@ -9,6 +9,9 @@
     41.9233731
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 no. 35 (bridge (Ponte Terra))",
+  "names": [
+    "Ponte Terra"
+  ],
   "features": [
     {
       "type": "Feature",

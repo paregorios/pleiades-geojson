@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomba del Peccato",
+  "id": "764636489",
+  "bbox": [
+    12.372267,
+    42.297489,
+    12.372267,
+    42.297489
+  ],
+  "description": "The so-called Tomba del Peccato has been a well-known rock-cut tomb in the hinterland of Falerii Novi since the nineteenth century. The tomb collapsed following heavy rains in 1991 and is in a ruinous condition.",
+  "connectsWith": [
+    "413125"
+  ],
+  "names": [
+    "Tomba del Peccato"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372267,
+          42.297489
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372267,
+          42.297489
+        ]
+      },
+      "id": "vici-org-location-of-tomba-del-peccato",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location following coordinates from vici.org.",
+        "location_precision": "precise",
+        "title": "vici.org location of Tomba del Peccato",
+        "link": "http://pleiades.stoa.org/places/764636489/vici-org-location-of-tomba-del-peccato"
+      }
+    }
+  ]
+}

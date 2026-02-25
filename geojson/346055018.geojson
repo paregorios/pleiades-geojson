@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porticus Philippi",
+  "id": "346055018",
+  "bbox": [
+    12.4784303,
+    41.8924333,
+    12.4787109,
+    41.892613
+  ],
+  "description": "A portico that surrounded the Temple of Hercules Musarum in the Campus Martius of ancient Rome. The construction of the portico was the result of the patronage of L. Marcius Philippus, the stepfather of Augustus.",
+  "connectsWith": [
+    "236573248",
+    "423025",
+    "936873471"
+  ],
+  "names": [
+    "Porticus Philippi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4785726352,
+          41.8925223042
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

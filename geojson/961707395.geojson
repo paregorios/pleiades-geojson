@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Divus Augustus (Nola)",
+  "id": "961707395",
+  "bbox": [
+    14.520526,
+    40.925875,
+    14.528564,
+    40.927771
+  ],
+  "description": "According to Cassius Dio, Tiberius dedicated a temple to the deified Augustus at a location marking the site of the princeps' death. Its precise location is not known.",
+  "connectsWith": [
+    "432981"
+  ],
+  "names": [
+    "Temple of Divus Augustus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.524545,
+          40.926823
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

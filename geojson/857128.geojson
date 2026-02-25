@@ -8,11 +8,13 @@
     35.894016,
     41.571325
   ],
-  "description": "An ancient place, cited: BAtlas 87 A3 Gadilon/Helega?",
+  "description": "Ancient Gadilon, a town of Pontus, is possibly to be identified with a \"Helega\" reported by the Peutinger map. It is also probably to be associated with the Ottoman-modern Turkish Bafra.",
   "names": [
     "Gadilon",
     "Helega",
-    "Gadilonitis"
+    "Gadilonitis",
+    "Bafra",
+    "Bafra"
   ],
   "features": [
     {
@@ -39,7 +41,7 @@
       "id": "darmc-location-20052",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20052",
         "link": "http://pleiades.stoa.org/places/857128/darmc-location-20052"

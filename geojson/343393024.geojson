@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Palaimon (Palaimonium)",
+  "id": "343393024",
+  "bbox": [
+    22.9931435,
+    37.9152425,
+    22.9934632,
+    37.9154135
+  ],
+  "description": "The Palaimonion at Isthmia is a Roman sanctuary dedicated to an embodiment of the Isthmian games.",
+  "connectsWith": [
+    "570316"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9933114099,
+          37.9153328508
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.9931435,
+            37.9154097
+          ],
+          [
+            22.9931874,
+            37.9152425
+          ],
+          [
+            22.9934632,
+            37.9152513
+          ],
+          [
+            22.9934604,
+            37.9154135
+          ],
+          [
+            22.9931435,
+            37.9154097
+          ]
+        ]
+      },
+      "id": "osm-location-of-sanctuary-of-palaimon-palaimonium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sanctuary of Palaimon (Palaimonium)",
+        "link": "http://pleiades.stoa.org/places/343393024/osm-location-of-sanctuary-of-palaimon-palaimonium"
+      }
+    }
+  ]
+}

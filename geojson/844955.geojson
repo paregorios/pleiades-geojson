@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "İskilip",
+  "title": "İskilip rock tomb",
   "id": "844955",
   "bbox": [
     34.363792,
@@ -8,7 +8,11 @@
     34.363792,
     40.770117
   ],
-  "description": "An ancient place, cited: BAtlas 86 E3 İskilip",
+  "description": "An ancient rock tomb located near modern İskilip in Turkey.",
+  "names": [
+    "İskilīb",
+    "İskilip"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +38,7 @@
       "id": "darmc-location-16015",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 16015",
         "link": "http://pleiades.stoa.org/places/844955/darmc-location-16015"

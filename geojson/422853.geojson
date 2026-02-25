@@ -3,14 +3,17 @@
   "title": "Bruto e Pisoni",
   "id": "422853",
   "bbox": [
-    12.7916726,
+    12.7897766,
     41.9502388,
     12.7931588,
-    41.9510841
+    41.9512225
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Bruto e Pisoni",
   "connectsWith": [
     "423081"
+  ],
+  "names": [
+    "Bruto e Pisoni"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7923561768,
-          41.9506400947
+          12.7910663884,
+          41.9509312973
         ]
       },
       "properties": {
@@ -79,6 +82,23 @@
         "location_precision": "precise",
         "title": "OSM location of Villa of Brutus",
         "link": "http://pleiades.stoa.org/places/422853/osm-location-of-villa-of-brutus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7897766,
+          41.9512225
+        ]
+      },
+      "id": "osm-location-of-ruderi-della-villa-dei-pisoni",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ruderi della Villa dei Pisoni",
+        "link": "http://pleiades.stoa.org/places/422853/osm-location-of-ruderi-della-villa-dei-pisoni"
       }
     }
   ]

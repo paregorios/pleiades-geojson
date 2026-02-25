@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomba de Tre Camini",
+  "id": "894814884",
+  "bbox": [
+    12.3702,
+    42.298538,
+    12.3702,
+    42.298538
+  ],
+  "description": "An ancient tomb located along the via di Terrano on the outskirts of Falerii Novi.",
+  "connectsWith": [
+    "413125"
+  ],
+  "names": [
+    "Tomba de Tre Camini"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3702,
+          42.298538
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3702,
+          42.298538
+        ]
+      },
+      "id": "vici-org-location-of-tomba-de-tre-camini",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on coordinates following vici.org.",
+        "location_precision": "precise",
+        "title": "vici.org location of Tomba de Tre Camini",
+        "link": "http://pleiades.stoa.org/places/894814884/vici-org-location-of-tomba-de-tre-camini"
+      }
+    }
+  ]
+}

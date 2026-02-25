@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello di Filissano",
+  "id": "372843333",
+  "bbox": [
+    12.399855,
+    42.232972,
+    12.399855,
+    42.232972
+  ],
+  "description": "A fortification located in the valley of the Treja River, in use from the tenth century until its abandonment in 1431.",
+  "names": [
+    "Castello di Filissano"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.399855,
+          42.232972
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.399855,
+          42.232972
+        ]
+      },
+      "id": "osm-location-of-castello-di-filissano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello di Filissano",
+        "link": "http://pleiades.stoa.org/places/372843333/osm-location-of-castello-di-filissano"
+      }
+    }
+  ]
+}

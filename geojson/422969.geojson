@@ -9,6 +9,10 @@
     41.951766
   ],
   "description": "The villa of Marcus Pedonius.",
+  "names": [
+    "Marco Pedonio",
+    "Villa of M. Pedonius"
+  ],
   "features": [
     {
       "type": "Feature",
