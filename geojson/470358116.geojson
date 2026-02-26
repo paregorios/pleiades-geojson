@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "West Gate at Carchemish",
+  "id": "470358116",
+  "bbox": [
+    38.0114512,
+    36.8294532,
+    38.0121291,
+    36.8298698
+  ],
+  "description": "Western gate of the city of Carchemish, constructed in the Middle Bronze Age and in use through Late Antique period.",
+  "connectsWith": [
+    "658465"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0118048325,
+          36.8296561438
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            38.0120105,
+            36.8298698
+          ],
+          [
+            38.0119383,
+            36.8297722
+          ],
+          [
+            38.0114512,
+            36.8296631
+          ],
+          [
+            38.0115607,
+            36.8294532
+          ],
+          [
+            38.0120512,
+            36.8296192
+          ],
+          [
+            38.0121262,
+            36.8296736
+          ],
+          [
+            38.0121262,
+            36.8297467
+          ],
+          [
+            38.0121291,
+            36.8298055
+          ],
+          [
+            38.0120105,
+            36.8298698
+          ]
+        ]
+      },
+      "id": "west-gate-carchemish",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of the West Gate at Carchemish, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of West gate, Carchemish",
+        "link": "http://pleiades.stoa.org/places/470358116/west-gate-carchemish"
+      }
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "title": "Langton",
   "id": "89223",
   "bbox": [
-    -0.781295,
-    54.093702,
-    -0.781295,
-    54.093702
+    -0.7526365,
+    54.0971821,
+    -0.7526365,
+    54.0971821
   ],
   "description": "Multiple phases of a Romano-British villa were excavated at Langton, East Riding, Yorkshire, England. The site was discovered in 1899 and excavations took place in 1926 and 1930-31. The original phase of the site might have been either a military outpost or an indigenous farmstead.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.781295,
-          54.093702
+          -0.7526365,
+          54.0971821
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.781295,
-          54.093702
+          -0.7526365,
+          54.0971821
         ]
       },
-      "id": "darmc-location-20951",
+      "id": "roman-villa",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Point representing the site of the Roman Villa at Lanton, derived from an OpenStreetMap Node after National Heritage List for England entry.",
         "location_precision": "precise",
-        "title": "DARMC location 20951",
-        "link": "http://pleiades.stoa.org/places/89223/darmc-location-20951"
+        "title": "OSM location of Roman Villa",
+        "link": "http://pleiades.stoa.org/places/89223/roman-villa"
       }
     }
   ]
