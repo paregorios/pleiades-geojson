@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Zadris",
   "id": "866073",
-  "description": "An ancient place, cited: BAtlas 88 unlocated Zadris",
+  "description": "A city or town in Colchis mentioned by Ptolemy. It cannot be located today.",
+  "connectsWith": [
+    "863770"
+  ],
   "names": [
     "Zadris"
   ],
