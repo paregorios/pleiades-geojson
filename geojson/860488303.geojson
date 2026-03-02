@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mineralovodsky burial ground",
+  "id": "860488303",
+  "bbox": [
+    43.1005932,
+    44.2589935,
+    43.1005932,
+    44.2589935
+  ],
+  "description": "Burial site in the Northern Caucasus containing burials dated from the 6th-4th centuries BCE.",
+  "names": [
+    "Mineralovodskiy Mogil'nik"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1005932,
+          44.2589935
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.1005932,
+          44.2589935
+        ]
+      },
+      "id": "mineralovodsky-burial-ground",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Mineralovodsky burial ground, derived from an OpenStreetMap Node after Berezin 2024.",
+        "location_precision": "precise",
+        "title": "OSM location of Mineralovodsky burial ground",
+        "link": "http://pleiades.stoa.org/places/860488303/mineralovodsky-burial-ground"
+      }
+    }
+  ]
+}

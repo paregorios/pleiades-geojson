@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tell Tabareh",
+  "id": "472006569",
+  "bbox": [
+    49.499747,
+    30.804675,
+    49.499747,
+    30.804675
+  ],
+  "description": "An unexcavated, but heavily looted, ancient site near the modern village of Tabareh, which is located just outside the perimeter of the Omidiyeh military airfield in Iran's Khuzestan province.",
+  "names": [
+    "Tell Tabareh",
+    "Tabareh"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.499747,
+          30.804675
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.499747,
+          30.804675
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined and verified in Google Earth using coordinates published in Salaris 2026. Dates after Salaris 2026.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/472006569/imagery-location"
+      }
+    }
+  ]
+}

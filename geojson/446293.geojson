@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Sontini",
   "id": "446293",
+  "bbox": [
+    15.5,
+    40.5,
+    16.0,
+    41.0
+  ],
   "description": "A people of ancient Lucania.",
   "connectsWith": [
     "442639"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.75,
+          40.75
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

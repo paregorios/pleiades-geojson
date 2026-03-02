@@ -9,6 +9,10 @@
     37.131647
   ],
   "description": "An ancient place, cited: BAtlas 89 D3 Sarbane/Sisara",
+  "connectsWith": [
+    "875812",
+    "874678"
+  ],
   "names": [
     "Sarbane",
     "Sisara",

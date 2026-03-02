@@ -3,9 +3,9 @@
   "title": "S. Agata di Campobello di Mazara",
   "id": "462474",
   "bbox": [
-    12.6874601,
-    37.6661607,
-    12.6874601,
+    12.6872992,
+    37.6657573,
+    12.6877176,
     37.6661607
   ],
   "description": "An ancient place, cited: BAtlas 47 B3 S. Agata di Campobello di Mazara",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6874601,
-          37.6661607
+          12.6875061373,
+          37.665968631
         ]
       },
       "properties": {

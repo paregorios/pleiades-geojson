@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Road from Barbare east to Ad fl. Tigrim",
   "id": "875812",
   "bbox": [
-    38.0,
-    36.0,
-    47.0,
-    40.0
+    39.29477,
+    37.066666,
+    42.1913218,
+    37.3259189
   ],
-  "description": "Barbare → Nisibis → Ad fl. Tigrim",
+  "description": "A reconstructed road stretch from a station named Barbare (possibly modern Mohammed Khan in Turkey's Şanlıurfa Province) through Nisibis (modern Nusaybin at the Turkish/Syrian border) to a road station named Ad fl(umen) Tigrim (modern Cizre in Turkey's Şırnak Province).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.5,
-          38.0
+          41.1125185708,
+          37.1827520771
         ]
       },
       "properties": {

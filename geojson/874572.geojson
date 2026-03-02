@@ -9,6 +9,9 @@
     37.193888
   ],
   "description": "An ancient place, cited: BAtlas 89 C3 Mac(h)arta/Tiberioupolis/Monokarton",
+  "connectsWith": [
+    "875812"
+  ],
   "names": [
     "Macharta",
     "Macarta",

@@ -9,6 +9,9 @@
     37.104166
   ],
   "description": "An ancient place, cited: BAtlas 89 C3 Ammodios/Amouda",
+  "connectsWith": [
+    "875812"
+  ],
   "names": [
     "Ammodios",
     "Amouda",

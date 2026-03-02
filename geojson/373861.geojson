@@ -3,10 +3,10 @@
   "title": "Nasamones",
   "id": "373861",
   "bbox": [
-    20.0,
-    30.0,
-    21.0,
-    31.0
+    17.907029218,
+    30.493206906,
+    18.3024956372,
+    30.6545343622
   ],
   "description": "The Nasamones were a nomadic tribe of northern Libya.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.5,
-          30.5
+          18.125499036,
+          30.5683788481
         ]
       },
       "properties": {

@@ -9,6 +9,9 @@
     37.122532
   ],
   "description": "An ancient place, cited: BAtlas 89 D3 Sargathon",
+  "connectsWith": [
+    "875812"
+  ],
   "names": [
     "Sargathon"
   ],

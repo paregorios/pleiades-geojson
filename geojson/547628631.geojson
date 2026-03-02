@@ -3,10 +3,10 @@
   "title": "Tomb of Cyrus the Great",
   "id": "547628631",
   "bbox": [
-    53.1670545,
-    30.1939092,
-    53.1670545,
-    30.1939092
+    53.1670886,
+    30.1938681,
+    53.167288,
+    30.1940382
   ],
   "description": "The Tomb of Cyrus the Great is located about 1 km southwest of the palaces at Pasargadae. It is typically dated to ca. to 559-529 B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          53.1670545,
-          30.1939092
+          53.1671882886,
+          30.193953153
         ]
       },
       "properties": {

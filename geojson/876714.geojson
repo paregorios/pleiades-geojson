@@ -2,14 +2,30 @@
   "type": "FeatureCollection",
   "title": "Thamaudi",
   "id": "876714",
-  "description": "An ancient place, cited: BAtlas 89 unlocated Thamaudi",
+  "bbox": [
+    41.214619,
+    37.066666,
+    41.216666,
+    37.068635
+  ],
+  "description": "An ancient place included in the Peutinger map between \"Arcamo\" (Arzamon) and Nisibis (modern ). Its precise modern location is unknown today, not least because the map in this section seems rather confused with regard to the relative locations of known sites (like Arzamon and Nisibis) and the river Tigris.",
+  "connectsWith": [
+    "874623"
+  ],
   "names": [
+    "Thamaudi",
     "Thamaudi"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2154466667,
+          37.0675116667
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

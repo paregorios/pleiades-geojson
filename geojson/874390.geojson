@@ -9,6 +9,9 @@
     37.257887
   ],
   "description": "An ancient place, cited: BAtlas 89 B3 Barbare",
+  "connectsWith": [
+    "875812"
+  ],
   "names": [
     "Barbare",
     "Barabeta"

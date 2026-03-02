@@ -9,6 +9,10 @@
     37.264166
   ],
   "description": "An ancient place, cited: BAtlas 89 D3 Sapha/Thilsaphata?",
+  "connectsWith": [
+    "875812",
+    "874296"
+  ],
   "names": [
     "Sapha",
     "Thilsaphata",

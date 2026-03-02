@@ -3,6 +3,9 @@
   "title": "Thotis",
   "id": "759679",
   "description": "An ancient place, cited: BAtlas 77 unlocated Thotis",
+  "connectsWith": [
+    "756574"
+  ],
   "names": [
     "Thotis"
   ],

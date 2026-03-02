@@ -9,6 +9,9 @@
     43.8532043
   ],
   "description": "An ancient place, cited: BAtlas 42 D1 Nelurus fl.",
+  "connectsWith": [
+    "1004"
+  ],
   "names": [
     "Nelurus"
   ],

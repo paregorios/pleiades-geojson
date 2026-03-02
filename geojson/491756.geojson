@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Zeus Olympios, T.",
+  "title": "Zeus Olympios (temple)",
   "id": "491756",
   "bbox": [
     22.35171,
@@ -8,12 +8,13 @@
     22.35171,
     40.046745
   ],
-  "description": "An ancient place, cited: BAtlas 50 B4 Zeus Olympios, T.",
+  "description": "The temple of Zeus Olympios on Mt. Olympus",
   "connectsWith": [
+    "491677",
     "491677"
   ],
   "names": [
-    "Zeus Olympios, T."
+    "Zeus Olympios"
   ],
   "features": [
     {
@@ -40,7 +41,7 @@
       "id": "darmc-location-6790",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 6790",
         "link": "http://pleiades.stoa.org/places/491756/darmc-location-6790"

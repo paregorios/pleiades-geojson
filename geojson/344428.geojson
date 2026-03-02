@@ -3,10 +3,10 @@
   "title": "Macae",
   "id": "344428",
   "bbox": [
-    13.0,
-    31.0,
-    14.0,
-    32.0
+    17.907029218,
+    30.493206906,
+    18.3024956372,
+    30.6545343622
   ],
   "description": "Macae, Libyan Tribe, cited: BAtlas 35 F3",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5,
-          31.5
+          18.125499036,
+          30.5683788481
         ]
       },
       "properties": {

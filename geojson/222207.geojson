@@ -3,6 +3,9 @@
   "title": "Thokyodis",
   "id": "222207",
   "description": "An ancient place, cited: BAtlas 22 unlocated Thokyodis",
+  "connectsWith": [
+    "991377"
+  ],
   "names": [
     "Thokyodis"
   ],
