@@ -3,10 +3,10 @@
   "title": "Britannicum Mare",
   "id": "20420",
   "bbox": [
-    -2.0,
-    50.0,
-    -2.0,
-    50.0
+    -5.5316217,
+    49.4859736,
+    1.054682,
+    50.4924668
   ],
   "description": "Britannicum Mare (The English Channel) is an extension of the Atlantic Ocean that separates England from northern France, and also joins the North Sea to the Atlantic.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.0,
-          50.0
+          -2.23846985,
+          49.9892202
         ]
       },
       "properties": {
@@ -34,19 +34,25 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -2,
-          50
+          [
+            1.054682,
+            50.4924668
+          ],
+          [
+            -5.5316217,
+            49.4859736
+          ]
         ]
       },
-      "id": "location-of-britanniucm-mare",
+      "id": "osm-location-of-english-channel",
       "type": "Feature",
       "properties": {
-        "description": "coordinates after GeoHack",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of English Channel",
-        "link": "http://pleiades.stoa.org/places/20420/location-of-britanniucm-mare"
+        "title": "OSM location of English Channel",
+        "link": "http://pleiades.stoa.org/places/20420/osm-location-of-english-channel"
       }
     }
   ]

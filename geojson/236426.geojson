@@ -9,6 +9,9 @@
     41.928926
   ],
   "description": "An ancient place, cited: BAtlas 24 G3 Cercado de S. Isidro",
+  "names": [
+    "Cercado de S. Isidro"
+  ],
   "features": [
     {
       "type": "Feature",

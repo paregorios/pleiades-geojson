@@ -3,10 +3,10 @@
   "title": "Seleucia/Claudioseleucia/Seleucia Sidera",
   "id": "639098",
   "bbox": [
-    30.620667,
-    37.894362,
-    30.622264,
-    37.897426
+    30.6125362,
+    37.8956349,
+    30.6226113,
+    37.9040326
   ],
   "description": "Seleucia Sidera was an ancient city in the northern part of Pisidia, Anatolia, founded by Seleucus I Nicator or Antiochus I Soter in order to protect the military road across northern Pisidia.",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.6212863333,
-          37.8963206667
+          30.6175389604,
+          37.8998497304
         ]
       },
       "properties": {
@@ -30,53 +30,149 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          30.622264,
-          37.894362
+          [
+            30.6224111,
+            37.8962141
+          ],
+          [
+            30.6215771,
+            37.8957271
+          ],
+          [
+            30.6208098,
+            37.8956349
+          ],
+          [
+            30.6198256,
+            37.8963984
+          ],
+          [
+            30.6171268,
+            37.8978796
+          ],
+          [
+            30.6165361,
+            37.8971908
+          ],
+          [
+            30.6152701,
+            37.89783
+          ],
+          [
+            30.6156142,
+            37.898138
+          ],
+          [
+            30.6155425,
+            37.8982549
+          ],
+          [
+            30.6143877,
+            37.8990968
+          ],
+          [
+            30.6138539,
+            37.8994654
+          ],
+          [
+            30.6130866,
+            37.9007421
+          ],
+          [
+            30.6129699,
+            37.9014397
+          ],
+          [
+            30.6126362,
+            37.9022163
+          ],
+          [
+            30.6125362,
+            37.9035588
+          ],
+          [
+            30.6129031,
+            37.9037694
+          ],
+          [
+            30.6140207,
+            37.9040326
+          ],
+          [
+            30.6147714,
+            37.90398
+          ],
+          [
+            30.6152384,
+            37.9037431
+          ],
+          [
+            30.6164228,
+            37.9035588
+          ],
+          [
+            30.6166229,
+            37.9032034
+          ],
+          [
+            30.6183744,
+            37.9024269
+          ],
+          [
+            30.6191584,
+            37.9017293
+          ],
+          [
+            30.6195421,
+            37.9013344
+          ],
+          [
+            30.6209266,
+            37.9004657
+          ],
+          [
+            30.621844,
+            37.8996365
+          ],
+          [
+            30.6220942,
+            37.8995312
+          ],
+          [
+            30.6224445,
+            37.8986493
+          ],
+          [
+            30.6225279,
+            37.8982017
+          ],
+          [
+            30.6226113,
+            37.8976884
+          ],
+          [
+            30.6225613,
+            37.8968196
+          ],
+          [
+            30.6224445,
+            37.8964906
+          ],
+          [
+            30.6224111,
+            37.8962141
+          ]
         ]
       },
-      "id": "darmc-location-4878",
+      "id": "osm-location-of-seleucia-sidera",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 4878",
-        "link": "http://pleiades.stoa.org/places/639098/darmc-location-4878"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.620928,
-          37.897426
-        ]
-      },
-      "id": "darmc-location-11373",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB point location",
-        "location_precision": "precise",
-        "title": "DARMC location 11373",
-        "link": "http://pleiades.stoa.org/places/639098/darmc-location-11373"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.620667,
-          37.897174
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/639098/dare-location"
+        "title": "OSM location of Seleucia Sidera",
+        "link": "http://pleiades.stoa.org/places/639098/osm-location-of-seleucia-sidera"
       }
     }
   ]

@@ -38,13 +38,13 @@
           44.361906
         ]
       },
-      "id": "recco",
+      "id": "imagery-location-centerpoint-modern-town",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Center point of the modern town",
-        "link": "http://pleiades.stoa.org/places/383758/recco"
+        "title": "Imagery Location: Center point of the modern town",
+        "link": "http://pleiades.stoa.org/places/383758/imagery-location-centerpoint-modern-town"
       }
     }
   ]

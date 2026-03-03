@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bouleuterion",
+  "id": "207771144",
+  "bbox": [
+    27.2979878,
+    37.6590477,
+    27.2982121,
+    37.65922
+  ],
+  "description": "The bouleuterion at Priene, located northeast of the agora, dates ca. 200 BCE.",
+  "connectsWith": [
+    "599905"
+  ],
+  "names": [
+    "Bouleuterion in Priene"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.298099925,
+          37.6591338609
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.2982121,
+            37.6592199
+          ],
+          [
+            27.2979878,
+            37.65922
+          ],
+          [
+            27.2979878,
+            37.659059
+          ],
+          [
+            27.2979878,
+            37.6590478
+          ],
+          [
+            27.298212,
+            37.6590477
+          ],
+          [
+            27.2982121,
+            37.6592199
+          ]
+        ]
+      },
+      "id": "osm-location-of-bouleuterion",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bouleuterion",
+        "link": "http://pleiades.stoa.org/places/207771144/osm-location-of-bouleuterion"
+      }
+    }
+  ]
+}
