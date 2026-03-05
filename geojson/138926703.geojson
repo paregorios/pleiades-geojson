@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Akītu of Šarrat-Nippuri",
+  "id": "138926703",
+  "bbox": [
+    44.426566,
+    32.530635,
+    44.426566,
+    32.530635
+  ],
+  "description": "Temple in Babylon, not located, but probably not far from Eḫursagtila, for it is mentioned together in the ritual texts of the \"Divine Love Lyrics\". Šarrat-Nippuri \"The Queen of Nippur\" was a hypostasis of Ištar. It is difficult to ascertain the precise reason for the existence of an Akītu temple dedicated to this deity in the city of Babylon.",
+  "connectsWith": [
+    "386664298"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.426566,
+          32.530635
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
