@@ -4,9 +4,9 @@
   "id": "550434",
   "bbox": [
     26.156944,
-    39.7508255,
-    26.159296,
-    39.7526662
+    39.7508554,
+    26.1593518,
+    39.7528095
   ],
   "description": "An ancient city of the Troad, founded as Antigoneia by Antigonos Monophthalmos. Lysimachos renamed the city Alexandria after 301 BCE. The city became part of the kingdom of Pergamon and, later, the Roman Empire.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.1575595186,
-          39.7516571034
+          26.1575573013,
+          39.751699149
         ]
       },
       "properties": {

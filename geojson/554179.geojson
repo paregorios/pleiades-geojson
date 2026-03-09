@@ -3,6 +3,9 @@
   "title": "Ainea",
   "id": "554179",
   "description": "An ancient place, cited: BAtlas 56 unlocated Ainea",
+  "connectsWith": [
+    "550944"
+  ],
   "names": [
     "Ainea"
   ],

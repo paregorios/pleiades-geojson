@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Eurykydeion",
   "id": "573224",
+  "bbox": [
+    21.5796488466,
+    37.4266716553,
+    21.7914208762,
+    37.6070347995
+  ],
   "description": "An ancient place, cited: BAtlas 58 unlocated Eurykydeion",
   "connectsWith": [
     "570754",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6443702326,
+          37.5216807032
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

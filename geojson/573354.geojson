@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Makistia",
   "id": "573354",
+  "bbox": [
+    21.5796488466,
+    37.4266716553,
+    21.7914208762,
+    37.6070347995
+  ],
   "description": "An ancient place, cited: BAtlas 58 unlocated Makistia",
   "connectsWith": [
     "570754"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6925174652,
+          37.5174754063
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

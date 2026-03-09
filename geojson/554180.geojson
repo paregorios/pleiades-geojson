@@ -3,6 +3,9 @@
   "title": "Aisyme",
   "id": "554180",
   "description": "An ancient place, cited: BAtlas 56 unlocated Aisyme",
+  "connectsWith": [
+    "550944"
+  ],
   "names": [
     "Aisyme"
   ],
