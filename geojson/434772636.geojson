@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Heleios",
+  "id": "434772636",
+  "description": "An unlocatable city in the Taphian islands, named after Heleus.",
+  "connectsWith": [
+    "531113",
+    "886967593"
+  ],
+  "names": [
+    "Heleios"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

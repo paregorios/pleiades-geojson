@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Artemis (Aulis)",
+  "id": "741537853",
+  "bbox": [
+    23.5922485,
+    38.4331934,
+    23.592567,
+    38.4335117
+  ],
+  "description": "Archaic temple to Artemis at Aulis, Boeotia. In mythology, said to be the place of death of Iphigenia. Mentioned in Euripides' 'Iphigenia at Aulis.'",
+  "connectsWith": [
+    "579889"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5924270243,
+          38.4333611341
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.5922485,
+            38.4334474
+          ],
+          [
+            23.5923331,
+            38.4335117
+          ],
+          [
+            23.592567,
+            38.4333247
+          ],
+          [
+            23.5925549,
+            38.4331934
+          ],
+          [
+            23.5922485,
+            38.4334474
+          ]
+        ]
+      },
+      "id": "ruins-of-the-temple-of-artemis-at-ancient-aulis",
+      "type": "Feature",
+      "properties": {
+        "description": "Ruins of the Temple of Artemis at Ancient Aulis. Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location",
+        "link": "http://pleiades.stoa.org/places/741537853/ruins-of-the-temple-of-artemis-at-ancient-aulis"
+      }
+    }
+  ]
+}

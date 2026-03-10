@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cassiterides",
+  "id": "583607985",
+  "description": "An unlocatable group of islands somewhere off the Atlantic European coast, said by ancient authors to be a source of tin. This name may constitute an early, vague generalization concerning multiple islands and coastal areas of Gaul and Britain.",
+  "names": [
+    "Kassiteridas",
+    "Cassiterides",
+    "Kattiterides"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

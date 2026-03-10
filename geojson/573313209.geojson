@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lichades Islands",
+  "id": "573313209",
+  "bbox": [
+    22.81777,
+    38.82055,
+    22.81777,
+    38.82055
+  ],
+  "description": "An island group off North Euboea, Greece. Near the Malian Gulf.",
+  "connectsWith": [
+    "540929"
+  ],
+  "names": [
+    "Lichades",
+    "Lichades"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.81777,
+          38.82055
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.81777,
+          38.82055
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/573313209/topostext-location"
+      }
+    }
+  ]
+}
