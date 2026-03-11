@@ -1,0 +1,88 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bozköy-Hanaytepe",
+  "id": "581020757",
+  "bbox": [
+    26.2927401,
+    39.9083182,
+    26.2937065,
+    39.9090664
+  ],
+  "description": "A settlement mound and archaeological site located in the Troad containing evidence of habitation from the Chalcolithic through the Late Bronze Ages.",
+  "connectsWith": [
+    "550944"
+  ],
+  "names": [
+    "Bozkoy-Hanaytepe"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2931952193,
+          39.9086839017
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.2937065,
+            39.908579
+          ],
+          [
+            26.2934023,
+            39.9083388
+          ],
+          [
+            26.2929727,
+            39.9083182
+          ],
+          [
+            26.2927401,
+            39.9085173
+          ],
+          [
+            26.2927401,
+            39.9088399
+          ],
+          [
+            26.2929101,
+            39.9090252
+          ],
+          [
+            26.2931875,
+            39.9090664
+          ],
+          [
+            26.2935275,
+            39.9089634
+          ],
+          [
+            26.2936617,
+            39.9087781
+          ],
+          [
+            26.2937065,
+            39.908579
+          ]
+        ]
+      },
+      "id": "osm-location-of-hanaytepe",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hanaytepe",
+        "link": "http://pleiades.stoa.org/places/581020757/osm-location-of-hanaytepe"
+      }
+    }
+  ]
+}
