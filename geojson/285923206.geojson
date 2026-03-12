@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanahin Monastery",
+  "id": "285923206",
+  "bbox": [
+    44.6657719,
+    41.0867581,
+    44.6667135,
+    41.0874798
+  ],
+  "description": "Monastery complex in northern Armenia constructed during the 10th century CE.",
+  "names": [
+    "Sanahini Vank'"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6662558266,
+          41.0871446018
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6658132,
+            41.0874798
+          ],
+          [
+            44.6664683,
+            41.0873815
+          ],
+          [
+            44.6665267,
+            41.0874642
+          ],
+          [
+            44.6666645,
+            41.0873903
+          ],
+          [
+            44.6667135,
+            41.0872566
+          ],
+          [
+            44.6666878,
+            41.0871052
+          ],
+          [
+            44.6666785,
+            41.0869451
+          ],
+          [
+            44.6665679,
+            41.0867599
+          ],
+          [
+            44.6663146,
+            41.0867581
+          ],
+          [
+            44.6661118,
+            41.0867696
+          ],
+          [
+            44.6659546,
+            41.0869064
+          ],
+          [
+            44.6659173,
+            41.0870243
+          ],
+          [
+            44.6658186,
+            41.0871867
+          ],
+          [
+            44.6657719,
+            41.0871886
+          ],
+          [
+            44.6658132,
+            41.0874798
+          ]
+        ]
+      },
+      "id": "54d56157656157056b576-57e561576584",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the primary monastery complex of Sanahin, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Սանահին վանք",
+        "link": "http://pleiades.stoa.org/places/285923206/54d56157656157056b576-57e561576584"
+      }
+    }
+  ]
+}

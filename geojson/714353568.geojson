@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pottenbrunn burial ground",
+  "id": "714353568",
+  "bbox": [
+    15.6923901,
+    48.2285001,
+    15.7009927,
+    48.2328824
+  ],
+  "description": "Burial site near modern Pottenbrunn, Austria, containing 43 burials dated to the Roman period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6965324485,
+          48.2305635659
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.6960802,
+            48.2324972
+          ],
+          [
+            15.6961636,
+            48.2328824
+          ],
+          [
+            15.6979441,
+            48.232616
+          ],
+          [
+            15.6999979,
+            48.2322486
+          ],
+          [
+            15.7000762,
+            48.2318443
+          ],
+          [
+            15.7009927,
+            48.23149
+          ],
+          [
+            15.6966254,
+            48.2285194
+          ],
+          [
+            15.6963666,
+            48.2298904
+          ],
+          [
+            15.6960839,
+            48.2298777
+          ],
+          [
+            15.6957627,
+            48.2297591
+          ],
+          [
+            15.6961072,
+            48.2285001
+          ],
+          [
+            15.6923901,
+            48.2289065
+          ],
+          [
+            15.6931738,
+            48.2308354
+          ],
+          [
+            15.695906,
+            48.230627
+          ],
+          [
+            15.6959812,
+            48.2317335
+          ],
+          [
+            15.6969256,
+            48.2316737
+          ],
+          [
+            15.6970851,
+            48.2323892
+          ],
+          [
+            15.6960802,
+            48.2324972
+          ]
+        ]
+      },
+      "id": "pottenbrunn-burial-ground",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Pottenbrunn archaeological site, derived from an OpenStreetMap Way after Steigberger 2023.",
+        "location_precision": "precise",
+        "title": "OSM location of Pottenbrunn burial ground",
+        "link": "http://pleiades.stoa.org/places/714353568/pottenbrunn-burial-ground"
+      }
+    }
+  ]
+}

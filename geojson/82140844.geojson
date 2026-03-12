@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Boxted Roman villa",
+  "id": "82140844",
+  "bbox": [
+    0.66159,
+    51.36515,
+    0.66159,
+    51.36515
+  ],
+  "description": "A Roman villa excavated in the late 1880s and dating from the late first century CE to the late second century at Boxted, Upchurch, United Kingdom",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.66159,
+          51.36515
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.66159,
+          51.36515
+        ]
+      },
+      "id": "dare-location-boxted",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: Boxted",
+        "link": "http://pleiades.stoa.org/places/82140844/dare-location-boxted"
+      }
+    }
+  ]
+}
