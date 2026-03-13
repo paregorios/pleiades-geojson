@@ -1,17 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Nif/Olympos? (mountain)",
-  "id": "550786",
+  "title": "Karabel Pass",
+  "id": "106315004",
   "bbox": [
-    27.356507,
-    38.3878677,
-    27.356507,
-    38.3878677
+    27.4420967,
+    38.3537138,
+    27.4420967,
+    38.3537138
   ],
-  "description": "A mountain in modern Turkey's İzmir province that was probably known as \"Olympos\" in antiquity.",
+  "description": "A mountain pass on the southern side of mount Nif in Turkey's İzmir province.",
+  "connectsWith": [
+    "550786"
+  ],
   "names": [
-    "Olympos",
-    "Nif Dağı"
+    "Karabel Geçidi"
   ],
   "features": [
     {
@@ -19,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.356507,
-          38.3878677
+          27.4420967,
+          38.3537138
         ]
       },
       "properties": {
@@ -31,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.356507,
-          38.3878677
+          27.4420967,
+          38.3537138
         ]
       },
-      "id": "osm-location-nif-daaa-peak",
+      "id": "osm-location-karabel-geassidi",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM Location: Nif Dağı (peak)",
-        "link": "http://pleiades.stoa.org/places/550786/osm-location-nif-daaa-peak"
+        "title": "OSM Location: Karabel Geçidi",
+        "link": "http://pleiades.stoa.org/places/106315004/osm-location-karabel-geassidi"
       }
     }
   ]

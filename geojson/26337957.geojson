@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "title": "Paleochristian basilica at Vravrona",
+  "id": "26337957",
+  "bbox": [
+    23.9846644,
+    37.926519,
+    23.9857652,
+    37.9274414
+  ],
+  "description": "An early Christian basilica located west of ancient Brauron in Attica.",
+  "names": [
+    "Early Christian Basilica of Brauron"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9852271318,
+          37.9270221489
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9857652,
+            37.9274313
+          ],
+          [
+            23.9849133,
+            37.9274414
+          ],
+          [
+            23.9846644,
+            37.9266967
+          ],
+          [
+            23.9854734,
+            37.926519
+          ],
+          [
+            23.9854991,
+            37.9265715
+          ],
+          [
+            23.9857652,
+            37.9274313
+          ]
+        ]
+      },
+      "id": "osm-location-of-early-christian-basilica-of",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Early Christian Basilica of Brauron",
+        "link": "http://pleiades.stoa.org/places/26337957/osm-location-of-early-christian-basilica-of"
+      }
+    }
+  ]
+}

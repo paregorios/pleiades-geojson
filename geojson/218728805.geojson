@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Karabel Reliefs",
+  "id": "218728805",
+  "bbox": [
+    27.4561067,
+    38.3705923,
+    27.4561067,
+    38.3705923
+  ],
+  "description": "A monument consisting of multiple Hittite rock reliefs, probably dating to the 13th century BCE, located in the Karabel pass on the southern slopes of Mount Nif in Turkey's Izmir province. Most of the reliefs and inscriptions known to western scholars from the 19th and 20th centuries have been lost to road construction and vandalism.",
+  "connectsWith": [
+    "106315004"
+  ],
+  "names": [
+    "Karabel Anıtı",
+    "Karabel Kaya Kabartması"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4561067,
+          38.3705923
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4561067,
+          38.3705923
+        ]
+      },
+      "id": "osm-location-karabel-rock-relief",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Karabel rock relief ",
+        "link": "http://pleiades.stoa.org/places/218728805/osm-location-karabel-rock-relief"
+      }
+    }
+  ]
+}

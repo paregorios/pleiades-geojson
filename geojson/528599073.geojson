@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "The Tomb of Protesilaus",
+  "id": "528599073",
+  "bbox": [
+    26.189,
+    40.0447,
+    26.189,
+    40.0447
+  ],
+  "description": "Tomb of the mythic figure Protesilaus, first to die in the Tojan War. Located according to ancient testimonty on the Chersonesus, near Elaeus, its precise location is not known today.",
+  "connectsWith": [
+    "501386",
+    "501509"
+  ],
+  "names": [
+    "Protesilai Sepulchrum",
+    "Protesileo taphos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.189,
+          40.0447
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.189,
+          40.0447
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point sourced from ToposText.",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/528599073/topostext-location"
+      }
+    }
+  ]
+}
