@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Miletopolitis/Apolloniatis/Artynia L.",
+  "title": "Miletopolitis/Apolloniatis/Artynia (lake)",
   "id": "511319",
   "bbox": [
     28.4559589,
@@ -12,8 +12,10 @@
   "names": [
     "Miletopolitis",
     "Apolloniatis",
-    "Artynia L.",
-    "Ulubād Ṣuyı"
+    "Ulubād Ṣuyı",
+    "Lake Uluabat",
+    "Ulubat Golu",
+    "Artynia"
   ],
   "features": [
     {
@@ -21,29 +23,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.590079706,
-          40.1698870905
+          28.596826412,
+          40.173107181
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.583333,
-          40.166667
-        ]
-      },
-      "id": "location-of-miletopolitis-apolloniatis-artynia-l",
-      "type": "Feature",
-      "properties": {
-        "description": "Coordinates after GeoHack, verified in Google Earth 2013.",
-        "location_precision": "precise",
-        "title": "Imagery location of Lake Uluabat",
-        "link": "http://pleiades.stoa.org/places/511319/location-of-miletopolitis-apolloniatis-artynia-l"
       }
     },
     {

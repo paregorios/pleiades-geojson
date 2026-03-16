@@ -3,10 +3,10 @@
   "title": "Rhombites Megas (river)",
   "id": "825367",
   "bbox": [
-    38.0,
-    46.0,
-    39.0,
-    47.0
+    34.0239336,
+    45.104662,
+    39.3105656,
+    47.2886356
   ],
   "description": "An ancient place, cited: BAtlas 84 D2 Rhombites Megas fl.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.5,
-          46.5
+          36.8168902272,
+          46.1720640516
         ]
       },
       "properties": {

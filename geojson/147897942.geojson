@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicus",
+  "id": "147897942",
+  "description": "A place in Mesopotamia listed on the Peutinger map. Its nature and location remain unknown. It may be equatable (thus RE) with a \"Bicum\" listed in the GeogRav.",
+  "connectsWith": [
+    "89357020"
+  ],
+  "names": [
+    "Vicus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

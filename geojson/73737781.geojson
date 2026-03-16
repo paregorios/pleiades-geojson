@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ḥaḳala",
+  "id": "73737781",
+  "bbox": [
+    35.753532,
+    40.7626901,
+    35.753532,
+    40.7626901
+  ],
+  "description": "A village in today's Amasya, Turkey. According to Mehmed Neşrî (Vol. 1, pp. 374-9 (1949)), Kara Devletşah, a commander in the Timurid Sultanate, stayed in this village and was defeated here or nearby by Bayezid I.",
+  "names": [
+    "Ḥaḳala",
+    "Yolpınar"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.753532,
+          40.7626901
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.753532,
+          40.7626901
+        ]
+      },
+      "id": "yolpa-nar",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Yolpınar",
+        "link": "http://pleiades.stoa.org/places/73737781/yolpa-nar"
+      }
+    }
+  ]
+}

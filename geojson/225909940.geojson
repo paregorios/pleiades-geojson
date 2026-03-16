@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "title": "Umbilicus urbis Romae",
+  "id": "225909940",
+  "bbox": [
+    12.4845638,
+    41.8927029,
+    12.4846135,
+    41.8927399
+  ],
+  "description": "The remains of a monument marking the symbolic navel of the city of Rome that dates to the reign of Septimius Severus.",
+  "connectsWith": [
+    "423025",
+    "337325364",
+    "502866838"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4845886669,
+          41.8927213487
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.4846011,
+              41.8927053
+            ],
+            [
+              12.4845942,
+              41.8927033
+            ],
+            [
+              12.4845868,
+              41.8927029
+            ]
+          ],
+          [
+            [
+              12.4845868,
+              41.8927029
+            ],
+            [
+              12.4845795,
+              41.8927041
+            ],
+            [
+              12.4845731,
+              41.8927069
+            ],
+            [
+              12.4845681,
+              41.892711
+            ],
+            [
+              12.4845655,
+              41.8927146
+            ],
+            [
+              12.4845638,
+              41.8927205
+            ],
+            [
+              12.4845648,
+              41.8927264
+            ],
+            [
+              12.4845682,
+              41.8927319
+            ],
+            [
+              12.4845738,
+              41.8927362
+            ],
+            [
+              12.484581,
+              41.892739
+            ],
+            [
+              12.4845889,
+              41.8927399
+            ],
+            [
+              12.4845969,
+              41.8927388
+            ],
+            [
+              12.484604,
+              41.892736
+            ],
+            [
+              12.4846095,
+              41.8927315
+            ],
+            [
+              12.4846127,
+              41.8927261
+            ]
+          ],
+          [
+            [
+              12.4846127,
+              41.8927261
+            ],
+            [
+              12.4846135,
+              41.8927201
+            ],
+            [
+              12.4846116,
+              41.8927142
+            ],
+            [
+              12.4846073,
+              41.8927091
+            ],
+            [
+              12.4846011,
+              41.8927053
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-umbilicus-urbis-romae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Umbilicus Urbis Romae",
+        "link": "http://pleiades.stoa.org/places/225909940/osm-location-of-umbilicus-urbis-romae"
+      }
+    }
+  ]
+}

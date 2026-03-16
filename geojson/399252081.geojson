@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bicum",
+  "id": "399252081",
+  "bbox": [
+    38.213008,
+    36.986278,
+    38.213008,
+    36.986278
+  ],
+  "description": "A place in Mesopotamia listed by GeogRav. Its nature and location remain unknown. It may be equatable (thus RE) with a \"Vicus\" shown on the Peutinger map.",
+  "connectsWith": [
+    "147897942",
+    "795730384"
+  ],
+  "names": [
+    "Bicum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.213008,
+          36.986278
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
