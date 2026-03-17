@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Epidamnian Treasury at Olympia",
+  "id": "964672520",
+  "bbox": [
+    21.630833,
+    37.639022,
+    21.630833,
+    37.639022
+  ],
+  "description": "Treasury of Epidamnus located at Olympia. According to Pausanias, the treasury was dedicated by Pyrrhus and his sons: Lacrates and Hermon.",
+  "connectsWith": [
+    "570531"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.630833,
+          37.639022
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.630833,
+          37.639022
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location from ToposText",
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/964672520/topostext-location"
+      }
+    }
+  ]
+}

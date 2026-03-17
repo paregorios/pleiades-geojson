@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agora of Messene",
+  "id": "457626875",
+  "bbox": [
+    21.9194718,
+    37.1758975,
+    21.9220624,
+    37.1780395
+  ],
+  "description": "Ancient Agora of Messene, adjacent to the Asklepieion and Theatre of Messene.",
+  "connectsWith": [
+    "570479",
+    "596063692",
+    "52154983"
+  ],
+  "names": [
+    "Agora of Messenes"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9207183602,
+          37.1769921761
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.9199367,
+            37.1780395
+          ],
+          [
+            21.9201257,
+            37.1779825
+          ],
+          [
+            21.9202234,
+            37.1779531
+          ],
+          [
+            21.920356,
+            37.1779131
+          ],
+          [
+            21.9212419,
+            37.1776461
+          ],
+          [
+            21.9215835,
+            37.1775431
+          ],
+          [
+            21.9215934,
+            37.177564
+          ],
+          [
+            21.921668,
+            37.1775415
+          ],
+          [
+            21.9216579,
+            37.1775201
+          ],
+          [
+            21.921821,
+            37.1774709
+          ],
+          [
+            21.9218954,
+            37.1774485
+          ],
+          [
+            21.9220624,
+            37.1773981
+          ],
+          [
+            21.9219685,
+            37.1772005
+          ],
+          [
+            21.9213828,
+            37.1758975
+          ],
+          [
+            21.9194718,
+            37.1764451
+          ],
+          [
+            21.9200455,
+            37.1777802
+          ],
+          [
+            21.9198426,
+            37.1778413
+          ],
+          [
+            21.9198784,
+            37.1779169
+          ],
+          [
+            21.9199367,
+            37.1780395
+          ]
+        ]
+      },
+      "id": "osm-location-agora",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Agora",
+        "link": "http://pleiades.stoa.org/places/457626875/osm-location-agora"
+      }
+    }
+  ]
+}

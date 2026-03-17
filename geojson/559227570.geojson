@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "title": "Babunja",
+  "id": "559227570",
+  "bbox": [
+    19.5499088,
+    40.8797451,
+    19.5533914,
+    40.8821159
+  ],
+  "description": "Settlement in western Albania containing signs of habitation from the 6th-4th centuries BCE. Tentatively identified as the site of Arnissa (Ptolemy), it is the find-spot of a bronze equestrian figurine.",
+  "names": [
+    "Arnissa",
+    "Babunjë"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5517204956,
+          40.8809375282
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            19.5501778,
+            40.8809974
+          ],
+          [
+            19.5504751,
+            40.8807351
+          ],
+          [
+            19.5510555,
+            40.8803819
+          ],
+          [
+            19.551459,
+            40.8800983
+          ],
+          [
+            19.551735,
+            40.8799163
+          ],
+          [
+            19.5519403,
+            40.8798146
+          ],
+          [
+            19.5521385,
+            40.8797665
+          ],
+          [
+            19.5526764,
+            40.8797772
+          ],
+          [
+            19.5528817,
+            40.8797451
+          ],
+          [
+            19.5532993,
+            40.8800234
+          ],
+          [
+            19.5533914,
+            40.8801357
+          ],
+          [
+            19.552903,
+            40.880505
+          ],
+          [
+            19.5527189,
+            40.8806067
+          ],
+          [
+            19.5523792,
+            40.8809332
+          ],
+          [
+            19.5522447,
+            40.8810991
+          ],
+          [
+            19.5520889,
+            40.8812222
+          ],
+          [
+            19.5519828,
+            40.8813452
+          ],
+          [
+            19.5524216,
+            40.8815914
+          ],
+          [
+            19.5524712,
+            40.8818055
+          ],
+          [
+            19.5523579,
+            40.882057
+          ],
+          [
+            19.5522376,
+            40.8821105
+          ],
+          [
+            19.5520536,
+            40.8821159
+          ],
+          [
+            19.551735,
+            40.8820998
+          ],
+          [
+            19.5512891,
+            40.8819393
+          ],
+          [
+            19.5508361,
+            40.8819072
+          ],
+          [
+            19.5505175,
+            40.8818751
+          ],
+          [
+            19.5502132,
+            40.8816556
+          ],
+          [
+            19.5499088,
+            40.8812864
+          ],
+          [
+            19.5501778,
+            40.8809974
+          ]
+        ]
+      },
+      "id": "babunja-site",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Babunja site, derived from an OpenStreetMap Way after Grömer 2025.",
+        "location_precision": "precise",
+        "title": "OSM location of Babunja site",
+        "link": "http://pleiades.stoa.org/places/559227570/babunja-site"
+      }
+    }
+  ]
+}

@@ -3,20 +3,20 @@
   "title": "Urbnisi",
   "id": "863914",
   "bbox": [
-    43.951687,
-    42.015312,
-    43.951687,
-    42.015312
+    43.980833,
+    42.0125,
+    43.980833,
+    42.0125
   ],
-  "description": "An ancient place, cited: BAtlas 88 B2 Urbnisi",
+  "description": "Settlement in central Georgia showing signs of continuous inhabitation from the third millennium BCE through the present. It was a substantial center of the region in the 4th century BCE and in the early Medieval period (6th-7th centuries CE).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.951687,
-          42.015312
+          43.980833,
+          42.0125
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.951687,
-          42.015312
+          43.980833,
+          42.0125
         ]
       },
-      "id": "darmc-location-22137",
+      "id": "google-earth-location-of-modern-urbnisi",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Point representing the approximate centerpoint of the modern village of Urbnisi.",
         "location_precision": "precise",
-        "title": "DARMC location 22137",
-        "link": "http://pleiades.stoa.org/places/863914/darmc-location-22137"
+        "title": "Google Earth location of modern Urbnisi",
+        "link": "http://pleiades.stoa.org/places/863914/google-earth-location-of-modern-urbnisi"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Apollonia",
   "id": "481728",
   "bbox": [
-    19.459089,
+    19.466667,
     40.716667,
     19.4760381,
-    40.751172
+    40.7277514
   ],
   "description": "Ancient Greek trade colony which developed into an independent polis, and later a Roman city, in southern Illyria",
   "connectsWith": [
@@ -22,29 +22,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.46586965,
-          40.73051814
+          19.469259975,
+          40.72019121
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.459089,
-          40.751172
-        ]
-      },
-      "id": "darmc-location-34908",
-      "type": "Feature",
-      "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 34908",
-        "link": "http://pleiades.stoa.org/places/481728/darmc-location-34908"
       }
     },
     {

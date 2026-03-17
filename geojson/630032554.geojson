@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kirphis (Mountain)",
+  "id": "630032554",
+  "bbox": [
+    22.499,
+    38.462,
+    22.499,
+    38.462
+  ],
+  "description": "Mountain in central Greece, south of Delphi.",
+  "connectsWith": [
+    "540868"
+  ],
+  "names": [
+    "Kirphis",
+    "Cirphis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.499,
+          38.462
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.499,
+          38.462
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from ToposText",
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/630032554/topostext-location"
+      }
+    }
+  ]
+}
