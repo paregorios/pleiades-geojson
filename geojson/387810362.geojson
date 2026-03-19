@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Honos et Virtus, Aedes",
   "id": "387810362",
+  "bbox": [
+    12.491,
+    41.884,
+    12.491,
+    41.884
+  ],
   "description": "The Temple of Honour and Virtue (aedes Honoris et Virtutis) was a double temple founded by Q. Fabius Maximus Verrucosus in 234 BCE. The temple and mentions of it seem to have disappeared after the fourth century CE. It was located outside the Porta Capena (ad portam Capenam), likely on the north side of the Via Appia.",
   "connectsWith": [
     "307963010",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.491,
+          41.884
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

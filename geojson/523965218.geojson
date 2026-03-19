@@ -3,10 +3,10 @@
   "title": "Regio IV (Templum Pacis)",
   "id": "523965218",
   "bbox": [
-    12.4859059,
-    41.8900812,
-    12.4906909,
-    41.8926263
+    12.485508,
+    41.8900658,
+    12.4948943,
+    41.8971714
   ],
   "description": "The fourth Augustan region of Rome includes the Subura as well as the valley between the Esquiline and the Viminal hills, along with the no-longer-extant Velian Hill. This region reportedly contained eight shrines (aediculae), 88 domūs, 18 warehouses (horrea), 75 bath houses, and 78 loci. Its perimeter is given as 13,000 Roman feet (approximately 3.84 km).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4881962102,
-          41.8915629334
+          12.4883518578,
+          41.8919070049
         ]
       },
       "properties": {

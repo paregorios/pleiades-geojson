@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "title": "Alpes Graiae (province)",
+  "id": "99304503945",
+  "bbox": [
+    6.5,
+    45.0,
+    7.0,
+    45.5
+  ],
+  "description": "A small Alpine province of the Roman Empire organized around the Little St Bernard Pass, roughly corresponding to the eastern portion of the modern-day French department of Savoie. Augustus annexed the territory in 15 BCE; under Diocletian, the periodically joint administration of the province together with Alpes Poeninae was made permanent, forming the province of Alpes Poeninae et Graiae.",
+  "connectsWith": [
+    "167637"
+  ],
+  "names": [
+    "Alpes Graiae",
+    "Graiae Alpes"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75,
+          45.25
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.5,
+              45.0
+            ],
+            [
+              6.5,
+              45.5
+            ],
+            [
+              7.0,
+              45.5
+            ],
+            [
+              7.0,
+              45.0
+            ],
+            [
+              6.5,
+              45.0
+            ]
+          ]
+        ]
+      },
+      "id": "batlas-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "rough",
+        "title": "Barrington Atlas location",
+        "link": "http://pleiades.stoa.org/places/99304503945/batlas-location"
+      }
+    }
+  ]
+}
