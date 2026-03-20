@@ -3,10 +3,10 @@
   "title": "Piscina Mirabilis",
   "id": "812127750",
   "bbox": [
-    14.0802816,
-    40.7951859,
-    14.0802816,
-    40.7951859
+    14.0799068,
+    40.7949037,
+    14.0806632,
+    40.795459
   ],
   "description": "A freshwater cistern at Bacoli on the Gulf of Naples, the Piscina Mirabilis likely provided sailors of the Roman fleet with drinking water. Its capacity is estimated at 12,600 cubic meters.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.0802816,
-          40.7951859
+          14.0803069048,
+          40.7951849033
         ]
       },
       "properties": {
@@ -31,19 +31,65 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.0802816,
-          40.7951859
+          [
+            14.0799068,
+            40.7952336
+          ],
+          [
+            14.0799953,
+            40.7953991
+          ],
+          [
+            14.0800463,
+            40.79539
+          ],
+          [
+            14.0800725,
+            40.7954238
+          ],
+          [
+            14.0800824,
+            40.7954365
+          ],
+          [
+            14.0800999,
+            40.795459
+          ],
+          [
+            14.0806632,
+            40.7951727
+          ],
+          [
+            14.0806212,
+            40.7951148
+          ],
+          [
+            14.0805713,
+            40.7950658
+          ],
+          [
+            14.0806432,
+            40.7950236
+          ],
+          [
+            14.0805411,
+            40.7949037
+          ],
+          [
+            14.0799068,
+            40.7952336
+          ]
         ]
       },
-      "id": "location-of-piscina-mirabilis",
+      "id": "osm-location-piscina-mirabilis",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Piscina Mirabilis",
-        "link": "http://pleiades.stoa.org/places/812127750/location-of-piscina-mirabilis"
+        "title": "OSM location: Piscina Mirabilis",
+        "link": "http://pleiades.stoa.org/places/812127750/osm-location-piscina-mirabilis"
       }
     }
   ]

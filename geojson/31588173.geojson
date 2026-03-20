@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "title": "Dağdeviren Höyük",
+  "id": "31588173",
+  "bbox": [
+    27.7939387,
+    38.9035911,
+    27.795957,
+    38.9057725
+  ],
+  "description": "A Bronze Age settlement mound located in the Akhisar District of Turkey.",
+  "names": [
+    "Dağdeviren Höyük"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7950061578,
+          38.9046162146
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.7953403,
+            38.9041328
+          ],
+          [
+            27.795032,
+            38.9038274
+          ],
+          [
+            27.7948591,
+            38.9036602
+          ],
+          [
+            27.7946909,
+            38.9036057
+          ],
+          [
+            27.794462,
+            38.9035911
+          ],
+          [
+            27.7942331,
+            38.9036129
+          ],
+          [
+            27.7940462,
+            38.9037002
+          ],
+          [
+            27.7939387,
+            38.9038384
+          ],
+          [
+            27.7939901,
+            38.9040565
+          ],
+          [
+            27.7940602,
+            38.9042274
+          ],
+          [
+            27.7940929,
+            38.9043837
+          ],
+          [
+            27.7943545,
+            38.9048891
+          ],
+          [
+            27.7944246,
+            38.9050854
+          ],
+          [
+            27.794518,
+            38.9052781
+          ],
+          [
+            27.7947423,
+            38.9054999
+          ],
+          [
+            27.7947516,
+            38.9056853
+          ],
+          [
+            27.7950179,
+            38.9057725
+          ],
+          [
+            27.7951861,
+            38.9056453
+          ],
+          [
+            27.7955319,
+            38.9056017
+          ],
+          [
+            27.795644,
+            38.9055653
+          ],
+          [
+            27.7957888,
+            38.9055508
+          ],
+          [
+            27.7959477,
+            38.9046128
+          ],
+          [
+            27.795957,
+            38.9040819
+          ],
+          [
+            27.795686,
+            38.9041001
+          ],
+          [
+            27.7954104,
+            38.904111
+          ],
+          [
+            27.7953403,
+            38.9041328
+          ]
+        ]
+      },
+      "id": "osm-location-of-daadeviren-hapya1-4aa1-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Dağdeviren Höyüğü",
+        "link": "http://pleiades.stoa.org/places/31588173/osm-location-of-daadeviren-hapya1-4aa1-4"
+      }
+    }
+  ]
+}

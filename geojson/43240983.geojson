@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stena 1",
+  "id": "43240983",
+  "bbox": [
+    33.7231795,
+    44.6745335,
+    33.7251945,
+    44.6755282
+  ],
+  "description": "Archaeological site in southern Crimea containing remains dated to the 7th-5th centuries BCE and associated with the late Kizil-Koba culture.",
+  "names": [
+    "Stena 1"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7242316899,
+          44.6750187835
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.7238512,
+            44.6755282
+          ],
+          [
+            33.7231795,
+            44.6750637
+          ],
+          [
+            33.7251945,
+            44.6745335
+          ],
+          [
+            33.7247324,
+            44.6752478
+          ],
+          [
+            33.7238512,
+            44.6755282
+          ]
+        ]
+      },
+      "id": "stena-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Stena 1 site, derived from an OpenStreetMap Way after Yazikov 2024.",
+        "location_precision": "precise",
+        "title": "OSM location of Stena 1",
+        "link": "http://pleiades.stoa.org/places/43240983/stena-1"
+      }
+    }
+  ]
+}

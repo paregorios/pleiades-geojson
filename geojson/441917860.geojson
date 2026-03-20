@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Northfleet Villa",
+  "id": "441917860",
+  "bbox": [
+    0.32387872,
+    51.442841,
+    0.32387872,
+    51.442841
+  ],
+  "description": "A Roman villa near Dartford, dating from the first to fourth centuries CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.32387872,
+          51.442841
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.32387872,
+          51.442841
+        ]
+      },
+      "id": "wikidata-location-northfleet",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Wikidata Location: Northfleet",
+        "link": "http://pleiades.stoa.org/places/441917860/wikidata-location-northfleet"
+      }
+    }
+  ]
+}
