@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regio X (Palatium)",
   "id": "298699921",
+  "bbox": [
+    12.4846062,
+    41.8854577,
+    12.4886259,
+    41.8895958
+  ],
   "description": "Regio X (Palatium) is one of the Augustan regions of the city of Rome. The Regionary Catalogues indicate that this regio contained 20 shrines (aediculae), 89 townhouses (domūs), 48 warehouses (horrea), 44 bath houses, and 89 fountains. Its perimeter was recorded as 11,510 Roman feet (approx. 3.4 km).",
   "connectsWith": [
     "423025"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4861030672,
+          41.8883331702
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

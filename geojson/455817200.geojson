@@ -3,10 +3,10 @@
   "title": "Aedes Fauni",
   "id": "455817200",
   "bbox": [
-    12.4746344,
-    41.8895481,
-    12.486137,
-    41.891775
+    12.4746577,
+    41.8895907,
+    12.4793242,
+    41.8913292
   ],
   "description": "A temple dedicated to Faunus located on Tiber Island, the Aedes Fauni was dedicated in 196 BCE by Gnaeus Domitius Ahenobarbus and Gaius Scribonius Libo.",
   "connectsWith": [
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4816914064,
-          41.8911779957
+          12.4772288037,
+          41.8906108491
         ]
       },
       "properties": {

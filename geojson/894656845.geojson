@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Athena Chalkioikos",
+  "id": "894656845",
+  "bbox": [
+    22.4233085,
+    37.0826545,
+    22.4234894,
+    37.0827209
+  ],
+  "description": "Sanctuary of Athena Chalkioikos at the Acropolis of Sparta",
+  "connectsWith": [
+    "570685"
+  ],
+  "names": [
+    "ierón tís chalkioíkou"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4233989691,
+          37.0826876777
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.4233085,
+            37.0827019
+          ],
+          [
+            22.4234812,
+            37.0827209
+          ],
+          [
+            22.4234894,
+            37.0826734
+          ],
+          [
+            22.4233167,
+            37.0826545
+          ],
+          [
+            22.4233085,
+            37.0827019
+          ]
+        ]
+      },
+      "id": "sanctuary-of-athena-chalkioikos",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sanctuary of Athena Chalkioikos",
+        "link": "http://pleiades.stoa.org/places/894656845/sanctuary-of-athena-chalkioikos"
+      }
+    }
+  ]
+}

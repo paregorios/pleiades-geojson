@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Murus Romuli",
+  "id": "698502930",
+  "bbox": [
+    12.4871093,
+    41.8893064,
+    12.4871093,
+    41.8893064
+  ],
+  "description": "\"Murus Romuli\" refers to a fortification wall alleged to have surrounded the Palatine Hill in Rome, Italy. Legendary tradition claims it was built by the founder-hero Romulus during the eighth century BCE. The historicity of the wall remains hotly debated.",
+  "connectsWith": [
+    "971691208",
+    "423025"
+  ],
+  "names": [
+    "murus romuli"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4871093,
+          41.8893064
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

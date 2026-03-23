@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Jupiter Tonans",
+  "id": "354249963",
+  "bbox": [
+    12.4822154,
+    41.8925778,
+    12.4822154,
+    41.8925778
+  ],
+  "description": "A small temple to Jupiter the Thunderer, most likely located in the Area Capitolina. Vowed by Augustus in 26 BCE and dedicated in 22 BCE.",
+  "connectsWith": [
+    "347036492",
+    "423025"
+  ],
+  "names": [
+    "Tonantis Iouis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4822154,
+          41.8925778
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
