@@ -8,7 +8,11 @@
     23.666626,
     38.019288
   ],
-  "description": "An ancient place, cited: BAtlas 59 B2 Hermos",
+  "description": "Hermos was an Attic deme assigned to the tribe Acamantis.",
+  "connectsWith": [
+    "522406511",
+    "745058964"
+  ],
   "names": [
     "Hermós"
   ],

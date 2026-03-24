@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Ogyris (island)",
-  "id": "30249",
+  "title": "Hermos",
+  "id": "769669016",
   "bbox": [
-    50.9999999,
-    27.0000001,
-    50.9999999,
-    27.0000001
+    24.0256859,
+    38.2153777,
+    24.0280289,
+    38.2233183
   ],
-  "description": "An island in the Persian Gulf. Its modern location cannot be determined today.",
+  "description": "A place in the Attic deme of Rhamnous, mentioned in agricultural leases.",
   "connectsWith": [
-    "29713"
+    "580097"
   ],
   "names": [
-    "Ogyris"
+    "Hermós"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.9999999,
-          27.0000001
+          24.0269843068,
+          38.2191012485
         ]
       },
       "properties": {
