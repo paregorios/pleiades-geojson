@@ -3,6 +3,9 @@
   "title": "Caecandrus (island)",
   "id": "814222100",
   "description": "A desert island in the Persian Gulf, as described by Pliny the Elder. Its location can no longer be determined.",
+  "connectsWith": [
+    "29713"
+  ],
   "names": [
     "Caecandrus"
   ],

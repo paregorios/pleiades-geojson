@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unlabeled monuments in BAtlas 32 E3",
   "id": "208942177",
   "bbox": [
     9.71899,
@@ -8,7 +8,7 @@
     9.71899,
     36.759969
   ],
-  "description": "An ancient place, cited: BAtlas 32 E3 unnamed unlabeled ((15 monuments))",
+  "description": "BAtlas placed 15 unlabeled monuments on map 32, gridsquare E3 and cited Ferchiou 1990 in the directory.",
   "features": [
     {
       "type": "Feature",
@@ -34,7 +34,7 @@
       "id": "darmc-location-15866",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 15866",
         "link": "http://pleiades.stoa.org/places/208942177/darmc-location-15866"

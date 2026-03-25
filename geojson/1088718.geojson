@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Gaulopes",
   "id": "1088718",
-  "description": "A tribe located near the Sinus Capeus, on the west of the Persian gulf.",
+  "description": "A tribe located near the Sinus Capeus, on the west of the Persian Gulf.",
+  "connectsWith": [
+    "29713"
+  ],
   "names": [
     "Gaulopes"
   ],
