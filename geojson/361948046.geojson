@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mazamacae",
+  "id": "361948046",
+  "description": "An ancient Scythian people.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

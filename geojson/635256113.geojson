@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porticus Boni Eventus",
+  "id": "635256113",
+  "bbox": [
+    12.475413,
+    41.8967233,
+    12.4756642,
+    41.8968167
+  ],
+  "description": "A portico built in 374 CE by an urban prefect named Claudius near the temple of the god Bonus Eventus.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4755414208,
+          41.8967690423
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Colonne di San Lorenzo",
+  "id": "4763992",
+  "bbox": [
+    9.1810125,
+    45.4579715,
+    9.1810779,
+    45.4584881
+  ],
+  "description": "Sixteen columns in the Corinthian order that once belonged to a Roman temple were relocated to the square adjacent to the Basilica of San Lorenzo in Milan.",
+  "connectsWith": [
+    "383706"
+  ],
+  "names": [
+    "Colonne di San Lorenzo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18104520476,
+          45.4582297995
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1810125,
+            45.4579722
+          ],
+          [
+            9.181034,
+            45.4581942
+          ],
+          [
+            9.1810351,
+            45.4582051
+          ],
+          [
+            9.1810394,
+            45.4582486
+          ],
+          [
+            9.1810405,
+            45.4582597
+          ],
+          [
+            9.1810627,
+            45.4584881
+          ],
+          [
+            9.1810779,
+            45.4584874
+          ],
+          [
+            9.1810557,
+            45.4582588
+          ],
+          [
+            9.1810546,
+            45.4582479
+          ],
+          [
+            9.1810504,
+            45.4582044
+          ],
+          [
+            9.1810494,
+            45.4581937
+          ],
+          [
+            9.1810277,
+            45.4579715
+          ],
+          [
+            9.1810125,
+            45.4579722
+          ]
+        ]
+      },
+      "id": "osm-location-of-colonne-di-san-lorenzo",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Colonne di San Lorenzo",
+        "link": "http://pleiades.stoa.org/places/4763992/osm-location-of-colonne-di-san-lorenzo"
+      }
+    }
+  ]
+}

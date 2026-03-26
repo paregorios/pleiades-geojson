@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Muralla Púnica",
+  "id": "167635326",
+  "bbox": [
+    -0.978604,
+    37.6041746,
+    -0.978604,
+    37.6041746
+  ],
+  "description": "Remains of third-century BCE fortifications that belong to Cartagena's Punic phase.",
+  "connectsWith": [
+    "265849"
+  ],
+  "names": [
+    "Punic wall of Cartagena"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.978604,
+          37.6041746
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.978604,
+          37.6041746
+        ]
+      },
+      "id": "osm-location-of-muralla-paonica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Muralla Púnica",
+        "link": "http://pleiades.stoa.org/places/167635326/osm-location-of-muralla-paonica"
+      }
+    }
+  ]
+}

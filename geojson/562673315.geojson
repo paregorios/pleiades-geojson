@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Artemis Soteira (Megara)",
+  "id": "562673315",
+  "description": "A Sanctuary of Artemis Soteira and the Roman Imperial cult located at Megara and described by Pausanias.",
+  "connectsWith": [
+    "570468"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

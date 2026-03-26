@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stadium of Philippopolis",
+  "id": "925968978",
+  "bbox": [
+    24.7477877,
+    42.1474824,
+    24.7483885,
+    42.1480074
+  ],
+  "description": "The Roman Stadium of Philippopolis dates to the second century CE.",
+  "connectsWith": [
+    "216927"
+  ],
+  "names": [
+    "Plovdiv Roman Stadium"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7480751167,
+          42.1477241472
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7483885,
+            42.1475892
+          ],
+          [
+            24.7481746,
+            42.1474858
+          ],
+          [
+            24.7480533,
+            42.1474824
+          ],
+          [
+            24.7477877,
+            42.1478224
+          ],
+          [
+            24.7479473,
+            42.1480074
+          ],
+          [
+            24.748013,
+            42.1480004
+          ],
+          [
+            24.7480893,
+            42.1479168
+          ],
+          [
+            24.7483885,
+            42.1475892
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-stadium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman stadium",
+        "link": "http://pleiades.stoa.org/places/925968978/osm-location-of-roman-stadium"
+      }
+    }
+  ]
+}

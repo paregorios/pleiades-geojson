@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Artemis Soteira (Phigaleia)",
+  "id": "562673316",
+  "bbox": [
+    21.839109,
+    37.39629,
+    21.839109,
+    37.39629
+  ],
+  "description": "Pausanias describes a Sanctuary of Artemis Soteira located at Phigaleia, noting that it stood atop a level hilltop and that there was a standing cult image made of stone. A sacred procession of the local people commenced from the sanctuary site.",
+  "connectsWith": [
+    "570598"
+  ],
+  "names": [
+    "hieron Artemidos Soteiras"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.839109,
+          37.39629
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

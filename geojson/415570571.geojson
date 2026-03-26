@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "San Gervasio, Mondolfo",
+  "id": "415570571",
+  "bbox": [
+    13.1042562,
+    43.7343,
+    13.1042562,
+    43.7343
+  ],
+  "description": "The Roman Catholic church of San Gervasio dei Bulgari is located in Mondolfo, province of Pesaro and Urbino, Marche, Italy. Built in the Romanesque style, the church was likely founded in the fifth or sixth century.",
+  "names": [
+    "chiesa di San Gervasio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1042562,
+          43.7343
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1042562,
+          43.7343
+        ]
+      },
+      "id": "osm-locationo-of-chiesa-di-san-gervasio-in",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chiesa di San Gervasio in Bulgaria",
+        "link": "http://pleiades.stoa.org/places/415570571/osm-locationo-of-chiesa-di-san-gervasio-in"
+      }
+    }
+  ]
+}

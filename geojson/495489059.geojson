@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Excubitorium",
+  "id": "495489059",
+  "bbox": [
+    12.474452,
+    41.888769,
+    12.474452,
+    41.888769
+  ],
+  "description": "A barracks of the seventh cohort of the Vigiles, Rome's urban fire brigade, was located in the Transtiberim.",
+  "connectsWith": [
+    "423025",
+    "217953464"
+  ],
+  "names": [
+    "excubitorium della VII coorte"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.474452,
+          41.888769
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.474452,
+          41.888769
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location",
+        "link": "http://pleiades.stoa.org/places/495489059/imagery-location"
+      }
+    }
+  ]
+}

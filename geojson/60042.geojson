@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Serae",
+  "title": "Seres/Serae",
   "id": "60042",
   "bbox": [
     93.1399377492,
@@ -8,8 +8,11 @@
     95.3742516337,
     37.5137777624
   ],
-  "description": "An ancient people, tribe, or cultural group. Located: CHN (usually confused with Scythians and Parthians up to Pliny's time).",
+  "description": "An ancient people, tribe, or cultural group whom we would situate in northern China. Their location and identity were usually confused with Scythians and Parthians up to Pliny's time. The names \"Seres\" and \"Serae\" are evidently derived from the Chinese \"sī\" for silk, and so the Chinese silk trade with the west is assumed to have have played a formative role in the Greek and Roman perception of this people.",
   "names": [
+    "Serica",
+    "Seres",
+    "Seres",
     "Serae"
   ],
   "features": [

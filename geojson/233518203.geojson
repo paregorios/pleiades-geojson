@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Remoria",
+  "id": "233518203",
+  "description": "A place, perhaps legendary, connected with Remus, Romulus' twin brother. It may have been located five miles downstream from the Palatine Hill.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Remurinus ager",
+    "Remoria"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

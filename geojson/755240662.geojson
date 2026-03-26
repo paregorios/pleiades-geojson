@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Porta Montanara",
+  "id": "755240662",
+  "bbox": [
+    12.5651534,
+    44.0572596,
+    12.5652437,
+    44.0573325
+  ],
+  "description": "The Porta Montanara is an ancient Roman gate of Ariminum.",
+  "connectsWith": [
+    "393379"
+  ],
+  "names": [
+    "Porta Montanara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56519855,
+          44.05729605
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5652055,
+            44.0572596
+          ],
+          [
+            12.5652437,
+            44.0572788
+          ],
+          [
+            12.5651916,
+            44.0573325
+          ],
+          [
+            12.5651534,
+            44.0573133
+          ],
+          [
+            12.5652055,
+            44.0572596
+          ]
+        ]
+      },
+      "id": "osm-location-of-porta-montanara",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Porta Montanara",
+        "link": "http://pleiades.stoa.org/places/755240662/osm-location-of-porta-montanara"
+      }
+    }
+  ]
+}

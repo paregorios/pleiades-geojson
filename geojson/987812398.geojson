@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Murus Terreus Carinarum",
+  "id": "987812398",
+  "bbox": [
+    12.496541,
+    41.893413,
+    12.496541,
+    41.893413
+  ],
+  "description": "An early earthwork at Rome described by Varro, the Murus Terreus may have been part of the so-called Servian Wall. It was likely located on the Oppian Hill, between the Subura and the Carinae.",
+  "connectsWith": [
+    "91325207",
+    "423025"
+  ],
+  "names": [
+    "terreus murus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.496541,
+          41.893413
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

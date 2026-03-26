@@ -3,20 +3,23 @@
   "title": "Horvat Zafir",
   "id": "687922",
   "bbox": [
-    35.112228,
-    30.919556,
-    35.112228,
-    30.919556
+    35.116995,
+    30.9120276,
+    35.1173021,
+    30.9122955
   ],
   "description": "An ancient place, cited: BAtlas 70 G4 Horvat Zafir",
+  "names": [
+    "Horvat Zafir"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.112228,
-          30.919556
+          35.11714855,
+          30.91216155
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          35.112228,
-          30.919556
+          [
+            35.1170254,
+            30.9122955
+          ],
+          [
+            35.116995,
+            30.9120531
+          ],
+          [
+            35.1172717,
+            30.9120276
+          ],
+          [
+            35.1173021,
+            30.91227
+          ],
+          [
+            35.1170254,
+            30.9122955
+          ]
         ]
       },
-      "id": "darmc-location-16881",
+      "id": "osm-location-of-horbat-zafir",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16881",
-        "link": "http://pleiades.stoa.org/places/687922/darmc-location-16881"
+        "title": "OSM location of Horbat Zafir",
+        "link": "http://pleiades.stoa.org/places/687922/osm-location-of-horbat-zafir"
       }
     }
   ]

@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bouri cult site (Megara)",
+  "id": "32079425",
+  "bbox": [
+    23.171417,
+    38.0745886,
+    23.1718515,
+    38.0748945
+  ],
+  "description": "An Archaic coastal sanctuary located at Alepochori, Megara, Greece.",
+  "names": [
+    "Bouri cult site (Megara)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1716507817,
+          38.0747418436
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.1716154,
+            38.0748945
+          ],
+          [
+            23.1715591,
+            38.0748734
+          ],
+          [
+            23.1715102,
+            38.0748455
+          ],
+          [
+            23.1714577,
+            38.0748059
+          ],
+          [
+            23.171417,
+            38.0747593
+          ],
+          [
+            23.1715125,
+            38.0747195
+          ],
+          [
+            23.1718006,
+            38.0745886
+          ],
+          [
+            23.1718515,
+            38.0746817
+          ],
+          [
+            23.1717321,
+            38.074717
+          ],
+          [
+            23.1717562,
+            38.0747735
+          ],
+          [
+            23.1717603,
+            38.0747938
+          ],
+          [
+            23.171718,
+            38.0748385
+          ],
+          [
+            23.1716887,
+            38.0748711
+          ],
+          [
+            23.1716154,
+            38.0748945
+          ]
+        ]
+      },
+      "id": "osm-location-of-bouri-cult-site-megara",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bouri cult site (Megara)",
+        "link": "http://pleiades.stoa.org/places/32079425/osm-location-of-bouri-cult-site-megara"
+      }
+    }
+  ]
+}
