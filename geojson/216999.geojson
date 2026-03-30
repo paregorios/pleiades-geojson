@@ -9,6 +9,9 @@
     43.753225
   ],
   "description": "An ancient place, cited: BAtlas 22 D5 Sveshtari",
+  "connectsWith": [
+    "534537108"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello degli Accarigi",
+  "id": "960269109",
+  "bbox": [
+    11.2314552,
+    43.334841,
+    11.2314552,
+    43.334841
+  ],
+  "description": "A ruined castle located in the Montagnola Senese, about 10 kilometers from Siena, Italy, that was once part of the defenses of the Republic of Siena.",
+  "names": [
+    "Castello degli Accarigi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2314552,
+          43.334841
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2314552,
+          43.334841
+        ]
+      },
+      "id": "osm-location-of-castello-degli-accarigi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello degli Accarigi",
+        "link": "http://pleiades.stoa.org/places/960269109/osm-location-of-castello-degli-accarigi"
+      }
+    }
+  ]
+}

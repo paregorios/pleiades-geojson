@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Solis Pr.",
+  "id": "386778281",
+  "bbox": [
+    -9.2809765,
+    32.5402862,
+    -9.2809765,
+    32.5402862
+  ],
+  "description": "Cap Cantin, Morocco.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2809765,
+          32.5402862
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.2809765,
+          32.5402862
+        ]
+      },
+      "id": "osm-location-of-cap-cantin",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap.",
+        "location_precision": "precise",
+        "title": "OSM location of Cap Cantin",
+        "link": "http://pleiades.stoa.org/places/386778281/osm-location-of-cap-cantin"
+      }
+    }
+  ]
+}

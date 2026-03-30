@@ -1,63 +1,26 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Road: Sexaginta Prista → Abritus → Shoumen",
   "id": "220487",
   "bbox": [
-    23.0,
-    41.0,
-    30.0,
-    48.0
+    25.945364,
+    43.282228,
+    27.0268,
+    43.846503
   ],
-  "description": "Sexaginta Prista → Abritus → Shoumen",
+  "description": "An ancient road route thought to have run from Sexaginta Prista (modern Ruse) on the Danube, southeast through Abritus (near modern Razgrad, Bulgaria) to modern Shoumen.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.5,
-          44.5
+          26.5080861,
+          43.5502590333
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              23.0,
-              41.0
-            ],
-            [
-              23.0,
-              48.0
-            ],
-            [
-              30.0,
-              48.0
-            ],
-            [
-              30.0,
-              41.0
-            ],
-            [
-              23.0,
-              41.0
-            ]
-          ]
-        ]
-      },
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": "Roughly located within a bounding box",
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/220487/undetermined"
       }
     }
   ]

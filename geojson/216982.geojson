@@ -8,7 +8,10 @@
     25.945364,
     43.846503
   ],
-  "description": "A Roman camp and statio on the right bank of the Danube river that was the station of Cohors II Flavia Brittonum equitata and Cohors II Mattiacorum.",
+  "description": "A Roman camp and statio on the right bank of the Danube River that was the station of Cohors II Flavia Brittonum equitata and Cohors II Mattiacorum.",
+  "connectsWith": [
+    "220487"
+  ],
   "names": [
     "Sexaginta Prista",
     "Pristis",

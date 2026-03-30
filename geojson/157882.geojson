@@ -9,6 +9,9 @@
     43.543891
   ],
   "description": "An ancient place, cited: BAtlas 16 C2 Mandelieu",
+  "names": [
+    "Mandelieu"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,14 +3,15 @@
   "title": "Ida (mountain)",
   "id": "550592",
   "bbox": [
-    26.7949667,
-    39.6733815,
-    26.8513621,
-    39.7
+    26.7950096,
+    39.6738109,
+    26.83333,
+    39.7044139
   ],
   "description": "A mountain of northwestern Turkey standing to 5,820 ft (1,774 m) above sea level (modern Kaz Dağ).",
   "names": [
-    "Ida"
+    "Ida",
+    "Ida M."
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.8265529333,
-          39.6859427667
+          26.8191774,
+          39.6927416
         ]
       },
       "properties": {
@@ -30,8 +31,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.7949667,
-          39.6733815
+          26.7950096,
+          39.6738109
         ]
       },
       "id": "osm-location-of-karatas-tepesi",
@@ -64,8 +65,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.8513621,
-          39.6844468
+          26.8291926,
+          39.7044139
         ]
       },
       "id": "osm-location-kazdag131",

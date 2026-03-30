@@ -3,10 +3,10 @@
   "title": "Thebes Pedion",
   "id": "550920",
   "bbox": [
-    26.5,
-    39.5,
-    27.0,
-    40.0
+    27.020171,
+    39.597431,
+    27.020171,
+    39.597431
   ],
   "description": "A fertile plain of Mysia, located south of Mount Placius.",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.75,
-          39.75
+          27.020171,
+          39.597431
         ]
       },
       "properties": {

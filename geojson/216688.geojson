@@ -9,6 +9,9 @@
     43.5220461
   ],
   "description": "Abrittus was the site of a Roman fortress and settlement, located near modern Razgrad, Bulgaria.",
+  "connectsWith": [
+    "220487"
+  ],
   "names": [
     "Abritus",
     "Razgrad",

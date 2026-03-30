@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "title": "Necropoli Fondo Scataglini",
+  "id": "643083925",
+  "bbox": [
+    11.7684222,
+    42.2473266,
+    11.7693479,
+    42.2481148
+  ],
+  "description": "An Etruscan necropolis at Tarquinia with more than 175 tombs.",
+  "connectsWith": [
+    "413332"
+  ],
+  "names": [
+    "fondo Scataglini necropolis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.768931186,
+          42.2477331578
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.7692887,
+            42.2473266
+          ],
+          [
+            11.7691332,
+            42.2474304
+          ],
+          [
+            11.76905,
+            42.2475487
+          ],
+          [
+            11.7689762,
+            42.247525
+          ],
+          [
+            11.7688219,
+            42.2476362
+          ],
+          [
+            11.7684222,
+            42.2477601
+          ],
+          [
+            11.7686524,
+            42.2479026
+          ],
+          [
+            11.7688637,
+            42.2481148
+          ],
+          [
+            11.769029,
+            42.2479522
+          ],
+          [
+            11.7689725,
+            42.2478902
+          ],
+          [
+            11.768824,
+            42.2478375
+          ],
+          [
+            11.7688445,
+            42.2478033
+          ],
+          [
+            11.7690566,
+            42.2479021
+          ],
+          [
+            11.7692055,
+            42.247753
+          ],
+          [
+            11.7691858,
+            42.2476395
+          ],
+          [
+            11.7693479,
+            42.2473607
+          ],
+          [
+            11.7692887,
+            42.2473266
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli-fondo-scataglini",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli Fondo Scataglini",
+        "link": "http://pleiades.stoa.org/places/643083925/osm-location-of-necropoli-fondo-scataglini"
+      }
+    }
+  ]
+}

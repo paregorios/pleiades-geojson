@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aequimelium",
+  "id": "646121066",
+  "bbox": [
+    12.4822154,
+    41.8925778,
+    12.4822154,
+    41.8925778
+  ],
+  "description": "The Aequimelium was an open area on the southeast slope of the Capitoline Hill. This space may have once been the site of the house of one Spurius Maelius, a Roman citizen of the fifth century BCE who was slain for the crime of wanting to be a king (adfectatio regni).",
+  "connectsWith": [
+    "423025",
+    "347036492"
+  ],
+  "names": [
+    "Aequimelium"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4822154,
+          41.8925778
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Mast(o)usia Pr.",
+  "title": "Mast(o)usia (promontory)",
   "id": "501509",
   "bbox": [
     26.16658,
@@ -11,7 +11,8 @@
   "description": "An ancient place, cited: BAtlas 51 G4 Mast(o)usia Pr.",
   "names": [
     "Mastousia Pr.",
-    "Mastusia Pr."
+    "Mastusia Pr.",
+    "Tekke Burnu"
   ],
   "features": [
     {
@@ -35,13 +36,13 @@
           40.05436
         ]
       },
-      "id": "location-of-tekke-burnu",
+      "id": "geonames-location-of-tekke-burnu",
       "type": "Feature",
       "properties": {
         "description": "GeoNames location",
         "location_precision": "precise",
-        "title": "Location of Tekke Burnu",
-        "link": "http://pleiades.stoa.org/places/501509/location-of-tekke-burnu"
+        "title": "Geonames Location of Tekke Burnu",
+        "link": "http://pleiades.stoa.org/places/501509/geonames-location-of-tekke-burnu"
       }
     }
   ]

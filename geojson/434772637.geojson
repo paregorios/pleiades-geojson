@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Divus Augustus (Rome)",
+  "id": "434772637",
+  "bbox": [
+    12.4844,
+    41.8916,
+    12.4844,
+    41.8916
+  ],
+  "description": "Caius dedicated a temple to divus Augustus in Rome in the autumn of 37 CE. Based on the sources, the temple should be located between the vicus Tuscus and the vicus Iugarius, just behind the Basilica Iulia. The temple remains unexcavated, and its nature and location are a matter of scholarly debate.",
+  "connectsWith": [
+    "173078007",
+    "502866838",
+    "423025",
+    "337325364"
+  ],
+  "names": [
+    "Templum Augusto"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4844,
+          41.8916
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4844,
+          41.8916
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point sourced from ToposText.",
+        "location_precision": "precise",
+        "title": "ToposText location",
+        "link": "http://pleiades.stoa.org/places/434772637/topostext-location"
+      }
+    }
+  ]
+}

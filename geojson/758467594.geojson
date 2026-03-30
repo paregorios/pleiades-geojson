@@ -1,16 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Gölcük Kale",
-  "id": "638845",
+  "title": "Surrentium/Rhysadeiron? (promontory)",
+  "id": "758467594",
   "bbox": [
-    30.38164,
-    37.023701,
-    30.38164,
-    37.023701
+    -9.8893,
+    30.62926,
+    -9.8893,
+    30.62926
   ],
-  "description": "An ancient place, cited: BAtlas 65 D3 Gölcük Kale",
+  "description": null,
   "names": [
-    "Golcuk Kale"
+    "Surrentium",
+    "Rhysadeiron"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.38164,
-          37.023701
+          -9.8893,
+          30.62926
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.38164,
-          37.023701
+          -9.8893,
+          30.62926
         ]
       },
-      "id": "darmc-location-6855",
+      "id": "geonames-location-modern-cap-ghir",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 6855",
-        "link": "http://pleiades.stoa.org/places/638845/darmc-location-6855"
+        "title": "GeoNames location: modern Cap Ghir",
+        "link": "http://pleiades.stoa.org/places/758467594/geonames-location-modern-cap-ghir"
       }
     }
   ]

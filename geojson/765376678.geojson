@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aedes Hercules Musarum",
+  "id": "765376678",
+  "bbox": [
+    12.4784303,
+    41.8924333,
+    12.4787109,
+    41.892613
+  ],
+  "description": "Marcus Fulvius Nobilior likely built this temple in Rome's Circus Flaminius ca. 187 B.C. following his campaigns in Ambracia. In 29 B.C., the temple was restored by L. Marcius Philippus and included in the new porticus bearing his name.",
+  "connectsWith": [
+    "346055018",
+    "423025",
+    "936873471",
+    "236573248"
+  ],
+  "names": [
+    "Temple of Hercules Musarum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4785726352,
+          41.8925223042
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

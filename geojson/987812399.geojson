@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "domus Cornificia",
+  "id": "987812399",
+  "description": "A domus included in the Regionary Catalogues for Regio XII.",
+  "connectsWith": [
+    "423025",
+    "886355306"
+  ],
+  "names": [
+    "domus Cornificia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

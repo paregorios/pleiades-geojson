@@ -4,8 +4,8 @@
   "id": "570259",
   "bbox": [
     23.87,
-    37.97903,
-    24.547973,
+    37.9772965,
+    24.5383543,
     38.53
   ],
   "description": "An ancient place, cited: BAtlas 58 H2 Geraistos Pr.",
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.547973,
-          37.97903
+          24.5383543,
+          37.9772965
         ]
       },
       "properties": {
