@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ateni Sioni",
+  "id": "891702684",
+  "bbox": [
+    44.0959441,
+    41.9039179,
+    44.0959441,
+    41.9039179
+  ],
+  "description": "Georgian Orthodox church constructed in the Ateni Gorge in the 7th century CE.",
+  "names": [
+    "At’enis Sioni"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959441,
+          41.9039179
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0959441,
+          41.9039179
+        ]
+      },
+      "id": "10d010e210d410dc10d810e1-10e110d810dd10dc10d8",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Ateni Sioni Church, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of ატენის სიონი",
+        "link": "http://pleiades.stoa.org/places/891702684/10d010e210d410dc10d810e1-10e110d810dd10dc10d8"
+      }
+    }
+  ]
+}

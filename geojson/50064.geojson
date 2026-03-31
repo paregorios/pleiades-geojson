@@ -1,16 +1,21 @@
 {
   "type": "FeatureCollection",
-  "title": "Kolchoi",
+  "title": "Korkai/Kolchoi",
   "id": "50064",
   "bbox": [
-    78.01884,
-    8.612651,
-    78.01884,
-    8.612651
+    78.05799,
+    8.63948,
+    78.05799,
+    8.63948
   ],
-  "description": "An ancient place, cited: BAtlas 5 D5 Kolchoi",
+  "description": "An ancient settlement of southeastern India associated with trade and pearl fishery in both Sangam and Roman literature (Ptolemy calls it an \"emporion\"). Although the area -- where chance finds, and excavation have surfaced material ranging in date from the first millennium BCE to at least the second century CE -- now lies some 6km inland from the ocean and 2km north of the current course of the Thamirabharani river, modern scholars uniformly consider it to have been an ancient seaport equipped with a harbor of some kind. Literary sources attest to its importance during the Pandya dynasty.",
   "names": [
-    "Kolchoi"
+    "Kolchoi emporion",
+    "Korkei",
+    "Korkai",
+    "Colcisindor(vm)",
+    "Kolchoi",
+    "Koṟkai"
   ],
   "features": [
     {
@@ -18,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.01884,
-          8.612651
+          78.05799,
+          8.63948
         ]
       },
       "properties": {
@@ -30,17 +35,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.01884,
-          8.612651
+          78.05799,
+          8.63948
         ]
       },
-      "id": "darmc-location-23227",
+      "id": "geonames-location-modern-korkai",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 23227",
-        "link": "http://pleiades.stoa.org/places/50064/darmc-location-23227"
+        "title": "GeoNames location: modern Korkai",
+        "link": "http://pleiades.stoa.org/places/50064/geonames-location-modern-korkai"
       }
     }
   ]

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Odzun",
+  "id": "403031321",
+  "bbox": [
+    44.6163088,
+    41.0507856,
+    44.6167016,
+    41.0510068
+  ],
+  "description": "Church in Lori Province, Armenia constructed in the 5th century CE.",
+  "names": [
+    "Odzuni Yekeghets’i"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.6165051803,
+          41.0508961923
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.6163476,
+            41.0507856
+          ],
+          [
+            44.6163088,
+            41.0509626
+          ],
+          [
+            44.6166627,
+            41.0510068
+          ],
+          [
+            44.6167016,
+            41.0508298
+          ],
+          [
+            44.6163476,
+            41.0507856
+          ]
+        ]
+      },
+      "id": "55557157858257656b-56357456256556956157e578580",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the structure of Odzun Church, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Օձունի գմբեթավոր բազիլիկ եկեղեցի",
+        "link": "http://pleiades.stoa.org/places/403031321/55557157858257656b-56357456256556956157e578580"
+      }
+    }
+  ]
+}

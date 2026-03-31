@@ -3,10 +3,10 @@
   "title": "Tabellaria",
   "id": "416866",
   "bbox": [
-    11.6955897,
-    42.2344511,
-    11.9309703,
-    42.5333041
+    11.6948686,
+    42.2125612,
+    11.9309274,
+    42.5333061
   ],
   "description": "A road station located on the via Aurelia between Centumcellae and Graviscae in Etruria, now unlocated.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8327093526,
-          42.3638297049
+          11.7714033905,
+          42.2882147079
         ]
       },
       "properties": {

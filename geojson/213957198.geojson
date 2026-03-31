@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agelastos Petra",
+  "id": "213957198",
+  "bbox": [
+    23.537401,
+    38.041101,
+    23.537401,
+    38.041101
+  ],
+  "description": "A mythic rock formation at Eleusis where Demeter searched for Persephone.",
+  "connectsWith": [
+    "579920"
+  ],
+  "names": [
+    "Agelastos petra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.537401,
+          38.041101
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

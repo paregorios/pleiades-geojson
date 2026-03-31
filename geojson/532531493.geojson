@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Periyapattinam",
+  "id": "532531493",
+  "bbox": [
+    78.90232,
+    9.27263,
+    78.90232,
+    9.27263
+  ],
+  "description": "A late medieval port town located in modern Tamil Nadu, India, on the Bay of Bengal. It seems to have flourished from the 13th century until the 17th, with Chinese and Islamic pottery from the first two centuries of that time being most abundant.",
+  "names": [
+    "Periyapattinam",
+    "Dabadan",
+    "Fattan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.90232,
+          9.27263
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.90232,
+          9.27263
+        ]
+      },
+      "id": "geonames-location-periyapattinam",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "GeoNames location: Periyapattinam",
+        "link": "http://pleiades.stoa.org/places/532531493/geonames-location-periyapattinam"
+      }
+    }
+  ]
+}

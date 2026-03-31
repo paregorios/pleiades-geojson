@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Endymion (Olympia)",
+  "id": "846808377",
+  "bbox": [
+    21.6336,
+    37.637,
+    21.6336,
+    37.637
+  ],
+  "description": "A lost monument to Endymion seen by Pausanius near the starting area of the stadium of Olympia.",
+  "connectsWith": [
+    "570531"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6336,
+          37.637
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6336,
+          37.637
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point and dates sourced from ToposText.",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/846808377/topostext-location"
+      }
+    }
+  ]
+}

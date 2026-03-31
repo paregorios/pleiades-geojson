@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aeaea",
+  "id": "621604967",
+  "description": "The mythical, unlocatable island of Circe from the Odyssey, visited by Odysseus. Possibly identified with Cape Circaion on the west coast of Italy",
+  "names": [
+    "Aiaia",
+    "Aeaea"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

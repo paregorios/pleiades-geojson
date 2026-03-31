@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Classical Stadium at Olympia",
+  "id": "929651744",
+  "bbox": [
+    21.6320514,
+    37.6385293,
+    21.6349176,
+    37.6400136
+  ],
+  "description": "As key competitive and spectator fixtures of the ancient Olympic games, stadia at the sanctuary of Olympia were relocated, renovated, and modified throughout the history of the games, which stretched from at least the archaic period to the 4th century CE. The visible, well-known site today -- known as Stadium III in the literature -- was originally constructed in the fifth century CE to replace a series of earlier structures elsewhere in the sanctuary.",
+  "connectsWith": [
+    "570531"
+  ],
+  "names": [
+    "Stadio III",
+    "Stadion III"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6334845963,
+          37.6393094475
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.6321738,
+            37.6390242
+          ],
+          [
+            21.6322058,
+            37.6389632
+          ],
+          [
+            21.6324374,
+            37.6385293
+          ],
+          [
+            21.6346992,
+            37.6392789
+          ],
+          [
+            21.6348571,
+            37.6394101
+          ],
+          [
+            21.6349176,
+            37.6395944
+          ],
+          [
+            21.63487,
+            37.6397847
+          ],
+          [
+            21.6347626,
+            37.6399306
+          ],
+          [
+            21.6345391,
+            37.6400136
+          ],
+          [
+            21.6343135,
+            37.640009
+          ],
+          [
+            21.6320514,
+            37.6392597
+          ],
+          [
+            21.6321738,
+            37.6390242
+          ]
+        ]
+      },
+      "id": "osm-location-extant-stadium-at-olympia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Classical Stadium at Olympia",
+        "link": "http://pleiades.stoa.org/places/929651744/osm-location-extant-stadium-at-olympia"
+      }
+    }
+  ]
+}

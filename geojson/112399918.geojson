@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Withdrawn duplicate: Thracian Tomb of Sveshtari",
+  "id": "112399918",
+  "bbox": [
+    26.7663,
+    43.744964,
+    26.7663,
+    43.744964
+  ],
+  "description": "Inadvertant duplicate of https://pleiades.stoa.org/places/216999",
+  "connectsWith": [
+    "534537108"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7663,
+          43.744964
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7663,
+          43.744964
+        ]
+      },
+      "id": "location-of-the-thracian-tomb-of-sveshtari",
+      "type": "Feature",
+      "properties": {
+        "description": "location verified in Google Earth 2012",
+        "location_precision": "precise",
+        "title": "Imagery location of the Thracian Tomb of Sveshtari",
+        "link": "http://pleiades.stoa.org/errata/112399918/location-of-the-thracian-tomb-of-sveshtari"
+      }
+    }
+  ]
+}

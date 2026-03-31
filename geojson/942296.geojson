@@ -3,10 +3,10 @@
   "title": "Padishkhwar(gar)?/Pressouar?/Harborz M.",
   "id": "942296",
   "bbox": [
-    52.0,
-    35.0,
-    53.0,
-    36.0
+    52.1103419,
+    35.954365,
+    52.1103419,
+    35.954365
   ],
   "description": "An ancient place, cited: BAtlas 96 A4 Padishkhwar(gar)?/Pressouar?/Harborz M.",
   "names": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          52.5,
-          35.5
+          52.1103419,
+          35.954365
         ]
       },
       "properties": {

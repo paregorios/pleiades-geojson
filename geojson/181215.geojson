@@ -3,8 +3,12 @@
   "title": "Loposagium",
   "id": "181215",
   "description": "An ancient place, cited: BAtlas 18 unlocated Loposagium",
+  "connectsWith": [
+    "177516"
+  ],
   "names": [
-    "Loposagium"
+    "Loposagium",
+    "Loposagio"
   ],
   "features": [
     {

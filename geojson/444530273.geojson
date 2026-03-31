@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kayal",
+  "id": "444530273",
+  "bbox": [
+    78.09331,
+    8.66967,
+    78.09331,
+    8.66967
+  ],
+  "description": "A medieval port city on the Bay of Bengal that seems to have replaced ancient Korkai as landscape change modified the course of the Tamiraparani river and the coastline at its delta.",
+  "connectsWith": [
+    "50064"
+  ],
+  "names": [
+    "Kayal",
+    "Kayalpattinam",
+    "Palayakayal",
+    "Cail",
+    "Kabil",
+    "Bawal",
+    "Kabilbatan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.09331,
+          8.66967
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.09331,
+          8.66967
+        ]
+      },
+      "id": "geonames-location-modern-palaiyakayal",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Geonames location: modern Palaiyakāyal",
+        "link": "http://pleiades.stoa.org/places/444530273/geonames-location-modern-palaiyakayal"
+      }
+    }
+  ]
+}

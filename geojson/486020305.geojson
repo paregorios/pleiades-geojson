@@ -3,10 +3,10 @@
   "title": "Portonaccio sanctuary at Veii",
   "id": "486020305",
   "bbox": [
-    12.390833,
-    42.021111,
-    12.390833,
-    42.021111
+    12.3897209,
+    42.0209642,
+    12.3917063,
+    42.0220374
   ],
   "description": "The extraurban sanctuary of Minerva at Portonaccio is an important Etruscan cult center. The temple dates ca. 510 B.C. and was adorned with acroterial sculptures, notably the famous \"Apollo of Veii\".",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.390833,
-          42.021111
+          12.390628131,
+          42.0213867114
         ]
       },
       "properties": {
@@ -31,19 +31,109 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.390833,
-          42.021111
+          [
+            [
+              12.3914074,
+              42.0211387
+            ],
+            [
+              12.3913438,
+              42.0211269
+            ],
+            [
+              12.3911213,
+              42.0211505
+            ],
+            [
+              12.3910401,
+              42.0211112
+            ],
+            [
+              12.3910189,
+              42.0210089
+            ],
+            [
+              12.390865,
+              42.0211121
+            ],
+            [
+              12.3902233,
+              42.0209642
+            ],
+            [
+              12.3901462,
+              42.0210127
+            ],
+            [
+              12.3900664,
+              42.021329
+            ],
+            [
+              12.3901097,
+              42.0215127
+            ],
+            [
+              12.3897782,
+              42.0218803
+            ],
+            [
+              12.3897509,
+              42.0218659
+            ],
+            [
+              12.3897209,
+              42.0218977
+            ]
+          ],
+          [
+            [
+              12.3897209,
+              42.0218977
+            ],
+            [
+              12.3897922,
+              42.0219411
+            ],
+            [
+              12.3899408,
+              42.0220374
+            ],
+            [
+              12.3906513,
+              42.0214179
+            ],
+            [
+              12.3913014,
+              42.021342
+            ],
+            [
+              12.3914623,
+              42.0213075
+            ],
+            [
+              12.3917063,
+              42.0212096
+            ],
+            [
+              12.391696,
+              42.021119
+            ],
+            [
+              12.3914074,
+              42.0211387
+            ]
+          ]
         ]
       },
-      "id": "portonaccio-sanctuary",
+      "id": "osm-location-of-santuario-dellapollo-loc",
       "type": "Feature",
       "properties": {
-        "description": "The Portonaccio sanctuary of Etruscan Veii.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery location of so-called Portonaccio sanctuary",
-        "link": "http://pleiades.stoa.org/places/486020305/portonaccio-sanctuary"
+        "title": "OSM location of Santuario dell'Apollo loc. Portonaccio",
+        "link": "http://pleiades.stoa.org/places/486020305/osm-location-of-santuario-dellapollo-loc"
       }
     }
   ]

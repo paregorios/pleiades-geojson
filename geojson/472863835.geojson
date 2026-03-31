@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Stadium of Thessaloniki",
+  "id": "472863835",
+  "description": "Convincing literary evidence attests to a stadium at Thessaloniki during the Roman and Late Antique periods. Its precise location, however, remains a matter of scholarly uncertainty.",
+  "connectsWith": [
+    "491741"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
