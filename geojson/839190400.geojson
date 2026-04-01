@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kanchipuram",
+  "id": "839190400",
+  "bbox": [
+    79.7053304,
+    12.836393,
+    79.7053304,
+    12.836393
+  ],
+  "description": "An ancient city of India, founded in the 4th century BCE and frequently mentioned in literature thereafter, is still a center of religious life and architecture, as well as the textile industry.",
+  "names": [
+    "Kanchipuram"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7053304,
+          12.836393
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7053304,
+          12.836393
+        ]
+      },
+      "id": "osm-location-modern-kanchipuram",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Kanchipuram",
+        "link": "http://pleiades.stoa.org/places/839190400/osm-location-modern-kanchipuram"
+      }
+    }
+  ]
+}

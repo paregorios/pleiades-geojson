@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Devipattinam",
+  "id": "465741478",
+  "bbox": [
+    78.89558,
+    9.47763,
+    78.89558,
+    9.47763
+  ],
+  "description": "A modern village located on the Bay of Bengal in Tamil Nadu, just north of the Rameswaram peninsula. Epigraphic and ceramic evidence indicate that the village's antecedent was a thriving locus of maritime trade from the 13th to the 17th centuries CE.",
+  "names": [
+    "Devipattinam",
+    "Mali-Fitan",
+    "Mali-Fatan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.89558,
+          9.47763
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.89558,
+          9.47763
+        ]
+      },
+      "id": "geonames-location-modern-devipattinam",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "GeoNames location: modern Devipattinam",
+        "link": "http://pleiades.stoa.org/places/465741478/geonames-location-modern-devipattinam"
+      }
+    }
+  ]
+}

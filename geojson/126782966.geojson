@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nīrpeya̤r̤ru",
+  "id": "126782966",
+  "description": "A Tamil placename treated as a seaport in the second-century Perumpāṇāṟṟuppaṭai. Dayalan 2019 suggests it might be identified as an earlier name of Mamallapuram.",
+  "connectsWith": [
+    "119192778"
+  ],
+  "names": [
+    "Nīrpeya̤r̤ru"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

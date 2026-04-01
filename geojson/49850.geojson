@@ -3,24 +3,44 @@
   "title": "Alagankulam",
   "id": "49850",
   "bbox": [
-    78.992932,
-    9.362056,
+    78.9657778,
+    9.355726,
     78.992932,
     9.362056
   ],
-  "description": "An ancient place, cited: BAtlas 5 D5 Alagankulam",
+  "description": "The ancient settlement associated with the modern village of Alagankulam on the Vaigai river in Tamil Nadu is thought to have been an ancient seaport though now positioned some 3 kilometers from the coast. The immediate area has produced local and imported ceramics (including Mediterranean amphorae and Roman potsherds), as well as fourth-century Roman coins.",
+  "names": [
+    "Alagankulam"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          78.992932,
-          9.362056
+          78.9793549,
+          9.358891
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9657778,
+          9.355726
+        ]
+      },
+      "id": "osm-location-modern-alagankulam",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Alagankulam",
+        "link": "http://pleiades.stoa.org/places/49850/osm-location-modern-alagankulam"
       }
     },
     {
@@ -34,7 +54,7 @@
       "id": "darmc-location-11291",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 11291",
         "link": "http://pleiades.stoa.org/places/49850/darmc-location-11291"

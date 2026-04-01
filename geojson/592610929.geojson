@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Garden of the Small Baths (Cuicul)",
+  "id": "592610929",
+  "bbox": [
+    5.736305,
+    36.3185249,
+    5.736305,
+    36.3185249
+  ],
+  "description": "A Roman-era garden, with terrace, dining room, water feature, and other components, located next to the small baths at Cuicul (modern Djemila) in Algeria.",
+  "connectsWith": [
+    "305068"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736305,
+          36.3185249
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736305,
+          36.3185249
+        ]
+      },
+      "id": "osm-location-garden-of-the-small-baths-cuicul",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Garden of the Small Baths (Cuicul)",
+        "link": "http://pleiades.stoa.org/places/592610929/osm-location-garden-of-the-small-baths-cuicul"
+      }
+    }
+  ]
+}

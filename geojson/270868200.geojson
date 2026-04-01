@@ -9,6 +9,9 @@
     41.251421
   ],
   "description": "A road in Apulia leading from Aeclanum toward Vibinum. The Via Aurelia Aeclanensis? intersects the Via Herculia.",
+  "names": [
+    "Via Aurelia Aeclanensis?"
+  ],
   "features": [
     {
       "type": "Feature",

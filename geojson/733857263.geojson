@@ -9,6 +9,11 @@
     39.1461
   ],
   "description": "Find place for Urartian stone inscriptions.",
+  "names": [
+    "Malāẕcürd",
+    "Malāẕgird",
+    "Malazgirt"
+  ],
   "features": [
     {
       "type": "Feature",

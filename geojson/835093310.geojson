@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Mahabalipuram",
+  "title": "Group of monuments at Mahabalipuram (Q3522747)",
   "id": "835093310",
   "bbox": [
     80.1902927,
@@ -9,7 +9,13 @@
     12.6202059
   ],
   "description": "This group of sanctuaries was carved out of rock along the Coromandel coast in the seventh and eighth centuries. The Group of Monuments at Mahabalipuram is a UNESCO World Heritage site.",
+  "connectsWith": [
+    "119192778"
+  ],
   "names": [
+    "Seven Pagodas",
+    "Mamallapuram temples",
+    "Mahabalipuram temples",
     "Group of Monuments at Mahabalipuram"
   ],
   "features": [

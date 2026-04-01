@@ -1,16 +1,23 @@
 {
   "type": "FeatureCollection",
-  "title": "Nikama",
+  "title": "Nagappattinam",
   "id": "50168",
   "bbox": [
-    79.842074,
-    10.784632,
-    79.842074,
-    10.784632
+    79.8430779,
+    10.7647952,
+    79.8430779,
+    10.7647952
   ],
-  "description": "An ancient place, cited: BAtlas 5 D4 Nikama",
+  "description": "An ancient seaport, locus of Indian Ocean trade, Buddhist center, and major site for bronze production attested archaeologically and in epigraphic and literary sources from the time of Ptolemy to the present.",
   "names": [
-    "Nikama"
+    "Nikama",
+    "Nikamma",
+    "Nagapattinam",
+    "Nagappattinam",
+    "Nagavadana",
+    "Pa-tan",
+    "Malifattan",
+    "Navutapattana"
   ],
   "features": [
     {
@@ -18,8 +25,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.842074,
-          10.784632
+          79.8430779,
+          10.7647952
         ]
       },
       "properties": {
@@ -30,17 +37,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.842074,
-          10.784632
+          79.8430779,
+          10.7647952
         ]
       },
-      "id": "darmc-location-20528",
+      "id": "osm-location-modern-nagapattinam",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20528",
-        "link": "http://pleiades.stoa.org/places/50168/darmc-location-20528"
+        "title": "OSM Location: modern Nagapattinam",
+        "link": "http://pleiades.stoa.org/places/50168/osm-location-modern-nagapattinam"
       }
     }
   ]

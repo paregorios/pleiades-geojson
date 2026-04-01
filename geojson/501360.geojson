@@ -3,10 +3,10 @@
   "title": "Armira",
   "id": "501360",
   "bbox": [
-    26.032179,
-    41.468644,
-    26.032179,
-    41.468644
+    26.1055297,
+    41.4987663,
+    26.1078229,
+    41.4995638
   ],
   "description": "An ancient place, cited: BAtlas 51 G2 Armira",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.032179,
-          41.468644
+          26.1066504403,
+          41.4991515598
         ]
       },
       "properties": {
@@ -25,19 +25,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          26.032179,
-          41.468644
+          [
+            26.1061305,
+            41.4995638
+          ],
+          [
+            26.1067635,
+            41.4994534
+          ],
+          [
+            26.1070451,
+            41.4994433
+          ],
+          [
+            26.1073428,
+            41.4993891
+          ],
+          [
+            26.1074179,
+            41.4992685
+          ],
+          [
+            26.1078229,
+            41.4991159
+          ],
+          [
+            26.1077344,
+            41.498923
+          ],
+          [
+            26.1071712,
+            41.4991139
+          ],
+          [
+            26.1068788,
+            41.49914
+          ],
+          [
+            26.1067501,
+            41.4990656
+          ],
+          [
+            26.1065945,
+            41.4988949
+          ],
+          [
+            26.1064604,
+            41.4987663
+          ],
+          [
+            26.1061117,
+            41.4987703
+          ],
+          [
+            26.1058032,
+            41.4988206
+          ],
+          [
+            26.1056074,
+            41.4989029
+          ],
+          [
+            26.1055297,
+            41.4990214
+          ],
+          [
+            26.1057174,
+            41.4992846
+          ],
+          [
+            26.105932,
+            41.4992183
+          ],
+          [
+            26.1061305,
+            41.4995638
+          ]
         ]
       },
-      "id": "darmc-location-17367",
+      "id": "osm-location-of-dd-d-ddeg-dnd1-4d-nddeg",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17367",
-        "link": "http://pleiades.stoa.org/places/501360/darmc-location-17367"
+        "title": "OSM location of Вила Армира",
+        "link": "http://pleiades.stoa.org/places/501360/osm-location-of-dd-d-ddeg-dnd1-4d-nddeg"
       }
     }
   ]

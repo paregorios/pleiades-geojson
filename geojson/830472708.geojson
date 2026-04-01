@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Marakkanam",
+  "id": "830472708",
+  "bbox": [
+    79.9441819,
+    12.1959326,
+    79.9441819,
+    12.1959326
+  ],
+  "description": "A modern town in the Villupuram district of Tamil Nadu that was firmly identified in the Barrington Atlas as the location of an emporion named \"Sopatma\", mentioned in the PME.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9441819,
+          12.1959326
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9441819,
+          12.1959326
+        ]
+      },
+      "id": "osm-location-modern-marakkanam",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Marakkanam",
+        "link": "http://pleiades.stoa.org/places/830472708/osm-location-modern-marakkanam"
+      }
+    }
+  ]
+}

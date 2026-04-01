@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Moab (kingdom)",
   "id": "981247534",
+  "bbox": [
+    35.3902687,
+    31.3172013,
+    35.780512,
+    31.7647689
+  ],
   "description": "An ancient Levantine kingdom located in what is today the modern state of Jordan.",
   "connectsWith": [
     "697709",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.637109376,
+          31.5153989422
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

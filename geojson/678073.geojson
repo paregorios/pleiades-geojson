@@ -8,7 +8,7 @@
     36.4919279,
     32.5265209
   ],
-  "description": "The ancient city of Bostra (modern Busra in Syria), where extensive ancient Nabataean, Roman, Byzantine and Umayyad structures still visible. Inscribed as a UNESCO World Heritage Site in 1980.",
+  "description": "The ancient city of Bostra (modern Busra in Syria), where extensive ancient Nabataean, Roman, Byzantine, and Umayyad structures still visible. Inscribed as a UNESCO World Heritage Site in 1980.",
   "names": [
     "Bostra",
     "Col. Nova Traiana Alexandriana",
@@ -27,7 +27,10 @@
     "Colonia Nea Traiana Alex. B.",
     "Bȯṣrȧ",
     "Boṣrȧ",
-    "VI Ferrata (Hadr.) garrison"
+    "VI Ferrata (Hadr.) garrison",
+    "Buṣrā",
+    "Busra esh-Sham",
+    "Bostris"
   ],
   "features": [
     {
