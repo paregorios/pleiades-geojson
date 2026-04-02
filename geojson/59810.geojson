@@ -3,10 +3,10 @@
   "title": "Erymandros (river)",
   "id": "59810",
   "bbox": [
-    61.3398081,
-    30.1459038,
-    68.5076638,
-    34.5736772
+    61.3397585,
+    30.1440695,
+    68.5062978,
+    34.5746669
   ],
   "description": "The Helmand River flows some 1,150 km (710 mi) from the Hindu Kush mountains to the Sistan basin.",
   "names": [
@@ -15,7 +15,8 @@
     "Ebimaris",
     "Etymandros",
     "Ethymantus",
-    "Helmand"
+    "Helmand",
+    "Buḥayre-i Ẕerre"
   ],
   "features": [
     {
@@ -23,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          64.7922859838,
-          32.0895932275
+          64.818782978,
+          32.1070123313
         ]
       },
       "properties": {

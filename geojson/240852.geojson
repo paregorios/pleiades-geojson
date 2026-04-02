@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Akontia",
   "id": "240852",
-  "description": "An ancient place, cited: BAtlas 24 unlocated Akontia",
+  "description": "An ancient place in the conventus Cluniensis. Its precise location has not been determined.",
+  "connectsWith": [
+    "459346465"
+  ],
   "names": [
     "Akontia"
   ],

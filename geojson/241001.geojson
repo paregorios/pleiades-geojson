@@ -3,6 +3,9 @@
   "title": "Sandaquitum",
   "id": "241001",
   "description": "An ancient place, cited: BAtlas 24 unlocated Sandaquitum",
+  "connectsWith": [
+    "459346465"
+  ],
   "names": [
     "Sandaquitum"
   ],

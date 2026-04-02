@@ -2,27 +2,31 @@
   "type": "FeatureCollection",
   "title": "Phernouphites",
   "id": "730142",
-  "description": "An ancient place, cited: BAtlas 74 unlocated Phernouphites",
+  "bbox": [
+    31.5659710781,
+    31.0328463695,
+    31.738482001,
+    31.0346309653
+  ],
+  "description": "A toparchy in Egypt's Mendesios Nomos. Its precise location is not known.",
+  "connectsWith": [
+    "727159"
+  ],
   "names": [
     "Phernouphites"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.646782758,
+          31.0337616047
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/730142/undetermined"
       }
     }
   ]
