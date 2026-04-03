@@ -1,15 +1,18 @@
 {
   "type": "FeatureCollection",
-  "title": "Kottis",
+  "title": "Kottapatnam",
   "id": "50081",
   "bbox": [
-    79.904146,
-    15.074163,
-    79.904146,
-    15.074163
+    80.1199192,
+    14.1160137,
+    80.1199192,
+    14.1160137
   ],
-  "description": "An ancient place, cited: BAtlas 5 E3 Kottis",
+  "description": "A modern village near the coast north from Chennai where an archaeologically attested seaport settlement flourished from the 3rd century BCE until the 15th century CE as attested by remnants of Chinese and Thai pottery -- as well as a Chinese coin. It is probably to be identified with Ptolemy's \"Kottis\".",
   "names": [
+    "Kottapatnam",
+    "Kottapattinam",
+    "Kothapatnam",
     "Kottis"
   ],
   "features": [
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.904146,
-          15.074163
+          80.1199192,
+          14.1160137
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.904146,
-          15.074163
+          80.1199192,
+          14.1160137
         ]
       },
-      "id": "darmc-location-10100",
+      "id": "osm-location-modern-kothapatnam",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap, verified with reference to sketch map in Tripati 2014.",
         "location_precision": "precise",
-        "title": "DARMC location 10100",
-        "link": "http://pleiades.stoa.org/places/50081/darmc-location-10100"
+        "title": "OSM Location: modern Kothapatnam",
+        "link": "http://pleiades.stoa.org/places/50081/osm-location-modern-kothapatnam"
       }
     }
   ]

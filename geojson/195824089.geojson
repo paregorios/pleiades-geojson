@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "title": "Al-Aqsa Mosque",
+  "id": "195824089",
+  "bbox": [
+    35.2349642,
+    31.7757223,
+    35.2362398,
+    31.7765879
+  ],
+  "description": "The Al-Aqsa Mosque in Jerusalem was established on the Temple Mount/Haram al-Sharif in the seventh century. It is the third holiest site of Islam.",
+  "connectsWith": [
+    "687928"
+  ],
+  "names": [
+    "Beyt-i Maḳdis",
+    "Mescid-i Aksa Camii",
+    "Al-Aqsa Mosque"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.235586114,
+          31.7760817407
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.2352588,
+            31.776504
+          ],
+          [
+            35.235836,
+            31.7765879
+          ],
+          [
+            35.2359346,
+            31.7760978
+          ],
+          [
+            35.2359792,
+            31.7761043
+          ],
+          [
+            35.2359905,
+            31.7760477
+          ],
+          [
+            35.2360311,
+            31.7760536
+          ],
+          [
+            35.2360383,
+            31.7760179
+          ],
+          [
+            35.2360161,
+            31.7760147
+          ],
+          [
+            35.2360229,
+            31.7759809
+          ],
+          [
+            35.2360423,
+            31.7759837
+          ],
+          [
+            35.2360455,
+            31.7759676
+          ],
+          [
+            35.2362233,
+            31.7759912
+          ],
+          [
+            35.2362398,
+            31.775911
+          ],
+          [
+            35.2357969,
+            31.7758433
+          ],
+          [
+            35.2349954,
+            31.7757223
+          ],
+          [
+            35.2349642,
+            31.7759001
+          ],
+          [
+            35.2353685,
+            31.7759589
+          ],
+          [
+            35.2352588,
+            31.776504
+          ]
+        ]
+      },
+      "id": "al-aqsa-mosque",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Al-Aqsa Mosque",
+        "link": "http://pleiades.stoa.org/places/195824089/al-aqsa-mosque"
+      }
+    }
+  ]
+}

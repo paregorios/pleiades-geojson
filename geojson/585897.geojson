@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Bothynos",
   "id": "585897",
-  "description": "An ancient place, cited: BAtlas 59 unlocated Bothynos",
+  "description": "A locality along the sacred way to Eleusis from Athens. Its precise location has not been determined.",
+  "connectsWith": [
+    "522406511"
+  ],
   "names": [
     "Bothynos"
   ],

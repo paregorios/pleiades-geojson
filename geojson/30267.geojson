@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Saganos",
   "id": "30267",
-  "description": "An ancient place, cited: BAtlas 3 unlocated Saganos fl.",
+  "description": "An ancient coastal river of Carmania, reported by Ptolemy. BAtlas declined to place it on a map.",
+  "connectsWith": [
+    "29517"
+  ],
   "names": [
     "Saganos"
   ],
