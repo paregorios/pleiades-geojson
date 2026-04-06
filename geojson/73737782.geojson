@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tanda",
+  "id": "73737782",
+  "bbox": [
+    86.358962,
+    23.476401,
+    86.358962,
+    23.476401
+  ],
+  "description": "16th-century city of Bengal in South Asia",
+  "connectsWith": [
+    "59822"
+  ],
+  "names": [
+    "Tanda",
+    "Tanda"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.358962,
+          23.476401
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.358962,
+          23.476401
+        ]
+      },
+      "id": "imagery-location-of-tanda-bengal",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location of Tanda, Bengal",
+        "link": "http://pleiades.stoa.org/places/73737782/imagery-location-of-tanda-bengal"
+      }
+    }
+  ]
+}

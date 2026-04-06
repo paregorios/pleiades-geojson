@@ -9,6 +9,9 @@
     29.543969
   ],
   "description": "An ancient place, cited: BAtlas 76 G2 Khirbet el-Kithara",
+  "connectsWith": [
+    "849650099"
+  ],
   "names": [
     "Khirbet el-Kithara"
   ],

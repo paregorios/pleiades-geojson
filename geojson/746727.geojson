@@ -9,6 +9,9 @@
     28.687598
   ],
   "description": "An ancient place, cited: BAtlas 76 E4 ed-Deir",
+  "names": [
+    "ed-Deir"
+  ],
   "features": [
     {
       "type": "Feature",

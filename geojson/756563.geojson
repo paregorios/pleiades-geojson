@@ -9,6 +9,9 @@
     27.351066
   ],
   "description": "An ancient place, cited: BAtlas 77 E2 Deir Magara",
+  "names": [
+    "Deir Magara"
+  ],
   "features": [
     {
       "type": "Feature",

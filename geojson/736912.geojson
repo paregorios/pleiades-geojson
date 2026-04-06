@@ -9,6 +9,9 @@
     28.092915
   ],
   "description": "An ancient place, cited: BAtlas 75 D4 Gabbanet el-Mitlaq",
+  "names": [
+    "Gabbanet el-Mitlaq"
+  ],
   "features": [
     {
       "type": "Feature",

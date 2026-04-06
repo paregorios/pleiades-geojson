@@ -9,6 +9,9 @@
     31.5
   ],
   "description": "An ancient place, cited: BAtlas 71 B3 ed-Deir",
+  "names": [
+    "ed-Deir"
+  ],
   "features": [
     {
       "type": "Feature",

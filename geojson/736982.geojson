@@ -3,10 +3,10 @@
   "title": "Oxyrhynchites Nomos",
   "id": "736982",
   "bbox": [
-    30.5,
-    28.0,
-    31.0,
-    28.5
+    30.889994,
+    28.819983,
+    30.889994,
+    28.819983
   ],
   "description": "An ancient place, cited: BAtlas 75 D4 Oxyrhynchites Nomos",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.75,
-          28.25
+          30.889994,
+          28.819983
         ]
       },
       "properties": {

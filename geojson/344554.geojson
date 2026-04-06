@@ -9,6 +9,9 @@
     31.533778
   ],
   "description": "An ancient place, cited: BAtlas 35 F3 Wadi Migdal",
+  "names": [
+    "Wadi Migdal"
+  ],
   "features": [
     {
       "type": "Feature",

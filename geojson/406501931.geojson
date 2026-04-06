@@ -8,9 +8,12 @@
     -9.1400214,
     53.0486903
   ],
-  "description": "The Poulnabrone dolmen is a portal tomb in County Clare, Ireland, dating between 4200 and 2900 BC.",
+  "description": "The Poulnabrone dolmen is a portal tomb in County Clare, Ireland, dating between 4200 and 2900 BCE.",
   "connectsWith": [
     "20487"
+  ],
+  "names": [
+    "Poulnabrone dolmen"
   ],
   "features": [
     {

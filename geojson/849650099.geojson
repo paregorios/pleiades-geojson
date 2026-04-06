@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Wadi Yutm",
+  "id": "849650099",
+  "bbox": [
+    35.058802,
+    29.573495,
+    35.058802,
+    29.573495
+  ],
+  "description": "A valley and associated region extending to the north northeast from Aqaba in southern Jordan. It served as a travel corridor in antiquity and has been the subject of intensive archaeological survey. It contains a number of documented sites, roadways, and water-management features.",
+  "names": [
+    "Wadi Yutm",
+    "Wadi al Yutm"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.058802,
+          29.573495
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.058802,
+          29.573495
+        ]
+      },
+      "id": "osm-location-wadi-yutm",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Wadi Yutm",
+        "link": "http://pleiades.stoa.org/places/849650099/osm-location-wadi-yutm"
+      }
+    }
+  ]
+}

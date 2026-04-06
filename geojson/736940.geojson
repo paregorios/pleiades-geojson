@@ -9,6 +9,9 @@
     29.032944
   ],
   "description": "An ancient place, cited: BAtlas 75 D3 el-Kom el-Ahmar (Dishasha)",
+  "names": [
+    "el-Kom el-Ahmar (Dishasha)"
+  ],
   "features": [
     {
       "type": "Feature",

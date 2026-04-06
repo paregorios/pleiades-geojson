@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Apa Apollo, Mon.",
+  "title": "Apa Apollo (monastery)",
   "id": "756520",
   "bbox": [
-    31.247166,
-    27.020147,
-    31.247166,
-    27.020147
+    31.2317382,
+    27.0312504,
+    31.2349851,
+    27.0335291
   ],
   "description": "An ancient place, cited: BAtlas 77 E2 Apa Apollo, Mon.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.247166,
-          27.020147
+          31.2333022576,
+          27.0321464507
         ]
       },
       "properties": {
@@ -29,19 +29,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          31.247166,
-          27.020147
+          [
+            31.2338448,
+            27.0335291
+          ],
+          [
+            31.2322672,
+            27.0326995
+          ],
+          [
+            31.2323486,
+            27.0323117
+          ],
+          [
+            31.2317382,
+            27.0320688
+          ],
+          [
+            31.2317416,
+            27.0313435
+          ],
+          [
+            31.2326311,
+            27.0315272
+          ],
+          [
+            31.2342313,
+            27.0312504
+          ],
+          [
+            31.2349851,
+            27.0315574
+          ],
+          [
+            31.2338448,
+            27.0335291
+          ]
         ]
       },
-      "id": "darmc-location-12196",
+      "id": "osm-location-of-dayr-al-balayza",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 12196",
-        "link": "http://pleiades.stoa.org/places/756520/darmc-location-12196"
+        "title": "OSM location of Dayr al-Balāyza",
+        "link": "http://pleiades.stoa.org/places/756520/osm-location-of-dayr-al-balayza"
       }
     }
   ]

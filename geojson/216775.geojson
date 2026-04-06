@@ -9,6 +9,9 @@
     45.6195179
   ],
   "description": "An ancient place, cited: BAtlas 22 C3 Comidava",
+  "connectsWith": [
+    "220468"
+  ],
   "names": [
     "Comidava",
     "Cumidava"
