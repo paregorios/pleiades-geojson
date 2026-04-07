@@ -4,8 +4,8 @@
   "id": "49939",
   "bbox": [
     79.8537308,
-    11.025067,
-    79.85456,
+    11.1452914,
+    79.8537308,
     11.1452914
   ],
   "description": "This ancient settlement and seaport was located on the southeastern coast of peninsular India in the vicinity of the modern village of Poompuhar/Poombuhar. Excavations (including a wood-then-brick-built wharf carbon-dated to ca. 250 BCE), as well as epigraphic and literary evidence, demonstrate a thriving seaborne trade and Buddhist religious center through to the 7th century CE. The place was known to the Romans as Chaberis (Ptolemy) and Kamara (PME).",
@@ -25,29 +25,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.8541454,
-          11.0851792
+          79.8537308,
+          11.1452914
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.85456,
-          11.025067
-        ]
-      },
-      "id": "darmc-location-20158",
-      "type": "Feature",
-      "properties": {
-        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 20158",
-        "link": "http://pleiades.stoa.org/places/49939/darmc-location-20158"
       }
     },
     {

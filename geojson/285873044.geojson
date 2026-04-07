@@ -3,20 +3,23 @@
   "title": "Unnamed bridge near Concordia Sagittaria",
   "id": "285873044",
   "bbox": [
+    12.8377098,
+    45.7583374,
     12.8382999,
-    45.7585711,
-    12.8382999,
-    45.7585711
+    45.7586871
   ],
   "description": "A Roman bridge near Concordia Sagittaria.",
+  "connectsWith": [
+    "393441"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8382999,
-          45.7585711
+          12.8380113637,
+          45.7585218427
         ]
       },
       "properties": {

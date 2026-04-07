@@ -3,20 +3,20 @@
   "title": "Theater-temple complex, Monte San Nicola",
   "id": "251442732",
   "bbox": [
-    14.169229,
-    41.335932,
-    14.1698579,
-    41.3363785
+    14.1690935,
+    41.3358515,
+    14.1698083,
+    41.3362687
   ],
-  "description": "A theater-temple complex that stands within pre-Roman walls belonging to a period of Samnite occupation on Monte San Nicola in the municipality of Pietravairano.",
+  "description": "A theater-temple complex that stands within pre-Roman walls belonging to a period of Samnite occupation on Monte San Nicola in the municipality of Pietravairano, Italy.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.16954345,
-          41.33615525
+          14.1694522097,
+          41.3360743452
         ]
       },
       "properties": {

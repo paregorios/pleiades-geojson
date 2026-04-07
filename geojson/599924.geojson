@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Samiopoula",
+  "title": "Samiopoula (settlement opposite)",
   "id": "599924",
   "bbox": [
     26.79967,
@@ -8,7 +8,7 @@
     26.79967,
     37.651889
   ],
-  "description": "An ancient place, cited: BAtlas 61 D2 Samiopoula",
+  "description": "On the island of Thasos, opposite the small islet of Samiopoula on land then controlled by that islets' inhabitants, twentieth-century scholars noted remains of a Roman-Byzantine-era settlement and associated tombs.",
   "connectsWith": [
     "599926",
     "668432190"

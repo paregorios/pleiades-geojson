@@ -3,10 +3,10 @@
   "title": "Linguella Roman villa",
   "id": "850888151",
   "bbox": [
-    10.3303423,
-    42.8118995,
-    10.3303423,
-    42.8118995
+    10.3300895,
+    42.8117958,
+    10.3305738,
+    42.8120952
   ],
   "description": "A multi-phase villa on the island of Elba.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.3303423,
-          42.8118995
+          10.3303362692,
+          42.8119294814
         ]
       },
       "properties": {
@@ -28,19 +28,73 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.3303423,
-          42.8118995
+          [
+            10.3303249,
+            42.8120952
+          ],
+          [
+            10.3300895,
+            42.8119442
+          ],
+          [
+            10.330148,
+            42.811891
+          ],
+          [
+            10.3301606,
+            42.8118924
+          ],
+          [
+            10.3301795,
+            42.8118945
+          ],
+          [
+            10.3301923,
+            42.8118959
+          ],
+          [
+            10.3302992,
+            42.8118338
+          ],
+          [
+            10.3303299,
+            42.8118471
+          ],
+          [
+            10.3303682,
+            42.8118201
+          ],
+          [
+            10.3304094,
+            42.8118014
+          ],
+          [
+            10.3304204,
+            42.8118154
+          ],
+          [
+            10.3304757,
+            42.8117958
+          ],
+          [
+            10.3305738,
+            42.8118822
+          ],
+          [
+            10.3303249,
+            42.8120952
+          ]
         ]
       },
-      "id": "osm-location-of-villa-romana-della-linguella",
+      "id": "osm-location-villa-romana-della-linguella",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa romana della Linguella",
-        "link": "http://pleiades.stoa.org/places/850888151/osm-location-of-villa-romana-della-linguella"
+        "title": "OSM location: Villa romana della Linguella",
+        "link": "http://pleiades.stoa.org/places/850888151/osm-location-villa-romana-della-linguella"
       }
     }
   ]
