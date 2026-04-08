@@ -3,10 +3,10 @@
   "title": "Horti Spei Veteris",
   "id": "874244230",
   "bbox": [
-    12.486137,
-    41.891775,
-    12.486137,
-    41.891775
+    12.514661,
+    41.889222,
+    12.514661,
+    41.889222
   ],
   "description": "Public gardens of the Esquiline Hill (Regio V).",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.486137,
-          41.891775
+          12.514661,
+          41.889222
         ]
       },
       "properties": {

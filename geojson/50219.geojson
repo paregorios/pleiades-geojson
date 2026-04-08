@@ -1,17 +1,18 @@
 {
   "type": "FeatureCollection",
-  "title": "Pitoura",
+  "title": "Dharanikota/Pitoura",
   "id": "50219",
   "bbox": [
     80.031192,
     16.346845,
-    80.031192,
-    16.346845
+    80.3483711,
+    16.5776502
   ],
-  "description": "An ancient place, cited: BAtlas 5 E3 Pitoura",
+  "description": "Dharanikota is a modern village adjoining Amaravathi on the southern bank of the Krishna river in Andhra Pradesh. Ancient habitation, attested by pottery, and a series of wharfs and water management structures in various materials including brick and stone, indicate that trade and settlement activity began at the site as early as the second century BCE. The site has been identified with Ptolemy's Pitoura, which he identifies as a \"metropolis\".",
   "names": [
     "Pitoura",
-    "Pityndra"
+    "Pityndra",
+    "Dharanikota"
   ],
   "features": [
     {
@@ -19,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.031192,
-          16.346845
+          80.18978155,
+          16.4622476
         ]
       },
       "properties": {
@@ -38,10 +39,27 @@
       "id": "darmc-location-14303",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 14303",
         "link": "http://pleiades.stoa.org/places/50219/darmc-location-14303"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3483711,
+          16.5776502
+        ]
+      },
+      "id": "osm-location-modern-dharanikota",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Dharanikota",
+        "link": "http://pleiades.stoa.org/places/50219/osm-location-modern-dharanikota"
       }
     }
   ]

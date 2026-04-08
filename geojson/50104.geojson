@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Maisolos (river)",
+  "title": "Krishna/Maisolos (river)",
   "id": "50104",
   "bbox": [
     73.6380261,
@@ -8,9 +8,11 @@
     81.133604,
     17.9890781
   ],
-  "description": "An ancient place, cited: BAtlas 5 D3 Maisolos fl.",
+  "description": "The modern Krishna river in India was known to Ptolemy as Maisolos.",
   "names": [
-    "Maisolos"
+    "Maisolos",
+    "Kr̥ṣṇā nadi",
+    "Krishna"
   ],
   "features": [
     {

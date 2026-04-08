@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Santuario rupestre di Silvano",
+  "id": "346004678",
+  "bbox": [
+    13.2550536,
+    41.2923868,
+    13.2550536,
+    41.2923868
+  ],
+  "description": "The so-called rock-cut sanctuary of Silvanus at Terracina.",
+  "connectsWith": [
+    "433143"
+  ],
+  "names": [
+    "Santuario rupestre di Silvano"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2550536,
+          41.2923868
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2550536,
+          41.2923868
+        ]
+      },
+      "id": "osm-location-of-santuario-rupestre-di-silvano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Santuario rupestre di Silvano",
+        "link": "http://pleiades.stoa.org/places/346004678/osm-location-of-santuario-rupestre-di-silvano"
+      }
+    }
+  ]
+}
