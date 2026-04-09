@@ -9,6 +9,9 @@
     45.0
   ],
   "description": "An ancient place, cited: BAtlas 23 G4 Parthenion, T.",
+  "connectsWith": [
+    "226714"
+  ],
   "names": [
     "Parthenion, T."
   ],

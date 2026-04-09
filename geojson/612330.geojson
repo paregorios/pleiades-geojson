@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "24",
+  "title": "Unnamed Bridge",
   "id": "612330",
   "bbox": [
     30.0,
@@ -8,7 +8,10 @@
     30.5,
     39.0
   ],
-  "description": "An ancient place, cited: BAtlas 62 D4 no. 24 (W Akronios, near Akören)",
+  "description": "A Roman bridge located west of Akronios, near Akören.",
+  "names": [
+    "24"
+  ],
   "features": [
     {
       "type": "Feature",
