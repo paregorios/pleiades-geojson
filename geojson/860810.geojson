@@ -1,8 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Iasonia Akropolis",
   "id": "860810",
   "description": "An ancient place, cited: BAtlas 87 unlocated Iasonia Akropolis",
+  "connectsWith": [
+    "857168"
+  ],
   "names": [
     "Iasonia Akropolis"
   ],

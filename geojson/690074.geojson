@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "690074",
   "bbox": [
-    34.930717,
+    34.9279677,
     31.962265,
     35.215235,
-    32.1053
+    32.1093302
   ],
   "description": "Unnamed route or road",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.0838585,
-          32.0259578333
+          35.0839281176,
+          32.0261301865
         ]
       },
       "properties": {

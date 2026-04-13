@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kimonian monuments",
+  "id": "11564736",
+  "bbox": [
+    23.7196103,
+    37.9697061,
+    23.7196103,
+    37.9697061
+  ],
+  "description": "A rock-cut double tomb on the northwestern slope of the Hill of the Muses in Athens, traditionally associated with Kimon. A 3rd-century AD inscription identifies the owner at that time as Zosimianos, indicating re-use of the structure.",
+  "connectsWith": [
+    "968858713",
+    "579980"
+  ],
+  "names": [
+    "Kimōnia Mnēmata"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7196103,
+          37.9697061
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7196103,
+          37.9697061
+        ]
+      },
+      "id": "osm-location-kimons-tomb",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Kimon's Tomb",
+        "link": "http://pleiades.stoa.org/places/11564736/osm-location-kimons-tomb"
+      }
+    }
+  ]
+}
