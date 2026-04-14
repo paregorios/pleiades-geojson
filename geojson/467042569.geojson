@@ -3,10 +3,10 @@
   "title": "Su Fraigu",
   "id": "467042569",
   "bbox": [
-    8.9008531,
+    8.9006184,
     39.4236466,
-    8.9008531,
-    39.4236466
+    8.9014206,
+    39.4241911
   ],
   "description": "A Punic necropolis.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.9008531,
-          39.4236466
+          8.90098024874,
+          39.423909648
         ]
       },
       "properties": {

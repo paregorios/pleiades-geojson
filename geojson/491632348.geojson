@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Darnaychi",
+  "id": "491632348",
+  "bbox": [
+    69.7237438,
+    37.9579461,
+    69.7237438,
+    37.9579461
+  ],
+  "description": "A cemetery site in southern Tajikistan containing burials from the Vaksh culture (mid-late 3rd millennium BCE).",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7237438,
+          37.9579461
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7237438,
+          37.9579461
+        ]
+      },
+      "id": "darnaychi",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Darnaychi burial site, derived from an OpenStreetMap Node after Vinogradova & Kutimov 2018.",
+        "location_precision": "precise",
+        "title": "OSM location of Darnaychi",
+        "link": "http://pleiades.stoa.org/places/491632348/darnaychi"
+      }
+    }
+  ]
+}

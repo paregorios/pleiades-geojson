@@ -9,6 +9,9 @@
     35.0
   ],
   "description": "unnamed cemetery group (on Chalke)",
+  "connectsWith": [
+    "589742"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -9,6 +9,9 @@
     36.421916
   ],
   "description": "An ancient place, cited: BAtlas 61 A5 Meter Theon, T.",
+  "connectsWith": [
+    "599973"
+  ],
   "names": [
     "Meter Theon, T."
   ],

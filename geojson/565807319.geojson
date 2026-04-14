@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Early Christian Necropolis of Pécs (Sopianae)",
+  "id": "565807319",
+  "bbox": [
+    18.2237722,
+    46.0773194,
+    18.2237722,
+    46.0773194
+  ],
+  "description": "A series of decorated early Christian tombs dating to the fourth century CE is located in the town of Sopianae, in the Roman Province of Pannonia. The Early Christian Necropolis of Pécs was enrolled as a UNESCO World Heritage Site in 2000.",
+  "connectsWith": [
+    "197523"
+  ],
+  "names": [
+    "Early Christian Necropolis of Pecs"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2237722,
+          46.0773194
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2237722,
+          46.0773194
+        ]
+      },
+      "id": "osm-location-of-early-christian-necropolis-of-pa-c",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Early Christian Necropolis of Pécs (Sopianae)",
+        "link": "http://pleiades.stoa.org/places/565807319/osm-location-of-early-christian-necropolis-of-pa-c"
+      }
+    }
+  ]
+}

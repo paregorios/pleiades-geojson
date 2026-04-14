@@ -3,10 +3,10 @@
   "title": "Thamna",
   "id": "688040",
   "bbox": [
-    35.105432,
-    32.010553,
-    35.105432,
-    32.010553
+    35.1079091,
+    32.0086044,
+    35.1079091,
+    32.0086044
   ],
   "description": "An ancient place, cited: BAtlas 70 G1 Thamna",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.105432,
-          32.010553
+          35.1079091,
+          32.0086044
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.105432,
-          32.010553
+          35.1079091,
+          32.0086044
         ]
       },
-      "id": "darmc-location-6972",
+      "id": "osm-location-of-xxxxxa-xaxxx-x",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 6972",
-        "link": "http://pleiades.stoa.org/places/688040/darmc-location-6972"
+        "title": "OSM location of חירבת תיבנה",
+        "link": "http://pleiades.stoa.org/places/688040/osm-location-of-xxxxxa-xaxxx-x"
       }
     }
   ]

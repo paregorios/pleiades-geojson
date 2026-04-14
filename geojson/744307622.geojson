@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pianello di Genga",
+  "id": "744307622",
+  "bbox": [
+    12.9365309,
+    43.4075115,
+    12.9365309,
+    43.4075115
+  ],
+  "description": "Pianello di Genga, located in Italy's Ancona province, was the site of a Final Bronze Age settlement, as attested by an extensive necropolis.",
+  "names": [
+    "Pianello di Genga"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9365309,
+          43.4075115
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9365309,
+          43.4075115
+        ]
+      },
+      "id": "osm-location-of-pianello",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pianello",
+        "link": "http://pleiades.stoa.org/places/744307622/osm-location-of-pianello"
+      }
+    }
+  ]
+}

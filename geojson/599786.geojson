@@ -9,6 +9,9 @@
     36.442491
   ],
   "description": "An ancient place, cited: BAtlas 61 E5 Marmara",
+  "connectsWith": [
+    "599961"
+  ],
   "features": [
     {
       "type": "Feature",

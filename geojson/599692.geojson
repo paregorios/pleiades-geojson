@@ -9,6 +9,9 @@
     36.411369
   ],
   "description": "An ancient place, cited: BAtlas 61 A5 Karterados",
+  "connectsWith": [
+    "599973"
+  ],
   "features": [
     {
       "type": "Feature",

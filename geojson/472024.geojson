@@ -3,10 +3,10 @@
   "title": "Sulci(s)",
   "id": "472024",
   "bbox": [
-    8.4547,
-    39.061743,
-    8.4547,
-    39.061743
+    8.4509039,
+    39.070612,
+    8.4520841,
+    39.0723749
   ],
   "description": "A site with Phoenician origins (founded ca. 730-700 B.C.) located in southwestern Sardinia. Site of a Roman naval victory against Carthage by Gaius Sulpicius Paterculus in 258 B.C. during the First Punic War.",
   "connectsWith": [
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4547,
-          39.061743
+          8.45147433118,
+          39.0714858349
         ]
       },
       "properties": {
@@ -37,19 +37,69 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          8.4547,
-          39.061743
+          [
+            8.4517837,
+            39.0723749
+          ],
+          [
+            8.4513223,
+            39.07225
+          ],
+          [
+            8.451274,
+            39.0721209
+          ],
+          [
+            8.4509039,
+            39.0716586
+          ],
+          [
+            8.451274,
+            39.0706216
+          ],
+          [
+            8.4514782,
+            39.070612
+          ],
+          [
+            8.4513384,
+            39.0708298
+          ],
+          [
+            8.451376,
+            39.0709964
+          ],
+          [
+            8.4514994,
+            39.0709339
+          ],
+          [
+            8.45173,
+            39.0709131
+          ],
+          [
+            8.4518641,
+            39.0717544
+          ],
+          [
+            8.4520841,
+            39.071871
+          ],
+          [
+            8.4517837,
+            39.0723749
+          ]
         ]
       },
-      "id": "darmc-location-2102",
+      "id": "osm-location-of-tofet",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 2102",
-        "link": "http://pleiades.stoa.org/places/472024/darmc-location-2102"
+        "title": "OSM location of Sulki",
+        "link": "http://pleiades.stoa.org/places/472024/osm-location-of-tofet"
       }
     }
   ]

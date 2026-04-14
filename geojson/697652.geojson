@@ -9,6 +9,9 @@
     31.271066
   ],
   "description": "An ancient place, cited: BAtlas 71 A3 Deir el-Qattal el-Bizanti",
+  "names": [
+    "Deir el-Qattal el-Bizanti"
+  ],
   "features": [
     {
       "type": "Feature",

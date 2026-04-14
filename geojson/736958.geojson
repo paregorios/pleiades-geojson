@@ -3,8 +3,8 @@
   "title": "Meidum",
   "id": "736958",
   "bbox": [
-    31.1568042,
-    29.3880544,
+    31.1567939,
+    29.3880834,
     31.158411,
     29.389147
   ],
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1576076,
-          29.3886007
+          31.15760245,
+          29.3886152
         ]
       },
       "properties": {
@@ -44,14 +44,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.1568042,
-          29.3880544
+          31.1567939,
+          29.3880834
         ]
       },
       "id": "location-of-meidum-pyramid",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Meidum pyramid",
         "link": "http://pleiades.stoa.org/places/736958/location-of-meidum-pyramid"

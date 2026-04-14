@@ -5,7 +5,7 @@
   "bbox": [
     12.4240513,
     43.0892242,
-    12.4265109,
+    12.4266852,
     43.0906605
   ],
   "description": "A hypogeum-type tomb located in Ponte San Giovanni, a suburb of Perugia. The tomb is generally dated to the third century B.C.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4247507326,
-          43.089634448
+          12.4247830038,
+          43.0896342563
         ]
       },
       "properties": {
