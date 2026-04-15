@@ -3,12 +3,12 @@
   "title": "Turres",
   "id": "311153",
   "bbox": [
-    7.747415,
-    36.881305,
-    7.755129,
-    36.883651
+    7.7477403,
+    36.8790042,
+    7.7525321,
+    36.8858691
   ],
-  "description": "An ancient place, cited: BAtlas 31 unlocated Turres",
+  "description": "An ancient place attested in primary sources, but not precisely locateable today. It was probably located in the vicinity of Hippo Regius.",
   "connectsWith": [
     "305090"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.751272,
-          36.882478
+          7.7501485304,
+          36.8825320915
         ]
       },
       "properties": {

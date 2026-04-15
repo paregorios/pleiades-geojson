@@ -1,16 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Gebel el-Muzawaka",
-  "id": "756300531",
+  "title": "Cavo degli Zucchi",
+  "id": "507797526",
   "bbox": [
-    28.8382409,
-    25.6810829,
-    28.8382409,
-    25.6810829
+    12.3561748,
+    42.2836106,
+    12.3561748,
+    42.2836106
   ],
-  "description": "The Greek and Roman period necropolis at Gebel el-Muzawaka, in Egypt's Dakhleh Oasis.",
+  "description": "A Roman necropolis along the Via Amerina.",
   "connectsWith": [
-    "776172"
+    "690508612"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.8382409,
-          25.6810829
+          12.3561748,
+          42.2836106
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.8382409,
-          25.6810829
+          12.3561748,
+          42.2836106
         ]
       },
-      "id": "osm-location-of-gebel-el-muzawaka",
+      "id": "osm-location-of-cavo-degli-zucchi",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Gebel el-Muzawaka",
-        "link": "http://pleiades.stoa.org/places/756300531/osm-location-of-gebel-el-muzawaka"
+        "title": "OSM location of Cavo degli Zucchi",
+        "link": "http://pleiades.stoa.org/places/507797526/osm-location-of-cavo-degli-zucchi"
       }
     }
   ]

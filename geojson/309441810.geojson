@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Marcus Veius Marcellus",
+  "id": "309441810",
+  "bbox": [
+    14.4837763,
+    40.7533405,
+    14.4838458,
+    40.7533922
+  ],
+  "description": "The Tomb of Marcus Veius Marcellus at Pompeii.",
+  "connectsWith": [
+    "419672522"
+  ],
+  "names": [
+    "Tomb of Marcus Veius Marcellus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4838109979,
+          40.7533668009
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4837763,
+            40.7533682
+          ],
+          [
+            14.483808,
+            40.7533405
+          ],
+          [
+            14.4838458,
+            40.7533673
+          ],
+          [
+            14.4838141,
+            40.7533922
+          ],
+          [
+            14.4837763,
+            40.7533682
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-marcus-veius-marcellus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Marcus Veius Marcellus",
+        "link": "http://pleiades.stoa.org/places/309441810/osm-location-of-tomb-of-marcus-veius-marcellus"
+      }
+    }
+  ]
+}
