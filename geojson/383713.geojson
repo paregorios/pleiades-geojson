@@ -3,10 +3,10 @@
   "title": "Monte S. Martino",
   "id": "383713",
   "bbox": [
-    10.8189765,
-    45.9166019,
-    10.8189765,
-    45.9166019
+    10.8187883,
+    45.916602,
+    10.8187883,
+    45.916602
   ],
   "description": "The remains of a multi-period pre-Roman and Roman sanctuary.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8189765,
-          45.9166019
+          10.8187883,
+          45.916602
         ]
       },
       "properties": {
@@ -27,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8189765,
-          45.9166019
+          10.8187883,
+          45.916602
         ]
       },
       "id": "osm-location-of-archaeological-area",

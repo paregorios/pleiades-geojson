@@ -39,7 +39,7 @@
       "properties": {
         "description": "Representative point derived from Open Street Map",
         "location_precision": "precise",
-        "title": "Monte Rocche",
+        "title": "OSM location of Monte Rocche",
         "link": "http://pleiades.stoa.org/places/659022266/monte-rocche"
       }
     }
