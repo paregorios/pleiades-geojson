@@ -9,6 +9,9 @@
     41.637828
   ],
   "description": "An ancient place, cited: BAtlas 44 E2 Monte del Fico",
+  "names": [
+    "Monte del Fico"
+  ],
   "features": [
     {
       "type": "Feature",

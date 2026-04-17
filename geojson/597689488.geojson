@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Montefalco",
+  "id": "597689488",
+  "bbox": [
+    12.6500673,
+    42.8918739,
+    12.6500673,
+    42.8918739
+  ],
+  "description": "Montefalco is a hilltop town in Italy's present-day Umbria region. Its ancient toponymy and settlement history remain debated, although it is the findspot of several municipal inscriptions in Latin.",
+  "names": [
+    "Montefalco"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6500673,
+          42.8918739
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6500673,
+          42.8918739
+        ]
+      },
+      "id": "osm-location-of-montefalco",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Montefalco",
+        "link": "http://pleiades.stoa.org/places/597689488/osm-location-of-montefalco"
+      }
+    }
+  ]
+}

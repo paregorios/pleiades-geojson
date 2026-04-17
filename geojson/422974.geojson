@@ -9,6 +9,9 @@
     41.748949
   ],
   "description": "An ancient place, cited: BAtlas 43 B2 Monte dell'Oro",
+  "names": [
+    "Monte dell'Oro"
+  ],
   "features": [
     {
       "type": "Feature",
