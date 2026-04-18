@@ -3,20 +3,23 @@
   "title": "Castro de Baroña",
   "id": "236367",
   "bbox": [
-    -9.0318471,
-    42.6946001,
-    -9.0318471,
-    42.6946001
+    -9.0319627,
+    42.6946688,
+    -9.0319627,
+    42.6946688
   ],
   "description": "An ancient place, cited: BAtlas 24 B2 Baroña (Castro de)",
+  "names": [
+    "Baroña (Castro de)"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0318471,
-          42.6946001
+          -9.0319627,
+          42.6946688
         ]
       },
       "properties": {
@@ -27,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.0318471,
-          42.6946001
+          -9.0319627,
+          42.6946688
         ]
       },
       "id": "location-of-castro-de-barona",

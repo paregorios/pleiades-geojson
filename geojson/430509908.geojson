@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Beltra",
+  "id": "430509908",
+  "description": "Beltra is a place marked on the Peutinger map. According to Weissbach, Beltra is likely found between Konkobar and Ecbatana and is \"incorrectly placed on the 'Tabula Peutingeriana'\".",
+  "names": [
+    "Beltra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

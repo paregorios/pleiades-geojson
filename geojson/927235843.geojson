@@ -6,7 +6,7 @@
     12.2514705,
     41.7747038,
     12.2669428,
-    41.7835014
+    41.7828308
   ],
   "description": "The hexagonal Trajanic harbor basin at Portus was built between 100 and 112. Its maximum diameter is approximately 716 meters.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.2599665652,
-          41.7791045161
+          12.2594755208,
+          41.7784985629
         ]
       },
       "properties": {

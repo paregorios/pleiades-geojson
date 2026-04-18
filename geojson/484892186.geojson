@@ -3,14 +3,17 @@
   "title": "Portone necropolis at Volaterrae",
   "id": "484892186",
   "bbox": [
-    10.864228,
-    43.4114377,
-    10.864228,
-    43.4114377
+    10.8645935,
+    43.4143629,
+    10.8645935,
+    43.4143629
   ],
   "description": "The so-called Portone necropolis is a major Hellenistic necropolis outside the walls of Volaterrae.",
   "connectsWith": [
     "403292"
+  ],
+  "names": [
+    "Marmini necropolis"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.864228,
-          43.4114377
+          10.8645935,
+          43.4143629
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.864228,
-          43.4114377
+          10.8645935,
+          43.4143629
         ]
       },
-      "id": "osm-location-of-necropoli-del-portone-o-dei",
+      "id": "osm-location-of-necropoli-etrusca-dei-marmini",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Necropoli del Portone o dei Marmini",
-        "link": "http://pleiades.stoa.org/places/484892186/osm-location-of-necropoli-del-portone-o-dei"
+        "title": "OSM location of Necropoli etrusca dei Marmini",
+        "link": "http://pleiades.stoa.org/places/484892186/osm-location-of-necropoli-etrusca-dei-marmini"
       }
     }
   ]

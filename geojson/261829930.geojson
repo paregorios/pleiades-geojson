@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Anahita Temple",
+  "id": "261829930",
+  "bbox": [
+    47.9577729,
+    34.5004894,
+    47.9609731,
+    34.5029445
+  ],
+  "description": "A platform temple located at Kangāvar in the Kermanshah Province of Iran. Some scholars associate the site with the divinity Anahita.",
+  "connectsWith": [
+    "903054"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9594383275,
+          34.5016718903
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            47.9604552,
+            34.5004894
+          ],
+          [
+            47.9577729,
+            34.500873
+          ],
+          [
+            47.9584787,
+            34.5024687
+          ],
+          [
+            47.9586107,
+            34.5027671
+          ],
+          [
+            47.9589308,
+            34.5027191
+          ],
+          [
+            47.9590879,
+            34.5029445
+          ],
+          [
+            47.9597977,
+            34.5026808
+          ],
+          [
+            47.9601177,
+            34.5026856
+          ],
+          [
+            47.9609731,
+            34.5025609
+          ],
+          [
+            47.960717,
+            34.5017793
+          ],
+          [
+            47.9604552,
+            34.5004894
+          ]
+        ]
+      },
+      "id": "osm-location-of-anahita-temple",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Anahita Temple",
+        "link": "http://pleiades.stoa.org/places/261829930/osm-location-of-anahita-temple"
+      }
+    }
+  ]
+}

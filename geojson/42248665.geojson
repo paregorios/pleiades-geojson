@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Via Gabina villas",
+  "id": "42248665",
+  "bbox": [
+    12.628907,
+    41.878239,
+    12.628907,
+    41.878239
+  ],
+  "description": "Two suburban villa sites and a Late Antique granary were excavated at a site along the Via Gabina 14 km east of central Rome. Walter Widrig and Philip Oliver-Smith directed the excavations.",
+  "names": [
+    "Via Gabina villas"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.628907,
+          41.878239
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.628907,
+          41.878239
+        ]
+      },
+      "id": "vici-org-location-of-villa-della-via-gabina",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Villa della via Gabina",
+        "link": "http://pleiades.stoa.org/places/42248665/vici-org-location-of-villa-della-via-gabina"
+      }
+    }
+  ]
+}

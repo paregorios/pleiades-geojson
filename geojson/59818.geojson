@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Gandaris",
   "id": "59818",
+  "bbox": [
+    67.4095123,
+    23.99074,
+    79.7118503,
+    36.8636905
+  ],
   "description": "Gandaris was an ancient kingdom in the valleys of the Swat and Kabul rivers. Its chief settlements were Purushapura and Takshashila.",
   "names": [
     "Gandaris",
@@ -11,7 +17,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5120952409,
+          33.4900061158
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

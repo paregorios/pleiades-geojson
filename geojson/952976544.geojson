@@ -3,9 +3,9 @@
   "title": "Pagliano Roman port",
   "id": "952976544",
   "bbox": [
-    12.1921804,
-    42.6959763,
-    12.1921804,
+    12.1913894,
+    42.6950423,
+    12.1924565,
     42.6959763
   ],
   "description": "A riverine port near the confluence of the Tiber and Paglia rivers.",
@@ -13,14 +13,17 @@
     "423080",
     "413243"
   ],
+  "names": [
+    "Porto Romano di Pagliano"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1921804,
-          42.6959763
+          12.1919605486,
+          42.6955301821
         ]
       },
       "properties": {

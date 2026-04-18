@@ -4,9 +4,9 @@
   "id": "607885596",
   "bbox": [
     12.3936447,
-    42.0264865,
-    12.3936447,
-    42.0264865
+    42.0264284,
+    12.3944427,
+    42.0267904
   ],
   "description": "At Campetti - Decumano, in the southwestern part of Veii near the \"Portonaccio\" gate, there is evidence for a sacred complex that includes a therapeutic bath dating to the Roman period. Some residential functions emerged in Late Antiquity.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3936447,
-          42.0264865
+          12.394030993,
+          42.0266141979
         ]
       },
       "properties": {

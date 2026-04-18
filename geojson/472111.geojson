@@ -9,6 +9,9 @@
     41.711504
   ],
   "description": "An ancient place, cited: BAtlas 48 C3 Pauka",
+  "connectsWith": [
+    "472014"
+  ],
   "names": [
     "Pauka"
   ],
