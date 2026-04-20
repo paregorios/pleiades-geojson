@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Betuctelum? (river)",
+  "title": "Lys (river)",
   "id": "383590",
   "bbox": [
     7.791786,
@@ -8,12 +8,13 @@
     7.8806958,
     45.8832093
   ],
-  "description": "The ancient Betuctelum river is possibly to be identified with the modern Lys, which flows from the Lys Glacier of the Monte Rosa massif to converge with the river Dora Baltea as a righthand tributary at Pont-Saint-Martin.",
+  "description": "The modern Lys river is possibly to be identified with the ancient Betuctelum river. The Lys flows from the Lys Glacier of the Monte Rosa massif to converge with the river Dora Baltea as a righthand tributary at Pont-Saint-Martin.",
   "connectsWith": [
     "383635"
   ],
   "names": [
-    "Betuctelum"
+    "Betuctelum",
+    "Fluvius Betuctelum"
   ],
   "features": [
     {

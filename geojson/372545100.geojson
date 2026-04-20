@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hind (Sasanian province)",
+  "id": "372545100",
+  "bbox": [
+    67.58333,
+    29.75,
+    67.58333,
+    29.75
+  ],
+  "description": "Claimed as a province by Šāpūr I in extant inscriptions, this province seems to have extended from the Bolan pass and/or Peshawar to the Indus delta.",
+  "connectsWith": [
+    "562111623"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.58333,
+          29.75
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Nahrawān Canal",
   "id": "895436",
   "bbox": [
     44.0,
@@ -8,7 +8,11 @@
     45.0,
     34.0
   ],
-  "description": "An ancient place, cited: BAtlas 91 F4 unnamed canal (Nahrawan)",
+  "description": "A Sasanian irrigation system in central Iraq, associated with the Tigris and Diyala rivers. It seems to have been created in the 6th century CE and remained in use into the 10th.",
+  "names": [
+    "Nahrawan Canal",
+    "Nahrawan"
+  ],
   "features": [
     {
       "type": "Feature",

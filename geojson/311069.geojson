@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ad Olivam",
   "id": "311069",
+  "bbox": [
+    5.055828,
+    36.322729,
+    5.077138,
+    36.328261
+  ],
   "description": "An ancient place, cited: BAtlas 31 unlocated Ad Olivam",
   "connectsWith": [
     "835084120"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.066483,
+          36.325495
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

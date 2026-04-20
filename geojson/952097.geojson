@@ -9,6 +9,9 @@
     39.0
   ],
   "description": "A region of northeastern Iran connected with the Arsacid dynasty, rulers of the Parthian Empire.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Parthyene",
     "Parthia",

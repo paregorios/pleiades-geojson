@@ -9,6 +9,9 @@
     38.5828530118
   ],
   "description": "An ancient place, cited: BAtlas 89 H2 Media Atropatene",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Media Atropatene",
     "Media Minor",

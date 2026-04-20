@@ -3,12 +3,15 @@
   "title": "Iberia (ancient region)",
   "id": "863807",
   "bbox": [
-    44.672277,
-    41.833638,
+    44.674025,
+    41.8382449,
     44.706,
     41.839298
   ],
   "description": "Iberia was an ancient region of southern Caucasia.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Iberia",
     "Iberes"
@@ -19,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.6891385,
-          41.836468
+          44.6748591442,
+          41.8387340854
         ]
       },
       "properties": {

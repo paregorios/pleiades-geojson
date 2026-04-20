@@ -9,6 +9,9 @@
     36.1051141008
   ],
   "description": "An ancient place, cited: BAtlas 3 C2 (As)Syria.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Assyria",
     "Syria"

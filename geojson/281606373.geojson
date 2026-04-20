@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Indus Delta",
+  "id": "281606373",
+  "bbox": [
+    67.59,
+    24.07,
+    67.59,
+    24.07
+  ],
+  "description": "The delta of the Indus river.",
+  "connectsWith": [
+    "59851",
+    "372545100"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.59,
+          24.07
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.59,
+          24.07
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "The delta of the Indus river.",
+        "location_precision": "precise",
+        "title": "Imagery Location",
+        "link": "http://pleiades.stoa.org/places/281606373/imagery-location"
+      }
+    }
+  ]
+}

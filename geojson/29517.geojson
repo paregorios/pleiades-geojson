@@ -9,6 +9,9 @@
     27.96833
   ],
   "description": "A province of both the Achaemenid Empire and the Sassanid Empire.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Carmania"
   ],

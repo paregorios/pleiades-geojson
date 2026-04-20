@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Machilipatnam",
+  "id": "25660908",
+  "bbox": [
+    81.1348181,
+    16.1817369,
+    81.1348181,
+    16.1817369
+  ],
+  "description": "A modern city in the Indian state of Andhra Pradesh, Machilipatnam served as a major port on the Bay of Bengal, from the 16th through the 19th centuries. Some Roman coins and Mediterranean ceramics have been recovered in the area.",
+  "names": [
+    "Machilipatnam",
+    "Macilīpaṭnaṁ",
+    "Masulipattanam",
+    "Masulipatnam",
+    "Masulipatam"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1348181,
+          16.1817369
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1348181,
+          16.1817369
+        ]
+      },
+      "id": "osm-location-modern-machilipatnam",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Machilipatnam",
+        "link": "http://pleiades.stoa.org/places/25660908/osm-location-modern-machilipatnam"
+      }
+    }
+  ]
+}

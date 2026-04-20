@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "title": "Turan",
+  "id": "866200565",
+  "description": "An Indo-Parthian kingdom that became a Sasanian province and was later incorporated into the Umayyad caliphate. It was located in modern Pakistan.",
+  "connectsWith": [
+    "562111623"
+  ],
+  "names": [
+    "Turān",
+    "Turgistan",
+    "Tūrestān",
+    "Turēnē"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

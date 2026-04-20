@@ -9,6 +9,9 @@
     30.5205418663
   ],
   "description": "Sakastan(e) was a region located between Arachosia and Drangiana.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Sakastane",
     "Sakastan",

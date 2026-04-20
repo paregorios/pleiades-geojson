@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Makurān",
+  "id": "477748559",
+  "description": "A region on the north coast of the Gulf of Oman, straddling the modern Iran/Pakistan border and corresponding to modern Makran. It was an ancient province of the Sasanian Empire.",
+  "connectsWith": [
+    "562111623"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

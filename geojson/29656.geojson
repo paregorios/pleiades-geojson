@@ -8,7 +8,10 @@
     60.0,
     30.0
   ],
-  "description": "An ancient place, cited: BAtlas 3 G4 Maka/Maketa",
+  "description": "An ancient people inhabiting a portion of southeastern Iran.",
+  "connectsWith": [
+    "477748559"
+  ],
   "names": [
     "Maka",
     "Maketa"

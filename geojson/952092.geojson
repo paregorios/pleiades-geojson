@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Nev-Shapur",
+  "title": "Nev-Shapur/Nishapur",
   "id": "952092",
   "bbox": [
     58.798373,
@@ -8,10 +8,14 @@
     58.798373,
     36.202448
   ],
-  "description": "An ancient place, cited: BAtlas 97 D3 Nev-Shapur",
+  "description": "An ancient settlement (modern Nishapur), founded or rebuilt by Šāpūr I. Capital of the Sassanian province of Abaršahr.",
+  "connectsWith": [
+    "952057"
+  ],
   "names": [
     "Nev-Shapur",
-    "Nīşābūr"
+    "Nīşābūr",
+    "Nīšāpūr"
   ],
   "features": [
     {

@@ -3,14 +3,18 @@
   "title": "Abarshahr",
   "id": "952057",
   "bbox": [
-    57.0,
-    36.0,
-    58.0,
-    37.0
+    58.798373,
+    36.202448,
+    58.798373,
+    36.202448
   ],
-  "description": "An ancient place, cited: BAtlas 97 C3 Abarshahr",
+  "description": "A province of the Sasanian empire with its capital as Nishapur. The name and regional/administrative connotation outlasted the Sasanians.",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
-    "Abarshahr"
+    "Abarshahr",
+    "Abaršahr"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.5,
-          36.5
+          58.798373,
+          36.202448
         ]
       },
       "properties": {

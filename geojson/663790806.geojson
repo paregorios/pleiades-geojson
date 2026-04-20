@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bolan Pass",
+  "id": "663790806",
+  "bbox": [
+    67.58333,
+    29.75,
+    67.58333,
+    29.75
+  ],
+  "description": "A pass through the Toba Kakar mountain range in modern Pakistan.",
+  "connectsWith": [
+    "372545100",
+    "866200565"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.58333,
+          29.75
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.58333,
+          29.75
+        ]
+      },
+      "id": "geonames-location-bolan-pass",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "GeoNames Location: Bolan Pass",
+        "link": "http://pleiades.stoa.org/places/663790806/geonames-location-bolan-pass"
+      }
+    }
+  ]
+}

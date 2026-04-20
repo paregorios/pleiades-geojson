@@ -9,6 +9,9 @@
     30.3676864339
   ],
   "description": "An ancient place, cited: BAtlas 94 B3 Persis/Pars",
+  "connectsWith": [
+    "562111623"
+  ],
   "names": [
     "Persis",
     "Pars"

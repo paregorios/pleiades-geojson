@@ -2,16 +2,48 @@
   "type": "FeatureCollection",
   "title": "Bauterna",
   "id": "480040249",
-  "description": "Bauterna was an ancient place in Bactria and was included on the Peutinger map.",
+  "bbox": [
+    66.6166537,
+    27.8000135,
+    66.6166537,
+    27.8000135
+  ],
+  "description": "Bauterna was an ancient place, probably a settlement, in Bactria and was included on the Peutinger map. It is probably to be identified with modern Khuzdar in Pakistan (Brunner).",
+  "connectsWith": [
+    "866200565"
+  ],
   "names": [
     "Bauterna"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6166537,
+          27.8000135
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.6166537,
+          27.8000135
+        ]
+      },
+      "id": "osm-location-modern-khuzdar",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Khuzdar",
+        "link": "http://pleiades.stoa.org/places/480040249/osm-location-modern-khuzdar"
       }
     }
   ]
