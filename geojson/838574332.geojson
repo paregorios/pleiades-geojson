@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monastery of Agnountos",
+  "id": "838574332",
+  "bbox": [
+    23.1317631,
+    37.7105898,
+    23.1317631,
+    37.7105898
+  ],
+  "description": "Monastery constructed in the 11th century near Nea Epidauros.",
+  "names": [
+    "Monē Agnountos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1317631,
+          37.7105898
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1317631,
+          37.7105898
+        ]
+      },
+      "id": "iera-mone-agnountos",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the location of the Monastery of Agnoutos, derived from an OpenStreetMap Node.",
+        "location_precision": "precise",
+        "title": "OSM location of Ιερά Μονή Αγνούντος",
+        "link": "http://pleiades.stoa.org/places/838574332/iera-mone-agnountos"
+      }
+    }
+  ]
+}

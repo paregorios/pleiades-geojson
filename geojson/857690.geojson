@@ -3,6 +3,9 @@
   "title": "Auchis",
   "id": "857690",
   "description": "An ancient place, cited: BAtlas 87 unlocated Auchis",
+  "connectsWith": [
+    "857726"
+  ],
   "names": [
     "Auchis"
   ],

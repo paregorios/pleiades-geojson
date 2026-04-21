@@ -4,13 +4,15 @@
   "id": "562111623",
   "bbox": [
     44.580717,
-    33.093563,
-    44.581919,
-    33.096964
+    32.650744,
+    51.679191,
+    41.978036792
   ],
   "description": "The Sasanian Empire was an Iranian empire from 224 to 651 CE. The Sasanian Empire succeeded the Arsacid dynasty of Parthia.",
   "names": [
-    "Sasanian Empire"
+    "Sasanian Empire",
+    "Ērān",
+    "Ērānšahr"
   ],
   "features": [
     {
@@ -18,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.5812226667,
-          33.094703
+          49.9082349742,
+          37.0130798096
         ]
       },
       "properties": {

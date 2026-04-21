@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Visakhapatnam",
+  "id": "454189058",
+  "bbox": [
+    83.2921297,
+    17.6935526,
+    83.2921297,
+    17.6935526
+  ],
+  "description": "Although the present city in the Indian state of Andhra Pradesh seems to have been founded in the 11th or 12th century CE, archaeological evidence indicates the natural harbor at Visakhapatnam has served as a center of maritime trade from the 4th or 3rd century BCE onward.",
+  "names": [
+    "Visakhapatnam",
+    "Viśākhapaṭṭaṇaṁ",
+    "Washakh patanum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2921297,
+          17.6935526
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2921297,
+          17.6935526
+        ]
+      },
+      "id": "osm-location-modern-visakhapatnam",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location:  modern Visakhapatnam",
+        "link": "http://pleiades.stoa.org/places/454189058/osm-location-modern-visakhapatnam"
+      }
+    }
+  ]
+}
