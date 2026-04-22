@@ -3,17 +3,18 @@
   "title": "Villa Rufinella",
   "id": "803980452",
   "bbox": [
-    12.6888281,
+    12.6873867,
     41.8022776,
     12.6911273,
     41.8041672
   ],
-  "description": "The Villa Rufinella stands on the site of a terraced Roman villa. The site occupies one of the most commanding positions on the slope above what is now Frascati, placing it in the environs of ancient Tusculum.",
+  "description": "Also known as the Villa Tuscolana, this structure was built in the 16th century on the site of a terraced Roman villa. The site occupies one of the most commanding positions on the slope above what is now Frascati, placing it in the environs of ancient Tusculum.",
   "connectsWith": [
     "423108"
   ],
   "names": [
-    "Villa Rufinella"
+    "Villa Rufinella",
+    "Villa Tuscolana"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.6900638572,
-          41.803056541
+          12.689205492,
+          41.8031092542
         ]
       },
       "properties": {
@@ -31,65 +32,127 @@
     },
     {
       "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [
-            12.6888281,
-            41.8024874
+            [
+              12.6888281,
+              41.8024874
+            ],
+            [
+              12.6900634,
+              41.8022776
+            ],
+            [
+              12.6901417,
+              41.8023423
+            ],
+            [
+              12.6904688,
+              41.802583
+            ],
+            [
+              12.6911273,
+              41.8030675
+            ],
+            [
+              12.690517,
+              41.8034141
+            ],
+            [
+              12.6900543,
+              41.8036769
+            ],
+            [
+              12.690037,
+              41.8036826
+            ],
+            [
+              12.6900193,
+              41.8036829
+            ],
+            [
+              12.6900034,
+              41.8036777
+            ],
+            [
+              12.689651,
+              41.8038585
+            ],
+            [
+              12.6890496,
+              41.8041672
+            ]
           ],
           [
-            12.6900634,
-            41.8022776
+            [
+              12.6890496,
+              41.8041672
+            ],
+            [
+              12.6886366,
+              41.8039796
+            ],
+            [
+              12.6885929,
+              41.8039444
+            ],
+            [
+              12.6885928,
+              41.8038819
+            ],
+            [
+              12.6883024,
+              41.8037204
+            ],
+            [
+              12.6881091,
+              41.8035901
+            ],
+            [
+              12.6875862,
+              41.8031967
+            ]
           ],
           [
-            12.6901417,
-            41.8023423
-          ],
-          [
-            12.6904688,
-            41.802583
-          ],
-          [
-            12.6911273,
-            41.8030675
-          ],
-          [
-            12.690517,
-            41.8034141
-          ],
-          [
-            12.6900543,
-            41.8036769
-          ],
-          [
-            12.690037,
-            41.8036826
-          ],
-          [
-            12.6900193,
-            41.8036829
-          ],
-          [
-            12.6900034,
-            41.8036777
-          ],
-          [
-            12.689651,
-            41.8038585
-          ],
-          [
-            12.6890496,
-            41.8041672
+            [
+              12.6875862,
+              41.8031967
+            ],
+            [
+              12.6876941,
+              41.8030906
+            ],
+            [
+              12.6874673,
+              41.8028263
+            ],
+            [
+              12.6873867,
+              41.8027323
+            ],
+            [
+              12.6882083,
+              41.8025927
+            ],
+            [
+              12.688504,
+              41.8025425
+            ],
+            [
+              12.6888281,
+              41.8024874
+            ]
           ]
         ]
       },
-      "id": "osm-location-of-grounds-of-villa-tuscolana",
+      "id": "osm-location-grounds-of-the-villa-tuscolana",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of grounds of Villa Tuscolana",
-        "link": "http://pleiades.stoa.org/places/803980452/osm-location-of-grounds-of-villa-tuscolana"
+        "title": "OSM Location: grounds of the Villa Tuscolana",
+        "link": "http://pleiades.stoa.org/places/803980452/osm-location-grounds-of-the-villa-tuscolana"
       }
     }
   ]

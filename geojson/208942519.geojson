@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unlabeled settlements in BAtlas 32 C4",
   "id": "208942519",
   "bbox": [
     8.603788,
@@ -8,7 +8,7 @@
     8.603788,
     36.323369
   ],
-  "description": "An ancient place, cited: BAtlas 32 C4 unlabeled (settlements)",
+  "description": "BAtlas placed several unlabeled settlements on map 32 in gridsquare C4 with no corresponding bibliographic entry in the Map-by-Map Directory.",
   "features": [
     {
       "type": "Feature",
