@@ -28,56 +28,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              40.0,
-              40.0
-            ],
-            [
-              40.0,
-              41.0
-            ],
-            [
-              41.0,
-              41.0
-            ],
-            [
-              41.0,
-              40.0
-            ],
-            [
-              40.0,
-              40.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Location is within the footprint of BAtlas map 87 grid F4, but otherwise undetermined",
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/857325/batlas-location"
-      }
-    },
-    {
-      "geometry": {
         "type": "Point",
         "coordinates": [
           41.160924,
           40.835575
         ]
       },
-      "id": "location-of-Skydises-M",
+      "id": "osm-location",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Skydises M.",
-        "link": "http://pleiades.stoa.org/places/857325/location-of-Skydises-M"
+        "title": "OSM Location: Kaçkar Dağı (peak)",
+        "link": "http://pleiades.stoa.org/places/857325/osm-location"
       }
     }
   ]

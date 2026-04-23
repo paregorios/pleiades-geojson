@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Orsières Roman Bridge",
   "id": "169145",
   "bbox": [
-    7.0,
-    46.0,
-    7.5,
-    46.5
+    7.1453627,
+    46.0300676,
+    7.1453627,
+    46.0300676
   ],
-  "description": "An ancient place, cited: BAtlas 17 I1 unnamed bridge (Orsières)",
+  "description": "A Roman bridge at modern Orsières in Switzerland.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.25,
-          46.25
+          7.1453627,
+          46.0300676
         ]
       },
       "properties": {
@@ -25,39 +25,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              7.0,
-              46.0
-            ],
-            [
-              7.0,
-              46.5
-            ],
-            [
-              7.5,
-              46.5
-            ],
-            [
-              7.5,
-              46.0
-            ],
-            [
-              7.0,
-              46.0
-            ]
-          ]
+          7.1453627,
+          46.0300676
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-modern-orsiares",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/169145/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Orsières",
+        "link": "http://pleiades.stoa.org/places/169145/osm-location-modern-orsiares"
       }
     }
   ]

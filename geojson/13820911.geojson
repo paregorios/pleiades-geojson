@@ -3,10 +3,10 @@
   "title": "Pian di Mola necropolis",
   "id": "13820911",
   "bbox": [
+    11.8854282,
+    42.4232903,
     11.8873701,
-    42.4247,
-    11.8873701,
-    42.4247
+    42.4253019
   ],
   "description": "A monumental rock-cut necropolis at Tuscania.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.8873701,
-          42.4247
+          11.8862696735,
+          42.4244126821
         ]
       },
       "properties": {

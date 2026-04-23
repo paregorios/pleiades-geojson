@@ -3,12 +3,12 @@
   "title": "Alosygni",
   "id": "49854",
   "bbox": [
-    82.03177,
-    16.618319,
-    82.03177,
-    16.618319
+    82.0256534,
+    16.6303373,
+    82.0256534,
+    16.6303373
   ],
-  "description": "An ancient place, cited: BAtlas 5 E3 Alosygni",
+  "description": "An ancient \"emporion\" listed by Ptolemy on the east coast of India. He also remarks that it is the \"aphoterion\" (point of departure) for those sailing out to the Chryse Chersonnesos. BAtlas tentatively identifies it with modern Vilasa in the Ghodivari river delta in the east Indian state of Andhra Pradesh.",
   "names": [
     "Alosygni"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.03177,
-          16.618319
+          82.0256534,
+          16.6303373
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.03177,
-          16.618319
+          82.0256534,
+          16.6303373
         ]
       },
-      "id": "darmc-location-19723",
+      "id": "osm-location-modern-vilasa",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 19723",
-        "link": "http://pleiades.stoa.org/places/49854/darmc-location-19723"
+        "title": "OSM Location: modern Vilasa",
+        "link": "http://pleiades.stoa.org/places/49854/osm-location-modern-vilasa"
       }
     }
   ]

@@ -1,15 +1,17 @@
 {
   "type": "FeatureCollection",
-  "title": "Dandagula/Paloura",
+  "title": "Dandagula/Dantapura/Paloura",
   "id": "49958",
   "bbox": [
-    83.921094,
+    83.91428,
     18.244258,
     83.921094,
-    18.244258
+    18.474213
   ],
-  "description": "An ancient place, cited: BAtlas 5 E3 Dandagula/Paloura",
+  "description": "The name \"Dandagula\" (Pliny) has long been identified with a \"Dantapura\" mentioned in Buddhist texts and \"Paloura\" (Ptolemy) has long been identified as coincident. Law 1976 (whence BAtlas) places them at the former fortified settlement of Dantapura, \"on the southern bank of the river Vamśadharā, three miles from Chicacole Road Station\". Dayalan 2019 passes over Law's suggestion in silence and follows Gerini 1909 in identifying Ptolemy's Paloura with modern Palur.",
   "names": [
+    "Dantapuram",
+    "Dantapura",
     "Dandagula",
     "Paloura",
     "oppidum Dandaguda"
@@ -20,12 +22,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.921094,
-          18.244258
+          83.917687,
+          18.3592355
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.91428,
+          18.474213
+        ]
+      },
+      "id": "imagery-location-dantapura-fort-centerpoint",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery Location: Dantapura fort centerpoint",
+        "link": "http://pleiades.stoa.org/places/49958/imagery-location-dantapura-fort-centerpoint"
       }
     },
     {
@@ -39,7 +58,7 @@
       "id": "darmc-location-12147",
       "type": "Feature",
       "properties": {
-        "description": "5M scale point location",
+        "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 12147",
         "link": "http://pleiades.stoa.org/places/49958/darmc-location-12147"
