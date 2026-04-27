@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "East Creech villa",
+  "id": "930634471",
+  "bbox": [
+    -2.093716,
+    50.644581,
+    -2.093716,
+    50.644581
+  ],
+  "description": "A Roman villa with mosaic floors and columns was discovered between East Creech and Cotness in 1869.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.093716,
+          50.644581
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.093716,
+          50.644581
+        ]
+      },
+      "id": "dare-location-east-creech",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "DARE location: East Creech",
+        "link": "http://pleiades.stoa.org/places/930634471/dare-location-east-creech"
+      }
+    }
+  ]
+}
