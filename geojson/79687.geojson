@@ -9,6 +9,9 @@
     52.999174
   ],
   "description": "An ancient place, cited: BAtlas 8 G1 Sleaford",
+  "names": [
+    "Sleaford"
+  ],
   "features": [
     {
       "type": "Feature",

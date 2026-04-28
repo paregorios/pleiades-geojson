@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of the Seven against Thebes at Eleusis",
+  "id": "623023668",
+  "bbox": [
+    23.537401,
+    38.041101,
+    23.537401,
+    38.041101
+  ],
+  "description": "According to Pausanias, the Seven against Thebes were buried at Eleusis, at the road to Megara, after the sanctuary of Metaneira. The location of this monument is unknown today.",
+  "connectsWith": [
+    "160459928",
+    "579920"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.537401,
+          38.041101
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

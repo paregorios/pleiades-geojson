@@ -9,6 +9,9 @@
     50.851811
   ],
   "description": "A corridor-type villa that includes a bath-house and a possible temple.",
+  "names": [
+    "Beddingham"
+  ],
   "features": [
     {
       "type": "Feature",

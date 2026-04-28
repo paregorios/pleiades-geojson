@@ -9,6 +9,10 @@
     53.231849
   ],
   "description": "Remains of a Roman villa excavated in Lincolnshire.",
+  "names": [
+    "Greetwell",
+    "Greetwell Fields Roman Villa"
+  ],
   "features": [
     {
       "type": "Feature",

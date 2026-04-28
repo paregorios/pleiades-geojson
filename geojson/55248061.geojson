@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hanging Gardens of Babylon",
+  "id": "55248061",
+  "bbox": [
+    44.4241563,
+    32.535,
+    44.4258,
+    32.5395939
+  ],
+  "description": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World identified by Hellenistic authors, and they may well have been historical; however, their location in the city of Babylon is unclear, as there is no definitive archaeological evidence or Babylonian texts mentioning the gardens. Both ancient and modern commentators have conflated this reported \"paradeisos\" with various other monuments, both real and imagined.",
+  "connectsWith": [
+    "893951"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.42497815,
+          32.53729695
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

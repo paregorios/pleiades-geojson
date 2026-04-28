@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Berlanga",
+  "id": "623023667",
+  "bbox": [
+    -2.8608847,
+    41.4661935,
+    -2.8608847,
+    41.4661935
+  ],
+  "description": "Berlanga de Duero is a Spanish municipality located in the province of Soria, in the autonomous region of Castile and León. An object dubbed the \"Berlanga cup\" was discovered here. This object is a hemispherical bowl that belongs to a small group of artifacts referred to as \"Hadrian's Wall pans\", as these vessels depict places and names from sites along the line of Hadrian's Wall.",
+  "names": [
+    "Berlanga de Duero"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8608847,
+          41.4661935
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8608847,
+          41.4661935
+        ]
+      },
+      "id": "osm-location-of-berlanga-de-duero",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Berlanga de Duero",
+        "link": "http://pleiades.stoa.org/places/623023667/osm-location-of-berlanga-de-duero"
+      }
+    }
+  ]
+}

@@ -3,20 +3,23 @@
   "title": "Norton Disney",
   "id": "79621",
   "bbox": [
-    -0.671669,
-    53.120351,
-    -0.671669,
-    53.120351
+    -0.7175652,
+    53.1324122,
+    -0.7166975,
+    53.1329496
   ],
-  "description": "An ancient place, cited: BAtlas 8 G1 Norton Disney",
+  "description": "A Romano-British villa was identified at Norton Disney in 1933. This villa site has its origins in the first century CE and continued in use until the mid-fourth century. There were several architectural phases, the most elaborate of which included a corridor-type villa, a bath complex, a basilica-type hall, and a system of perimeter defenses.",
+  "names": [
+    "Norton Disney"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.671669,
-          53.120351
+          -0.717134747809,
+          53.1326783357
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          -0.671669,
-          53.120351
+          [
+            -0.7175652,
+            53.1329496
+          ],
+          [
+            -0.7174874,
+            53.1324641
+          ],
+          [
+            -0.7166975,
+            53.1324122
+          ],
+          [
+            -0.7167872,
+            53.1328916
+          ],
+          [
+            -0.7175652,
+            53.1329496
+          ]
         ]
       },
-      "id": "darmc-location-21017",
+      "id": "osm-location-of-norton-disney-roman-villa",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 21017",
-        "link": "http://pleiades.stoa.org/places/79621/darmc-location-21017"
+        "title": "OSM location of Norton Disney Roman Villa (Scheduled Ancient Monument)",
+        "link": "http://pleiades.stoa.org/places/79621/osm-location-of-norton-disney-roman-villa"
       }
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bouleuterion (Troy)",
+  "id": "945703088",
+  "bbox": [
+    26.2392403,
+    39.9569485,
+    26.2392403,
+    39.9569485
+  ],
+  "description": "The ruins identified as a bouleuterion at Ilium lie about 70 meters from the odeion. The foundations of this complex overlay, in part, the walls of Troy VI.",
+  "connectsWith": [
+    "550595"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2392403,
+          39.9569485
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2392403,
+          39.9569485
+        ]
+      },
+      "id": "osm-location-of-bouleuterion-troy",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bouleuterion (Troy)",
+        "link": "http://pleiades.stoa.org/places/945703088/osm-location-of-bouleuterion-troy"
+      }
+    }
+  ]
+}
