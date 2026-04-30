@@ -2,16 +2,32 @@
   "type": "FeatureCollection",
   "title": "Kush (kingdom)",
   "id": "827790769",
+  "bbox": [
+    31.853738,
+    16.933976,
+    33.7153707,
+    18.565952
+  ],
   "description": "Kingdom in Nubia centered around Napata, established as an independent kingdom following the end of the New Kingdom period. Kushite control extended northward during the Third Intermediate Period, and from 744-656 BCE ruled over a unified Egypt as the 25th Dynasty. Following the Assyrian conquest, the kingdom was ruled from Meroe. The kingdom disintegrated in the 3rd century CE.",
+  "connectsWith": [
+    "953201624"
+  ],
   "names": [
     "Ecôsh",
     "Qes",
-    "Kush"
+    "Kush",
+    "kꜣš"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7827987318,
+          17.751420771
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

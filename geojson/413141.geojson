@@ -9,6 +9,12 @@
     42.231677
   ],
   "description": "An ancient place, cited: BAtlas 42 F4 Fontecchio",
+  "connectsWith": [
+    "413040"
+  ],
+  "names": [
+    "Fontecchio"
+  ],
   "features": [
     {
       "type": "Feature",

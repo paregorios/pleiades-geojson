@@ -9,6 +9,9 @@
     52.083021
   ],
   "description": "An ancient place, cited: BAtlas 8 E2 Bishopstone",
+  "names": [
+    "Bishopstone"
+  ],
   "features": [
     {
       "type": "Feature",

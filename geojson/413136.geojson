@@ -9,8 +9,12 @@
     42.348713
   ],
   "description": "An ancient place, cited: BAtlas 42 E4 Fisternae",
+  "connectsWith": [
+    "926033983"
+  ],
   "names": [
-    "Fisternae"
+    "Fisternae",
+    "Fisternas"
   ],
   "features": [
     {

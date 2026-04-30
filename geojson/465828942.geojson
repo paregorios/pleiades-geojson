@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Collet Roman Villa",
+  "id": "465828942",
+  "bbox": [
+    3.1124449,
+    41.8496642,
+    3.1124449,
+    41.8496642
+  ],
+  "description": "A Roman villa has been identified in the modern neighborhood of El Collet, which is located in the Catalonian municipality of Calonge i Sant Antoni.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1124449,
+          41.8496642
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1124449,
+          41.8496642
+        ]
+      },
+      "id": "osm-location-vila-la-romana-del-collet",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Vil·la romana del Collet ",
+        "link": "http://pleiades.stoa.org/places/465828942/osm-location-vila-la-romana-del-collet"
+      }
+    }
+  ]
+}

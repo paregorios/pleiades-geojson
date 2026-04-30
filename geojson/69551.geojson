@@ -3,14 +3,18 @@
   "title": "Le Pinnacle",
   "id": "69551",
   "bbox": [
-    -2.250108,
-    49.239776,
-    -2.250108,
-    49.239776
+    -2.2526707,
+    49.2475671,
+    -2.2526707,
+    49.2475671
   ],
   "description": "An ancient place, cited: BAtlas 7 D2 Le Pinnacle",
   "connectsWith": [
     "69465"
+  ],
+  "names": [
+    "Le Pinnacle",
+    "Le Pinacle"
   ],
   "features": [
     {
@@ -18,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.250108,
-          49.239776
+          -2.2526707,
+          49.2475671
         ]
       },
       "properties": {
@@ -30,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.250108,
-          49.239776
+          -2.2526707,
+          49.2475671
         ]
       },
-      "id": "darmc-location-16057",
+      "id": "osm-location-of-le-pinacle",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 16057",
-        "link": "http://pleiades.stoa.org/places/69551/darmc-location-16057"
+        "title": "OSM location of Le Pinacle",
+        "link": "http://pleiades.stoa.org/places/69551/osm-location-of-le-pinacle"
       }
     }
   ]

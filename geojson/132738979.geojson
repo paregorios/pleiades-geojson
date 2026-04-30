@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman theater of Alba Fucens",
+  "id": "132738979",
+  "bbox": [
+    13.4128528,
+    42.0795418,
+    13.413054,
+    42.0798145
+  ],
+  "description": "The Roman theater of Alba Fucens",
+  "connectsWith": [
+    "413005"
+  ],
+  "names": [
+    "Teatro romano di Alba Fucens"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4129538353,
+          42.0796720571
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.4128742,
+            42.0798145
+          ],
+          [
+            13.4129389,
+            42.0797805
+          ],
+          [
+            13.4130003,
+            42.079719
+          ],
+          [
+            13.4130405,
+            42.0796552
+          ],
+          [
+            13.413054,
+            42.0795856
+          ],
+          [
+            13.4130513,
+            42.0795418
+          ],
+          [
+            13.4129869,
+            42.0795537
+          ],
+          [
+            13.4129145,
+            42.0795856
+          ],
+          [
+            13.4129148,
+            42.0796531
+          ],
+          [
+            13.412885,
+            42.079703
+          ],
+          [
+            13.4128528,
+            42.0797229
+          ],
+          [
+            13.4128557,
+            42.0797665
+          ],
+          [
+            13.4128742,
+            42.0798145
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-theater-of-alba-fucens",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman theater of Alba Fucens",
+        "link": "http://pleiades.stoa.org/places/132738979/osm-location-of-roman-theater-of-alba-fucens"
+      }
+    }
+  ]
+}

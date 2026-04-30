@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Uchium",
   "id": "349640",
-  "description": "An ancient place, cited: BAtlas 35 unlocated Uchium",
+  "description": "A settlement attested in ancient sources that cannot be located with certainty today. BAtlDir ventures the possibility that it might be identifiable with the Tunisian site of Henchir Bourgou on Djerba island.",
+  "connectsWith": [
+    "344390"
+  ],
   "names": [
     "Uchium"
   ],

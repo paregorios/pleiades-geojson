@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lothal",
+  "id": "580312478",
+  "bbox": [
+    72.2493077,
+    22.522677,
+    72.2493077,
+    22.522677
+  ],
+  "description": "Lothal is among the southernmost cities of the ancient Indus Valley civilisation. The site is located in India, specifically in the Bhal region of the Indian state of Gujarat. The settlement dates ca. 2300 BCE.",
+  "names": [
+    "Lothal"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2493077,
+          22.522677
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2493077,
+          22.522677
+        ]
+      },
+      "id": "osm-location-of-lothal",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Lothal",
+        "link": "http://pleiades.stoa.org/places/580312478/osm-location-of-lothal"
+      }
+    }
+  ]
+}

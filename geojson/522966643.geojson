@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "title": "New Kingdom Town of Sai Island",
+  "id": "522966643",
+  "bbox": [
+    30.3306566,
+    20.7359734,
+    30.332696,
+    20.7387094
+  ],
+  "description": "Located on the eastern side of Sai Island in the Nile River, remains of an orthogonal fortified settlement have been dated to the Egyptian New Kingdom, part of a long history of habitation of the island, both before and after.",
+  "connectsWith": [
+    "565495644"
+  ],
+  "names": [
+    "Šꜣꜥ.t",
+    "Sai City"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3316470033,
+          20.7373279859
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.3310333,
+            20.7369059
+          ],
+          [
+            30.3312143,
+            20.7359734
+          ],
+          [
+            30.332696,
+            20.7362207
+          ],
+          [
+            30.3325141,
+            20.7368822
+          ],
+          [
+            30.3319706,
+            20.7387094
+          ],
+          [
+            30.3311976,
+            20.7386237
+          ],
+          [
+            30.3309054,
+            20.7385654
+          ],
+          [
+            30.3306566,
+            20.7384912
+          ],
+          [
+            30.3310333,
+            20.7369059
+          ]
+        ]
+      },
+      "id": "osm-location-sai-island-pharaonic-settlement",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap. Dates after Budka 2025",
+        "location_precision": "precise",
+        "title": "OSM Location: Sai Island, Pharaonic settlement ",
+        "link": "http://pleiades.stoa.org/places/522966643/osm-location-sai-island-pharaonic-settlement"
+      }
+    }
+  ]
+}
