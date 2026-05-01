@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Via Nova Traiana → Umm el-Jimal",
   "id": "681771",
   "bbox": [
     34.5,
@@ -8,7 +8,12 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "An archaeologically attested secondary road, branching off to the southeast from the Via Nova Traiana to the nearby fort at Qasr el-Ba'iq and thence to the settlement at Umm el-Jimal.",
+  "connectsWith": [
+    "147882288",
+    "678439",
+    "678347"
+  ],
   "features": [
     {
       "type": "Feature",

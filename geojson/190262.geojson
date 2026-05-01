@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Coastal Change in the area of Aquileia",
   "id": "190262",
   "bbox": [
     13.0,
@@ -8,7 +8,10 @@
     14.0,
     46.0
   ],
-  "description": "An ancient place, cited: BAtlas 19 F4 unnamed coastal change (Aquileia)",
+  "description": "Geophysical evidence for coastal change in the area of Aquileia.",
+  "connectsWith": [
+    "187290"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,14 +3,15 @@
   "title": "Omra",
   "id": "678314",
   "bbox": [
-    36.600851,
-    32.903344,
-    36.600851,
-    32.903344
+    36.6420353,
+    32.9027161,
+    36.6420353,
+    32.9027161
   ],
-  "description": "An ancient place, cited: BAtlas 69 E4 Omra",
+  "description": "A settlement attested in ancient sources whose location can only be narrowed to the general area of modern Amra.",
   "names": [
-    "Omra"
+    "Omra",
+    "Amra"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.600851,
-          32.903344
+          36.6420353,
+          32.9027161
         ]
       },
       "properties": {
@@ -30,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.600851,
-          32.903344
+          36.6420353,
+          32.9027161
         ]
       },
-      "id": "darmc-location-18122",
+      "id": "osm-location-modern-amra",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18122",
-        "link": "http://pleiades.stoa.org/places/678314/darmc-location-18122"
+        "title": "OSM Location: modern Amra",
+        "link": "http://pleiades.stoa.org/places/678314/osm-location-modern-amra"
       }
     }
   ]

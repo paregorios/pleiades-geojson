@@ -1,63 +1,31 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Tyrus → Paneas → Damascus",
   "id": "681772",
   "bbox": [
-    34.5,
-    32.0,
-    38.5,
-    34.5
+    35.1943,
+    33.247099,
+    36.309102,
+    33.511612
   ],
-  "description": "Unnamed route or road",
+  "description": "A route via Roman roads, partly based on archaeologically attested routes and their conjectured continuation and connection, from ancient Tyre through Caesarea Philippi and thence northeastward to Damascus.",
+  "connectsWith": [
+    "678437",
+    "678324",
+    "678106"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.5,
-          33.25
+          35.7347971667,
+          33.3428243333
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              34.5,
-              32.0
-            ],
-            [
-              34.5,
-              34.5
-            ],
-            [
-              38.5,
-              34.5
-            ],
-            [
-              38.5,
-              32.0
-            ],
-            [
-              34.5,
-              32.0
-            ]
-          ]
-        ]
-      },
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": "Roughly located within a bounding box",
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/681772/undetermined"
       }
     }
   ]

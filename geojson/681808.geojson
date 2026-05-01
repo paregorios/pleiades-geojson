@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Road: Adra(h)a → Gerasa → S",
   "id": "681808",
   "bbox": [
     34.5,
@@ -8,7 +8,11 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "Unnamed route or road segments running from Adra(h)a to Gerasa and points south.",
+  "connectsWith": [
+    "678002",
+    "678158"
+  ],
   "features": [
     {
       "type": "Feature",

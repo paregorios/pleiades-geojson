@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Dionysias → Salamanestha",
   "id": "681788",
   "bbox": [
     34.5,
@@ -8,7 +8,11 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "A hyphothetical secondary road sequence connecting Dionysias to Salamanestha and points east.",
+  "connectsWith": [
+    "678119",
+    "678367"
+  ],
   "features": [
     {
       "type": "Feature",

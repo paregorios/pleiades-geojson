@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Ake → Bethsaida → Kochaba",
   "id": "681807",
   "bbox": [
     34.5,
@@ -8,7 +8,12 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "Unnamed road segment(s) linking Ake, Bethsaida, Kochaba and points in between them.",
+  "connectsWith": [
+    "678010",
+    "678065",
+    "678256"
+  ],
   "features": [
     {
       "type": "Feature",

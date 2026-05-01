@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Road: Adra(h)a → Kapitolias",
   "id": "681805",
   "bbox": [
     34.5,
@@ -8,7 +8,11 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "Unnamed route or road segment(s)",
+  "connectsWith": [
+    "678002",
+    "678224"
+  ],
   "features": [
     {
       "type": "Feature",

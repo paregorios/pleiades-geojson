@@ -3,6 +3,10 @@
   "title": "Portus Tarentinus",
   "id": "446284",
   "description": "An ancient place, cited: BAtlas 45 unlocated Portus Tarentinus",
+  "connectsWith": [
+    "442615",
+    "442642"
+  ],
   "names": [
     "Portus Tarentinus"
   ],

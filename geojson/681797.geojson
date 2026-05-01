@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Buraq → Dionysias",
   "id": "681797",
   "bbox": [
     34.5,
@@ -8,7 +8,11 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "A hypothetical road route south from Buraq, connecting to an archaeologically attested road segment in the vicinity of Umm ez-Zeitun/Omra and continuing south to Dionysias.",
+  "connectsWith": [
+    "678077",
+    "736904"
+  ],
   "features": [
     {
       "type": "Feature",

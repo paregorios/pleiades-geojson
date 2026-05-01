@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roads: Caesarea → Scythopolis via Ginai(a)",
   "id": "681792",
   "bbox": [
     34.5,
@@ -8,7 +8,12 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "Ancient road segments running from Caesarea through Ginai(a) to Scythopolis.",
+  "connectsWith": [
+    "678401",
+    "678163",
+    "678378"
+  ],
   "features": [
     {
       "type": "Feature",

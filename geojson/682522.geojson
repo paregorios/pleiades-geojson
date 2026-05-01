@@ -2,56 +2,20 @@
   "type": "FeatureCollection",
   "title": "Aenos",
   "id": "682522",
-  "bbox": [
-    36.4824165,
-    33.1856996,
-    36.4824165,
-    33.1856996
+  "description": "A settlement mentioned in ancient sources whose precise location cannot be determined today. BAtlas offered two possible identifications: Phaine or Buraq.",
+  "connectsWith": [
+    "678077",
+    "678328"
   ],
-  "description": "An ancient place, cited: BAtlas 69 unlocated Aenos",
   "names": [
     "Aenos"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.4824165,
-          33.1856996
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/682522/undetermined"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.4824165,
-          33.1856996
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, village precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/682522/dare-location"
       }
     }
   ]

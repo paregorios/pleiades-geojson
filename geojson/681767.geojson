@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Road: ‘Strata Diocletiana’",
   "id": "681767",
   "bbox": [
     34.5,
@@ -8,7 +8,10 @@
     38.5,
     34.5
   ],
-  "description": "Unnamed route or road",
+  "description": "A stretch of Roman road running roughly north-south and located to the east of Sounoua, commonly referred to as part of the \"Strata Diocletiana\".",
+  "connectsWith": [
+    "678398"
+  ],
   "features": [
     {
       "type": "Feature",
