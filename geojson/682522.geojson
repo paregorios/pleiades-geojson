@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Aenos",
   "id": "682522",
+  "bbox": [
+    36.37616,
+    33.1287694,
+    36.482715,
+    33.185866
+  ],
   "description": "A settlement mentioned in ancient sources whose precise location cannot be determined today. BAtlas offered two possible identifications: Phaine or Buraq.",
   "connectsWith": [
     "678077",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4349602,
+          33.158461
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

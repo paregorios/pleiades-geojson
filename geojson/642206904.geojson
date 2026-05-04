@@ -3,6 +3,9 @@
   "title": "Cutilia",
   "id": "642206904",
   "description": "A Sabine town located between Reate and Interocrium.",
+  "names": [
+    "Cutilia"
+  ],
   "features": [
     {
       "type": "Feature",

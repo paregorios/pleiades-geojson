@@ -2,8 +2,12 @@
   "type": "FeatureCollection",
   "title": "Dounion",
   "id": "83835",
-  "description": "An ancient place, cited: BAtlas 8 unlocated Dounion",
+  "description": "An ancient city (polis) listed by Ptolemy as belonging to the Dourotriges. BAtlas, citing TIR Condate, declined to place it on a map and indicated in the directory only that it must have lain somewhere in Dorset, thus ignoring the suggestion of Rivet 1979 that it be identified with Hod Hill fort. RENames prefers to place Ptolemy's Dounion at Bradbury Rings. Rivet 1979 reconstructs the Latin name \"Dunum\" for Ptolemy's Dounion, but it is not attested in ancient sources.",
+  "connectsWith": [
+    "42178780"
+  ],
   "names": [
+    "Dunum",
     "Dounion"
   ],
   "features": [

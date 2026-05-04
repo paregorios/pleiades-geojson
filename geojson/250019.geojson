@@ -9,6 +9,10 @@
     42.136957
   ],
   "description": "An ancient place, cited: BAtlas 25 F3 no. 113 (Ermita de Nuestra Señora del Socorro Montecillas (Coscojuela de Fantosa))",
+  "names": [
+    "113",
+    "Ermita de Nuestra Señora del Socorro Montecillas (Coscojuela de Fantosa)"
+  ],
   "features": [
     {
       "type": "Feature",

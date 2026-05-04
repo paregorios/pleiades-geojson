@@ -3,9 +3,9 @@
   "title": "Stoa Poikile",
   "id": "143098101",
   "bbox": [
-    23.7223137,
-    37.9760958,
-    23.7232074,
+    23.7223315,
+    37.9761582,
+    23.723198,
     37.9768073
   ],
   "description": "The Stoa Poikile or Painted Stoa, named for a set of paintings inside depicting Athenian military victories, was located in the northwest corner of the Agora of Athens and was the namesake of the Stoic philosophical school. It was built around 460 BC and remained in use until it was spoliated in the sixth century AD. Archaeological excavation has uncovered the western and eastern ends of the building.",
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.7227145143,
-          37.9763913493
+          23.7226971431,
+          37.9764029019
         ]
       },
       "properties": {

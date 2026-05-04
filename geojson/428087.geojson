@@ -9,6 +9,9 @@
     42.0
   ],
   "description": "The Salinae Romanae at Ostia were said to have been established by Ancus Marcius.",
+  "connectsWith": [
+    "422995"
+  ],
   "features": [
     {
       "type": "Feature",

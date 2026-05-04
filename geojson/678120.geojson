@@ -3,20 +3,23 @@
   "title": "Diyatheh",
   "id": "678120",
   "bbox": [
-    36.860009,
-    32.805254,
-    36.860009,
-    32.805254
+    36.8547514,
+    32.7847537,
+    36.8553619,
+    32.7854196
   ],
   "description": "An ancient place, cited: BAtlas 69 E4 Diyatheh",
+  "names": [
+    "Diyatheh"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.860009,
-          32.805254
+          36.8550566709,
+          32.7850866369
         ]
       },
       "properties": {
@@ -25,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          36.860009,
-          32.805254
+          [
+            36.8548532,
+            32.7854196
+          ],
+          [
+            36.8547514,
+            32.7848141
+          ],
+          [
+            36.8552602,
+            32.7847537
+          ],
+          [
+            36.8553619,
+            32.7853592
+          ],
+          [
+            36.8548532,
+            32.7854196
+          ]
         ]
       },
-      "id": "darmc-location-7649",
+      "id": "osm-location-of-kastell-diyatheh",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 7649",
-        "link": "http://pleiades.stoa.org/places/678120/darmc-location-7649"
+        "title": "OSM location of Kastell Diyatheh",
+        "link": "http://pleiades.stoa.org/places/678120/osm-location-of-kastell-diyatheh"
       }
     }
   ]

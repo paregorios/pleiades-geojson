@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Church of Saint Herculanus",
+  "id": "604307495",
+  "bbox": [
+    12.3048256,
+    41.756862,
+    12.3050724,
+    41.7570341
+  ],
+  "description": "A paleochristian site near Ostia generally dated to the fourth or fifth century CE. It is associated with Claudius II Gothicus and is the findspot of the bulk of the Christian epigraphy known from ancient Ostia.",
+  "names": [
+    "Sant'Ercolano a Ostia Antica"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3049487934,
+          41.7569486614
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3048256,
+            41.7569181
+          ],
+          [
+            12.3048846,
+            41.756862
+          ],
+          [
+            12.3050724,
+            41.7569821
+          ],
+          [
+            12.3050147,
+            41.7570341
+          ],
+          [
+            12.3048256,
+            41.7569181
+          ]
+        ]
+      },
+      "id": "osm-location-of-church-of-santercolano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Church of Sant'Ercolano",
+        "link": "http://pleiades.stoa.org/places/604307495/osm-location-of-church-of-santercolano"
+      }
+    }
+  ]
+}

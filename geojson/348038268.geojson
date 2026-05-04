@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa Area 5-7 a Tor Vergata",
+  "id": "348038268",
+  "bbox": [
+    12.6319234,
+    41.8407291,
+    12.6333014,
+    41.8417055
+  ],
+  "description": "An imperial villa located at Tor Vergata in the suburbium of Rome.",
+  "names": [
+    "Villa Area 5-7 a Tor Vergata"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6326205403,
+          41.8411785242
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6326151,
+            41.8417055
+          ],
+          [
+            12.6320126,
+            41.8413513
+          ],
+          [
+            12.6319234,
+            41.8412735
+          ],
+          [
+            12.6319316,
+            41.8411752
+          ],
+          [
+            12.6329847,
+            41.8407291
+          ],
+          [
+            12.6333014,
+            41.8408856
+          ],
+          [
+            12.6326151,
+            41.8417055
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-area-5-7-a-tor-vergata",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Area 5-7 a Tor Vergata",
+        "link": "http://pleiades.stoa.org/places/348038268/osm-location-of-villa-area-5-7-a-tor-vergata"
+      }
+    }
+  ]
+}

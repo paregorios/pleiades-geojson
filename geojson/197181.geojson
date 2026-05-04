@@ -9,6 +9,10 @@
     47.498372
   ],
   "description": "An ancient place, cited: BAtlas 20 G2 Buda",
+  "names": [
+    "Budun",
+    "Buda"
+  ],
   "features": [
     {
       "type": "Feature",

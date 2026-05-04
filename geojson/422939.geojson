@@ -9,6 +9,9 @@
     41.9291
   ],
   "description": "The site of a Roman villa situated on two terraces. The modern toponym \"Grotta Papale\" derives from a partially subterranean apsidal nymphaeum. The villa was extensive, covering some 23,000 square meters and has both a late republican and an imperial phase.",
+  "names": [
+    "Grotta Papale"
+  ],
   "features": [
     {
       "type": "Feature",
