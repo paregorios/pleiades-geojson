@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Katoghike Tsiranavor Church of Avan",
+  "id": "375489070",
+  "bbox": [
+    44.5718414,
+    40.2149868,
+    44.5720609,
+    40.2151423
+  ],
+  "description": "The oldest surviving church structure within the boundaries of modern Yerevan, constructed in the late 6th century CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5719511434,
+          40.2150645176
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.5718414,
+            40.2151228
+          ],
+          [
+            44.5718645,
+            40.2149868
+          ],
+          [
+            44.5720609,
+            40.2150062
+          ],
+          [
+            44.5720377,
+            40.2151423
+          ],
+          [
+            44.5718414,
+            40.2151228
+          ]
+        ]
+      },
+      "id": "53556f56557256558156b-54d562",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of the Cathedral of Avan, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Cathedral of Avan",
+        "link": "http://pleiades.stoa.org/places/375489070/53556f56557256558156b-54d562"
+      }
+    }
+  ]
+}

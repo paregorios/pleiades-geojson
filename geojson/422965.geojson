@@ -9,6 +9,9 @@
     41.802553
   ],
   "description": "Plutarch describes a villa owned by Lucullus near Tusculum.",
+  "names": [
+    "Lucullo"
+  ],
   "features": [
     {
       "type": "Feature",

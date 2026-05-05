@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa di Capitone",
+  "id": "785990531",
+  "bbox": [
+    12.791411,
+    41.9487626,
+    12.791411,
+    41.9487626
+  ],
+  "description": "A platform villa located near Tivoli.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.791411,
+          41.9487626
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.791411,
+          41.9487626
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/785990531/osm-location"
+      }
+    }
+  ]
+}

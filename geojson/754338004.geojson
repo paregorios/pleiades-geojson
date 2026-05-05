@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "title": "Torrione di Poli",
+  "id": "754338004",
+  "bbox": [
+    12.8475319,
+    41.8921022,
+    12.8476505,
+    41.8921909
+  ],
+  "description": "A Republican-period tower tomb located in the Comune di Poli in Lazio, Italy.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8475915088,
+          41.8921465747
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8476502,
+            41.8921383
+          ],
+          [
+            12.8476505,
+            41.8921534
+          ],
+          [
+            12.8476441,
+            41.8921677
+          ],
+          [
+            12.8476315,
+            41.8921795
+          ],
+          [
+            12.8476144,
+            41.8921876
+          ],
+          [
+            12.8475947,
+            41.8921909
+          ],
+          [
+            12.8475746,
+            41.8921892
+          ],
+          [
+            12.8475576,
+            41.8921831
+          ],
+          [
+            12.847544,
+            41.8921734
+          ],
+          [
+            12.8475351,
+            41.8921611
+          ],
+          [
+            12.8475319,
+            41.8921473
+          ],
+          [
+            12.8475345,
+            41.8921334
+          ],
+          [
+            12.8475429,
+            41.8921209
+          ],
+          [
+            12.847556,
+            41.8921109
+          ],
+          [
+            12.8475727,
+            41.8921044
+          ],
+          [
+            12.8475928,
+            41.8921022
+          ],
+          [
+            12.8476126,
+            41.892105
+          ],
+          [
+            12.8476301,
+            41.8921127
+          ],
+          [
+            12.8476431,
+            41.8921242
+          ],
+          [
+            12.8476502,
+            41.8921383
+          ]
+        ]
+      },
+      "id": "osm-location-of-torrione-di-poli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Torrione di Poli",
+        "link": "http://pleiades.stoa.org/places/754338004/osm-location-of-torrione-di-poli"
+      }
+    }
+  ]
+}

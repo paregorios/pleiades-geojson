@@ -8,7 +8,7 @@
     12.652901,
     41.801766
   ],
-  "description": "An ancient place, cited: BAtlas 43 C2 Montioni",
+  "description": "Ashby describes the area of the Vigna Montioni as the findspot of numerous funereal inscriptions and funerary altars. This vineyard of the early twentieth century seems likely to have been the location of the villa of the Iavoleni.",
   "names": [
     "Montioni"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-23165",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 23165",
         "link": "http://pleiades.stoa.org/places/422979/darmc-location-23165"

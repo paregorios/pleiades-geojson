@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Tufillo",
+  "id": "356090424",
+  "bbox": [
+    13.5797274,
+    42.8569691,
+    13.5799218,
+    42.8576686
+  ],
+  "description": "A bridge that crosses the Tronto River at Ascoli Piceno that dates from the later eleventh century.",
+  "connectsWith": [
+    "413353"
+  ],
+  "names": [
+    "Ponte Tufillo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5798041747,
+          42.8573231487
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5797274,
+            42.8569691
+          ],
+          [
+            13.5797351,
+            42.8571304
+          ],
+          [
+            13.5797534,
+            42.8572062
+          ],
+          [
+            13.5799218,
+            42.8576686
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-di-santantonio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte di Sant'Antonio",
+        "link": "http://pleiades.stoa.org/places/356090424/osm-location-of-ponte-di-santantonio"
+      }
+    }
+  ]
+}

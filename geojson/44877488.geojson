@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Sant'Antonio",
+  "id": "44877488",
+  "bbox": [
+    12.8298288,
+    41.9025847,
+    12.830515,
+    41.9035758
+  ],
+  "description": "The Ponte Sant'Antonio is a Roman aqueduct bridge that was part of the Aqua Anio Novus.",
+  "connectsWith": [
+    "423559"
+  ],
+  "names": [
+    "Ponte Sant Antonio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8301719,
+          41.90308025
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.8298753,
+            41.9025847
+          ],
+          [
+            12.830515,
+            41.9035589
+          ],
+          [
+            12.8305012,
+            41.9035639
+          ],
+          [
+            12.830483,
+            41.9035705
+          ],
+          [
+            12.8304685,
+            41.9035758
+          ],
+          [
+            12.8298288,
+            41.9026016
+          ],
+          [
+            12.8298433,
+            41.9025964
+          ],
+          [
+            12.8298615,
+            41.9025897
+          ],
+          [
+            12.8298753,
+            41.9025847
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-santantonio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte Sant'Antonio",
+        "link": "http://pleiades.stoa.org/places/44877488/osm-location-of-ponte-santantonio"
+      }
+    }
+  ]
+}

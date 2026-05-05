@@ -3,10 +3,10 @@
   "title": "Temple of Athena (Ilium)",
   "id": "877521473",
   "bbox": [
-    26.2392134,
-    39.9577892,
-    26.2392134,
-    39.9577892
+    26.2392697,
+    39.9577625,
+    26.2392697,
+    39.9577625
   ],
   "description": "The Temple of Athena at Ilion was a peripteral temple executed in the Doric order with a 12 x 6 columnar arrangement. Its creation is traditionally ascribed to Lysimachus (ca. 301-281 BCE), though it was later restored under Roman influence, likely during the principate of Augustus. Little of the temple, save its forecourt, remains in situ. It is mostly known from membra disiecta, including metopes uncovered during Schliemann's excavations.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.2392134,
-          39.9577892
+          26.2392697,
+          39.9577625
         ]
       },
       "properties": {
@@ -33,8 +33,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.2392134,
-          39.9577892
+          26.2392697,
+          39.9577625
         ]
       },
       "id": "athena-tapinagi",

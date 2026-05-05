@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Selciatella Roman bridge",
+  "id": "431699813",
+  "bbox": [
+    12.7994379,
+    41.9010819,
+    12.7994379,
+    41.9010819
+  ],
+  "description": "Ponte della Selciatella, a Roman-period bridge crossing the Fosso di Acqua Rossa in San Vittorino, Lazio, Italy.",
+  "names": [
+    "Ponte della Selciatella"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7994379,
+          41.9010819
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7994379,
+          41.9010819
+        ]
+      },
+      "id": "osm-location-of-ponte-della-selciatella",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte della Selciatella",
+        "link": "http://pleiades.stoa.org/places/431699813/osm-location-of-ponte-della-selciatella"
+      }
+    }
+  ]
+}
