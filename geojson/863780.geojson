@@ -9,6 +9,9 @@
     40.02001
   ],
   "description": "An ancient place, cited: BAtlas 88 C4 Doubios",
+  "connectsWith": [
+    "204330844"
+  ],
   "names": [
     "Doubios",
     "Dvin",

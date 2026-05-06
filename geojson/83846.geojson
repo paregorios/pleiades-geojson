@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Ibernio",
   "id": "83846",
-  "description": "An ancient place, cited: BAtlas 8 unlocated Ibernio",
+  "description": "BAtlas declined to place this name, which is reported by the Ravenna Cosmographer, on a map. The directory cites Rivet 1979 and suggests a general location in the \"Iwerne area\". RENames suggests identifying this name with the Roman fort inside the indigenous hillfort at Hod Hill.",
+  "connectsWith": [
+    "42178780"
+  ],
   "names": [
     "Ibernio"
   ],

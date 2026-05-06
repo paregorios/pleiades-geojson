@@ -9,6 +9,9 @@
     39.977501
   ],
   "description": "An ancient place, cited: BAtlas 89 G1 *Zolocerta/‘Coloceia’",
+  "connectsWith": [
+    "204330844"
+  ],
   "names": [
     "Zolocerta",
     "Coloceia",
