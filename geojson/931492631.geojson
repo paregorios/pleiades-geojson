@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "title": "Felceto",
+  "id": "931492631",
+  "bbox": [
+    12.2574551,
+    43.3673615,
+    12.2681388,
+    43.3784148
+  ],
+  "description": "An amphora production site with kiln was identified in the 1990s at a place called Felceto, approximately 10km south of ancient Tifernum Tiberinum (modern Città di Castello) and 2km east of the Tiber on a tributary (i.e., somewhere to the east of modern Cinquemiglia and Promano). The site has not been excavated.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.26279695,
+          43.37288815
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2574551,
+          43.3784148
+        ]
+      },
+      "id": "osm-location-modern-cinquemiglia",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Cinquemiglia",
+        "link": "http://pleiades.stoa.org/places/931492631/osm-location-modern-cinquemiglia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2681388,
+          43.3673615
+        ]
+      },
+      "id": "osm-location-modern-promano",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Promano",
+        "link": "http://pleiades.stoa.org/places/931492631/osm-location-modern-promano"
+      }
+    }
+  ]
+}

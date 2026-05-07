@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Ibernio",
   "id": "83846",
+  "bbox": [
+    -2.209866,
+    50.8924515,
+    -2.1999155,
+    50.8977688
+  ],
   "description": "BAtlas declined to place this name, which is reported by the Ravenna Cosmographer, on a map. The directory cites Rivet 1979 and suggests a general location in the \"Iwerne area\". RENames suggests identifying this name with the Roman fort inside the indigenous hillfort at Hod Hill.",
   "connectsWith": [
     "42178780"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.20520485904,
+          50.895123936
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/83846/undetermined"
       }
     }
   ]

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monte Sant’Angelo (Tarracina)",
+  "id": "68976935",
+  "bbox": [
+    13.2602223,
+    41.2912035,
+    13.2602223,
+    41.2912035
+  ],
+  "description": "A hill at Tarracina where, in Roman times, the sanctuary complex of Jupiter Anxur was built. In the medieval period, it was occupied by a monastery. Secondary deposits displaced by Roman and medieval construction indicate that Monte Sant’Angelo was the site of significant human activity from prehistory through at least the 5th century BCE.",
+  "names": [
+    "Monte Sant’Angelo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2602223,
+          41.2912035
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2602223,
+          41.2912035
+        ]
+      },
+      "id": "osm-location-peak-of-monte-santaangelo",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: peak of Monte Sant’Angelo",
+        "link": "http://pleiades.stoa.org/places/68976935/osm-location-peak-of-monte-santaangelo"
+      }
+    }
+  ]
+}

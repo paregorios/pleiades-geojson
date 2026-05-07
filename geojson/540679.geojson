@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Athena Kranaia, T.",
+  "title": "Athena Kranaia (temple)",
   "id": "540679",
   "bbox": [
     22.8097249,
@@ -8,7 +8,7 @@
     22.8116539,
     38.6583416
   ],
-  "description": "An ancient place, cited: BAtlas 55 D3 Athena Kranaia, T.",
+  "description": "The temple of Athena Kranaia, mentioned by Pausanias, was located near ancient Elateia in Phokis.",
   "connectsWith": [
     "540755"
   ],

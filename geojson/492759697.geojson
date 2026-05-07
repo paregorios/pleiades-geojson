@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Larisa Fortress (Argolid)",
+  "id": "492759697",
+  "bbox": [
+    22.715,
+    37.638,
+    22.715,
+    37.638
+  ],
+  "description": "An ancient fortified acropolis of Argos, located on the hill named Larisa, which is located to the northwest of the town. The site is now occupied by a Venetian castle that incorporates or covers architectural and archaeological remains dating from the Mycenaean period through the 19th century.",
+  "connectsWith": [
+    "570106"
+  ],
+  "names": [
+    "Larisa",
+    "Larisa arx"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.715,
+          37.638
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.715,
+          37.638
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/492759697/topostext-location"
+      }
+    }
+  ]
+}

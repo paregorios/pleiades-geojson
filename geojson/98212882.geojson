@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grabbau 79 (Tuna el-Gebel)",
+  "id": "98212882",
+  "bbox": [
+    30.707655,
+    27.734635,
+    30.707655,
+    27.734635
+  ],
+  "description": "A monumental burial structure in the so-called \"Petosiris-Nekropole\" at Tuna el-Gebel, excavated in 2021. Immediately north of the tomb, in the street area, stone basins supporting undisturbed lead coffins, as well as other associated burials, were found in situ.",
+  "connectsWith": [
+    "54417737"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.707655,
+          27.734635
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.707655,
+          27.734635
+        ]
+      },
+      "id": "approximate-imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Approximate location of Grabbau 79 as determined in Google Earth with reference to Figure 2 in Schlehofer 2026. Dates after Schlehofer 2026.",
+        "location_precision": "precise",
+        "title": "Approximate Imagery Location",
+        "link": "http://pleiades.stoa.org/places/98212882/approximate-imagery-location"
+      }
+    }
+  ]
+}

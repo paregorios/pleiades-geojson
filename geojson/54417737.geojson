@@ -10,7 +10,11 @@
   ],
   "description": "Tuna el-Gebel was the necropolis serving Schmun/Khmun (Hermopolis Magna).",
   "connectsWith": [
+    "756574",
     "756574"
+  ],
+  "names": [
+    "Petosiris-Nekropole"
   ],
   "features": [
     {
