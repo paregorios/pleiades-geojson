@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Panagitsa",
+  "id": "921892403",
+  "bbox": [
+    22.739155,
+    38.6393069,
+    22.739155,
+    38.6393069
+  ],
+  "description": "Abundant archaeological evidence at modern Panagitsa in the modern Greek municipal unit of Elatia attests to an ancient settlement and associated cemetery in use from the Geometric period through at least Hellenistic times. Its ancient name is uncertain; various suggestions have been made in the literature.",
+  "names": [
+    "Panagitsa",
+    "Panaghitsa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.739155,
+          38.6393069
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.739155,
+          38.6393069
+        ]
+      },
+      "id": "osm-location-modern-panagitsa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: modern Panagitsa",
+        "link": "http://pleiades.stoa.org/places/921892403/osm-location-modern-panagitsa"
+      }
+    }
+  ]
+}

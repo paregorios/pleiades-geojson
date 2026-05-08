@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Homoloid Gate (Thebes)",
+  "id": "132272517",
+  "bbox": [
+    23.3175613,
+    38.319076,
+    23.317799,
+    38.3207
+  ],
+  "description": "One of the Seven Gates that surrounds the city of Thebes according to ancient sources. If it was indeed historical, no archaeological evidence for it has yet been found.",
+  "connectsWith": [
+    "541138"
+  ],
+  "names": [
+    "Homoloides Pylai"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3176534333,
+          38.3199488333
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

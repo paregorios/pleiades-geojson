@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman theater of Fioccaglia",
+  "id": "324666667",
+  "bbox": [
+    15.097874,
+    41.085579,
+    15.097874,
+    41.085579
+  ],
+  "description": "Crop marks, confirmed by a magnetometer survey reported in 2026, demonstrate the location and footprint of a monumental theater at the archaeological site of Fioccaglia di Fumeri.",
+  "connectsWith": [
+    "442583"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.097874,
+          41.085579
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.097874,
+          41.085579
+        ]
+      },
+      "id": "imagery-location-center-of-crop-marks-associated-with-roman-theater",
+      "type": "Feature",
+      "properties": {
+        "description": "Crop marks identified in Google Earth with reference to Italian Ministry of Culture imagery overlaying magnetic survey data on an orthophotomap as published in ANSA.it in February 2026.",
+        "location_precision": "precise",
+        "title": "Imagery Location: center of crop marks associated with Roman theater",
+        "link": "http://pleiades.stoa.org/places/324666667/imagery-location-center-of-crop-marks-associated-with-roman-theater"
+      }
+    }
+  ]
+}

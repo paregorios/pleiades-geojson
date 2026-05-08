@@ -1,46 +1,20 @@
 {
   "type": "FeatureCollection",
-  "title": "Pedieis?",
+  "title": "Pedieis",
   "id": "541016",
-  "bbox": [
-    22.671601,
-    38.626517,
-    22.671601,
-    38.626517
+  "description": "An ancient polis in Phocis, possibly to be identified with the fortified ancient site on the Kephissos river known in the 19th and 20th centuries as Palaiophiva.",
+  "connectsWith": [
+    "437726118"
   ],
-  "description": "An ancient place, cited: BAtlas 55 D3 Pedieis?",
   "names": [
     "Pedieis"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.671601,
-          38.626517
-        ]
-      },
+      "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.671601,
-          38.626517
-        ]
-      },
-      "id": "darmc-location-14160",
-      "type": "Feature",
-      "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
-        "location_precision": "precise",
-        "title": "DARMC location 14160",
-        "link": "http://pleiades.stoa.org/places/541016/darmc-location-14160"
       }
     }
   ]

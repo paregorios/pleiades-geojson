@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Electran Gate (Thebes)",
+  "id": "492759698",
+  "bbox": [
+    23.3201,
+    38.3175,
+    23.3201,
+    38.3175
+  ],
+  "description": "The remains of two towers that were part of a Classical gate of the city of Thebes, which was named in ancient sources.",
+  "connectsWith": [
+    "541138"
+  ],
+  "names": [
+    "Electrai Pylai"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3201,
+          38.3175
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3201,
+          38.3175
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/492759698/topostext-location"
+      }
+    }
+  ]
+}

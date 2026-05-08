@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "title": "Palaiophiva",
+  "id": "437726118",
+  "bbox": [
+    22.677228,
+    38.619928,
+    22.684006,
+    38.627613
+  ],
+  "description": "A Classical and Hellenistic settlement featuring a unique, square fortification wall that was located just south of the Kephissos river",
+  "names": [
+    "Palaiophiva",
+    "Paliophiva",
+    "Palaiaphiva",
+    "Palaia Phiva"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.680617,
+          38.6237705
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.684006,
+          38.619928
+        ]
+      },
+      "id": "imagery-location-southeast-corner-of-fortification-wall",
+      "type": "Feature",
+      "properties": {
+        "description": "Location determined in Google Earth with reference to Sporn 2026, Figure 5. Dates after Sporn 2026.",
+        "location_precision": "precise",
+        "title": "Imagery Location: southeast corner of fortification wall",
+        "link": "http://pleiades.stoa.org/places/437726118/imagery-location-southeast-corner-of-fortification-wall"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.677228,
+          38.627613
+        ]
+      },
+      "id": "approximate-imagery-location-northwest-corner-of-fortification-wall",
+      "type": "Feature",
+      "properties": {
+        "description": "Location estimated in Google Earth with reference to Sporn 2026, Figure 5. Dates after Sporn 2026.",
+        "location_precision": "precise",
+        "title": "Approximate Imagery Location: northwest corner of fortification wall",
+        "link": "http://pleiades.stoa.org/places/437726118/approximate-imagery-location-northwest-corner-of-fortification-wall"
+      }
+    }
+  ]
+}

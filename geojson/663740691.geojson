@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "title": "Isola de San Lazzaro degli Armeni",
+  "id": "663740691",
+  "bbox": [
+    12.3596926,
+    45.4112179,
+    12.3631665,
+    45.4132428
+  ],
+  "description": "Small island in the Venetian Lagoon. A church and monastery were constructed on the site during the 9th century CE, and it was used as a leper colony in the medieval and early modern periods. Since 1717 CE, it has been home to an Armenian Catholic (Mkhitarist) monastery, from which the island derives its modern name.",
+  "names": [
+    "Surb Ghazar kghzi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3612655927,
+          45.4122576708
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.3631107,
+            45.4120762
+          ],
+          [
+            12.3631294,
+            45.4120691
+          ],
+          [
+            12.3631529,
+            45.4120704
+          ],
+          [
+            12.3631665,
+            45.4120831
+          ],
+          [
+            12.3631622,
+            45.4121004
+          ],
+          [
+            12.3631404,
+            45.4121091
+          ],
+          [
+            12.3631169,
+            45.4121037
+          ],
+          [
+            12.3614505,
+            45.4132428
+          ],
+          [
+            12.3598338,
+            45.4126272
+          ],
+          [
+            12.3597534,
+            45.4126285
+          ],
+          [
+            12.3596941,
+            45.4125908
+          ],
+          [
+            12.3596926,
+            45.4125343
+          ],
+          [
+            12.3597441,
+            45.4124961
+          ],
+          [
+            12.3598177,
+            45.4124916
+          ],
+          [
+            12.3598456,
+            45.412512
+          ],
+          [
+            12.3604657,
+            45.4123679
+          ],
+          [
+            12.3604459,
+            45.4123347
+          ],
+          [
+            12.3604651,
+            45.4123285
+          ],
+          [
+            12.360428,
+            45.4122726
+          ],
+          [
+            12.3604082,
+            45.412279
+          ],
+          [
+            12.3603828,
+            45.4122451
+          ],
+          [
+            12.3602503,
+            45.4122771
+          ],
+          [
+            12.3600548,
+            45.4122587
+          ],
+          [
+            12.3600348,
+            45.4122688
+          ],
+          [
+            12.3600141,
+            45.4122653
+          ],
+          [
+            12.360005,
+            45.4122483
+          ],
+          [
+            12.3600693,
+            45.4121776
+          ],
+          [
+            12.3608883,
+            45.4112569
+          ],
+          [
+            12.3608736,
+            45.4112447
+          ],
+          [
+            12.3608738,
+            45.4112287
+          ],
+          [
+            12.3608915,
+            45.4112179
+          ],
+          [
+            12.3609181,
+            45.41122
+          ],
+          [
+            12.3609288,
+            45.4112355
+          ],
+          [
+            12.3609225,
+            45.4112506
+          ],
+          [
+            12.3624493,
+            45.4117791
+          ],
+          [
+            12.3631107,
+            45.4120762
+          ]
+        ]
+      },
+      "id": "isola-san-lazzaro-degli-armeni",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the modern extent of the Isola di San Lazzaro degli Armeni, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Isola San Lazzaro degli Armeni",
+        "link": "http://pleiades.stoa.org/places/663740691/isola-san-lazzaro-degli-armeni"
+      }
+    }
+  ]
+}

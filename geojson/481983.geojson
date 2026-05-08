@@ -3,10 +3,10 @@
   "title": "Scaptopara",
   "id": "481983",
   "bbox": [
-    23.083796,
-    41.992827,
-    23.083796,
-    41.992827
+    23.0515975,
+    41.9937471,
+    23.053344,
+    41.9975858
   ],
   "description": "An ancient place, cited: BAtlas 49 F1 Scaptopara",
   "names": [
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.083796,
-          41.992827
+          23.0524914705,
+          41.9956936656
         ]
       },
       "properties": {
@@ -30,19 +30,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.083796,
-          41.992827
+          [
+            23.0524535,
+            41.9975858
+          ],
+          [
+            23.0529027,
+            41.9957387
+          ],
+          [
+            23.0530132,
+            41.9952497
+          ],
+          [
+            23.053344,
+            41.9938166
+          ],
+          [
+            23.0532253,
+            41.9937931
+          ],
+          [
+            23.0527001,
+            41.9937471
+          ],
+          [
+            23.0526532,
+            41.993857
+          ],
+          [
+            23.0523776,
+            41.9945635
+          ],
+          [
+            23.0520697,
+            41.995554
+          ],
+          [
+            23.0515975,
+            41.9974794
+          ],
+          [
+            23.0524535,
+            41.9975858
+          ]
         ]
       },
-      "id": "darmc-location-14629",
+      "id": "osm-location-of-d-d-d1-4ndod3-4-ndud-d-ndu-d",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14629",
-        "link": "http://pleiades.stoa.org/places/481983/darmc-location-14629"
+        "title": "OSM location of Римско селище \"Скаптопара\"",
+        "link": "http://pleiades.stoa.org/places/481983/osm-location-of-d-d-d1-4ndod3-4-ndud-d-ndu-d"
       }
     }
   ]

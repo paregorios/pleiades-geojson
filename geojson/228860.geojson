@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Gora Dolgaya",
   "id": "228860",
   "bbox": [
     34.0,
@@ -9,6 +9,10 @@
     45.0
   ],
   "description": "An ancient place, cited: BAtlas 23 H4 no. 94 (Gora Dolgaya)",
+  "names": [
+    "Gora Dolgaya",
+    "94"
+  ],
   "features": [
     {
       "type": "Feature",
