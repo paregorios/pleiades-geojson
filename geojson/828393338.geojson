@@ -8,7 +8,7 @@
     2.8245405,
     39.3976431
   ],
-  "description": "At Capocorb Vell are the remains of a Talaiotic settlement dating to the later second millennium BC.",
+  "description": "At Capocorb Vell are the remains of a Talaiotic settlement dating to the later second millennium BCE.",
   "connectsWith": [
     "632227173"
   ],
@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Capocorb Vell",
+        "title": "OSM location of Capocorb Vell",
         "link": "http://pleiades.stoa.org/places/828393338/location-of-capocorb-vell"
       }
     }

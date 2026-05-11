@@ -9,6 +9,9 @@
     42.314542
   ],
   "description": "A city of the Aequiculi located in the valley of the Salto river.",
+  "connectsWith": [
+    "438717"
+  ],
   "names": [
     "Cliternia",
     "Capradosso"

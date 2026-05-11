@@ -9,6 +9,9 @@
     38.618079
   ],
   "description": "An ancient place, cited: BAtlas 27 C3 Puente de la Olmilla",
+  "names": [
+    "Puente de la Olmilla"
+  ],
   "features": [
     {
       "type": "Feature",

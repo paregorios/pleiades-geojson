@@ -3,10 +3,10 @@
   "title": "Roman theater at Iuvanum",
   "id": "151530992",
   "bbox": [
-    14.2500438,
-    41.9972962,
-    14.2500438,
-    41.9972962
+    14.2498619,
+    41.9971524,
+    14.2500303,
+    41.9973018
   ],
   "description": "The Roman theater at Iuvanum is located at the foot of the acropolis.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2500438,
-          41.9972962
+          14.2499399129,
+          41.9972379135
         ]
       },
       "properties": {

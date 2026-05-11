@@ -3,10 +3,10 @@
   "title": "Tyana/Col. Aurelia Antoniniana",
   "id": "648801",
   "bbox": [
-    34.5736203,
-    37.8260608,
-    34.5736203,
-    37.8260608
+    34.57222,
+    37.823151,
+    34.57222,
+    37.823151
   ],
   "description": "An ancient city of Cappadocia that was the capital of the Neo-Hittite kingdom in the first millennium B.C.",
   "connectsWith": [
@@ -42,8 +42,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.5736203,
-          37.8260608
+          34.57222,
+          37.823151
         ]
       },
       "properties": {
@@ -54,17 +54,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.5736203,
-          37.8260608
+          34.57222,
+          37.823151
         ]
       },
-      "id": "osm-location",
+      "id": "tyana-central-point",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap",
+        "description": "Tyana center - likely intersection of major roads based on archaeological survey",
         "location_precision": "precise",
-        "title": "OSM location",
-        "link": "http://pleiades.stoa.org/places/648801/osm-location"
+        "title": "Survey Location: central point of ancient settlement",
+        "link": "http://pleiades.stoa.org/places/648801/tyana-central-point"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Temple of Augustus, Barcelona",
   "id": "592223249",
   "bbox": [
-    2.177223,
-    41.3833618,
-    2.177223,
-    41.3833618
+    2.1772306,
+    41.3833749,
+    2.1772306,
+    41.3833749
   ],
   "description": "The Temple of Augustus dates to the second century A.D.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177223,
-          41.3833618
+          2.1772306,
+          41.3833749
         ]
       },
       "properties": {
@@ -33,8 +33,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.177223,
-          41.3833618
+          2.1772306,
+          41.3833749
         ]
       },
       "id": "location-of-temple-of-augustus",

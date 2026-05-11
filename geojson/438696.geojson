@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Bolani",
   "id": "438696",
+  "bbox": [
+    12.736409,
+    41.80752,
+    12.75,
+    41.833333
+  ],
   "description": "The Bolani were the people of Bola, an ancient city of Latium. Its foundation is ascribed by Virgil to the kings of Alba.",
   "connectsWith": [
     "422958",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7432045,
+          41.8204265
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

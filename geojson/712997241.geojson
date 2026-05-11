@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Ses Païsses",
-  "id": "290892726",
+  "title": "Son Real necropolis",
+  "id": "712997241",
   "bbox": [
-    3.354,
-    39.6873213,
-    3.354,
-    39.6873213
+    3.1821989,
+    39.7549582,
+    3.1821989,
+    39.7549582
   ],
-  "description": "Ses Païsses was a Talaiotic settlement of the Bronze Age on the island of Majorca.",
+  "description": "A prehistoric necropolis near punta Fenicis that remained in use through the Roman period.",
   "connectsWith": [
     "632227173"
+  ],
+  "names": [
+    "Son Real necropolis"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.354,
-          39.6873213
+          3.1821989,
+          39.7549582
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.354,
-          39.6873213
+          3.1821989,
+          39.7549582
         ]
       },
-      "id": "location-of-ses-paisses",
+      "id": "osm-location-of-necra2polis-de-son-real",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Ses Païsses",
-        "link": "http://pleiades.stoa.org/places/290892726/location-of-ses-paisses"
+        "title": "OSM location of Necròpolis de Son Real",
+        "link": "http://pleiades.stoa.org/places/712997241/osm-location-of-necra2polis-de-son-real"
       }
     }
   ]
