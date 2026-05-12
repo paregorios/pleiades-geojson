@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of the Tassinara",
+  "id": "473872874",
+  "bbox": [
+    11.9638,
+    43.0237,
+    11.9638,
+    43.0237
+  ],
+  "description": "A painted Etruscan tomb at Chiusi that dates ca. 170-150 BCE. The tomb has acquired a constellation of modern appellations, including \"tomba della Tassinaie\", \"tomba della Tassinara,\" and \"tomba della Tassinaia\".",
+  "connectsWith": [
+    "413096"
+  ],
+  "names": [
+    "Tomb of the Tassinara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9638,
+          43.0237
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9638,
+          43.0237
+        ]
+      },
+      "id": "geohack-location-of-tomba-delle-tassinaie",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "GeoHack location of Tomba delle Tassinaie",
+        "link": "http://pleiades.stoa.org/places/473872874/geohack-location-of-tomba-delle-tassinaie"
+      }
+    }
+  ]
+}

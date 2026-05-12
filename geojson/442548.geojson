@@ -9,6 +9,9 @@
     41.659721
   ],
   "description": "An ancient place, cited: BAtlas 45 B1 Colle d’Armi",
+  "names": [
+    "Colle d’Armi"
+  ],
   "features": [
     {
       "type": "Feature",

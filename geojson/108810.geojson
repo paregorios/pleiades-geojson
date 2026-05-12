@@ -3,20 +3,23 @@
   "title": "Blankenheim",
   "id": "108810",
   "bbox": [
-    6.645116,
-    50.436058,
-    6.651364,
-    50.442429
+    6.6427127,
+    50.4411481,
+    6.6432992,
+    50.4416667
   ],
   "description": "An ancient place, cited: BAtlas 11 G2 Blankenheim",
+  "names": [
+    "Blankenheim"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.64824,
-          50.4392435
+          6.64299458228,
+          50.441415098
         ]
       },
       "properties": {
@@ -25,36 +28,77 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          6.651364,
-          50.436058
+          [
+            6.6430846,
+            50.4411481
+          ],
+          [
+            6.6429737,
+            50.4412663
+          ],
+          [
+            6.6430251,
+            50.4412858
+          ],
+          [
+            6.6427356,
+            50.4415947
+          ],
+          [
+            6.6427565,
+            50.4416027
+          ],
+          [
+            6.6427127,
+            50.4416495
+          ],
+          [
+            6.6427579,
+            50.4416667
+          ],
+          [
+            6.6428018,
+            50.4416199
+          ],
+          [
+            6.6428708,
+            50.4416461
+          ],
+          [
+            6.6428867,
+            50.4416291
+          ],
+          [
+            6.6429004,
+            50.4416343
+          ],
+          [
+            6.6429131,
+            50.4416392
+          ],
+          [
+            6.6432992,
+            50.4412306
+          ],
+          [
+            6.6431119,
+            50.4411584
+          ],
+          [
+            6.6430846,
+            50.4411481
+          ]
         ]
       },
-      "id": "darmc-location-17385",
+      "id": "osm-location-of-villa-rustika",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 17385",
-        "link": "http://pleiades.stoa.org/places/108810/darmc-location-17385"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.645116,
-          50.442429
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/108810/dare-location"
+        "title": "OSM location of Villa Rustika",
+        "link": "http://pleiades.stoa.org/places/108810/osm-location-of-villa-rustika"
       }
     }
   ]

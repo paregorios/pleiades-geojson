@@ -1,15 +1,13 @@
 {
   "type": "FeatureCollection",
-  "title": "Cameria",
-  "id": "438704",
-  "description": "An ancient city of Latium that is noted by Pliny the Elder as one of the lost cities of central Italy.",
+  "title": "Angulani",
+  "id": "907860742",
+  "description": "An ancient tribe in the territory of the Vestini.",
   "connectsWith": [
-    "422958"
+    "413376"
   ],
   "names": [
-    "Cameria",
-    "Kameria",
-    "Camerium"
+    "Angulani"
   ],
   "features": [
     {

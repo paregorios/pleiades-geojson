@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Closos de Ca'n Gaià",
+  "id": "712997240",
+  "bbox": [
+    3.2428039,
+    39.4186996,
+    3.2451826,
+    39.4202474
+  ],
+  "description": "A coastal Talaiotic settlement in Mallorca with evidence for naviform buildings.",
+  "connectsWith": [
+    "632227173"
+  ],
+  "names": [
+    "Closos de Can Gaià"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24399503761,
+          39.4193881763
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.2428039,
+            39.4193937
+          ],
+          [
+            3.243785,
+            39.4202474
+          ],
+          [
+            3.2451826,
+            39.4190321
+          ],
+          [
+            3.2444631,
+            39.4186996
+          ],
+          [
+            3.2428039,
+            39.4193937
+          ]
+        ]
+      },
+      "id": "osm-location-of-closos-de-can-gaia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Closos de Ca'n Gaià",
+        "link": "http://pleiades.stoa.org/places/712997240/osm-location-of-closos-de-can-gaia"
+      }
+    }
+  ]
+}

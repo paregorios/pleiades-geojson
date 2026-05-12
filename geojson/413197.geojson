@@ -9,6 +9,9 @@
     42.534535
   ],
   "description": "An ancient place, cited: BAtlas 42 G3 Matrinum",
+  "connectsWith": [
+    "413198"
+  ],
   "names": [
     "Matrinum"
   ],

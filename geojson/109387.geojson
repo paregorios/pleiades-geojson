@@ -3,10 +3,10 @@
   "title": "Treignes",
   "id": "109387",
   "bbox": [
-    4.663961,
-    50.08768,
-    4.669162,
-    50.092722
+    4.6635776,
+    50.087429,
+    4.6643327,
+    50.0878656
   ],
   "description": "An ancient place, cited: BAtlas 11 E2 Treignes",
   "features": [
@@ -15,29 +15,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.6665615,
-          50.090201
+          4.66395877137,
+          50.0876716969
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.669162,
-          50.092722
-        ]
-      },
-      "id": "darmc-location-17628",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 17628",
-        "link": "http://pleiades.stoa.org/places/109387/darmc-location-17628"
       }
     },
     {
@@ -55,6 +38,69 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/109387/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.6639733,
+            50.0875208
+          ],
+          [
+            4.6639666,
+            50.0874584
+          ],
+          [
+            4.6636542,
+            50.087429
+          ],
+          [
+            4.6635776,
+            50.0876438
+          ],
+          [
+            4.6635927,
+            50.0878236
+          ],
+          [
+            4.6636435,
+            50.0878277
+          ],
+          [
+            4.663964,
+            50.0878535
+          ],
+          [
+            4.664003,
+            50.0878566
+          ],
+          [
+            4.6640867,
+            50.087859
+          ],
+          [
+            4.6643115,
+            50.0878656
+          ],
+          [
+            4.6643327,
+            50.0875313
+          ],
+          [
+            4.6639733,
+            50.0875208
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-gallo-romaine-bruyares",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa gallo-romaine Bruyères",
+        "link": "http://pleiades.stoa.org/places/109387/osm-location-of-villa-gallo-romaine-bruyares"
       }
     }
   ]

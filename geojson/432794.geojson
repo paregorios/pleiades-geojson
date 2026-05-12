@@ -9,6 +9,9 @@
     42.04688
   ],
   "description": "An ancient place, cited: BAtlas 44 E1 Colle Mitra",
+  "names": [
+    "Colle Mitra"
+  ],
   "features": [
     {
       "type": "Feature",

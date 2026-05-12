@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Thanahat Church",
+  "id": "770095145",
+  "bbox": [
+    45.3995172,
+    39.7801188,
+    45.3996477,
+    39.7802163
+  ],
+  "description": "Thanahat Church is a Christian church situated in a mountain village at the right shore of the Vorotan river near the village Arevis, 17 km west of Sissian in the Sjunik province in southern Armenia. In the ruins of the church, a stele of the Urartian king Argišti II., son of Rusa (eighth century BCE) was found, which describes his success and conquest of the land Etiuḫi, resulting in the deportation of enemies and the establishment of a tribute (CTU 1 A 11-3).",
+  "connectsWith": [
+    "214160492"
+  ],
+  "names": [
+    "T'anahat"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.3995824265,
+          39.7801675394
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.3996421,
+            39.7802163
+          ],
+          [
+            45.3996477,
+            39.7801232
+          ],
+          [
+            45.3995227,
+            39.7801188
+          ],
+          [
+            45.3995172,
+            39.7802119
+          ],
+          [
+            45.3996421,
+            39.7802163
+          ]
+        ]
+      },
+      "id": "osm-location-of-thanahat-church",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap.",
+        "location_precision": "precise",
+        "title": "OSM location of Thanahat church",
+        "link": "http://pleiades.stoa.org/places/770095145/osm-location-of-thanahat-church"
+      }
+    }
+  ]
+}
