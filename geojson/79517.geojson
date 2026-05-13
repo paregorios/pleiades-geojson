@@ -3,10 +3,10 @@
   "title": "Holcombe",
   "id": "79517",
   "bbox": [
-    -2.99494,
-    50.736079,
-    -2.99494,
-    50.736079
+    -2.9712303,
+    50.731127,
+    -2.9712303,
+    50.731127
   ],
   "description": "An ancient place, cited: BAtlas 8 D4 Holcombe",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.99494,
-          50.736079
+          -2.9712303,
+          50.731127
         ]
       },
       "properties": {
@@ -27,17 +27,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.99494,
-          50.736079
+          -2.9712303,
+          50.731127
         ]
       },
-      "id": "darmc-location-20920",
+      "id": "heritage-gateway-location-holcombe",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 20920",
-        "link": "http://pleiades.stoa.org/places/79517/darmc-location-20920"
+        "title": "Heritage Gateway Location: Holcombe",
+        "link": "http://pleiades.stoa.org/places/79517/heritage-gateway-location-holcombe"
       }
     }
   ]

@@ -8,7 +8,7 @@
     13.7712,
     37.57779
   ],
-  "description": "An ancient place, cited: BAtlas 47 D3 Monte Raffe di Mussomeli",
+  "description": "This hill, in the modern Sicilian province of Caltanissetta, was the site of a human settlement from the early Iron Age through the medieval period. It became fortified possibly as early as the late archaic period. The Castello di Mussomeli (Castello Manfredonico) was erected on the site in the 14th century CE.",
   "connectsWith": [
     "462492"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-30455",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 30455",
         "link": "http://pleiades.stoa.org/places/462360/darmc-location-30455"

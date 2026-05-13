@@ -1,14 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled Villa on the island of Igilium",
+  "title": "Villa del Saraceno (Giglio)",
   "id": "408457",
   "bbox": [
-    10.9,
-    42.35,
-    10.9,
-    42.35
+    10.9227586,
+    42.3590838,
+    10.923242,
+    42.3592857
   ],
-  "description": "An ancient place, cited: BAtlas 41 D5 unnamed villa (Igilium Ins.)",
+  "description": "A massive Roman maritime villa that stretched across multiple platforms and the hill known as Poggio del Castellare at Giglio Porto. It was continuously occupied from the first century BCE through the fourth century CE and was renovated and expanded multiple times. During the empire, it was equipped with a large fishpond (the so-called Bagno del Saraceno/Cala del Saracino), which had been converted from an original landing, as well as a lighthouse and possibly thermal baths. Subsequent structures have been built with and over the villa and some of its components are now underwater as well.",
   "connectsWith": [
     "403221"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.9,
-          42.35
+          10.9230003,
+          42.35918475
         ]
       },
       "properties": {
@@ -28,39 +28,36 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              10.5,
-              42.0
-            ],
-            [
-              10.5,
-              42.5
-            ],
-            [
-              11.0,
-              42.5
-            ],
-            [
-              11.0,
-              42.0
-            ],
-            [
-              10.5,
-              42.0
-            ]
-          ]
+          10.9227586,
+          42.3592857
         ]
       },
-      "id": "batlas-location",
+      "id": "osm-location-cala-del-saracino",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/408457/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Cala del Saracino",
+        "link": "http://pleiades.stoa.org/places/408457/osm-location-cala-del-saracino"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.923242,
+          42.3590838
+        ]
+      },
+      "id": "location-of-roman-villa-in-localita-saraceno",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman villa in località Saraceno",
+        "link": "http://pleiades.stoa.org/places/408457/location-of-roman-villa-in-localita-saraceno"
       }
     }
   ]

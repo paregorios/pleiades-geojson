@@ -9,6 +9,9 @@
     41.4188866915
   ],
   "description": "The Saltus Carminianensis was a large imperial property of northern Apulia mentioned in the Notitia Dignitatum Occidentis. Its precise location and borders are not known today.",
+  "connectsWith": [
+    "442529"
+  ],
   "names": [
     "Saltus Carminianensis"
   ],

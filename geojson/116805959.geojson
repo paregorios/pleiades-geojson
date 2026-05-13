@@ -3,10 +3,10 @@
   "title": "Argive Plain",
   "id": "116805959",
   "bbox": [
-    22.6879977,
-    37.5836219,
-    22.746365,
-    37.5995364
+    22.535351,
+    37.1081518,
+    23.1573609,
+    37.7184508
   ],
   "description": "Adjacent to the Argolic Gulf and roughly centered on the ancient city of Argos, this alluvial plain covers some 250 square kilometers and is considered one of two major components of the ancient Argolis/Argolid region.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.7170663516,
-          37.5927069839
+          22.7618488491,
+          37.5873114132
         ]
       },
       "properties": {

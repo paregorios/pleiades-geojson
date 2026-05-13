@@ -3,10 +3,10 @@
   "title": "Sanctuaries of Apollo Deiradiotes and Athena Oxyderkes",
   "id": "939076786",
   "bbox": [
-    22.7199411,
-    37.6414435,
-    22.7212822,
-    37.6422464
+    22.7199196,
+    37.6414945,
+    22.7212607,
+    37.6422974
   ],
   "description": "At Argos, Pausanias mentions both the sanctuary of Apollo Deiradiotes (Apollo of the ridge) and the sanctuary of Athena Oxyderkes (Athena the clear-sighted).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.7206161291,
-          37.6418441796
+          22.7205900473,
+          37.6418961558
         ]
       },
       "properties": {
