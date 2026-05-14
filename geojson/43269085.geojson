@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ain el-Aryan",
+  "id": "43269085",
+  "description": "One of two hot springs at ancient Naro (modern Hammam-Lif) that were known collectively to the Romans as \"Aquae Persianae\".",
+  "connectsWith": [
+    "315092"
+  ],
+  "names": [
+    "Ain el-Aryan"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "title": "Termil Ennsâ (Gafsa)",
+  "id": "170328843",
+  "bbox": [
+    8.7866363,
+    34.4156472,
+    8.7868338,
+    34.4157722
+  ],
+  "description": "Known today as the \"Women's Bath\" at Gafsa, this open-air artificial pool built of opus quadratum is one of two that are associated with the ancient Roman bath complex at Capsa.",
+  "connectsWith": [
+    "188790129"
+  ],
+  "names": [
+    "Termil Ennsâ",
+    "Hammam Ennsâ"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78673314293,
+          34.4157139262
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7868338,
+            34.4157722
+          ],
+          [
+            8.7868027,
+            34.4156472
+          ],
+          [
+            8.7866383,
+            34.4156639
+          ],
+          [
+            8.7866363,
+            34.4157604
+          ],
+          [
+            8.7868338,
+            34.4157722
+          ]
+        ]
+      },
+      "id": "osm-location-termil-ennsa",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Termil Ennsâ",
+        "link": "http://pleiades.stoa.org/places/170328843/osm-location-termil-ennsa"
+      }
+    }
+  ]
+}

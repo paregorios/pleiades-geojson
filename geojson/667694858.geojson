@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hellenistic Baths (Syracuse)",
+  "id": "667694858",
+  "bbox": [
+    15.2760745,
+    37.0793102,
+    15.2765607,
+    37.0796363
+  ],
+  "description": "A Hellenistic bath complex at Syracuse, located near the Greek theater.",
+  "connectsWith": [
+    "462503"
+  ],
+  "names": [
+    "Greek Baths of Syracuse",
+    "Bagni greci di Siracusa",
+    "Terme Ellenistiche"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2763181431,
+          37.0794669665
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.2760745,
+            37.0794911
+          ],
+          [
+            15.2761258,
+            37.0795288
+          ],
+          [
+            15.2761582,
+            37.0795526
+          ],
+          [
+            15.2761827,
+            37.0795752
+          ],
+          [
+            15.2764023,
+            37.0796236
+          ],
+          [
+            15.2764598,
+            37.0796363
+          ],
+          [
+            15.2765607,
+            37.0793949
+          ],
+          [
+            15.2764481,
+            37.0793713
+          ],
+          [
+            15.2761566,
+            37.0793102
+          ],
+          [
+            15.2761037,
+            37.079402
+          ],
+          [
+            15.2760824,
+            37.0794434
+          ],
+          [
+            15.2760745,
+            37.0794911
+          ]
+        ]
+      },
+      "id": "osm-location-terme-ellenistiche",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Terme Ellenistiche",
+        "link": "http://pleiades.stoa.org/places/667694858/osm-location-terme-ellenistiche"
+      }
+    }
+  ]
+}

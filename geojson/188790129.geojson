@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman baths (Capsa)",
+  "id": "188790129",
+  "bbox": [
+    8.7866363,
+    34.4156472,
+    8.7868338,
+    34.4157722
+  ],
+  "description": "Epigraphically and archaeologically attested bath complex at Capsa (modern Gafsa) in Tunisia. Two interconnected, open-air quadrangular pools, known collectively today as the \"Roman basins\" (Piscine romaine) remain. They were historically supplied by a mineral spring known today as Ain Dar el Bey.",
+  "names": [
+    "Piscines romaines de Gafsa",
+    "Roman baths of Gafsa",
+    "alhawd alruwmaniu biqafsa"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78673190579,
+          34.4157123663
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

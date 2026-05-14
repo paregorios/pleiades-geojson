@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ain Dar el Bey (Capsa)",
+  "id": "43269086",
+  "description": "A thermal spring located beneath what remains of the Hafsid-era Kasbah. It supplied a Roman-era bath complex and still today feeds two pools that are attributed to that complex.",
+  "connectsWith": [
+    "324684",
+    "188790129"
+  ],
+  "names": [
+    "Ain Dar el Bey"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

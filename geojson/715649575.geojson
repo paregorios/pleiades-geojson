@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ain Dar el-Bey (Hammam-Lif)",
+  "id": "715649575",
+  "description": "One of two hot springs at ancient Naro (modern Hammam-Lif) that were known collectively to the Romans as \"Aquae Persianae\".",
+  "connectsWith": [
+    "315092"
+  ],
+  "names": [
+    "Ain Dar el-Bey"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
