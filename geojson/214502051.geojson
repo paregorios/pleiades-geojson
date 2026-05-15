@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Altheim-Weirading villa rustica",
+  "id": "214502051",
+  "bbox": [
+    13.261664,
+    48.251486,
+    13.262038,
+    48.251801
+  ],
+  "description": "A Roman \"villa rustica\" occupied from ca. 80 - 240 CE, located in the Innviertel region, northeast of the Austrian town of Altheim, village of Weirading (Kiriberg district). This is one of three such sites in the general vicinity of Altheim.",
+  "names": [
+    "Villa rustica of Altheim-Weirading"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2618450667,
+          48.2516468928
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.261782,
+            48.251735
+          ],
+          [
+            13.261806,
+            48.251725
+          ],
+          [
+            13.261664,
+            48.251539
+          ],
+          [
+            13.261813,
+            48.251486
+          ],
+          [
+            13.261944,
+            48.251656
+          ],
+          [
+            13.261978,
+            48.251644
+          ],
+          [
+            13.262038,
+            48.251721
+          ],
+          [
+            13.261831,
+            48.251801
+          ],
+          [
+            13.261782,
+            48.251735
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-rustica-roman",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Rustica (roman)",
+        "link": "http://pleiades.stoa.org/places/214502051/osm-location-of-villa-rustica-roman"
+      }
+    }
+  ]
+}

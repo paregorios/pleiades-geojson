@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pantano Borghese",
+  "id": "916776658",
+  "bbox": [
+    12.7048077,
+    41.8641542,
+    12.7048077,
+    41.8641542
+  ],
+  "description": "The estate (tenuta) of Pantano Borghese is one of the oldest land holdings in the Agro Romano and was acquired by the Colonna family in 1613. Much of this low-lying area was once marshland at the margins of the crater lakes of this part of Latium. Thomas Ashby's work on the Roman Campagna documented numerous archaeological and epigraphical remains in this zone, including extensive remains of Roman villas.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7048077,
+          41.8641542
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7048077,
+          41.8641542
+        ]
+      },
+      "id": "osm-location-of-pantano-borghese",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pantano Borghese",
+        "link": "http://pleiades.stoa.org/places/916776658/osm-location-of-pantano-borghese"
+      }
+    }
+  ]
+}

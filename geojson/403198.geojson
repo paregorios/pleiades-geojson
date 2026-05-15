@@ -9,6 +9,9 @@
     44.087191
   ],
   "description": "An ancient place, cited: BAtlas 41 C1 Colonnata",
+  "names": [
+    "Colonnata"
+  ],
   "features": [
     {
       "type": "Feature",

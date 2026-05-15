@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tiri Monastery",
+  "id": "575798127",
+  "bbox": [
+    43.9289477,
+    42.2818045,
+    43.9291862,
+    42.2819622
+  ],
+  "description": "Georgian Orthodox monastery and church in South Ossestia, constructed in the 13th century.",
+  "names": [
+    "Tiris Monast'eri"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.9290669594,
+          42.2818833673
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.929013,
+            42.2819622
+          ],
+          [
+            43.9291862,
+            42.2818888
+          ],
+          [
+            43.9291209,
+            42.2818045
+          ],
+          [
+            43.9289477,
+            42.281878
+          ],
+          [
+            43.929013,
+            42.2819622
+          ]
+        ]
+      },
+      "id": "osm-way-104373887",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the structure of the Tiri Monastery building, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of Tiri Monastery",
+        "link": "http://pleiades.stoa.org/places/575798127/osm-way-104373887"
+      }
+    }
+  ]
+}

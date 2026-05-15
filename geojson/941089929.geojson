@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grotta del Mortale",
+  "id": "941089929",
+  "bbox": [
+    12.879099,
+    41.8824941,
+    12.879099,
+    41.8824941
+  ],
+  "description": "A Republican period cistern located along the present-day Via Polense in the Comune of Poli in Rome's eastern suburbs.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.879099,
+          41.8824941
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.879099,
+          41.8824941
+        ]
+      },
+      "id": "osm-location-of-grotta-del-mortale",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta del Mortale",
+        "link": "http://pleiades.stoa.org/places/941089929/osm-location-of-grotta-del-mortale"
+      }
+    }
+  ]
+}

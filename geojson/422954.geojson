@@ -8,7 +8,10 @@
     12.752863,
     41.834153
   ],
-  "description": "An ancient place, cited: BAtlas 43 C2 Laghetto di Colonna",
+  "description": "Based on T. Ashby (1902), the compilers of the Barrington Atlas include a Roman villa site identified as \"Laghetto di Colonna\". Ashby discusses this toponym in relation to the discussion about the location of Lacus Regillus; he posits that Laghetto di Colonna and Lacus Regillus are, in fact, different places. Ashby describes Laghetto di Colonna as the site of extensive quarry works in the early twentieth century, and that the remains of an extensive Roman villa occupy the cliffs to the north and east of the basin. Nearby is another villa that may have been owned by one Q. Pompeius Falco, as discussed by Rodolfo Lanciani.",
+  "names": [
+    "Laghetto di Colonna"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-20950",
       "type": "Feature",
       "properties": {
-        "description": "150K scale point location",
+        "description": "1:150,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20950",
         "link": "http://pleiades.stoa.org/places/422954/darmc-location-20950"

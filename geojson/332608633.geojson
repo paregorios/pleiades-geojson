@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "title": "Torre della Scimmia",
+  "id": "332608633",
+  "bbox": [
+    12.4741388,
+    41.9016266,
+    12.4742454,
+    41.9016906
+  ],
+  "description": "A Medieval tower in Rome, perhaps first built by the Frangipani.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Torre della Scimmia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4741942356,
+          41.9016573762
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.474232,
+            41.9016906
+          ],
+          [
+            12.4742454,
+            41.9016333
+          ],
+          [
+            12.474158,
+            41.9016266
+          ],
+          [
+            12.4741388,
+            41.9016762
+          ],
+          [
+            12.47415,
+            41.9016779
+          ],
+          [
+            12.474232,
+            41.9016906
+          ]
+        ]
+      },
+      "id": "osm-location-18-via-dei-portoghesi",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: 18 Via dei Portoghesi",
+        "link": "http://pleiades.stoa.org/places/332608633/osm-location-18-via-dei-portoghesi"
+      }
+    }
+  ]
+}

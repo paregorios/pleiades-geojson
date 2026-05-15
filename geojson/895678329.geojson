@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Dzveli Gavazi Church",
+  "id": "895678329",
+  "bbox": [
+    45.9800755,
+    41.9129231,
+    45.9802994,
+    41.91308
+  ],
+  "description": "Early medieval church in the modern village of Akhalsopeli, Georgia, constructed in the 9th-10th centuries CE.",
+  "names": [
+    "Dzveli Gavalis Ek'lesia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.980187457,
+          41.9130015667
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.9801495,
+            41.91308
+          ],
+          [
+            45.9800755,
+            41.9129981
+          ],
+          [
+            45.9802254,
+            41.9129231
+          ],
+          [
+            45.9802994,
+            41.9130051
+          ],
+          [
+            45.9801495,
+            41.91308
+          ]
+        ]
+      },
+      "id": "10eb10d510d410da10d8-10d210d010d510d010d610d810e1",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the structure of Dzveli Gavazi Church, derived from an OpenStreetMap Way.",
+        "location_precision": "precise",
+        "title": "OSM location of ძველი გავაზის ღვთისმშობლის ეკლესია",
+        "link": "http://pleiades.stoa.org/places/895678329/10eb10d510d410da10d8-10d210d010d510d010d610d810e1"
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Češov",
+  "id": "575798128",
+  "bbox": [
+    15.3482397,
+    50.3303985,
+    15.3482397,
+    50.3303985
+  ],
+  "description": "The remains of what is likely a Celtic oppidum of the later first millennium BCE, covering some 35 ha and located on the hill known as Češovské valy in the Czech Republic.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3482397,
+          50.3303985
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3482397,
+          50.3303985
+        ]
+      },
+      "id": "osm-location-of-akropole",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of akropole",
+        "link": "http://pleiades.stoa.org/places/575798128/osm-location-of-akropole"
+      }
+    }
+  ]
+}

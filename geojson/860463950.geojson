@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tunnels of Claudius",
+  "id": "860463950",
+  "bbox": [
+    13.4333512,
+    41.9885249,
+    13.4333512,
+    41.9885249
+  ],
+  "description": "An approximately 6 km. long tunnel built under Roman emperor Claudius in 52 CE for the purposes of attempting to drain the Lacus Fucinus.",
+  "connectsWith": [
+    "432910"
+  ],
+  "names": [
+    "Cunicoli di Claudio"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4333512,
+          41.9885249
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4333512,
+          41.9885249
+        ]
+      },
+      "id": "osm-location-of-cunicoli-di-claudio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cunicoli di Claudio",
+        "link": "http://pleiades.stoa.org/places/860463950/osm-location-of-cunicoli-di-claudio"
+      }
+    }
+  ]
+}
