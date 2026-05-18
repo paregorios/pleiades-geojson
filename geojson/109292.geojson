@@ -3,12 +3,12 @@
   "title": "Rumst",
   "id": "109292",
   "bbox": [
-    4.423279,
-    51.078086,
-    4.423279,
-    51.078086
+    4.4194937,
+    51.0767937,
+    4.4232863,
+    51.078151
   ],
-  "description": "An ancient place, cited: BAtlas 11 E1 Rumst",
+  "description": "A Gallo-Roman vicus in the area of modern Rumst in Belgium. Stray finds and unsystematic excavation in the 19th century pointed to specific locations for the civic center at Molenveld and necropolis at Kattenberg. There is epigraphic evidence for Roman riverine military activity in the area.",
   "names": [
     "Rumst"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.423279,
-          51.078086
+          4.42136111038,
+          51.0775460762
         ]
       },
       "properties": {
@@ -28,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.423279,
-          51.078086
+          [
+            4.4232863,
+            51.078151
+          ],
+          [
+            4.4227655,
+            51.0780155
+          ],
+          [
+            4.4223984,
+            51.0779009
+          ],
+          [
+            4.420637,
+            51.0773432
+          ],
+          [
+            4.420544,
+            51.0773089
+          ],
+          [
+            4.4199452,
+            51.0770433
+          ],
+          [
+            4.4194937,
+            51.0767937
+          ]
         ]
       },
-      "id": "darmc-location-14535",
+      "id": "osm-location-modern-molenveld-road",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 14535",
-        "link": "http://pleiades.stoa.org/places/109292/darmc-location-14535"
+        "title": "OSM Location: modern Molenveld road",
+        "link": "http://pleiades.stoa.org/places/109292/osm-location-modern-molenveld-road"
       }
     }
   ]

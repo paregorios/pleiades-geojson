@@ -9,6 +9,9 @@
     47.0
   ],
   "description": "An ancient place, cited: BAtlas 23 E2 no. 59 (Khablov Khutor)",
+  "names": [
+    "Khablov Khutor"
+  ],
   "features": [
     {
       "type": "Feature",

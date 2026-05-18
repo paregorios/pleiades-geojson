@@ -27,34 +27,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.004212,
-          54.489614
+          -2.003903,
+          54.489344
         ]
       },
-      "id": "site-of-rectangular-shrine",
+      "id": "imagery-location-site-of-circular-shrine",
       "type": "Feature",
       "properties": {
         "description": "Coordinates derived from Pastscape record and converted to WGS84 latitude, longitude values from the Ordnance Survey grid references, resolved to their center points.",
         "location_precision": "precise",
-        "title": "Site of rectangular shrine",
-        "link": "http://pleiades.stoa.org/places/803832320/site-of-rectangular-shrine"
+        "title": "Imagery Location: Site of circular shrine",
+        "link": "http://pleiades.stoa.org/places/803832320/imagery-location-site-of-circular-shrine"
       }
     },
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.003903,
-          54.489344
+          -2.004212,
+          54.489614
         ]
       },
-      "id": "site-of-circular-shrine",
+      "id": "imagery-location-site-of-rectangular-shrine",
       "type": "Feature",
       "properties": {
         "description": "Coordinates derived from Pastscape record and converted to WGS84 latitude, longitude values from the Ordnance Survey grid references, resolved to their center points.",
         "location_precision": "precise",
-        "title": "Site of circular shrine",
-        "link": "http://pleiades.stoa.org/places/803832320/site-of-circular-shrine"
+        "title": "Imagery Location: Site of rectangular shrine",
+        "link": "http://pleiades.stoa.org/places/803832320/imagery-location-site-of-rectangular-shrine"
       }
     }
   ]

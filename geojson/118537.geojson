@@ -1,22 +1,27 @@
 {
   "type": "FeatureCollection",
-  "title": "Aalen",
+  "title": "Kastell Aalen",
   "id": "118537",
   "bbox": [
-    10.08472,
-    48.835579,
-    10.089901,
-    48.835977
+    10.0833322,
+    48.8348624,
+    10.086094,
+    48.8365909
   ],
-  "description": "An ancient place, cited: BAtlas 12 D4 Aalen",
+  "description": "A Roman fort on the Raetian limes, located in what is now Aalen in the modern German state of Baden-Württemberg. It was garrisoned by the Ala II Flavia Miliaria Pia Fidelis.",
+  "names": [
+    "Aalen",
+    "Reiterkastell Aalen",
+    "Kastell Aalen"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0873105,
-          48.835778
+          10.0846443337,
+          48.8356908763
         ]
       },
       "properties": {
@@ -25,36 +30,137 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.089901,
-          48.835977
+          [
+            10.0843184,
+            48.8365786
+          ],
+          [
+            10.0841612,
+            48.8365909
+          ],
+          [
+            10.083912,
+            48.8364512
+          ],
+          [
+            10.0838476,
+            48.8364103
+          ],
+          [
+            10.083551,
+            48.8362419
+          ],
+          [
+            10.0834341,
+            48.8361772
+          ],
+          [
+            10.0834729,
+            48.8361395
+          ],
+          [
+            10.0833322,
+            48.8360587
+          ],
+          [
+            10.0835213,
+            48.8359174
+          ],
+          [
+            10.0834422,
+            48.8358774
+          ],
+          [
+            10.0833643,
+            48.835838
+          ],
+          [
+            10.0844336,
+            48.8351009
+          ],
+          [
+            10.0848427,
+            48.835291
+          ],
+          [
+            10.0848711,
+            48.8352731
+          ],
+          [
+            10.0855201,
+            48.8348624
+          ],
+          [
+            10.0857389,
+            48.835013
+          ],
+          [
+            10.0857476,
+            48.835019
+          ],
+          [
+            10.0857621,
+            48.8350292
+          ],
+          [
+            10.0860584,
+            48.8352374
+          ],
+          [
+            10.0860634,
+            48.8352409
+          ],
+          [
+            10.0860767,
+            48.8352618
+          ],
+          [
+            10.086094,
+            48.835289
+          ],
+          [
+            10.0854599,
+            48.8357521
+          ],
+          [
+            10.0854355,
+            48.8357699
+          ],
+          [
+            10.0854267,
+            48.8357763
+          ],
+          [
+            10.0852837,
+            48.8358802
+          ],
+          [
+            10.085237,
+            48.8359142
+          ],
+          [
+            10.0846573,
+            48.8363356
+          ],
+          [
+            10.0844072,
+            48.8365149
+          ],
+          [
+            10.0843184,
+            48.8365786
+          ]
         ]
       },
-      "id": "darmc-location-6997",
+      "id": "osm-location-reiterkastell-aalen",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 6997",
-        "link": "http://pleiades.stoa.org/places/118537/darmc-location-6997"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.08472,
-          48.835579
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/118537/dare-location"
+        "title": "OSM Location: Reiterkastell Aalen",
+        "link": "http://pleiades.stoa.org/places/118537/osm-location-reiterkastell-aalen"
       }
     }
   ]

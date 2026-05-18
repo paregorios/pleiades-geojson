@@ -9,6 +9,9 @@
     34.060874
   ],
   "description": "An ancient place, cited: BAtlas 29 F2 el Khadra",
+  "names": [
+    "el Khadra"
+  ],
   "features": [
     {
       "type": "Feature",

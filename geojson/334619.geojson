@@ -9,6 +9,9 @@
     34.397304
   ],
   "description": "An ancient place, cited: BAtlas 34 D3 Sidi Khaled",
+  "names": [
+    "Sidi Khaled"
+  ],
   "features": [
     {
       "type": "Feature",

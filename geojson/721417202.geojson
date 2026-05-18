@@ -3,10 +3,10 @@
   "title": "Abu Simbel",
   "id": "721417202",
   "bbox": [
-    31.625543,
-    22.33535,
-    31.627804,
-    22.337647
+    31.6235783771,
+    22.3354305567,
+    31.6277968848,
+    22.3386527134
   ],
   "description": "The site of two temples constructed by Ramesses II, one dedicated to the triad of Amun, Ra-Horakhty, and Ptah, as well as the deified Ramesses, and another dedicated to Hathor and the pharaoh's wife Nefertari. The temple was relocated between 1964 and 1968 to prevent its submersion under Lake Nasser after the construction of the Aswan High Dam.",
   "names": [
@@ -19,12 +19,65 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          31.62656425,
-          22.33644375
+          31.625513644,
+          22.3372337789
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.627796884755,
+              22.33766396387333
+            ],
+            [
+              31.62626443324132,
+              22.33658846794202
+            ],
+            [
+              31.62511204370166,
+              22.33543055671939
+            ],
+            [
+              31.62407416514045,
+              22.33587359769481
+            ],
+            [
+              31.62357837705916,
+              22.33687194793227
+            ],
+            [
+              31.62485105420031,
+              22.33845105148639
+            ],
+            [
+              31.62566831706148,
+              22.33865271335642
+            ],
+            [
+              31.62714949439968,
+              22.33847962332076
+            ],
+            [
+              31.627796884755,
+              22.33766396387333
+            ]
+          ]
+        ]
+      },
+      "id": "abu-simbel-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery Location: Present-day location of the Abu Simbel temples after they were reassembled when the waters of the Nile rose in the 1960s following the construction of the Aswan High Dam",
+        "location_precision": "precise",
+        "title": "Imagery Location: Abu Simbel",
+        "link": "http://pleiades.stoa.org/places/721417202/abu-simbel-1"
       }
     }
   ]

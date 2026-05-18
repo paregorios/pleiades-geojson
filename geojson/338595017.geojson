@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "title": "Khajuraho Group of Monuments",
+  "id": "338595017",
+  "bbox": [
+    79.9185231,
+    24.851842,
+    79.9230023,
+    24.8547188
+  ],
+  "description": "The Khajuraho Group of Monuments is designated as a UNESCO World Heritage site located in the modern Indian state of Madhya Pradesh. These temples were built during the Chandella dynasty (ca. 950-1050 CE). The remaining temples belong to two different religions – Hinduism and Jainism",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9208420013,
+          24.8530843079
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.9228655,
+            24.8539254
+          ],
+          [
+            79.9221494,
+            24.8541736
+          ],
+          [
+            79.9216505,
+            24.8544316
+          ],
+          [
+            79.9214252,
+            24.85449
+          ],
+          [
+            79.9211784,
+            24.8544267
+          ],
+          [
+            79.9203711,
+            24.8546141
+          ],
+          [
+            79.9197032,
+            24.8547188
+          ],
+          [
+            79.9191588,
+            24.8537598
+          ],
+          [
+            79.9191642,
+            24.8536357
+          ],
+          [
+            79.9185231,
+            24.8525308
+          ],
+          [
+            79.9190487,
+            24.8523215
+          ],
+          [
+            79.9189066,
+            24.85201
+          ],
+          [
+            79.9192113,
+            24.8519119
+          ],
+          [
+            79.9194269,
+            24.8520173
+          ],
+          [
+            79.9207775,
+            24.8518852
+          ],
+          [
+            79.9212187,
+            24.851842
+          ],
+          [
+            79.9214346,
+            24.8518889
+          ],
+          [
+            79.9214838,
+            24.8520721
+          ],
+          [
+            79.921883,
+            24.8520655
+          ],
+          [
+            79.921885,
+            24.8520116
+          ],
+          [
+            79.9222951,
+            24.8520066
+          ],
+          [
+            79.9223884,
+            24.8522508
+          ],
+          [
+            79.9226532,
+            24.852224
+          ],
+          [
+            79.9226648,
+            24.8522916
+          ],
+          [
+            79.9227907,
+            24.8522705
+          ],
+          [
+            79.9227844,
+            24.852201
+          ],
+          [
+            79.9228816,
+            24.8521949
+          ],
+          [
+            79.9228897,
+            24.8522509
+          ],
+          [
+            79.9229245,
+            24.8522704
+          ],
+          [
+            79.9230023,
+            24.8522631
+          ],
+          [
+            79.9229744,
+            24.8523601
+          ],
+          [
+            79.9228414,
+            24.8529032
+          ],
+          [
+            79.9228655,
+            24.8539254
+          ]
+        ]
+      },
+      "id": "osm-location-of-western-group-of-temples",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Western Group of Temples",
+        "link": "http://pleiades.stoa.org/places/338595017/osm-location-of-western-group-of-temples"
+      }
+    }
+  ]
+}
