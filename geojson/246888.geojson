@@ -9,6 +9,9 @@
     42.0
   ],
   "description": "An ancient place, cited: BAtlas 25 B4 unnamed aqueduct (Pie de la Galiana, N Uxama (Argaela))",
+  "connectsWith": [
+    "246721"
+  ],
   "features": [
     {
       "type": "Feature",

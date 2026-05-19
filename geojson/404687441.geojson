@@ -9,6 +9,9 @@
     37.0566221
   ],
   "description": "A town mentioned in Neo-Assyrian sources that is likely to be identified as Tell ʿĀmūdā.",
+  "connectsWith": [
+    "260976011"
+  ],
   "names": [
     "Tell ʿĀmūdā",
     "Urakka",
