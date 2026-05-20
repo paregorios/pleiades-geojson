@@ -3,14 +3,14 @@
   "title": "Ziquensis (mountain)",
   "id": "315272",
   "bbox": [
-    10.1117246,
-    36.3518395,
-    10.1117246,
-    36.3518395
+    10.112153,
+    36.3519188,
+    10.112153,
+    36.3519188
   ],
   "description": "Djebel Zaghouan.",
   "names": [
-    "Ziquensis"
+    "Ziquensis Mons"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1117246,
-          36.3518395
+          10.112153,
+          36.3519188
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.1117246,
-          36.3518395
+          10.112153,
+          36.3519188
         ]
       },
       "id": "location-of-djebel-zaghouan",
@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Djebel Zaghouan",
+        "title": "OSM location of Djebel Zaghouan",
         "link": "http://pleiades.stoa.org/places/315272/location-of-djebel-zaghouan"
       }
     }
