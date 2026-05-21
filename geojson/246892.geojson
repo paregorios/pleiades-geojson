@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Torrente de Cinca (Fraga)",
   "id": "246892",
   "bbox": [
-    0.0,
-    41.0,
-    1.0,
-    42.0
+    0.410824,
+    41.462854,
+    0.410824,
+    41.462854
   ],
-  "description": "An ancient place, cited: BAtlas 25 F4 unnamed aqueduct (Torrente de Cinca (Fraga), W Keresos)",
+  "description": "An ancient aqueduct, located to the west of Keresos.",
   "connectsWith": [
     "246451"
+  ],
+  "names": [
+    "Torrente de Cinca (Fraga)"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.5,
-          41.5
+          0.410824,
+          41.462854
         ]
       },
       "properties": {

@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "title": "Yeovil Roman settlement",
+  "id": "333121794",
+  "bbox": [
+    -2.644405,
+    50.9384013,
+    -2.6427608,
+    50.9393692
+  ],
+  "description": "The remains of a Roman settlement at Yeovil have been identified via partial excavation just to the south of Westland Road. Structural remains were documented, as well as evidence for drainage and town planning. The occupation dates range from the first to the fourth centuries CE.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64361367362,
+          50.9389041012
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.643747,
+            50.9384013
+          ],
+          [
+            -2.6438283,
+            50.9384655
+          ],
+          [
+            -2.644405,
+            50.9392108
+          ],
+          [
+            -2.6439169,
+            50.9393692
+          ],
+          [
+            -2.6435527,
+            50.9389536
+          ],
+          [
+            -2.6434873,
+            50.9389338
+          ],
+          [
+            -2.6434367,
+            50.938877
+          ],
+          [
+            -2.6429271,
+            50.9390477
+          ],
+          [
+            -2.6428949,
+            50.9390015
+          ],
+          [
+            -2.6428554,
+            50.9390145
+          ],
+          [
+            -2.6427608,
+            50.9388951
+          ],
+          [
+            -2.643747,
+            50.9384013
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location",
+        "link": "http://pleiades.stoa.org/places/333121794/osm-location"
+      }
+    }
+  ]
+}

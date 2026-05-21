@@ -3,10 +3,10 @@
   "title": "Tell Arbid",
   "id": "874730",
   "bbox": [
-    41.01513,
+    41.0165984,
     36.8691845,
     41.0237653,
-    36.889467
+    36.8764627
   ],
   "description": "Tell Arbid is an archaeological site located in Syria's Al-Hasakah Governorate in the basin of the Khabur River. The site is active from the third millennium BCE onward.",
   "names": [
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.017806345,
-          36.881271665
+          41.021176445,
+          36.873081565
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          41.01513,
-          36.889467
-        ]
-      },
-      "id": "darmc-location-22563",
-      "type": "Feature",
-      "properties": {
-        "description": "Point location",
-        "location_precision": "precise",
-        "title": "DARMC location 22563",
-        "link": "http://pleiades.stoa.org/places/874730/darmc-location-22563"
       }
     },
     {
@@ -124,6 +107,23 @@
         "location_precision": "precise",
         "title": "OSM location of `Arbid Tahtani",
         "link": "http://pleiades.stoa.org/places/874730/osm-way-200057513"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0218702,
+          36.8730868
+        ]
+      },
+      "id": "osm-location-tell-arbid",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location: Tell Arbid",
+        "link": "http://pleiades.stoa.org/places/874730/osm-location-tell-arbid"
       }
     }
   ]

@@ -1,16 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Pie de la Galiana",
   "id": "246888",
   "bbox": [
-    -4.0,
-    41.0,
-    -3.0,
-    42.0
+    -3.0914705,
+    41.5762674,
+    -3.0914705,
+    41.5762674
   ],
-  "description": "An ancient place, cited: BAtlas 25 B4 unnamed aqueduct (Pie de la Galiana, N Uxama (Argaela))",
+  "description": "An ancient aqueduct, located north of Uxama (Argaela)",
   "connectsWith": [
     "246721"
+  ],
+  "names": [
+    "Pie de la Galiana"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.5,
-          41.5
+          -3.0914705,
+          41.5762674
         ]
       },
       "properties": {

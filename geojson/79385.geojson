@@ -8,9 +8,12 @@
     -1.4997035,
     52.2360289
   ],
-  "description": "An ancient place, cited: BAtlas 8 F2 Chesterton-on-Fosse",
+  "description": "Chesterton-on-Foss was the site of a small, fortified Roman settlement on the Fosse Way. The defensive works enclose an area of some 3.2 ha. These works were erected in the second century and were expanded after the middle of the fourth century. The site continues in use until the sixth century.",
   "connectsWith": [
     "656280677"
+  ],
+  "names": [
+    "Chesterton-on-Fosse"
   ],
   "features": [
     {

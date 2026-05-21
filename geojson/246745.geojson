@@ -1,22 +1,26 @@
 {
   "type": "FeatureCollection",
-  "title": "Vilablareix",
+  "title": "Monument La Torratxa (Vilablareix)",
   "id": "246745",
   "bbox": [
-    2.773002,
-    41.956389,
-    2.773002,
-    41.956389
+    2.7740135,
+    41.9544074,
+    2.7740135,
+    41.9544074
   ],
-  "description": "An ancient place, cited: BAtlas 25 H4 Vilablareix",
+  "description": "A Roman funerary monument located at modern Vilablareix, southwest of Girona, in Catalonia.",
+  "names": [
+    "Vilablareix",
+    "monument funerari romà de la Torratxa de Vilablareix (Gironès)"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.773002,
-          41.956389
+          2.7740135,
+          41.9544074
         ]
       },
       "properties": {
@@ -27,17 +31,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.773002,
-          41.956389
+          2.7740135,
+          41.9544074
         ]
       },
-      "id": "darmc-location-20676",
+      "id": "osm-location-of-la-torraxta",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 20676",
-        "link": "http://pleiades.stoa.org/places/246745/darmc-location-20676"
+        "title": "OSM location of La Torraxta",
+        "link": "http://pleiades.stoa.org/places/246745/osm-location-of-la-torraxta"
       }
     }
   ]

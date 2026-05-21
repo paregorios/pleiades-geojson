@@ -3,14 +3,15 @@
   "title": "Numluli",
   "id": "315097",
   "bbox": [
-    9.202678,
-    36.522418,
     9.218381,
-    36.52315
+    36.522942,
+    9.2216227,
+    36.5247357
   ],
   "description": "A major settlement, cited: BAtlas 32 D3 Numluli",
   "names": [
-    "Numluli"
+    "Numluli",
+    "Henchir-el-Matria"
   ],
   "features": [
     {
@@ -18,29 +19,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.2105295,
-          36.522784
+          9.21945770134,
+          36.5234797735
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.202678,
-          36.522418
-        ]
-      },
-      "id": "darmc-location-16814",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 16814",
-        "link": "http://pleiades.stoa.org/places/315097/darmc-location-16814"
       }
     },
     {
@@ -58,6 +42,74 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/315097/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2185806,
+          36.522942
+        ]
+      },
+      "id": "osm-location-of-henchir-matria",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Henchir Matria",
+        "link": "http://pleiades.stoa.org/places/315097/osm-location-of-henchir-matria"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.2212272,
+            36.5247357
+          ],
+          [
+            9.2211128,
+            36.5245553
+          ],
+          [
+            9.2214998,
+            36.52395
+          ],
+          [
+            9.2216227,
+            36.5239486
+          ],
+          [
+            9.2216144,
+            36.5243348
+          ],
+          [
+            9.2215645,
+            36.5245044
+          ],
+          [
+            9.2214301,
+            36.5246269
+          ],
+          [
+            9.2213315,
+            36.5247028
+          ],
+          [
+            9.2212272,
+            36.5247357
+          ]
+        ]
+      },
+      "id": "osm-location-of-archaeological-area",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of archaeological area",
+        "link": "http://pleiades.stoa.org/places/315097/osm-location-of-archaeological-area"
       }
     }
   ]

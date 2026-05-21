@@ -3,10 +3,10 @@
   "title": "Roman Arch of Pheradi Majus",
   "id": "63880221",
   "bbox": [
-    10.4000126,
-    36.248825,
-    10.4000126,
-    36.248825
+    10.3999265,
+    36.2488416,
+    10.4000392,
+    36.248895
   ],
   "description": "A triumphal arch located in the civic forum.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4000126,
-          36.248825
+          10.3999828858,
+          36.248868323
         ]
       },
       "properties": {
@@ -28,19 +28,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          10.4000126,
-          36.248825
+          [
+            10.3999371,
+            36.248895
+          ],
+          [
+            10.3999265,
+            36.2488648
+          ],
+          [
+            10.3999797,
+            36.2488528
+          ],
+          [
+            10.4000287,
+            36.2488416
+          ],
+          [
+            10.4000392,
+            36.2488719
+          ],
+          [
+            10.3999913,
+            36.2488827
+          ],
+          [
+            10.3999371,
+            36.248895
+          ]
         ]
       },
-      "id": "location-of-roman-arch",
+      "id": "osm-location-of-arch-of-pheradi-majus",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman arch",
-        "link": "http://pleiades.stoa.org/places/63880221/location-of-roman-arch"
+        "title": "OSM location of Arch of Pheradi Majus",
+        "link": "http://pleiades.stoa.org/places/63880221/osm-location-of-arch-of-pheradi-majus"
       }
     }
   ]

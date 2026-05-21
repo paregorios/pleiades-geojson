@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed aqueduct (near Vallis)",
   "id": "315602",
   "bbox": [
-    9.5,
-    36.5,
-    10.0,
-    37.0
+    9.7465689,
+    36.6249253,
+    9.7465689,
+    36.6249253
   ],
   "description": "An ancient place, cited: BAtlas 32 E3 unnamed aqueduct (near Vallis)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.75,
-          36.75
+          9.7465689,
+          36.6249253
         ]
       },
       "properties": {

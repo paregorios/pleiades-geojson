@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Drayton Roman fort",
+  "id": "120451975",
+  "bbox": [
+    -2.35502,
+    52.6842,
+    -2.35502,
+    52.6842
+  ],
+  "description": "An unexcavated Roman fort established circa 47 CE near Drayton, United Kingdom.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35502,
+          52.6842
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35502,
+          52.6842
+        ]
+      },
+      "id": "wikidata-location-drayton-roman-fort",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Wikidata Location: Drayton Roman fort",
+        "link": "http://pleiades.stoa.org/places/120451975/wikidata-location-drayton-roman-fort"
+      }
+    }
+  ]
+}

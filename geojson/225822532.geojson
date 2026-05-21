@@ -4,9 +4,9 @@
   "id": "225822532",
   "bbox": [
     9.1466771,
-    36.3372806,
-    9.1466771,
-    36.3372806
+    36.3371936,
+    9.1467508,
+    36.3372875
   ],
   "description": "A Roman arch monument located at Musti (Tunisia) that is dedicated to the Roman emperor Gordian III. Parra-Pérez et al. (2024) argue that the arch was dedicated in 240 CE based on its inscription.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1466771,
-          36.3372806
+          9.14671392016,
+          36.3372405575
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          9.1466771,
-          36.3372806
+          [
+            9.1466771,
+            36.3372806
+          ],
+          [
+            9.1467347,
+            36.3372875
+          ],
+          [
+            9.1467508,
+            36.3372006
+          ],
+          [
+            9.1466931,
+            36.3371936
+          ],
+          [
+            9.1466771,
+            36.3372806
+          ]
         ]
       },
-      "id": "osm-location-of-roman-arch",
+      "id": "osm-location-of-arch-of-gordian-iii-at-musti",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Roman arch",
-        "link": "http://pleiades.stoa.org/places/225822532/osm-location-of-roman-arch"
+        "title": "OSM location of Arch of Gordian III at Musti",
+        "link": "http://pleiades.stoa.org/places/225822532/osm-location-of-arch-of-gordian-iii-at-musti"
       }
     }
   ]

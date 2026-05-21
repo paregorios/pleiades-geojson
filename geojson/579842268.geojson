@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Treasury of the Massaliots",
+  "id": "579842268",
+  "bbox": [
+    22.5080157,
+    38.4800985,
+    22.5080954,
+    38.4801657
+  ],
+  "description": "The Treasury of the Massaliots at Delphi is an in antis building built of Parian marble with Aeolic capitals. It stands in the area of the Sanctuary of Athena Pronaia. It dates ca. 510 BCE.",
+  "connectsWith": [
+    "540726"
+  ],
+  "names": [
+    "Treasury of the Massaliots"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5080555365,
+          38.4801320755
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5080157,
+            38.4801001
+          ],
+          [
+            22.5080932,
+            38.4800985
+          ],
+          [
+            22.5080954,
+            38.480164
+          ],
+          [
+            22.5080179,
+            38.4801657
+          ],
+          [
+            22.5080157,
+            38.4801001
+          ]
+        ]
+      },
+      "id": "osm-location-of-treasury-of-the-massaliots",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Treasury of the Massaliots",
+        "link": "http://pleiades.stoa.org/places/579842268/osm-location-of-treasury-of-the-massaliots"
+      }
+    }
+  ]
+}

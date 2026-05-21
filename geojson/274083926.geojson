@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tholos of Athena Pronaia",
+  "id": "274083926",
+  "bbox": [
+    22.5077924,
+    38.4800925,
+    22.507945,
+    38.4802119
+  ],
+  "description": "A tholos in the Doric order located in the temenos of Athena Pronaia at Delphi. The temple is dated ca. 380 - 370 BCE.",
+  "connectsWith": [
+    "513711610",
+    "540726"
+  ],
+  "names": [
+    "Tholos of Delphi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5078688182,
+          38.4801519924
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.5079433,
+            38.4801659
+          ],
+          [
+            22.5079332,
+            38.4801844
+          ],
+          [
+            22.5079159,
+            38.4801992
+          ],
+          [
+            22.5078932,
+            38.4802088
+          ],
+          [
+            22.5078678,
+            38.4802119
+          ],
+          [
+            22.5078437,
+            38.4802086
+          ],
+          [
+            22.5078222,
+            38.4801994
+          ],
+          [
+            22.5078054,
+            38.4801855
+          ],
+          [
+            22.5077951,
+            38.4801681
+          ],
+          [
+            22.5077924,
+            38.4801491
+          ],
+          [
+            22.5077975,
+            38.4801303
+          ],
+          [
+            22.5078099,
+            38.4801138
+          ],
+          [
+            22.5078283,
+            38.4801012
+          ],
+          [
+            22.5078521,
+            38.4800935
+          ],
+          [
+            22.5078777,
+            38.4800925
+          ],
+          [
+            22.5079024,
+            38.4800981
+          ],
+          [
+            22.5079233,
+            38.4801099
+          ],
+          [
+            22.507938,
+            38.4801264
+          ],
+          [
+            22.507945,
+            38.4801458
+          ],
+          [
+            22.5079433,
+            38.4801659
+          ]
+        ]
+      },
+      "id": "osm-location-of-tholos-of-athena-pronaia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tholos of Athena Pronaia",
+        "link": "http://pleiades.stoa.org/places/274083926/osm-location-of-tholos-of-athena-pronaia"
+      }
+    }
+  ]
+}

@@ -8,7 +8,10 @@
     -2.629836,
     50.943621
   ],
-  "description": "An ancient place, cited: BAtlas 8 E4 Yeovil",
+  "description": "In 1925, Alderman Mitchelmore excavated a Roman courtyard villa at Yeovil. This site is located to the west of Seaton Road, Westland, Yeovil. Excavations continued in 1927/8 under Ralegh Radford. On September 15, 1916, a coin hoard containing more than 4,000 fourth-century CE coins was found on the site. The villa was a large building (200 by 170 feet) with a paved courtyard.",
+  "names": [
+    "Yeovil"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -34,7 +37,7 @@
       "id": "darmc-location-21174",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 21174",
         "link": "http://pleiades.stoa.org/places/79775/darmc-location-21174"
