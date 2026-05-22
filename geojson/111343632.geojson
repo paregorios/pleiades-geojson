@@ -4,8 +4,8 @@
   "id": "111343632",
   "bbox": [
     42.1622211,
-    36.2145244,
-    42.1622211,
+    35.8927,
+    42.6044,
     36.2145244
   ],
   "description": "A city founded by the Assyrian palace herald Bēl-Harrān-bēlu-uṣur in the mid-8th century B.C. The discovery of a stele there identifies ancient Dūr-Bēl-Harrān-bēlu-uṣur with modern Tell ʿAbṭa (Tell Abtah).",
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.1622211,
-          36.2145244
+          42.38331055,
+          36.0536122
         ]
       },
       "properties": {
@@ -43,6 +43,23 @@
         "location_precision": "precise",
         "title": "OSM location of Tell Abtah",
         "link": "http://pleiades.stoa.org/places/111343632/osm-location-of-tell-abtah"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.6044,
+          35.8927
+        ]
+      },
+      "id": "cigs-location-of-tall-2018abtah",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CIGS location of Tall ‘Abṭah",
+        "link": "http://pleiades.stoa.org/places/111343632/cigs-location-of-tall-2018abtah"
       }
     }
   ]

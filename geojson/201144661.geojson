@@ -4,8 +4,8 @@
   "id": "201144661",
   "bbox": [
     37.069119,
-    37.758916,
-    37.069119,
+    37.0677,
+    37.7581,
     37.758916
   ],
   "description": "Tell Turlu (Turlu Höyük) is ca. 7 km northwest of Nizip (Gaziantep Province, Turkey), near the modern village Turlu. In 2003, a basalt stele of the Assyrian official Bēl-iddin (reign of Sargon II; r. 721–705 BC) was discovered there. The ancient name of this large site, which was occupied in the Neolithic Period, is not known.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.069119,
-          37.758916
+          37.4136095,
+          37.413308
         ]
       },
       "properties": {
@@ -30,17 +30,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.069119,
-          37.758916
+          37.7581,
+          37.0677
         ]
       },
-      "id": "representative-location-of-turlu-hoyuk",
+      "id": "turlu-hoyuk-1",
       "type": "Feature",
       "properties": {
         "description": null,
         "location_precision": "precise",
-        "title": "Representative location of Turlu Höyük",
-        "link": "http://pleiades.stoa.org/places/201144661/representative-location-of-turlu-hoyuk"
+        "title": "CIGS location of Turlu Höyük",
+        "link": "http://pleiades.stoa.org/places/201144661/turlu-hoyuk-1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.069119,
+          37.758916
+        ]
+      },
+      "id": "imagery-location-of-turlu-hoyuk",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Imagery location of Turlu Höyük",
+        "link": "http://pleiades.stoa.org/places/201144661/imagery-location-of-turlu-hoyuk"
       }
     }
   ]

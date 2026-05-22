@@ -3,16 +3,17 @@
   "title": "Sela",
   "id": "86623849",
   "bbox": [
-    35.7265981,
+    35.578,
     30.7504121,
     35.7265981,
-    30.7504121
+    30.7823
   ],
   "description": "Sela (also as-Silaʿ and es-Selaʿ) was the the capital of the land Edom. The city is equated with the biblical Joktheel/Jokteel/Jectehel.",
   "names": [
     "as-Silaʿ",
     "es-Selaʿ",
-    "Selaʾ"
+    "Selaʾ",
+    "Al-Sila‘"
   ],
   "features": [
     {
@@ -20,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.7265981,
-          30.7504121
+          35.65229905,
+          30.76635605
         ]
       },
       "properties": {
@@ -43,6 +44,23 @@
         "location_precision": "precise",
         "title": "OSM Location of Sela",
         "link": "http://pleiades.stoa.org/places/86623849/osm-location-of-sela"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.578,
+          30.7823
+        ]
+      },
+      "id": "al-sila2018",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CIGS location of Al-Sila‘",
+        "link": "http://pleiades.stoa.org/places/86623849/al-sila2018"
       }
     }
   ]

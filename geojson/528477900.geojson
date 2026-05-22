@@ -4,13 +4,14 @@
   "id": "528477900",
   "bbox": [
     40.6565033,
-    36.0807029,
-    40.6565033,
+    34.7578,
+    41.0811,
     36.0807029
   ],
   "description": "Al-Sabaa wa Arbain (Saba‘ wa Arba’īn) is a small modern town in northeastern Syria (al-Hasakah Governorate). The settlement sits atop a small mound of ruins (ancient name not known).",
   "names": [
-    "Al-Sabaa"
+    "Al-Sabaa",
+    "Sabā‘a"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.6565033,
-          36.0807029
+          40.86880165,
+          35.41925145
         ]
       },
       "properties": {
@@ -41,6 +42,23 @@
         "location_precision": "precise",
         "title": "OSM Location of Saba` wa Arba`in",
         "link": "http://pleiades.stoa.org/places/528477900/osm-location-of-saba-wa-arba-in"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.0811,
+          34.7578
+        ]
+      },
+      "id": "cigs-location-of-saba2018a",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "CIGS location of Sabā‘a",
+        "link": "http://pleiades.stoa.org/places/528477900/cigs-location-of-saba2018a"
       }
     }
   ]

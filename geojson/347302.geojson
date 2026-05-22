@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed monument (Sidi bel Abbis)",
   "id": "347302",
   "bbox": [
     9.685172,
@@ -8,7 +8,7 @@
     9.685172,
     33.566
   ],
-  "description": "An ancient place, cited: BAtlas 35 B1 unnamed monument (Sidi bel Abbis TUN)",
+  "description": "An unnamed ancient monument at Sidi bel Abbis, Tunisia.",
   "features": [
     {
       "type": "Feature",
@@ -34,7 +34,7 @@
       "id": "darmc-location-25775",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 25775",
         "link": "http://pleiades.stoa.org/places/347302/darmc-location-25775"

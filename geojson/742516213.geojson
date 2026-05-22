@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hagi",
+  "id": "742516213",
+  "description": "Hagi is situated near Erciş in the Van Province in eastern Turkey. Here a stela with an inscription of Argišti II., son of Rusa (8th / 7th century BCE) was found which reports the creation of an artificial lake in front of Mount Quria.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
