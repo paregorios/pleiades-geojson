@@ -1,14 +1,48 @@
 {
   "type": "FeatureCollection",
-  "title": "Hagi",
+  "title": "Hagi/Aği/Kocapınar",
   "id": "742516213",
-  "description": "Hagi is situated near Erciş in the Van Province in eastern Turkey. Here a stela with an inscription of Argišti II., son of Rusa (8th / 7th century BCE) was found which reports the creation of an artificial lake in front of Mount Quria.",
+  "bbox": [
+    43.19616,
+    39.09553,
+    43.19616,
+    39.09553
+  ],
+  "description": "Kocapınar (known as Hagi/Aği until officially renamed in 1959) is a modern town in the administrative district of Erciş in the Van Province in eastern Turkey. Here a stela with an inscription of Argišti II., son of Rusa (8th / 7th century BCE) was found which reports the creation of an artificial lake in front of Mount Quria.",
+  "names": [
+    "Hagi",
+    "Aği",
+    "Kocapınar"
+  ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.19616,
+          39.09553
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.19616,
+          39.09553
+        ]
+      },
+      "id": "geonames-location-modern-kocapinar",
+      "type": "Feature",
+      "properties": {
+        "description": "Işık 2021 clarifies the location of Aği = Hagi (renamed Kocapınar by Turkish authorities in 1959 according to Geonames), which lies northwest of Erciş, rather than some other locations east of Erciş that are commonly confused with it in the literature.",
+        "location_precision": "precise",
+        "title": "Geonames Location: modern Kocapınar",
+        "link": "http://pleiades.stoa.org/places/742516213/geonames-location-modern-kocapinar"
       }
     }
   ]
