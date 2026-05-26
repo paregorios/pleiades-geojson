@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap. 1,351 m asl",
         "location_precision": "precise",
-        "title": "location of Monte Popini",
+        "title": "OSM location of Monte Popini",
         "link": "http://pleiades.stoa.org/places/452449/location-of-monte-popini"
       }
     },
@@ -56,7 +56,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap. 1,491 m asl",
         "location_precision": "precise",
-        "title": "location of Colle del Lupo",
+        "title": "OSM location of Colle del Lupo",
         "link": "http://pleiades.stoa.org/places/452449/location-of-colle-del-lupo"
       }
     },
@@ -73,7 +73,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap. 1,519 m asl",
         "location_precision": "precise",
-        "title": "location of Cozzo del Brigante",
+        "title": "OSM location of Cozzo del Brigante",
         "link": "http://pleiades.stoa.org/places/452449/location-of-cozzo-del-brigante"
       }
     }

@@ -9,6 +9,9 @@
     49.105038
   ],
   "description": "An ancient place, cited: BAtlas 11 G3 Ste-Ruffine",
+  "connectsWith": [
+    "109182"
+  ],
   "features": [
     {
       "type": "Feature",

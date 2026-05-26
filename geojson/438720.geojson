@@ -3,10 +3,10 @@
   "title": "Cominium Ocritum",
   "id": "438720",
   "bbox": [
-    14.562667,
-    41.3056506,
-    14.5628559,
-    41.3058334
+    14.137989775,
+    41.3056216,
+    14.5629159,
+    41.7216075462
   ],
   "description": "Cominium Ocritum was a Samnite stronghold captured in 291 BC by Quintus Fabius Maximus Gurges.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5627614541,
-          41.3057419807
+          14.5628162638,
+          41.3056658844
         ]
       },
       "properties": {

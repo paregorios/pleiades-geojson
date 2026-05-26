@@ -9,6 +9,9 @@
     36.81253
   ],
   "description": "An ancient place, cited: BAtlas 61 B4 Arkesine",
+  "connectsWith": [
+    "599484"
+  ],
   "names": [
     "Arkesine"
   ],

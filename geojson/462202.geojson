@@ -8,7 +8,7 @@
     12.5921448,
     38.0352882
   ],
-  "description": "Mount Eryx is a mountain of western Sicily. The mountain is mentioned by numerous ancient authors; notably in the Aeneid Virgil discusses it in relation to Venus Erycina.",
+  "description": "Mount Eryx is a mountain of western Sicily. The mountain is mentioned by numerous ancient authors, notably in the Aeneid, where Virgil discusses it in relation to Venus Erycina.",
   "connectsWith": [
     "462492"
   ],
@@ -42,7 +42,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Monte Erice",
+        "title": "OSM location of Monte Erice",
         "link": "http://pleiades.stoa.org/places/462202/location-of-monte-erice"
       }
     }

@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Latin League",
   "id": "174457453",
+  "bbox": [
+    12.547028,
+    41.519633,
+    12.8453688,
+    41.9119471
+  ],
   "description": "The Latin League is the name given by scholars to a confederation of about 30 tribes and villages located in ancient Latium that was created for mutual defense purposes and existed from the seventh century BCE until 338 BCE. Its ancient name is unknown.",
   "connectsWith": [
     "422958"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.695039011,
+          41.7212460142
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

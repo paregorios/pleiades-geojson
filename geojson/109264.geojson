@@ -9,6 +9,9 @@
     50.3147127
   ],
   "description": "An ancient place, cited: BAtlas 11 G2 Promea fl.",
+  "connectsWith": [
+    "109182"
+  ],
   "names": [
     "Promea"
   ],

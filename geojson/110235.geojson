@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge (Echternach)",
   "id": "110235",
   "bbox": [
     6.426389,
@@ -9,6 +9,9 @@
     49.812722
   ],
   "description": "An ancient place, cited: BAtlas 11 G3 unnamed bridge (Echternach)",
+  "connectsWith": [
+    "109359"
+  ],
   "features": [
     {
       "type": "Feature",
@@ -21,43 +24,6 @@
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              6.0,
-              49.0
-            ],
-            [
-              6.0,
-              50.0
-            ],
-            [
-              7.0,
-              50.0
-            ],
-            [
-              7.0,
-              49.0
-            ],
-            [
-              6.0,
-              49.0
-            ]
-          ]
-        ]
-      },
-      "id": "undetermined",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/110235/undetermined"
       }
     },
     {
