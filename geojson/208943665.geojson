@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed settlements",
   "id": "208943665",
   "bbox": [
     5.212171,
@@ -34,7 +34,7 @@
       "id": "darmc-location-20438",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 20438",
         "link": "http://pleiades.stoa.org/places/208943665/darmc-location-20438"

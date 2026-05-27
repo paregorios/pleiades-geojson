@@ -9,6 +9,9 @@
     39.8809056
   ],
   "description": "An ancient place, cited: BAtlas 46 C2 unnamed bridge (NE Laos, at Mormanno)",
+  "connectsWith": [
+    "452361"
+  ],
   "features": [
     {
       "type": "Feature",
