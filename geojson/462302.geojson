@@ -10,7 +10,8 @@
   ],
   "description": "Pizzo Carbonara, in the Madonie.",
   "names": [
-    "Maroneus"
+    "Maroneus",
+    "Pizzo Carbonara"
   ],
   "features": [
     {
@@ -34,13 +35,13 @@
           37.8941169
         ]
       },
-      "id": "pizzo-carbonara",
+      "id": "osm-location-pizzo-carbonara",
       "type": "Feature",
       "properties": {
         "description": "Highest peak on Maroneus mons (modern Madonie mountains)",
         "location_precision": "precise",
-        "title": "Pizzo Carbonara",
-        "link": "http://pleiades.stoa.org/places/462302/pizzo-carbonara"
+        "title": "OSM Location: Pizzo Carbonara",
+        "link": "http://pleiades.stoa.org/places/462302/osm-location-pizzo-carbonara"
       }
     }
   ]

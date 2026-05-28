@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pmoun Psoi",
+  "id": "530540822",
+  "bbox": [
+    29.5,
+    25.5,
+    30.0,
+    26.0
+  ],
+  "description": "A well located in the Oasis Magna of Egypt's Western Desert. The name is attested on several ostraka.",
+  "connectsWith": [
+    "776210"
+  ],
+  "names": [
+    "Pmoun Psoi"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.75,
+          25.75
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

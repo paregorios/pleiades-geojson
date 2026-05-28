@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Barrington Atlas feature labeled 121",
+  "title": "Carbon-Blanc (Cm. Flandres)",
   "id": "140552",
   "bbox": [
     -0.501128,
@@ -9,6 +9,9 @@
     44.891312
   ],
   "description": "An ancient place, cited: BAtlas 14 E4 no. 121 (Carbon-Blanc, Cm. Flandres)",
+  "names": [
+    "121"
+  ],
   "features": [
     {
       "type": "Feature",

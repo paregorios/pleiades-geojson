@@ -9,6 +9,9 @@
     40.880321
   ],
   "description": "The site of a Roman villa in the locality of Magnone (Potenza) in South Italy. The archaeological site was first identified in 1979. Limited excavations identified a storage complex housing dolia. The presence of African Red Slip pottery suggests a date in the fourth century.",
+  "names": [
+    "Atella"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "So-called Temple of Saturn (Sezze)",
+  "id": "278626606",
+  "bbox": [
+    13.055316,
+    41.499641,
+    13.055316,
+    41.499641
+  ],
+  "description": "The ruins of an architectural complex in Sezze that acquired the misnomer of \"Temple of Saturn\" in the early modern period. The ruins are likely those of a platform villa and include visible remains in opus incertum and polygonal masonry of Lugli's \"fourth\" typological category, meaning the blocks approach isodomic forms.",
+  "connectsWith": [
+    "423068"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055316,
+          41.499641
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.055316,
+          41.499641
+        ]
+      },
+      "id": "vici-org-location-of-tempio-di-saturno",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Tempio di Saturno",
+        "link": "http://pleiades.stoa.org/places/278626606/vici-org-location-of-tempio-di-saturno"
+      }
+    }
+  ]
+}

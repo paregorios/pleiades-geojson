@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa di via della Magliana",
+  "id": "738128724",
+  "bbox": [
+    12.40635,
+    41.8138348,
+    12.406578,
+    41.8141896
+  ],
+  "description": "The remains of a Roman villa on land that is now mostly consumed by a golf course connected to a hotel resort.",
+  "connectsWith": [
+    "422968"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4064682754,
+          41.814005286
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4065324,
+            41.8141896
+          ],
+          [
+            12.4063795,
+            41.8141756
+          ],
+          [
+            12.4064117,
+            41.8140227
+          ],
+          [
+            12.4063675,
+            41.8140017
+          ],
+          [
+            12.40635,
+            41.8139607
+          ],
+          [
+            12.4063889,
+            41.8138458
+          ],
+          [
+            12.406578,
+            41.8138348
+          ],
+          [
+            12.4065324,
+            41.8141896
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-di-via-della-magliana",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa di via della Magliana",
+        "link": "http://pleiades.stoa.org/places/738128724/osm-location-of-villa-di-via-della-magliana"
+      }
+    }
+  ]
+}

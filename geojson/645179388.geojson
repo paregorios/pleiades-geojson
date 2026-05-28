@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ixworth Roman villa",
+  "id": "645179388",
+  "bbox": [
+    0.8417628,
+    52.2920374,
+    0.8456199,
+    52.2951638
+  ],
+  "description": "A Roman building at Ixworth that has been interpreted as a villa.",
+  "connectsWith": [
+    "79538"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.843692600508,
+          52.2936686286
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.8439228,
+            52.2920374
+          ],
+          [
+            0.8456199,
+            52.2941828
+          ],
+          [
+            0.8432971,
+            52.2951638
+          ],
+          [
+            0.8417628,
+            52.2933691
+          ],
+          [
+            0.8424656,
+            52.2929721
+          ],
+          [
+            0.8427323,
+            52.292801
+          ],
+          [
+            0.8439228,
+            52.2920374
+          ]
+        ]
+      },
+      "id": "osm-location-of-ixworth-roman-villa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ixworth Roman villa",
+        "link": "http://pleiades.stoa.org/places/645179388/osm-location-of-ixworth-roman-villa"
+      }
+    }
+  ]
+}

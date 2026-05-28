@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "East Gymnasium",
+  "id": "43374418",
+  "bbox": [
+    27.3495039,
+    37.9347575,
+    27.3509878,
+    37.9360718
+  ],
+  "description": "The so-called East Gymnasium at Ephesus dates to the second century CE.",
+  "connectsWith": [
+    "599612"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3502520481,
+          37.9354150203
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3509878,
+            37.9359232
+          ],
+          [
+            27.3509878,
+            37.9355377
+          ],
+          [
+            27.3508111,
+            37.9349804
+          ],
+          [
+            27.3500633,
+            37.9347575
+          ],
+          [
+            27.3495039,
+            37.9348689
+          ],
+          [
+            27.3497629,
+            37.9359603
+          ],
+          [
+            27.3502929,
+            37.9360718
+          ],
+          [
+            27.3509878,
+            37.9359232
+          ]
+        ]
+      },
+      "id": "osm-location-of-east-gymnasium",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of East Gymnasium",
+        "link": "http://pleiades.stoa.org/places/43374418/osm-location-of-east-gymnasium"
+      }
+    }
+  ]
+}

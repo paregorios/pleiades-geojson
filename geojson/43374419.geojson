@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cave of the Seven Sleepers (Ephesus)",
+  "id": "43374419",
+  "bbox": [
+    27.3531194,
+    37.943219,
+    27.354144,
+    37.9442452
+  ],
+  "description": "A site at Ephesus that is one of several contenders in western Asia for the site of the tradition of the 'seven sleepers', individuals who sought refuge in a cave ca. 250 CE and then emerged from said cave 309 lunar years later, according to the Quran.",
+  "connectsWith": [
+    "599612"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.353701884,
+          37.9436705082
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3540027,
+            37.943219
+          ],
+          [
+            27.3536788,
+            37.9432282
+          ],
+          [
+            27.3535493,
+            37.9433165
+          ],
+          [
+            27.3531194,
+            37.9433722
+          ],
+          [
+            27.3532313,
+            37.9437298
+          ],
+          [
+            27.353667,
+            37.9439202
+          ],
+          [
+            27.3538025,
+            37.9442452
+          ],
+          [
+            27.3540616,
+            37.9441802
+          ],
+          [
+            27.3539968,
+            37.9438319
+          ],
+          [
+            27.354144,
+            37.9436741
+          ],
+          [
+            27.3540027,
+            37.943219
+          ]
+        ]
+      },
+      "id": "osm-location-of-cave-of-the-seven-sleepers",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cave of the Seven Sleepers",
+        "link": "http://pleiades.stoa.org/places/43374419/osm-location-of-cave-of-the-seven-sleepers"
+      }
+    }
+  ]
+}

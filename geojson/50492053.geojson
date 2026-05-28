@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agia Triada Tower",
+  "id": "50492053",
+  "bbox": [
+    25.8008257,
+    36.7917653,
+    25.8019938,
+    36.7929564
+  ],
+  "description": "A fortified architectural complex on the island of Amorgos that dates to the fourth century BCE.",
+  "connectsWith": [
+    "599484"
+  ],
+  "names": [
+    "Agia Triada"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8014386885,
+          36.7924043537
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.8013367,
+            36.7919995
+          ],
+          [
+            25.8014393,
+            36.7920382
+          ],
+          [
+            25.8017685,
+            36.7917653
+          ],
+          [
+            25.8019549,
+            36.7918867
+          ],
+          [
+            25.8019938,
+            36.7920091
+          ],
+          [
+            25.801969,
+            36.7920853
+          ],
+          [
+            25.8019093,
+            36.79221
+          ],
+          [
+            25.8019925,
+            36.7922637
+          ],
+          [
+            25.8016907,
+            36.7927029
+          ],
+          [
+            25.8015124,
+            36.7928855
+          ],
+          [
+            25.8014748,
+            36.7929091
+          ],
+          [
+            25.8014185,
+            36.7929338
+          ],
+          [
+            25.801338,
+            36.7929532
+          ],
+          [
+            25.8012629,
+            36.7929564
+          ],
+          [
+            25.8011717,
+            36.7929285
+          ],
+          [
+            25.8008257,
+            36.7928501
+          ],
+          [
+            25.8010229,
+            36.7926159
+          ],
+          [
+            25.8009498,
+            36.7925289
+          ],
+          [
+            25.8009974,
+            36.7924666
+          ],
+          [
+            25.800929,
+            36.7924033
+          ],
+          [
+            25.8012267,
+            36.7921702
+          ],
+          [
+            25.8013367,
+            36.7919995
+          ]
+        ]
+      },
+      "id": "osm-location-of-agia-triada-tower",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Agia Triada Tower",
+        "link": "http://pleiades.stoa.org/places/50492053/osm-location-of-agia-triada-tower"
+      }
+    }
+  ]
+}

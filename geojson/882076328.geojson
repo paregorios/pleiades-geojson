@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "West Kennet Long Barrow",
+  "id": "882076328",
+  "bbox": [
+    -1.8504375,
+    51.4086455,
+    -1.8504375,
+    51.4086455
+  ],
+  "description": "The West Kennet Long Barrow is a chambered long barrow located near the village of Avebury in south-western England. It dates to Britain's Early Neolithic period.",
+  "names": [
+    "West Kennet Long Barrow"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8504375,
+          51.4086455
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8504375,
+          51.4086455
+        ]
+      },
+      "id": "osm-location-of-west-kennet-long-barrow",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of West Kennet Long Barrow",
+        "link": "http://pleiades.stoa.org/places/882076328/osm-location-of-west-kennet-long-barrow"
+      }
+    }
+  ]
+}

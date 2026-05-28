@@ -3,10 +3,10 @@
   "title": "Unnamed aqueduct at Ephesus (Aqua Iulia?)",
   "id": "600227",
   "bbox": [
-    27.3335044,
-    37.9335036,
-    27.351537,
-    37.948407
+    27.281784,
+    37.9014264,
+    27.281784,
+    37.9014264
   ],
   "description": "The longest and most recently-constructed Roman aqueduct in the province of Asia, measuring 36.5 km from its source in the hills south of Ephesus to the metropolis itself. The aqueduct was first commissioned by the emperor Hadrian in 122-126, and it portions of it remained in use into the medieval period. In modern times, it is known as the Değirmendere Aqueduct, after the nearby Kenchrios river (modern Değirmendere).",
   "connectsWith": [
@@ -14,7 +14,8 @@
     "599612"
   ],
   "names": [
-    "Değirmendere aqueduct"
+    "Değirmendere aqueduct",
+    "Aqua Iulia"
   ],
   "features": [
     {
@@ -22,12 +23,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.3423864682,
-          37.9404806869
+          27.281784,
+          37.9014264
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.281784,
+          37.9014264
+        ]
+      },
+      "id": "osm-location-of-deairmendere-kenchrios-aqueduct",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Değirmendere-Kenchrios Aqueduct",
+        "link": "http://pleiades.stoa.org/places/600227/osm-location-of-deairmendere-kenchrios-aqueduct"
       }
     }
   ]

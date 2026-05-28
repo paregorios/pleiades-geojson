@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Chozoviotissa Monastery",
+  "id": "246728612",
+  "bbox": [
+    25.9095035,
+    36.8347148,
+    25.9095035,
+    36.8347148
+  ],
+  "description": "The Chozoviotissa Monastery on the island of Amorgos has Byzantine origins.",
+  "connectsWith": [
+    "599484"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9095035,
+          36.8347148
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9095035,
+          36.8347148
+        ]
+      },
+      "id": "osm-location-of-chozoviotissa-monastry",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chozoviotissa Monastry",
+        "link": "http://pleiades.stoa.org/places/246728612/osm-location-of-chozoviotissa-monastry"
+      }
+    }
+  ]
+}

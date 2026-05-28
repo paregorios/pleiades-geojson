@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Xylokeratidi cemetery",
+  "id": "131911425",
+  "bbox": [
+    25.8648168,
+    36.8320663,
+    25.8662782,
+    36.8330933
+  ],
+  "description": "A Mycenaean necropolis located on the island of Amorgos that includes several chamber tombs.",
+  "connectsWith": [
+    "599484"
+  ],
+  "names": [
+    "Xylokeratidi necropolis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8655338505,
+          36.8326110082
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.8655757,
+            36.8320663
+          ],
+          [
+            25.8648168,
+            36.8325032
+          ],
+          [
+            25.8650282,
+            36.8329344
+          ],
+          [
+            25.8656505,
+            36.8330933
+          ],
+          [
+            25.8662621,
+            36.8326854
+          ],
+          [
+            25.8662782,
+            36.8325824
+          ],
+          [
+            25.8659992,
+            36.8324235
+          ],
+          [
+            25.8656511,
+            36.8322011
+          ],
+          [
+            25.8655757,
+            36.8320663
+          ]
+        ]
+      },
+      "id": "osm-location-of-xylokeratidi-cemetery",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Xylokeratidi cemetery",
+        "link": "http://pleiades.stoa.org/places/131911425/osm-location-of-xylokeratidi-cemetery"
+      }
+    }
+  ]
+}

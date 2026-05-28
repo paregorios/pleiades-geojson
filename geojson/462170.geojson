@@ -3,14 +3,17 @@
   "title": "Cozzo Matrice",
   "id": "462170",
   "bbox": [
-    14.307114,
-    37.525983,
-    14.307114,
-    37.525983
+    14.3151441,
+    37.5349431,
+    14.3151441,
+    37.5349431
   ],
   "description": "An ancient place, cited: BAtlas 47 E3 Cozzo Matrice",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Cozzo Matrice"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.307114,
-          37.525983
+          14.3151441,
+          37.5349431
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.307114,
-          37.525983
+          14.3151441,
+          37.5349431
         ]
       },
-      "id": "darmc-location-18380",
+      "id": "osm-location-of-cozzo-matrice",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18380",
-        "link": "http://pleiades.stoa.org/places/462170/darmc-location-18380"
+        "title": "OSM location of Cozzo Matrice",
+        "link": "http://pleiades.stoa.org/places/462170/osm-location-of-cozzo-matrice"
       }
     }
   ]

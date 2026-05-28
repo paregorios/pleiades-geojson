@@ -3,10 +3,10 @@
   "title": "Ad Quintum",
   "id": "481701",
   "bbox": [
-    20.016667,
-    41.099984,
-    20.016667,
-    41.099984
+    20.0153229,
+    41.0941789,
+    20.0153229,
+    41.0941789
   ],
   "description": "An ancient place, cited: BAtlas 49 B2 Ad Quintum",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.016667,
-          41.099984
+          20.0153229,
+          41.0941789
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.016667,
-          41.099984
+          20.0153229,
+          41.0941789
         ]
       },
-      "id": "darmc-location-24479",
+      "id": "osm-location-of-ad-quintum",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 24479",
-        "link": "http://pleiades.stoa.org/places/481701/darmc-location-24479"
+        "title": "OSM location of Ad Quintum",
+        "link": "http://pleiades.stoa.org/places/481701/osm-location-of-ad-quintum"
       }
     }
   ]

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grottini Roman villa",
+  "id": "686909163",
+  "bbox": [
+    11.936283,
+    42.029532,
+    11.9364675,
+    42.0296855
+  ],
+  "description": "A Roman maritime villa located in Santa Severa on Italy's Tyrrhenian coast.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.93637525,
+          42.02960875
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.9363665,
+            42.029532
+          ],
+          [
+            11.936283,
+            42.0295736
+          ],
+          [
+            11.936384,
+            42.0296855
+          ],
+          [
+            11.9364675,
+            42.0296439
+          ],
+          [
+            11.9363665,
+            42.029532
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romana-i-grottini",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Romana I Grottini",
+        "link": "http://pleiades.stoa.org/places/686909163/osm-location-of-villa-romana-i-grottini"
+      }
+    }
+  ]
+}

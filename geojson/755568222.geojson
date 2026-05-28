@@ -3,10 +3,10 @@
   "title": "Choirokoitia",
   "id": "755568222",
   "bbox": [
-    33.343543,
-    34.796806,
-    33.3449235,
-    34.7968951
+    33.342979,
+    34.7963463,
+    33.3442527,
+    34.7973294
   ],
   "description": "The prehistoric settlement at Choirokoitia, in Cyprus. The site was inhabited from the seventh to the fourth millennium B.C. and was inscribed as a UNESCO World Heritage Site in 1998.",
   "connectsWith": [
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.34423325,
-          34.79685055
+          33.3435813523,
+          34.7968280518
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.3449235,
-          34.7968951
-        ]
-      },
-      "id": "osm-location-of-choirokoitia-neolithic-settlement",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative location based on OpenStreetMap",
-        "location_precision": "precise",
-        "title": "OSM location of Choirokoitia Neolithic Settlement",
-        "link": "http://pleiades.stoa.org/places/755568222/osm-location-of-choirokoitia-neolithic-settlement"
       }
     },
     {
@@ -58,6 +41,141 @@
         "location_precision": "precise",
         "title": "Imagery Location: Centerpoint of Choirokoitia",
         "link": "http://pleiades.stoa.org/places/755568222/imagery-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.3431142,
+            34.7973015
+          ],
+          [
+            33.3431685,
+            34.7973294
+          ],
+          [
+            33.3432302,
+            34.7972017
+          ],
+          [
+            33.3432812,
+            34.7972127
+          ],
+          [
+            33.3432919,
+            34.7972479
+          ],
+          [
+            33.3433858,
+            34.7972677
+          ],
+          [
+            33.3434582,
+            34.7972413
+          ],
+          [
+            33.3434639,
+            34.7971888
+          ],
+          [
+            33.3436349,
+            34.7971862
+          ],
+          [
+            33.343732,
+            34.7970395
+          ],
+          [
+            33.3437166,
+            34.7969345
+          ],
+          [
+            33.3437551,
+            34.7969218
+          ],
+          [
+            33.3438275,
+            34.7969636
+          ],
+          [
+            33.3439708,
+            34.7968738
+          ],
+          [
+            33.3439461,
+            34.7967586
+          ],
+          [
+            33.3440801,
+            34.7967713
+          ],
+          [
+            33.3442527,
+            34.7964803
+          ],
+          [
+            33.3441688,
+            34.7963954
+          ],
+          [
+            33.3441144,
+            34.7963766
+          ],
+          [
+            33.3440264,
+            34.7963463
+          ],
+          [
+            33.3438731,
+            34.7963935
+          ],
+          [
+            33.3437396,
+            34.7966764
+          ],
+          [
+            33.343446,
+            34.796698
+          ],
+          [
+            33.3432865,
+            34.7966898
+          ],
+          [
+            33.3431923,
+            34.7967941
+          ],
+          [
+            33.3431412,
+            34.7969008
+          ],
+          [
+            33.3430453,
+            34.7970375
+          ],
+          [
+            33.342979,
+            34.7971294
+          ],
+          [
+            33.3430245,
+            34.797188
+          ],
+          [
+            33.3431142,
+            34.7973015
+          ]
+        ]
+      },
+      "id": "osm-location-of-choirokoitia-remains",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Choirokoitia Remains",
+        "link": "http://pleiades.stoa.org/places/755568222/osm-location-of-choirokoitia-remains"
       }
     }
   ]

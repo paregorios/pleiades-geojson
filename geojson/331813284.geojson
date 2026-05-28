@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "title": "Goeblange",
+  "id": "331813284",
+  "bbox": [
+    5.9786103,
+    49.677003,
+    5.9807188,
+    49.6785254
+  ],
+  "description": "The remains of a Roman villa, as well as other structures, have been found in the Miecher forest.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97962695777,
+          49.6778688209
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9796549,
+          49.677003
+        ]
+      },
+      "id": "osm-location-of-ra-c-imervilla-vu-giewel",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Réimervilla vu Giewel",
+        "link": "http://pleiades.stoa.org/places/331813284/osm-location-of-ra-c-imervilla-vu-giewel"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.9786103,
+            49.6778991
+          ],
+          [
+            5.9786645,
+            49.677824
+          ],
+          [
+            5.9786504,
+            49.6778198
+          ],
+          [
+            5.9786691,
+            49.6777939
+          ],
+          [
+            5.9787022,
+            49.6778039
+          ],
+          [
+            5.9787395,
+            49.6777522
+          ],
+          [
+            5.9787747,
+            49.6777629
+          ],
+          [
+            5.9787851,
+            49.6777485
+          ],
+          [
+            5.9787392,
+            49.6777346
+          ],
+          [
+            5.9787564,
+            49.6777107
+          ],
+          [
+            5.9788039,
+            49.677725
+          ],
+          [
+            5.9788145,
+            49.6777103
+          ],
+          [
+            5.9789566,
+            49.6777533
+          ],
+          [
+            5.978923,
+            49.6777998
+          ],
+          [
+            5.978969,
+            49.6778137
+          ],
+          [
+            5.9790441,
+            49.6778365
+          ],
+          [
+            5.9789821,
+            49.6779223
+          ],
+          [
+            5.9789369,
+            49.6779086
+          ],
+          [
+            5.9789187,
+            49.6779338
+          ],
+          [
+            5.9788986,
+            49.6779617
+          ],
+          [
+            5.9788462,
+            49.6779458
+          ],
+          [
+            5.9788381,
+            49.677957
+          ],
+          [
+            5.9787969,
+            49.6779446
+          ],
+          [
+            5.9787904,
+            49.6779536
+          ],
+          [
+            5.9786103,
+            49.6778991
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romaine",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Villa Romaine",
+        "link": "http://pleiades.stoa.org/places/331813284/osm-location-of-villa-romaine"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.9797355,
+            49.6777197
+          ],
+          [
+            5.9796591,
+            49.6778227
+          ],
+          [
+            5.9798822,
+            49.6778919
+          ],
+          [
+            5.9798972,
+            49.6778718
+          ],
+          [
+            5.9799684,
+            49.6778939
+          ],
+          [
+            5.9800298,
+            49.6778111
+          ],
+          [
+            5.9799586,
+            49.677789
+          ],
+          [
+            5.9797971,
+            49.6777388
+          ],
+          [
+            5.9797355,
+            49.6777197
+          ]
+        ]
+      },
+      "id": "osm-location-of-bac-timent-4",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bâtiment 4",
+        "link": "http://pleiades.stoa.org/places/331813284/osm-location-of-bac-timent-4"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.9806331,
+            49.6782297
+          ],
+          [
+            5.9806581,
+            49.6781839
+          ],
+          [
+            5.9806871,
+            49.6781906
+          ],
+          [
+            5.9806823,
+            49.6781994
+          ],
+          [
+            5.9807188,
+            49.6782078
+          ],
+          [
+            5.9806987,
+            49.6782447
+          ],
+          [
+            5.9807089,
+            49.6782474
+          ],
+          [
+            5.9806636,
+            49.6783307
+          ],
+          [
+            5.9806072,
+            49.6783176
+          ],
+          [
+            5.9805101,
+            49.678295
+          ],
+          [
+            5.9804751,
+            49.6782869
+          ],
+          [
+            5.9804182,
+            49.6782737
+          ],
+          [
+            5.9803614,
+            49.6782605
+          ],
+          [
+            5.9804074,
+            49.6781774
+          ],
+          [
+            5.9804654,
+            49.6781909
+          ],
+          [
+            5.980521,
+            49.6782039
+          ],
+          [
+            5.98055,
+            49.6782107
+          ],
+          [
+            5.9806331,
+            49.6782297
+          ]
+        ]
+      },
+      "id": "osm-location-of-bac-timent-5",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bâtiment 5",
+        "link": "http://pleiades.stoa.org/places/331813284/osm-location-of-bac-timent-5"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.9791474,
+            49.6783614
+          ],
+          [
+            5.9792004,
+            49.6783796
+          ],
+          [
+            5.9793841,
+            49.6784426
+          ],
+          [
+            5.9794268,
+            49.6784572
+          ],
+          [
+            5.979371,
+            49.6785254
+          ],
+          [
+            5.9793283,
+            49.6785108
+          ],
+          [
+            5.9791445,
+            49.6784478
+          ],
+          [
+            5.9790915,
+            49.6784296
+          ],
+          [
+            5.9791474,
+            49.6783614
+          ]
+        ]
+      },
+      "id": "osm-location-of-bac-timent-3",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bâtiment 3",
+        "link": "http://pleiades.stoa.org/places/331813284/osm-location-of-bac-timent-3"
+      }
+    }
+  ]
+}

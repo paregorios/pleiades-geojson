@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "title": "Jouy-aux-Arches aqueduct",
+  "id": "557043171",
+  "bbox": [
+    6.079283,
+    49.0646714,
+    6.0827063,
+    49.0655533
+  ],
+  "description": "Remains of a Roman aqueduct that originally served Divodurum Mediomatricum.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08143311336,
+          49.0650020157
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.079283,
+            49.0655225
+          ],
+          [
+            6.0811986,
+            49.065033
+          ],
+          [
+            6.0812169,
+            49.0650638
+          ],
+          [
+            6.0793013,
+            49.0655533
+          ],
+          [
+            6.079283,
+            49.0655225
+          ]
+        ]
+      },
+      "id": "osm-location-of-aqueduc-romain",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aqueduc Romain",
+        "link": "http://pleiades.stoa.org/places/557043171/osm-location-of-aqueduc-romain"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.0826929,
+            49.0646788
+          ],
+          [
+            6.0827031,
+            49.0646885
+          ],
+          [
+            6.0827063,
+            49.0647
+          ],
+          [
+            6.082702,
+            49.0647114
+          ],
+          [
+            6.0826909,
+            49.0647207
+          ],
+          [
+            6.082675,
+            49.0647261
+          ],
+          [
+            6.0826571,
+            49.0647267
+          ],
+          [
+            6.0826404,
+            49.0647224
+          ],
+          [
+            6.0825389,
+            49.0647465
+          ],
+          [
+            6.082523,
+            49.0647166
+          ],
+          [
+            6.0826221,
+            49.0646935
+          ],
+          [
+            6.0826293,
+            49.0646828
+          ],
+          [
+            6.0826427,
+            49.0646749
+          ],
+          [
+            6.0826598,
+            49.0646714
+          ],
+          [
+            6.0826776,
+            49.0646728
+          ],
+          [
+            6.0826929,
+            49.0646788
+          ]
+        ]
+      },
+      "id": "osm-location-of-collecteur-de-laqueduc",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Collecteur de l'aqueduc",
+        "link": "http://pleiades.stoa.org/places/557043171/osm-location-of-collecteur-de-laqueduc"
+      }
+    }
+  ]
+}

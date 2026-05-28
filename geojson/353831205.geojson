@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte delle Monache sanctuary",
+  "id": "353831205",
+  "bbox": [
+    14.1294211,
+    41.1930383,
+    14.1294211,
+    41.1930383
+  ],
+  "description": "A Campanian sanctuary located in the territory of Cales in Campania.",
+  "connectsWith": [
+    "432739"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1294211,
+          41.1930383
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1294211,
+          41.1930383
+        ]
+      },
+      "id": "osm-location-of-santuario-di-ponte-delle-monache",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Santuario di Ponte delle Monache",
+        "link": "http://pleiades.stoa.org/places/353831205/osm-location-of-santuario-di-ponte-delle-monache"
+      }
+    }
+  ]
+}

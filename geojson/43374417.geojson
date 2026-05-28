@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gate of Magnesia",
+  "id": "43374417",
+  "bbox": [
+    27.3501572,
+    37.9343045,
+    27.3507888,
+    37.9347758
+  ],
+  "description": "The Magnesian Gate at Ephesus exits the city from the southeast.",
+  "connectsWith": [
+    "599612"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3504953967,
+          37.9345538108
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            27.3501572,
+            37.9345873
+          ],
+          [
+            27.3507888,
+            37.9347758
+          ],
+          [
+            27.3505908,
+            37.9343045
+          ],
+          [
+            27.3503791,
+            37.9343638
+          ],
+          [
+            27.3503757,
+            37.9344499
+          ],
+          [
+            27.3501811,
+            37.9345038
+          ],
+          [
+            27.3501572,
+            37.9345873
+          ]
+        ]
+      },
+      "id": "osm-location-of-gate-of-magnesia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Gate of Magnesia",
+        "link": "http://pleiades.stoa.org/places/43374417/osm-location-of-gate-of-magnesia"
+      }
+    }
+  ]
+}

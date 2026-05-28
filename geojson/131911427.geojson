@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "title": "Richti Tower (Amorgos)",
+  "id": "131911427",
+  "bbox": [
+    25.921714,
+    36.8618484,
+    25.9218342,
+    36.8619411
+  ],
+  "description": "The ruins of a Hellenistic tower located on the island of Amorgos near the church of Ag. Ioannis Prodromos.",
+  "connectsWith": [
+    "599484"
+  ],
+  "names": [
+    "Richti Tower"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9217735608,
+          36.8618935185
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.9217183,
+            36.861917
+          ],
+          [
+            25.921714,
+            36.8618655
+          ],
+          [
+            25.9217956,
+            36.8618484
+          ],
+          [
+            25.9218342,
+            36.8618793
+          ],
+          [
+            25.9218299,
+            36.8619205
+          ],
+          [
+            25.9217784,
+            36.8619411
+          ],
+          [
+            25.9217183,
+            36.861917
+          ]
+        ]
+      },
+      "id": "osm-location-of-richti-tower-amorgos",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Richti Tower (Amorgos)",
+        "link": "http://pleiades.stoa.org/places/131911427/osm-location-of-richti-tower-amorgos"
+      }
+    }
+  ]
+}

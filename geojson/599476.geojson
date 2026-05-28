@@ -3,10 +3,10 @@
   "title": "Aigiale",
   "id": "599476",
   "bbox": [
-    25.998408,
-    36.90637,
-    25.998408,
-    36.90637
+    25.98004,
+    36.9185222,
+    25.9803726,
+    36.91933
   ],
   "description": "An ancient place, cited: BAtlas 61 B4 Aigiale",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.998408,
-          36.90637
+          25.9802063,
+          36.9189261
         ]
       },
       "properties": {
@@ -33,17 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.998408,
-          36.90637
+          25.9803726,
+          36.9185222
         ]
       },
-      "id": "darmc-location-23925",
+      "id": "osm-location-of-aigiale",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23925",
-        "link": "http://pleiades.stoa.org/places/599476/darmc-location-23925"
+        "title": "OSM location of Aigiale",
+        "link": "http://pleiades.stoa.org/places/599476/osm-location-of-aigiale"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.98004,
+          36.91933
+        ]
+      },
+      "id": "imagery_location_aigiali",
+      "type": "Feature",
+      "properties": {
+        "description": "The ancient city of Aigiali",
+        "location_precision": "precise",
+        "title": "Imagery Location: Aigiali",
+        "link": "http://pleiades.stoa.org/places/599476/imagery_location_aigiali"
       }
     }
   ]

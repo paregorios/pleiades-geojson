@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Carbania (island)",
+  "id": "298822601",
+  "description": "An island in the Tyrrhenian Sea mentioned by Pomponius Mela that is now unlocated. C. Hülsen suggested that this could be the same as the unlocated island \"Barpana\" mentioned by Pliny the Elder in his Natural History.",
+  "connectsWith": [
+    "409216",
+    "1356"
+  ],
+  "names": [
+    "Carbania"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
