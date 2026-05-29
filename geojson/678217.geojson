@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Kalamon Limne",
+  "title": "So-called Kalamon Limne",
   "id": "678217",
   "bbox": [
     35.5,
@@ -8,9 +8,11 @@
     36.0,
     34.0
   ],
-  "description": "An ancient place, cited: BAtlas 69 C2 Kalamon Limne",
+  "description": "An ancient, marshy lake that was located in the Marsyas valley between ancient Gerra (modern Anjar in Lebanon) and the Libanus Mons. Polybius describes the general topography, including the lake, and Theophrastus mentions \"the lake in Syria where the kalamos euodēs grows\". Neither provides a proper name for the lake, but BAtlas evokes Theophrastus in creating the label \"Kalamon Limne\". The lake was drained in the 14th century CE and the general area was known in the 20th century as \"le Merdj\" (Dussaud 1927) and \"Merj el-Kebir\" (BAtlDir).",
   "names": [
-    "Kalamon Limne"
+    "Kalamon Limne",
+    "Merj el-Kebir",
+    "Le Merdj"
   ],
   "features": [
     {

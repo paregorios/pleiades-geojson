@@ -1,8 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Boukinna",
+  "title": "Boukinna (island)",
   "id": "465870",
   "description": "An ancient place, cited: BAtlas 47 unlocated Boukinna Ins.",
+  "connectsWith": [
+    "462428",
+    "462075"
+  ],
   "names": [
     "Boukinna"
   ],

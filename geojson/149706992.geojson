@@ -3,10 +3,10 @@
   "title": "Forum of Norba",
   "id": "149706992",
   "bbox": [
-    12.9601743,
-    41.5925854,
-    12.9601743,
-    41.5925854
+    12.9595959,
+    41.5915549,
+    12.9613993,
+    41.5927518
   ],
   "description": "The forum of Norba measures ca. 125 x 63 m.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9601743,
-          41.5925854
+          12.9604086422,
+          41.592113623
         ]
       },
       "properties": {
@@ -31,34 +31,70 @@
         "type": "LineString",
         "coordinates": [
           [
-            12.9601743,
-            41.5925854
+            12.9613993,
+            41.5920371
           ],
           [
-            12.9597184,
+            12.9610435,
+            41.5915665
+          ],
+          [
+            12.9607889,
+            41.5916887
+          ],
+          [
+            12.9606688,
+            41.5915549
+          ],
+          [
+            12.9604578,
+            41.5916722
+          ],
+          [
+            12.9603873,
+            41.591587
+          ],
+          [
+            12.9599972,
+            41.5917957
+          ],
+          [
+            12.9598189,
+            41.5919901
+          ],
+          [
+            12.9598603,
+            41.5920429
+          ],
+          [
+            12.9597,
             41.592112
           ],
           [
-            12.9610058,
-            41.5915383
+            12.9599506,
+            41.5924101
           ],
           [
-            12.9613867,
-            41.5920398
+            12.9595959,
+            41.5926276
           ],
           [
-            12.9601743,
-            41.5925854
+            12.9597331,
+            41.5927518
+          ],
+          [
+            12.9613993,
+            41.5920371
           ]
         ]
       },
-      "id": "osm-location-of-forum-of-luna",
+      "id": "osm-location-foro",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of forum of Norba",
-        "link": "http://pleiades.stoa.org/places/149706992/osm-location-of-forum-of-luna"
+        "title": "OSM location: Foro",
+        "link": "http://pleiades.stoa.org/places/149706992/osm-location-foro"
       }
     }
   ]

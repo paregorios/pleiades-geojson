@@ -3,17 +3,18 @@
   "title": "Taurianos Skopelos",
   "id": "456127",
   "bbox": [
-    16.0729713,
-    38.8531393,
-    16.0729713,
-    38.8531393
+    16.0199546,
+    39.1429965,
+    16.065806,
+    39.1745883
   ],
   "description": "Now unlocated, Taurianos Skopelos seems to be a rock formation in the Vibonensis Sinus, known in modern times as Golfo di Sant’Eufemia. As described by Ptolemy, this place is probably near Temesa on the Tyrrhenian Sea coast. The compilers of the Barrington Atlas note that the ancient place may be the same as the modern \"Scogli Isca\", which is now incorporated in a protected marine habitat area administered by the Republic of Italy.",
   "connectsWith": [
     "452489"
   ],
   "names": [
-    "Taurianos Skopelos"
+    "Taurianos Skopelos",
+    "Scogli Isca"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0729713,
-          38.8531393
+          16.0422777786,
+          39.1585179294
         ]
       },
       "properties": {
@@ -30,14 +31,86 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.065806,
+            39.1429965
+          ],
+          [
+            16.0199546,
+            39.1430755
+          ],
+          [
+            16.0199546,
+            39.1745883
+          ],
+          [
+            16.063171,
+            39.1745134
+          ],
+          [
+            16.0632508,
+            39.1691049
+          ],
+          [
+            16.0631948,
+            39.1657452
+          ],
+          [
+            16.063398,
+            39.1590038
+          ],
+          [
+            16.0632312,
+            39.1590045
+          ],
+          [
+            16.063225,
+            39.1588763
+          ],
+          [
+            16.0635853,
+            39.1588555
+          ],
+          [
+            16.0638308,
+            39.1583503
+          ],
+          [
+            16.063856,
+            39.158091
+          ],
+          [
+            16.0641826,
+            39.1575741
+          ],
+          [
+            16.0643899,
+            39.1569248
+          ],
+          [
+            16.0651391,
+            39.1523017
+          ],
+          [
+            16.0654374,
+            39.1478262
+          ],
+          [
+            16.065806,
+            39.1429965
+          ]
+        ]
+      },
+      "id": "osm-location-of-parco-marino-regionale-scogli-di",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/456127/batlas-location"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Parco Marino Regionale \"Scogli di Isca\"",
+        "link": "http://pleiades.stoa.org/places/456127/osm-location-of-parco-marino-regionale-scogli-di"
       }
     }
   ]

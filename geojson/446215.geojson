@@ -3,12 +3,12 @@
   "title": "Anni Forum",
   "id": "446215",
   "bbox": [
-    15.265011,
-    40.578494,
-    15.265011,
-    40.578494
+    15.7953933,
+    39.8547599,
+    15.7953933,
+    39.8547599
   ],
-  "description": "An ancient place, cited: BAtlas 45 unlocated Anni Forum",
+  "description": "Anni Forum (or Forum Anni) is a place in south Italy known only from Sallust. This place is discussed in the context of the movements of Spartacus during his revolt against the Roman state in 73 BCE. Sallust indicates that Spartacus and his band moved, in the course of a night, from Nares Lucanae to Forum Anni. Scholars have debated the location of Forum Anni; G. Racioppi favored Vannefora, while Nissen correlated Anni Forum with Forensis pagus.",
   "connectsWith": [
     "442685"
   ],
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.265011,
-          40.578494
+          15.7953933,
+          39.8547599
         ]
       },
       "properties": {
@@ -30,14 +30,20 @@
       }
     },
     {
-      "geometry": null,
-      "id": "batlas-location",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7953933,
+          39.8547599
+        ]
+      },
+      "id": "osm-location-of-vannefora",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/446215/batlas-location"
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vannefora",
+        "link": "http://pleiades.stoa.org/places/446215/osm-location-of-vannefora"
       }
     }
   ]

@@ -3,6 +3,9 @@
   "title": "Cossa/Cosa",
   "id": "456053",
   "description": "An ancient place, cited: BAtlas 46 unlocated Cos(s)a",
+  "connectsWith": [
+    "452458"
+  ],
   "names": [
     "Cossa",
     "Cosa"

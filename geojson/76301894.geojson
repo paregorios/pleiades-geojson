@@ -3,10 +3,10 @@
   "title": "Minor Acropolis, Norba",
   "id": "76301894",
   "bbox": [
-    12.9630436,
-    41.5898051,
-    12.9630436,
-    41.5898051
+    12.962965,
+    41.5896121,
+    12.9632841,
+    41.5898268
   ],
   "description": "The so-called Minor Acropolis is located on the hill to the south of the Porta Maggiore. This area is surrounded by the urban enclosure wall and is terraced in polygonal masonry. Two platform temples of unknown assignation are to be found here.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.9630436,
-          41.5898051
+          12.9631254116,
+          41.5897215026
         ]
       },
       "properties": {
