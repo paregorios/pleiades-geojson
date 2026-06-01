@@ -2,9 +2,10 @@
   "type": "FeatureCollection",
   "title": "Sybaris",
   "id": "573537",
-  "description": "An ancient place, cited: BAtlas 58 unlocated Sybaris",
+  "description": "Strabo describes the now-unlocated spring called Sybaris in Achaia and suggests that this toponym is one of several that transfer to the Italian peninsula and lend their names to features there as part of Greek colonialism.",
   "names": [
-    "Sybaris"
+    "Sybaris",
+    "krēnēs Sybaris"
   ],
   "features": [
     {

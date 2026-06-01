@@ -9,6 +9,9 @@
     16.8462647403
   ],
   "description": "An ancient place, cited: BAtlas 4 B2 Calingi",
+  "connectsWith": [
+    "933941"
+  ],
   "names": [
     "Calingi",
     "Chalingii"

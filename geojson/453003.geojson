@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed aqueduct (Thurii/Copia)",
   "id": "453003",
   "bbox": [
-    16.490517,
-    39.715622,
-    16.491255,
-    39.715766
+    16.488046,
+    39.7146473,
+    16.4992738,
+    39.7192276
   ],
   "description": "An ancient place, cited: BAtlas 46 D2 unnamed aqueduct (Thurii/Copia)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.490886,
-          39.715694
+          16.4931148975,
+          39.7174784349
         ]
       },
       "properties": {

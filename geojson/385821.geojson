@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed centuriation (Novaria)",
   "id": "385821",
   "bbox": [
-    8.5,
-    45.0,
-    9.0,
-    45.5
+    8.618661,
+    45.445082,
+    8.618661,
+    45.445082
   ],
   "description": "An ancient place, cited: BAtlas 39 D3 unnamed centuriation (Novaria)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.75,
-          45.25
+          8.618661,
+          45.445082
         ]
       },
       "properties": {

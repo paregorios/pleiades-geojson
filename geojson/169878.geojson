@@ -9,6 +9,9 @@
     46.0
   ],
   "description": "An ancient place, cited: BAtlas 17 D2 unnamed centuriation (N Col. Lugdunum)",
+  "connectsWith": [
+    "167717"
+  ],
   "features": [
     {
       "type": "Feature",

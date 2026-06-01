@@ -9,6 +9,9 @@
     26.0
   ],
   "description": "An ancient place, cited: BAtlas 80 D2 unnamed road station (so-called False Aphrodito, at Menih el-Heir)",
+  "connectsWith": [
+    "785971"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Hikesia Nesos/Basilidin Ins.",
+  "title": "Hikesia Nesos/Basilidin (island)",
   "id": "452336",
   "bbox": [
     15.1197473717,
@@ -9,6 +9,9 @@
     38.6639073985
   ],
   "description": "An ancient place, cited: BAtlas 46 B4 Hikesia Nesos/Basilidin Ins.",
+  "connectsWith": [
+    "462076"
+  ],
   "names": [
     "Hikesia Nesos",
     "Basilidin"

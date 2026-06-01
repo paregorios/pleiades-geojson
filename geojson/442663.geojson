@@ -3,20 +3,23 @@
   "title": "Moltone, S. Pietro",
   "id": "442663",
   "bbox": [
-    16.0197772,
+    16.0194097,
     40.7103833,
-    16.0197772,
-    40.7103833
+    16.0204638,
+    40.7114527
   ],
   "description": "San Pietro di Tolve Roman villa.",
+  "connectsWith": [
+    "452407"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.0197772,
-          40.7103833
+          16.01993459,
+          40.7109475802
         ]
       },
       "properties": {

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed Sites in BAltas 34 E2",
   "id": "208942795",
   "bbox": [
     6.373559,
@@ -8,7 +8,7 @@
     6.373559,
     35.170454
   ],
-  "description": "An ancient place, cited: BAtlas 34 E2 unnamed feature ()",
+  "description": "BAtlas mapped a large number of unnamed sites in map 34 gridsquare E2. The corresponding atlas directory entry cites AAA 27.28, 38, 39 without comment.",
   "features": [
     {
       "type": "Feature",
