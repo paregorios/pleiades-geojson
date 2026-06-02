@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Mosaic Atrium",
+  "id": "365894023",
+  "bbox": [
+    14.3463987,
+    40.8054839,
+    14.3470688,
+    40.8058848
+  ],
+  "description": "A domus in Herculaneum. The mosaic \"chessboard\" decoration of its atrium distinguishes it from neighboring domus.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Casa dell'Atrio a Mosaico",
+    "House of the Mosaic Atrium"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3467379834,
+          40.8056850237
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3465997,
+            40.8054839
+          ],
+          [
+            14.3463987,
+            40.8056569
+          ],
+          [
+            14.3465471,
+            40.8057249
+          ],
+          [
+            14.3465579,
+            40.8057107
+          ],
+          [
+            14.3469368,
+            40.8058848
+          ],
+          [
+            14.3470688,
+            40.8057229
+          ],
+          [
+            14.3465997,
+            40.8054839
+          ]
+        ]
+      },
+      "id": "casa-dellatrio-a-mosaico",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "Casa dell'Atrio a Mosaico",
+        "link": "http://pleiades.stoa.org/places/365894023/casa-dellatrio-a-mosaico"
+      }
+    }
+  ]
+}

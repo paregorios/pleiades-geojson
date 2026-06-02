@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Dionysus Lysios (Thebes)",
+  "id": "33738912",
+  "bbox": [
+    23.3175613,
+    38.319076,
+    23.3198,
+    38.3211
+  ],
+  "description": "Major cult centre to Dionysus located in Thebes and described by Pausanias as near the Protidian Gate. In mythology, it was the site of the immolation of Semele.",
+  "connectsWith": [
+    "541138",
+    "291401357"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3187267167,
+          38.3205244167
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

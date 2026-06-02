@@ -8,9 +8,12 @@
     14.347965,
     40.806821
   ],
-  "description": "The Augusteum, or so-called Basilica, at Herculaneum, was partially investigated in the eighteenth century. This large complex (68 by 40 meters) had colonnades on three of its sides and faced on to the Decumanus Maximus across from the Basilica Noniana and the College of the Augustales.",
+  "description": "The Augusteum, or so-called \"Basilica\", at Herculaneum, was partially investigated in the eighteenth century. This large complex (68 by 40 meters) had colonnades on three of its sides and faced onto the Decumanus Maximus across from the Basilica Noniana and the College of the Augustales.",
   "connectsWith": [
     "432873"
+  ],
+  "names": [
+    "Augusteum (so-called Basilica)"
   ],
   "features": [
     {

@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of the Bicentenary",
+  "id": "756480383",
+  "bbox": [
+    14.3478755,
+    40.8060721,
+    14.348341,
+    40.8063558
+  ],
+  "description": "A domus at Herculaneum that occupies a large area in the northern section of the insula.",
+  "connectsWith": [
+    "432873"
+  ],
+  "names": [
+    "Casa del Bicentenario"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3481257448,
+          40.8062244971
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3482412,
+            40.806317
+          ],
+          [
+            14.3482694,
+            40.8063302
+          ],
+          [
+            14.3482868,
+            40.8063089
+          ],
+          [
+            14.3483203,
+            40.8063221
+          ],
+          [
+            14.348341,
+            40.8062967
+          ],
+          [
+            14.3483056,
+            40.8062815
+          ],
+          [
+            14.3482975,
+            40.8062916
+          ],
+          [
+            14.3482687,
+            40.8062795
+          ],
+          [
+            14.3482956,
+            40.8062449
+          ],
+          [
+            14.3482554,
+            40.8062264
+          ],
+          [
+            14.3482816,
+            40.8061938
+          ],
+          [
+            14.3482688,
+            40.8061877
+          ],
+          [
+            14.3481395,
+            40.8061298
+          ],
+          [
+            14.3480094,
+            40.8060721
+          ],
+          [
+            14.3479574,
+            40.8061316
+          ],
+          [
+            14.3479079,
+            40.8061861
+          ],
+          [
+            14.3478919,
+            40.806179
+          ],
+          [
+            14.3478755,
+            40.8061976
+          ],
+          [
+            14.3480488,
+            40.8062734
+          ],
+          [
+            14.3480488,
+            40.8062835
+          ],
+          [
+            14.3480913,
+            40.8063028
+          ],
+          [
+            14.3482102,
+            40.8063558
+          ],
+          [
+            14.3482412,
+            40.806317
+          ]
+        ]
+      },
+      "id": "casa-del-bicentenario",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of House of the Bicentenary",
+        "link": "http://pleiades.stoa.org/places/756480383/casa-del-bicentenario"
+      }
+    }
+  ]
+}

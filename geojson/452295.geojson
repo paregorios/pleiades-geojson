@@ -3,12 +3,12 @@
   "title": "Caulonia",
   "id": "452295",
   "bbox": [
-    16.409844,
-    38.382526,
-    16.409844,
-    38.382526
+    16.409007,
+    38.381377,
+    16.409007,
+    38.381377
   ],
-  "description": null,
+  "description": "In 1863, the Italian community known as Castelvetere (Province of Reggio Calabria) renamed itself Caulonia, based on the then-current belief that the town corresponded to the ancient city of Kaulonia, which in fact lies some 15 km away on the shore of the Ionian Sea near Monasterace, Italy. While there are various ancient remains at Caulonia, these two places should be treated as discrete, the confusing toponym notwithstanding. Claudio Sabbione summarizes the archaeological evidence in BTCGI.",
   "connectsWith": [
     "1113"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.409844,
-          38.382526
+          16.409007,
+          38.381377
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.409844,
-          38.382526
+          16.409007,
+          38.381377
         ]
       },
-      "id": "darmc-location-18321",
+      "id": "osm-location-of-caulonia",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18321",
-        "link": "http://pleiades.stoa.org/places/452295/darmc-location-18321"
+        "title": "OSM location of Caulonia",
+        "link": "http://pleiades.stoa.org/places/452295/osm-location-of-caulonia"
       }
     }
   ]

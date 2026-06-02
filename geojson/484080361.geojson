@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "title": "Marasà Sud",
+  "id": "484080361",
+  "bbox": [
+    16.2378922,
+    38.2083393,
+    16.238375,
+    38.2087735
+  ],
+  "description": "An ancient sanctuary dedicated to Aphrodite located at Locri Epizephyrii.",
+  "connectsWith": [
+    "452369"
+  ],
+  "names": [
+    "Aphrodite sanctuary of Marasà Sud"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2381551002,
+          38.2085365029
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.2382436,
+            38.2087735
+          ],
+          [
+            16.2383348,
+            38.2087292
+          ],
+          [
+            16.238375,
+            38.2085248
+          ],
+          [
+            16.2382087,
+            38.2083393
+          ],
+          [
+            16.2379834,
+            38.2083794
+          ],
+          [
+            16.2378922,
+            38.2084426
+          ],
+          [
+            16.2378949,
+            38.2084932
+          ],
+          [
+            16.2382436,
+            38.2087735
+          ]
+        ]
+      },
+      "id": "osm-location-of-marasa-sud",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Marasà Sud",
+        "link": "http://pleiades.stoa.org/places/484080361/osm-location-of-marasa-sud"
+      }
+    }
+  ]
+}

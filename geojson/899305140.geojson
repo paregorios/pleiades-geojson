@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ismenus (river)",
+  "id": "899305140",
+  "bbox": [
+    23.3244,
+    38.3248,
+    23.3244,
+    38.3248
+  ],
+  "description": "An ancient river, now dried up, that ran through the East side of Thebes.",
+  "connectsWith": [
+    "541138"
+  ],
+  "names": [
+    "Ismenos",
+    "Ismenus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3244,
+          38.3248
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3244,
+          38.3248
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/899305140/topostext-location"
+      }
+    }
+  ]
+}

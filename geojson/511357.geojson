@@ -8,14 +8,17 @@
     27.952973,
     40.971013
   ],
-  "description": "An ancient place, cited: BAtlas 52 B3 Perinthus/Heraclea",
+  "description": "An ancient city on the northern coast of the Propontis: modern Marmara Ereğlisi.",
   "connectsWith": [
     "196789404"
   ],
   "names": [
     "Perinthus",
     "Heraclea",
-    "Perintus"
+    "Perintus",
+    "Ereğli",
+    "Erekli",
+    "Marmara Ereğlisi"
   ],
   "features": [
     {

@@ -9,11 +9,16 @@
     40.8069293
   ],
   "description": "An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D. 79. Named as a UNESCO World Heritage Site in 1997.",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Herculaneum",
     "Ercolano",
     "Herculaneum",
-    "Herakleion"
+    "Herakleion",
+    "Resina",
+    "Herclanium"
   ],
   "features": [
     {

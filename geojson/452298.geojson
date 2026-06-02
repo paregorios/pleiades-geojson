@@ -3,20 +3,23 @@
   "title": "Cersosimo",
   "id": "452298",
   "bbox": [
-    16.35088,
-    40.048063,
-    16.35088,
-    40.048063
+    16.3535743,
+    40.0436485,
+    16.3546906,
+    40.04399
   ],
   "description": "An ancient place, cited: BAtlas 46 D1 Cersosimo",
+  "names": [
+    "Cersosimo"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.35088,
-          40.048063
+          16.3541222944,
+          40.0438027482
         ]
       },
       "properties": {
@@ -25,19 +28,93 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          16.35088,
-          40.048063
+          [
+            [
+              16.353853,
+              40.0439569
+            ],
+            [
+              16.3536333,
+              40.0439494
+            ],
+            [
+              16.3535743,
+              40.0438729
+            ],
+            [
+              16.3535853,
+              40.043657
+            ],
+            [
+              16.3539341,
+              40.0436591
+            ],
+            [
+              16.353936,
+              40.043701
+            ],
+            [
+              16.3539013,
+              40.0438456
+            ],
+            [
+              16.3538739,
+              40.0439371
+            ],
+            [
+              16.353853,
+              40.0439569
+            ]
+          ],
+          [
+            [
+              16.3545416,
+              40.04399
+            ],
+            [
+              16.3546346,
+              40.0438684
+            ],
+            [
+              16.3545907,
+              40.0438506
+            ],
+            [
+              16.3546906,
+              40.0437405
+            ],
+            [
+              16.3545537,
+              40.0436585
+            ],
+            [
+              16.3544867,
+              40.0436485
+            ],
+            [
+              16.3543461,
+              40.0436834
+            ],
+            [
+              16.3542398,
+              40.0438784
+            ],
+            [
+              16.3545416,
+              40.04399
+            ]
+          ]
         ]
       },
-      "id": "darmc-location-18331",
+      "id": "osm-location-of-cersosimo",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18331",
-        "link": "http://pleiades.stoa.org/places/452298/darmc-location-18331"
+        "title": "OSM location of Cersosimo",
+        "link": "http://pleiades.stoa.org/places/452298/osm-location-of-cersosimo"
       }
     }
   ]
