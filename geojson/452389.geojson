@@ -9,6 +9,9 @@
     39.3457096
   ],
   "description": "A river of Bruttium (modern Neto in Italy) mentioned in various sources. It is identified in the epitome of Apollodorus as the location where the Trojan women burned the Trojan ships after arriving in Italy.",
+  "connectsWith": [
+    "1046"
+  ],
   "names": [
     "Neaethus",
     "fiume Neto"

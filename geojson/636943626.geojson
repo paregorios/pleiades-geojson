@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Verzino",
+  "id": "636943626",
+  "bbox": [
+    16.860406,
+    39.311098,
+    16.860406,
+    39.311098
+  ],
+  "description": "The compilers of the Barrington Atlas indicate that evidence for ancient silver working was identified at Verzino in the present-day Italian region of Calabria. This site is located in the valley of the River Neto (the ancient Neaethus).",
+  "connectsWith": [
+    "452389"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860406,
+          39.311098
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.860406,
+          39.311098
+        ]
+      },
+      "id": "osm-location-of-verzino",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Verzino",
+        "link": "http://pleiades.stoa.org/places/636943626/osm-location-of-verzino"
+      }
+    }
+  ]
+}

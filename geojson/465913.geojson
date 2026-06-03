@@ -3,6 +3,9 @@
   "title": "Herlitana",
   "id": "465913",
   "description": "An ancient place, cited: BAtlas 47 unlocated Herlitana",
+  "connectsWith": [
+    "462492"
+  ],
   "names": [
     "Herlitana"
   ],

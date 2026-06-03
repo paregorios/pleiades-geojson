@@ -3,6 +3,9 @@
   "title": "Kydonia",
   "id": "606322",
   "description": "An ancient place, cited: BAtlas 61 unlocated Kydonia",
+  "connectsWith": [
+    "599581"
+  ],
   "names": [
     "Kydonia"
   ],
