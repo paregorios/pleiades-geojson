@@ -3,10 +3,10 @@
   "title": "Assorus",
   "id": "462106",
   "bbox": [
-    14.4240409,
-    37.6267115,
-    14.4240409,
-    37.6267115
+    14.4238862,
+    37.6279049,
+    14.4238862,
+    37.6279049
   ],
   "description": "Assorus was a settlement of the Siculi in interior Sicily that never received a Greek colony.",
   "connectsWith": [
@@ -17,7 +17,8 @@
     "Assorum",
     "Assoros",
     "Assoro",
-    "Asaro"
+    "Asaro",
+    "Assorini"
   ],
   "features": [
     {
@@ -25,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4240409,
-          37.6267115
+          14.4238862,
+          37.6279049
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Monte Castellazzo di Poggioreale",
   "id": "462336",
   "bbox": [
-    13.0243978,
-    37.7963066,
-    13.0243978,
-    37.7963066
+    13.0247368,
+    37.7969205,
+    13.0247368,
+    37.7969205
   ],
   "description": "An ancient place, cited: BAtlas 47 C3 Monte Castellazzo di Poggioreale",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0243978,
-          37.7963066
+          13.0247368,
+          37.7969205
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.0243978,
-          37.7963066
+          13.0247368,
+          37.7969205
         ]
       },
       "id": "osm-location",

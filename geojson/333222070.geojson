@@ -3,10 +3,10 @@
   "title": "Phalarium",
   "id": "333222070",
   "bbox": [
-    13.9471878,
-    37.1005387,
-    13.9471878,
-    37.1005387
+    13.9167914,
+    37.100567,
+    14.1698959,
+    37.8133217
   ],
   "description": "A fortress named after Phalaris, a tyrant of Acragas and located near the Himera River.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.9471878,
-          37.1005387
+          14.0556496319,
+          37.4780804299
         ]
       },
       "properties": {

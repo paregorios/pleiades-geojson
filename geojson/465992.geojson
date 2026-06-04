@@ -3,6 +3,10 @@
   "title": "Silla Limne",
   "id": "465992",
   "description": "An ancient place, cited: BAtlas 47 unlocated Silla Limne",
+  "connectsWith": [
+    "462214",
+    "462492"
+  ],
   "names": [
     "Silla Limne"
   ],

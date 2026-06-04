@@ -3,6 +3,9 @@
   "title": "Rybdos",
   "id": "465986",
   "description": "An ancient place, cited: BAtlas 47 unlocated Rybdos",
+  "connectsWith": [
+    "462492"
+  ],
   "names": [
     "Rybdos"
   ],
