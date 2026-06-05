@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Neapolis of Syracuse",
+  "id": "468879479",
+  "description": "A district of the ancient city of Syracuse.",
+  "connectsWith": [
+    "462503"
+  ],
+  "names": [
+    "Neapolis"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

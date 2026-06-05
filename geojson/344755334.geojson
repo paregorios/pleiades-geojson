@@ -3,10 +3,10 @@
   "title": "Tomb of Virgil",
   "id": "344755334",
   "bbox": [
-    14.2167051,
-    40.8284399,
-    14.2167051,
-    40.8284399
+    14.2165809,
+    40.8284372,
+    14.2181565,
+    40.8304074
   ],
   "description": "The so-called tomb of the Latin poet Virgil.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2167051,
-          40.8284399
+          14.2172773331,
+          40.8294792159
         ]
       },
       "properties": {

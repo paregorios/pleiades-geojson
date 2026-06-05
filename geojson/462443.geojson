@@ -3,14 +3,17 @@
   "title": "Pizzo Cannita",
   "id": "462443",
   "bbox": [
-    13.458164,
-    38.067483,
-    13.458164,
-    38.067483
+    13.4715454,
+    38.0691991,
+    13.4715454,
+    38.0691991
   ],
-  "description": "An ancient place, cited: BAtlas 47 C2 Pizzo Cannita",
+  "description": "Pizzo Cannita is a hill in north-central Sicily (208 meters above sea level) that was the site of a settlement occupied from the sixth to the fourth centuries BCE. Activity at the site ceases in the 260s BCE, leading some scholars to suggest it was destroyed during the First Punic War.",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Pizzo Cannita"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.458164,
-          38.067483
+          13.4715454,
+          38.0691991
         ]
       },
       "properties": {
@@ -30,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.458164,
-          38.067483
+          13.4715454,
+          38.0691991
         ]
       },
-      "id": "darmc-location-18777",
+      "id": "osm-location-of-pizzo-cannita",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18777",
-        "link": "http://pleiades.stoa.org/places/462443/darmc-location-18777"
+        "title": "OSM location of Pizzo Cannita",
+        "link": "http://pleiades.stoa.org/places/462443/osm-location-of-pizzo-cannita"
       }
     }
   ]

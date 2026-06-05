@@ -39,7 +39,7 @@
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Terme di Caronte",
+        "title": "OSM location of Terme di Caronte",
         "link": "http://pleiades.stoa.org/places/904435019/terme-di-caronte"
       }
     }

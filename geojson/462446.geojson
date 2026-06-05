@@ -8,9 +8,12 @@
     14.423069,
     37.993512
   ],
-  "description": "An ancient place, cited: BAtlas 47 E3 Pizzo Cilona",
+  "description": "Writing in BTCGI, Giacomo Scibona indicates that a fortified site dating to the Archaic period was identified at Pizzo Cilona in 1985. This place is located along the road from Caronia to Samperi and occupies a commanding position.",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Pizzo Cilona"
   ],
   "features": [
     {

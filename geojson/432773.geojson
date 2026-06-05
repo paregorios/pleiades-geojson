@@ -8,13 +8,14 @@
     14.641281,
     41.064121
   ],
-  "description": "A city of Samnium located between Capua and Beneventum. In 321 B.C. the Samnites under C. Pontius encamped there before defeating the Romans at the battle of the Caudine Forks.",
+  "description": "A city of Samnium located between Capua and Beneventum. In 321 B.C., the Samnites under C. Pontius encamped there before defeating the Romans at the Battle of the Caudine Forks.",
   "connectsWith": [
     "45806447",
     "356966898"
   ],
   "names": [
-    "Caudium"
+    "Caudium",
+    "Caudio"
   ],
   "features": [
     {

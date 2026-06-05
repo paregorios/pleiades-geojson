@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman forum of Sbeitla",
+  "id": "327351960",
+  "bbox": [
+    9.1191666,
+    35.2399866,
+    9.1202097,
+    35.2408046
+  ],
+  "description": "The Roman forum of Sbeitla initially dates from the Antonine period.",
+  "connectsWith": [
+    "324816"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.11973980264,
+          35.2403779426
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.1200785,
+            35.2402745
+          ],
+          [
+            9.1199534,
+            35.2399866
+          ],
+          [
+            9.1191666,
+            35.2402145
+          ],
+          [
+            9.1194229,
+            35.2408046
+          ],
+          [
+            9.1202097,
+            35.2405767
+          ],
+          [
+            9.120123,
+            35.2403771
+          ],
+          [
+            9.1200945,
+            35.2403854
+          ],
+          [
+            9.1201655,
+            35.2405491
+          ],
+          [
+            9.1197481,
+            35.24067
+          ],
+          [
+            9.1195212,
+            35.2401476
+          ],
+          [
+            9.1199387,
+            35.2400266
+          ],
+          [
+            9.1200499,
+            35.2402828
+          ],
+          [
+            9.1200785,
+            35.2402745
+          ]
+        ]
+      },
+      "id": "osm-location-of-forum",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Forum",
+        "link": "http://pleiades.stoa.org/places/327351960/osm-location-of-forum"
+      }
+    }
+  ]
+}
