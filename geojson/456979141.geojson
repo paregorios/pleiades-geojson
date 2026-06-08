@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Domus Liceo Cavour",
+  "id": "456979141",
+  "bbox": [
+    12.4902848,
+    41.8926089,
+    12.4913239,
+    41.8934689
+  ],
+  "description": "An urban domus of the Umbrii located beneath what is now the Liceo scientifico Camillo Cavour in central Rome.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.490815114,
+          41.8930426075
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4902848,
+            41.8932964
+          ],
+          [
+            12.4906139,
+            41.8926089
+          ],
+          [
+            12.4913239,
+            41.8927688
+          ],
+          [
+            12.4910565,
+            41.8934689
+          ],
+          [
+            12.4902848,
+            41.8932964
+          ]
+        ]
+      },
+      "id": "osm-location-of-liceo-scientifico-camillo-cavour",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Liceo scientifico Camillo Cavour",
+        "link": "http://pleiades.stoa.org/places/456979141/osm-location-of-liceo-scientifico-camillo-cavour"
+      }
+    }
+  ]
+}

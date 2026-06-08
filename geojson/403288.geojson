@@ -3,12 +3,12 @@
   "title": "Vada Volaterrana",
   "id": "403288",
   "bbox": [
-    10.4477353,
+    10.4467301,
     43.3584548,
-    10.4477353,
-    43.3584548
+    10.4491627,
+    43.3604011
   ],
-  "description": "Vada Volaterrana was an Etruscan port city located north of the mouth of the Cecina river.",
+  "description": "Vada Volaterrana was an Etruscan port city located north of the mouth of the Cecina River.",
   "connectsWith": [
     "403191",
     "174900201"
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.4477353,
-          43.3584548
+          10.4480069131,
+          43.3594371303
         ]
       },
       "properties": {

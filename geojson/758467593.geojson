@@ -2,16 +2,46 @@
   "type": "FeatureCollection",
   "title": "Rhysaddir",
   "id": "758467593",
+  "bbox": [
+    -9.8881276,
+    30.6294366,
+    -9.8881276,
+    30.6294366
+  ],
   "description": "An ancient settlement located on Cap Ghir on Morocco's Atlantic coast. It is not to be confused with Rusadir (modern Melilla, which is now a Spanish city on the north African coast).",
   "names": [
-    "Rhysaddir"
+    "Rhysaddir",
+    "Cap Ghir"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8881276,
+          30.6294366
+        ]
+      },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.8881276,
+          30.6294366
+        ]
+      },
+      "id": "osm-location-of-cap-ghigh",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cap Ghigh",
+        "link": "http://pleiades.stoa.org/places/758467593/osm-location-of-cap-ghigh"
       }
     }
   ]

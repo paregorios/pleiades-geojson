@@ -9,6 +9,9 @@
     43.5
   ],
   "description": "An ancient place, cited: BAtlas 41 C3 unnamed bridge (at Calignaia, NW Vada Volaterrana)",
+  "connectsWith": [
+    "403288"
+  ],
   "features": [
     {
       "type": "Feature",

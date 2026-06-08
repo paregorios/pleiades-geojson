@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vicopisano",
+  "id": "960808207",
+  "bbox": [
+    10.5846946,
+    43.6998317,
+    10.5846946,
+    43.6998317
+  ],
+  "description": "Vicopisano is located in the Province of Pisa, some 50 km west of Florence and 15 km east of Pisa. In the Middle Ages, Vicopisano was a fortified center of the Republic of Pisa that was conquered by Florence in 1406. W.V. Harris asserts in the introductory essay for Map 41 of the Barrington Atlas that it is possible that the toponym \"Vicopisano\" has roots in the ancient Roman world.",
+  "names": [
+    "Vicopisano"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846946,
+          43.6998317
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5846946,
+          43.6998317
+        ]
+      },
+      "id": "osm-location-of-vicopisano",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vicopisano",
+        "link": "http://pleiades.stoa.org/places/960808207/osm-location-of-vicopisano"
+      }
+    }
+  ]
+}

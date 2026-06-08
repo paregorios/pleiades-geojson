@@ -3,14 +3,14 @@
   "title": "‘Aventia’ (river)",
   "id": "403184",
   "bbox": [
-    10.0606235,
-    44.0471586,
-    10.0606235,
-    44.0471586
+    10.0519058,
+    44.03215,
+    10.0611083,
+    44.0475807
   ],
   "description": "An ancient place, cited: BAtlas 41 C1 ‘Aventia’ fl.",
   "names": [
-    "Aventia"
+    "Fluvius Auentia"
   ],
   "features": [
     {
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.0606235,
-          44.0471586
+          10.0574033282,
+          44.0393396382
         ]
       },
       "properties": {

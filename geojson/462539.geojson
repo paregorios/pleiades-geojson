@@ -3,10 +3,10 @@
   "title": "Żejtun (Zejtun) Roman Villa",
   "id": "462539",
   "bbox": [
-    14.535741,
-    35.851644,
-    14.535741,
-    35.851644
+    14.5352935,
+    35.8513313,
+    14.5362927,
+    35.8520231
   ],
   "description": "Remains of a large villa or estate of the Roman period (ancient name unknown) were discovered in the town of Żejtun on the island of Malta.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.535741,
-          35.851644
+          14.535766877,
+          35.8516816025
         ]
       },
       "properties": {
@@ -28,19 +28,65 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          14.535741,
-          35.851644
+          [
+            14.5353454,
+            35.8513313
+          ],
+          [
+            14.5352935,
+            35.851943
+          ],
+          [
+            14.5358457,
+            35.8519871
+          ],
+          [
+            14.5359039,
+            35.8519781
+          ],
+          [
+            14.535907,
+            35.8520231
+          ],
+          [
+            14.5359532,
+            35.8520231
+          ],
+          [
+            14.535991,
+            35.8518033
+          ],
+          [
+            14.5362704,
+            35.8518177
+          ],
+          [
+            14.5362927,
+            35.8515468
+          ],
+          [
+            14.5361494,
+            35.8515258
+          ],
+          [
+            14.5361565,
+            35.8514649
+          ],
+          [
+            14.5353454,
+            35.8513313
+          ]
         ]
       },
-      "id": "zejtun-roman-villa-remains",
+      "id": "osm-location-of-a-ejtun-roman-villa",
       "type": "Feature",
       "properties": {
-        "description": "Remains of a Roman Villa, reported by search in Google Earth with the subtitle \"Dun Gwann Tabone, Iż-Żejtun, Malta\". Verified in Google Earth in November 2012 with reference to photographs on the website of the Zejtun Roman Villa Project. Dates after BAtlas.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Zejtun Roman Villa Remains",
-        "link": "http://pleiades.stoa.org/places/462539/zejtun-roman-villa-remains"
+        "title": "OSM location of Żejtun Roman Villa",
+        "link": "http://pleiades.stoa.org/places/462539/osm-location-of-a-ejtun-roman-villa"
       }
     }
   ]

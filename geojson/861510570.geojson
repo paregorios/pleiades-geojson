@@ -3,9 +3,9 @@
   "title": "Roman villa of Aia Nova",
   "id": "861510570",
   "bbox": [
-    11.3476048,
-    42.6518769,
-    11.3476048,
+    11.3469316,
+    42.6513364,
+    11.3478892,
     42.6518769
   ],
   "description": "A Roman villa of the mid-first century B.C. connected with a Publius Anilius, identified by means of brick and tile stamps. Located in the modern commune of Scansano.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.3476048,
-          42.6518769
+          11.347410934,
+          42.6515954437
         ]
       },
       "properties": {
