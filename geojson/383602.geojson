@@ -3,12 +3,12 @@
   "title": "Brixellum",
   "id": "383602",
   "bbox": [
-    10.5147691,
-    44.899583,
+    10.515728,
+    44.900996,
     10.515786,
-    44.900996
+    44.9012244
   ],
-  "description": "An ancient Roman town in the plain of the Po river.",
+  "description": "An ancient Roman town in the plain of the Po River.",
   "connectsWith": [
     "393469"
   ],
@@ -24,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.51527755,
-          44.9002895
+          10.515757,
+          44.9011102
         ]
       },
       "properties": {
@@ -53,8 +53,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5147691,
-          44.899583
+          10.515728,
+          44.9012244
         ]
       },
       "id": "osm-location",

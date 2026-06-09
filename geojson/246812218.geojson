@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Quosenum (river)",
+  "id": "246812218",
+  "bbox": [
+    -9.3464534,
+    31.5880045,
+    -7.448879,
+    32.0310495
+  ],
+  "description": "Pliny the Elder mentions a river named Quosenum in the context of his discussion of the voyage of the historian Polybius beyond the Atlas Mountains that was said to have been facilitated by Scipio Aemilianus.",
+  "names": [
+    "flumen Quosenum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.53394090002,
+          31.7897544498
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

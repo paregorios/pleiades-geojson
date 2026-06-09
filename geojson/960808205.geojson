@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Vico Pancellorum",
+  "id": "960808205",
+  "bbox": [
+    10.6980525,
+    44.0544542,
+    10.6980525,
+    44.0544542
+  ],
+  "description": "In the introductory essay for Map 41 of the Barrington Atlas published in the Map-by-Map Directory, Vico Pancellorum is mentioned as a toponym with likely ancient origins, but absent is any specific evidence to that effect. Vico Pancellorum is a small Tuscan village located in the Province of Lucca. It is situated at 630 meters above sea level at the foot of Balzo Nero.",
+  "names": [
+    "Vico Pancellorum"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6980525,
+          44.0544542
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6980525,
+          44.0544542
+        ]
+      },
+      "id": "osm-location-of-vico-pancellorum",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vico Pancellorum",
+        "link": "http://pleiades.stoa.org/places/960808205/osm-location-of-vico-pancellorum"
+      }
+    }
+  ]
+}
