@@ -9,6 +9,9 @@
     44.394282
   ],
   "description": "An ancient place, cited: BAtlas 17 D5 Val-des-Nymphes",
+  "names": [
+    "Val-des-Nymphes"
+  ],
   "features": [
     {
       "type": "Feature",

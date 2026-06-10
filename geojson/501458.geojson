@@ -9,6 +9,9 @@
     40.548232
   ],
   "description": "An ancient place, cited: BAtlas 51 H3 Kardia/Lysimacheia",
+  "connectsWith": [
+    "177302800"
+  ],
   "names": [
     "Kardia",
     "Lysimacheia"
