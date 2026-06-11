@@ -3,12 +3,12 @@
   "title": "Porte de France, Nemausus",
   "id": "432394421",
   "bbox": [
-    4.357747,
+    4.3577313,
     43.8326553,
-    4.357747,
-    43.8326553
+    4.3578055,
+    43.8326922
   ],
-  "description": "A first century B.C. city gate of ancient Nemausus.",
+  "description": "A first-century B.C. city gate of ancient Nemausus.",
   "connectsWith": [
     "148142"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.357747,
-          43.8326553
+          4.35776896637,
+          43.8326735736
         ]
       },
       "properties": {

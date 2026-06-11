@@ -9,6 +9,9 @@
     42.666293
   ],
   "description": "An ancient place, cited: BAtlas 48 D2 Kersounon",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Kersounon"
   ],

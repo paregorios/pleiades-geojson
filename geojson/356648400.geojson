@@ -3,10 +3,10 @@
   "title": "Arènes de Nîmes",
   "id": "356648400",
   "bbox": [
-    4.3591642,
-    43.8344266,
-    4.3592385,
-    43.8347538
+    4.358834,
+    43.8343863,
+    4.3604087,
+    43.835393
   ],
   "description": "The Arènes de Nîmes is a Roman amphitheater built at the end of the first century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.35920135,
-          43.8345902
+          4.35942251823,
+          43.8348300007
         ]
       },
       "properties": {

@@ -1,22 +1,28 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Roki Pass",
   "id": "864485",
   "bbox": [
-    44.190253,
-    42.668188,
-    44.190253,
-    42.668188
+    44.134942,
+    42.61107,
+    44.13752,
+    42.611941
   ],
-  "description": "An ancient place, cited: BAtlas 88 C2 no. 9 (Rokskiy)",
+  "description": "A mountain saddle in the Caucasus range connecting the Zakka and Rokdon river valleys.",
+  "names": [
+    "Pereval Rokskiy",
+    "Ručhy æfcæg",
+    "Rok’is Ughelt’ekhili",
+    "9"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.190253,
-          42.668188
+          44.136231,
+          42.6115055
         ]
       },
       "properties": {
@@ -27,17 +33,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          44.190253,
-          42.668188
+          44.13752,
+          42.61107
         ]
       },
-      "id": "darmc-location-32798",
+      "id": "geonames-location-pereval-rokskiy",
       "type": "Feature",
       "properties": {
-        "description": "representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": null,
         "location_precision": "precise",
-        "title": "DARMC location 32798",
-        "link": "http://pleiades.stoa.org/places/864485/darmc-location-32798"
+        "title": "GeoNames Location: Pereval Rokskiy",
+        "link": "http://pleiades.stoa.org/places/864485/geonames-location-pereval-rokskiy"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.134942,
+          42.611941
+        ]
+      },
+      "id": "geohack-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "GeoHack location",
+        "link": "http://pleiades.stoa.org/places/864485/geohack-location"
       }
     }
   ]

@@ -9,6 +9,9 @@
     42.680427
   ],
   "description": "An ancient place, cited: BAtlas 48 D2 Kanelate",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Kanelate"
   ],

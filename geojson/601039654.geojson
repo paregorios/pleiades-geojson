@@ -3,20 +3,20 @@
   "title": "Via Aquitania",
   "id": "601039654",
   "bbox": [
-    -0.583166,
+    -0.576533,
     43.183585,
     3.004308,
-    44.8478175
+    44.837205
   ],
-  "description": "A Roman road built ca. 118 BC after the Roman defeat of the Allobroges and Arverni tribes in Gaul.",
+  "description": "A Roman road built ca. 118 BC after the Roman defeat of the Allobroges and Arverni tribes in Gaul. The road began at Narbonne and eventually linked up with the Via Domitia. It proceeded toward the Atlantic seaboard via Toulouse and Bordeaux.",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.2816069,
-          43.87853705
+          1.29030533333,
+          43.8749988333
         ]
       },
       "properties": {
