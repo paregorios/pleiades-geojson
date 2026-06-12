@@ -1,19 +1,16 @@
 {
   "type": "FeatureCollection",
-  "title": "Marianon Akron",
-  "id": "472098",
+  "title": "Aussières",
+  "id": "376548595",
   "bbox": [
-    9.0960695,
-    41.3919031,
-    9.0960695,
-    41.3919031
+    2.9182005,
+    43.153446,
+    2.9182005,
+    43.153446
   ],
-  "description": "A southern promontory of Corsica (modern Capo di Feno).",
+  "description": "The findspot of significant quantities of Samian ware pottery.",
   "connectsWith": [
-    "472063"
-  ],
-  "names": [
-    "Marianon Akron"
+    "246347"
   ],
   "features": [
     {
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0960695,
-          41.3919031
+          2.9182005,
+          43.153446
         ]
       },
       "properties": {
@@ -33,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0960695,
-          41.3919031
+          2.9182005,
+          43.153446
         ]
       },
-      "id": "osm-location-of-capo-di-feno",
+      "id": "osm-location-of-aussiares",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Capo di Feno",
-        "link": "http://pleiades.stoa.org/places/472098/osm-location-of-capo-di-feno"
+        "title": "OSM location of Aussières",
+        "link": "http://pleiades.stoa.org/places/376548595/osm-location-of-aussiares"
       }
     }
   ]

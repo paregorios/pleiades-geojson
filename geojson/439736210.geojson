@@ -3,10 +3,10 @@
   "title": "Tour Magne",
   "id": "439736210",
   "bbox": [
-    4.3494673,
-    43.8430445,
-    4.3494673,
-    43.8430445
+    4.3493157,
+    43.8429372,
+    4.3496244,
+    43.8431743
   ],
   "description": "Situated atop Mount Cavalier, the so-called \"Tour Magne\" is a tower on the fortified walls of ancient Nemausus. The tower dates to the time of Augustus.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3494673,
-          43.8430445
+          4.3494652953,
+          43.8430551482
         ]
       },
       "properties": {
@@ -28,19 +28,69 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          4.3494673,
-          43.8430445
+          [
+            4.3493157,
+            43.8430501
+          ],
+          [
+            4.349342,
+            43.8430556
+          ],
+          [
+            4.3493293,
+            43.843094
+          ],
+          [
+            4.349353,
+            43.8431404
+          ],
+          [
+            4.3493914,
+            43.8431684
+          ],
+          [
+            4.3494765,
+            43.8431743
+          ],
+          [
+            4.3495115,
+            43.8431418
+          ],
+          [
+            4.3495644,
+            43.8431485
+          ],
+          [
+            4.3496244,
+            43.8430226
+          ],
+          [
+            4.3495897,
+            43.8429686
+          ],
+          [
+            4.3494752,
+            43.8429372
+          ],
+          [
+            4.3493526,
+            43.8429723
+          ],
+          [
+            4.3493157,
+            43.8430501
+          ]
         ]
       },
-      "id": "tour-magne",
+      "id": "osm-location-of-tour-magne",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM location of Tour Magne",
-        "link": "http://pleiades.stoa.org/places/439736210/tour-magne"
+        "link": "http://pleiades.stoa.org/places/439736210/osm-location-of-tour-magne"
       }
     }
   ]

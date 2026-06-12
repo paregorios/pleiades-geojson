@@ -9,6 +9,9 @@
     33.0
   ],
   "description": "An ancient place, cited: BAtlas 91 F5 unnamed wall (around Babylon)",
+  "connectsWith": [
+    "893951"
+  ],
   "features": [
     {
       "type": "Feature",

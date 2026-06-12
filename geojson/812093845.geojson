@@ -1,19 +1,19 @@
 {
   "type": "FeatureCollection",
-  "title": "Marianon Akron",
-  "id": "472098",
+  "title": "Peyrestortes",
+  "id": "812093845",
   "bbox": [
-    9.0960695,
-    41.3919031,
-    9.0960695,
-    41.3919031
+    2.8512531,
+    42.7543539,
+    2.8512531,
+    42.7543539
   ],
-  "description": "A southern promontory of Corsica (modern Capo di Feno).",
+  "description": "A findspot of significant quantities of Samian ware pottery in the hinterland of Perpignan, France.",
   "connectsWith": [
-    "472063"
+    "246348"
   ],
   "names": [
-    "Marianon Akron"
+    "Peyrestortes"
   ],
   "features": [
     {
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0960695,
-          41.3919031
+          2.8512531,
+          42.7543539
         ]
       },
       "properties": {
@@ -33,17 +33,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0960695,
-          41.3919031
+          2.8512531,
+          42.7543539
         ]
       },
-      "id": "osm-location-of-capo-di-feno",
+      "id": "osm-location-of-peyrestortes",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Capo di Feno",
-        "link": "http://pleiades.stoa.org/places/472098/osm-location-of-capo-di-feno"
+        "title": "OSM location of Peyrestortes",
+        "link": "http://pleiades.stoa.org/places/812093845/osm-location-of-peyrestortes"
       }
     }
   ]

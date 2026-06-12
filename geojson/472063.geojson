@@ -18,7 +18,8 @@
   "names": [
     "Corsica",
     "Kyrnos",
-    "Cezīre-i Ḳorsiḳa"
+    "Cezīre-i Ḳorsiḳa",
+    "Insula Corsica"
   ],
   "features": [
     {
@@ -26,8 +27,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.13924183017,
-          41.7351803207
+          9.18684944628,
+          41.9340137928
         ]
       },
       "properties": {

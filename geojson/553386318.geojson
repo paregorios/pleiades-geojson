@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lago di Biéntina",
+  "id": "553386318",
+  "bbox": [
+    10.64,
+    43.75,
+    10.64,
+    43.75
+  ],
+  "description": "The Lago di Biéntina was once the largest lake in Italy's Tuscany region. While it was finally drained in 1859 and converted to arable land, the extent to which it was a standing body of water in antiquity remains debated.",
+  "names": [
+    "Lago di Bientina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64,
+          43.75
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.64,
+          43.75
+        ]
+      },
+      "id": "geohack-location-of-lago-di-bientina",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack.",
+        "location_precision": "precise",
+        "title": "GeoHack location of Lago di Bientina",
+        "link": "http://pleiades.stoa.org/places/553386318/geohack-location-of-lago-di-bientina"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "title": "ager Volaterranus",
+  "id": "477378516",
+  "bbox": [
+    10.859019,
+    43.401431,
+    10.861106,
+    43.401777
+  ],
+  "description": "The ager Volaterranus was the territory of the city of Volaterrae in northern Etruria.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8600625,
+          43.401604
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

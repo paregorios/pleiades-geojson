@@ -1,0 +1,244 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Aqueduct from Gorze to Metz",
+  "id": "882076326",
+  "bbox": [
+    6.0692132,
+    49.0678182,
+    6.0703451,
+    49.0681359
+  ],
+  "description": "A Roman aqueduct with a course of about 22 km, originating from the Bouillons spring near Gorze (208 m) and flowing to the city of Divodurum (Metz) (184 m). Some 12.7 km of the aqueduct is subterranean. Arched aqueduct bridges are extant at Ars-sur-Moselle and Jouy-aux-Arches.",
+  "connectsWith": [
+    "557043171"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06968654763,
+          49.0680010906
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.0696533,
+            49.0679904
+          ],
+          [
+            6.0696699,
+            49.0679861
+          ],
+          [
+            6.0697192,
+            49.0679735
+          ],
+          [
+            6.0697863,
+            49.0679563
+          ],
+          [
+            6.0698378,
+            49.0679431
+          ],
+          [
+            6.0699055,
+            49.0679258
+          ],
+          [
+            6.0699565,
+            49.0679127
+          ],
+          [
+            6.0700253,
+            49.0678951
+          ],
+          [
+            6.0700774,
+            49.0678818
+          ],
+          [
+            6.0701431,
+            49.0678649
+          ],
+          [
+            6.070196,
+            49.0678514
+          ],
+          [
+            6.0702628,
+            49.0678343
+          ],
+          [
+            6.0703185,
+            49.06782
+          ],
+          [
+            6.0703255,
+            49.0678182
+          ],
+          [
+            6.0703451,
+            49.0678511
+          ],
+          [
+            6.0703381,
+            49.0678529
+          ],
+          [
+            6.0702824,
+            49.0678672
+          ],
+          [
+            6.0702165,
+            49.067884
+          ],
+          [
+            6.0701633,
+            49.0678977
+          ],
+          [
+            6.0700967,
+            49.0679147
+          ],
+          [
+            6.0700446,
+            49.0679281
+          ],
+          [
+            6.0699758,
+            49.0679457
+          ],
+          [
+            6.0699248,
+            49.0679588
+          ],
+          [
+            6.0698569,
+            49.0679761
+          ],
+          [
+            6.0698053,
+            49.0679894
+          ],
+          [
+            6.0697388,
+            49.0680064
+          ],
+          [
+            6.0696895,
+            49.068019
+          ],
+          [
+            6.0696729,
+            49.0680233
+          ],
+          [
+            6.0696533,
+            49.0679904
+          ]
+        ]
+      },
+      "id": "osm-location-of-aqueduc-romain-segment",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aqueduc Romain (segment)",
+        "link": "http://pleiades.stoa.org/places/882076326/osm-location-of-aqueduc-romain-segment"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.0695346,
+            49.0680597
+          ],
+          [
+            6.0695202,
+            49.0680633
+          ],
+          [
+            6.0694728,
+            49.0680753
+          ],
+          [
+            6.0694074,
+            49.0680918
+          ],
+          [
+            6.0693606,
+            49.0681036
+          ],
+          [
+            6.0692967,
+            49.0681197
+          ],
+          [
+            6.069249,
+            49.0681317
+          ],
+          [
+            6.0692324,
+            49.0681359
+          ],
+          [
+            6.0692132,
+            49.0681032
+          ],
+          [
+            6.0692304,
+            49.0680988
+          ],
+          [
+            6.0692781,
+            49.0680868
+          ],
+          [
+            6.069342,
+            49.0680707
+          ],
+          [
+            6.0693882,
+            49.068059
+          ],
+          [
+            6.0694526,
+            49.0680428
+          ],
+          [
+            6.0695016,
+            49.0680304
+          ],
+          [
+            6.0695154,
+            49.068027
+          ],
+          [
+            6.0695346,
+            49.0680597
+          ]
+        ]
+      },
+      "id": "osm-location-of-aqueduc-romain-segment-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Aqueduc Romain (segment 2)",
+        "link": "http://pleiades.stoa.org/places/882076326/osm-location-of-aqueduc-romain-segment-2"
+      }
+    }
+  ]
+}

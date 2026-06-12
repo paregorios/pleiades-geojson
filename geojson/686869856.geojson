@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theater of Aigeira",
+  "id": "686869856",
+  "bbox": [
+    22.3773795,
+    38.1282889,
+    22.3780113,
+    38.1287904
+  ],
+  "description": "The ancient Greek Theater of Aigeira overlooks the Gulf of Corinth. The theater was built ca. 280-250 B.C.E. and enjoys a remarkable state of preservation.",
+  "connectsWith": [
+    "570043"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3776626097,
+          38.1284963158
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3780113,
+            38.1284162
+          ],
+          [
+            22.3779053,
+            38.128334
+          ],
+          [
+            22.3776889,
+            38.1282889
+          ],
+          [
+            22.3775808,
+            38.1282985
+          ],
+          [
+            22.3774849,
+            38.1283196
+          ],
+          [
+            22.3774193,
+            38.1283703
+          ],
+          [
+            22.3773816,
+            38.1284335
+          ],
+          [
+            22.3773795,
+            38.1285177
+          ],
+          [
+            22.3774061,
+            38.1285901
+          ],
+          [
+            22.3774677,
+            38.1286911
+          ],
+          [
+            22.3775749,
+            38.1287904
+          ],
+          [
+            22.3777841,
+            38.1286111
+          ],
+          [
+            22.3780113,
+            38.1284162
+          ]
+        ]
+      },
+      "id": "osm-location-of-iii-iii-iiii-i-i-i-ii1i3iui-ii-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Θέατρα Αρχαίας Αιγείρας",
+        "link": "http://pleiades.stoa.org/places/686869856/osm-location-of-iii-iii-iiii-i-i-i-ii1i3iui-ii-i"
+      }
+    }
+  ]
+}

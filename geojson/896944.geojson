@@ -9,6 +9,9 @@
     34.0
   ],
   "description": "An ancient place, cited: BAtlas 91 E4 unnamed wall (Umm Rus)",
+  "connectsWith": [
+    "786140"
+  ],
   "features": [
     {
       "type": "Feature",
