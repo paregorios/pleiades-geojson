@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pompey",
+  "id": "459721458",
+  "bbox": [
+    6.1229922,
+    48.7658301,
+    6.1229922,
+    48.7658301
+  ],
+  "description": "Pompey (Meurthe-et-Moselle, France) produced archaeological evidence of a Roman productive site located near the junction of the Meurthe and Moselle rivers. This site was discovered in 1962 and has been described as a \"villa rustica\". There is evidence of baths and painted wall plaster. There is evidence for pottery production at the site, along with agricultural activity. There is a cremation necropolis of the second and third centuries CE described as containing \"poor\" finds.",
+  "connectsWith": [
+    "109182"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1229922,
+          48.7658301
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1229922,
+          48.7658301
+        ]
+      },
+      "id": "osm-location-of-pompey",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pompey",
+        "link": "http://pleiades.stoa.org/places/459721458/osm-location-of-pompey"
+      }
+    }
+  ]
+}

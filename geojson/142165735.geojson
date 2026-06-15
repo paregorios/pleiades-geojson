@@ -3,10 +3,10 @@
   "title": "Villa of Diomedes",
   "id": "142165735",
   "bbox": [
-    14.4787071,
+    14.4786501,
     40.7523864,
     14.4787071,
-    40.7523864
+    40.7523925
   ],
   "description": "A suburban villa of Pompeii located outside the Herculaneum gate, the Villa of Diomedes was excavated between 1771 and 1774 and named after the tomb of Marcus Arrius Diomedes which faces the entrance on the opposite side of the road.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4787071,
-          40.7523864
+          14.4786786,
+          40.75238945
         ]
       },
       "properties": {

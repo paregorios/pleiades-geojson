@@ -3,14 +3,15 @@
   "title": "Palla",
   "id": "472110",
   "bbox": [
-    9.159401,
-    41.387392,
-    9.159401,
-    41.387392
+    9.1590609,
+    41.3872348,
+    9.1590609,
+    41.3872348
   ],
   "description": "An ancient place, cited: BAtlas 48 D3 Palla",
   "connectsWith": [
-    "472063"
+    "472063",
+    "686790983"
   ],
   "names": [
     "Palla"
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.159401,
-          41.387392
+          9.1590609,
+          41.3872348
         ]
       },
       "properties": {
@@ -33,17 +34,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.159401,
-          41.387392
+          9.1590609,
+          41.3872348
         ]
       },
-      "id": "darmc-location-906",
+      "id": "osm-location-of-bonifacio",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 906",
-        "link": "http://pleiades.stoa.org/places/472110/darmc-location-906"
+        "title": "OSM location of Bonifacio",
+        "link": "http://pleiades.stoa.org/places/472110/osm-location-of-bonifacio"
       }
     }
   ]

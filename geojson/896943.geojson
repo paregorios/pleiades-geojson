@@ -9,6 +9,9 @@
     34.0
   ],
   "description": "An ancient place, cited: BAtlas 91 E4 unnamed wall (al-Mutabbaq)",
+  "names": [
+    "al-Mutabbaq"
+  ],
   "features": [
     {
       "type": "Feature",

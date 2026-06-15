@@ -9,6 +9,9 @@
     40.719034
   ],
   "description": "An ancient place, cited: BAtlas 45 A3 Giffoni Valle Piana",
+  "connectsWith": [
+    "442742"
+  ],
   "features": [
     {
       "type": "Feature",

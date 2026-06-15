@@ -9,6 +9,9 @@
     42.237367
   ],
   "description": "An ancient place, cited: BAtlas 48 D2 Ouenikion",
+  "connectsWith": [
+    "472063"
+  ],
   "names": [
     "Ouenikion"
   ],

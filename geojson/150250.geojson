@@ -1,25 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Centuriation in the vicinity of Ambrussum",
   "id": "150250",
   "bbox": [
-    4.0,
-    43.5,
-    4.5,
-    44.0
+    4.149532,
+    43.715393,
+    4.149669,
+    43.715821
   ],
   "description": "An ancient place, cited: BAtlas 15 C2 unnamed centuriation (around Ambrussum and SE Nemausus (Nîmes I))",
-  "connectsWith": [
-    "147990"
-  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.25,
-          43.75
+          4.1496005,
+          43.715607
         ]
       },
       "properties": {

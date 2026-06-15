@@ -9,6 +9,9 @@
     35.0
   ],
   "description": "An ancient place, cited: BAtlas 91 D3 unnamed wall (Sur Umm al-Khawashij)",
+  "names": [
+    "Sur Umm al-Khawashij"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "200082",
   "bbox": [
-    13.0,
-    45.0,
-    14.0,
-    46.0
+    13.811925,
+    45.717745,
+    13.811925,
+    45.717745
   ],
   "description": "An ancient place, cited: BAtlas 20 A4 unnamed quarry group (NW Avesica)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5,
-          45.5
+          13.811925,
+          45.717745
         ]
       },
       "properties": {
