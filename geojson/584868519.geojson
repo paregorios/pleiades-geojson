@@ -3,10 +3,10 @@
   "title": "Marina di Palo Roman villa ",
   "id": "584868519",
   "bbox": [
-    12.0865389,
-    41.9435262,
-    12.0865389,
-    41.9435262
+    12.0861326,
+    41.9429416,
+    12.0869748,
+    41.9435362
   ],
   "description": "An Imperial maritime villa located in Ladispoli, Italy.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0865389,
-          41.9435262
+          12.0865467852,
+          41.9432408988
         ]
       },
       "properties": {

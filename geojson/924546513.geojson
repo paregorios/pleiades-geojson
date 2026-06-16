@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "Via della Fortuna",
+  "id": "924546513",
+  "bbox": [
+    14.4842367,
+    40.7507113,
+    14.4861819,
+    40.7516207
+  ],
+  "description": "A major east-west street in Pompeii that is also connected to the Via di Mercurio and the Via del Foro.",
+  "connectsWith": [
+    "433032"
+  ],
+  "names": [
+    "Via della Fortuna"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4852058951,
+          40.7511708852
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.4842367,
+            40.7507113
+          ],
+          [
+            14.484243,
+            40.7507189
+          ],
+          [
+            14.4842496,
+            40.7507268
+          ],
+          [
+            14.4842556,
+            40.7507327
+          ],
+          [
+            14.4842661,
+            40.75074
+          ],
+          [
+            14.4845933,
+            40.7508802
+          ],
+          [
+            14.4847267,
+            40.7509429
+          ],
+          [
+            14.4848629,
+            40.7510069
+          ],
+          [
+            14.4849766,
+            40.7510603
+          ],
+          [
+            14.4853425,
+            40.7512357
+          ],
+          [
+            14.4854473,
+            40.751284
+          ],
+          [
+            14.4857161,
+            40.7514119
+          ],
+          [
+            14.4861453,
+            40.7516113
+          ],
+          [
+            14.4861592,
+            40.7516155
+          ],
+          [
+            14.4861819,
+            40.7516207
+          ]
+        ]
+      },
+      "id": "via-della-fortuna-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Via della Fortuna",
+        "link": "http://pleiades.stoa.org/places/924546513/via-della-fortuna-1"
+      }
+    }
+  ]
+}

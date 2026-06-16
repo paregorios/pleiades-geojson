@@ -1,22 +1,26 @@
 {
   "type": "FeatureCollection",
-  "title": "Tulūl Yassir",
+  "title": "Tell Yassir",
   "id": "656796826",
   "bbox": [
-    45.0984,
-    32.5612,
-    45.0984,
-    32.5612
+    45.0963369,
+    32.5595015,
+    45.1022237,
+    32.5633117
   ],
-  "description": "Mound and find place for cuneiform inscription.",
+  "description": "The largest of seven mounds near the modern village of Qariyah Khamsa. Based on the contents of several cuneiform tablets discovered at the site, it is tentatively identified as the location of the ancient city of Malgium, the capital of a kingdom in the Ur III period. It is one of several tell sites in the region, collectively known as Tulūl al-Fāj.",
+  "names": [
+    "Tell Qariyah Khamsa 1",
+    "Tell Yassir"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.0984,
-          32.5612
+          45.0989055535,
+          32.5612983539
         ]
       },
       "properties": {
@@ -38,6 +42,53 @@
         "location_precision": "precise",
         "title": "CIGS location of Tulūl Yassir",
         "link": "http://pleiades.stoa.org/places/656796826/tulul-yassir"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.098207,
+            32.5626676
+          ],
+          [
+            45.0973614,
+            32.5619001
+          ],
+          [
+            45.0963369,
+            32.5605021
+          ],
+          [
+            45.099947,
+            32.5595015
+          ],
+          [
+            45.1022237,
+            32.56153
+          ],
+          [
+            45.1019147,
+            32.5627635
+          ],
+          [
+            45.1004024,
+            32.5633117
+          ],
+          [
+            45.098207,
+            32.5626676
+          ]
+        ]
+      },
+      "id": "tell-yassir-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Tell Yassir site, derived from an OpenStreetMap Way after Milano 2026.",
+        "location_precision": "precise",
+        "title": "OSM location of Tell Yassir",
+        "link": "http://pleiades.stoa.org/places/656796826/tell-yassir-1"
       }
     }
   ]

@@ -3,12 +3,15 @@
   "title": "Pompeia Palus",
   "id": "433031",
   "bbox": [
-    14.5,
-    40.5,
-    15.0,
-    41.0
+    14.4708346,
+    40.7285981,
+    14.6484544,
+    40.8319518
   ],
-  "description": "An ancient place, cited: BAtlas 44 G4 Pompeia Palus",
+  "description": "Pompeia Palus, a marsh or wetland located near the mouth of the river Sarnus.",
+  "connectsWith": [
+    "433102"
+  ],
   "names": [
     "Pompeia Palus"
   ],
@@ -18,49 +21,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.75,
-          40.75
+          14.5719793865,
+          40.7816769514
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14.5,
-              40.5
-            ],
-            [
-              14.5,
-              41.0
-            ],
-            [
-              15.0,
-              41.0
-            ],
-            [
-              15.0,
-              40.5
-            ],
-            [
-              14.5,
-              40.5
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/433031/batlas-location"
       }
     }
   ]

@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed bridge (Ad Turres)",
   "id": "425067",
   "bbox": [
-    12.0,
-    41.75,
-    12.25,
-    42.0
+    12.155385,
+    41.936077,
+    12.155414,
+    41.936099
   ],
   "description": "An ancient place, cited: BAtlas 43 A2 unnamed bridge (Ad Turres)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.125,
-          41.875
+          12.1553995,
+          41.936088
         ]
       },
       "properties": {

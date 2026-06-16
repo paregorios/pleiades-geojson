@@ -3,6 +3,9 @@
   "title": "Septimiake regio",
   "id": "718049",
   "description": "An ancient place, cited: None",
+  "connectsWith": [
+    "376813"
+  ],
   "names": [
     "Septimiake regio"
   ],
