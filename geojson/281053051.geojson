@@ -5,8 +5,8 @@
   "bbox": [
     12.4755288,
     41.8873672,
-    12.486137,
-    41.891775
+    12.4761847,
+    41.8877543
   ],
   "description": "A place included the Regionary Catalogues for Rome's Regio XIV, Coriaria Septimiana refers to tanneries in the Transtiberim. On the basis of epigraphic evidence, the place listed in the Notitia is associated with a small tanning facility on the site of the paleochristian church of Saint Cecilia in Trastevere.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4809897473,
-          41.8896712067
+          12.4758424945,
+          41.8875674134
         ]
       },
       "properties": {

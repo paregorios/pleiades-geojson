@@ -8,7 +8,7 @@
     12.697622,
     42.273213
   ],
-  "description": "An ancient place, cited: BAtlas 42 D4 S. Valentino",
+  "description": "Remains of at least two Roman villas have been identified in the frazione of San Valentino, part of the larger comune of Poggio Mirteto. One is the so-called Villa dei Casoni, while this site is sometimes known as the Bagni di Lucilla. This villa was the findspot in 1801 of a mosaic pavement now in the Chiaramonti museums of the Vatican.",
   "names": [
     "S. Valentino"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-21081",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 21081",
         "link": "http://pleiades.stoa.org/places/413302/darmc-location-21081"

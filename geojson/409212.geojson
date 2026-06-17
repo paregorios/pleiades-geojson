@@ -5,7 +5,7 @@
   "bbox": [
     10.400106,
     43.3584548,
-    10.4477353,
+    10.4491627,
     43.719417
   ],
   "description": "Now unlocated, Ad Herculem was a road station located between Vada Volaterrana and Pisae. According to the Antonine Itinerary, the station was located 18 Roman miles from Vada Volaterrana and 12 Roman miles from Pisae. According to Polledri (1967), this may mean that Ad Herculem corresponds to the area of Marmigliaio-Rimazzano-Crocino where three Roman milestones were found.",
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.42392065,
-          43.5389359
+          10.4240756244,
+          43.5394208228
         ]
       },
       "properties": {

@@ -3,10 +3,10 @@
   "title": "Marina di S. Nicola",
   "id": "422970",
   "bbox": [
-    12.1254406,
-    41.9266459,
-    12.1254406,
-    41.9266459
+    12.1247603,
+    41.9263183,
+    12.1259492,
+    41.9271565
   ],
   "description": "Marina di S. Nicola is located close to Alsium.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.1254406,
-          41.9266459
+          12.1253595153,
+          41.9267375322
         ]
       },
       "properties": {
@@ -31,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.1254406,
-          41.9266459
+          [
+            12.1247603,
+            41.9267897
+          ],
+          [
+            12.1255286,
+            41.9263183
+          ],
+          [
+            12.1259492,
+            41.9266825
+          ],
+          [
+            12.125237,
+            41.9271565
+          ],
+          [
+            12.1247603,
+            41.9267897
+          ]
         ]
       },
-      "id": "osm-location-of-villa-di-pompeo",
+      "id": "osm-location-villa-di-pompeo",
       "type": "Feature",
       "properties": {
-        "description": "Representative point derived from an OpenStreetMap node",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Villa di Pompeo",
-        "link": "http://pleiades.stoa.org/places/422970/osm-location-of-villa-di-pompeo"
+        "title": "OSM location: Villa di Pompeo",
+        "link": "http://pleiades.stoa.org/places/422970/osm-location-villa-di-pompeo"
       }
     }
   ]
