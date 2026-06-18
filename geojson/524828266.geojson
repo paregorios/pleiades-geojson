@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grotta dei Massacci",
+  "id": "524828266",
+  "bbox": [
+    12.8214556,
+    42.2122373,
+    12.8214556,
+    42.2122373
+  ],
+  "description": "The so-called Grotta dei Massacci located in Osteria Nuova, municipality of Frasso Sabino, Italy, is a monumental, vaulted subterranean tomb structure that likely dates to the second century CE.",
+  "connectsWith": [
+    "413382"
+  ],
+  "names": [
+    "Grotta dei Massacci"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8214556,
+          42.2122373
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8214556,
+          42.2122373
+        ]
+      },
+      "id": "osm-location-of-grotta-dei-massacci",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta dei Massacci",
+        "link": "http://pleiades.stoa.org/places/524828266/osm-location-of-grotta-dei-massacci"
+      }
+    }
+  ]
+}

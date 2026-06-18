@@ -9,6 +9,10 @@
     44.65373
   ],
   "description": "An ancient place, cited: BAtlas 39 H4 Pons *Seciae",
+  "connectsWith": [
+    "383661",
+    "66908841"
+  ],
   "names": [
     "Pons Seciae"
   ],

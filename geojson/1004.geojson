@@ -3,7 +3,7 @@
   "title": "(H)Adriaticum/Superum Mare",
   "id": "1004",
   "bbox": [
-    7.0925331,
+    7.0923996,
     39.7424663,
     21.2292461,
     46.8353293
@@ -17,7 +17,8 @@
     "Adriaticum",
     "Superum Mare",
     "Iónios kólpos",
-    "Adriatic Sea"
+    "Adriatic Sea",
+    "Hadriaticum Pelagus"
   ],
   "features": [
     {
