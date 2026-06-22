@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Koreion (Teithras)",
+  "id": "65221305",
+  "description": "A sanctuary of Kore / Persephone in the Athenian deme of Teithras, known from inscriptions.",
+  "connectsWith": [
+    "580115"
+  ],
+  "names": [
+    "Koreion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Sabis",
   "id": "30265",
   "description": "An ancient place, cited: BAtlas 3 unlocated Sabis",
+  "connectsWith": [
+    "29517"
+  ],
   "names": [
     "Sabis"
   ],

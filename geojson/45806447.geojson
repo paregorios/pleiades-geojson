@@ -6,7 +6,7 @@
     14.364282,
     41.060979,
     14.641281,
-    41.178153
+    41.2260406
   ],
   "description": "A Samnite tribe that was subjugated in 275 BC by L. Cornelius Lentulus.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.50052175,
-          41.1203515
+          14.5020307621,
+          41.1545878366
         ]
       },
       "properties": {

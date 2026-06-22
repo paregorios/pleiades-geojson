@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed centuriation (Caesena)",
   "id": "396392",
   "bbox": [
-    12.0,
-    44.0,
-    12.5,
-    44.5
+    12.241165,
+    44.1345598,
+    12.2424262,
+    44.1355528
   ],
   "description": "An ancient place, cited: BAtlas 40 C4 unnamed centuriation (Caesena)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.25,
-          44.25
+          12.2417796041,
+          44.1351031781
         ]
       },
       "properties": {

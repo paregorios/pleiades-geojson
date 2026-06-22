@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed centuriation (Claterna - Forum Cornelii - Faventia - Forum Livii)",
   "id": "396386",
   "bbox": [
     11.5,
@@ -9,6 +9,12 @@
     44.5
   ],
   "description": "An ancient place, cited: BAtlas 40 B4 unnamed centuriation (Claterna - Forum Cornelii - Faventia - Forum Livii)",
+  "connectsWith": [
+    "393405",
+    "393424",
+    "393420",
+    "393426"
+  ],
   "features": [
     {
       "type": "Feature",

@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Unnamed centuriation (Ariminum, near Compitum ad Confluentes)",
   "id": "396391",
   "bbox": [
-    12.0,
-    44.0,
-    12.5,
-    44.5
+    12.39517,
+    44.089401,
+    12.39517,
+    44.089401
   ],
   "description": "An ancient place, cited: BAtlas 40 C4 unnamed centuriation (Ariminum, near Compitum ad Confluentes)",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.25,
-          44.25
+          12.39517,
+          44.089401
         ]
       },
       "properties": {

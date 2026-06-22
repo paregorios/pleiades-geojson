@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Lucius Verginius Rufus",
+  "id": "346600104",
+  "bbox": [
+    12.0859955,
+    41.9413926,
+    12.0861274,
+    41.9414933
+  ],
+  "description": "The Tomb of Lucius Verginius Rufus was located at ancient Alsium. Lucius Verginius Rufus (d. 97 CE) was a colleague of Nero and guardian of the younger Pliny, with the latter recording Verginius Rufus' epitaph.",
+  "connectsWith": [
+    "422953"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0860614582,
+          41.9414429679
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0860408,
+            41.9414933
+          ],
+          [
+            12.0859955,
+            41.9414238
+          ],
+          [
+            12.0860821,
+            41.9413926
+          ],
+          [
+            12.0861274,
+            41.9414622
+          ],
+          [
+            12.0860408,
+            41.9414933
+          ]
+        ]
+      },
+      "id": "osm-location-of-tomb-of-lucius-verginius-rufus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Lucius Verginius Rufus",
+        "link": "http://pleiades.stoa.org/places/346600104/osm-location-of-tomb-of-lucius-verginius-rufus"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Sinduni",
   "id": "194067",
   "description": "An Alpine tribe mentioned in the Tabula Clesiana.",
+  "connectsWith": [
+    "383804"
+  ],
   "names": [
     "Sinduni"
   ],

@@ -9,6 +9,9 @@
     45.5
   ],
   "description": "An ancient place, cited: BAtlas 40 A2 unnamed centuriation (near Fabbrica dei Soci (Verona))",
+  "connectsWith": [
+    "393419"
+  ],
   "features": [
     {
       "type": "Feature",

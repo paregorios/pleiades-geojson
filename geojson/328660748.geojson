@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cavaturini",
+  "id": "328660748",
+  "bbox": [
+    8.929235,
+    44.405366,
+    8.933865,
+    44.407097
+  ],
+  "description": "Cavaturini, a vicus located in the Ligurian Apennines that is mentioned in the so-called Sententia Minuciorum.",
+  "connectsWith": [
+    "383664"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.93155,
+          44.4062315
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
