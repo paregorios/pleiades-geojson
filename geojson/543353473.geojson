@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "title": "Megalithic walls at Telese Terme",
+  "id": "543353473",
+  "bbox": [
+    14.5220519,
+    41.2268002,
+    14.5226416,
+    41.2270065
+  ],
+  "description": "Megalithic, polygonal masonry walls atop Mount Pugliano are generally interpreted as Samnite fortifications associated with ancient Telesia.",
+  "connectsWith": [
+    "433147"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5223654511,
+          41.2268923157
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.5222108,
+            41.2269555
+          ],
+          [
+            14.5222758,
+            41.2269548
+          ],
+          [
+            14.5223828,
+            41.2269511
+          ],
+          [
+            14.5224657,
+            41.2269499
+          ],
+          [
+            14.5225191,
+            41.2269426
+          ],
+          [
+            14.5226033,
+            41.2269185
+          ],
+          [
+            14.5226196,
+            41.2269256
+          ],
+          [
+            14.5226096,
+            41.2269752
+          ],
+          [
+            14.5225943,
+            41.2270064
+          ],
+          [
+            14.5226224,
+            41.2270065
+          ],
+          [
+            14.5226358,
+            41.2269786
+          ],
+          [
+            14.5226416,
+            41.2269119
+          ],
+          [
+            14.5226048,
+            41.2268957
+          ],
+          [
+            14.5225792,
+            41.2269044
+          ],
+          [
+            14.5225144,
+            41.2269232
+          ],
+          [
+            14.5224849,
+            41.2269262
+          ],
+          [
+            14.5224114,
+            41.2269272
+          ],
+          [
+            14.5224084,
+            41.2268978
+          ],
+          [
+            14.5224186,
+            41.2268467
+          ],
+          [
+            14.5222112,
+            41.2268002
+          ],
+          [
+            14.5220526,
+            41.2268039
+          ],
+          [
+            14.5220519,
+            41.2268227
+          ],
+          [
+            14.5222109,
+            41.2268177
+          ],
+          [
+            14.5223861,
+            41.2268601
+          ],
+          [
+            14.5223799,
+            41.2268967
+          ],
+          [
+            14.5223798,
+            41.2269281
+          ],
+          [
+            14.5222057,
+            41.2269333
+          ],
+          [
+            14.5222108,
+            41.2269555
+          ]
+        ]
+      },
+      "id": "osm-location-of-mura-poligonali",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mura poligonali",
+        "link": "http://pleiades.stoa.org/places/543353473/osm-location-of-mura-poligonali"
+      }
+    }
+  ]
+}

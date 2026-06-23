@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "S. Quiricus, Mon.",
+  "title": "S. Quiricus (monastery)",
   "id": "138530",
   "bbox": [
     3.142921,
@@ -10,7 +10,7 @@
   ],
   "description": "An ancient place, cited: BAtlas 14 I3 S. Quiricus, Mon.",
   "names": [
-    "S. Quiricus, Mon."
+    "S. Quiricus (Mon.)"
   ],
   "features": [
     {
@@ -37,7 +37,7 @@
       "id": "darmc-location-5396",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 5396",
         "link": "http://pleiades.stoa.org/places/138530/darmc-location-5396"

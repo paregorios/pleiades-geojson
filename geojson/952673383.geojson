@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lchashen fortress",
+  "id": "952673383",
+  "bbox": [
+    44.9472517,
+    40.5113246,
+    44.9483258,
+    40.5120347
+  ],
+  "description": "Urartian fortified structure near the modern town of Lchashen near Lake Van, inhabited during the late Bronze through Iron Age (16th-13th centuries BCE).",
+  "names": [
+    "Lchasheni amrotsʻn"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9477883166,
+          40.5116944263
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.9472563,
+            40.5116193
+          ],
+          [
+            44.9474198,
+            40.5118004
+          ],
+          [
+            44.9475365,
+            40.5118927
+          ],
+          [
+            44.947658,
+            40.511953
+          ],
+          [
+            44.9477607,
+            40.5119956
+          ],
+          [
+            44.9479662,
+            40.5120276
+          ],
+          [
+            44.9482417,
+            40.5120347
+          ],
+          [
+            44.9483024,
+            40.5120134
+          ],
+          [
+            44.9483258,
+            40.5119637
+          ],
+          [
+            44.9483258,
+            40.5118856
+          ],
+          [
+            44.9481436,
+            40.5115838
+          ],
+          [
+            44.9480829,
+            40.5115092
+          ],
+          [
+            44.9478774,
+            40.5113956
+          ],
+          [
+            44.9474198,
+            40.5113246
+          ],
+          [
+            44.9473404,
+            40.5113672
+          ],
+          [
+            44.9472517,
+            40.5114737
+          ],
+          [
+            44.9472563,
+            40.5116193
+          ]
+        ]
+      },
+      "id": "lchashen-fortress",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the extent of the Lchashen Fortress site, derived from an OpenStreetMap Way after Vardanyan 2024.",
+        "location_precision": "precise",
+        "title": "OSM location of Lchashen Fortress",
+        "link": "http://pleiades.stoa.org/places/952673383/lchashen-fortress"
+      }
+    }
+  ]
+}

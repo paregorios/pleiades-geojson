@@ -3,10 +3,10 @@
   "title": "Porta Gemina at Asculum",
   "id": "220487220",
   "bbox": [
-    13.5668434,
-    42.8547222,
-    13.5668434,
-    42.8547222
+    13.5668364,
+    42.8546606,
+    13.5668785,
+    42.8547414
   ],
   "description": "A city gate of the first century B.C.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.5668434,
-          42.8547222
+          13.5668574433,
+          42.8547010231
         ]
       },
       "properties": {
@@ -31,19 +31,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          13.5668434,
-          42.8547222
+          [
+            13.5668364,
+            42.8547391
+          ],
+          [
+            13.5668671,
+            42.8547414
+          ],
+          [
+            13.5668785,
+            42.854663
+          ],
+          [
+            13.5668478,
+            42.8546606
+          ],
+          [
+            13.5668364,
+            42.8547391
+          ]
         ]
       },
-      "id": "location-of-porta-gemina",
+      "id": "osm-location-porta-gemina",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Porta Gemina",
-        "link": "http://pleiades.stoa.org/places/220487220/location-of-porta-gemina"
+        "title": "OSM location: Porta Gemina",
+        "link": "http://pleiades.stoa.org/places/220487220/osm-location-porta-gemina"
       }
     }
   ]

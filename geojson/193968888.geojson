@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Afas Lupeici",
   "id": "193968888",
+  "bbox": [
+    10.268043,
+    33.302376,
+    10.561337,
+    33.634502
+  ],
   "description": "Afas Lupeici is a place included on the Tabula Peutingeriana. It was situated roughly 10 miles to the south of Martae and 5 miles to the north of Augarmi.",
   "connectsWith": [
     "344302",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4237679641,
+          33.4611436032
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

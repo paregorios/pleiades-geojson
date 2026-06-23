@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Epaminondas",
+  "id": "920972287",
+  "bbox": [
+    22.4214758,
+    37.5860185,
+    22.4216715,
+    37.5861813
+  ],
+  "description": "A burial mound described by Pausanias as the Tomb of Theban general Epaminondas. Located near Mantineia, east of Milia.",
+  "connectsWith": [
+    "570459"
+  ],
+  "names": [
+    "Taphos to Epaminoda"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4215736284,
+          37.5860998888
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.4214758,
+            37.5861662
+          ],
+          [
+            22.421496,
+            37.5860185
+          ],
+          [
+            22.4216715,
+            37.5860336
+          ],
+          [
+            22.4216512,
+            37.5861813
+          ],
+          [
+            22.4214758,
+            37.5861662
+          ]
+        ]
+      },
+      "id": "tomb-og-epaminodas",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Tomb of Epaminondas",
+        "link": "http://pleiades.stoa.org/places/920972287/tomb-og-epaminodas"
+      }
+    }
+  ]
+}

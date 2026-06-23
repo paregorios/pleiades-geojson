@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Artemis Munychia (Piraeus)",
+  "id": "380378608",
+  "bbox": [
+    23.6592,
+    37.9356,
+    23.6592,
+    37.9356
+  ],
+  "description": "A now mostly destroyed ancient temple dedicated to Artemis Munychia on the promontory above Mikrolimani. A Yacht Club in the 1930s was built on top of the promontory.",
+  "connectsWith": [
+    "116035285"
+  ],
+  "names": [
+    "Mounychias naos Artemidos",
+    "hieròn Mounychías Artémidos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6592,
+          37.9356
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6592,
+          37.9356
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location and chronology derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/380378608/topostext-location"
+      }
+    }
+  ]
+}
