@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Champigneulles",
+  "id": "593189882",
+  "bbox": [
+    6.1651167,
+    48.7342216,
+    6.1651167,
+    48.7342216
+  ],
+  "description": "During archaeological excavations beginning in 1969, Champigneulles (Meurthe-et-Moselle, France) was revealed to be the site of a settled, productive landscape that included the remains of a Gallo-Roman villa. The entry authored by R. Billoret included in the Princeton Encyclopedia of Classical Sites describes what sounds like an assemblage of archaeological loci as opposed to a single locus.",
+  "names": [
+    "Champigneulles"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1651167,
+          48.7342216
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1651167,
+          48.7342216
+        ]
+      },
+      "id": "osm-location-of-champigneulles",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Champigneulles",
+        "link": "http://pleiades.stoa.org/places/593189882/osm-location-of-champigneulles"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Fratuertium/Fratuentium",
   "id": "446244",
   "description": "An ancient place, cited: BAtlas 45 unlocated Fratuertium/Fratuentium",
+  "connectsWith": [
+    "442630"
+  ],
   "names": [
     "Fratuertium",
     "Fratuentium"

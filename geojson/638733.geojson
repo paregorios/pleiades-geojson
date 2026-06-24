@@ -3,10 +3,10 @@
   "title": "Adada",
   "id": "638733",
   "bbox": [
-    30.976484,
-    37.570031,
-    30.989777,
-    37.587947
+    30.984032,
+    37.577527,
+    30.984032,
+    37.577527
   ],
   "description": "An ancient place, cited: BAtlas 65 E2 Adada",
   "names": [
@@ -18,46 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          30.983431,
-          37.5785016667
+          30.984032,
+          37.577527
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.976484,
-          37.570031
-        ]
-      },
-      "id": "darmc-location-1230",
-      "type": "Feature",
-      "properties": {
-        "description": "TIB point location",
-        "location_precision": "precise",
-        "title": "DARMC location 1230",
-        "link": "http://pleiades.stoa.org/places/638733/darmc-location-1230"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          30.989777,
-          37.587947
-        ]
-      },
-      "id": "darmc-location-2749",
-      "type": "Feature",
-      "properties": {
-        "description": "500K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 2749",
-        "link": "http://pleiades.stoa.org/places/638733/darmc-location-2749"
       }
     },
     {

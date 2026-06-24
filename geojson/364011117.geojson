@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Punta Moral Roman mausoleum",
+  "id": "364011117",
+  "bbox": [
+    -7.3597855,
+    37.1890613,
+    -7.3597022,
+    37.1891224
+  ],
+  "description": "A Roman mausoleum dating to the early fourth century CE located at Punta del Moral, Isla de Canela, Ayamonte.",
+  "names": [
+    "Mausoleo romano de Punta del Moral"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.35974368109,
+          37.189091759
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.3597615,
+            37.1891224
+          ],
+          [
+            -7.3597855,
+            37.1890846
+          ],
+          [
+            -7.3597248,
+            37.1890613
+          ],
+          [
+            -7.3597022,
+            37.189099
+          ],
+          [
+            -7.3597615,
+            37.1891224
+          ]
+        ]
+      },
+      "id": "osm-location-of-mausoleo-romano-de-punta-del-moral",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mausoleo romano de Punta del Moral",
+        "link": "http://pleiades.stoa.org/places/364011117/osm-location-of-mausoleo-romano-de-punta-del-moral"
+      }
+    }
+  ]
+}

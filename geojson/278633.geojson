@@ -3,21 +3,19 @@
   "title": "(Vo)pisciana",
   "id": "278633",
   "bbox": [
-    -5.998299,
-    34.686239,
-    -5.998299,
-    34.686239
+    -5.997725,
+    34.692414,
+    -5.997725,
+    34.692414
   ],
   "description": "The Antonine Itinerary attests to a station \"Vopiscianis\" (GeogRav \"Bobiscianis\") on the route from Tocolosida (modern Bled Takourart in Morocco) to Tingi (modern Tangier). Ptolemy's \"Piskiana\" would seem to reference the same feature or a nearby settlement associated with the road station. Various suggestions have been made by modern scholars for its identification with a suitable archaeological site or ruin in the area; the current communis opinio holds for Souq el Arbaâ du Gharb (see Souk el Arba).",
   "connectsWith": [
-    "275725",
-    "275717"
+    "275725"
   ],
   "names": [
     "Vopiscianis",
     "Bopiscianis",
     "Piskiana",
-    "Pisciana",
     "Pisciana"
   ],
   "features": [
@@ -26,8 +24,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.998299,
-          34.686239
+          -5.997725,
+          34.692414
         ]
       },
       "properties": {

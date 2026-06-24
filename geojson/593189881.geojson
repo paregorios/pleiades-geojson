@@ -1,0 +1,158 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponsas",
+  "id": "593189881",
+  "bbox": [
+    4.8345054,
+    45.157258,
+    4.83552,
+    45.1591
+  ],
+  "description": "The Chateau de Fontager (13th century) is the site of the discovery of an ancient necropolis, including Early Christian tombs as well as pre-Christian tombs.",
+  "connectsWith": [
+    "148168"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83517252449,
+          45.1582881942
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83552,
+          45.1591
+        ]
+      },
+      "id": "osm-location-of-ponsas",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponsas",
+        "link": "http://pleiades.stoa.org/places/593189881/osm-location-of-ponsas"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            4.8346418,
+            45.1576365
+          ],
+          [
+            4.8346632,
+            45.1576199
+          ],
+          [
+            4.8345646,
+            45.1575299
+          ],
+          [
+            4.8345266,
+            45.157529
+          ],
+          [
+            4.834511,
+            45.1575209
+          ],
+          [
+            4.8345054,
+            45.1575072
+          ],
+          [
+            4.8345075,
+            45.1574965
+          ],
+          [
+            4.8345172,
+            45.1574867
+          ],
+          [
+            4.834528,
+            45.1574835
+          ],
+          [
+            4.8345457,
+            45.1574831
+          ],
+          [
+            4.8346667,
+            45.1574075
+          ],
+          [
+            4.8346473,
+            45.1573912
+          ],
+          [
+            4.8346998,
+            45.1573598
+          ],
+          [
+            4.8347206,
+            45.1573738
+          ],
+          [
+            4.8348597,
+            45.1572889
+          ],
+          [
+            4.8349065,
+            45.157258
+          ],
+          [
+            4.8350457,
+            45.1573714
+          ],
+          [
+            4.8351644,
+            45.1574682
+          ],
+          [
+            4.8350422,
+            45.1575482
+          ],
+          [
+            4.8350039,
+            45.1575185
+          ],
+          [
+            4.834826,
+            45.157646
+          ],
+          [
+            4.8347573,
+            45.1576355
+          ],
+          [
+            4.8346829,
+            45.157673
+          ],
+          [
+            4.8346418,
+            45.1576365
+          ]
+        ]
+      },
+      "id": "osm-location-of-chac-teau-de-fontager",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Château de Fontager",
+        "link": "http://pleiades.stoa.org/places/593189881/osm-location-of-chac-teau-de-fontager"
+      }
+    }
+  ]
+}

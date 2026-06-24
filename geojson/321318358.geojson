@@ -1,12 +1,12 @@
 {
   "type": "FeatureCollection",
-  "title": "Medinet Habu",
+  "title": "Mortuary Temple of Ramesses III at Medinet Habu",
   "id": "321318358",
   "bbox": [
-    32.599093,
-    25.7181191,
-    32.6028751,
-    25.7213516
+    32.6000464,
+    25.7191306,
+    32.6014999,
+    25.7205053
   ],
   "description": "The New Kingdom mortuary temple of Ramesses III at Medinet Habu, on the West bank of the Nile near Luxor.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          32.6010440034,
-          25.7196500569
+          32.6007804058,
+          25.7198060351
         ]
       },
       "properties": {
@@ -36,82 +36,50 @@
         "type": "LineString",
         "coordinates": [
           [
-            32.599093,
-            25.7202066
+            32.6004224,
+            25.7205053
           ],
           [
-            32.601163,
-            25.7181191
+            32.6013605,
+            25.7195776
           ],
           [
-            32.6015682,
-            25.7184307
+            32.6014121,
+            25.7196238
           ],
           [
-            32.6017005,
-            25.7183189
+            32.6014999,
+            25.7195412
           ],
           [
-            32.6020291,
-            25.7185797
+            32.6010025,
+            25.7191306
           ],
           [
-            32.602068,
-            25.7186106
+            32.6009094,
+            25.7192172
           ],
           [
-            32.6022731,
-            25.7183587
+            32.6009883,
+            25.7192825
           ],
           [
-            32.6025892,
-            25.7185868
+            32.6000464,
+            25.7201833
           ],
           [
-            32.602349,
-            25.718872
-          ],
-          [
-            32.6028751,
-            25.7193031
-          ],
-          [
-            32.6024162,
-            25.7197257
-          ],
-          [
-            32.600534,
-            25.7213516
-          ],
-          [
-            32.6000205,
-            25.7209526
-          ],
-          [
-            32.599937,
-            25.7210162
-          ],
-          [
-            32.5995969,
-            25.7207618
-          ],
-          [
-            32.5996675,
-            25.7206866
-          ],
-          [
-            32.599093,
-            25.7202066
+            32.6004224,
+            25.7205053
           ]
         ]
       },
-      "id": "osm-location-of-medinet-habu",
+      "id": "mortuary-temple-of-ramesses-iii",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap",
+        "description": "Location based on OpenStreetMap Way after Hölscher 1941.",
         "location_precision": "precise",
-        "title": "OSM location of Medinet Habu",
-        "link": "http://pleiades.stoa.org/places/321318358/osm-location-of-medinet-habu"
+        "title": "OSM location of Mortuary Temple of Ramesses III",
+        "link": "http://pleiades.stoa.org/places/321318358/mortuary-temple-of-ramesses-iii"
       }
     }
   ]

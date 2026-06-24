@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Panagia tou Politi church (Amorgos)",
+  "id": "229548172",
+  "bbox": [
+    25.7813,
+    36.7944,
+    25.7813,
+    36.7944
+  ],
+  "description": "A Christian chapel on the island of Amorgos that succeeds a Classical sanctuary, with architectural elements of the latter in reuse.",
+  "connectsWith": [
+    "599484"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7813,
+          36.7944
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7813,
+          36.7944
+        ]
+      },
+      "id": "topostext-location-of-panagia-tou-politi-church-amorgos",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following Topostext.",
+        "location_precision": "precise",
+        "title": "Topostext location of Panagia tou Politi church (Amorgos)",
+        "link": "http://pleiades.stoa.org/places/229548172/topostext-location-of-panagia-tou-politi-church-amorgos"
+      }
+    }
+  ]
+}

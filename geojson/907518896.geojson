@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed Roman villa",
+  "id": "907518896",
+  "bbox": [
+    12.1283071,
+    41.9266972,
+    12.1286663,
+    41.9270262
+  ],
+  "description": "Ruins of an unnamed Roman villa located near Ladispoli and in the vicinity of the so-called \"Villa di Pompeo\".",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1284675684,
+          41.9268624087
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.1286663,
+            41.9269204
+          ],
+          [
+            12.1283936,
+            41.9266972
+          ],
+          [
+            12.1283071,
+            41.9267557
+          ],
+          [
+            12.1284049,
+            41.9268358
+          ],
+          [
+            12.1283351,
+            41.926883
+          ],
+          [
+            12.12851,
+            41.9270262
+          ],
+          [
+            12.1286663,
+            41.9269204
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romana",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of villa romana",
+        "link": "http://pleiades.stoa.org/places/907518896/osm-location-of-villa-romana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman cistern (Ladispoli)",
+  "id": "506528154",
+  "bbox": [
+    12.0845023,
+    41.9440443,
+    12.0847259,
+    41.9442554
+  ],
+  "description": "Remains of a substantial, two-aisled cistern of the Roman imperial period.",
+  "connectsWith": [
+    "422953"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0846141158,
+          41.9441498571
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0846174,
+            41.9442554
+          ],
+          [
+            12.0845023,
+            41.9440849
+          ],
+          [
+            12.0846109,
+            41.9440443
+          ],
+          [
+            12.0847259,
+            41.9442149
+          ],
+          [
+            12.0846174,
+            41.9442554
+          ]
+        ]
+      },
+      "id": "osm-location-of-cisterna-romana",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of cisterna romana",
+        "link": "http://pleiades.stoa.org/places/506528154/osm-location-of-cisterna-romana"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman Villa La Grottaccia",
+  "id": "533417134",
+  "bbox": [
+    12.0773778,
+    41.9524548,
+    12.0782495,
+    41.9529803
+  ],
+  "description": "The remains of a Roman villa (first to fourth centuries CE) at Ladispoli. The surviving cryptoporticus gives the site its name.",
+  "connectsWith": [
+    "422953"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0778176875,
+          41.9527390555
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0774959,
+            41.9529803
+          ],
+          [
+            12.0773778,
+            41.9528122
+          ],
+          [
+            12.0774064,
+            41.9527632
+          ],
+          [
+            12.0774906,
+            41.9527272
+          ],
+          [
+            12.0775434,
+            41.9526773
+          ],
+          [
+            12.0777345,
+            41.9525896
+          ],
+          [
+            12.0780767,
+            41.9524548
+          ],
+          [
+            12.0782495,
+            41.9526939
+          ],
+          [
+            12.0780972,
+            41.95283
+          ],
+          [
+            12.0776895,
+            41.9529636
+          ],
+          [
+            12.0774959,
+            41.9529803
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-villa-la-grottaccia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Villa La Grottaccia",
+        "link": "http://pleiades.stoa.org/places/533417134/osm-location-of-roman-villa-la-grottaccia"
+      }
+    }
+  ]
+}

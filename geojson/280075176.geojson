@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Greek theater, Monte Iato",
+  "id": "280075176",
+  "bbox": [
+    13.1978937,
+    37.9675546,
+    13.1978937,
+    37.9675546
+  ],
+  "description": "The Greek theater of Monte Iato was built in the fourth century BCE at a site already inhabited by the Elymians. The theater complex had a long life, used for the same purpose in the Roman period and repurposed as a domestic space by Arab occupiers in the seventh century.",
+  "connectsWith": [
+    "462258"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1978937,
+          37.9675546
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1978937,
+          37.9675546
+        ]
+      },
+      "id": "osm-location-of-teatro-greco-monte-iato",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Teatro Greco, Monte Iato",
+        "link": "http://pleiades.stoa.org/places/280075176/osm-location-of-teatro-greco-monte-iato"
+      }
+    }
+  ]
+}

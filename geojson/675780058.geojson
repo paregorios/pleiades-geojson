@@ -4,9 +4,9 @@
   "id": "675780058",
   "bbox": [
     11.5963923,
-    42.5857978,
-    11.5963923,
-    42.5857978
+    42.5848973,
+    11.5991174,
+    42.5862007
   ],
   "description": "The Necropolis of Selva Miccia, located along the road leading to Vulci, contains tombs of the seventh and sixth centuries B.C., corresponding in phase to the elite structure excavated at località Le Sparne.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.5963923,
-          42.5857978
+          11.5978050926,
+          42.5856568707
         ]
       },
       "properties": {

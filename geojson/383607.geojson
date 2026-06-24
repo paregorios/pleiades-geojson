@@ -6,10 +6,15 @@
     10.7701034561,
     44.5628803773,
     10.862188597,
-    44.5950031009
+    44.5979855
   ],
-  "description": "An ancient place, cited: BAtlas 39 H4 Campi Macri",
+  "description": "The Campi Macri, described by both Greek and Latin authors, were located southwest of Mutina (modern Modena) and are noted as the site of a significant pastoral-mercantile center of the first millennium BCE that endured into the first century CE.",
+  "connectsWith": [
+    "383715"
+  ],
   "names": [
+    "Makroí Kámpoi",
+    "Magreta",
     "Campi Macri"
   ],
   "features": [
@@ -18,12 +23,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8160082971,
-          44.5784672169
+          10.8063098486,
+          44.5882263584
         ]
       },
       "properties": {
         "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7966114,
+          44.5979855
+        ]
+      },
+      "id": "osm-location-of-magreta",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Magreta",
+        "link": "http://pleiades.stoa.org/places/383607/osm-location-of-magreta"
       }
     },
     {

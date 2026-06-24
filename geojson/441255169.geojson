@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Altheim-Wagham villa rustica",
+  "id": "441255169",
+  "bbox": [
+    13.262222,
+    48.226112,
+    13.262222,
+    48.226112
+  ],
+  "description": "A Roman \"Villa rustica\" site dating to the second century.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262222,
+          48.226112
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.262222,
+          48.226112
+        ]
+      },
+      "id": "vici-org-location-of-wagham-altheim",
+      "type": "Feature",
+      "properties": {
+        "description": "coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location of Wagham, Altheim",
+        "link": "http://pleiades.stoa.org/places/441255169/vici-org-location-of-wagham-altheim"
+      }
+    }
+  ]
+}

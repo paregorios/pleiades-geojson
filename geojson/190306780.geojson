@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "title": "Unnamed Roman villa (Ladispoli)",
+  "id": "190306780",
+  "bbox": [
+    12.0840008,
+    41.9427623,
+    12.0842073,
+    41.9429078
+  ],
+  "description": "The ruins of a well-appointed Roman Imperial villa are now to be seen immured in the esplanade of one of the beachfronts of Ladispoli, Italy. The visible remains include a portion of a peristyle courtyard with an elaborate mosaic pavement.",
+  "connectsWith": [
+    "422953"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0841098636,
+          41.9428410165
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.0840248,
+            41.9429078
+          ],
+          [
+            12.0841941,
+            41.9428864
+          ],
+          [
+            12.0842073,
+            41.9428748
+          ],
+          [
+            12.0841917,
+            41.9427783
+          ],
+          [
+            12.0841737,
+            41.9427623
+          ],
+          [
+            12.0841161,
+            41.9427658
+          ],
+          [
+            12.0840429,
+            41.9428194
+          ],
+          [
+            12.0840353,
+            41.942815
+          ],
+          [
+            12.0840008,
+            41.9428462
+          ],
+          [
+            12.0840248,
+            41.9429078
+          ]
+        ]
+      },
+      "id": "osm-location-of-vestigia-di-una-villa-di-epoca",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Vestigia di una villa di epoca imperiale",
+        "link": "http://pleiades.stoa.org/places/190306780/osm-location-of-vestigia-di-una-villa-di-epoca"
+      }
+    }
+  ]
+}

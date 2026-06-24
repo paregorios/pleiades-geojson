@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Çemka Höyük",
+  "id": "973850903",
+  "bbox": [
+    41.840618,
+    37.522854,
+    41.840618,
+    37.522854
+  ],
+  "description": "Çemka Höyük is a Pre-Pottery Neolithic site located in Mardin, Türkiye, dating to the tenth millennium BCE.",
+  "connectsWith": [
+    "912964"
+  ],
+  "names": [
+    "Cemlka Hoyuk"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.840618,
+          37.522854
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.840618,
+          37.522854
+        ]
+      },
+      "id": "geohack-location-of-cemka-hoyuk",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "GeoHack location of Çemka Höyük",
+        "link": "http://pleiades.stoa.org/places/973850903/geohack-location-of-cemka-hoyuk"
+      }
+    }
+  ]
+}

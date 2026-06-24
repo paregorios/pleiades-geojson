@@ -3,10 +3,10 @@
   "title": "Arch of Constantine",
   "id": "874299107",
   "bbox": [
-    12.4904941,
-    41.889892,
-    12.4904941,
-    41.889892
+    12.4905081,
+    41.8897062,
+    12.4908255,
+    41.8898183
   ],
   "description": "The Arch of Constantine at Rome, a triumphal arch dedicated in A.D. 315.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.4904941,
-          41.889892
+          12.4906667631,
+          41.8897622321
         ]
       },
       "properties": {
@@ -32,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.4904941,
-          41.889892
+          [
+            12.4905269,
+            41.8898183
+          ],
+          [
+            12.4908255,
+            41.889767
+          ],
+          [
+            12.4908066,
+            41.8897062
+          ],
+          [
+            12.4905081,
+            41.8897574
+          ],
+          [
+            12.4905269,
+            41.8898183
+          ]
         ]
       },
-      "id": "location-of-arch-of-constantine",
+      "id": "osm-location-of-arch-of-constantine",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "location of Arch of Constantine (northwest corner)",
-        "link": "http://pleiades.stoa.org/places/874299107/location-of-arch-of-constantine"
+        "title": "OSM location of Arch of Constantine",
+        "link": "http://pleiades.stoa.org/places/874299107/osm-location-of-arch-of-constantine"
       }
     }
   ]

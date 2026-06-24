@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Clivus Victoriae",
+  "id": "668537796",
+  "bbox": [
+    12.4850347,
+    41.8903751,
+    12.485977,
+    41.8910023
+  ],
+  "description": "The Clivus Victoriae was a steep street located at or near the southwest corner of the Palatine Hill in Rome.",
+  "connectsWith": [
+    "423025",
+    "971691208"
+  ],
+  "names": [
+    "clivus Victoriae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4855101026,
+          41.8906820427
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.485977,
+            41.8910023
+          ],
+          [
+            12.4859472,
+            41.8909813
+          ],
+          [
+            12.4856368,
+            41.8907688
+          ],
+          [
+            12.4855267,
+            41.8906951
+          ],
+          [
+            12.4854676,
+            41.890637
+          ],
+          [
+            12.4854091,
+            41.8906022
+          ],
+          [
+            12.4852504,
+            41.8905044
+          ],
+          [
+            12.4850347,
+            41.8903751
+          ]
+        ]
+      },
+      "id": "osm-location-clivus-victoriae",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location Clivus Victoriae",
+        "link": "http://pleiades.stoa.org/places/668537796/osm-location-clivus-victoriae"
+      }
+    }
+  ]
+}

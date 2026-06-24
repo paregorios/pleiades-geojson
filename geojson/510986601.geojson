@@ -2,11 +2,23 @@
   "type": "FeatureCollection",
   "title": "Ager Venusinus",
   "id": "510986601",
+  "bbox": [
+    15.8253737,
+    40.9671862,
+    15.8287889,
+    40.9704942
+  ],
   "description": "The Ager Venusinus is the territory of ancient Venosa, located in the Basilicata region of Italy.",
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8268758224,
+          40.9690071741
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

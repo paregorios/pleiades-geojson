@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Homarium",
+  "id": "996927949",
+  "description": "The Homarium (ca. 371 BCE) served as the common sanctuary of the Achaean League.",
+  "connectsWith": [
+    "570049"
+  ],
+  "names": [
+    "Homarion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
