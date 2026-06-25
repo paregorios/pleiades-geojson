@@ -9,6 +9,9 @@
     40.625917
   ],
   "description": "An ancient place, cited: BAtlas 45 E3 Laterza",
+  "names": [
+    "Laterza"
+  ],
   "features": [
     {
       "type": "Feature",
