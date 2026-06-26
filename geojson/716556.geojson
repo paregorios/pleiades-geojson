@@ -9,6 +9,10 @@
     31.99479
   ],
   "description": "An ancient place, cited: None",
+  "names": [
+    "el-Gara",
+    "Al Qa‘rah"
+  ],
   "features": [
     {
       "type": "Feature",

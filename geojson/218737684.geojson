@@ -3,10 +3,10 @@
   "title": "Santuario di Santa Maria Regina di Anglona",
   "id": "218737684",
   "bbox": [
-    16.5574929,
-    40.2443267,
-    16.5574929,
-    40.2443267
+    16.5572628,
+    40.2441702,
+    16.5577676,
+    40.2444643
   ],
   "description": "A Marian sanctuary located on the hill of Anglona in the province of Matera, Italy, that originates in the eleventh century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.5574929,
-          40.2443267
+          16.557504779,
+          40.2443190201
         ]
       },
       "properties": {
@@ -28,19 +28,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.5574929,
-          40.2443267
+          [
+            16.5573735,
+            40.2444643
+          ],
+          [
+            16.5574083,
+            40.2444499
+          ],
+          [
+            16.5574245,
+            40.2444432
+          ],
+          [
+            16.5577316,
+            40.244317
+          ],
+          [
+            16.5577103,
+            40.2442868
+          ],
+          [
+            16.5577676,
+            40.2442633
+          ],
+          [
+            16.5577298,
+            40.2442096
+          ],
+          [
+            16.5576899,
+            40.244226
+          ],
+          [
+            16.5576685,
+            40.2441958
+          ],
+          [
+            16.5576509,
+            40.2442031
+          ],
+          [
+            16.5576277,
+            40.2441702
+          ],
+          [
+            16.557525,
+            40.2442124
+          ],
+          [
+            16.5575464,
+            40.2442427
+          ],
+          [
+            16.557394,
+            40.2443054
+          ],
+          [
+            16.5573729,
+            40.2442755
+          ],
+          [
+            16.5572691,
+            40.2443181
+          ],
+          [
+            16.5573161,
+            40.2443848
+          ],
+          [
+            16.5572628,
+            40.2444067
+          ],
+          [
+            16.5572764,
+            40.2444261
+          ],
+          [
+            16.5572932,
+            40.2444498
+          ],
+          [
+            16.5573473,
+            40.2444275
+          ],
+          [
+            16.5573735,
+            40.2444643
+          ]
         ]
       },
-      "id": "osm-location-of-santuario-di-santa-maria-regina-di",
+      "id": "osm-location-santuario-santa-maria-regina-danglona",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Santuario di Santa Maria Regina di Anglona",
-        "link": "http://pleiades.stoa.org/places/218737684/osm-location-of-santuario-di-santa-maria-regina-di"
+        "title": "OSM Location: Santuario Santa Maria Regina D'Anglona",
+        "link": "http://pleiades.stoa.org/places/218737684/osm-location-santuario-santa-maria-regina-danglona"
       }
     }
   ]

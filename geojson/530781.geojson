@@ -1,22 +1,22 @@
 {
   "type": "FeatureCollection",
-  "title": "Ag. Sophia",
+  "title": "Ag. Sophia (Mytikas)",
   "id": "530781",
   "bbox": [
-    20.971374,
-    38.674675,
-    20.971374,
-    38.674675
+    20.9600793,
+    38.6751482,
+    20.9607525,
+    38.6755315
   ],
-  "description": "An ancient place, cited: BAtlas 54 C4 Ag. Sophia",
+  "description": "An early Christian church located just east of the modern Greek village of Mytikas in the municipality of Xeromero (Aetolia-Acarnania).",
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.971374,
-          38.674675
+          20.9604066364,
+          38.6753306692
         ]
       },
       "properties": {
@@ -25,19 +25,57 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          20.971374,
-          38.674675
+          [
+            20.9607096,
+            38.6754749
+          ],
+          [
+            20.9602912,
+            38.6755315
+          ],
+          [
+            20.9601303,
+            38.6755021
+          ],
+          [
+            20.9601034,
+            38.6753367
+          ],
+          [
+            20.9600793,
+            38.6751943
+          ],
+          [
+            20.9602268,
+            38.6751482
+          ],
+          [
+            20.9605004,
+            38.6751503
+          ],
+          [
+            20.9606828,
+            38.6751734
+          ],
+          [
+            20.9607525,
+            38.6752969
+          ],
+          [
+            20.9607096,
+            38.6754749
+          ]
         ]
       },
-      "id": "darmc-location-2165",
+      "id": "osm-location-byzantine-church-of-ag-sophia",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Location based on OpenStreetMap. Dates after BAtldir.",
         "location_precision": "precise",
-        "title": "DARMC location 2165",
-        "link": "http://pleiades.stoa.org/places/530781/darmc-location-2165"
+        "title": "OSM Location: Byzantine Church of Ag. Sophia",
+        "link": "http://pleiades.stoa.org/places/530781/osm-location-byzantine-church-of-ag-sophia"
       }
     }
   ]

@@ -3,14 +3,15 @@
   "title": "Apis",
   "id": "716526",
   "bbox": [
-    27.042137,
-    31.398216,
-    27.042137,
-    31.398216
+    27.0248008,
+    31.3987084,
+    27.0271575,
+    31.4013389
   ],
-  "description": "An ancient place, cited: None",
+  "description": "The ancient Apis may correspond to the site of Zawiyet Umm el-Rakham where a substantial Pharaonic fortress of the New Kingdom is known. Zawiyet Umm ar-Racham is located about 310 km west of Alexandria. The site was identified in 1946 and was sporadically examined until scientific excavations under Steven Snape were carried out between 1994 and 2001.",
   "names": [
-    "Apis"
+    "Apis",
+    "Zawiyet Umm el-Rakham"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.042137,
-          31.398216
+          27.0259557176,
+          31.4000379994
         ]
       },
       "properties": {
@@ -28,19 +29,117 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.042137,
-          31.398216
+          [
+            27.0260909,
+            31.4013389
+          ],
+          [
+            27.0271575,
+            31.4006115
+          ],
+          [
+            27.0269948,
+            31.4003041
+          ],
+          [
+            27.0269653,
+            31.4002286
+          ],
+          [
+            27.0269868,
+            31.4001759
+          ],
+          [
+            27.0270699,
+            31.4001118
+          ],
+          [
+            27.0262572,
+            31.3993403
+          ],
+          [
+            27.025651,
+            31.398761
+          ],
+          [
+            27.0256805,
+            31.3987084
+          ],
+          [
+            27.0254821,
+            31.3987908
+          ],
+          [
+            27.025407,
+            31.3988114
+          ],
+          [
+            27.0254096,
+            31.3989946
+          ],
+          [
+            27.0253882,
+            31.399061
+          ],
+          [
+            27.0253265,
+            31.3991479
+          ],
+          [
+            27.0248812,
+            31.3995509
+          ],
+          [
+            27.0249322,
+            31.3996356
+          ],
+          [
+            27.0249,
+            31.3997707
+          ],
+          [
+            27.0248008,
+            31.3998668
+          ],
+          [
+            27.0249537,
+            31.4000889
+          ],
+          [
+            27.0250234,
+            31.4001851
+          ],
+          [
+            27.025179,
+            31.4003499
+          ],
+          [
+            27.0253801,
+            31.4005926
+          ],
+          [
+            27.0258924,
+            31.4011512
+          ],
+          [
+            27.0259568,
+            31.4012176
+          ],
+          [
+            27.0260909,
+            31.4013389
+          ]
         ]
       },
-      "id": "darmc-location-11429",
+      "id": "osm-location-of-zawiyet-umm-el-rakham",
       "type": "Feature",
       "properties": {
-        "description": "1:1 million scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 11429",
-        "link": "http://pleiades.stoa.org/places/716526/darmc-location-11429"
+        "title": "OSM location of Zawiyet Umm el-Rakham",
+        "link": "http://pleiades.stoa.org/places/716526/osm-location-of-zawiyet-umm-el-rakham"
       }
     }
   ]

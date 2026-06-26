@@ -3,10 +3,10 @@
   "title": "Pythis/Artos Akron",
   "id": "716626",
   "bbox": [
-    27.0,
-    31.0,
-    28.0,
-    32.0
+    27.3491114,
+    31.3654829,
+    27.3491114,
+    31.3654829
   ],
   "description": "An ancient place, cited: None",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5,
-          31.5
+          27.3491114,
+          31.3654829
         ]
       },
       "properties": {
@@ -29,39 +29,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              27.0,
-              31.0
-            ],
-            [
-              27.0,
-              32.0
-            ],
-            [
-              28.0,
-              32.0
-            ],
-            [
-              28.0,
-              31.0
-            ],
-            [
-              27.0,
-              31.0
-            ]
-          ]
+          27.3491114,
+          31.3654829
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-of-ras-allem-rum",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/716626/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ras Allem Rum",
+        "link": "http://pleiades.stoa.org/places/716626/osm-location-of-ras-allem-rum"
       }
     }
   ]

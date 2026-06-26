@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cascina Torretta",
+  "id": "166806801",
+  "bbox": [
+    9.0240896,
+    45.333738,
+    9.0240896,
+    45.333738
+  ],
+  "description": "Approximately 41 burials from a Roman cremation necropolis were excavated in 2021 at Cascina Torretta, a locality in the municipality of Calvignasco (southwest of Milan, Italy). The tombs were poorly preserved, appeared to be relatively shallow pit graves, and were likely connected to a rural settlement.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0240896,
+          45.333738
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0240896,
+          45.333738
+        ]
+      },
+      "id": "osm-location-of-cascina-torretta",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Cascina Torretta",
+        "link": "http://pleiades.stoa.org/places/166806801/osm-location-of-cascina-torretta"
+      }
+    }
+  ]
+}

@@ -3,14 +3,17 @@
   "title": "Zephyrion Akron",
   "id": "716652",
   "bbox": [
-    27.0,
-    31.0,
-    28.0,
-    32.0
+    27.06451,
+    31.40629,
+    27.06451,
+    31.40629
   ],
   "description": "An ancient place, cited: None",
   "names": [
-    "Zephyrion Akron"
+    "Zephyrion Akron",
+    "Zephyrion",
+    "promunturium Zephyrion",
+    "Ras Umm-el-Rakham"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5,
-          31.5
+          27.06451,
+          31.40629
         ]
       },
       "properties": {
@@ -28,39 +31,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              27.0,
-              31.0
-            ],
-            [
-              27.0,
-              32.0
-            ],
-            [
-              28.0,
-              32.0
-            ],
-            [
-              28.0,
-              31.0
-            ],
-            [
-              27.0,
-              31.0
-            ]
-          ]
+          27.06451,
+          31.40629
         ]
       },
-      "id": "undetermined",
+      "id": "dare-location-of-zephyrion-akron-ras-umm-el-rakham",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/716652/undetermined"
+        "description": "Coordinates following Digital Atlas of the Roman Empire (2013-11-22)",
+        "location_precision": "precise",
+        "title": "DARE location of Zephyrion Akron, Ras Umm-el-Rakham",
+        "link": "http://pleiades.stoa.org/places/716652/dare-location-of-zephyrion-akron-ras-umm-el-rakham"
       }
     }
   ]

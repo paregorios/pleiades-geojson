@@ -9,6 +9,9 @@
     28.357329
   ],
   "description": "An ancient place, cited: None",
+  "connectsWith": [
+    "716654"
+  ],
   "features": [
     {
       "type": "Feature",

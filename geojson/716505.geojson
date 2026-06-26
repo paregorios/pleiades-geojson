@@ -3,14 +3,14 @@
   "title": "Ainesipp(ei)a/Nesoi Inss.",
   "id": "716505",
   "bbox": [
-    27.0,
-    31.0,
-    28.0,
-    32.0
+    26.9821459,
+    31.4406363,
+    26.9821459,
+    31.4406363
   ],
   "description": "An ancient place, cited: None",
   "names": [
-    " Ainesippeia",
+    "Ainesippeia",
     " Ainesippa",
     "Nesoi"
   ],
@@ -20,8 +20,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.5,
-          31.5
+          26.9821459,
+          31.4406363
         ]
       },
       "properties": {
@@ -30,39 +30,19 @@
     },
     {
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              27.0,
-              31.0
-            ],
-            [
-              27.0,
-              32.0
-            ],
-            [
-              28.0,
-              32.0
-            ],
-            [
-              28.0,
-              31.0
-            ],
-            [
-              27.0,
-              31.0
-            ]
-          ]
+          26.9821459,
+          31.4406363
         ]
       },
-      "id": "undetermined",
+      "id": "osm-location-of-ras-abu-laho",
       "type": "Feature",
       "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Undetermined location",
-        "link": "http://pleiades.stoa.org/places/716505/undetermined"
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ras Abu Laho",
+        "link": "http://pleiades.stoa.org/places/716505/osm-location-of-ras-abu-laho"
       }
     }
   ]
