@@ -2,7 +2,10 @@
   "type": "FeatureCollection",
   "title": "Absasallensis",
   "id": "321633",
-  "description": "An ancient place, cited: BAtlas 32 unlocated Absasallensis",
+  "description": "A late antique \"episcopus Absasallensis\" is attested, but the bishopric seems to have been nowhere else mentioned. It probably lay in Africa proconsularis.",
+  "connectsWith": [
+    "991341"
+  ],
   "names": [
     "Absasallensis"
   ],

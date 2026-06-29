@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "title": "Santa Croce in Montis Vernae",
+  "id": "171577116",
+  "bbox": [
+    14.3269164,
+    41.1829353,
+    14.3273402,
+    41.1831997
+  ],
+  "description": "A Benedictine abbey founded in 982 on the Piana di Monte Verna.",
+  "connectsWith": [
+    "432960"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3271077598,
+          41.1830879127
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.3269271,
+            41.1831916
+          ],
+          [
+            14.3269164,
+            41.1829373
+          ],
+          [
+            14.3270666,
+            41.1829353
+          ],
+          [
+            14.327072,
+            41.1830463
+          ],
+          [
+            14.3273294,
+            41.1830483
+          ],
+          [
+            14.3273402,
+            41.1831997
+          ],
+          [
+            14.3269271,
+            41.1831916
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of ruderi convento benedettino",
+        "link": "http://pleiades.stoa.org/places/171577116/osm-location"
+      }
+    }
+  ]
+}

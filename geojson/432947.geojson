@@ -3,20 +3,23 @@
   "title": "Monte Castellone 2",
   "id": "432947",
   "bbox": [
-    14.324348,
-    41.130621,
-    14.324348,
-    41.130621
+    14.3281081,
+    41.1322626,
+    14.3281081,
+    41.1322626
   ],
   "description": "An ancient place, cited: BAtlas 44 F3 Monte Castellone 2",
+  "names": [
+    "Monte Castellone 2"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.324348,
-          41.130621
+          14.3281081,
+          41.1322626
         ]
       },
       "properties": {
@@ -27,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.324348,
-          41.130621
+          14.3281081,
+          41.1322626
         ]
       },
-      "id": "darmc-location-18638",
+      "id": "osm-location-of-resti-di-mura-di-cinta-megalitiche",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18638",
-        "link": "http://pleiades.stoa.org/places/432947/darmc-location-18638"
+        "title": "OSM location of Resti di mura di cinta megalitiche",
+        "link": "http://pleiades.stoa.org/places/432947/osm-location-of-resti-di-mura-di-cinta-megalitiche"
       }
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte Genga",
+  "id": "356090423",
+  "bbox": [
+    12.970883,
+    43.4026849,
+    12.9710243,
+    43.4028171
+  ],
+  "description": "A stone bridge at Genga, Italy, that is purportedly of Roman origin.",
+  "names": [
+    "Ponte Genga"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97095365,
+          43.402751
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.970883,
+            43.4026849
+          ],
+          [
+            12.9710243,
+            43.4028171
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-romano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte romano",
+        "link": "http://pleiades.stoa.org/places/356090423/osm-location-of-ponte-romano"
+      }
+    }
+  ]
+}
