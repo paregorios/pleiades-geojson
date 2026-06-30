@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Aphrodite on the Acrocorinth",
+  "id": "516817907",
+  "bbox": [
+    22.87548,
+    37.89174,
+    22.87548,
+    37.89174
+  ],
+  "description": "A temple to Aphrodite on the Acrocorinth likely constructed in the 5th century BCE. According to Plutarch, the women of Corinth prayed to the statue of the armed Aphrodite to instil the 'eros' of battle in their men during the Greco-Persian war. The armed Aphrodite was a significant icon and motif of the Acrocorinthian temple, that continued after the destruction of Corinth by the Romans in 146 BCE. The temple is also famous for supposed sacred prostitution, as described by Strabo, but these claims are unverified.",
+  "connectsWith": [
+    "570059"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.87548,
+          37.89174
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.87548,
+          37.89174
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location: proposed site of temple",
+        "link": "http://pleiades.stoa.org/places/516817907/topostext-location"
+      }
+    }
+  ]
+}

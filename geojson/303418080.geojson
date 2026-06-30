@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Castor (Sparta)",
+  "id": "303418080",
+  "description": "A Sanctuary of the Dioscouroi at Sparta described by Pausanias to be the burial place of Castor.",
+  "connectsWith": [
+    "570685"
+  ],
+  "names": [
+    "Tomb of Castor"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

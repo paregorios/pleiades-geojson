@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Poseidon Hippios (Mantineia)",
+  "id": "252314017",
+  "bbox": [
+    22.40816,
+    37.60256,
+    22.40816,
+    37.60256
+  ],
+  "description": "Sanctuary to Poseidon at Mantineia, near the village of Milia. According to Pausanias, it was located near the Arnis spring.",
+  "connectsWith": [
+    "570459"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.40816,
+          37.60256
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.40816,
+          37.60256
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/252314017/topostext-location"
+      }
+    }
+  ]
+}

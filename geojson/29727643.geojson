@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Despoina at Lykosoura",
+  "id": "29727643",
+  "bbox": [
+    22.03143,
+    37.38957,
+    22.03143,
+    37.38957
+  ],
+  "description": "An ancient sanctuary to Despoina located at Lykosoura, Arcadia.",
+  "connectsWith": [
+    "570467",
+    "570444"
+  ],
+  "names": [
+    "Sanctuary of the Mistress at Lykosoura"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.03143,
+          37.38957
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.03143,
+          37.38957
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/29727643/topostext-location"
+      }
+    }
+  ]
+}

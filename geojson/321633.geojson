@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Absasallensis",
   "id": "321633",
+  "bbox": [
+    5.0,
+    35.0,
+    10.0,
+    40.0
+  ],
   "description": "A late antique \"episcopus Absasallensis\" is attested, but the bishopric seems to have been nowhere else mentioned. It probably lay in Africa proconsularis.",
   "connectsWith": [
     "991341"
@@ -12,20 +18,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5,
+          37.5
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/321633/batlas-location"
       }
     }
   ]

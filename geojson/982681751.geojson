@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of the Dioscouri at Athens",
+  "id": "982681751",
+  "bbox": [
+    23.7293,
+    37.9713,
+    23.7293,
+    37.9713
+  ],
+  "description": "Also known as the Anakeion, located likely East of the Acropolis.",
+  "connectsWith": [
+    "638356144"
+  ],
+  "names": [
+    "Anakeion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7293,
+          37.9713
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7293,
+          37.9713
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/982681751/topostext-location"
+      }
+    }
+  ]
+}
