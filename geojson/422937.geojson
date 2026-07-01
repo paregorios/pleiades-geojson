@@ -9,6 +9,9 @@
     41.855843
   ],
   "description": "An ancient place, cited: BAtlas 43 D2 Grotta del Mortale",
+  "names": [
+    "Grotta del Mortale"
+  ],
   "features": [
     {
       "type": "Feature",

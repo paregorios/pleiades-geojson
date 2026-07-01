@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "title": "Volcanal",
+  "id": "980748445",
+  "bbox": [
+    12.4832952,
+    41.8902165,
+    12.4908629,
+    41.8931509
+  ],
+  "description": "The Volcanal was an open-air sanctuary of Vulcan located in the valley of the Forum Romanum on the slopes of the Capitoline Hill. The earliest phases of the sanctuary likely predate the forum itself.",
+  "connectsWith": [
+    "423025",
+    "502866838"
+  ],
+  "names": [
+    "Volcanal",
+    "area Vulcani"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4869077538,
+          41.891643636
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
