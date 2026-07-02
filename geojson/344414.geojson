@@ -3,15 +3,19 @@
   "title": "Kinyps (river)",
   "id": "344414",
   "bbox": [
-    13.8324674,
-    32.1625775,
-    14.4483329,
-    32.529779
+    14.1266181,
+    32.1685009,
+    14.323087,
+    32.3822051
   ],
   "description": "An ancient place, cited: BAtlas 35 G2 Kinyps fl.",
   "names": [
     "Kinyps",
-    "Cinyps fluvius"
+    "Cinyps fluvius",
+    "Wadi Ka'am",
+    "Wādī Ki‘ām",
+    "Wadi Caam",
+    "Uadi Caam"
   ],
   "features": [
     {
@@ -19,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.1451676755,
-          32.3129559997
+          14.2346805393,
+          32.2672253221
         ]
       },
       "properties": {

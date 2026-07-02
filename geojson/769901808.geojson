@@ -6,7 +6,7 @@
     14.4899549,
     40.7505879,
     14.4901502,
-    40.7508048
+    40.7507934
   ],
   "description": "This house (I.8.2) opens onto the Via dell'Abbondanza and is connected to the taberna at I.8.1 and the shop at I.8.3. It was named the \"Casa del pomarius Felix\" from electoral programmata painted on its facade. It has a typical atrium-peristyle plan.",
   "connectsWith": [
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4900358628,
-          40.7506975862
+          14.4900379391,
+          40.7506926834
         ]
       },
       "properties": {

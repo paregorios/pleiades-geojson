@@ -4,9 +4,9 @@
   "id": "600795755",
   "bbox": [
     12.5577996,
-    42.6394761,
-    12.5577996,
-    42.6394761
+    42.6394759,
+    12.5583267,
+    42.6397063
   ],
   "description": "The civic Basilica of Carsulae is located on the forum.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5577996,
-          42.6394761
+          12.5580481414,
+          42.6395916345
         ]
       },
       "properties": {

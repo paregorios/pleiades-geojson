@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Santi Nereo e Achilleo",
+  "id": "778154279",
+  "bbox": [
+    12.4945396,
+    41.8800072,
+    12.4949895,
+    41.8803405
+  ],
+  "description": "The basilica of the two Roman martyr saints Nereus and Achilleus has its origins in the fourth century as the Titulus Fasciolae. This church was listed as titulus Sanctorum Nerei et Achillei in 595. The titulus was rebuilt under Leo III in 814 but was abandoned by 1320. For the Jubilee of 1475, Pope Sixtus IV restored it. It was subsequently refurbished in 1600 under Cardinal Cesare Baronio.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "Santi Nereo e Achilleo"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4947676814,
+          41.8801762145
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4947049,
+            41.8800072
+          ],
+          [
+            12.4945396,
+            41.880135
+          ],
+          [
+            12.4948224,
+            41.8803405
+          ],
+          [
+            12.4948557,
+            41.8803148
+          ],
+          [
+            12.4948639,
+            41.8803207
+          ],
+          [
+            12.4949507,
+            41.8802536
+          ],
+          [
+            12.4949425,
+            41.8802477
+          ],
+          [
+            12.4949895,
+            41.8802114
+          ],
+          [
+            12.4947049,
+            41.8800072
+          ]
+        ]
+      },
+      "id": "osm-location-of-chiesa-dei-santi-nereo-e-achilleo",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Chiesa dei Santi Nereo e Achilleo",
+        "link": "http://pleiades.stoa.org/places/778154279/osm-location-of-chiesa-dei-santi-nereo-e-achilleo"
+      }
+    }
+  ]
+}

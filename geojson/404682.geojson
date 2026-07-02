@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "404682",
   "bbox": [
-    10.0,
-    43.0,
-    10.5,
-    43.5
+    10.4467301,
+    43.3584548,
+    10.4491627,
+    43.3604011
   ],
   "description": "An ancient place, cited: BAtlas 41 C3 unnamed bridge (at Calignaia, NW Vada Volaterrana)",
   "connectsWith": [
@@ -18,49 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.25,
-          43.25
+          10.4480452488,
+          43.3594246455
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              10.0,
-              43.0
-            ],
-            [
-              10.0,
-              43.5
-            ],
-            [
-              10.5,
-              43.5
-            ],
-            [
-              10.5,
-              43.0
-            ],
-            [
-              10.0,
-              43.0
-            ]
-          ]
-        ]
-      },
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "rough",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/404682/batlas-location"
       }
     }
   ]

@@ -3,10 +3,10 @@
   "title": "Avezzano Roman villa",
   "id": "640346165",
   "bbox": [
-    13.4065936,
-    42.0464996,
-    13.4065936,
-    42.0464996
+    13.4062959,
+    42.0461303,
+    13.4067902,
+    42.0464983
   ],
   "description": "A large Roman villa near Alba Fucens that originates in the second century B.C.",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.4065936,
-          42.0464996
+          13.4065430432,
+          42.0463143172
         ]
       },
       "properties": {

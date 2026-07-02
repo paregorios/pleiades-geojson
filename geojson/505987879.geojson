@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Le Muracche Roman villa",
+  "id": "505987879",
+  "bbox": [
+    13.9326875,
+    42.8033449,
+    13.9338239,
+    42.803986
+  ],
+  "description": "A villa rustica at Tortoreto, in the province of Teramo, with occupation beginning in the Late Republican period.",
+  "names": [
+    "Villa rustica \"Le Muracche\""
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9332763896,
+          42.8036620874
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.9334079,
+            42.803986
+          ],
+          [
+            13.9326875,
+            42.8038465
+          ],
+          [
+            13.9328426,
+            42.8034772
+          ],
+          [
+            13.933289,
+            42.8035655
+          ],
+          [
+            13.9333808,
+            42.8033449
+          ],
+          [
+            13.9338239,
+            42.8034308
+          ],
+          [
+            13.9338196,
+            42.803686
+          ],
+          [
+            13.9337057,
+            42.8037136
+          ],
+          [
+            13.9336076,
+            42.8037746
+          ],
+          [
+            13.9334303,
+            42.8039617
+          ],
+          [
+            13.9334079,
+            42.803986
+          ]
+        ]
+      },
+      "id": "osm-location-of-domus-romana-le-muracche",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Domus romana \"Le Muracche\"",
+        "link": "http://pleiades.stoa.org/places/505987879/osm-location-of-domus-romana-le-muracche"
+      }
+    }
+  ]
+}

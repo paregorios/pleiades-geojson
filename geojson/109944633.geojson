@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa romana della Standa a Fiano Romano",
+  "id": "109944633",
+  "bbox": [
+    12.5915684,
+    42.1387521,
+    12.5922818,
+    42.1392891
+  ],
+  "description": "A Roman villa located along the Via Tiberina in present-day Fiano Romano, the footprint of which is preserved within a commercial complex.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5919251,
+          42.1390206
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.5915684,
+            42.13877
+          ],
+          [
+            12.5915929,
+            42.1392891
+          ],
+          [
+            12.5922818,
+            42.1392712
+          ],
+          [
+            12.5922573,
+            42.1387521
+          ],
+          [
+            12.5915684,
+            42.13877
+          ]
+        ]
+      },
+      "id": "osm-location-of-villa-romana-della-standa-a-fiano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of villa romana della Standa a Fiano Romano",
+        "link": "http://pleiades.stoa.org/places/109944633/osm-location-of-villa-romana-della-standa-a-fiano"
+      }
+    }
+  ]
+}
