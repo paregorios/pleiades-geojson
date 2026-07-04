@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Republican-period temple, Fabrateria Nova",
+  "id": "310265417",
+  "bbox": [
+    13.5568196,
+    41.5190995,
+    13.5571068,
+    41.5193367
+  ],
+  "description": "A Late Republican temple at Fabrateria Nova.",
+  "connectsWith": [
+    "432825"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5569632115,
+          41.5192180794
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.5568196,
+            41.5192952
+          ],
+          [
+            13.5570416,
+            41.5193367
+          ],
+          [
+            13.5571068,
+            41.5191409
+          ],
+          [
+            13.5568848,
+            41.5190995
+          ],
+          [
+            13.5568196,
+            41.5192952
+          ]
+        ]
+      },
+      "id": "osm-location-of-fabrateria-nova-tempio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Fabrateria Nova tempio repubblicano",
+        "link": "http://pleiades.stoa.org/places/310265417/osm-location-of-fabrateria-nova-tempio"
+      }
+    }
+  ]
+}
