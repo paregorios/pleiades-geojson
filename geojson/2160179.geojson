@@ -5,8 +5,8 @@
   "bbox": [
     14.2095822,
     40.8272848,
-    14.2095822,
-    40.8272848
+    14.2174679,
+    40.8296033
   ],
   "description": "A rock-cut tunnel of the Via Domitiana built during the first century BC under the direction of Lucius Cocceius Auctus.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2095822,
-          40.8272848
+          14.21352505,
+          40.82844405
         ]
       },
       "properties": {

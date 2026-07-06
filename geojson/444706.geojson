@@ -9,6 +9,9 @@
     41.5
   ],
   "description": "An ancient place, cited: BAtlas 45 C2 unnamed centuriation (E Herdoniae)",
+  "connectsWith": [
+    "442613"
+  ],
   "features": [
     {
       "type": "Feature",

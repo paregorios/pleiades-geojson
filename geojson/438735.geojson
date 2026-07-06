@@ -3,6 +3,9 @@
   "title": "Ferentinum Novum",
   "id": "438735",
   "description": "An ancient place, cited: BAtlas 44 unlocated Ferentinum Novum",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Ferentinum Novum"
   ],

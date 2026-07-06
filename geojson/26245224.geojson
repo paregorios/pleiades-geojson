@@ -3,10 +3,10 @@
   "title": "Casa della Regina Carolina",
   "id": "26245224",
   "bbox": [
-    14.4862681,
-    40.7485218,
-    14.4862681,
-    40.7485218
+    14.4862436,
+    40.7485155,
+    14.4862436,
+    40.7485155
   ],
   "description": "A domus at Pompeii partially excavated in the nineteenth century.",
   "connectsWith": [
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.4862681,
-          40.7485218
+          14.4862436,
+          40.7485155
         ]
       },
       "properties": {

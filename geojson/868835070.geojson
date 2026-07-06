@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "House of Thiasus",
+  "id": "868835070",
+  "bbox": [
+    14.488889,
+    40.752222,
+    14.488889,
+    40.752222
+  ],
+  "description": "A domus at Pompeii located on Via Nola in insula 10 of Regio IX. Partial excavation at the site occurred in 1888; scientific excavations resumed in 2023. Epigraphic evidence suggests that one of the domus' owners was connected to the duovir Aulus Rustius Verus. In February 2025, a mid-first-century BCE room with a painted Dionysiac cycle was discovered.",
+  "connectsWith": [
+    "680072866"
+  ],
+  "names": [
+    "House of Thiasus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.488889,
+          40.752222
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.488889,
+          40.752222
+        ]
+      },
+      "id": "imagery-location-of-house-of-thiasus",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location of House of Thiasus",
+        "link": "http://pleiades.stoa.org/places/868835070/imagery-location-of-house-of-thiasus"
+      }
+    }
+  ]
+}
