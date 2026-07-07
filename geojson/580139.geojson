@@ -3,10 +3,10 @@
   "title": "Zeus Panhellenios sanctuary (Aegina)",
   "id": "580139",
   "bbox": [
-    23.497615,
-    37.7077746,
-    23.497615,
-    37.7077746
+    23.4975105,
+    37.7077333,
+    23.4979256,
+    37.7079324
   ],
   "description": "An oracular mountaintop sanctuary of Zeus on the island of Aegina.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.497615,
-          37.7077746
+          23.4977180672,
+          37.7078328279
         ]
       },
       "properties": {
@@ -32,19 +32,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          23.497615,
-          37.7077746
+          [
+            23.4975105,
+            37.7078863
+          ],
+          [
+            23.4975397,
+            37.7077333
+          ],
+          [
+            23.4979256,
+            37.7077793
+          ],
+          [
+            23.4978964,
+            37.7079324
+          ],
+          [
+            23.4975105,
+            37.7078863
+          ]
         ]
       },
-      "id": "osm-location-of-sanctuary-of-zeus-pan-hellenios",
+      "id": "osm-location-sanctuary-of-zeus-pan-hellenios",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Sanctuary of Zeus (Pan)Hellenios",
-        "link": "http://pleiades.stoa.org/places/580139/osm-location-of-sanctuary-of-zeus-pan-hellenios"
+        "title": "OSM location: Sanctuary of Zeus (Pan)Hellenios",
+        "link": "http://pleiades.stoa.org/places/580139/osm-location-sanctuary-of-zeus-pan-hellenios"
       }
     }
   ]

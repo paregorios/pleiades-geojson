@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Lesche of the Cnidians (Delphi)",
+  "id": "661181030",
+  "bbox": [
+    22.5011,
+    38.48304,
+    22.5011,
+    38.48304
+  ],
+  "description": "Built within the sanctuary of Apollo in Delphi. Known for two famous paintings by Polygnotus described by Pausanias.",
+  "connectsWith": [
+    "464482219"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5011,
+          38.48304
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5011,
+          38.48304
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/661181030/topostext-location"
+      }
+    }
+  ]
+}

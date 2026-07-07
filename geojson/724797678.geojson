@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte di San Francesco",
+  "id": "724797678",
+  "bbox": [
+    13.0891555,
+    41.9241392,
+    13.089184,
+    41.9244066
+  ],
+  "description": "The Ponte di San Francesco or Bridge of Saint Francis is a single-span medieval segmental arch bridge that crosses the River Aniene in Subiaco, Lazio, Italy. It was built in 1358.",
+  "connectsWith": [
+    "422834"
+  ],
+  "names": [
+    "Ponte di San Francesco"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08916975,
+          41.9242729
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.089184,
+            41.9244066
+          ],
+          [
+            13.0891555,
+            41.9241392
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-san-francesco",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte San Francesco",
+        "link": "http://pleiades.stoa.org/places/724797678/osm-location-of-ponte-san-francesco"
+      }
+    }
+  ]
+}

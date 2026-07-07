@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Le Carrozze-Gravetta",
+  "id": "630865968",
+  "bbox": [
+    15.8076053,
+    41.0585511,
+    15.8084978,
+    41.0590824
+  ],
+  "description": "Le Carrozze-Gravetta, the site of a Daunian sanctuary of the fourth century BCE.",
+  "connectsWith": [
+    "442584"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8080385754,
+          41.0588310176
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.8081203,
+            41.0590824
+          ],
+          [
+            15.8076053,
+            41.0588781
+          ],
+          [
+            15.8078804,
+            41.0585511
+          ],
+          [
+            15.8084978,
+            41.0588423
+          ],
+          [
+            15.8081203,
+            41.0590824
+          ]
+        ]
+      },
+      "id": "osm-location-of-le-carrozze-gravetta",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Le Carrozze-Gravetta",
+        "link": "http://pleiades.stoa.org/places/630865968/osm-location-of-le-carrozze-gravetta"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Forentani",
   "id": "438739",
   "description": "An ancient place, cited: BAtlas 44 unlocated Forentani",
+  "connectsWith": [
+    "441075550"
+  ],
   "names": [
     "Forentani"
   ],

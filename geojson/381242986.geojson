@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "title": "Palazzo degli Spiriti",
+  "id": "381242986",
+  "bbox": [
+    14.1904687,
+    40.7942007,
+    14.1908176,
+    40.7944427
+  ],
+  "description": "A seaside architectural complex of the Roman period in the Marechiaro locality of the greater metropolitan area of Naples, Italy.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1906444937,
+          40.7943281866
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.1904687,
+            40.7942952
+          ],
+          [
+            14.1906512,
+            40.7943957
+          ],
+          [
+            14.190642,
+            40.794418
+          ],
+          [
+            14.1906596,
+            40.794437
+          ],
+          [
+            14.1906811,
+            40.7944121
+          ],
+          [
+            14.1907374,
+            40.7944427
+          ],
+          [
+            14.1908176,
+            40.7943631
+          ],
+          [
+            14.1907623,
+            40.7943291
+          ],
+          [
+            14.1907593,
+            40.7943113
+          ],
+          [
+            14.1905533,
+            40.7942007
+          ],
+          [
+            14.1904687,
+            40.7942952
+          ]
+        ]
+      },
+      "id": "osm-location-of-casa-degli-spiriti",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Casa degli Spiriti",
+        "link": "http://pleiades.stoa.org/places/381242986/osm-location-of-casa-degli-spiriti"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Aphrodite and Ares (Argos)",
+  "id": "271533806",
+  "description": "Dual sanctuary to Aphrodite and Ares described by Pausanias on the road from Argos to Mantinea. Likely now destroyed.",
+  "connectsWith": [
+    "570106"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

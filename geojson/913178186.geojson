@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Foreti",
+  "id": "913178186",
+  "description": "Foreti(i), a lost tribe of Latium Vetus listed among the 30 *populi Albenses* by Pliny the Elder.",
+  "connectsWith": [
+    "422958"
+  ],
+  "names": [
+    "Foreti"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

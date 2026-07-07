@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Villa of Lucullus (Neaoplis)",
+  "id": "628761194",
+  "bbox": [
+    14.2479532,
+    40.8311445,
+    14.2479532,
+    40.8311445
+  ],
+  "description": "A villa dating to the first century BCE that is associated with Lucius Licinius Lucullus.",
+  "connectsWith": [
+    "433014"
+  ],
+  "names": [
+    "Villa of Lucullus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2479532,
+          40.8311445
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2479532,
+          40.8311445
+        ]
+      },
+      "id": "osm-location-of-resti-della-villa-di-licinio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Resti della Villa di Licinio Lucullo",
+        "link": "http://pleiades.stoa.org/places/628761194/osm-location-of-resti-della-villa-di-licinio"
+      }
+    }
+  ]
+}

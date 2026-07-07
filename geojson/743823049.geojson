@@ -1,0 +1,97 @@
+{
+  "type": "FeatureCollection",
+  "title": "Area archeologica di Satricum",
+  "id": "743823049",
+  "bbox": [
+    12.7492457,
+    41.5143973,
+    12.7507217,
+    41.5154436
+  ],
+  "description": "The remains of an extensive Roman villa have been documented (amongst other phases) in the village of Le Ferriere, on the grounds of the Casale del Giglio winery. This multi-period, multi-phase settlement demonstrates continuity of human activity, albeit with varying loci of focused activity.",
+  "connectsWith": [
+    "423060"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.749938723,
+          41.5148720633
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.7492457,
+            41.5153405
+          ],
+          [
+            12.7494818,
+            41.5154436
+          ],
+          [
+            12.7496393,
+            41.5153552
+          ],
+          [
+            12.7498623,
+            41.5151833
+          ],
+          [
+            12.7501116,
+            41.5150212
+          ],
+          [
+            12.7504593,
+            41.514751
+          ],
+          [
+            12.7507086,
+            41.5145054
+          ],
+          [
+            12.7507217,
+            41.514417
+          ],
+          [
+            12.7506233,
+            41.5143973
+          ],
+          [
+            12.7502756,
+            41.5146871
+          ],
+          [
+            12.7494687,
+            41.5146184
+          ],
+          [
+            12.749331,
+            41.5150261
+          ],
+          [
+            12.7492457,
+            41.5153405
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-di-satricum",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area archeologica di Satricum",
+        "link": "http://pleiades.stoa.org/places/743823049/osm-location-of-area-archeologica-di-satricum"
+      }
+    }
+  ]
+}

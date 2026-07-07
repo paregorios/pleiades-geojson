@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "West Stoa at Thermon",
+  "id": "968563189",
+  "bbox": [
+    21.6678813774,
+    38.5584928595,
+    21.6678813774,
+    38.5584928595
+  ],
+  "description": "West stoa fronting the agora of ancient Thermon",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6678813774,
+          38.5584928595
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6678813773575,
+          38.558492859471095
+        ]
+      },
+      "id": "gps-location-of-the-west-stoa-at-thermon",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point derived from Google maps",
+        "location_precision": "precise",
+        "title": "GPS Location of the West Stoa at Thermon",
+        "link": "http://pleiades.stoa.org/places/968563189/gps-location-of-the-west-stoa-at-thermon"
+      }
+    }
+  ]
+}

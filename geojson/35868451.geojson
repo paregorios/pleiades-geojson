@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "fons Bandusiae",
+  "id": "35868451",
+  "description": "The Latin poet Horace addresses one of his odes to the Fons Bandusiae (Spring of Bandusium). Its precise location remains a matter of discussion.",
+  "names": [
+    "fons Bandusiae"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

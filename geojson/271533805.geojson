@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of Dionysus (Sicyon)",
+  "id": "271533805",
+  "bbox": [
+    22.7106675,
+    37.9822657,
+    22.7156662,
+    37.9845701
+  ],
+  "description": "An ancient cult site to Dionysus described by Pausanias in Sicyon, Argolid. Now likely destroyed, Pausanias puts the temple between the theater and the agora, and may well have been located closer to the former.",
+  "connectsWith": [
+    "570668",
+    "542568395"
+  ],
+  "names": [
+    "Dionysou Naos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7134175479,
+          37.98343258
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
