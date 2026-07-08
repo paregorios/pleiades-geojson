@@ -9,6 +9,9 @@
     30.261267
   ],
   "description": "An ancient place, cited: BAtlas 37 E2 Anabucis",
+  "connectsWith": [
+    "363916"
+  ],
   "names": [
     "Anabucis"
   ],

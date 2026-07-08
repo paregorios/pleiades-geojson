@@ -9,6 +9,9 @@
     30.57393
   ],
   "description": "An ancient place, cited: BAtlas 38 B3 Priscu Taberna",
+  "connectsWith": [
+    "373776"
+  ],
   "names": [
     "Priscu Taberna"
   ],

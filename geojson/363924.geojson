@@ -9,6 +9,9 @@
     30.293895
   ],
   "description": "A site located near the bottom of the Great Syrtis which marked the boundary between the territories of Carthage and Cyrene, and later between Tripolitana and Cyrenaica.",
+  "connectsWith": [
+    "363921"
+  ],
   "names": [
     "Arae Philaenorum",
     "Arephilenorum fines affrice et cyrenensium",

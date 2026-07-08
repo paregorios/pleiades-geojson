@@ -9,6 +9,9 @@
     30.317862
   ],
   "description": "An ancient place, cited: BAtlas 37 E2 Ad Puteum",
+  "connectsWith": [
+    "373877"
+  ],
   "names": [
     "Ad Puteum"
   ],

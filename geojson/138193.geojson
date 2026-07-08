@@ -1,22 +1,28 @@
 {
   "type": "FeatureCollection",
-  "title": "Aron",
+  "title": "Fanum d'Aron",
   "id": "138193",
   "bbox": [
-    2.440556,
-    44.926111,
-    2.442965,
-    44.926721
+    2.4213562,
+    44.9156582,
+    2.4214958,
+    44.915757
   ],
-  "description": "An ancient place, cited: BAtlas 14 H4 Aron",
+  "description": "A polygonal Roman-era temple probably associated with an ancient spring. The site, now a modern park, was located at a place known in the 20th century as Aron and Lescudillier, immediately southwest of the center of the modern French commune of Aurillac (Auvergne-Rhône-Alpes).",
+  "names": [
+    "Aron",
+    "Fanum d'Aron",
+    "Lescudillier",
+    "Fanum of Aron"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.4417605,
-          44.926416
+          2.42142596429,
+          44.9157077863
         ]
       },
       "properties": {
@@ -25,36 +31,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          2.442965,
-          44.926721
+          [
+            2.4214031,
+            44.9156608
+          ],
+          [
+            2.421431,
+            44.9156582
+          ],
+          [
+            2.421458,
+            44.9156635
+          ],
+          [
+            2.42148,
+            44.915676
+          ],
+          [
+            2.4214933,
+            44.9156935
+          ],
+          [
+            2.4214958,
+            44.9157133
+          ],
+          [
+            2.4214871,
+            44.9157323
+          ],
+          [
+            2.4214686,
+            44.9157473
+          ],
+          [
+            2.4214439,
+            44.9157559
+          ],
+          [
+            2.4214164,
+            44.915757
+          ],
+          [
+            2.4213904,
+            44.9157507
+          ],
+          [
+            2.4213699,
+            44.9157377
+          ],
+          [
+            2.4213583,
+            44.915721
+          ],
+          [
+            2.4213562,
+            44.9157024
+          ],
+          [
+            2.4213639,
+            44.9156846
+          ],
+          [
+            2.4213803,
+            44.91567
+          ],
+          [
+            2.4214031,
+            44.9156608
+          ]
         ]
       },
-      "id": "darmc-location-15888",
+      "id": "osm-location-fanum-daron",
       "type": "Feature",
       "properties": {
-        "description": "1M scale point location",
+        "description": "Location based on OpenStreetMap. Dates after BAtlDir.",
         "location_precision": "precise",
-        "title": "DARMC location 15888",
-        "link": "http://pleiades.stoa.org/places/138193/darmc-location-15888"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.440556,
-          44.926111
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/138193/dare-location"
+        "title": "OSM Location: Fanum d'Aron",
+        "link": "http://pleiades.stoa.org/places/138193/osm-location-fanum-daron"
       }
     }
   ]
