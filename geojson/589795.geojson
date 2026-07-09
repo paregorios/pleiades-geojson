@@ -3,6 +3,9 @@
   "title": "Germatos",
   "id": "589795",
   "description": "An ancient place, cited: BAtlas 60 F4 Germatos",
+  "connectsWith": [
+    "590031"
+  ],
   "features": [
     {
       "type": "Feature",
