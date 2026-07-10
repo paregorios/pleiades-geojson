@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Citizen House (Westgate Building)",
   "id": "504659030",
+  "bbox": [
+    -2.359704,
+    51.381041,
+    -2.359704,
+    51.381041
+  ],
   "description": "The remains of a possible Roman rampart were identified on the St John’s Hospital site in 1954.",
   "connectsWith": [
     "79299"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.359704,
+          51.381041
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
