@@ -3,10 +3,10 @@
   "title": "Aquae Flavianae",
   "id": "334491",
   "bbox": [
-    7.084608,
-    35.441461,
-    7.084608,
-    35.441461
+    7.0846943,
+    35.4401595,
+    7.0846943,
+    35.4401595
   ],
   "description": "Aquae Flavianae, a place in Numidia (modern Fontaine-Chaude near Khenchela).",
   "names": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.084608,
-          35.441461
+          7.0846943,
+          35.4401595
         ]
       },
       "properties": {
@@ -30,17 +30,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.084608,
-          35.441461
+          7.0846943,
+          35.4401595
         ]
       },
-      "id": "darmc-location-23378",
+      "id": "osm-location-of-ammam-essalihine",
       "type": "Feature",
       "properties": {
-        "description": "Point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 23378",
-        "link": "http://pleiades.stoa.org/places/334491/darmc-location-23378"
+        "title": "OSM location of Hammam Essalihine",
+        "link": "http://pleiades.stoa.org/places/334491/osm-location-of-ammam-essalihine"
       }
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bouleuterion at Thermon",
+  "id": "769923984",
+  "bbox": [
+    21.6677483,
+    38.5569681,
+    21.6680701,
+    38.5571879
+  ],
+  "description": "Rectangular building in SE corner of sanctuary of Apollo at Thermon, presumed to be the meeting house (bouleuterion) for the council of representatives of the Aetolian koinon in the Hellenistic Era.",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6679116473,
+          38.5570701686
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                21.667775,
+                38.557156,
+                0.0
+              ],
+              [
+                21.6677483,
+                38.5569845,
+                0.0
+              ],
+              [
+                21.6680524,
+                38.5569681,
+                0.0
+              ],
+              [
+                21.6680701,
+                38.5571287,
+                0.0
+              ],
+              [
+                21.6679934,
+                38.5571384,
+                0.0
+              ],
+              [
+                21.6680022,
+                38.5571784,
+                0.0
+              ],
+              [
+                21.6678565,
+                38.5571879,
+                0.0
+              ],
+              [
+                21.6678552,
+                38.5571506,
+                0.0
+              ],
+              [
+                21.667775,
+                38.557156,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "geojson-coordinates-for-bouleuterion-at-thermon",
+      "type": "Feature",
+      "properties": {
+        "description": "GeoJSON coordinates for bouleuterion at Thermon",
+        "location_precision": "precise",
+        "title": "GeoJSON coordinates for bouleuterion at Thermon",
+        "link": "http://pleiades.stoa.org/places/769923984/geojson-coordinates-for-bouleuterion-at-thermon"
+      }
+    }
+  ]
+}

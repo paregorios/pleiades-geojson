@@ -8,10 +8,14 @@
     85.13502,
     25.614443
   ],
-  "description": "A key ancient city of north central India, Palibothra reached its cultural peak during the third century BC under Asoka.",
+  "description": "A key ancient city of north central India, Palibothra reached its cultural peak during the third century BCE under Asoka.",
+  "connectsWith": [
+    "60007"
+  ],
   "names": [
     "Palibothra",
-    "Palimbothra"
+    "Palimbothra",
+    "Palibotra"
   ],
   "features": [
     {

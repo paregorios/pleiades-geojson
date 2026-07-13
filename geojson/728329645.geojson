@@ -3,10 +3,10 @@
   "title": "Temple of Apollo at Thermos",
   "id": "728329645",
   "bbox": [
-    21.6680468,
-    38.5595602,
-    21.6682613,
-    38.5599461
+    21.6679819,
+    38.5595748,
+    21.6682088,
+    38.5599348
   ],
   "description": "A temple to the Apollo was built in the late seventh century B.C. atop the ruins of the previous megaron in Thermos.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.6681559842,
-          38.5597661279
+          21.6680977311,
+          38.559752216
         ]
       },
       "properties": {
@@ -32,37 +32,46 @@
     },
     {
       "geometry": {
-        "type": "LineString",
+        "type": "MultiPolygon",
         "coordinates": [
           [
-            21.6680468,
-            38.5596651
-          ],
-          [
-            21.6681178,
-            38.5599461
-          ],
-          [
-            21.6682613,
-            38.5599189
-          ],
-          [
-            21.6681795,
-            38.5595602
-          ],
-          [
-            21.6680468,
-            38.5596651
+            [
+              [
+                21.6680729,
+                38.5599348,
+                0.0
+              ],
+              [
+                21.6679819,
+                38.5596,
+                0.0
+              ],
+              [
+                21.6681301,
+                38.5595748,
+                0.0
+              ],
+              [
+                21.6682088,
+                38.5599081,
+                0.0
+              ],
+              [
+                21.6680729,
+                38.5599348,
+                0.0
+              ]
+            ]
           ]
         ]
       },
-      "id": "osm-location-of-temple-of-apollo-at-thermon",
+      "id": "geojson-coordinates-for-temple-of-apollo-at-thermon",
       "type": "Feature",
       "properties": {
-        "description": "Location based on OpenStreetMap",
+        "description": "GeoJSON coordinates for Temple of Apollo at Thermon",
         "location_precision": "precise",
-        "title": "OSM location of Temple of Apollo at Thermon",
-        "link": "http://pleiades.stoa.org/places/728329645/osm-location-of-temple-of-apollo-at-thermon"
+        "title": "Imagery Location for Temple of Apollo at Thermon",
+        "link": "http://pleiades.stoa.org/places/728329645/geojson-coordinates-for-temple-of-apollo-at-thermon"
       }
     }
   ]

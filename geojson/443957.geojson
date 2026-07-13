@@ -3,14 +3,15 @@
   "title": "Untitled",
   "id": "443957",
   "bbox": [
-    15.5,
-    40.0,
-    16.0,
-    40.5
+    15.2290134,
+    40.1838639,
+    15.7044253,
+    40.6334026
   ],
   "description": "An ancient place, cited: BAtlas 45 C4 unnamed bridge (Ponte Silla, over R. Tanagro, SE Tegianum)",
   "connectsWith": [
-    "442809"
+    "442809",
+    "442816"
   ],
   "features": [
     {
@@ -18,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.75,
-          40.25
+          15.4795700582,
+          40.4442840322
         ]
       },
       "properties": {

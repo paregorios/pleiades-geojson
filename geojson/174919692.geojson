@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "title": "Central Springhouse at Thermon",
+  "id": "174919692",
+  "bbox": [
+    21.6678471,
+    38.5591701,
+    21.6680333,
+    38.5593219
+  ],
+  "description": "Main monumental springhouse within the sanctuary at Thermon",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6679478767,
+          38.5592451949
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                21.6679733,
+                38.5593112,
+                0.0
+              ],
+              [
+                21.667939,
+                38.5593054,
+                0.0
+              ],
+              [
+                21.6679055,
+                38.5592954,
+                0.0
+              ],
+              [
+                21.6678735,
+                38.5592828,
+                0.0
+              ],
+              [
+                21.6678471,
+                38.5592663,
+                0.0
+              ],
+              [
+                21.6678483,
+                38.5592547,
+                0.0
+              ],
+              [
+                21.6679116,
+                38.5591701,
+                0.0
+              ],
+              [
+                21.6679383,
+                38.5591723,
+                0.0
+              ],
+              [
+                21.6680333,
+                38.5592066,
+                0.0
+              ],
+              [
+                21.6680278,
+                38.5592418,
+                0.0
+              ],
+              [
+                21.6680127,
+                38.5593219,
+                0.0
+              ],
+              [
+                21.6679733,
+                38.5593112,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "geojson-coordinates-for-central-springhouse-at-thermon",
+      "type": "Feature",
+      "properties": {
+        "description": "GeoJSON coordinates for Central Springhouse at Thermon",
+        "location_precision": "precise",
+        "title": "GeoJSON coordinates for Central Springhouse at Thermon",
+        "link": "http://pleiades.stoa.org/places/174919692/geojson-coordinates-for-central-springhouse-at-thermon"
+      }
+    }
+  ]
+}

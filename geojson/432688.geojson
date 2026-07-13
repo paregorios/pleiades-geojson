@@ -3,17 +3,18 @@
   "title": "Aquae Caeretanae",
   "id": "432688",
   "bbox": [
-    12.0076797,
-    42.0624135,
-    12.0076797,
-    42.0624135
+    12.00737,
+    42.0621802,
+    12.0080337,
+    42.0627523
   ],
   "description": "Therapeutic springs located near Caere.",
   "connectsWith": [
     "422859"
   ],
   "names": [
-    "Aquae Caeretanae"
+    "Aquae Caeretanae",
+    "Piano della Carlotta"
   ],
   "features": [
     {
@@ -21,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.0076797,
-          42.0624135
+          12.0076781531,
+          42.0624516883
         ]
       },
       "properties": {
@@ -31,19 +32,67 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "MultiLineString",
         "coordinates": [
-          12.0076797,
-          42.0624135
+          [
+            [
+              12.00737,
+              42.0625173
+            ],
+            [
+              12.0074411,
+              42.0623749
+            ],
+            [
+              12.0074939,
+              42.0623236
+            ],
+            [
+              12.0077367,
+              42.0621802
+            ],
+            [
+              12.0077742,
+              42.0621822
+            ],
+            [
+              12.0080337,
+              42.0623972
+            ],
+            [
+              12.0077695,
+              42.0625872
+            ]
+          ],
+          [
+            [
+              12.0077695,
+              42.0625872
+            ],
+            [
+              12.0075195,
+              42.0627523
+            ]
+          ],
+          [
+            [
+              12.0075195,
+              42.0627523
+            ],
+            [
+              12.00737,
+              42.0625173
+            ]
+          ]
         ]
       },
-      "id": "osm-location-of-aquae-caeretane",
+      "id": "osm-location-of-aquae-caeretanae",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Aquae Caeretane",
-        "link": "http://pleiades.stoa.org/places/432688/osm-location-of-aquae-caeretane"
+        "title": "OSM location of Aquae Caeretanae",
+        "link": "http://pleiades.stoa.org/places/432688/osm-location-of-aquae-caeretanae"
       }
     }
   ]

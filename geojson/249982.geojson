@@ -31,13 +31,13 @@
           43.625199
         ]
       },
-      "id": "center-of-batlas-location",
+      "id": "dare-location",
       "type": "Feature",
       "properties": {
         "description": "A positive identification of the sub-commune location noted in the Barrington Atlas directory",
         "location_precision": "precise",
-        "title": "Center point of location",
-        "link": "http://pleiades.stoa.org/places/249982/center-of-batlas-location"
+        "title": "DARE Location: Center point of commune",
+        "link": "http://pleiades.stoa.org/places/249982/dare-location"
       }
     }
   ]

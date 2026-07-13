@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "title": "South Stoa at Thermon",
+  "id": "174919691",
+  "bbox": [
+    21.665811,
+    38.5573087,
+    21.6678766,
+    38.5579651
+  ],
+  "description": "Southern stoa at Thermon",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.666838644,
+          38.557638635
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                21.6658823,
+                38.5579651,
+                0.0
+              ],
+              [
+                21.665811,
+                38.5578383,
+                0.0
+              ],
+              [
+                21.6678247,
+                38.5573087,
+                0.0
+              ],
+              [
+                21.6678766,
+                38.5574322,
+                0.0
+              ],
+              [
+                21.6658823,
+                38.5579651,
+                0.0
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "geojson-coordinates-for-south-stoa-at-thermon-1",
+      "type": "Feature",
+      "properties": {
+        "description": "GeoJSON coordinates for South Stoa at Thermon",
+        "location_precision": "precise",
+        "title": "GeoJSON coordinates for South Stoa at Thermon",
+        "link": "http://pleiades.stoa.org/places/174919691/geojson-coordinates-for-south-stoa-at-thermon-1"
+      }
+    }
+  ]
+}

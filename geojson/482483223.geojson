@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Aquae Cirnenses",
+  "id": "482483223",
+  "description": "The late Latin author Luxorius describes a place named Aquae Cirnenses in North Africa during the Vandalic period.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

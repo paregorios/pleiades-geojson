@@ -4,8 +4,8 @@
   "id": "438878",
   "bbox": [
     14.765922,
-    39.132926,
-    16.2745665,
+    39.1327519,
+    16.2747253,
     40.677988
   ],
   "description": "An ancient place, cited: BAtlas 44 unlocated Via Popilia",
@@ -18,23 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.7716751667,
-          40.0105576667
+          15.771675351,
+          40.0105595846
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/438878/batlas-location"
       }
     }
   ]
