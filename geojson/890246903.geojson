@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello di Montevetrano",
+  "id": "890246903",
+  "bbox": [
+    14.8600259,
+    40.6730479,
+    14.8604618,
+    40.67334
+  ],
+  "description": "The castle of Montevetrano is a Medieval fortification atop the Montevetrano hill (258 meters above sea level) in the present-day comune of San Cipriano Picentino, Italy. While the origins of the Medieval fortifications lie in the eleventh century, the hill was fortified as early as the third century BCE. In early modern and modern times, the castle was reused on multiple occasions as a defensive position.",
+  "connectsWith": [
+    "432971"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.8602438381,
+          40.6731939687
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.8600259,
+            40.6732402
+          ],
+          [
+            14.860125,
+            40.6730479
+          ],
+          [
+            14.8604618,
+            40.6731478
+          ],
+          [
+            14.8603627,
+            40.67334
+          ],
+          [
+            14.8600259,
+            40.6732402
+          ]
+        ]
+      },
+      "id": "osm-location-of-castello-di-montevetrano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello di Montevetrano",
+        "link": "http://pleiades.stoa.org/places/890246903/osm-location-of-castello-di-montevetrano"
+      }
+    }
+  ]
+}

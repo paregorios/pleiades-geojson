@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Funerary monuments in piazza del Corso (Nocera Inferiore)",
+  "id": "754096801",
+  "bbox": [
+    14.6380019,
+    40.7427476,
+    14.6383879,
+    40.7428829
+  ],
+  "description": "A series of Roman tombs along the road leading from Nuceria to Stabiae.",
+  "connectsWith": [
+    "432985"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6381828798,
+          40.7428041156
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.6380132,
+            40.7428829
+          ],
+          [
+            14.6383879,
+            40.7428075
+          ],
+          [
+            14.6383681,
+            40.7427476
+          ],
+          [
+            14.6380019,
+            40.7427703
+          ],
+          [
+            14.6380132,
+            40.7428829
+          ]
+        ]
+      },
+      "id": "osm-location-of-monumenti-funerari-di-piazza-del",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Monumenti funerari di piazza del Corso",
+        "link": "http://pleiades.stoa.org/places/754096801/osm-location-of-monumenti-funerari-di-piazza-del"
+      }
+    }
+  ]
+}

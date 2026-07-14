@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Old Temple of Athena Polias at Athens",
+  "id": "164552991",
+  "bbox": [
+    23.72628,
+    37.9719,
+    23.72628,
+    37.9719
+  ],
+  "description": "Archaic temple to Athena built on the Athenian Acropolis likely during the second half of the 6th century BC. Likely destroyed during the Persian invasion in 480 BC.",
+  "connectsWith": [
+    "638356144"
+  ],
+  "names": [
+    "Athinás ierón archaíos o tís Poliádos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72628,
+          37.9719
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72628,
+          37.9719
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/164552991/topostext-location"
+      }
+    }
+  ]
+}

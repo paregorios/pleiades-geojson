@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gymnasium at Delphi",
+  "id": "164931929",
+  "bbox": [
+    22.5059,
+    38.4815,
+    22.5059,
+    38.4815
+  ],
+  "description": "A gymnasium at Delphi built likely around the 4th century BC, located in between the Sanctuary of Athena Pronaia and the Castalian Spring.",
+  "connectsWith": [
+    "203037083",
+    "540726"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5059,
+          38.4815
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5059,
+          38.4815
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/164931929/topostext-location"
+      }
+    }
+  ]
+}

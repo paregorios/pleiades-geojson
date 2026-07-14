@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Via Popilia",
+  "title": "Via Popilia (in Campania)",
   "id": "438878",
   "bbox": [
     14.765922,
@@ -8,7 +8,7 @@
     16.2747253,
     40.677988
   ],
-  "description": "An ancient place, cited: BAtlas 44 unlocated Via Popilia",
+  "description": "One of two ancient Roman roads in Italy is named Via Popilia after the magistrate Publius Popilius Laenas. The Campanian instance diverges from the Via Appia at Capua and continues to Rhegium on the Straits of Messina.",
   "names": [
     "Via Popilia"
   ],

@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Elis Gymnasium",
+  "id": "638203605",
+  "bbox": [
+    21.3739,
+    37.8917,
+    21.3739,
+    37.8917
+  ],
+  "description": "A gymnasium at Elis, described by Pausanias, now likely destroyed. Said by Pausanias to be the training grounds athletes had to pass to compete at Olympia. It included a running track called the Sacred Track, and altars to Heracles, Eros, Demeter, and a cenotaph to Achilles.",
+  "connectsWith": [
+    "570220"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3739,
+          37.8917
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3739,
+          37.8917
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "Topostext Location",
+        "link": "http://pleiades.stoa.org/places/638203605/topostext-location"
+      }
+    }
+  ]
+}

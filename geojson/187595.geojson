@@ -3,15 +3,12 @@
   "title": "Tuliassi",
   "id": "187595",
   "bbox": [
-    10.0,
-    46.0,
-    11.0,
-    47.0
+    11.118983,
+    46.06673,
+    11.119287,
+    46.066807
   ],
   "description": "An ancient place, cited: BAtlas 19 C3 Tuliassi",
-  "connectsWith": [
-    "383804"
-  ],
   "names": [
     "Tuliassi"
   ],
@@ -21,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.5,
-          46.5
+          11.119135,
+          46.0667685
         ]
       },
       "properties": {
