@@ -3,9 +3,9 @@
   "title": "Bazoches-les-Hautes",
   "id": "108794",
   "bbox": [
-    1.800261,
+    1.8002609999999999,
     48.151827,
-    1.800261,
+    1.8002609999999999,
     48.151827
   ],
   "description": "An ancient place, cited: BAtlas 11 B4 Bazoches-les-Hautes",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.800261,
+          1.8002609999999999,
           48.151827
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.800261,
+          1.8002609999999999,
           48.151827
         ]
       },

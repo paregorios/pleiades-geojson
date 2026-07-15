@@ -4,9 +4,9 @@
   "id": "197423",
   "bbox": [
     16.637897,
-    43.701905,
+    43.701904999999996,
     16.637897,
-    43.701905
+    43.701904999999996
   ],
   "description": "An ancient place, cited: BAtlas 20 D6 *Osinium",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           16.637897,
-          43.701905
+          43.701904999999996
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           16.637897,
-          43.701905
+          43.701904999999996
         ]
       },
       "id": "darmc-location-14048",

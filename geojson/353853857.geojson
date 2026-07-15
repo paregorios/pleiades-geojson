@@ -3,9 +3,9 @@
   "title": "Paleochristian basilica",
   "id": "353853857",
   "bbox": [
-    12.628552,
+    12.628552000000001,
     41.939243,
-    12.628552,
+    12.628552000000001,
     41.939243
   ],
   "description": "A Paleochristian basilica was discovered at the eighth mile of the Via Tiburtina in 2003. The subterranean basilica reused an earlier quarry and may be related to San Sinforosa. The site dates from the late fourth to the middle of the fifth century CE.",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.628552,
+          12.628552000000001,
           41.939243
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.628552,
+          12.628552000000001,
           41.939243
         ]
       },

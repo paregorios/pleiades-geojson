@@ -4,9 +4,9 @@
   "id": "985158683",
   "bbox": [
     -1.2165064,
-    52.9808287,
+    52.980828700000004,
     -1.2165064,
-    52.9808287
+    52.980828700000004
   ],
   "description": "Site of Roman fortification dating from 50-75 CE.",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           -1.2165064,
-          52.9808287
+          52.980828700000004
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           -1.2165064,
-          52.9808287
+          52.980828700000004
         ]
       },
       "id": "osm-location-of-browtowe-roman-fort",

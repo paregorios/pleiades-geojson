@@ -4,9 +4,9 @@
   "id": "208942409",
   "bbox": [
     9.209387,
-    36.076708,
+    36.076708000000004,
     9.209387,
-    36.076708
+    36.076708000000004
   ],
   "description": "An ancient place, cited: BAtlas 32 D4 unnamed unlabeled ((7 monuments, 1 cemetery, 2 walls))",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           9.209387,
-          36.076708
+          36.076708000000004
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           9.209387,
-          36.076708
+          36.076708000000004
         ]
       },
       "id": "darmc-location-15570",

@@ -4,9 +4,9 @@
   "id": "422891",
   "bbox": [
     12.585156,
-    41.913138,
+    41.913137999999996,
     12.585156,
-    41.913138
+    41.913137999999996
   ],
   "description": "In the vicinity of Tor Cervara are anio tuff (tufo d'Aniene) quarries.",
   "connectsWith": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           12.585156,
-          41.913138
+          41.913137999999996
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           12.585156,
-          41.913138
+          41.913137999999996
         ]
       },
       "id": "darmc-location-19559",

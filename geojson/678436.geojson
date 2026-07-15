@@ -3,9 +3,9 @@
   "title": "Tricomia",
   "id": "678436",
   "bbox": [
-    36.712059,
+    36.712059000000004,
     32.491336,
-    36.712059,
+    36.712059000000004,
     32.491336
   ],
   "description": "An ancient place, cited: BAtlas 69 E5 Tricomia",
@@ -19,7 +19,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.712059,
+          36.712059000000004,
           32.491336
         ]
       },
@@ -31,7 +31,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          36.712059,
+          36.712059000000004,
           32.491336
         ]
       },

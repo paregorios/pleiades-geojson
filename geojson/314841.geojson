@@ -3,9 +3,9 @@
   "title": "Abbir Maius",
   "id": "314841",
   "bbox": [
-    10.008826,
+    10.008825999999999,
     36.374,
-    10.008826,
+    10.008825999999999,
     36.374
   ],
   "description": "An ancient place, cited: BAtlas 32 F4 Abbir Maius",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.008826,
+          10.008825999999999,
           36.374
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.008826,
+          10.008825999999999,
           36.374
         ]
       },

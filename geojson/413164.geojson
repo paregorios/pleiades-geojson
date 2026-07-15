@@ -4,9 +4,9 @@
   "id": "413164",
   "bbox": [
     11.3075971,
-    42.5856344,
+    42.585634400000004,
     11.3075971,
-    42.5856344
+    42.585634400000004
   ],
   "description": "A Roman colony that was established in the third or second century B.C., Heba lay near modern Magliano. Funerary evidence indicates previous Etruscan occupation at the site.",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           11.3075971,
-          42.5856344
+          42.585634400000004
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           11.3075971,
-          42.5856344
+          42.585634400000004
         ]
       },
       "id": "location-of-heba",

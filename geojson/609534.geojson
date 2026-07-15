@@ -4,9 +4,9 @@
   "id": "609534",
   "bbox": [
     29.869114,
-    39.243112,
+    39.243112000000004,
     29.869114,
-    39.243112
+    39.243112000000004
   ],
   "description": "An ancient place, cited: BAtlas 62 C3 Spore?",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           29.869114,
-          39.243112
+          39.243112000000004
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           29.869114,
-          39.243112
+          39.243112000000004
         ]
       },
       "id": "darmc-location-1255",

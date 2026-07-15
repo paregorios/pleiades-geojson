@@ -4,9 +4,9 @@
   "id": "29503",
   "bbox": [
     62.331697,
-    25.227074,
+    25.227074000000002,
     62.331697,
-    25.227074
+    25.227074000000002
   ],
   "description": "An ancient place, cited: BAtlas 3 H4 Barna",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           62.331697,
-          25.227074
+          25.227074000000002
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           62.331697,
-          25.227074
+          25.227074000000002
         ]
       },
       "id": "darmc-location-9980",

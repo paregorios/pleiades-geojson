@@ -4,9 +4,9 @@
   "id": "187411",
   "bbox": [
     11.299551,
-    47.235595,
+    47.235595000000004,
     11.299551,
-    47.235595
+    47.235595000000004
   ],
   "description": "An ancient place, cited: BAtlas 19 D2 Hohe Birga",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           11.299551,
-          47.235595
+          47.235595000000004
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           11.299551,
-          47.235595
+          47.235595000000004
         ]
       },
       "id": "darmc-location-12776",

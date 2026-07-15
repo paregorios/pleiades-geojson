@@ -4,9 +4,9 @@
   "id": "737050",
   "bbox": [
     31.302068,
-    29.728688,
+    29.728687999999998,
     31.302068,
-    29.728688
+    29.728687999999998
   ],
   "description": "An ancient place, cited: BAtlas 75 E1 Skenai Mandrai",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           31.302068,
-          29.728688
+          29.728687999999998
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           31.302068,
-          29.728688
+          29.728687999999998
         ]
       },
       "id": "darmc-location-8317",

@@ -4,9 +4,9 @@
   "id": "98952",
   "bbox": [
     5.627929,
-    52.300732,
+    52.300732000000004,
     5.627929,
-    52.300732
+    52.300732000000004
   ],
   "description": "An ancient place, cited: BAtlas 10 B4 Ermelo",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           5.627929,
-          52.300732
+          52.300732000000004
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           5.627929,
-          52.300732
+          52.300732000000004
         ]
       },
       "id": "darmc-location-7744",

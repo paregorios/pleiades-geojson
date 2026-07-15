@@ -4,9 +4,9 @@
   "id": "138325",
   "bbox": [
     1.315397,
-    44.665184,
+    44.665184000000004,
     1.315397,
-    44.665184
+    44.665184000000004
   ],
   "description": "An ancient place, cited: BAtlas 14 G4 Decaniacum",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           1.315397,
-          44.665184
+          44.665184000000004
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           1.315397,
-          44.665184
+          44.665184000000004
         ]
       },
       "id": "darmc-location-16326",

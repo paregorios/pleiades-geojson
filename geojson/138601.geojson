@@ -3,9 +3,9 @@
   "title": "Suedas",
   "id": "138601",
   "bbox": [
-    -4.4e-05,
+    -0.000044,
     47.13702,
-    -4.4e-05,
+    -0.000044,
     47.13702
   ],
   "description": "An ancient place, cited: BAtlas 14 F1 Suedas",
@@ -19,7 +19,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.4e-05,
+          -0.000044,
           47.13702
         ]
       },
@@ -31,7 +31,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.4e-05,
+          -0.000044,
           47.13702
         ]
       },

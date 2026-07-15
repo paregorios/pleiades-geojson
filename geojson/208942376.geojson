@@ -3,9 +3,9 @@
   "title": "Untitled",
   "id": "208942376",
   "bbox": [
-    8.795153,
+    8.795153000000001,
     36.605165,
-    8.795153,
+    8.795153000000001,
     36.605165
   ],
   "description": "An ancient place, cited: BAtlas 32 C3 unnamed unlabeled ((2 monuments))",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.795153,
+          8.795153000000001,
           36.605165
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.795153,
+          8.795153000000001,
           36.605165
         ]
       },

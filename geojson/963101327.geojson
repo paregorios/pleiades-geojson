@@ -3,9 +3,9 @@
   "title": "Unnamed villa",
   "id": "963101327",
   "bbox": [
-    14.407775,
+    14.407775000000001,
     31.282068,
-    14.407775,
+    14.407775000000001,
     31.282068
   ],
   "description": "An unnamed villa of Tripolitana",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.407775,
+          14.407775000000001,
           31.282068
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.407775,
+          14.407775000000001,
           31.282068
         ]
       },

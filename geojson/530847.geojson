@@ -4,9 +4,9 @@
   "id": "530847",
   "bbox": [
     20.351241,
-    39.509131,
+    39.509130999999996,
     20.351241,
-    39.509131
+    39.509130999999996
   ],
   "description": "An ancient place, cited: BAtlas 54 B2 Dramese",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           20.351241,
-          39.509131
+          39.509130999999996
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           20.351241,
-          39.509131
+          39.509130999999996
         ]
       },
       "id": "darmc-location-17603",

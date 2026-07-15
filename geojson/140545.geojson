@@ -4,9 +4,9 @@
   "id": "140545",
   "bbox": [
     0.22728,
-    44.829542,
+    44.829541999999996,
     0.22728,
-    44.829542
+    44.829541999999996
   ],
   "description": "An ancient place, cited: BAtlas 14 F4 no. 114 (Pineuilh, Cm. Les Champellans)",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           0.22728,
-          44.829542
+          44.829541999999996
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           0.22728,
-          44.829542
+          44.829541999999996
         ]
       },
       "id": "center-of-batlas-location",

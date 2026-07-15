@@ -3,9 +3,9 @@
   "title": "Ceratis",
   "id": "138282",
   "bbox": [
-    1.190303,
+    1.1903030000000001,
     47.259821,
-    1.190303,
+    1.1903030000000001,
     47.259821
   ],
   "description": "An ancient place, cited: BAtlas 14 G1 Ceratis",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.190303,
+          1.1903030000000001,
           47.259821
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.190303,
+          1.1903030000000001,
           47.259821
         ]
       },

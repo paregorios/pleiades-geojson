@@ -4,9 +4,9 @@
   "id": "599812",
   "bbox": [
     26.855218,
-    38.045852,
+    38.045851999999996,
     26.855218,
-    38.045852
+    38.045851999999996
   ],
   "description": "An ancient place, cited: BAtlas 61 D1 Myonnesos Ins.",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           26.855218,
-          38.045852
+          38.045851999999996
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           26.855218,
-          38.045852
+          38.045851999999996
         ]
       },
       "id": "location-of-myonnesos-ins",

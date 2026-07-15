@@ -4,9 +4,9 @@
   "id": "857029",
   "bbox": [
     36.631607,
-    41.373977,
+    41.373976999999996,
     36.631607,
-    41.373977
+    41.373976999999996
   ],
   "description": "An ancient place, cited: BAtlas 87 B3 Ankon",
   "connectsWith": [
@@ -23,7 +23,7 @@
         "type": "Point",
         "coordinates": [
           36.631607,
-          41.373977
+          41.373976999999996
         ]
       },
       "properties": {
@@ -35,7 +35,7 @@
         "type": "Point",
         "coordinates": [
           36.631607,
-          41.373977
+          41.373976999999996
         ]
       },
       "id": "darmc-location-19630",

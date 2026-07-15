@@ -4,9 +4,9 @@
   "id": "957064614",
   "bbox": [
     27.469106,
-    38.014405,
+    38.014404999999996,
     27.469106,
-    38.014405
+    38.014404999999996
   ],
   "description": "The Belevi tumulus may date to the early Hellenistic period.",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           27.469106,
-          38.014405
+          38.014404999999996
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           27.469106,
-          38.014405
+          38.014404999999996
         ]
       },
       "id": "imagery-location-of-belevi-tumulus",

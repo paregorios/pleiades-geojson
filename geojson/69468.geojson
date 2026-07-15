@@ -5,7 +5,7 @@
   "bbox": [
     -0.435635,
     49.105638,
-    -0.4297985,
+    -0.42979850000000003,
     49.1080973
   ],
   "description": "Aregenoua was the chief city of the civitas of the Viducasses.",
@@ -49,7 +49,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.4297985,
+          -0.42979850000000003,
           49.1080973
         ]
       },

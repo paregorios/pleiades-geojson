@@ -6,7 +6,7 @@
     9.687528,
     48.79799,
     9.691823,
-    48.798292
+    48.798291999999996
   ],
   "description": "An ancient place, cited: BAtlas 12 C4 Lorch",
   "features": [
@@ -45,7 +45,7 @@
         "type": "Point",
         "coordinates": [
           9.687528,
-          48.798292
+          48.798291999999996
         ]
       },
       "id": "dare-location",

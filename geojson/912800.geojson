@@ -4,9 +4,9 @@
   "id": "912800",
   "bbox": [
     44.449851,
-    31.883324,
+    31.883324000000002,
     44.449851,
-    31.883324
+    31.883324000000002
   ],
   "description": "An ancient place, cited: BAtlas 93 A2 [(al-)Hir(t)a]/Ertha?",
   "names": [
@@ -25,7 +25,7 @@
         "type": "Point",
         "coordinates": [
           44.449851,
-          31.883324
+          31.883324000000002
         ]
       },
       "properties": {
@@ -37,7 +37,7 @@
         "type": "Point",
         "coordinates": [
           44.449851,
-          31.883324
+          31.883324000000002
         ]
       },
       "id": "darmc-location-21499",

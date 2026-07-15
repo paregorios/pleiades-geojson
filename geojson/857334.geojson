@@ -3,9 +3,9 @@
   "title": "(Sten)Nitike",
   "id": "857334",
   "bbox": [
-    40.256888,
+    40.256887999999996,
     43.314372,
-    40.256888,
+    40.256887999999996,
     43.314372
   ],
   "description": "An ancient place, cited: BAtlas 87 F1 (Sten)Nitike",
@@ -19,7 +19,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.256888,
+          40.256887999999996,
           43.314372
         ]
       },
@@ -31,7 +31,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          40.256888,
+          40.256887999999996,
           43.314372
         ]
       },

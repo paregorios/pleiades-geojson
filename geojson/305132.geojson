@@ -4,9 +4,9 @@
   "id": "305132",
   "bbox": [
     5.32512,
-    36.207179,
+    36.207178999999996,
     5.32512,
-    36.207179
+    36.207178999999996
   ],
   "description": "An ancient place, cited: BAtlas 31 C4 Praedia Iulii",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           5.32512,
-          36.207179
+          36.207178999999996
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           5.32512,
-          36.207179
+          36.207178999999996
         ]
       },
       "id": "darmc-location-17560",

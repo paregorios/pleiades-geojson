@@ -4,9 +4,9 @@
   "id": "207382",
   "bbox": [
     22.293498,
-    43.214499,
+    43.214499000000004,
     22.293498,
-    43.214499
+    43.214499000000004
   ],
   "description": "An ancient place, cited: BAtlas 21 E6 Remesiana",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           22.293498,
-          43.214499
+          43.214499000000004
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           22.293498,
-          43.214499
+          43.214499000000004
         ]
       },
       "id": "darmc-location-14489",

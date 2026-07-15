@@ -3,9 +3,9 @@
   "title": "Zeus Thimenos, T.",
   "id": "609592",
   "bbox": [
-    28.573658,
+    28.573657999999998,
     39.403473,
-    28.573658,
+    28.573657999999998,
     39.403473
   ],
   "description": "An ancient place, cited: BAtlas 62 A3 Zeus Thimenos, T.",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.573658,
+          28.573657999999998,
           39.403473
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          28.573658,
+          28.573657999999998,
           39.403473
         ]
       },

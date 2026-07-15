@@ -3,9 +3,9 @@
   "title": "Ioniapolis",
   "id": "599670",
   "bbox": [
-    27.508324,
+    27.508324000000002,
     37.474596,
-    27.508324,
+    27.508324000000002,
     37.474596
   ],
   "description": "An ancient place, cited: BAtlas 61 F3 Ioniapolis",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.508324,
+          27.508324000000002,
           37.474596
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.508324,
+          27.508324000000002,
           37.474596
         ]
       },

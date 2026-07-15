@@ -4,9 +4,9 @@
   "id": "128414",
   "bbox": [
     17.563903,
-    48.339893,
+    48.339892999999996,
     17.563903,
-    48.339893
+    48.339892999999996
   ],
   "description": "An ancient place, cited: BAtlas 13 C4 Hrnčiarovce",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           17.563903,
-          48.339893
+          48.339892999999996
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           17.563903,
-          48.339893
+          48.339892999999996
         ]
       },
       "id": "darmc-location-12801",

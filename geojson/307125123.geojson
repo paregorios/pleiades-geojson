@@ -3,9 +3,9 @@
   "title": "Necropolis of Mesu ‘e Montes",
   "id": "307125123",
   "bbox": [
-    8.6195195,
+    8.619519499999999,
     40.6322289,
-    8.6195195,
+    8.619519499999999,
     40.6322289
   ],
   "description": "The Necropolis of Mesu ‘e Montes contains at least 18 tombs of the domus de janas type. The necropolis dates from the later Neolithic period to the middle Bronze Age.",
@@ -21,7 +21,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6195195,
+          8.619519499999999,
           40.6322289
         ]
       },
@@ -33,7 +33,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.6195195,
+          8.619519499999999,
           40.6322289
         ]
       },

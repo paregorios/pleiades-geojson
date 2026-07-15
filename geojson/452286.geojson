@@ -4,9 +4,9 @@
   "id": "452286",
   "bbox": [
     16.960337,
-    39.493309,
+    39.493309000000004,
     16.960337,
-    39.493309
+    39.493309000000004
   ],
   "description": "An ancient place, cited: BAtlas 46 E3 Cariati",
   "features": [
@@ -16,7 +16,7 @@
         "type": "Point",
         "coordinates": [
           16.960337,
-          39.493309
+          39.493309000000004
         ]
       },
       "properties": {
@@ -28,7 +28,7 @@
         "type": "Point",
         "coordinates": [
           16.960337,
-          39.493309
+          39.493309000000004
         ]
       },
       "id": "darmc-location-18298",

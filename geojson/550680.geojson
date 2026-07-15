@@ -4,9 +4,9 @@
   "id": "550680",
   "bbox": [
     27.970941,
-    39.753857,
+    39.753857000000004,
     27.970941,
-    39.753857
+    39.753857000000004
   ],
   "description": "An ancient place, cited: BAtlas 56 F2 Laneion",
   "names": [
@@ -19,7 +19,7 @@
         "type": "Point",
         "coordinates": [
           27.970941,
-          39.753857
+          39.753857000000004
         ]
       },
       "properties": {
@@ -31,7 +31,7 @@
         "type": "Point",
         "coordinates": [
           27.970941,
-          39.753857
+          39.753857000000004
         ]
       },
       "id": "darmc-location-16333",

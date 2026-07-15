@@ -3,9 +3,9 @@
   "title": "Kalokhori",
   "id": "491628",
   "bbox": [
-    22.858765,
+    22.858764999999998,
     40.641669,
-    22.858765,
+    22.858764999999998,
     40.641669
   ],
   "description": "An ancient place, cited: BAtlas 50 C3 Kalokhori",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.858765,
+          22.858764999999998,
           40.641669
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.858765,
+          22.858764999999998,
           40.641669
         ]
       },

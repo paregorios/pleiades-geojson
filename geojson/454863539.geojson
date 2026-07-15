@@ -3,9 +3,9 @@
   "title": "Auginus mons",
   "id": "454863539",
   "bbox": [
-    10.7002815,
+    10.700281499999999,
     44.193672,
-    10.7002815,
+    10.700281499999999,
     44.193672
   ],
   "description": "A sacred mountain of Italy mentioned by Livy; possibly corresponding to Monte Cimone of the northern Apenines.",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7002815,
+          10.700281499999999,
           44.193672
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.7002815,
+          10.700281499999999,
           44.193672
         ]
       },

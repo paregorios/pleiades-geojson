@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "title": "Paleochristian baptistry of Santa Maria Maggiore",
+  "id": "754096802",
+  "bbox": [
+    14.6673743,
+    40.7422148,
+    14.6679302,
+    40.7426172
+  ],
+  "description": "The Paleochristian baptistry of Santa Maria Maggiore dates to the sixth century and was built on the site of an early imperial building; its construction made significant use of architectural spolia.",
+  "names": [
+    "Battistero paleocristiano di Santa Maria Maggiore"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6676330779,
+          40.7424398204
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.6676969,
+            40.7422148
+          ],
+          [
+            14.6675621,
+            40.7422422
+          ],
+          [
+            14.6675915,
+            40.7423252
+          ],
+          [
+            14.6675797,
+            40.742331
+          ],
+          [
+            14.6675447,
+            40.742357
+          ],
+          [
+            14.6675064,
+            40.7423652
+          ],
+          [
+            14.6674843,
+            40.7423916
+          ],
+          [
+            14.6674964,
+            40.7424231
+          ],
+          [
+            14.6675306,
+            40.7424439
+          ],
+          [
+            14.6675666,
+            40.7424435
+          ],
+          [
+            14.667599,
+            40.7424845
+          ],
+          [
+            14.6676068,
+            40.7424936
+          ],
+          [
+            14.6673743,
+            40.7425252
+          ],
+          [
+            14.6673998,
+            40.7426172
+          ],
+          [
+            14.6676398,
+            40.7425853
+          ],
+          [
+            14.6676237,
+            40.7424985
+          ],
+          [
+            14.6676841,
+            40.742519
+          ],
+          [
+            14.6677802,
+            40.7425052
+          ],
+          [
+            14.6678339,
+            40.7424678
+          ],
+          [
+            14.6678416,
+            40.7424482
+          ],
+          [
+            14.6679126,
+            40.7424597
+          ],
+          [
+            14.6679302,
+            40.7423967
+          ],
+          [
+            14.6678545,
+            40.7423845
+          ],
+          [
+            14.6678507,
+            40.7423703
+          ],
+          [
+            14.6678294,
+            40.7423312
+          ],
+          [
+            14.667749,
+            40.7422887
+          ],
+          [
+            14.6677228,
+            40.7422879
+          ],
+          [
+            14.6676969,
+            40.7422148
+          ]
+        ]
+      },
+      "id": "osm-location-of-battistero-paleocristiano-di-santa",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Battistero Paleocristiano di Santa Maria Maggiore",
+        "link": "http://pleiades.stoa.org/places/754096802/osm-location-of-battistero-paleocristiano-di-santa"
+      }
+    }
+  ]
+}

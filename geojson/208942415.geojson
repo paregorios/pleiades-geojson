@@ -3,9 +3,9 @@
   "title": "Untitled",
   "id": "208942415",
   "bbox": [
-    9.274451,
+    9.274450999999999,
     36.07405,
-    9.274451,
+    9.274450999999999,
     36.07405
   ],
   "description": "An ancient place, cited: BAtlas 32 D4 unnamed unlabeled ((7 monuments, 1 cemetery, 2 walls))",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.274451,
+          9.274450999999999,
           36.07405
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.274451,
+          9.274450999999999,
           36.07405
         ]
       },

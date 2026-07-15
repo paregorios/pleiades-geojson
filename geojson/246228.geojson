@@ -3,9 +3,9 @@
   "title": "Barousse",
   "id": "246228",
   "bbox": [
-    0.56744,
+    0.5674400000000001,
     42.959054,
-    0.56744,
+    0.5674400000000001,
     42.959054
   ],
   "description": "An ancient place, cited: BAtlas 25 F3 Barousse",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.56744,
+          0.5674400000000001,
           42.959054
         ]
       },
@@ -27,7 +27,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.56744,
+          0.5674400000000001,
           42.959054
         ]
       },

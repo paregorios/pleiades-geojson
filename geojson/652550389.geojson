@@ -4,9 +4,9 @@
   "id": "652550389",
   "bbox": [
     35.698437,
-    31.653003,
+    31.653002999999998,
     35.698437,
-    31.653003
+    31.653002999999998
   ],
   "description": "An early Bronze Age site in modern Jordan, located about 12 km southwest of Madaba. The site has been interpreted as a ceremonial meeting place for regional groups, featuring a central area with monumental structures and standing stones surrounded by dolmen fields, which may mark burial sites.",
   "names": [
@@ -20,7 +20,7 @@
         "type": "Point",
         "coordinates": [
           35.698437,
-          31.653003
+          31.653002999999998
         ]
       },
       "properties": {
@@ -32,7 +32,7 @@
         "type": "Point",
         "coordinates": [
           35.698437,
-          31.653003
+          31.653002999999998
         ]
       },
       "id": "imagery-location-after-kerner-2025",

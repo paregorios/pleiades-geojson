@@ -3,9 +3,9 @@
   "title": "Untitled",
   "id": "247646",
   "bbox": [
-    -2.788327,
+    -2.7883270000000002,
     42.844029,
-    -2.788327,
+    -2.7883270000000002,
     42.844029
   ],
   "description": "An ancient place, cited: BAtlas 25 C3 unnamed bridge group (Trespuentes over R. Zadorra, N Bele(g)ia)",
@@ -15,7 +15,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.788327,
+          -2.7883270000000002,
           42.844029
         ]
       },
@@ -64,7 +64,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.788327,
+          -2.7883270000000002,
           42.844029
         ]
       },

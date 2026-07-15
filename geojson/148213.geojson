@@ -3,9 +3,9 @@
   "title": "Tedusia?",
   "id": "148213",
   "bbox": [
-    4.620892,
+    4.6208920000000004,
     43.898728,
-    4.620892,
+    4.6208920000000004,
     43.898728
   ],
   "description": "An ancient place, cited: BAtlas 15 D2 Tedusia?",
@@ -18,7 +18,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.620892,
+          4.6208920000000004,
           43.898728
         ]
       },
@@ -30,7 +30,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.620892,
+          4.6208920000000004,
           43.898728
         ]
       },
