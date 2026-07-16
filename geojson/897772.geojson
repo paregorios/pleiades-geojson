@@ -5,8 +5,8 @@
   "bbox": [
     44.5048156,
     33.2198378,
-    46.3893824,
-    35.3213246
+    46.1552299,
+    35.1537459
   ],
   "description": "The Gyndes was a river of Assyria and Susiana that is discussed by Herodotus. Its precise location can not be determined with certainty, but some scholars have identified it with the modern Diyala river in Iraq.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.218017711,
-          34.3373155203
+          45.1374277036,
+          34.2777667817
         ]
       },
       "properties": {

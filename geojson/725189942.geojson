@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "Thimara",
+  "id": "725189942",
+  "description": "A place in south Asia included in the Peutinger Map.",
+  "names": [
+    "Thimara"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

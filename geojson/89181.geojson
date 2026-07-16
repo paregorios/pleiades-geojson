@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Fanum Cocidi",
+  "title": "Bewcastle Roman Fort",
   "id": "89181",
   "bbox": [
     -2.683635,
@@ -8,7 +8,7 @@
     -2.680832,
     55.064935
   ],
-  "description": "A Roman fort north of Hadrian's Wall.",
+  "description": "A Roman fort north of Hadrian's Wall. BAtlas, following Rivet, identified it with \"Fanum Cocidi\", a toponym that is known only from the Ravenna Cosmographer. Durham rejects this view and would place F. \"near the mouth of the river Annan\".",
   "names": [
     "Fanococidi",
     "Fanocodi",
