@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection",
+  "title": "Haughey's Fort",
+  "id": "190590387",
+  "bbox": [
+    -6.7175568,
+    54.3487676,
+    -6.7151262,
+    54.3502766
+  ],
+  "description": "Haughey's Fort is a Late Bronze Age hillfort located in County Armagh, Northern Ireland. It dates ca. 1200 BCE and was an important prehistoric center.",
+  "names": [
+    "Haughey's Fort"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.71627204014,
+          54.3495280052
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.716405,
+            54.3502766
+          ],
+          [
+            -6.7160382,
+            54.3502269
+          ],
+          [
+            -6.7154922,
+            54.350028
+          ],
+          [
+            -6.7153524000000004,
+            54.3499311
+          ],
+          [
+            -6.7152526,
+            54.349838
+          ],
+          [
+            -6.7151707,
+            54.3497022
+          ],
+          [
+            -6.7151262,
+            54.3496285
+          ],
+          [
+            -6.7151661,
+            54.3494191
+          ],
+          [
+            -6.715226,
+            54.3492097
+          ],
+          [
+            -6.7152859,
+            54.3491127
+          ],
+          [
+            -6.7155254,
+            54.3487676
+          ],
+          [
+            -6.7162574,
+            54.3488762
+          ],
+          [
+            -6.7167831,
+            54.3490313
+          ],
+          [
+            -6.7172488,
+            54.3492175
+          ],
+          [
+            -6.7174085,
+            54.3493842
+          ],
+          [
+            -6.7175568,
+            54.3496451
+          ],
+          [
+            -6.717519,
+            54.349672
+          ],
+          [
+            -6.7168231,
+            54.3501672
+          ],
+          [
+            -6.716405,
+            54.3502766
+          ]
+        ]
+      },
+      "id": "osm-location-of-haugheys-fort",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Haughey's Fort",
+        "link": "http://pleiades.stoa.org/places/190590387/osm-location-of-haugheys-fort"
+      }
+    }
+  ]
+}

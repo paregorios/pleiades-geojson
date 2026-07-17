@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "title": "Casale di Madonna del Piano",
+  "id": "346004677",
+  "bbox": [
+    13.4004235,
+    41.5167899,
+    13.4015286,
+    41.5172558
+  ],
+  "description": "A Roman villa with a long occupational arc from the first century BCE to the third century CE.",
+  "connectsWith": [
+    "432770"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4009962879,
+          41.5170284311
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            13.400512,
+            41.5172558
+          ],
+          [
+            13.4009358,
+            41.5171464
+          ],
+          [
+            13.4009586,
+            41.5172086
+          ],
+          [
+            13.4013087,
+            41.5171283
+          ],
+          [
+            13.4012577,
+            41.5170008
+          ],
+          [
+            13.4013328,
+            41.5169787
+          ],
+          [
+            13.4013475,
+            41.5170189
+          ],
+          [
+            13.4015286,
+            41.5169837
+          ],
+          [
+            13.4014454,
+            41.5167899
+          ],
+          [
+            13.4010458,
+            41.5168773
+          ],
+          [
+            13.4010377,
+            41.5168582
+          ],
+          [
+            13.4008312,
+            41.5169064
+          ],
+          [
+            13.4008473,
+            41.5169486
+          ],
+          [
+            13.4004235,
+            41.517059
+          ],
+          [
+            13.400512,
+            41.5172558
+          ]
+        ]
+      },
+      "id": "osm-location-of-area-archeologica-di-casale-di",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Area archeologica di Casale di Madonna del Piano",
+        "link": "http://pleiades.stoa.org/places/346004677/osm-location-of-area-archeologica-di-casale-di"
+      }
+    }
+  ]
+}

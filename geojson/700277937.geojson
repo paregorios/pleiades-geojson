@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Isis, Sabratha",
+  "id": "700277937",
+  "bbox": [
+    12.4876785,
+    32.8074375,
+    12.4882699,
+    32.8078886
+  ],
+  "description": "The Temple of Isis, Sabratha dates to the later first century CE.",
+  "connectsWith": [
+    "344282"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.487932075,
+          32.8076199929
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4876849,
+            32.8078886
+          ],
+          [
+            12.4876785,
+            32.8074608
+          ],
+          [
+            12.4882393,
+            32.8074375
+          ],
+          [
+            12.4882699,
+            32.8076307
+          ],
+          [
+            12.4876849,
+            32.8078886
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-of-isis-sabratha",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Temple of Isis, Sabratha",
+        "link": "http://pleiades.stoa.org/places/700277937/osm-location-of-temple-of-isis-sabratha"
+      }
+    }
+  ]
+}

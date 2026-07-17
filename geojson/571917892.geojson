@@ -3,10 +3,10 @@
   "title": "Roman amphitheater at Grumentum",
   "id": "571917892",
   "bbox": [
-    15.9115794,
-    40.2876404,
-    15.9115794,
-    40.2876404
+    15.9112735,
+    40.2870133,
+    15.912089,
+    40.2876854
   ],
   "description": "Grumentum's amphitheater (first century B.C.) is the only known example in Lucania. The arena measures ca. 62.5 by 60 meters.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.9115794,
-          40.2876404
+          15.9116833878,
+          40.2873520851
         ]
       },
       "properties": {

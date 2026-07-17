@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman theater at Grumentum",
+  "id": "37574658",
+  "bbox": [
+    15.905149,
+    40.2831594,
+    15.9056082,
+    40.2834917
+  ],
+  "description": "The Roman theater at Grumentum dates to the Julio-Claudian period.",
+  "connectsWith": [
+    "442603"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9053579771,
+          40.2833081505
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9051878,
+            40.2834279
+          ],
+          [
+            15.905255,
+            40.2834917
+          ],
+          [
+            15.9056082,
+            40.2832859
+          ],
+          [
+            15.9055352,
+            40.2832167
+          ],
+          [
+            15.9054467,
+            40.2831692
+          ],
+          [
+            15.9053743,
+            40.2831594
+          ],
+          [
+            15.9052967,
+            40.2831732
+          ],
+          [
+            15.905208,
+            40.2832167
+          ],
+          [
+            15.9051627,
+            40.2832912
+          ],
+          [
+            15.905149,
+            40.2833559
+          ],
+          [
+            15.9051878,
+            40.2834279
+          ]
+        ]
+      },
+      "id": "osm-location-of-teatro-romano",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Teatro romano",
+        "link": "http://pleiades.stoa.org/places/37574658/osm-location-of-teatro-romano"
+      }
+    }
+  ]
+}

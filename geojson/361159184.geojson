@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bewcastle Castle",
+  "id": "361159184",
+  "bbox": [
+    -2.6818776,
+    55.0645976,
+    -2.681323,
+    55.0648776
+  ],
+  "description": "Bewcastle Castle is a Medieval castle that occupies the site of a former Roman fort. The first castle dates to ca. 1092 and was destroyed in 1173. The castle was rebuilt in the fourteenth century and was again renewed in the 1540s.",
+  "connectsWith": [
+    "89181"
+  ],
+  "names": [
+    "Bewcastle Castle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68160589474,
+          55.0647301188
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.6814004,
+            55.0648776
+          ],
+          [
+            -2.6818098,
+            55.064841
+          ],
+          [
+            -2.6817882,
+            55.0647405
+          ],
+          [
+            -2.6818776,
+            55.0647281
+          ],
+          [
+            -2.6818468,
+            55.064624
+          ],
+          [
+            -2.6817666,
+            55.0646328
+          ],
+          [
+            -2.6817574,
+            55.0645976
+          ],
+          [
+            -2.681323,
+            55.0646399
+          ],
+          [
+            -2.6814004,
+            55.0648776
+          ]
+        ]
+      },
+      "id": "osm-location-of-bewcastle-castle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Bewcastle Castle",
+        "link": "http://pleiades.stoa.org/places/361159184/osm-location-of-bewcastle-castle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "title": "Zawiyet el-Agdab",
+  "id": "136714002",
+  "bbox": [
+    25.5035613,
+    31.3902724,
+    25.5042265,
+    31.3908925
+  ],
+  "description": "A fortified Roman outpost located in northwestern Egypt near the margins of the Sahara Desert.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.503884175,
+          31.390559886
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            25.5036581,
+            31.3908925
+          ],
+          [
+            25.5035613,
+            31.3903093
+          ],
+          [
+            25.5040304,
+            31.3902724
+          ],
+          [
+            25.5041998,
+            31.3903395
+          ],
+          [
+            25.5042265,
+            31.3904705
+          ],
+          [
+            25.5040881,
+            31.3905126
+          ],
+          [
+            25.5041352,
+            31.3908267
+          ],
+          [
+            25.5036581,
+            31.3908925
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-fort-zawiyet-el-agdab",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman Fort Zawiyet el-Agdab",
+        "link": "http://pleiades.stoa.org/places/136714002/osm-location-of-roman-fort-zawiyet-el-agdab"
+      }
+    }
+  ]
+}

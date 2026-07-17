@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths of Oceanus in Sabratha",
+  "id": "14493280",
+  "bbox": [
+    12.4861818,
+    32.8072337,
+    12.4867777,
+    32.8078952
+  ],
+  "description": "The Baths of Oceanus in Sabratha.",
+  "connectsWith": [
+    "344282"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4864995097,
+          32.8075596199
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4867777,
+            32.8078019
+          ],
+          [
+            12.4867731,
+            32.8074489
+          ],
+          [
+            12.4863785,
+            32.8072337
+          ],
+          [
+            12.4862206,
+            32.8072666
+          ],
+          [
+            12.4861818,
+            32.8074321
+          ],
+          [
+            12.486227,
+            32.8074972
+          ],
+          [
+            12.4863482,
+            32.8076328
+          ],
+          [
+            12.4863837,
+            32.8078347
+          ],
+          [
+            12.4865105,
+            32.8078508
+          ],
+          [
+            12.4866016,
+            32.8078952
+          ],
+          [
+            12.4867169,
+            32.8078705
+          ],
+          [
+            12.4867777,
+            32.8078019
+          ]
+        ]
+      },
+      "id": "osm-location-of-baths-of-oceanus-in-sabratha",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Baths of Oceanus in Sabratha",
+        "link": "http://pleiades.stoa.org/places/14493280/osm-location-of-baths-of-oceanus-in-sabratha"
+      }
+    }
+  ]
+}
