@@ -3,10 +3,10 @@
   "title": "Comitium of Poseidonia/Paestum",
   "id": "103018179",
   "bbox": [
-    15.0056518,
-    40.4221337,
-    15.0056518,
-    40.4221337
+    15.0055014,
+    40.4218497,
+    15.0060154,
+    40.4223067
   ],
   "description": "The comitium is a component of a monumental forum complex constructed at Paestum after the city became a Latin colony in 273 B.C.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.0056518,
-          40.4221337
+          15.0057705823,
+          40.4220897555
         ]
       },
       "properties": {
@@ -28,19 +28,85 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          15.0056518,
-          40.4221337
+          [
+            15.0056333,
+            40.4218497
+          ],
+          [
+            15.0056258,
+            40.4219699
+          ],
+          [
+            15.0056187,
+            40.4220818
+          ],
+          [
+            15.0055147,
+            40.422078
+          ],
+          [
+            15.0055109,
+            40.4221379
+          ],
+          [
+            15.0055078,
+            40.4221868
+          ],
+          [
+            15.0055014,
+            40.4222889
+          ],
+          [
+            15.0057388,
+            40.4222976
+          ],
+          [
+            15.0059875,
+            40.4223067
+          ],
+          [
+            15.0059938,
+            40.4222059
+          ],
+          [
+            15.005997,
+            40.4221561
+          ],
+          [
+            15.0060029,
+            40.4220612
+          ],
+          [
+            15.0060044,
+            40.4220382
+          ],
+          [
+            15.0060154,
+            40.4218637
+          ],
+          [
+            15.0057866,
+            40.4218553
+          ],
+          [
+            15.0057562,
+            40.4218542
+          ],
+          [
+            15.0056333,
+            40.4218497
+          ]
         ]
       },
-      "id": "location-of-comitium",
+      "id": "osm-location-comitium",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of so-called Comitium",
-        "link": "http://pleiades.stoa.org/places/103018179/location-of-comitium"
+        "title": "OSM location: Comitium",
+        "link": "http://pleiades.stoa.org/places/103018179/osm-location-comitium"
       }
     }
   ]

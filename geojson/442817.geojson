@@ -3,10 +3,10 @@
   "title": "Termitito",
   "id": "442817",
   "bbox": [
-    16.669239,
-    40.220362,
-    16.669239,
-    40.220362
+    16.6844691,
+    40.3004148,
+    16.6871765,
+    40.3015063
   ],
   "description": "Termitito is located in the hinterland of the ancient city of Herakleia in Lucania (in the vicinity of present-day Policoro. Herakleia and its hinterland have been the subject of extensive fieldwork. The remains of a Roman villa have been excavated at Termitito. Giardino 1994 notes that Roman-period sites that developed in this area had various objectives in terms of landscape exploitation. The situation of this villa aims to exploit the scenographic potential of its position.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.669239,
-          40.220362
+          16.6858122922,
+          40.3009952409
         ]
       },
       "properties": {
@@ -31,19 +31,105 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          16.669239,
-          40.220362
+          [
+            16.6865101,
+            40.3011853
+          ],
+          [
+            16.6853041,
+            40.3015063
+          ],
+          [
+            16.6851757,
+            40.3012702
+          ],
+          [
+            16.684914,
+            40.3013691
+          ],
+          [
+            16.6846492,
+            40.3012075
+          ],
+          [
+            16.6844691,
+            40.3011056
+          ],
+          [
+            16.6849196,
+            40.3008225
+          ],
+          [
+            16.6850208,
+            40.3009015
+          ],
+          [
+            16.6851943,
+            40.3010178
+          ],
+          [
+            16.6853423,
+            40.3010838
+          ],
+          [
+            16.6854869,
+            40.3010758
+          ],
+          [
+            16.6856447,
+            40.3010025
+          ],
+          [
+            16.6855683,
+            40.3008847
+          ],
+          [
+            16.6856127,
+            40.3008185
+          ],
+          [
+            16.6856822,
+            40.3005177
+          ],
+          [
+            16.6859588,
+            40.3004448
+          ],
+          [
+            16.686043,
+            40.3004449
+          ],
+          [
+            16.686362,
+            40.3004148
+          ],
+          [
+            16.687048,
+            40.300759
+          ],
+          [
+            16.6871367,
+            40.3009476
+          ],
+          [
+            16.6871765,
+            40.30107
+          ],
+          [
+            16.6865101,
+            40.3011853
+          ]
         ]
       },
-      "id": "darmc-location-18931",
+      "id": "osm-location-of-termititi-scanzano-jonico",
       "type": "Feature",
       "properties": {
-        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18931",
-        "link": "http://pleiades.stoa.org/places/442817/darmc-location-18931"
+        "title": "OSM location of Termititi, Scanzano Jonico",
+        "link": "http://pleiades.stoa.org/places/442817/osm-location-of-termititi-scanzano-jonico"
       }
     }
   ]

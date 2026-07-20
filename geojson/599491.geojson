@@ -9,6 +9,9 @@
     36.350459
   ],
   "description": "An ancient place, cited: BAtlas 61 B5 Anaphe",
+  "connectsWith": [
+    "599492"
+  ],
   "names": [
     "Anaphe"
   ],

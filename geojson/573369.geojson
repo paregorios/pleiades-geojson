@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Menios (river)",
   "id": "573369",
+  "bbox": [
+    21.3716283,
+    37.7856701,
+    21.6189432,
+    37.8942175
+  ],
   "description": "A tributary of the Peneios river that Pausanias places in the town of Elis (between an old theater and a shrine of Dionysus abutting the agora). Due to flood control and other subsequent interventions in the landscape of the site, the river's precise location cannot be determined today. The Menios is the river Herakles is said to have diverted to clean the Augean stables.",
   "connectsWith": [
     "570220",
@@ -13,7 +19,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4900787275,
+          37.8405735637
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

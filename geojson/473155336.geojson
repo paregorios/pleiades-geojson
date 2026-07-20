@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cave of Nestor",
+  "id": "473155336",
+  "bbox": [
+    21.6576566,
+    36.9598355,
+    21.6576566,
+    36.9598355
+  ],
+  "description": "A cave located below Palaiokastro (Navarino, Pylos) that has been identified with the “cave of Nestor”. This site shows human activity from an early date and has been the subject of various instances of archaeological investigation.",
+  "names": [
+    "Cave of Nestor",
+    "spilaion Nestoros"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6576566,
+          36.9598355
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6576566,
+          36.9598355
+        ]
+      },
+      "id": "osm-location-of-nestors-cave",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Nestor's cave",
+        "link": "http://pleiades.stoa.org/places/473155336/osm-location-of-nestors-cave"
+      }
+    }
+  ]
+}

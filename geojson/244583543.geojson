@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ponte delle Serretelle",
+  "id": "244583543",
+  "bbox": [
+    14.7492187,
+    41.1236737,
+    14.7494408,
+    41.1238076
+  ],
+  "description": "The so-called Ponte delle Serretelle is an ancient arched bridge located southwest of Benevento, Italy. It lies between the Gran Potenza hill and the Serretelle stream. It may have once been located either at or near the point where the Serretelle and the Calor converged.",
+  "names": [
+    "Ponte delle Serretelle"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7493297375,
+          41.1237406663
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.7494165,
+            41.1238076
+          ],
+          [
+            14.7492187,
+            41.1236988
+          ],
+          [
+            14.749243,
+            41.1236737
+          ],
+          [
+            14.7494408,
+            41.1237826
+          ],
+          [
+            14.7494165,
+            41.1238076
+          ]
+        ]
+      },
+      "id": "osm-location-of-ponte-delle-serretelle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ponte delle Serretelle",
+        "link": "http://pleiades.stoa.org/places/244583543/osm-location-of-ponte-delle-serretelle"
+      }
+    }
+  ]
+}
