@@ -3,10 +3,10 @@
   "title": "Roman Mausoleum of Villa Gordiani",
   "id": "472526695",
   "bbox": [
-    12.5549435,
+    12.5549416,
     41.8949801,
     12.5552618,
-    41.8952692
+    41.8952993
   ],
   "description": "The Roman Mausoleum of Villa Gordiani is a two-storey cylindrical tomb with pronaos executed in opus latericium. It fronts on the ancient via Praenestina. The rotunda has a diameter of more than 19 meters. Based on brick stamps, chronology is potentially wide and likely should be assigned anywhere in the period from Constantine I to Theodoric.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5551042187,
-          41.8951291668
+          12.5551100029,
+          41.8951462461
         ]
       },
       "properties": {
@@ -35,28 +35,52 @@
             41.8951035
           ],
           [
-            12.5549435,
-            41.8951434
+            12.554987,
+            41.8951192
           ],
           [
-            12.5549462,
-            41.8952033
+            12.5549587,
+            41.8951462
           ],
           [
-            12.5549998,
-            41.8952592
+            12.5549431,
+            41.8951744
           ],
           [
-            12.5550776,
-            41.8952692
+            12.5549416,
+            41.8952111
           ],
           [
-            12.5551581,
-            41.8952512
+            12.554959,
+            41.8952523
           ],
           [
-            12.5552144,
-            41.8951913
+            12.5549984,
+            41.8952788
+          ],
+          [
+            12.555049,
+            41.8952971
+          ],
+          [
+            12.5551121,
+            41.8952993
+          ],
+          [
+            12.5551657,
+            41.8952865
+          ],
+          [
+            12.5552096,
+            41.8952593
+          ],
+          [
+            12.5552328,
+            41.8952186
+          ],
+          [
+            12.5552336,
+            41.895171
           ],
           [
             12.555209,
