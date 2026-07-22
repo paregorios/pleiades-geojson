@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "East Stoa at Thermon",
+  "id": "572529816",
+  "bbox": [
+    21.6682452642,
+    38.5579418634,
+    21.6682452642,
+    38.5579418634
+  ],
+  "description": "East stoa fronting the agora at Thermon",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6682452642,
+          38.5579418634
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.668245264245037,
+          38.55794186342609
+        ]
+      },
+      "id": "imagery-location-of-east-stoa-at-thermon",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative point derived from Google maps",
+        "location_precision": "precise",
+        "title": "Imagery Location of East Stoa at Thermon",
+        "link": "http://pleiades.stoa.org/places/572529816/imagery-location-of-east-stoa-at-thermon"
+      }
+    }
+  ]
+}

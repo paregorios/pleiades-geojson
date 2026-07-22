@@ -5,8 +5,8 @@
   "bbox": [
     34.8947404,
     36.9117938,
-    34.8972657,
-    36.9129699
+    34.89781,
+    36.91747
   ],
   "description": "An important city and river port on the Cydnus river located in Cilicia Pedias.",
   "connectsWith": [
@@ -43,8 +43,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.8957949884,
-          36.9123297012
+          34.8964666589,
+          36.9140431341
         ]
       },
       "properties": {
@@ -141,6 +141,23 @@
         "location_precision": "precise",
         "title": "CIGS location of Gözlükule",
         "link": "http://pleiades.stoa.org/places/648789/cigs-location-of-gozlukule"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.89781,
+          36.91747
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Likely central intersection of major roads: the Via Tauri (Pilgrim's Road) and the Zephyrion-Tarsus road (Cilicia coastal route).",
+        "location_precision": "precise",
+        "title": "Imagery Location: Tarsus - central location",
+        "link": "http://pleiades.stoa.org/places/648789/imagery-location"
       }
     }
   ]

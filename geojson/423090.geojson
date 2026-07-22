@@ -3,10 +3,10 @@
   "title": "Tor Paterno",
   "id": "423090",
   "bbox": [
-    12.346944,
-    41.711111,
-    12.346944,
-    41.711111
+    12.3912009,
+    41.6806284,
+    12.3922991,
+    41.6812217
   ],
   "description": "An ancient place, cited: BAtlas 43 B3 Tor Paterno",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.346944,
-          41.711111
+          12.3917465217,
+          41.6809594674
         ]
       },
       "properties": {
@@ -25,19 +25,53 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.346944,
-          41.711111
+          [
+            12.3913178,
+            41.6807954
+          ],
+          [
+            12.3916307,
+            41.680658
+          ],
+          [
+            12.3919323,
+            41.6806284
+          ],
+          [
+            12.3922991,
+            41.6811397
+          ],
+          [
+            12.3921704,
+            41.6811697
+          ],
+          [
+            12.3917574,
+            41.6812217
+          ],
+          [
+            12.3913336,
+            41.6811576
+          ],
+          [
+            12.3912009,
+            41.6808739
+          ],
+          [
+            12.3913178,
+            41.6807954
+          ]
         ]
       },
-      "id": "dare-location",
+      "id": "osm-location-of-villa-imperiale-di-tor-paterno",
       "type": "Feature",
       "properties": {
-        "description": "Representative point location, site precision",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/423090/dare-location"
+        "title": "OSM location of Villa Imperiale di Tor Paterno",
+        "link": "http://pleiades.stoa.org/places/423090/osm-location-of-villa-imperiale-di-tor-paterno"
       }
     }
   ]

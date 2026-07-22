@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Metapontine Treasury at Olympia",
+  "id": "638203604",
+  "bbox": [
+    21.631389,
+    37.639167,
+    21.631389,
+    37.639167
+  ],
+  "description": "Temple that held dedications and the treasure of Metapontion at the site of Olympia. Described by Pausanias",
+  "connectsWith": [
+    "570531"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.631389,
+          37.639167
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.631389,
+          37.639167
+        ]
+      },
+      "id": "wikidata-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Wikidata",
+        "location_precision": "precise",
+        "title": "Wikidata Location",
+        "link": "http://pleiades.stoa.org/places/638203604/wikidata-location"
+      }
+    }
+  ]
+}

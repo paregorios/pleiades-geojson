@@ -9,6 +9,10 @@
     41.5743029
   ],
   "description": "An ancient place, cited: BAtlas 87 G3 Apsaros/Apsyrtos",
+  "connectsWith": [
+    "981546",
+    "863770"
+  ],
   "names": [
     "Apsaros",
     "Apsyrtos",

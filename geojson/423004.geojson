@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3469371458,
-          41.7110917429
+          12.3470692916,
+          41.7109824858
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.346805,
-          41.711201
-        ]
-      },
-      "id": "darmc-location-7888",
-      "type": "Feature",
-      "properties": {
-        "description": "150K scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 7888",
-        "link": "http://pleiades.stoa.org/places/423004/darmc-location-7888"
       }
     },
     {

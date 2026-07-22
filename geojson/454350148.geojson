@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Quadrato di Torre Spaccata (Rome)",
+  "id": "454350148",
+  "bbox": [
+    12.5769675,
+    41.8682856,
+    12.5769675,
+    41.8682856
+  ],
+  "description": "A Late Neolithic to Chalcolithic settlement in the vicinity of the Medieval Torre Spaccata in Rome. The earlier settlement remains were truncated by activity in the Roman period that included road pavement.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5769675,
+          41.8682856
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5769675,
+          41.8682856
+        ]
+      },
+      "id": "osm-location-of-torre-spaccata",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Torre Spaccata",
+        "link": "http://pleiades.stoa.org/places/454350148/osm-location-of-torre-spaccata"
+      }
+    }
+  ]
+}

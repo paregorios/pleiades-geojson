@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "title": "Circuit wall at Thermon",
+  "id": "814334500",
+  "bbox": [
+    21.6653855,
+    38.556923,
+    21.6687577,
+    38.5604957
+  ],
+  "description": "Fortification wall surrounding the sanctuary of Apollo at Thermon",
+  "connectsWith": [
+    "541139"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6667012765,
+          38.5587816456
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              21.6679767,
+              38.556923,
+              0.0
+            ],
+            [
+              21.6676771,
+              38.5569462,
+              0.0
+            ],
+            [
+              21.6653855,
+              38.557569,
+              0.0
+            ],
+            [
+              21.6657309,
+              38.5578036,
+              0.0
+            ],
+            [
+              21.6656345,
+              38.5578572,
+              0.0
+            ],
+            [
+              21.6657773,
+              38.5581763,
+              0.0
+            ],
+            [
+              21.6665595,
+              38.5604957,
+              0.0
+            ],
+            [
+              21.667455,
+              38.5604384,
+              0.0
+            ],
+            [
+              21.6679779,
+              38.5603579,
+              0.0
+            ],
+            [
+              21.6679793,
+              38.5602292,
+              0.0
+            ],
+            [
+              21.6687577,
+              38.5600511,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "id": "imagery-location-circuit-walls-at-thermon",
+      "type": "Feature",
+      "properties": {
+        "description": "GeoJSON coordinates for Circuit Walls at Thermon",
+        "location_precision": "precise",
+        "title": "Imagery Location: Circuit Walls at Thermon",
+        "link": "http://pleiades.stoa.org/places/814334500/imagery-location-circuit-walls-at-thermon"
+      }
+    }
+  ]
+}

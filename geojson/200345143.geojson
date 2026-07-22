@@ -3,10 +3,10 @@
   "title": "Triconch Palace at Butrint",
   "id": "200345143",
   "bbox": [
-    20.0221854,
+    20.0219147,
     39.744341,
     20.022188,
-    39.7445286
+    39.7445462
   ],
   "description": "The so-called Triconch Palace.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0221867,
-          39.7444348
+          20.02205135,
+          39.7444436
         ]
       },
       "properties": {
@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0221854,
-          39.7445286
+          20.0219147,
+          39.7445462
         ]
       },
       "id": "osm-location-of-triconch-palace",

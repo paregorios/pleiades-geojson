@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Herculanus/Herculani Pagus",
   "id": "438749",
+  "bbox": [
+    14.811051,
+    41.319407,
+    14.811051,
+    41.319407
+  ],
   "description": "An ancient place, cited: BAtlas 44 unlocated Herculanus/Herculani Pagus",
   "connectsWith": [
     "432907"
@@ -13,20 +19,15 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.811051,
+          41.319407
+        ]
+      },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": null,
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/438749/batlas-location"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Maltezana",
+  "title": "Maltezana Marble Quarry",
   "id": "599782",
   "bbox": [
     26.382965,
@@ -8,7 +8,7 @@
     26.382965,
     36.581251
   ],
-  "description": "An ancient place, cited: BAtlas 61 C4 Maltezana",
+  "description": "An ancient quarry at Maltezana/Analipsis on the Aegean island of Astypalaia.",
   "connectsWith": [
     "599536"
   ],
@@ -37,7 +37,7 @@
       "id": "darmc-location-9264",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "1:500,000 scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
         "location_precision": "precise",
         "title": "DARMC location 9264",
         "link": "http://pleiades.stoa.org/places/599782/darmc-location-9264"
