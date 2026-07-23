@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Circus of Bovillae",
+  "id": "554051119",
+  "bbox": [
+    12.621643,
+    41.757481,
+    12.6217897,
+    41.7575101
+  ],
+  "description": "The remains of the arcade of the Roman circus remain visible near the site of ancient Bovillae.",
+  "connectsWith": [
+    "422852"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6217161182,
+          41.7574973235
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.621643,
+            41.7574941
+          ],
+          [
+            12.621647,
+            41.757481
+          ],
+          [
+            12.6216832,
+            41.7574883
+          ],
+          [
+            12.6217208,
+            41.7574926
+          ],
+          [
+            12.6217587,
+            41.7574968
+          ],
+          [
+            12.6217897,
+            41.7574979
+          ],
+          [
+            12.6217865,
+            41.7575101
+          ],
+          [
+            12.621754,
+            41.7575077
+          ],
+          [
+            12.6217181,
+            41.7575051
+          ],
+          [
+            12.6216805,
+            41.7574996
+          ],
+          [
+            12.621643,
+            41.7574941
+          ]
+        ]
+      },
+      "id": "osm-location-of-arcate-del-circo-di-bovillae",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Arcate del Circo di Bovillae",
+        "link": "http://pleiades.stoa.org/places/554051119/osm-location-of-arcate-del-circo-di-bovillae"
+      }
+    }
+  ]
+}

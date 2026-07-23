@@ -3,10 +3,10 @@
   "title": "Mausoleum of M. Coelius Vinicianus",
   "id": "629655495",
   "bbox": [
-    12.7008726,
-    41.797202,
-    12.7008726,
-    41.797202
+    12.7008316,
+    41.79714,
+    12.7009657,
+    41.7972396
   ],
   "description": "A mid-first century B.C. tomb at Tusculum.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.7008726,
-          41.797202
+          12.7008987061,
+          41.7971894588
         ]
       },
       "properties": {
@@ -28,19 +28,97 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.7008726,
-          41.797202
+          [
+            12.7009641,
+            41.7972012
+          ],
+          [
+            12.7009555,
+            41.7972163
+          ],
+          [
+            12.7009409,
+            41.7972286
+          ],
+          [
+            12.7009217,
+            41.7972366
+          ],
+          [
+            12.7009,
+            41.7972396
+          ],
+          [
+            12.7008779,
+            41.7972372
+          ],
+          [
+            12.7008581,
+            41.7972295
+          ],
+          [
+            12.7008428,
+            41.7972173
+          ],
+          [
+            12.7008336,
+            41.7972022
+          ],
+          [
+            12.7008316,
+            41.7971856
+          ],
+          [
+            12.700837,
+            41.7971694
+          ],
+          [
+            12.7008493,
+            41.7971554
+          ],
+          [
+            12.7008669,
+            41.7971452
+          ],
+          [
+            12.7008878,
+            41.79714
+          ],
+          [
+            12.7009098,
+            41.79714
+          ],
+          [
+            12.7009306,
+            41.7971453
+          ],
+          [
+            12.700948,
+            41.7971553
+          ],
+          [
+            12.7009602,
+            41.797169
+          ],
+          [
+            12.7009657,
+            41.7971849
+          ],
+          [
+            12.7009641,
+            41.7972012
+          ]
         ]
       },
-      "id": "osm-location-of-mausoleum-of-m-coelius-vinicianus",
+      "id": "osm-location-mausoleum-of-m-coelius-vinicianus",
       "type": "Feature",
       "properties": {
         "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Mausoleum of M. Coelius Vinicianus",
-        "link": "http://pleiades.stoa.org/places/629655495/osm-location-of-mausoleum-of-m-coelius-vinicianus"
+        "title": "OSM location: Mausoleum of M. Coelius Vinicianus",
+        "link": "http://pleiades.stoa.org/places/629655495/osm-location-mausoleum-of-m-coelius-vinicianus"
       }
     }
   ]

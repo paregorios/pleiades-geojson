@@ -1,0 +1,162 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cocciano",
+  "id": "267550313",
+  "bbox": [
+    12.683493,
+    41.8182287,
+    12.6852578,
+    41.8203563
+  ],
+  "description": "The archaeological area of Cocciano located in the comune of Frascati, Italy, is the site of an imperial-period villa that is associated with Livia Drusilla and her son, the emperor Tiberius.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6843610635,
+          41.8193325657
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6837731,
+            41.8182287
+          ],
+          [
+            12.6836641,
+            41.8182343
+          ],
+          [
+            12.6835268,
+            41.8184795
+          ],
+          [
+            12.6835043,
+            41.8185579
+          ],
+          [
+            12.683493,
+            41.8186546
+          ],
+          [
+            12.6835137,
+            41.8187218
+          ],
+          [
+            12.6836606,
+            41.8191011
+          ],
+          [
+            12.6836794,
+            41.8192132
+          ],
+          [
+            12.6836531,
+            41.819314
+          ],
+          [
+            12.683623,
+            41.8193757
+          ],
+          [
+            12.6835215,
+            41.8194429
+          ],
+          [
+            12.6849276,
+            41.8203563
+          ],
+          [
+            12.6852099,
+            41.8201004
+          ],
+          [
+            12.6847181,
+            41.8197785
+          ],
+          [
+            12.6852578,
+            41.8193149
+          ],
+          [
+            12.6850464,
+            41.8191485
+          ],
+          [
+            12.6850228,
+            41.8191519
+          ],
+          [
+            12.6850004,
+            41.8191489
+          ],
+          [
+            12.6849813,
+            41.819137
+          ],
+          [
+            12.6849619,
+            41.8191258
+          ],
+          [
+            12.6849567,
+            41.8191093
+          ],
+          [
+            12.6849596,
+            41.8190978
+          ],
+          [
+            12.6845801,
+            41.8188435
+          ],
+          [
+            12.6840538,
+            41.8184452
+          ],
+          [
+            12.6839328,
+            41.8184076
+          ],
+          [
+            12.683877,
+            41.8183809
+          ],
+          [
+            12.6838292,
+            41.8183353
+          ],
+          [
+            12.6838026,
+            41.8183056
+          ],
+          [
+            12.6837813,
+            41.818262
+          ],
+          [
+            12.6837731,
+            41.8182287
+          ]
+        ]
+      },
+      "id": "osm-location-of-parco-archeologico-di-cocciano",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Parco Archeologico di Cocciano",
+        "link": "http://pleiades.stoa.org/places/267550313/osm-location-of-parco-archeologico-di-cocciano"
+      }
+    }
+  ]
+}
