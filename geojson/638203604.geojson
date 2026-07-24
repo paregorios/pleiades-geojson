@@ -4,13 +4,16 @@
   "id": "638203604",
   "bbox": [
     21.631389,
-    37.639167,
-    21.631389,
+    37.6390121,
+    21.6315677,
     37.639167
   ],
   "description": "Temple that held dedications and the treasure of Metapontion at the site of Olympia. Described by Pausanias",
   "connectsWith": [
     "570531"
+  ],
+  "names": [
+    "Thisavrós L"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.631389,
-          37.639167
+          21.6314513607,
+          37.6391212176
         ]
       },
       "properties": {
@@ -41,6 +44,45 @@
         "location_precision": "precise",
         "title": "Wikidata Location",
         "link": "http://pleiades.stoa.org/places/638203604/wikidata-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.6314598,
+            37.6391306
+          ],
+          [
+            21.6314719,
+            37.6390459
+          ],
+          [
+            21.6314768,
+            37.6390121
+          ],
+          [
+            21.6315677,
+            37.6390203
+          ],
+          [
+            21.6315506,
+            37.6391388
+          ],
+          [
+            21.6314598,
+            37.6391306
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Θησαυρός Λ",
+        "link": "http://pleiades.stoa.org/places/638203604/osm-location"
       }
     }
   ]

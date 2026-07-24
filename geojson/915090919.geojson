@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "\"Gymnasium\" at Eleusis",
+  "id": "915090919",
+  "bbox": [
+    23.5382373,
+    38.0395946,
+    23.5386202,
+    38.0398337
+  ],
+  "description": "A first-century AD colonnaded structure south of the sanctuary of Demeter and Kore at Eleusis, perhaps a gymnasium or a sanctuary dedicated to the Imperial cult.",
+  "connectsWith": [
+    "579920"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.538468664,
+          38.0397398538
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.5382373,
+            38.0396565
+          ],
+          [
+            23.5383113,
+            38.0397297
+          ],
+          [
+            23.5383505,
+            38.0397687
+          ],
+          [
+            23.5383882,
+            38.0398064
+          ],
+          [
+            23.5384155,
+            38.0398337
+          ],
+          [
+            23.5384925,
+            38.0397846
+          ],
+          [
+            23.5385252,
+            38.0398165
+          ],
+          [
+            23.5385961,
+            38.0397687
+          ],
+          [
+            23.538568,
+            38.0397411
+          ],
+          [
+            23.5386202,
+            38.0397074
+          ],
+          [
+            23.5385019,
+            38.0395946
+          ]
+        ]
+      },
+      "id": "osm-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Γυμνάσιον",
+        "link": "http://pleiades.stoa.org/places/915090919/osm-location"
+      }
+    }
+  ]
+}

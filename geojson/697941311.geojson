@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bi'r Shawīsh",
+  "id": "697941311",
+  "bbox": [
+    28.647556,
+    28.0400569,
+    28.6480197,
+    28.0403818
+  ],
+  "description": "Small settlement in the Bahariya Oasis inhabited from roughly the 1st-7th centuries CE.",
+  "connectsWith": [
+    "716609"
+  ],
+  "names": [
+    "Bi'r Shawīsh"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6477889083,
+          28.0402218048
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.647556,
+            28.0401818
+          ],
+          [
+            28.647641,
+            28.0403818
+          ],
+          [
+            28.6480197,
+            28.0402693
+          ],
+          [
+            28.6479312,
+            28.0400569
+          ],
+          [
+            28.647556,
+            28.0401818
+          ]
+        ]
+      },
+      "id": "bir-shawish-house-3",
+      "type": "Feature",
+      "properties": {
+        "description": "Polygon representing the visible remains of House 3 at Bir Shawish, derived from an OpenStreetMap Way after Dospěl 2020.",
+        "location_precision": "precise",
+        "title": "OSM location of Bīr Shawīsh, House 3",
+        "link": "http://pleiades.stoa.org/places/697941311/bir-shawish-house-3"
+      }
+    }
+  ]
+}

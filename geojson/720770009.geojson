@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "title": "Greater Propylaia, Eleusis",
+  "id": "720770009",
+  "bbox": [
+    23.5387457,
+    38.0417511,
+    23.5391078,
+    38.0420509
+  ],
+  "description": "The outer entranceway to the sanctuary of Demeter and Kore at Eleusis, completed by the emperor Marcus Aurelius and modelled on the Propylaia of the Acropolis in Athens.",
+  "connectsWith": [
+    "579920",
+    "579910"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5389254107,
+          38.0418996846
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.5388901,
+            38.0420509
+          ],
+          [
+            23.5387457,
+            38.0418363
+          ],
+          [
+            23.5389001,
+            38.0417778
+          ],
+          [
+            23.5389358,
+            38.0417618
+          ],
+          [
+            23.5389572,
+            38.0417511
+          ],
+          [
+            23.5391078,
+            38.0419542
+          ],
+          [
+            23.5390155,
+            38.0419935
+          ],
+          [
+            23.5388901,
+            38.0420509
+          ]
+        ]
+      },
+      "id": "osm-iiui3i-i-i-i-ii-iii-i-i1i",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Μεγάλα Προπύλαια",
+        "link": "http://pleiades.stoa.org/places/720770009/osm-iiui3i-i-i-i-ii-iii-i-i1i"
+      }
+    }
+  ]
+}

@@ -8,14 +8,16 @@
     21.9224514,
     37.1790449
   ],
-  "description": "Capital of Messenia",
+  "description": "The ancient capital of Messenia; its excavated monumental remains lie immediately south and west of the modern Greek village of Mavrommati.",
   "connectsWith": [
     "570480",
     "570318"
   ],
   "names": [
     "Messene",
-    "Ithome"
+    "Ithome",
+    "Mavromati",
+    "Mavrommati"
   ],
   "features": [
     {

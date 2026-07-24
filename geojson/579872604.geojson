@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Bi'r Minayh ",
+  "id": "579872604",
+  "bbox": [
+    33.60644,
+    25.558291,
+    33.60644,
+    25.558291
+  ],
+  "description": "Multi-period site surrounding a well in Wadi Minayh, eastern Egypt. The site includes a mining settlement or Christian lavra dated to the 4th-6th centuries CE, an earlier Pharaonic settlement, and numerous inscriptions from the Old, Middle, and New Kingdom periods.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.60644,
+          25.558291
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.60644,
+          25.558291
+        ]
+      },
+      "id": "google-earth-location-of-bir-minayh",
+      "type": "Feature",
+      "properties": {
+        "description": "Point representing the visible remains of the Late Antique structures at Bir Minayh, after Desert Networks 2020.",
+        "location_precision": "precise",
+        "title": "Google Earth location of Bir Minayh",
+        "link": "http://pleiades.stoa.org/places/579872604/google-earth-location-of-bir-minayh"
+      }
+    }
+  ]
+}

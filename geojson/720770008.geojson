@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "\"Mithraeum\" at Eleusis",
+  "id": "720770008",
+  "bbox": [
+    23.5382658,
+    38.0398424,
+    23.5384226,
+    38.0399623
+  ],
+  "description": "A small 1st-century AD temple south of the sanctuary of Demeter and Kore at Eleusis, which was identified by the original excavator as a Mithraeum. This is unlikely to be correct. Other suggestions include that it was devoted to the cult of Augustus.",
+  "connectsWith": [
+    "579920"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5383427455,
+          38.0399018194
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.5382936,
+            38.0399623
+          ],
+          [
+            23.5384226,
+            38.0398999
+          ],
+          [
+            23.5383887,
+            38.0398424
+          ],
+          [
+            23.5382658,
+            38.0399001
+          ],
+          [
+            23.5382936,
+            38.0399623
+          ]
+        ]
+      },
+      "id": "osm-ii1i-ii-i-i",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Μιθραίο",
+        "link": "http://pleiades.stoa.org/places/720770008/osm-ii1i-ii-i-i"
+      }
+    }
+  ]
+}

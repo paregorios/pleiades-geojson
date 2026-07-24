@@ -2,17 +2,26 @@
   "type": "FeatureCollection",
   "title": "Begesse",
   "id": "92120",
-  "description": "An ancient name preserved in the Ravenna Cosmography. It may correspond to the Antonine Wall fort at Castlecary in Scotland.",
-  "connectsWith": [
-    "89138"
+  "bbox": [
+    -3.9428085,
+    55.9813084,
+    -3.9382851,
+    55.9832885
   ],
+  "description": "An ancient name preserved in the Ravenna Cosmography. It may correspond to the Antonine Wall fort at Castlecary in Scotland.",
   "names": [
     "Begesse"
   ],
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94055017646,
+          55.9822803332
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
