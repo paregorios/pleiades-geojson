@@ -9,6 +9,9 @@
     34.502892
   ],
   "description": "An ancient place, cited: BAtlas 92 C2 [Kangavar]/Concobar",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Kangavar",
     "Concobar"

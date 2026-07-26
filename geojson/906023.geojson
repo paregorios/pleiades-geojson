@@ -3,6 +3,9 @@
   "title": "Pharaspa",
   "id": "906023",
   "description": "An ancient place, cited: BAtlas 92 unlocated Pharaspa",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Pharaspa"
   ],

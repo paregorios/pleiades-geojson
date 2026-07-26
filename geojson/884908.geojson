@@ -3,6 +3,9 @@
   "title": "Phazaba",
   "id": "884908",
   "description": "An ancient place, cited: BAtlas 90 unlocated Phazaba",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Phazaba"
   ],

@@ -9,6 +9,10 @@
     34.1889
   ],
   "description": "Nemavand/Laodicea/Niphaunda was an ancient city in Media founded by Darius the Great.",
+  "connectsWith": [
+    "903080",
+    "45635759"
+  ],
   "names": [
     "Nemavand",
     "Laodicea",

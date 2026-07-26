@@ -3,6 +3,9 @@
   "title": "Kandys",
   "id": "884886",
   "description": "An ancient place, cited: BAtlas 90 unlocated Kandys",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Kandys"
   ],

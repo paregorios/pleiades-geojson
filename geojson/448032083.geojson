@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ager Capenas",
+  "id": "448032083",
+  "description": "The territory (ager) of ancient Capena was a region adjacent to Etruria wherein the Faliscan culture was prominent. According to Barri Jones, this territory was roughly triangular in shape, with its margins being defined by the Tiber River, the Via Flaminia, and Monte Soratte.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

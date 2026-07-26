@@ -3,6 +3,9 @@
   "title": "Gabris",
   "id": "884881",
   "description": "An ancient place, cited: BAtlas 90 unlocated Gabris",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Gabris"
   ],

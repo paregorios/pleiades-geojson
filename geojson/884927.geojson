@@ -3,6 +3,9 @@
   "title": "Zalake",
   "id": "884927",
   "description": "An ancient place, cited: BAtlas 90 unlocated Zalake",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Zalake"
   ],

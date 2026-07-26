@@ -3,6 +3,9 @@
   "title": "Ouarna/Ourna",
   "id": "884901",
   "description": "An ancient place, cited: BAtlas 90 unlocated Ouarna/Ourna",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Ouarna",
     "Ourna"

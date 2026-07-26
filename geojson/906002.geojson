@@ -3,6 +3,9 @@
   "title": "Adrapanan/Adrapana/Arteman",
   "id": "906002",
   "description": "An ancient place, cited: BAtlas 92 unlocated Adrapana(n)/Arteman?",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Adrapanan",
     "Adrapana",

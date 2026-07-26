@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "title": "Israel (kingdom)",
+  "id": "14077998",
+  "description": "The Kingdom of Israel was a northern Israelite state founded ca. 930 BCE and persisting through ca. 720 BCE. The kingdom fell to the conquest of Sargon II of the Neo-Assyrian Empire.",
+  "connectsWith": [
+    "246986521",
+    "305554191",
+    "1043"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

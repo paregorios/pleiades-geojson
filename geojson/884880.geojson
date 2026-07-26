@@ -3,6 +3,9 @@
   "title": "Gabale",
   "id": "884880",
   "description": "An ancient place, cited: BAtlas 90 unlocated Gabale",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Gabale"
   ],

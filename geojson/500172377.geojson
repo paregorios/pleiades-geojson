@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "title": "Monte della Casetta catacomb",
+  "id": "500172377",
+  "description": "A catacomb at Monte della Casetta in the territory of Capena was discovered accidentally in 1911. Enrico Stefani initially documented the site.",
+  "connectsWith": [
+    "413062",
+    "448032083"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

@@ -3,6 +3,9 @@
   "title": "Kourna",
   "id": "884888",
   "description": "An ancient place, cited: BAtlas 90 unlocated Kourna",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Kourna"
   ],

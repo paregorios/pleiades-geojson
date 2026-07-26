@@ -3,6 +3,9 @@
   "title": "Skabina",
   "id": "884918",
   "description": "An ancient place, cited: BAtlas 90 unlocated Skabina",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Skabina"
   ],

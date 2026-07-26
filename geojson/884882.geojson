@@ -3,6 +3,9 @@
   "title": "Gauzania",
   "id": "884882",
   "description": "An ancient place, cited: BAtlas 90 unlocated Gauzania",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Gauzania"
   ],

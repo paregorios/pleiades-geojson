@@ -3,6 +3,9 @@
   "title": "Tonzarma",
   "id": "884925",
   "description": "An ancient place, cited: BAtlas 90 unlocated Tonzarma",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Tonzarma"
   ],

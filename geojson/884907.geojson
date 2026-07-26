@@ -3,6 +3,9 @@
   "title": "Pharambara",
   "id": "884907",
   "description": "An ancient place, cited: BAtlas 90 unlocated Pharambara",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Pharambara"
   ],

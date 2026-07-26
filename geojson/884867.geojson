@@ -3,6 +3,9 @@
   "title": "Azaga",
   "id": "884867",
   "description": "An ancient place, cited: BAtlas 90 unlocated Azaga",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Azaga"
   ],

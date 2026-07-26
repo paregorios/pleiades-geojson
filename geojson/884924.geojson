@@ -3,6 +3,9 @@
   "title": "Tigrana",
   "id": "884924",
   "description": "An ancient place, cited: BAtlas 90 unlocated Tigrana",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Tigrana"
   ],

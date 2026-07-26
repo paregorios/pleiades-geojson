@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "title": "Samaria (province)",
+  "id": "44836840",
+  "bbox": [
+    35.190436,
+    32.276529,
+    35.190436,
+    32.276529
+  ],
+  "description": "Samaria, the capital of the northern kingdom of Israel, was conquered by the Assyrian king Shalmaneser V (r. 726-722 BC), probably in 722 BC. The city and the area around it, were reorganized into an Assyrian province.",
+  "connectsWith": [
+    "14077998",
+    "14077997",
+    "73232202",
+    "44836839",
+    "29492"
+  ],
+  "names": [
+    "Samerīna",
+    "Samerina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.190436,
+          32.276529
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.190436,
+          32.276529
+        ]
+      },
+      "id": "representative-location-of-samaria-province",
+      "type": "Feature",
+      "properties": {
+        "description": "The representative point is the DARE Location of Sebastiya.",
+        "location_precision": "precise",
+        "title": "Representative location of Samaria (province)",
+        "link": "http://pleiades.stoa.org/places/44836840/representative-location-of-samaria-province"
+      }
+    }
+  ]
+}

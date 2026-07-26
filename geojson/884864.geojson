@@ -3,6 +3,9 @@
   "title": "Alouaka",
   "id": "884864",
   "description": "An ancient place, cited: BAtlas 90 unlocated Alouaka",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Alouaka"
   ],

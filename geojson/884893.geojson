@@ -3,6 +3,9 @@
   "title": "Morounda",
   "id": "884893",
   "description": "An ancient place, cited: BAtlas 90 unlocated Morounda",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Morounda"
   ],

@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "title": "Nisāya / Nisaian plain",
+  "id": "204859816",
+  "bbox": [
+    46.5059448765,
+    34.3881,
+    51.3600453284,
+    35.2699511424
+  ],
+  "description": "A plain in Media, not far from Behistun, famous in the Achaemenid and Hellenistic periods for the quality of its horses.",
+  "connectsWith": [
+    "903002",
+    "903080"
+  ],
+  "names": [
+    "Nisāya",
+    "Nu-iš-šá-ya",
+    "Ni-is-sa-a-a",
+    "Nḗsaion pedíon"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1877681541,
+          34.6973691961
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

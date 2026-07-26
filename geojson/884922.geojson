@@ -3,6 +3,9 @@
   "title": "Tachasara",
   "id": "884922",
   "description": "An ancient place, cited: BAtlas 90 unlocated Tachasara",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Tachasara"
   ],

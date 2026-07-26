@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "title": "Rhagiane",
+  "id": "223123270",
+  "description": "A region of Media centring on the city of Rhagai.",
+  "connectsWith": [
+    "903080"
+  ],
+  "names": [
+    "Ragianē"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

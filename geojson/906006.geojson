@@ -3,6 +3,9 @@
   "title": "Bazigraban",
   "id": "906006",
   "description": "An ancient place, cited: BAtlas 92 unlocated Bazigraban",
+  "connectsWith": [
+    "903080"
+  ],
   "names": [
     "Bazigraban"
   ],

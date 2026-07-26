@@ -9,6 +9,10 @@
     34.3807069068
   ],
   "description": "An ancient place, cited: BAtlas 92 C2 Kambadene/Kampa(n)da",
+  "connectsWith": [
+    "903080",
+    "45635759"
+  ],
   "names": [
     "Kambadene",
     "Kampanda",
