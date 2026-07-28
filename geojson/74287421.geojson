@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "Labyrinth of Knossos",
+  "id": "74287421",
+  "description": "Legendary, mythological labyrinth in the palace of Knossos built by mythic figure Daedalus to house the monster Minotaur.",
+  "connectsWith": [
+    "781961476"
+  ],
+  "names": [
+    "Labyrinthos",
+    "Labyrinthus"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

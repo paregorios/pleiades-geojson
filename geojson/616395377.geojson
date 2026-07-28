@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Junia Rufina's Well",
+  "id": "616395377",
+  "bbox": [
+    20.0210252,
+    39.7476217,
+    20.0210252,
+    39.7476217
+  ],
+  "description": "The well of Junia Rufina at Butrint is located near the Lion Gate. The building is a monumentalized spring house with a Greek inscription that names Junia Rufina as patron: \"Junia Rufina, friend of the Nymphs.\" Its construction dates to the reign of Hadrian.",
+  "connectsWith": [
+    "530824"
+  ],
+  "names": [
+    "Well of Junia Rufina"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0210252,
+          39.7476217
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0210252,
+          39.7476217
+        ]
+      },
+      "id": "osm-location-of-junia-rufinas-well",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Junia Rufina's Well",
+        "link": "http://pleiades.stoa.org/places/616395377/osm-location-of-junia-rufinas-well"
+      }
+    }
+  ]
+}

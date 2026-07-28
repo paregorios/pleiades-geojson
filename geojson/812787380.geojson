@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple with the indented niches",
+  "id": "812787380",
+  "bbox": [
+    69.410501,
+    37.167371,
+    69.410501,
+    37.167371
+  ],
+  "description": "The main sanctuary at Ai Khanoum, built in a mixture of Greek and Mesopotamian styles under the Seleucids and rebuilt under the Diodotids in the 240s BC, again in the early 2rd century BC and in the reign of Eukratides (ca. 170-140 BC).",
+  "connectsWith": [
+    "971693"
+  ],
+  "names": [
+    "Temple with the indented niches",
+    "Temple à redans"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.410501,
+          37.167371
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.410501,
+          37.167371
+        ]
+      },
+      "id": "google-maps-location",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Google maps location",
+        "link": "http://pleiades.stoa.org/places/812787380/google-maps-location"
+      }
+    }
+  ]
+}

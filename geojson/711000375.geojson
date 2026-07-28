@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mausoleum of Tor di Quinto",
+  "id": "711000375",
+  "bbox": [
+    12.520993,
+    41.9240853,
+    12.5210938,
+    41.9241601
+  ],
+  "description": "A circular mausoleum dating to the time of the Roman Empire is visible today at Tor di Quinto. Elements of this marble funereal monument were uncovered in excavations conducted by a landowner in 1876 along the Via Flaminia, not far from the Porta del Popolo. The marble elements were expropriated by the state and then fell into neglect for more than 20 years. By 1897 the Museo Nazionale Romano had an interest in purchasing the remains, but had insufficient funds to do so. The Baron Albert Blanc purchased the marbles and partially restored the monument on his property, the Villa Blanc. Giacomo Boni assisted in the reconstruction of the monument.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5210434022,
+          41.9241225957
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.521092,
+            41.9241328
+          ],
+          [
+            12.5210852,
+            41.9241437
+          ],
+          [
+            12.5210741,
+            41.9241524
+          ],
+          [
+            12.5210598,
+            41.9241581
+          ],
+          [
+            12.5210439,
+            41.9241601
+          ],
+          [
+            12.521028,
+            41.9241583
+          ],
+          [
+            12.5210136,
+            41.9241529
+          ],
+          [
+            12.5210022,
+            41.9241443
+          ],
+          [
+            12.5209948,
+            41.9241328
+          ],
+          [
+            12.520993,
+            41.92412
+          ],
+          [
+            12.5209971,
+            41.9241075
+          ],
+          [
+            12.5210067,
+            41.9240968
+          ],
+          [
+            12.5210205,
+            41.9240891
+          ],
+          [
+            12.521037,
+            41.9240853
+          ],
+          [
+            12.5210542,
+            41.9240859
+          ],
+          [
+            12.5210702,
+            41.9240908
+          ],
+          [
+            12.5210823,
+            41.9240987
+          ],
+          [
+            12.5210905,
+            41.9241091
+          ],
+          [
+            12.5210938,
+            41.9241208
+          ],
+          [
+            12.521092,
+            41.9241328
+          ]
+        ]
+      },
+      "id": "osm-location-of-mausoleo-di-tor-di-quinto",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Mausoleo di Tor di Quinto",
+        "link": "http://pleiades.stoa.org/places/711000375/osm-location-of-mausoleo-di-tor-di-quinto"
+      }
+    }
+  ]
+}

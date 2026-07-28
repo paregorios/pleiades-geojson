@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cylarabis Gymnasium (Argos)",
+  "id": "783324303",
+  "description": "A gymnasium built just outside of the walls of Argos. Now destroyed; its precise ancient location is unknown.",
+  "connectsWith": [
+    "570106"
+  ],
+  "names": [
+    "Cyllarabion",
+    "Gymnasio to Kylarabon",
+    "Cylarabim gymnasium"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

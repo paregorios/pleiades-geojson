@@ -3,10 +3,10 @@
   "title": "Pont Romà",
   "id": "439339512",
   "bbox": [
-    3.0149992,
-    39.8824325,
-    3.0149992,
-    39.8824325
+    3.0150347,
+    39.8824768,
+    3.015071,
+    39.8826213
   ],
   "description": "A Roman bridge on the island of Majorca (Pollença, Mallorca, Spain).",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.0149992,
-          39.8824325
+          3.01505285,
+          39.88254905
         ]
       },
       "properties": {

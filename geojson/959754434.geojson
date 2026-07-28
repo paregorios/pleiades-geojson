@@ -9,6 +9,10 @@
     41.6550463
   ],
   "description": "A Paleochristian church (fifth century CE) located near ancient Lavinium.",
+  "names": [
+    "Santa Maria delle Vigne",
+    "La Madonnella"
+  ],
   "features": [
     {
       "type": "Feature",
