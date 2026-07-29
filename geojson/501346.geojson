@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Alyke",
+  "title": "Alyke (settlement)",
   "id": "501346",
   "bbox": [
     24.7426456,
@@ -8,7 +8,7 @@
     24.7426456,
     40.6049081
   ],
-  "description": "An ancient place, cited: BAtlas 51 D3 Alyke",
+  "description": "An ancient settlement on the southeast coast of the Aegean island of Thasos.",
   "connectsWith": [
     "501635"
   ],

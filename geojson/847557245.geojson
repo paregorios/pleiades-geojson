@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "title": "Gamarga/Gadamala",
+  "id": "847557245",
+  "bbox": [
+    46.5059448765,
+    34.6227377488,
+    51.3600453284,
+    35.2699511424
+  ],
+  "description": "A village in Media notable for its agricultural wealth.",
+  "connectsWith": [
+    "903080"
+  ],
+  "names": [
+    "Gamarga",
+    "Gadamala"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9437363082,
+          35.0066383922
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}
