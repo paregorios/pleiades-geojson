@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Middlewich Roman fort",
+  "id": "929059942",
+  "bbox": [
+    -2.4472271,
+    53.198823,
+    -2.4472271,
+    53.198823
+  ],
+  "description": "A Roman fort in use in the late first century CE near Salinae at Harbutt's Field, Middlewich.",
+  "connectsWith": [
+    "79667"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4472271,
+          53.198823
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4472271,
+          53.198823
+        ]
+      },
+      "id": "pastscape-location-middlewhich",
+      "type": "Feature",
+      "properties": {
+        "description": null,
+        "location_precision": "precise",
+        "title": "Pastscape location: Middlewhich",
+        "link": "http://pleiades.stoa.org/places/929059942/pastscape-location-middlewhich"
+      }
+    }
+  ]
+}

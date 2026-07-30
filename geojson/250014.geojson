@@ -3,10 +3,10 @@
   "title": "Untitled",
   "id": "250014",
   "bbox": [
-    2.257569,
-    41.482206,
-    2.257569,
-    41.482206
+    2.2575175,
+    41.4817287,
+    2.2581032,
+    41.4822874
   ],
   "description": "An ancient place, cited: BAtlas 25 H4 no. 108 (Can Sentromà (Tiana))",
   "features": [
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.257569,
-          41.482206
+          2.25767455465,
+          41.4821084189
         ]
       },
       "properties": {
@@ -38,6 +38,85 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/250014/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.2575952,
+            41.4820137
+          ],
+          [
+            2.2577288,
+            41.4820798
+          ],
+          [
+            2.2576673,
+            41.4821501
+          ],
+          [
+            2.2576844,
+            41.4821586
+          ],
+          [
+            2.2576638,
+            41.4821822
+          ],
+          [
+            2.2576944,
+            41.4821973
+          ],
+          [
+            2.2576781,
+            41.482216
+          ],
+          [
+            2.257725,
+            41.4822472
+          ],
+          [
+            2.2578483,
+            41.4822874
+          ],
+          [
+            2.2581032,
+            41.4820201
+          ],
+          [
+            2.2576445,
+            41.4817287
+          ],
+          [
+            2.2575801,
+            41.4817971
+          ],
+          [
+            2.2575175,
+            41.4818834
+          ],
+          [
+            2.2576533,
+            41.4819505
+          ],
+          [
+            2.2576049,
+            41.4820059
+          ],
+          [
+            2.2575952,
+            41.4820137
+          ]
+        ]
+      },
+      "id": "osm-location-of-vila-la-romana-de-can-sent-roma",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap, chronology following the Barrington Atlas",
+        "location_precision": "precise",
+        "title": "OSM location of Vil·la romana de Can Sent-romà",
+        "link": "http://pleiades.stoa.org/places/250014/osm-location-of-vila-la-romana-de-can-sent-roma"
       }
     }
   ]

@@ -9,6 +9,9 @@
     40.0
   ],
   "description": "An ancient place, cited: BAtlas 26 D2 unnamed centuriation group (around Mérida)",
+  "connectsWith": [
+    "256155"
+  ],
   "features": [
     {
       "type": "Feature",

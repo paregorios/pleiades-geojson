@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Diomedis (promontory)",
+  "title": "Withdrawn: Diomedis (promontory)",
   "id": "197249",
   "bbox": [
     15.9697829,
@@ -8,12 +8,9 @@
     15.9697829,
     43.4939338
   ],
-  "description": "Modern Point Ploča in Croatia.",
+  "description": "Merged into https://pleiades.stoa.org/places/197309",
   "names": [
-    "Rt Ploča",
-    "Planka Point",
-    "Punta Planca",
-    "Diomedis Pr."
+    "Rt Ploča"
   ],
   "features": [
     {
@@ -43,7 +40,7 @@
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
         "title": "OSM Location of Rt Ploča",
-        "link": "http://pleiades.stoa.org/places/197249/osm-location-of-rt-ploaa"
+        "link": "http://pleiades.stoa.org/errata/197249/osm-location-of-rt-ploaa"
       }
     }
   ]

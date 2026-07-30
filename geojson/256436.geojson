@@ -9,6 +9,9 @@
     36.763305
   ],
   "description": "An ancient place, cited: BAtlas 26 E5 El Santiscal",
+  "names": [
+    "El Santiscal"
+  ],
   "features": [
     {
       "type": "Feature",
