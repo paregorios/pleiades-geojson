@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "title": "Xenodoquio",
+  "id": "614311138",
+  "bbox": [
+    -6.3379743,
+    38.9207711,
+    -6.337573,
+    38.9211913
+  ],
+  "description": "Santa Catalina Basilica, Mérida, is part of the designated UNESCO World Heritage. The basilica was originally established as a xenodochium (a hostel) in the Roman period and was later adapted as a Christian basilica in Late Antiquity.",
+  "connectsWith": [
+    "256155"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33777970383,
+          38.9209735134
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.3379743,
+            38.9209992
+          ],
+          [
+            -6.3379685,
+            38.9207981
+          ],
+          [
+            -6.3376984,
+            38.9207711
+          ],
+          [
+            -6.3377022,
+            38.9210457
+          ],
+          [
+            -6.337573,
+            38.9210578
+          ],
+          [
+            -6.3375846,
+            38.9211283
+          ],
+          [
+            -6.3377042,
+            38.9211913
+          ],
+          [
+            -6.3378147,
+            38.9211127
+          ],
+          [
+            -6.3379743,
+            38.9209992
+          ]
+        ]
+      },
+      "id": "osm-location-of-xenodoquio",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Xenodoquio",
+        "link": "http://pleiades.stoa.org/places/614311138/osm-location-of-xenodoquio"
+      }
+    }
+  ]
+}

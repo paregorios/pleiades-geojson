@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Diomedes (Ploča)",
+  "id": "176098793",
+  "bbox": [
+    15.9702573,
+    43.4944781,
+    15.9703513,
+    43.4945205
+  ],
+  "description": "Archaeological evidence in the vicinity of the 14th-century Church of St. John of Trogir on the Croatian Ploča peninsula indicates the presence, in Hellenistic times, of at least a small temple and associated pottery dump. Epigraphic evidence ties the temple to Diomedes, presumably as a protector of navigation. Pliny's testimony that the promontory itself bore the name of Diomedes corroborates this evidence.",
+  "connectsWith": [
+    "197309"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9703042827,
+          43.4944993247
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15.9702573,
+            43.4945193
+          ],
+          [
+            15.9703503,
+            43.4945205
+          ],
+          [
+            15.9703513,
+            43.4944794
+          ],
+          [
+            15.9702583,
+            43.4944781
+          ],
+          [
+            15.9702573,
+            43.4945193
+          ]
+        ]
+      },
+      "id": "osm-location-sv-ivan",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: Sv. Ivan",
+        "link": "http://pleiades.stoa.org/places/176098793/osm-location-sv-ivan"
+      }
+    }
+  ]
+}

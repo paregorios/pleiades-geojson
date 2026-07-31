@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Naveta de Son Morell de Dalt",
+  "id": "699043944",
+  "bbox": [
+    3.874267,
+    40.036406,
+    3.874267,
+    40.036406
+  ],
+  "description": "A prehistoric funerary monument located in the municipality of Ciutadella, on the island of Menorca, España.",
+  "connectsWith": [
+    "572631626"
+  ],
+  "names": [
+    "Naveta de Son Morell de Dalt"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.874267,
+          40.036406
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.874267,
+          40.036406
+        ]
+      },
+      "id": "osm-location-of-naveta-of-son-morell",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Naveta of Son Morell",
+        "link": "http://pleiades.stoa.org/places/699043944/osm-location-of-naveta-of-son-morell"
+      }
+    }
+  ]
+}

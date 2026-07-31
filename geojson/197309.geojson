@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Hyllis Pr.",
+  "title": "Hyllis/Diomedis (promontory)",
   "id": "197309",
   "bbox": [
     15.9689188,
@@ -8,8 +8,11 @@
     15.9689188,
     43.4932638
   ],
-  "description": "An ancient place, cited: BAtlas 20 C6 Hyllis Pr.",
+  "description": "Modern Cape Ploča / Punta Planka on Croatia's Adriatic coast. Pleiades follows Pliny, the only extant source providing names for this feature, who treats \"Hyllis\" and \"Diomedis\" as two names for the same landform. BAtlas and, later, Shipley and Šešelj, treated \"Diomedis\" as the small, narrow promontory on which an ancient temple to Diomedes stood and \"Hyllis\" as the larger, blunt peninsula of which it was a part due to the presence of the Hylloi, attested in the Periplus of Pseudo-Skylax, who seem to have inhabited the area.",
   "names": [
+    "Diomedis Pr.",
+    "Planka Point",
+    "Punta Planca",
     "Hyllis Pr.",
     "paeninsula Hyllis",
     "promunturium Diomedis",

@@ -3,10 +3,10 @@
   "title": "Senhora da Luz",
   "id": "256443",
   "bbox": [
-    -8.730655,
-    37.086054,
-    -8.728873,
-    37.08634
+    -8.7290333,
+    37.0858786,
+    -8.7286015,
+    37.0862485
   ],
   "description": "An ancient place, cited: BAtlas 26 B4 Senhora da Luz",
   "features": [
@@ -15,29 +15,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.729764,
-          37.086197
+          -8.7288523988,
+          37.0860615395
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.730655,
-          37.08634
-        ]
-      },
-      "id": "darmc-location-21093",
-      "type": "Feature",
-      "properties": {
-        "description": "1M scale point location",
-        "location_precision": "precise",
-        "title": "DARMC location 21093",
-        "link": "http://pleiades.stoa.org/places/256443/darmc-location-21093"
       }
     },
     {
@@ -55,6 +38,109 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/256443/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.7286015,
+            37.0860942
+          ],
+          [
+            -8.7286876,
+            37.086002
+          ],
+          [
+            -8.7288454,
+            37.0858786
+          ],
+          [
+            -8.7289708,
+            37.0859927
+          ],
+          [
+            -8.7289976,
+            37.0860013
+          ],
+          [
+            -8.7290333,
+            37.0860022
+          ],
+          [
+            -8.7290321,
+            37.0860365
+          ],
+          [
+            -8.7290137,
+            37.0860422
+          ],
+          [
+            -8.729000600000001,
+            37.0860526
+          ],
+          [
+            -8.7289946,
+            37.0860674
+          ],
+          [
+            -8.7289874,
+            37.0861397
+          ],
+          [
+            -8.7289812,
+            37.0861669
+          ],
+          [
+            -8.7289594,
+            37.0861825
+          ],
+          [
+            -8.7289452,
+            37.0862014
+          ],
+          [
+            -8.7289088,
+            37.0862
+          ],
+          [
+            -8.7288739,
+            37.0861974
+          ],
+          [
+            -8.7288457,
+            37.0861993
+          ],
+          [
+            -8.7288253,
+            37.0862181
+          ],
+          [
+            -8.7288134,
+            37.0862485
+          ],
+          [
+            -8.7287872,
+            37.0862243
+          ],
+          [
+            -8.7287365,
+            37.0861744
+          ],
+          [
+            -8.7286015,
+            37.0860942
+          ]
+        ]
+      },
+      "id": "osm-location-of-estaassapso-arqueola3gica-romana",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Estação Arqueológica Romana da Praia da Luz",
+        "link": "http://pleiades.stoa.org/places/256443/osm-location-of-estaassapso-arqueola3gica-romana"
       }
     }
   ]

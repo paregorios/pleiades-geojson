@@ -9,6 +9,9 @@
     38.539957
   ],
   "description": "An ancient place, cited: BAtlas 26 B3 Serra dos Monges",
+  "names": [
+    "Serra dos Monges"
+  ],
   "features": [
     {
       "type": "Feature",

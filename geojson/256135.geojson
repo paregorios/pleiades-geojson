@@ -9,6 +9,9 @@
     36.983372
   ],
   "description": "An ancient place, cited: BAtlas 26 F5 Cortijo del Tajo",
+  "names": [
+    "Cortijo del Tajo"
+  ],
   "features": [
     {
       "type": "Feature",

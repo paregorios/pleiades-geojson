@@ -1,0 +1,109 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pozos de Nieve",
+  "id": "379417006",
+  "bbox": [
+    -6.339626,
+    38.9181807,
+    -6.3392272,
+    38.9184277
+  ],
+  "description": "The Pozos de Nieve of Mérida is a Roman archaeological site associated with the ancient city of Emerita Augusta. The site is located at 7 Reyes Huertas Street and is designated as part of the UNESCO World Heritage Site. The ruins were discovered in 1920, and various interpretations have been offered for its usage, although it may have been part of a public bath complex.",
+  "connectsWith": [
+    "256155"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.33941521948,
+          38.9183009099
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.3392361,
+            38.9183771
+          ],
+          [
+            -6.3392915,
+            38.9183739
+          ],
+          [
+            -6.3393123,
+            38.9183697
+          ],
+          [
+            -6.3393455,
+            38.9183631
+          ],
+          [
+            -6.33945,
+            38.9184215
+          ],
+          [
+            -6.3395534,
+            38.9184277
+          ],
+          [
+            -6.339626,
+            38.9182487
+          ],
+          [
+            -6.3395856,
+            38.9182378
+          ],
+          [
+            -6.3395844,
+            38.918241
+          ],
+          [
+            -6.339424,
+            38.9182041
+          ],
+          [
+            -6.3394173,
+            38.9182218
+          ],
+          [
+            -6.3393772,
+            38.9182118
+          ],
+          [
+            -6.3392532,
+            38.9181807
+          ],
+          [
+            -6.3392331,
+            38.9182221
+          ],
+          [
+            -6.3392272,
+            38.9182954
+          ],
+          [
+            -6.3392361,
+            38.9183771
+          ]
+        ]
+      },
+      "id": "osm-location-of-pozos-de-nieve",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Pozos de Nieve",
+        "link": "http://pleiades.stoa.org/places/379417006/osm-location-of-pozos-de-nieve"
+      }
+    }
+  ]
+}

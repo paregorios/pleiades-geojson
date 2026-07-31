@@ -1,0 +1,72 @@
+{
+  "type": "FeatureCollection",
+  "title": "Hypogeum of Torre del Ram",
+  "id": "676585718",
+  "bbox": [
+    3.8092612,
+    40.0055873,
+    3.8096519,
+    40.005899
+  ],
+  "description": "A corridor tomb located on Menorca that dates ca. 1700-1400 BCE.",
+  "connectsWith": [
+    "572631626"
+  ],
+  "names": [
+    "hypogeum of Torre del Ram"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80945623038,
+          40.0057590367
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.8092612,
+            40.0057063
+          ],
+          [
+            3.8094684,
+            40.0055873
+          ],
+          [
+            3.8096519,
+            40.0058276
+          ],
+          [
+            3.8095246,
+            40.005899
+          ],
+          [
+            3.8093989,
+            40.0058956
+          ],
+          [
+            3.8092612,
+            40.0057063
+          ]
+        ]
+      },
+      "id": "osm-location-of-hypogeum-of-torre-del-ram",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Hypogeum of Torre del Ram",
+        "link": "http://pleiades.stoa.org/places/676585718/osm-location-of-hypogeum-of-torre-del-ram"
+      }
+    }
+  ]
+}
