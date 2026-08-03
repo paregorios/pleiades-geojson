@@ -3,10 +3,10 @@
   "title": "Ponte Rotto",
   "id": "443945",
   "bbox": [
-    15.0,
-    41.0,
-    15.5,
-    41.5
+    15.3197586,
+    41.2576907,
+    15.9089346,
+    41.5254286
   ],
   "description": "An ancient bridge over the Cervaro river between Aecae and Herdoniae on the Via Traiana.",
   "connectsWith": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.25,
-          41.25
+          15.6165984495,
+          41.3937112422
         ]
       },
       "properties": {
