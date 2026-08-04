@@ -1,13 +1,13 @@
 {
   "type": "FeatureCollection",
-  "title": "Tartarus (Underworld)",
-  "id": "595204976",
-  "description": "Mythological place of punishment in the Greek underworld, eponymous with a deity of the same name.",
+  "title": "Cocytus (mythological river)",
+  "id": "287442731",
+  "description": "Mythological river of the Greek Underworld",
   "connectsWith": [
     "853874840"
   ],
   "names": [
-    "Tartaros"
+    "Kokytos"
   ],
   "features": [
     {

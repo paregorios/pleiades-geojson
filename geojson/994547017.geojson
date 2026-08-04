@@ -1,13 +1,13 @@
 {
   "type": "FeatureCollection",
-  "title": "Tartarus (Underworld)",
-  "id": "595204976",
-  "description": "Mythological place of punishment in the Greek underworld, eponymous with a deity of the same name.",
+  "title": "Lethe (mythological river)",
+  "id": "994547017",
+  "description": "Mythological river of forgetfulness in the underworld",
   "connectsWith": [
     "853874840"
   ],
   "names": [
-    "Tartaros"
+    "Lethe"
   ],
   "features": [
     {

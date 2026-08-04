@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "title": "Baths of Decius",
+  "id": "26588226",
+  "bbox": [
+    12.481236,
+    41.882935,
+    12.481236,
+    41.882935
+  ],
+  "description": "A bath complex of ancient Rome built on the Aventine Hill in 252 CE.",
+  "connectsWith": [
+    "423025",
+    "254273447",
+    "372769291"
+  ],
+  "names": [
+    "Baths of Decius"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481236,
+          41.882935
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.481236,
+          41.882935
+        ]
+      },
+      "id": "vici-org-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinates following vici.org",
+        "location_precision": "precise",
+        "title": "vici.org location",
+        "link": "http://pleiades.stoa.org/places/26588226/vici-org-location"
+      }
+    }
+  ]
+}

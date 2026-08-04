@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "title": "Arch of Titus (Circus Maximus)",
+  "id": "45530496",
+  "bbox": [
+    12.488333,
+    41.884444,
+    12.488333,
+    41.884444
+  ],
+  "description": "A triple-bay triumphal arch was erected at the eastern end of the Circus Maximus in honor of Emperor Titus' role in the victory in the Jewish War. The arch is known from architectural and sculptural fragments and from an inscription recorded in the Einsiedeln sylloge.",
+  "connectsWith": [
+    "423025",
+    "458808506",
+    "418516191"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488333,
+          41.884444
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.488333,
+          41.884444
+        ]
+      },
+      "id": "imagery-location-of-arch-of-titus-circus-maximus",
+      "type": "Feature",
+      "properties": {
+        "description": "Coordinated following GeoHack",
+        "location_precision": "precise",
+        "title": "Imagery location of Arch of Titus (Circus Maximus)",
+        "link": "http://pleiades.stoa.org/places/45530496/imagery-location-of-arch-of-titus-circus-maximus"
+      }
+    }
+  ]
+}

@@ -1,13 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Styx (mythological river)",
-  "id": "891819985",
-  "description": "Mythological river in the Underworld.",
-  "connectsWith": [
-    "853874840"
-  ],
+  "title": "Hades (Underworld)",
+  "id": "853874840",
+  "description": "The Underworld in Greek mythology, eponymous with the deity Hades, who rules the Underworld.",
   "names": [
-    "Styks"
+    "Haides",
+    "Greek Underworld"
   ],
   "features": [
     {

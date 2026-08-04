@@ -3,10 +3,10 @@
   "title": "Ligures Baebiani",
   "id": "432907",
   "bbox": [
-    14.811051,
-    41.319407,
-    14.811051,
-    41.319407
+    14.8106061,
+    41.3190968,
+    14.8113893,
+    41.319691
   ],
   "description": "Ligures Baebiani was a Ligurian settlement in Samnium.",
   "names": [
@@ -19,8 +19,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.811051,
-          41.319407
+          14.8110530831,
+          41.3194200222
         ]
       },
       "properties": {
@@ -42,6 +42,85 @@
         "location_precision": "precise",
         "title": "DARE Location",
         "link": "http://pleiades.stoa.org/places/432907/dare-location"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.8113196,
+            41.319691
+          ],
+          [
+            14.8109306,
+            41.3196286
+          ],
+          [
+            14.810818,
+            41.3196427
+          ],
+          [
+            14.8107402,
+            41.3195681
+          ],
+          [
+            14.810708,
+            41.3195621
+          ],
+          [
+            14.8106597,
+            41.319552
+          ],
+          [
+            14.8106061,
+            41.3194654
+          ],
+          [
+            14.8107214,
+            41.3193768
+          ],
+          [
+            14.8107858,
+            41.3194191
+          ],
+          [
+            14.8111559,
+            41.3191793
+          ],
+          [
+            14.8111399,
+            41.3191552
+          ],
+          [
+            14.8112176,
+            41.3190968
+          ],
+          [
+            14.8113839,
+            41.3192075
+          ],
+          [
+            14.8113893,
+            41.319268
+          ],
+          [
+            14.8113437,
+            41.319546
+          ],
+          [
+            14.8113196,
+            41.319691
+          ]
+        ]
+      },
+      "id": "osm-location-excavated-portion-of-ligures-baebiani",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location: excavated portion of Ligures Baebiani",
+        "link": "http://pleiades.stoa.org/places/432907/osm-location-excavated-portion-of-ligures-baebiani"
       }
     }
   ]

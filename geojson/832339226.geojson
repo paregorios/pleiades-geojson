@@ -1,13 +1,14 @@
 {
   "type": "FeatureCollection",
-  "title": "Tartarus (Underworld)",
-  "id": "595204976",
-  "description": "Mythological place of punishment in the Greek underworld, eponymous with a deity of the same name.",
+  "title": "Erebus (Underworld)",
+  "id": "832339226",
+  "description": "Location in the Underworld, eponymous with the primordial deity Erebus. Refers to the total darkness of the underworld.",
   "connectsWith": [
     "853874840"
   ],
   "names": [
-    "Tartaros"
+    "Erebus",
+    "Erebos"
   ],
   "features": [
     {

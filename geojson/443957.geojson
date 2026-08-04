@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Ponte Silla",
   "id": "443957",
   "bbox": [
     15.2290134,
@@ -13,14 +13,17 @@
     "442809",
     "442816"
   ],
+  "names": [
+    "Ponte Silla"
+  ],
   "features": [
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.4795700582,
-          40.4442840322
+          15.5105750291,
+          40.4124065161
         ]
       },
       "properties": {

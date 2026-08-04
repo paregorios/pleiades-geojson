@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "title": "tomb of C. Sulpicius Platorinus",
+  "id": "732224173",
+  "description": "A monumental family tomb dating to the late Augustan period was discovered in 1880 on the embankments of the Tiber River. This tomb was situated in the transtiberim at the head of the Pons Agrippae. It is associated with the gens of the Sulpicii Platorini. The tomb was reconstructed in 1911 at the Museo Nazionale Romano in 1911.",
+  "connectsWith": [
+    "423025"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

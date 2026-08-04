@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Son Fred",
+  "id": "352537734",
+  "bbox": [
+    2.9119683,
+    39.6586661,
+    2.9119683,
+    39.6586661
+  ],
+  "description": "The Talaiot de Son Fred is a prehistoric building on the island of Mallorca. It is located in the municipality of Sencelles in the Pla de Mallorca region. The building is attributed to the Iron Age Talaiotic culture and dates from the ninth to sixth centuries BCE.",
+  "connectsWith": [
+    "632227173"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9119683,
+          39.6586661
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9119683,
+          39.6586661
+        ]
+      },
+      "id": "osm-location-of-talaiot-de-son-fred",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of talaiot de Son Fred",
+        "link": "http://pleiades.stoa.org/places/352537734/osm-location-of-talaiot-de-son-fred"
+      }
+    }
+  ]
+}

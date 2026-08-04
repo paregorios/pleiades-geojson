@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "title": "Burgalimar Castle",
+  "id": "457886890",
+  "bbox": [
+    -3.7755008,
+    38.1702171,
+    -3.7755008,
+    38.1702171
+  ],
+  "description": "Construction of the Burgalimar Castle in Baños de la Encina, Jaén Province, Spain, began in 967 under the rule of the Umayyad Caliphate of Córdoba.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7755008,
+          38.1702171
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7755008,
+          38.1702171
+        ]
+      },
+      "id": "osm-location-of-castillo-de-burgalimar",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castillo de Burgalimar",
+        "link": "http://pleiades.stoa.org/places/457886890/osm-location-of-castillo-de-burgalimar"
+      }
+    }
+  ]
+}

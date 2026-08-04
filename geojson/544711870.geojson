@@ -3,9 +3,9 @@
   "title": "Stoa at Lokroi Epizephyrioi",
   "id": "544711870",
   "bbox": [
-    16.2376642,
-    38.208529,
-    16.2376642,
+    16.2371278,
+    38.2074204,
+    16.238308,
     38.208529
   ],
   "description": "A large U-shaped stoa dating to the seventh and sixth centuries BCE.",
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.2376642,
-          38.208529
+          16.2377231357,
+          38.2079670709
         ]
       },
       "properties": {

@@ -1,0 +1,108 @@
+{
+  "type": "FeatureCollection",
+  "title": "Agora of Elis",
+  "id": "710989469",
+  "bbox": [
+    21.3728582,
+    37.8906566,
+    21.375393,
+    37.8922718
+  ],
+  "description": "The agora of ancient Elis included the Stoa of the Hellanodikai, who served as judges in the games at Olympia.",
+  "connectsWith": [
+    "570220"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3736691988,
+          37.8913595191
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.3728582,
+            37.8917539
+          ],
+          [
+            21.3750842,
+            37.8922718
+          ],
+          [
+            21.375393,
+            37.8914454
+          ],
+          [
+            21.3744643,
+            37.8912293
+          ],
+          [
+            21.3745655,
+            37.8909584
+          ],
+          [
+            21.3732682,
+            37.8906566
+          ],
+          [
+            21.3728582,
+            37.8917539
+          ]
+        ]
+      },
+      "id": "osm-location-of-agora-of-elis",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Agora of Elis",
+        "link": "http://pleiades.stoa.org/places/710989469/osm-location-of-agora-of-elis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            21.3729317,
+            37.8916779
+          ],
+          [
+            21.373142,
+            37.8917269
+          ],
+          [
+            21.3734983,
+            37.8907752
+          ],
+          [
+            21.373288,
+            37.8907261
+          ],
+          [
+            21.3729317,
+            37.8916779
+          ]
+        ]
+      },
+      "id": "osm-location-of-stoa-of-the-hellanodikai",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Stoa of the Hellanodikai",
+        "link": "http://pleiades.stoa.org/places/710989469/osm-location-of-stoa-of-the-hellanodikai"
+      }
+    }
+  ]
+}

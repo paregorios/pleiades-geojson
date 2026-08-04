@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Privata domus Traiani",
+  "id": "254273447",
+  "bbox": [
+    12.4818424,
+    41.8826182,
+    12.4818424,
+    41.8826182
+  ],
+  "description": "The so-called \"Privata domus Traiani\" was an opulent townhouse on the Aventine Hill in Rome. Its foundations were eventually coopted in the third century CE for the construction of the Baths of Decius. Evidence from brickstamps dates the building to the Trajanic to early Antonine period, leading some scholars to suggest that Marcus Ulpius Traianus occupied this domus before his adoption by Nerva.",
+  "connectsWith": [
+    "423025",
+    "865014139"
+  ],
+  "names": [
+    "Privata domus Traiani"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4818424,
+          41.8826182
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4818424,
+          41.8826182
+        ]
+      },
+      "id": "osm-location-of-privata-traiani-domus",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Privata Traiani Domus",
+        "link": "http://pleiades.stoa.org/places/254273447/osm-location-of-privata-traiani-domus"
+      }
+    }
+  ]
+}
