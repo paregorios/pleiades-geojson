@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Pergamon",
   "id": "507447",
+  "bbox": [
+    27.055256,
+    38.941644,
+    27.055256,
+    38.941644
+  ],
   "description": "An ancient place, cited: BAtlas 51 unlocated Pergamon",
   "names": [
     "Pergamon"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.055256,
+          38.941644
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

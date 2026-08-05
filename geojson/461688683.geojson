@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regio I, Ostia Antica",
   "id": "461688683",
+  "bbox": [
+    12.2792485,
+    41.7487005,
+    12.2978648,
+    41.7582387
+  ],
   "description": "The first archaeological region of Ostia includes the area of the forum and elements of the original Republican castrum.",
   "connectsWith": [
     "422995"
@@ -9,7 +15,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2863194026,
+          41.7540867242
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
