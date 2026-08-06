@@ -1,8 +1,8 @@
 {
   "type": "FeatureCollection",
-  "title": "Scytala",
+  "title": "Withdrawn: Scytala (duplicate)",
   "id": "40301",
-  "description": "An ancient place, cited: BAtlas 4 unlocated Scytala",
+  "description": "Duplicate inherited from BAtlDir for https://pleiades.stoa.org/places/767858",
   "names": [
     "Scytala"
   ],
@@ -22,7 +22,7 @@
         "description": null,
         "location_precision": "unlocated",
         "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/40301/batlas-location"
+        "link": "http://pleiades.stoa.org/errata/40301/batlas-location"
       }
     }
   ]

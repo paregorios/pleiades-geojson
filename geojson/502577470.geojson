@@ -3,12 +3,12 @@
   "title": "Temple E at Selinus",
   "id": "502577470",
   "bbox": [
-    12.8344372,
-    37.5867781,
-    12.8344372,
-    37.5867781
+    12.8344243,
+    37.5864454,
+    12.8352667,
+    37.586752
   ],
-  "description": "A fifth century B.C. Doric temple, sacred to perhaps Hera or Dionysus, located on the eastern hill at Selinus.",
+  "description": "A fifth-century B.C.E. Doric temple, sacred to perhaps Hera or Dionysus, located on the eastern hill at Selinus.",
   "connectsWith": [
     "462489"
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.8344372,
-          37.5867781
+          12.8348455,
+          37.5865987
         ]
       },
       "properties": {
@@ -28,19 +28,37 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.8344506,
-          37.586752
+          [
+            12.8344506,
+            37.586752
+          ],
+          [
+            12.8352667,
+            37.5866987
+          ],
+          [
+            12.8352404,
+            37.5864454
+          ],
+          [
+            12.8344243,
+            37.5864987
+          ],
+          [
+            12.8344506,
+            37.586752
+          ]
         ]
       },
-      "id": "location-of-temple-of-hera",
+      "id": "osm-location-of-tempio-di-hera",
       "type": "Feature",
       "properties": {
-        "description": "Representative location based on OpenStreetMap.",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "OSM location of Temple E at Selinus",
-        "link": "http://pleiades.stoa.org/places/502577470/location-of-temple-of-hera"
+        "title": "OSM location of Tempio di Hera",
+        "link": "http://pleiades.stoa.org/places/502577470/osm-location-of-tempio-di-hera"
       }
     }
   ]

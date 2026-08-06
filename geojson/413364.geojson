@@ -37,13 +37,13 @@
           43.1976738
         ]
       },
-      "id": "archaeological-site-of-urbs-salvia",
+      "id": "osm-location-archaeological-site-of-urbs-salvia",
       "type": "Feature",
       "properties": {
         "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "archaeological site of Urbs Salvia",
-        "link": "http://pleiades.stoa.org/places/413364/archaeological-site-of-urbs-salvia"
+        "title": "OSM Location: archaeological site of Urbs Salvia",
+        "link": "http://pleiades.stoa.org/places/413364/osm-location-archaeological-site-of-urbs-salvia"
       }
     }
   ]

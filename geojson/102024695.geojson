@@ -3,10 +3,10 @@
   "title": "Theater at Bodrum",
   "id": "102024695",
   "bbox": [
-    27.42159,
-    37.040054,
-    27.42159,
-    37.040054
+    27.4209282,
+    37.0399092,
+    27.4220882,
+    37.04053
   ],
   "description": "The Theater at Bodrum is dedicated to Ares.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          27.42159,
-          37.040054
+          27.4215087718,
+          37.0401847698
         ]
       },
       "properties": {
@@ -28,19 +28,129 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          27.42159,
-          37.040054
+          [
+            27.4216926,
+            37.0400087
+          ],
+          [
+            27.421689,
+            37.0400386
+          ],
+          [
+            27.4216749,
+            37.0400665
+          ],
+          [
+            27.4216516,
+            37.0400901
+          ],
+          [
+            27.4216209,
+            37.0401074
+          ],
+          [
+            27.4215853,
+            37.0401172
+          ],
+          [
+            27.4215477,
+            37.0401186
+          ],
+          [
+            27.4215111,
+            37.0401114
+          ],
+          [
+            27.4214786,
+            37.0400964
+          ],
+          [
+            27.4214526,
+            37.0400746
+          ],
+          [
+            27.4214355,
+            37.0400479
+          ],
+          [
+            27.4214284,
+            37.0400183
+          ],
+          [
+            27.4214321,
+            37.0399884
+          ],
+          [
+            27.4211508,
+            37.0399092
+          ],
+          [
+            27.4211374,
+            37.0399466
+          ],
+          [
+            27.4209282,
+            37.0399113
+          ],
+          [
+            27.4209416,
+            37.0401093
+          ],
+          [
+            27.421014,
+            37.0403138
+          ],
+          [
+            27.4211186,
+            37.0403877
+          ],
+          [
+            27.4212299,
+            37.0404465
+          ],
+          [
+            27.421407,
+            37.0404979
+          ],
+          [
+            27.4216041,
+            37.04053
+          ],
+          [
+            27.4217436,
+            37.0405097
+          ],
+          [
+            27.421879,
+            37.0404594
+          ],
+          [
+            27.4219877,
+            37.0403748
+          ],
+          [
+            27.4220668,
+            37.0402635
+          ],
+          [
+            27.4220882,
+            37.0399552
+          ],
+          [
+            27.4216926,
+            37.0400087
+          ]
         ]
       },
-      "id": "imagery-location-centerpoint-of-the-orchestra-of-the-theater-at-bodrum",
+      "id": "osm-location-of-theatre-at-halicarnassus",
       "type": "Feature",
       "properties": {
-        "description": null,
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "Imagery Location: Centerpoint of the orchestra of the theater at Bodrum",
-        "link": "http://pleiades.stoa.org/places/102024695/imagery-location-centerpoint-of-the-orchestra-of-the-theater-at-bodrum"
+        "title": "OSM location of Theatre at Halicarnassus",
+        "link": "http://pleiades.stoa.org/places/102024695/osm-location-of-theatre-at-halicarnassus"
       }
     }
   ]

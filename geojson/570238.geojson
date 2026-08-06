@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Erymanthos M.",
+  "title": "Erymanthos (mountain)",
   "id": "570238",
   "bbox": [
     21.833333,
@@ -34,13 +34,13 @@
           37.966667
         ]
       },
-      "id": "location-of-erymanthos-m",
+      "id": "imagery-location-of-erymanthos-m",
       "type": "Feature",
       "properties": {
         "description": "verified in Google Earth 2013.",
         "location_precision": "precise",
-        "title": "location of Erymanthos M.",
-        "link": "http://pleiades.stoa.org/places/570238/location-of-erymanthos-m"
+        "title": "Imagery location of Erymanthos M.",
+        "link": "http://pleiades.stoa.org/places/570238/imagery-location-of-erymanthos-m"
       }
     }
   ]

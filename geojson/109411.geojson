@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Varnenum",
+  "title": "Varnenum Temple Complex",
   "id": "109411",
   "bbox": [
     6.1930413,
@@ -18,29 +18,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.1936439208,
-          50.7296995857
+          6.1936668416,
+          50.7296421714
         ]
       },
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.193621,
-          50.729757
-        ]
-      },
-      "id": "dare-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Representative point location, site precision",
-        "location_precision": "precise",
-        "title": "DARE Location",
-        "link": "http://pleiades.stoa.org/places/109411/dare-location"
       }
     },
     {

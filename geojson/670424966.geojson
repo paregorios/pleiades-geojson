@@ -3,10 +3,10 @@
   "title": "Newport Arch city gate",
   "id": "670424966",
   "bbox": [
-    -0.5381837,
-    53.2371855,
-    -0.5381837,
-    53.2371855
+    -0.5382483,
+    53.2372566,
+    -0.5382483,
+    53.2372566
   ],
   "description": "The remains of a third century A.D. city gate.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5381837,
-          53.2371855
+          -0.5382483,
+          53.2372566
         ]
       },
       "properties": {
