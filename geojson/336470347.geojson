@@ -9,6 +9,9 @@
     42.4288636
   ],
   "description": "The lake of San Floriano is located in the Maremma plain near Capalbio.",
+  "names": [
+    "Lago di San Floriano"
+  ],
   "features": [
     {
       "type": "Feature",

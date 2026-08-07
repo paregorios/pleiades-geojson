@@ -3,10 +3,10 @@
   "title": "Roman theater at Gortyna",
   "id": "226009789",
   "bbox": [
-    24.9531882,
-    35.0568157,
-    24.9531882,
-    35.0568157
+    24.9526571,
+    35.0561842,
+    24.9534441,
+    35.0568714
   ],
   "description": "The Roman theater at Gortyna dates to the second century.",
   "connectsWith": [
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.9531882,
-          35.0568157
+          24.9530766083,
+          35.0564874855
         ]
       },
       "properties": {

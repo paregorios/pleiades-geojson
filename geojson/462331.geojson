@@ -3,14 +3,17 @@
   "title": "Monte Bonifato di Alcamo",
   "id": "462331",
   "bbox": [
-    12.964957,
-    37.954402,
-    12.964957,
-    37.954402
+    12.964409,
+    37.957211,
+    12.9648006,
+    37.957727
   ],
   "description": "An ancient place, cited: BAtlas 47 B3 Monte Bonifato di Alcamo",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Monte Bonifato di Alcamo"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.964957,
-          37.954402
+          12.9646145279,
+          37.9574587797
         ]
       },
       "properties": {
@@ -28,19 +31,45 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.964957,
-          37.954402
+          [
+            12.964409,
+            37.9576467
+          ],
+          [
+            12.9646718,
+            37.957727
+          ],
+          [
+            12.9647791,
+            37.9574733
+          ],
+          [
+            12.9648006,
+            37.9572153
+          ],
+          [
+            12.9646182,
+            37.957211
+          ],
+          [
+            12.9644519,
+            37.9573464
+          ],
+          [
+            12.964409,
+            37.9576467
+          ]
         ]
       },
-      "id": "darmc-location-28532",
+      "id": "osm-location-of-resti-dellantica-citta-muraria",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Representative location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 28532",
-        "link": "http://pleiades.stoa.org/places/462331/darmc-location-28532"
+        "title": "OSM location of Resti dell'antica città muraria",
+        "link": "http://pleiades.stoa.org/places/462331/osm-location-of-resti-dellantica-citta-muraria"
       }
     }
   ]
