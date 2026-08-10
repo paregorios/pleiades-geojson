@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "title": "Roman furnaces in Alcamo",
+  "id": "936341523",
+  "bbox": [
+    12.9060324,
+    38.020109,
+    12.9067279,
+    38.02082
+  ],
+  "description": "A productive site in Alcamo Marina was discovered in 2000 and includes kilns from the Roman period.",
+  "connectsWith": [
+    "462492"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9063846834,
+          38.020483714
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.9060324,
+            38.020583
+          ],
+          [
+            12.9063828,
+            38.02082
+          ],
+          [
+            12.9067279,
+            38.0204938
+          ],
+          [
+            12.9064129,
+            38.020109
+          ],
+          [
+            12.9060324,
+            38.020583
+          ]
+        ]
+      },
+      "id": "osm-location-of-roman-furnaces-in-alcamo",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Roman furnaces in Alcamo",
+        "link": "http://pleiades.stoa.org/places/936341523/osm-location-of-roman-furnaces-in-alcamo"
+      }
+    }
+  ]
+}

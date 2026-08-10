@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "title": "Grotta Mangiapane",
+  "id": "103958231",
+  "bbox": [
+    12.6703937,
+    38.0926507,
+    12.6720518,
+    38.0933779
+  ],
+  "description": "Grotta Mangiapane is the largest of the so-called Scurati Caves, a series of caverns in Sicily's Trapani province. These caves became a site of human settlement in the Upper Paleolithic. Human settlement activity continued there through the middle of the twentieth century.",
+  "connectsWith": [
+    "462492"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.671209712,
+          38.0930419452
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.6705782,
+            38.0933779
+          ],
+          [
+            12.6706244,
+            38.0933008
+          ],
+          [
+            12.6704312,
+            38.0932058
+          ],
+          [
+            12.6703937,
+            38.0931615
+          ],
+          [
+            12.6703937,
+            38.0931256
+          ],
+          [
+            12.6705975,
+            38.092887
+          ],
+          [
+            12.6706297,
+            38.0928702
+          ],
+          [
+            12.6706775,
+            38.0928629
+          ],
+          [
+            12.6706983,
+            38.0928866
+          ],
+          [
+            12.6707795,
+            38.0928749
+          ],
+          [
+            12.6709242,
+            38.0928755
+          ],
+          [
+            12.6709336,
+            38.0928734
+          ],
+          [
+            12.671281,
+            38.0927932
+          ],
+          [
+            12.6713507,
+            38.0928671
+          ],
+          [
+            12.67143,
+            38.0928126
+          ],
+          [
+            12.6716597,
+            38.0926802
+          ],
+          [
+            12.6716889,
+            38.092664
+          ],
+          [
+            12.6717127,
+            38.0926507
+          ],
+          [
+            12.6719879,
+            38.0929816
+          ],
+          [
+            12.6720518,
+            38.0930585
+          ],
+          [
+            12.6717828,
+            38.0931609
+          ],
+          [
+            12.6715918,
+            38.0932337
+          ],
+          [
+            12.6715599,
+            38.0931647
+          ],
+          [
+            12.6714955,
+            38.0931626
+          ],
+          [
+            12.6714714,
+            38.0931373
+          ],
+          [
+            12.6713909,
+            38.0931901
+          ],
+          [
+            12.6713332,
+            38.0932157
+          ],
+          [
+            12.6712842,
+            38.0932375
+          ],
+          [
+            12.6712354,
+            38.0932661
+          ],
+          [
+            12.6711871,
+            38.0932555
+          ],
+          [
+            12.6711233,
+            38.0932712
+          ],
+          [
+            12.6709645,
+            38.0933146
+          ],
+          [
+            12.6709248,
+            38.0932987
+          ],
+          [
+            12.6707731,
+            38.0933326
+          ],
+          [
+            12.67067,
+            38.0933557
+          ],
+          [
+            12.6705782,
+            38.0933779
+          ]
+        ]
+      },
+      "id": "osm-location-of-grotta-mangiapane",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Grotta Mangiapane",
+        "link": "http://pleiades.stoa.org/places/103958231/osm-location-of-grotta-mangiapane"
+      }
+    }
+  ]
+}

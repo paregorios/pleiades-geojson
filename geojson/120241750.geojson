@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple D (Selinus)",
+  "id": "120241750",
+  "bbox": [
+    12.8246445,
+    37.5834891,
+    12.8253259,
+    37.5837611
+  ],
+  "description": "The so-called \"Temple D\" at Selinus dates ca. 540 BCE. It is a Doric-order temple dedicated to Athena. Its peristylar plan (56 by 24 meters ) has a columnar arrangement of 6 x 13 (order height of 7.51 m high). The building has a pronaos in antis.",
+  "connectsWith": [
+    "462489",
+    "552447145"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8249845352,
+          37.583624886
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              12.8246654,
+              37.5837611
+            ],
+            [
+              12.8253259,
+              37.5837182
+            ],
+            [
+              12.8253032,
+              37.5834891
+            ],
+            [
+              12.8246445,
+              37.5835306
+            ]
+          ],
+          [
+            [
+              12.8246654,
+              37.5837611
+            ],
+            [
+              12.8246445,
+              37.5835306
+            ]
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-d",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Temple D",
+        "link": "http://pleiades.stoa.org/places/120241750/osm-location-of-temple-d"
+      }
+    }
+  ]
+}

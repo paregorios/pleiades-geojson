@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "title": "Ipogeo di San Bartolomeo",
+  "id": "849381984",
+  "bbox": [
+    12.5838988,
+    37.6660046,
+    12.5838988,
+    37.6660046
+  ],
+  "description": "A system of caves located in Mazara del Vallo, Sicily, on the right bank of the Mazaro River. Human occupation of the caves began with the Diana Culture (ca. 3500 BCE) and continued into modernity. A paleochristian catacomb was also identified here in the 19th century.",
+  "connectsWith": [
+    "462305",
+    "462492"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5838988,
+          37.6660046
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5838988,
+          37.6660046
+        ]
+      },
+      "id": "osm-location-of-ipogeo-di-san-bartolomeo",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of  Ipogeo di San Bartolomeo",
+        "link": "http://pleiades.stoa.org/places/849381984/osm-location-of-ipogeo-di-san-bartolomeo"
+      }
+    }
+  ]
+}

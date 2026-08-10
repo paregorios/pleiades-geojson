@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Catacombs of Villagrazia",
+  "id": "29902263",
+  "bbox": [
+    13.1690294,
+    38.1589662,
+    13.1690294,
+    38.1589662
+  ],
+  "description": "A paleochristian catacomb dating to the fourth century CE.",
+  "connectsWith": [
+    "462492"
+  ],
+  "names": [
+    "Catacombs of Villagrazia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1690294,
+          38.1589662
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1690294,
+          38.1589662
+        ]
+      },
+      "id": "osm-location-of-catacomba-di-villagrazia-di-carini",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Catacomba di Villagrazia di Carini",
+        "link": "http://pleiades.stoa.org/places/29902263/osm-location-of-catacomba-di-villagrazia-di-carini"
+      }
+    }
+  ]
+}
