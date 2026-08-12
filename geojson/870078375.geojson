@@ -1,0 +1,188 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello di Lombardia",
+  "id": "870078375",
+  "bbox": [
+    14.2873069,
+    37.5666154,
+    14.2893965,
+    37.5682318
+  ],
+  "description": "Local tradition holds that the Castello di Lombardia, located at Enna, was established on the site of a fortified acropolis of the Sicani. The castle is located on a mountain top some 970 meters above sea level.) The castle remains that are visible in the present day belong to a construction phase initiated by Ruggero II of Sicily in 1130.",
+  "connectsWith": [
+    "462492"
+  ],
+  "names": [
+    "Castello di Lombardia"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2883132836,
+          37.5673685295
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            14.2873069,
+            37.5672323
+          ],
+          [
+            14.2873203,
+            37.5672507
+          ],
+          [
+            14.287340500000001,
+            37.5672775
+          ],
+          [
+            14.2874297,
+            37.5673043
+          ],
+          [
+            14.2874991,
+            37.567353
+          ],
+          [
+            14.2877519,
+            37.5675195
+          ],
+          [
+            14.2879043,
+            37.5676429
+          ],
+          [
+            14.2878642,
+            37.5677469
+          ],
+          [
+            14.2879461,
+            37.5678488
+          ],
+          [
+            14.2879199,
+            37.5678642
+          ],
+          [
+            14.2880566,
+            37.5680332
+          ],
+          [
+            14.288199,
+            37.5681566
+          ],
+          [
+            14.2881911,
+            37.5681623
+          ],
+          [
+            14.2882705,
+            37.5682318
+          ],
+          [
+            14.2883679,
+            37.5681619
+          ],
+          [
+            14.288338,
+            37.5681357
+          ],
+          [
+            14.2886319,
+            37.5679435
+          ],
+          [
+            14.2887273,
+            37.5679125
+          ],
+          [
+            14.2888044,
+            37.567894
+          ],
+          [
+            14.2890086,
+            37.5678373
+          ],
+          [
+            14.2890642,
+            37.5678726
+          ],
+          [
+            14.2891212,
+            37.5678359
+          ],
+          [
+            14.2890992,
+            37.5677911
+          ],
+          [
+            14.2893965,
+            37.5674573
+          ],
+          [
+            14.2891936,
+            37.5672473
+          ],
+          [
+            14.2887675,
+            37.5668805
+          ],
+          [
+            14.2884319,
+            37.5667387
+          ],
+          [
+            14.2883366,
+            37.566701
+          ],
+          [
+            14.2883271,
+            37.5667242
+          ],
+          [
+            14.2877339,
+            37.5666415
+          ],
+          [
+            14.2876527,
+            37.5666154
+          ],
+          [
+            14.2876406,
+            37.566639
+          ],
+          [
+            14.2876201,
+            37.5666331
+          ],
+          [
+            14.2876,
+            37.5666274
+          ],
+          [
+            14.2873069,
+            37.5672323
+          ]
+        ]
+      },
+      "id": "osm-location-of-castello-di-lombardia",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello di Lombardia",
+        "link": "http://pleiades.stoa.org/places/870078375/osm-location-of-castello-di-lombardia"
+      }
+    }
+  ]
+}

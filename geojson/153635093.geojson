@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "title": "Cugno Case Vecchie",
+  "id": "153635093",
+  "bbox": [
+    15.032748,
+    37.0475091,
+    15.037764,
+    37.0519743
+  ],
+  "description": "The area of Cugno Case Vecchie is located about 3 km north-west of Canicattini Bagni, in the province of Siracusa, Sicily. There is archaeological evidence for human activity, including rock-cut burials, from the prehistoric to early modern periods.",
+  "connectsWith": [
+    "462492"
+  ],
+  "names": [
+    "Cugno Case Vecchie"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.035256,
+          37.0497417
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.032748,
+          37.0519743
+        ]
+      },
+      "id": "osm-location-of-necropoli-preistorica",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of necropoli preistorica",
+        "link": "http://pleiades.stoa.org/places/153635093/osm-location-of-necropoli-preistorica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.037764,
+          37.0475091
+        ]
+      },
+      "id": "osm-location-of-ipogeo-ebraico",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of ipogeo ebraico",
+        "link": "http://pleiades.stoa.org/places/153635093/osm-location-of-ipogeo-ebraico"
+      }
+    }
+  ]
+}

@@ -8,7 +8,10 @@
     13.0485528,
     37.7629857
   ],
-  "description": "An ancient place, cited: BAtlas 47 B3 Hypsa(s) fl.",
+  "description": "The Hypsa(s) was an ancient river of Sicily. It is one of two Sicilian rivers with the same ancient name. This river is known in Italian as the Belìce and it flows into the Mediterranean Sea near Selinunte.",
+  "connectsWith": [
+    "1043"
+  ],
   "names": [
     "Hypsas",
     "Hypsa",

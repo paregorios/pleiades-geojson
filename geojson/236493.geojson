@@ -3,8 +3,8 @@
   "title": "Iuliobriga",
   "id": "236493",
   "bbox": [
-    -4.1118731,
-    42.9866221,
+    -4.1162153,
+    42.9855795,
     -4.1101095,
     42.9875979
   ],
@@ -18,8 +18,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.11101294698,
-          42.9871292745
+          -4.11394170539,
+          42.9864073713
         ]
       },
       "properties": {
@@ -107,6 +107,136 @@
         "location_precision": "precise",
         "title": "OSM location of Iuliobriga",
         "link": "http://pleiades.stoa.org/places/236493/osm-location-of-iuliobriga"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1159473,
+            42.9860591
+          ],
+          [
+            -4.1160785,
+            42.9858798
+          ],
+          [
+            -4.1162153,
+            42.985788
+          ],
+          [
+            -4.1159473,
+            42.9855795
+          ],
+          [
+            -4.1153886,
+            42.9856295
+          ],
+          [
+            -4.11479,
+            42.9856796
+          ],
+          [
+            -4.1145569,
+            42.9856953
+          ],
+          [
+            -4.1148384,
+            42.9858843
+          ],
+          [
+            -4.1150255,
+            42.9859706
+          ],
+          [
+            -4.115196,
+            42.9860266
+          ],
+          [
+            -4.1156059,
+            42.9860603
+          ],
+          [
+            -4.1159429,
+            42.9860771
+          ],
+          [
+            -4.1159473,
+            42.9860591
+          ]
+        ]
+      },
+      "id": "osm-location-of-iuliobriga-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Iuliobriga",
+        "link": "http://pleiades.stoa.org/places/236493/osm-location-of-iuliobriga-1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.1156179,
+            42.9861208
+          ],
+          [
+            -4.1157004,
+            42.986386
+          ],
+          [
+            -4.1158133,
+            42.986385
+          ],
+          [
+            -4.1158366,
+            42.9864697
+          ],
+          [
+            -4.1156832,
+            42.9864946
+          ],
+          [
+            -4.1156617,
+            42.986427
+          ],
+          [
+            -4.1152233,
+            42.9864928
+          ],
+          [
+            -4.1150124,
+            42.986155
+          ],
+          [
+            -4.1149611,
+            42.9860549
+          ],
+          [
+            -4.1149908,
+            42.9860291
+          ],
+          [
+            -4.115208,
+            42.9860871
+          ],
+          [
+            -4.1156179,
+            42.9861208
+          ]
+        ]
+      },
+      "id": "osm-location-of-iuliobriga-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location of Iuliobriga",
+        "link": "http://pleiades.stoa.org/places/236493/osm-location-of-iuliobriga-2"
       }
     }
   ]

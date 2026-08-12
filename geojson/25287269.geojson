@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mozia necropolis",
+  "id": "25287269",
+  "bbox": [
+    12.4677684,
+    37.8700436,
+    12.4686803,
+    37.8705476
+  ],
+  "description": "An archaic period necropolis located on the north shore of Mozia.",
+  "connectsWith": [
+    "462373"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4682726772,
+          37.870291851
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4682142,
+            37.8700436
+          ],
+          [
+            12.4685382,
+            37.8700704
+          ],
+          [
+            12.4685033,
+            37.8703224
+          ],
+          [
+            12.4686669,
+            37.8703329
+          ],
+          [
+            12.4686562,
+            37.870388
+          ],
+          [
+            12.4686803,
+            37.870388
+          ],
+          [
+            12.4686441,
+            37.8705476
+          ],
+          [
+            12.4681144,
+            37.8704303
+          ],
+          [
+            12.4681184,
+            37.8704058
+          ],
+          [
+            12.467991,
+            37.8703711
+          ],
+          [
+            12.4677684,
+            37.8702588
+          ],
+          [
+            12.4678006,
+            37.870172
+          ],
+          [
+            12.4681761,
+            37.8702482
+          ],
+          [
+            12.4682142,
+            37.8700436
+          ]
+        ]
+      },
+      "id": "osm-location-of-necropoli",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Necropoli",
+        "link": "http://pleiades.stoa.org/places/25287269/osm-location-of-necropoli"
+      }
+    }
+  ]
+}

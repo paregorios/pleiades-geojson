@@ -8,7 +8,10 @@
     13.5839315,
     37.3411314
   ],
-  "description": "An ancient place, cited: BAtlas 47 D4 Hypsas fl.",
+  "description": "The Hypsas was an ancient river of Sicily that is mentioned by Polybius. It is one of two Sicilian rivers with the same ancient name. This river empties into the Mediterranean Sea near Agrigento. Its early modern and modern toponym is complicated, not only by changing names but also by variable names for different segments of the river channel.",
+  "connectsWith": [
+    "1043"
+  ],
   "names": [
     "Hypsas"
   ],

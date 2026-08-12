@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "title": "villa of Q. Volconius Pollio",
+  "id": "703656433",
+  "bbox": [
+    12.658524,
+    41.769809,
+    12.658524,
+    41.769809
+  ],
+  "description": "A villa associated with Q. Volconius Pollio was excavated near Marino in 1884.",
+  "connectsWith": [
+    "422886"
+  ],
+  "names": [
+    "villa Castrimeniese di Q. Voconio Pollione"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.658524,
+          41.769809
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

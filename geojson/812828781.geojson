@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "title": "Beaufort Castle, Lebanon",
+  "id": "812828781",
+  "bbox": [
+    35.5316488,
+    33.3238954,
+    35.5325186,
+    33.3249902
+  ],
+  "description": "Beaufort Castle (Qal'at al-Shaqif) is a castle dating from 1139. It served as a Crusader fortress in the twelfth century. It is located at an elevation of 700 meters above the Litani River gorge in southern Lebanon.",
+  "names": [
+    "Qal'at al-Shaqif"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5321353446,
+          33.3243994625
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            35.5322233,
+            33.3249569
+          ],
+          [
+            35.5324993,
+            33.3249902
+          ],
+          [
+            35.5324463,
+            33.324643
+          ],
+          [
+            35.5324619,
+            33.3244387
+          ],
+          [
+            35.5325186,
+            33.3243887
+          ],
+          [
+            35.5323565,
+            33.3239908
+          ],
+          [
+            35.5322421,
+            33.3240065
+          ],
+          [
+            35.5322546,
+            33.3240685
+          ],
+          [
+            35.5321691,
+            33.3240726
+          ],
+          [
+            35.5321492,
+            33.3240736
+          ],
+          [
+            35.5320922,
+            33.3240517
+          ],
+          [
+            35.5320114,
+            33.3239896
+          ],
+          [
+            35.531826,
+            33.3239411
+          ],
+          [
+            35.5317668,
+            33.3239162
+          ],
+          [
+            35.5317155,
+            33.3238954
+          ],
+          [
+            35.5316677,
+            33.3239178
+          ],
+          [
+            35.5316488,
+            33.3239413
+          ],
+          [
+            35.5316758,
+            33.3239814
+          ],
+          [
+            35.5317351,
+            33.3241373
+          ],
+          [
+            35.5317367,
+            33.3242776
+          ],
+          [
+            35.5317555,
+            33.3244017
+          ],
+          [
+            35.5320117,
+            33.3246879
+          ],
+          [
+            35.5320462,
+            33.3246867
+          ],
+          [
+            35.5320888,
+            33.3247506
+          ],
+          [
+            35.5320907,
+            33.32482
+          ],
+          [
+            35.5322233,
+            33.3249569
+          ]
+        ]
+      },
+      "id": "osm-location-of-beaufort-castle",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Beaufort Castle",
+        "link": "http://pleiades.stoa.org/places/812828781/osm-location-of-beaufort-castle"
+      }
+    }
+  ]
+}

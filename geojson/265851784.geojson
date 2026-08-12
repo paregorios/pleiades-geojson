@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "title": "Pauciuri",
+  "id": "265851784",
+  "bbox": [
+    16.1162056,
+    39.6305241,
+    16.1173768,
+    39.6312386
+  ],
+  "description": "An archaeological site located near Malvito in southern Italy, where excavation has revealed a portion of a Roman nucleus of habitation that includes domestic spaces and a bath complex.",
+  "names": [
+    "Pauciuri (commune de Malvito - province de Cosenza)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1167874302,
+          39.6308884349
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.1173442,
+            39.6309733
+          ],
+          [
+            16.1173768,
+            39.6308559
+          ],
+          [
+            16.1168315,
+            39.6307439
+          ],
+          [
+            16.116894,
+            39.6305617
+          ],
+          [
+            16.1167715,
+            39.6305642
+          ],
+          [
+            16.11666,
+            39.6305538
+          ],
+          [
+            16.1165438,
+            39.6305315
+          ],
+          [
+            16.1164592,
+            39.6305241
+          ],
+          [
+            16.1163947,
+            39.630584
+          ],
+          [
+            16.1162056,
+            39.6310388
+          ],
+          [
+            16.1169552,
+            39.6312386
+          ],
+          [
+            16.1170314,
+            39.6310919
+          ],
+          [
+            16.1171502,
+            39.6311055
+          ],
+          [
+            16.1172172,
+            39.6310661
+          ],
+          [
+            16.1171787,
+            39.6310294
+          ],
+          [
+            16.1172209,
+            39.6309539
+          ],
+          [
+            16.1173442,
+            39.6309733
+          ]
+        ]
+      },
+      "id": "osm-location-of-sito-archeologico-pauciuri",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Sito archeologico Pauciuri",
+        "link": "http://pleiades.stoa.org/places/265851784/osm-location-of-sito-archeologico-pauciuri"
+      }
+    }
+  ]
+}

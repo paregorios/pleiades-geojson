@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Castello della Pietra (Vobbia)",
+  "id": "945313597",
+  "bbox": [
+    9.0160015,
+    44.6135616,
+    9.0160015,
+    44.6135616
+  ],
+  "description": "The Castello della Pietra is a Medieval fortificaiton located in the comune of Vobbia in the province of Genova. The castle is occupies a position some 540 meters above sea level. It dates to ca. 1252.",
+  "names": [
+    "Castello della Pietra"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0160015,
+          44.6135616
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0160015,
+          44.6135616
+        ]
+      },
+      "id": "osm-location-of-castello-della-pietra",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Castello della Pietra",
+        "link": "http://pleiades.stoa.org/places/945313597/osm-location-of-castello-della-pietra"
+      }
+    }
+  ]
+}

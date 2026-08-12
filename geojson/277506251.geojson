@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Columbarium, Via di Pietralata",
+  "id": "277506251",
+  "bbox": [
+    12.544558,
+    41.925887,
+    12.544558,
+    41.925887
+  ],
+  "description": "A columbarium was discovered by chance in the Via di Pietralata in Rome in 2012.",
+  "connectsWith": [
+    "423025"
+  ],
+  "names": [
+    "columbarium of Via di Pietralata"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544558,
+          41.925887
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.544558,
+          41.925887
+        ]
+      },
+      "id": "imagery-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Imagery location based on the street address provided by info.roma. it (monumenti)",
+        "location_precision": "precise",
+        "title": "Imagery location",
+        "link": "http://pleiades.stoa.org/places/277506251/imagery-location"
+      }
+    }
+  ]
+}

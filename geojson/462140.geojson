@@ -3,14 +3,17 @@
   "title": "Castello della Pietra",
   "id": "462140",
   "bbox": [
-    12.891772,
-    37.664602,
-    12.891772,
-    37.664602
+    12.8907715,
+    37.6654667,
+    12.8957105,
+    37.6712116
   ],
   "description": "Excavations at Castello della Pietra (1976, 1978) identified an ancient indigenous center associated with the Elymian culture in the hinterland of ancient Selinus.",
   "connectsWith": [
     "462492"
+  ],
+  "names": [
+    "Castello della Pietra"
   ],
   "features": [
     {
@@ -18,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.891772,
-          37.664602
+          12.8930313011,
+          37.6687298922
         ]
       },
       "properties": {
@@ -28,19 +31,61 @@
     },
     {
       "geometry": {
-        "type": "Point",
+        "type": "LineString",
         "coordinates": [
-          12.891772,
-          37.664602
+          [
+            12.8914834,
+            37.6712116
+          ],
+          [
+            12.8907715,
+            37.6686544
+          ],
+          [
+            12.8909796,
+            37.6679956
+          ],
+          [
+            12.8916586,
+            37.666637
+          ],
+          [
+            12.8918338,
+            37.6661168
+          ],
+          [
+            12.8923074,
+            37.6656245
+          ],
+          [
+            12.8929727,
+            37.6654667
+          ],
+          [
+            12.8938598,
+            37.6668884
+          ],
+          [
+            12.8947578,
+            37.6681193
+          ],
+          [
+            12.8957105,
+            37.6705551
+          ],
+          [
+            12.8914834,
+            37.6712116
+          ]
         ]
       },
-      "id": "darmc-location-18012",
+      "id": "osm-location-of-castello-della-pietra",
       "type": "Feature",
       "properties": {
-        "description": "500K scale point location",
+        "description": "Location based on OpenStreetMap",
         "location_precision": "precise",
-        "title": "DARMC location 18012",
-        "link": "http://pleiades.stoa.org/places/462140/darmc-location-18012"
+        "title": "OSM location of Castello della Pietra",
+        "link": "http://pleiades.stoa.org/places/462140/osm-location-of-castello-della-pietra"
       }
     }
   ]
