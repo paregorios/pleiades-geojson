@@ -3,9 +3,9 @@
   "title": "Torraccio a Poggio Moiano",
   "id": "762843934",
   "bbox": [
-    12.822563,
-    42.2130564,
-    12.822563,
+    12.8224728,
+    42.2129194,
+    12.8226582,
     42.2130564
   ],
   "description": "A Roman mausoleum of the second century A.D.",
@@ -15,8 +15,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.822563,
-          42.2130564
+          12.8225653437,
+          42.212987519
         ]
       },
       "properties": {

@@ -4,9 +4,9 @@
   "id": "770702013",
   "bbox": [
     12.5036031,
-    41.8664586,
-    12.5036031,
-    41.8664586
+    41.8663964,
+    12.5038289,
+    41.8665689
   ],
   "description": "A Medieval Christian sanctuary along the Via Appia, perhaps best known as the Church of Domine Quo Vadis.",
   "connectsWith": [
@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.5036031,
-          41.8664586
+          12.5037166434,
+          41.8664818188
         ]
       },
       "properties": {
