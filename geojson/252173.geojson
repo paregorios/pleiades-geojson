@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Albonica",
   "id": "252173",
+  "bbox": [
+    -1.5020884,
+    40.0984878,
+    27.074936,
+    57.795172
+  ],
   "description": "An unlocated Roman road station between Urbiaca (unlocated) and Agiria (unlocated) on the Roman road from Laminium (Alhambra?) and Caesaraugusta (Zaragosa). It is mentioned only in the Antonine Itinerary.",
   "connectsWith": [
     "246151"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5491965567,
+          51.8962608743
+        ]
+      },
       "properties": {
         "description": "representative point"
       }

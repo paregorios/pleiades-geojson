@@ -2,8 +2,12 @@
   "type": "FeatureCollection",
   "title": "Heptaporos (river)",
   "id": "897021085",
-  "description": "A now-unlocated river of the Troad.",
+  "description": "A now-unlocated river of the Troad, mentioned by Homer and subsequent authors.",
+  "connectsWith": [
+    "550710"
+  ],
   "names": [
+    "Heptaporus",
     "Heptaporos"
   ],
   "features": [

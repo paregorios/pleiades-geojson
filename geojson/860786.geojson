@@ -1,8 +1,11 @@
 {
   "type": "FeatureCollection",
-  "title": "Untitled",
+  "title": "Ampsalis",
   "id": "860786",
-  "description": "An ancient place, cited: BAtlas 87 unlocated Ampsalis",
+  "description": "An ancient, unlocated city of Sarmatia mentioned by Ptolemy",
+  "connectsWith": [
+    "857246"
+  ],
   "names": [
     "Ampsalis"
   ],
@@ -12,17 +15,6 @@
       "geometry": null,
       "properties": {
         "description": "representative point"
-      }
-    },
-    {
-      "geometry": null,
-      "id": "batlas-location",
-      "type": "Feature",
-      "properties": {
-        "description": "Location is attested by BAtlas, but otherwise undetermined",
-        "location_precision": "unlocated",
-        "title": "Barrington Atlas location",
-        "link": "http://pleiades.stoa.org/places/860786/batlas-location"
       }
     }
   ]
