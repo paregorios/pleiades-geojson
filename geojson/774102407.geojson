@@ -9,6 +9,9 @@
     38.1232299
   ],
   "description": "A tumulus at Marathon associated with the Boeotian Plataeans. Marinatos identified the mound in 1970. It rises to a height of about 3 meters.",
+  "connectsWith": [
+    "580022"
+  ],
   "names": [
     "taphos Plataieusi"
   ],

@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theseion",
+  "id": "17374034",
+  "bbox": [
+    23.7281,
+    37.9733,
+    23.7281,
+    37.9733
+  ],
+  "description": "Now destroyed Tomb of Theseus at Athens. Described by Pausanias to have the bones of Theseus. Once thought to be the Hephaisteion temple.",
+  "connectsWith": [
+    "579885"
+  ],
+  "names": [
+    "Theseion"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7281,
+          37.9733
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7281,
+          37.9733
+        ]
+      },
+      "id": "topostext-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Topostext",
+        "location_precision": "precise",
+        "title": "ToposText Location",
+        "link": "http://pleiades.stoa.org/places/17374034/topostext-location"
+      }
+    }
+  ]
+}
