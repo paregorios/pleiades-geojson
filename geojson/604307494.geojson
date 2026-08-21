@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "title": "Farmhouse 151 in the chora of Chersonesos",
+  "id": "604307494",
+  "bbox": [
+    33.4673691,
+    44.5496246,
+    33.4677065,
+    44.5498623
+  ],
+  "description": "Site 151 is in the chora (agricultural territory) of the ancient Greek colony of Chersonesos. The farmhouse consists of a modest structure, a fortified tower, and a small household shrine. Modifications over time indicate changes in defensive concerns until its abandonment.",
+  "connectsWith": [
+    "226564"
+  ],
+  "names": [
+    "Farmstead 151",
+    "Farmhouse 151",
+    "Site 151"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4675491881,
+          44.5497529508
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4675972,
+            44.5498623
+          ],
+          [
+            33.4675557,
+            44.5498333
+          ],
+          [
+            33.4675222,
+            44.5498576
+          ],
+          [
+            33.4673691,
+            44.5497505
+          ],
+          [
+            33.4675424,
+            44.5496246
+          ],
+          [
+            33.4676907,
+            44.5497283
+          ],
+          [
+            33.4676602,
+            44.5497505
+          ],
+          [
+            33.4677065,
+            44.5497829
+          ],
+          [
+            33.4675972,
+            44.5498623
+          ]
+        ]
+      },
+      "id": "osm-location-of-chersonesos-farmhouse-151",
+      "type": "Feature",
+      "properties": {
+        "description": "Location derived from OpenStreetMap, based on Google Earth satellite imagery and plans in Carter 1995, and Carter 1996.",
+        "location_precision": "precise",
+        "title": "OSM Location of Chersonesos Farmhouse 151",
+        "link": "http://pleiades.stoa.org/places/604307494/osm-location-of-chersonesos-farmhouse-151"
+      }
+    }
+  ]
+}

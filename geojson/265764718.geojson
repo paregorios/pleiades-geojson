@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "title": "Kiln Quarter at Histria",
+  "id": "265764718",
+  "bbox": [
+    28.7623216,
+    44.5482466,
+    28.7635745,
+    44.5511168
+  ],
+  "description": "The kiln quarter of Histria featured multiple ceramic kilns, workspaces, and waste deposits organized in a distinct, non-residential zone. Stratified layers reveal repeated building and reuse, with broken kilns repurposed as floors or refuse pits. It is located on the western plateau of the settlement.",
+  "connectsWith": [
+    "216839"
+  ],
+  "names": [
+    "La Cuptoare",
+    "Kiln Quarter",
+    "Quartier de Céramistes",
+    "Section G",
+    "Secteur G",
+    "Sg"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7629154212,
+          44.549637594
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7624561,
+            44.5511168
+          ],
+          [
+            28.7623216,
+            44.5501735
+          ],
+          [
+            28.7623782,
+            44.5492908
+          ],
+          [
+            28.7624986,
+            44.5483374
+          ],
+          [
+            28.7634542,
+            44.5482466
+          ],
+          [
+            28.7635745,
+            44.5494572
+          ],
+          [
+            28.7634258,
+            44.5501786
+          ],
+          [
+            28.7631144,
+            44.5510512
+          ],
+          [
+            28.7624561,
+            44.5511168
+          ]
+        ]
+      },
+      "id": "osm-location-of-kiln-quarter",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap and derived from Google Earth satellite imagery and plans in Coja, Maria and Dupont, 1979.",
+        "location_precision": "precise",
+        "title": "OSM Location of Kiln Quarter",
+        "link": "http://pleiades.stoa.org/places/265764718/osm-location-of-kiln-quarter"
+      }
+    }
+  ]
+}

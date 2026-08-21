@@ -1,0 +1,68 @@
+{
+  "type": "FeatureCollection",
+  "title": "Temple of Aphrodite at Histria",
+  "id": "873624666",
+  "bbox": [
+    28.7749627,
+    44.5484759,
+    28.7751247,
+    44.5486272
+  ],
+  "description": "The Temple of Aphrodite at Histria is a Greek sanctuary located within the sacred precinct (temenos) of ancient Histria, a Milesian colony on the western Black Sea coast in modern Romania. It was dedicated to Aphrodite, and it formed part of the city’s organized religious landscape.",
+  "connectsWith": [
+    "216839"
+  ],
+  "names": [
+    "Templul Alb al Afroditei"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7750437,
+          44.54855155
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.7749627,
+            44.5486112
+          ],
+          [
+            28.7749957,
+            44.5484759
+          ],
+          [
+            28.7751247,
+            44.5484919
+          ],
+          [
+            28.7750917,
+            44.5486272
+          ],
+          [
+            28.7749627,
+            44.5486112
+          ]
+        ]
+      },
+      "id": "osm-location-of-temple-of-aphrodite-at-histria",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location of Temple of Aphrodite at Histria",
+        "link": "http://pleiades.stoa.org/places/873624666/osm-location-of-temple-of-aphrodite-at-histria"
+      }
+    }
+  ]
+}

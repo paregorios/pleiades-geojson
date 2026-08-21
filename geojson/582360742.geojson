@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "title": "Theater of Chersonesos",
+  "id": "582360742",
+  "bbox": [
+    33.491882,
+    44.6100592,
+    33.4924465,
+    44.6104544
+  ],
+  "description": "A Hellenistic theater located in the ancient Greek colony of Tauric Chersonesos. Built in the 4th or 3rd century BC, it remained in use through the Roman period. It is one of the few surviving examples of Greek theater architecture in the northern Black Sea region.",
+  "connectsWith": [
+    "226564"
+  ],
+  "names": [
+    "Theater of Chersonesos",
+    "Antichnyy teatr (Khersones)"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4921586932,
+          44.6102710304
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33.4920424,
+            44.6100733
+          ],
+          [
+            33.4919221,
+            44.6101487
+          ],
+          [
+            33.491882,
+            44.6102751
+          ],
+          [
+            33.4919622,
+            44.6103933
+          ],
+          [
+            33.4921168,
+            44.6104544
+          ],
+          [
+            33.49228,
+            44.6104402
+          ],
+          [
+            33.4923601,
+            44.6104137
+          ],
+          [
+            33.4924465,
+            44.6103816
+          ],
+          [
+            33.4923072,
+            44.6101168
+          ],
+          [
+            33.4922213,
+            44.6101283
+          ],
+          [
+            33.4921914,
+            44.6100975
+          ],
+          [
+            33.4921062,
+            44.6100592
+          ],
+          [
+            33.4920424,
+            44.6100733
+          ]
+        ]
+      },
+      "id": "osm-location-of-chersonesos-1",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location of Theater at Chersonesos",
+        "link": "http://pleiades.stoa.org/places/582360742/osm-location-of-chersonesos-1"
+      }
+    }
+  ]
+}

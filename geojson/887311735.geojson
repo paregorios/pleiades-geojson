@@ -1,0 +1,181 @@
+{
+  "type": "FeatureCollection",
+  "title": "Sanctuary of the Egyptian gods (Nea Makri)",
+  "id": "887311735",
+  "bbox": [
+    23.9789587,
+    38.1024338,
+    23.9799514,
+    38.1035701
+  ],
+  "description": "A sancutary located at what is now Nea Makri at the south of the Plain of Marathon, dedicated to Egyptian gods and likely dedicated by Herodes Atticus ca. 160 CE. The site also included an opulent bath complex.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9794305619,
+          38.1030234989
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9789923,
+            38.1034907
+          ],
+          [
+            23.9790595,
+            38.1034921
+          ],
+          [
+            23.9790613,
+            38.1035241
+          ],
+          [
+            23.979125,
+            38.1035255
+          ],
+          [
+            23.9791232,
+            38.1035701
+          ],
+          [
+            23.9791728,
+            38.1035701
+          ],
+          [
+            23.979171,
+            38.1035255
+          ],
+          [
+            23.9792418,
+            38.1035255
+          ],
+          [
+            23.9792418,
+            38.1034907
+          ],
+          [
+            23.979309,
+            38.1034921
+          ],
+          [
+            23.9793108,
+            38.1034629
+          ],
+          [
+            23.9793444,
+            38.1034615
+          ],
+          [
+            23.9793533,
+            38.1032916
+          ],
+          [
+            23.9793108,
+            38.103290200000004
+          ],
+          [
+            23.9793144,
+            38.1032456
+          ],
+          [
+            23.9792507,
+            38.1032442
+          ],
+          [
+            23.9792524,
+            38.103215
+          ],
+          [
+            23.9790631,
+            38.1032136
+          ],
+          [
+            23.9790613,
+            38.103247
+          ],
+          [
+            23.9790118,
+            38.103247
+          ],
+          [
+            23.9790135,
+            38.1033041
+          ],
+          [
+            23.9789675,
+            38.1033027
+          ],
+          [
+            23.9789587,
+            38.1034392
+          ],
+          [
+            23.9789941,
+            38.1034406
+          ],
+          [
+            23.9789923,
+            38.1034907
+          ]
+        ]
+      },
+      "id": "osm-location-of-iiuii-iii1-2-ii1i3iiii-ii1-2",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Ιερό των Αιγυπτίων Θεών",
+        "link": "http://pleiades.stoa.org/places/887311735/osm-location-of-iiuii-iii1-2-ii1i3iiii-ii1-2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            23.9795143,
+            38.1027931
+          ],
+          [
+            23.9795426,
+            38.1025034
+          ],
+          [
+            23.9796948,
+            38.1024338
+          ],
+          [
+            23.9799514,
+            38.1028042
+          ],
+          [
+            23.9798541,
+            38.1028
+          ],
+          [
+            23.9795143,
+            38.1027931
+          ]
+        ]
+      },
+      "id": "osm-location-of-ii-i-i-i1-2iui1i",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of Βαλάνειο",
+        "link": "http://pleiades.stoa.org/places/887311735/osm-location-of-ii-i-i-i1-2iui1i"
+      }
+    }
+  ]
+}

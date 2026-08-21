@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "title": "Mint at Chersonesos",
+  "id": "465828943",
+  "bbox": [
+    33.4922319,
+    44.6108252,
+    33.4922319,
+    44.6108252
+  ],
+  "description": "This structure was interpreted as a Hellenistic coin production facility because of the 43 bronze flans (coin blanks) found there. The unusual concentration provides insight into local coin production and trade in this Black Sea colony.",
+  "connectsWith": [
+    "226564"
+  ],
+  "names": [
+    "Monetnyy dvor v Khersonese",
+    "Mint at Chersonesos"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4922319,
+          44.6108252
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.4922319,
+          44.6108252
+        ]
+      },
+      "id": "osm-location-of-mint",
+      "type": "Feature",
+      "properties": {
+        "description": "Location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM Location of Mint",
+        "link": "http://pleiades.stoa.org/places/465828943/osm-location-of-mint"
+      }
+    }
+  ]
+}
