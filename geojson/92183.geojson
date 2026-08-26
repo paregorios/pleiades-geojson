@@ -2,6 +2,12 @@
   "type": "FeatureCollection",
   "title": "Regia",
   "id": "92183",
+  "bbox": [
+    -6.69864,
+    54.347747,
+    -6.697705,
+    54.348258
+  ],
   "description": "An ancient place, cited: BAtlas 9 unlocated Regia",
   "connectsWith": [
     "89250"
@@ -12,7 +18,13 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": null,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.69817238064,
+          54.348008003
+        ]
+      },
       "properties": {
         "description": "representative point"
       }
