@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "title": "King's Stables",
+  "id": "686476673",
+  "bbox": [
+    -6.7110447,
+    54.3509148,
+    -6.7106209,
+    54.351157
+  ],
+  "description": "The King's Stables is an archaeological site located in County Armagh, Northern Ireland. In antiquity, this was an anthropic pool (25 meters in diameter) surrounded by an earthen berm. It dates ca. 1000 BCE and was a site of votive offerings, including weaponry and animal bones; a human cranium was also discovered.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.71082984173,
+          54.3510377388
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.7109607,
+            54.3511069
+          ],
+          [
+            -6.7110262,
+            54.3510758
+          ],
+          [
+            -6.7110447,
+            54.35104
+          ],
+          [
+            -6.7109587,
+            54.3509351
+          ],
+          [
+            -6.7108625,
+            54.3509148
+          ],
+          [
+            -6.7107744,
+            54.3509219
+          ],
+          [
+            -6.7106987,
+            54.3509398
+          ],
+          [
+            -6.7106393,
+            54.3509995
+          ],
+          [
+            -6.7106209,
+            54.3510568
+          ],
+          [
+            -6.7106618,
+            54.3511176
+          ],
+          [
+            -6.7107683,
+            54.3511558
+          ],
+          [
+            -6.7108502,
+            54.351157
+          ],
+          [
+            -6.7108993,
+            54.3511522
+          ],
+          [
+            -6.7109464,
+            54.3511367
+          ],
+          [
+            -6.7109607,
+            54.3511069
+          ]
+        ]
+      },
+      "id": "osm-location-of-the-kings-stables",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location based on OpenStreetMap",
+        "location_precision": "precise",
+        "title": "OSM location of The King's Stables",
+        "link": "http://pleiades.stoa.org/places/686476673/osm-location-of-the-kings-stables"
+      }
+    }
+  ]
+}

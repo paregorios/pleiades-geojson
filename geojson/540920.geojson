@@ -9,6 +9,9 @@
     38.8861434
   ],
   "description": "An excavated Early Christian site at Varka hamlet south of Loutra Ipatis, Phthiotida.",
+  "names": [
+    "Loutra Hypatis"
+  ],
   "features": [
     {
       "type": "Feature",

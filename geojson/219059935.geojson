@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "title": "Tomb of Orestes (Sparta)",
+  "id": "219059935",
+  "bbox": [
+    22.5,
+    37.001,
+    22.5,
+    37.001
+  ],
+  "description": "Tomb of Orestes described by Pausanias in the Agora of Sparta, near a Sanctuary of the Moirai. Supposedly housed the bones of Orestes.",
+  "connectsWith": [
+    "570685"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5,
+          37.001
+        ]
+      },
+      "properties": {
+        "description": "representative point"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5,
+          37.001
+        ]
+      },
+      "id": "wikidata-location",
+      "type": "Feature",
+      "properties": {
+        "description": "Representative location derived from Wikidata",
+        "location_precision": "precise",
+        "title": "Wikidata Location",
+        "link": "http://pleiades.stoa.org/places/219059935/wikidata-location"
+      }
+    }
+  ]
+}

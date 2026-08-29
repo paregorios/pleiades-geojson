@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "title": "House M7-A",
+  "id": "937318869",
+  "description": "Private house located in Block M7 of Dura-Europos.",
+  "connectsWith": [
+    "451190386",
+    "893990"
+  ],
+  "names": [
+    "House southeast of the Palmyrene Gate"
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

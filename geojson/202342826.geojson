@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "title": "Perorsi",
+  "id": "202342826",
+  "description": "Ancient population on the Atlantic coast of Africa, mentioned by Pliny and located in the vicinity of the River Salsum.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": null,
+      "properties": {
+        "description": "representative point"
+      }
+    }
+  ]
+}

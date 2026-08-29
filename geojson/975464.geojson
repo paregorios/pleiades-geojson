@@ -9,6 +9,9 @@
     37.0247563
   ],
   "description": "An ancient settlement, mentioned by both Strabo and Ptolemy. While its modern location is uncertain, it may correspond to a fortified settlement in northern Afghanistan known today as Dilbarjin (thus Bernard in EncIran). Hiebert and Kohl (BAtlas) offered only the suggestion that it might have been located somewhere in the territory of modern Uzbekistan.",
+  "connectsWith": [
+    "961901"
+  ],
   "names": [
     "Eukratidia",
     "Eukratideia"
