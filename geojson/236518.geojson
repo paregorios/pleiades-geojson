@@ -5,8 +5,8 @@
   "bbox": [
     -8.837446,
     41.6820498,
-    -7.6224673,
-    42.0779933
+    -7.5682358,
+    42.1204159
   ],
   "description": "An ancient place, cited: BAtlas 24 C3 Limia fl.",
   "connectsWith": [
@@ -21,8 +21,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -8.22073688923,
-          41.8842380187
+          -8.18187466256,
+          41.8972486574
         ]
       },
       "properties": {
