@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "title": "Belounoi?",
+  "title": "Belounoi",
   "id": "383585",
   "bbox": [
     10.8189676707,
@@ -8,7 +8,7 @@
     10.9129563805,
     45.9678331282
   ],
-  "description": "An ancient place, cited: BAtlas 39 H2 Belounoi?",
+  "description": "An ancient people mentioned by Ptolemy. They are possibly to have been located to the east of modern lake Garda.",
   "connectsWith": [
     "383587"
   ],
